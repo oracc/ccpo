@@ -1,0 +1,206 @@
+&P461117 = CCP 3.1.u7 (http://ccp.yale.edu/P461117) = BM 30336
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+@column 1
+
+1'. !zz [...] x#
+#lem: u; u
+
+2'. !zz [...] x# :# x# :
+#lem: u; u; u
+
+3'. !zz [...] x# pa-a-šu₂ :
+#lem: u; u; pâšu[mouth]N
+
+4'. !zz [...] x# x# [x] x# : ABSIN? SI :
+#lem: u; u; u; u; u; Šerʾu[Furrow]CN; qaran[horn]N
+
+5'. !zz [...] x# a-ha-a-a : LU₂ DUMU LU₂ KASKAL DU HUL₂ LU₂?
+#lem: u; u; ahaya[arm]N; amēlu[man]N; māru[son]N; amēli[man]N; harrāna[path]N; illik[go]V; hidûtu[joy]N; amēli[man]N
+
+6'. [...] !bs GU₄# !cm : e₂#-sag-gil₂ :
+#lem: u; alpi[ox]N; +Esagil[]TN$
+
+#note: The @akk{LAGAB} sign is written without the top horizontal, which is “suggestive of a date of writing somewhere in the twilight of cuneiform” (George & Frame @i{Iraq} 67 (2005) p. 266) [EJ].
+7'. !zz [...] KI# : !bs BAR/ŠU₂ !cm : HUL !zz :
+#lem: u; qaqqar[district]N; X; lumun[evil]N
+#note: The sign read as @akk{BAR} can also be @akk{ŠÚ}.
+8'. !zz [...] : SIG# NIM GAL₂ :
+#lem: u; ēdâ[prominent]AJ; harpu[early]AJ; ibašši[being (at hand)]'N
+
+9'. !zz [...]-nu :# i-ger-ri LA₂{+ṭi} :
+#lem: u; +gerû[be hostile to]V$igerri; imaṭṭi[decrease]V
+
+@column 2
+
+1'. !bs [x] x# !cm :# {lu₂#}KUR₂# :# !bs 3.20# !cm LUGAL !zz : x# x# [x x x x x x x x x]
+#lem: u; u; nakri[enemy]N; šarru[king]N; šarru[king]N; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !bs GAZ !cm he-pu-u₂ : na-qa-ri : !bs 4.10 : !cm su-x#-[x !zz x x x x]
+#lem: +hepû[break//breaking]V'N$; hepû[breaking]'N; naqāri[demolishing]'N; n; u; u; u; u; u
+
+3'. !bs AGAR₅(|IM%IM|) !cm : ra-a-du : !bs kal-kal-tu₂ !cm : ṣu-ma-mit !zz : x# [x x x x]
+#lem: +rādu[rainstorm]N$; rādu[rainstorm]N; +kakkaltu[an irrigation device]N$; +ṣumāmītu[(severe) thirst]N$ṣumāmīt; u; u; u; u; u
+
+4'. !bs 20 2 !cm : LUGAL URI{ki} : !bs 13 20 10 !cm : {lu₂}KUR₂-šu₂ : !bs KI SA₂.SA₂ !cm :# x# [x x x]
+#lem: +šarru[king]N$šar; +Akkad[]SN; +šarru[king]N$šar; Akkad[1]SN; +awīlu[man]N$amēlu; +nakru[enemy]N$; +šū[he]IP$; nakrišu[enemy]N; qaqqar[district]N; šanānu[equaling]'N; u; u; u; u
+
+5'. !cm NIG₂.ZI KUR₂ NU GAL₂-MEŠ{+šu₂} : !bs ša₂ {giš}BAN ina ERIN₂{+SIG₅}-MU DU-MEŠ !bs : ša₂ {giš}BAN# [x (x x x x)]
+#lem: u; nakri[enemy]N; lā[not]MOD; +bašû[be (at hand)]V$ibaššû; ša[of]DET; +qaštu[bow]N$qašti; ina[in]PRP; +ummānu[army]N$ummānīya; illakū[flow]V; ša[of]DET; qašti[bow]N; u; u; u; u; u
+
+#note: The small gloss above @akk{ina ERIN₂} is apparently @akk{SIG₅}. The apodosis is common in extispicy texts: @akk{šá GEŠTU-MIN ina ŠA₃ ERIN₂-MU DU-MEŠ}, “a @i{spy} will infiltrate my army” (e.g. Koch @i{Babylonian Liver Omens} [2000] pp. 188 l. 7, 241 l. 77, 317 l. 11 [@akk{šá EME}]) [EJ].
+6'. !bs 2 !cm : dan-nu : !bs KUR.KUR AL.KIN{+ar₂} !cm : KUR.KUR u₂-ma-ʾ-ar₂ : EN.EL?#
+#lem: n; dannu[strong]AJ; +mātu[land]N$mātāti; +âru[go (up to)//instruct]V'V$umaʾʾar; mātāti[land]N; +âru[go (up to)//instruct]V'V$umaʾʾar; X
+
+7'. !cm a-la-lu-u₂ : {lu₂}KUR₂ 10 !bs 20 20 KUR !cm : LUGAL LUGAL KUR{+ad₂} : !bs 11 11 RA !zz :
+#lem: alalû[drain]N; nakri[enemy]N; +mâtu[die]V$imât; +šarru[king]N$; +šarru[king]N$šarra; +kašādu[reach]V$ikaššad; šarru[king]N; +šarru[king]N$šarra; +kašādu[reach]V$ikaššad; +awīlu[man]N$amēlu; +awīlu[man]N$amēla; +dâku[kill]V$idâk
+
+#note: The equation @akk{EN.EL?#} = @i{alallû} is not atteted elsewhere [EJ], but @akk{EL} = @i{alālu} is known from elsewhere: see Civil @i{AOAT} 25 (@i{Fs Kramer}, 1976) p. 90 and Livingstone @i{ZA} 70 (1981) p. 56 [LEP].
+8'. !cm LU₂ LU₂ i-da-ak : !bs SUD-MEŠ {giš}MA₂-MEŠ 3.3-LA₂.GIŠ 10 !cm {lu₂}MA₂.LAH₄-MEŠ-ši-na
+#lem: amēlu[man]N; amēla[man]N; +dâku[kill]V$idâk; +ṭebû[sink//sinking]V'N$; +eleppu[ship]N$eleppāti; +malāhu[sailor]N$malāhšina; +imât[die]V; +malāhu[sailor]N$malāhšina
+#note: The number 10 after @akk{3.3-LA₂.GIŠ} might be a mistake for a colon.
+
+9'. !bs 3.3 !cm : {lu₂}MA₂.LAH₄ : !bs LA₂.GIŠ !cm : ši-na : !bs ina KUR.RE ka-ma/ba-šu₂ GAL₂{+ši}
+#lem: +malāhu[sailor]N$; +malāhu[sailor]N$; +šina[they]IP$; +šina[they]IP$; ina[in]PRP; +mātu[land]N$māti; X; +bašû[be (at hand)]V$ibašši
+
+10'. !cm GIG : ka-ma/ba-šu₂ : mur-ṣu : !bs 3.20 27 10 !cm : LUGAL MAR BA.UG₆
+#lem: marṣu[patient]N; X; murṣu[illness]N; šarru[king]N; +Amurru[]SN$; imât[die]V; šar[king]N; +Amurru[]SN$; +mâtu[die]V$imât
+
+@reverse
+
+@column 3
+
+1. !bs 3.20 !cm LUGAL : !bs 27 !cm : MAR : !bs 10 !cm : mu-tu : !bs SI-šu₂ RU !cm : ša₂-ru-ur-šu₂ GE₆{+ma}
+#lem: šarru[king]N; šarru[king]N; Amurru[]SN; Amurru[]SN; +mūtu[death]N$; mūtu[death]N; +šarūru[brilliance]N$šarūršu; +ṣalmu[black]AJ$ṣalma; +šarūru[brilliance]N$šarūršu; +ṣalmu[black]AJ$ṣalma
+
+2. !bs URIN{+in} !cm : saq-lu/qi : !bs MEŠ !cm : ma-a-du : !bs E₂ PEŠ.PEŠ : !cm E₂-MU? i-rap-piš
+#lem: X; X; +mâdu[be(come) numerous//be(com)ing numerous]V'N$; mâdu[be(com)ing numerous]'N; bītu[house]N; +rapāšu[be(come) broad]V$irappiš; +bītu[house]N$bītī; +rapāšu[be(come) broad]V$irappiš
+
+3. !bs PEŠ !cm : ra-pa-šu₂ : !bs LA₂.GIR₃ !cm : bu-li₃ : !bs PEŠ !cm : ra-pa-šu₂ : !bs IDIM !cm : nag-bi
+#lem: +rapāšu[be(come) broad//be(com)ing broad]V'N$; +rapāšu[be(come) broad//be(com)ing broad]V'N$; +būlu[animals]N$; +būlu[animals]N$būli; rapāšu[be(com)ing broad]'N; rapāšu[be(com)ing broad]'N; +nagbu[underground water]N$; +nagbu[underground water]N$nagbi
+
+#note: It is uncertain whether @akk{LÁ GÌR : bu-lim} belongs to the previous explanation or to a new entry.
+4. !bs MEŠ !cm : ma-a-du : !bs ina {d}UTU.E₃.A !cm : U₄{+ma} ina MAŠ₂ GUB-ma !zz : ana# GAG#.SI?#.[SA₂]
+#lem: mâdu[be(com)ing numerous]'N; mâdu[be(com)ing numerous]'N; ina[at]PRP; ṣīt[exit]N&X[sun]N; enūma[when]SBJ; ina[in]PRP; +Suhurmāšu[Capricorn]CN$; izzazma[stand]V; ana[according to]PRP; +Šukudu[Sirius]CN$
+
+5. !bs ŠID !cm ma-diš !zz ka-la-mu tu-ṭa-ab : ta-al-x# x# [x x x x]
+#lem: +mādiš[greatly]AV$; mādiš[greatly]AV; kalāmu[everything]N; +ṭiābu[be(come) good]V$tuṭāb; u; u; u; u; u; u
+
+6. !cm ŠUB{+ut} KI.LAM : !bs LA₂.GIR₃ !cm : bu-li₃ !zz : u₂-x# [x x x x x]
+#lem: imqut[fall]V; mahīra[exchange rate]N; būlu[animals]N; būli[animals]N; u; u; u; u; u; u
+
+7. !bs zu-hur-re-e UZ₃ GAL₂{+ši} !zz [x x x x x x x]
+#lem: +ṣuhurrû[reduction]N$zuhurrê; +nammaštû[moving things]N$nammaštê; ibašši[exist]V; u; u; u; u; u; u; u
+
+#note: The sign @akk{E} is erased after @akk{su-hur-re-e}. Compare the prognosis @akk{su/zu/ṣu-hur-re-(e) UN-MEŠ GÁL/GAR} in @i{ACh Sîn} 25 l. 8 and 65, in Borger @i{Fs Böhl} (1973) p. 42 @i{ad} l. 20 and Rochberg @i{AfO Beih} 22 (1988) p. 125 D ii 4 and 126 D ii 11 [LEP]. @akk{ÙZ} must therefore be a writing for @i{nišū}, elsewhere unattested, but compare @akk{ùz.LU} = @i{nammaštu} (see George & Taniguchi @i{Iraq} 95 [2010] p. 95).
+8. !cm ina la E₂-MU : !bs ni-sa-a-tu₂# !zz [...]
+#lem: ina[at]PRP; lā[not]MOD; +bītu[house]N$bītīya; +nissatu[wailing]N$; u
+
+9. !bs 10 !cm : nak-ri !zz : x# [x x x x x x x x x x]
+#lem: +nakru[enemy]N$; nakri[enemy]N; u; u; u; u; u; u; u; u; u; u; u
+
+10. !bs LA₂.GIR₃ !cm : bu#-li₃# !zz [...]
+#lem: būlu[animals]N; būli[animals]N; u
+
+11. !zz 35 x# [x x x x x x x x x x x x x x]
+#lem: n; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+@column 4
+
+1. !zz [...] x# : !cm DINGIR GUR₄-ma : 17 DINGIR KUR <<:>> GUR₄
+#lem: u; u; +Ṣalbatānu[planet Mars]CN$; +baʾālu[be dominant]V$ibaʾʾil-ma; n; Ṣalbatānu[planet Mars]CN; +napāhu[blow]V$inappah; +baʾālu[be dominant]V$ibaʾʾil
+
+2. !zz [...] :# !bs ID₂ HAD₂.A !cm : GU₄.UD ina {mul₂}GIR₂.TAB <<:>> TUR-ma
+#lem: u; nāru[watercourse]N; +abālu[dry (up)]V$ibbal; +Šehṭu[Mercury]CN$; ina[in]PRP; Zuqaqipu[Scorpion]CN; +ṣehēru[be(come) small]V$iṣehhir-ma
+
+3. !zz [...] !bs GAL₂# !cm : GENNA ina HUN IGI-ma GUR₄
+#lem: u; ibašši[being (at hand)]'N; Kayyamanu[Saturn]CN; ina[in]PRP; Agru[Hireling]CN; īmurma[see]V; +baʾālu[be dominant]V$ibaʾʾil
+
+4. !zz [...] !bs AN#.GE₆ GAR{+an} !cm : dil-bat ina MAŠ₂ TUR : <<DIŠ>>
+#lem: u; attallû[eclipse]N; iššakkan[take place]V; +Dilbat[Venus]CN$; ina[in]PRP; Suhurmāšu[Capricorn]CN; +ṣehēru[be(come) small]V$iṣehhir
+
+#note: There is an erasure after @akk{TUR}.
+5. !zz [...] !cm GU₄.UD KI-šu₂ GUB-ma
+#lem: u; Šehṭu[Mercury]CN; ittišu[with]PRP; izzazma[stand out]V
+
+6. !zz [...] !bs AN#.GE₆ GAR{+an} !cm : {mul₂}BABBAR ina KUŠU₂ TUR
+#lem: u; attallû[eclipse]N; iššakkan[take place]V; Peṣu[White Star]CN; ina[in]PRP; +Alluttu[Cancer]CN$; iṣehher[be(come) small]V
+
+7. !zz [... !cm KI]-šu₂ GUB-ma
+#lem: u; ittišu[with]PRP; izzazma[stand out]V
+
+8. !zz [...] x# 28 20 KANA₅(|KA!×MI|)-ma
+#lem: u; u; n; Šamaš[1]DN; +adāru[be dark]V$īdur-ma
+
+9. !zz [...] x# 30 KANA₅(|KA×MI|){+iš} IGI-ma
+#lem: u; u; Sin[1]DN; +adriš[dimly]N$; īmurma[see]V
+
+10. !zz [...] x# $MAR# u# x#
+#lem: u; u; u; u[and]CNJ; u
+
+@translation parallel en project
+
+
+@obverse
+
+@column 1
+
+1'. [...] ...
+2'. [...] ...
+3'. [...] ... “his mouth”
+4'. [...] ... @i{Virgo} will ...
+5'. [...] @i{my arms} — “a man, the son of a man, @i{will go on a journey} — @i{happiness of the man}.”
+6'. [...](-)@i{gu}₄ means “Esagil.”
+7'. [...] ... @i{bar}/@i{šú} (means) “evil,”
+8'. [...] ... there will be @i{decreasing or increasing}.
+9'. [...] ... @i{if it start a fight}, it will diminish.
+
+@column 2
+
+1'. [...] means “enemy.” “3.20” means “king” ... [...]
+2'. “@i{gaz}” (means) “to break,” (i.e.,) “to demolish.” “4,10” means ... [...]
+3'. @i{agar}₅ means “downpour.” “Hunger” means “thirst” ... [...]
+4'. “20 2” means “king of Akkad.” “13 20 10” means “his enemy.” @i{ki sá.sá} means ... [...]
+5'. “There will be no @i{attacks} of the enemy.” “Those of the bow (i.e., archers) will march in the middle of the army” means “those of the bow ... [...]”
+6'. “2” means “strong.” @i{kurkur alkin} means “he will control the lands.” “@i{en.el}”
+7'. “drain.” @i{The enemy will die}. “20 20 @i{kur}” means “one king will conquer another king.” “11 11 @i{ra}” means
+8'. “one man will kill another man.” “Sinking of ships, 3.3-@i{lá.giš} @i{will die} (10)” (means) “their sailors,”
+9'. (since) “3.3” means “sailor” and @i{lá.giš} means “their (fem.).” “There will be @i{ka-ma}/@i{ba-šú}-disease in the lands” —
+10'. @i{gig} means @i{ka-ma}/@i{ba-šú}, (i.e.,) “disease.” “3,20 27 10” means “the king of Amurru will die,”
+
+@reverse
+
+@column 3
+
+1. (since) “3,20” (means) “king,” 27 means “Amurru,” (and) 10 means “death.” “@i{si-šú šub} means “its brilliance is black.”
+2. @i{urin} means @i{saqqu}. “@i{meš}” means “much.” “@i{é peš.peš}” means “my house will expand,”
+3. (since) “@i{peš}” means “to expand.” “@i{lá.gìr}” means “livestock.” “@i{peš}” means “to expand.” “@i{idim}” means “depth.”
+4. “@i{meš}” means “much.” “At sunrise” means “when (the sun) stands in Capricorn” ...
+5. “@i{šid}” means “greatly.”  @i{You will improve everything} ... [...]
+6. “@i{Fall} of the market.” “@i{lá.gìr}” means “livestock.” ... [...]
+7. ”There will be a reduction of the population” [... means]
+8. “In a house that is not mine.” “Grie[f” means ...]
+9. “10” means “enemy.” ... [...]
+10. “@i{lá.gìr}” means “livestock.” [...]
+11. 35 ... [...]
+
+@column 4
+
+1. [...] ... the god (i.e., Mars?) is exceptionally bright — 17 the god (i.e., Mars?) rises (and) is exceptionally bright.
+2. [...] “the river will dry up” — Mercury decreases in Scorpio.
+3. [...] “there will be [...]” — Saturn appears in Aries and is exceptionally bright.
+4. [...] “there will be an eclipse” — Venus decreases in Capricorn.
+5. [...] Mercury stands with it.
+6. [...] “there will be an eclipse” — Jupiter decreases in Cancer.
+7. [...] stands [with] it.
+8. [...] 28, the sun gets dark and
+9. [...] the moon appears in darkness,
+10. [...] ...

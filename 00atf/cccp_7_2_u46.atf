@@ -1,0 +1,38 @@
+&P461199 = CCP 4.1.4.C.b (http://ccp.yale.edu/P461199) = BM 41252
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...] !cm : ṣa-la-mu : !bs UŠ !zz : x [...]
+#lem: u; +ṣalāmu[be(come) black//be(com)ing black]V'N$; u; u; u
+
+3'. !zz [...] : !bs DU !cm : ri-du-tu₂# !zz [...]
+#lem: u; +ridûtu[appropriation]N$; +ridûtu[appropriation]N$; u
+
+#note: DU = @i{ridûtu} is apparently elsewhere unattested, but compare @i{CAD} R 325a DU₆ = @i{ridûtu} and LAḪ₄ = @i{ridûtu}.
+4'. !zz [...]-MEŠ#-šu₂ !cm kit-tab-ri u₂-ba-na-tu# !zz [...]
+#lem: u; kittabri[(synonym for arm)]N; +ubānu[finger]N$ubānātu; u
+
+5'. !zz [...] !cm ša₂#-niš# ša₂ bi-rit a-ha-meš !zz x#-[...]
+#lem: u; šanîš[alternatively]AV; ša[of]DET; birīt[space between]N; ahāmeš[one another]AV; u
+
+6'. !zz [... : !bs ŠU₂] !cm : a-ra-pu : ŠU₂ : ka-ta#-[mu !zz ...]
+#lem: u; +erēpu[cloud over//clouding over]V'N$; +erēpu[cloud over//clouding over]V'N$arāpu; +katāmu[cover//covering]V'N$; +katāmu[cover//covering]V'N$; u
+
+7'. !zz [... x]-x# i-na-ap-pa#-[hu? ...]
+#lem: u; u; +napāhu[blow]V$inappahu; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] means "to be black;" UŠ means [...],
+3'. [...] DU means "inheritance;" [...],
+4'. [...] his [...]s, arms, toes, [...],
+5'. [...] alternatively, (it refers to the man/animal) who in the middle of each other [...].
+6'. [... ŠÚ] means "to be clouded," ŠÚ (also) means "to cov[er;" ...]
+7'. [...] @i{they light up} [...].

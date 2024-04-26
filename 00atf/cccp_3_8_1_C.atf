@@ -1,0 +1,34 @@
+&P293114 = CCP 3.8.1.C (http://ccp.yale.edu/P293114) = NBC 6197
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs * ina {iti}DU₆# a-ʾa₄-ku₆-ku₆-tu₄ KUR#
+
+#lem: ina[in]PRP; Tašritu[1]MN; +akukūtu[firebrand]N$; +napāhu[blow//light up]V'V$innappahū
+
+2. !bs {+ti₃*}ŠUB {+ni}ERIN₂ <<:>> {+ši}GAL₂
+#lem: +miqtu[fall]N$miqti; +ummānu[army]N$ummāni; +bašû[be (at hand)//exist]V'V$ibašši
+
+3. !cm a-ʾa₄-ku₆-ku₆-tu₄ ša₂ iq-bu-u₂
+#lem: akukūtu[firebrand]N; ša[which]REL; iqbû[say]V
+
+4. !cm MIN#<(a-ʾa₄-ku₆-ku₆-tu₄)> IZI ša₂ ina {+e}AN
+#lem: akukūtu[firebrand]N; išātu[fire]N; ša[that]REL; ina[in]PRP; +šamû[sky]N$šamê
+
+#note: The commentary K.50 r 10'-11' (= @i{CCP} 3.2.6.B.a) also explains @i{akukūtu} as "fire from the sky" with a complex notariqon explanation.
+
+5. !cm hu#-pa-nap-in
+#lem: +napāhu[blow//light up]V'V$innappahū
+
+$ reverse blank
+
+@translation labeled en project
+
+@label o 1 - o 5
+
+“If in the month of Tašrītu an @i{akukūtu} flares up, the army will suffer a defeat” (= @i{Iqqur īpuš} §87 7); what it says, @i{akukūtu}, (means) “a fire which flares up in the sky.”

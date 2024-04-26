@@ -1,0 +1,88 @@
+&P412241 = CCP 4.2.X (http://ccp.yale.edu/P412241) = MMA 86.11.287E
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz [... !bs an?-dah?]-ši !cm : an-da#-[ah?-šu₂? !zz ...]
+#lem: u; +andahšu[(an alliaceous plant)]N$andahši; +andahšu[(an alliaceous plant)]N$; u
+
+2. !zz [...] ša₂# ZIMBIR{ki#} [...]
+#lem: u; ša[who]REL; Sippar[1]SN; u
+
+3. !zz [... !bs {d}]ALAD# ša-ne₂-e {d#}EN?#.[LIL₂? !zz ...]
+#lem: u; šēdi[protective deity]N; šanê[strange one]N; Ellil[1]DN; u
+
+4. !zz [...] x# x# : !bs {mul}ELLAG₂ !cm [: ka-li-tu₂ !zz ...]
+#lem: u; u; u; +Kalitu[Kidney]CN$; +kalītu[kidney]N$; u
+
+#note: The gloss on @akk{{mul}ELLAG₂} is restored after @i{SpTU} 1 54 11' (@i{CCP} 4.2.J).
+
+#NV changed {mul}BIR to {mul}ELLAG₂ (in accordance with cams/gkab). Lemmatized as CN (Celestial Name) and thus capital K and no lengthening. The second kalītu is interpreted here as "kidney" but might also be lemmatized as Kalitu[Kidney]CN
+
+5. !zz [...] x# ṣu-ra-ru ša₂ x# [...]
+#lem: u; u; +ṣurārû[lizard]N$; ša[of]DET; u; u
+
+6. !zz [...] x# : !bs sa-a-hu !zz [...]
+#lem: u; u; +sahhu[swelling]N$sāhu; u
+
+7. !zz [...] : !bs MUN eme-sal#-[lim !zz ...]
+#lem: u; ṭabat[salt]N; +mēsallu[(desig. of salt)]N$emesalli; u
+
+8. !zz [...] !cm KUR#{+u₂} : !bs SU-šu₂ !zz ni-[...]
+#lem: u; šadû[mountain]N; zumuršu[body]N; u
+
+9. !zz [...] !bs hu#-un-ṭu !zz : šu?#-[...]
+#lem: u; +humṭu[heat]N$hunṭu; u
+
+10. !zz [...]-ši?# : an-x# [...]
+#lem: u; u; u
+
+11. !zz [...] x# NU GAG-x# [...]
+#lem: u; u; ul[not]MOD; u; u
+
+12. !zz [...] x# : an-x# [...]
+#lem: u; u; u; u
+
+13. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+@reverse
+
+1'. !zz [... {m}{d}UD.UD.UD.UD.UD.UD.UD.UD.UD-DIN-su-E A ša₂ {m}{d}AMAR].UTU#-NUMUN#-[DU₃ A {m}{d}e₄-gi₇-ba-ti-la SAR-ma ib-ri]
+#lem: u; Nabu-balassu-iqbi[]PN; apli[son]N; ša[of]DET; Marduk-zera-ibni[]PN$; aplu[son]N$apal; Egibatila[]PN$; šaṭāru[write]V$išṭurma; barû[see]V$ibri
+
+2'. ($___$) !zz [pa-lih] {d}UD.[UD.UD.UD.UD.UD.UD.UD.UD]
+#lem: pālih[reverent one]N; Nabû[]DN
+
+3'. ($___$) !zz [ma-diš] ma?#-diš [li₆-ṣur li₆-ša₂-qir]
+#lem: mādiš[greatly]AV; mādiš[greatly]AV; naṣāru[guard]V$liṣṣur; waqāru[be(come) rare//respect]V'V$lišāqer
+
+#note: Colophon restored after Frahm @i{GMTR} 5 (2011) p. 240 fn. 114.
+
+@translation parallel en project
+
+@obverse
+
+1. [...] @i{andaḫšu} is the @i{andaḫšu-plant} [...]
+2. [...] of Sippar [...]
+3. [...] the spirit deputy of @i{Enlil} [...]
+4. [...] ... is the 'Kidney'-constellation, [@i{which means kidney} ...]
+5. [...] lizard that [...]
+6. [...] the @i{sāḫu}-disease [...]
+7. [...] @i{emesallu}-salt [...]
+8. [...] @i{mountain}. His body [...]
+9. [...] fever [...]
+10. ...
+11. ...
+12. ...
+13. ...
+
+@reverse
+
+1'. [Nabû-balāssu-iqbi, son of] @i{Marduk-zēra}-[ibni, descendant of Egibatila, wrote it and collated it.]
+2'. [The reverer of] @i{Nabû}
+3'. [should] very [much protect the tablet and respect it.]

@@ -1,0 +1,258 @@
+&P238552 = CCP 3.1.5.B (http://ccp.yale.edu/P238552) = K.5790
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1'. !zz [...] x# x# x#
+#lem: u; u; u; u
+
+2'. !bs [...] GIM* GAR U₄.3.KAM₂ BA x#
+#lem: u; kīma[according to]PRP; šakin[displayed]AJ; X; u; u
+
+#tr.en: […] as it was placed on the third day …
+#note: The sign sequence GIM GAR is also attested (in a fragmentary context) in an astrological report, SAA 8 94 l. 2'. Alternatively, the first two signs could be read @akk{BAN* A}.
+3'. !zz [...] x# SAG*
+#lem: u; u; rēšu[head]N
+
+#tr.en: […] …
+4'. !bs [...]-ma?# {d}UDU.IDIM.SAG.UŠ x#
+#lem: u; Kayyamanu[Saturn]'DN; u
+
+#tr.en: […] … Saturn …
+5'. !zz [...] la# kit-tu₄
+#lem: u; lā[not]MOD; kittu[truth]N
+
+#tr.en: […] false
+#note: This line was inadvertently omitted by Verderame in his transliteration and translation. The reading given here assumes a parallel with source q of @i{EAE} 5, ll. 24'-25' (Verderame 2002 p.157).
+6'. !bs [... {d}UDU.IDIM].SAG#.UŠ ana ŠA₃-šu₂ KU₄-ma
+#lem: u; Kayyamanu[Saturn]'DN; ana[into]PRP; libbišu[interior]N; īrubma[enter]V
+
+#tr.en: [… Sa]turn will enter it.
+#note: @i{ana} is written over an erasure of ŠA₃.
+7'. !bs [...] TUR₃ NIGIN-ma
+#lem: u; tarbaṣa[lunar halo]N; lamima[surrounded]AJ
+
+#tr.en: […] it is surrounded by a halo and
+8'. !zz [... GIM? ... ta?]-har#-ra-aṣ
+#lem: u; kīma[according to]PRP; u; taharraṣ[break off]V
+
+#tr.en: [… @i{you}] @i{treat} (@i{it}) [@i{as} …]
+#note: The restoration is based on the possible parallel in another commentary on lunar omens, @i{CCP} 3.2.u1.A.b o 6' (edited by Z. Wainer).
+9'. !zz [...] x# MUL KI-šu₂ GUB-ma
+#lem: u; u; kakkabu[star]N; ittišu[with]PRP; izzazma[stand out]V
+
+#tr.en: […] … will stand with it.
+#note: While the traces of the sign before MUL seem consistent with a Glossenkeil, the commentary seems to use indentation rather than colas to mark explanations.
+10'. !zz [...] {d#}30 KUR₂ i-mah-ha-aṣ
+#lem: u; Sin[1]DN; nakri[enemy]N; +mahāṣu[beat]V$imahhaṣ
+
+#tr.en: […] Sîn will strike the enemy.
+#note: This phrase is attested as part of the apodosis of an omen in @i{EAE} 3 source c r 11' and the astrological report @i{SAA} 8 258 r 2.
+11'. !bs [...] x#{ki} DIB
+#lem: u; u; +etēqu[go past]V$ittiq
+
+#tr.en: […] passed by.
+12'. !bs [...] {d}ṣal-bat-a-nu KI-šu₂ GUB-ma
+#lem: u; Ṣalbatanu[Mars]CN; ittišu[with]PRP; izzazma[stand out]V
+
+#tr.en: […] Mars will stand with it.
+13'. !zz [...] AN.GE₆ qab-li-ti
+#lem: u; attallû[eclipse]N; qablīti[middle watch]N
+
+#tr.en: […] an eclipse during the middle watch.
+#note: The phrase @akk{AN.GE₆} (construct state) + “x-watch” (genitive) appears to be otherwise attested only in an omen text from Old Babylonian Larsa (MAH 15784 ll. 3, 6 and 9, cited CAD 508a).
+14'. !bs [...] UŠ₂#-MEŠ GAR-MEŠ {d}dil-bat KI-šu₂ GUB-ma
+#lem: u; mūtū[death]N; ittanaškan[put]V; Dilbat[Venus]CN; ittišu[with]PRP; izzazma[stand out]V
+
+#tr.en: […] there will be an epidemic. Venus will stand with it.
+#note: The restoration is based on the appearance of @akk{UŠ₂-MEŠ GAR-MEŠ} in apodoses of omens in @i{EAE} 6 (Verderame 2002 pp. 170, 172 and 177) and @i{EAE} 20 (Rochberg p. 219, source Z r 11').
+15'. !bs [...] {d}UDU.IDIM.SAG.UŠ KI-šu₂ GUB-ma
+#lem: u; Kayyamanu[Saturn]'DN; ittišu[with]PRP; izzazma[stand out]V
+
+#tr.en: […] Saturn will stand with it.
+16'. !bs [...] x# SAG E₃#-ma gab-bi-šu₂ a-rim
+#lem: u; u; rēšu[head]N; uṣṣima[leave]V; gabbišu[all]N; arim[covered]AJ
+
+#tr.en: […] … rises, it (the moon) is obscured completely (lit. “its entirety”) (viz. by the eclipse).
+#note: The phrase @i{gabbīšu arāmu} occurs in other @i{EAE} omens in similarly broken contexts (see the attestations cited by Verderame 2002 p. 106 n. 327). 
+17'. !bs [...] BIR !cm aš₂-šu₂# AN.GE₆
+#lem: u; kalītu[kidney]N; aššu[because of]'PRP; attallê[eclipse]N
+
+#tr.en: [… “…] is scattered” – (it is said) on account of an eclipse.
+18'. !bs [... nam]-ra#-at u GE₆{+at} !cm aš₂-šu₂# AN.GE₆
+#lem: u; +nawru[bright]AJ$namrat; u[and]CNJ; ṣalmat[dark]AJ; aššu[because of]'PRP; attallê[eclipse]N
+
+#tr.en: [… ] “it (a horn) is [shi]ning and black” – (it is said) on account of an eclipse.
+#note: The restoration, which follows Verderame 2002 p. 150, is supported by the occurrence of the phrase @i{namrat u ṣalmat} in reference to the horn of the moon in source i of @i{EAE} 5, ll. 28'-29' (Verderame 2002 pp. 138-143).
+19'. !cm [...] x# e-di-ih?*# ina IGI.LA₂-šu₂ MUL ina UGU SI ZAG-šu₂ GUB-ma
+#lem: u; u; edih[spotted with]AJ; ina[at]PRP; tāmartišu[appearance]N; kakkabu[star]N; ina[in]PRP; muhhi[account]N; qaran[horn]N; imittišu[right side]N; izzazma[stand out]V
+
+#tr.en: […] is covered with patches, on its (viz., the moon’s) appearance a star will stand before its right horn.
+#note: Collation by E. Frahm. The stative of @i{edēḫu} might also appear in the protases of the omens in ll. 15'-16' of Sm 1159 + Rm 241 (edited in Verderame 2002 as Appendix 1, pp. 203-204).
+20'. !bs [* SI ZAG]-šu₂# KI IGI-[ma] GUB₃-šu AN.GE₆ GAR-ma ZAG-šu₂ nam-rat
+#lem: qaran[horn]N; imittišu[right side]N; qaqqar[district]N; īmurma[see]V; +šumēlu[the left]N$šumēlšu; attallû[eclipse]N; iššakinma[take place]V; imittašu[right side]N; namrat[bright]AJ
+
+#tr.en: [If] its [right horn] faces the earth, (on) its left side an eclipse will occur and its right side will be bright.
+21'. !bs [* SI ZAG]-šu₂# GAM-ma ina# [IGI.LA₂]-šu₂# AN ṭe-rat KI.LAM KUR.KUR TUR
+#lem: qaran[horn]N; imittišu[right side]N; +kamsu[squatting]AJ$kamis-ma; ina[at]PRP; tāmartišu[appearance]N; Anu[1]DN; ṭerât[penetrating]AJ; mahīra[exchange rate]N; mātāti[land]N; iṣehher[be(come) small]V
+
+#tr.en: [If] its [right horn] is bent and, on its appearance, pierces the sky, trade will shrink in the lands.
+22'. !bs [* SI] ZAG#-šu₂# x# [x x] gab-bi-šu₂ ir-rim-ma
+#lem: qaran[horn]N; imittišu[right side]N; u; u; u; gabbišu[all]N; irrimma[cover]V
+
+#tr.en: [If] its right [horn, … (an eclipse)] will obscure (lit. obscured) it (i.e., the moon) completely (lit. “its entirety”).
+23'. !bs [* SI] ZAG-šu₂ x# x#-ma# SI GUB₃-šu₂ AN ṭe-rat KI.LAM KUR TUR{+ir}
+#lem: qaran[horn]N; imittišu[right side]N; u; u; qaran[horn]N; šumēlišu[left]N; +šamû[sky]N$šamê; ṭerât[penetrating]AJ; mahīra[exchange rate]N; mātu[land]N; iṣehher[be(come) small]V
+
+#tr.en: [If] its right [horn] … and its left horn pierces the sky, trade will shrink in the land.
+24'. !cm [ina] {d}UTU.ŠU₂.A ina IGI.LA₂-šu₂ ina SI GUB₃-šu₂ MUL GUB-ma
+#lem: ina[in]PRP; ereb[entrance]N&šamši[sun]N; ina[at]PRP; tāmartišu[appearance]N; ina[in]PRP; namāru[be(com)ing bright]'N; šumēlišu[left]N; kakkabu[star]N; izzazma[stand]V
+
+#tr.en: (means?) “on its appearance [at] sunset, a star stands in its left horn.”
+#note: Because the left edge of the tablet is broken away at this point, it is unclear whether or not this line is indented; its status as a commentarial explanation is therefore uncertain.
+25'. !bs [*] SI# ZAG-šu₂ ed-de-et-ma MUL ina ŠA₃-šu₂ GUB ina ŠA₃ {d}30 ki-i GUB{+zu*} u x# x#
+#lem: qaran[horn]N; imittišu[right side]N; X; kakkabu[star]N; ina[in]PRP; libbišu[interior]N; izziz[stand]V; ina[in]PRP; libbi[concern]N; Sin[1]DN; kī[as]PRP; izzazzū[stand]V; u[and]CNJ; u; u
+
+#tr.en: [If] its right horn is pointed and a star stands inside it, in the moon …
+26'. !bs [*] SI# ZAG-šu₂ tar-ṣa-at ina GUB₃-šu₂ MUL GUB-ma
+#lem: qaran[horn]N; imittišu[right side]N; tarṣat[stretched out]AJ; ina[in]PRP; šumēlišu[left]N; kakkabu[star]N; izzazma[stand]V
+
+#tr.en: [If] its right horn is stretched, in its left (horn) stands a star.
+27'. !bs * SI ZAG-šu₂ SIG AN.GE₆ EN.NUN.AN.USAN₂* UD.1.KAM₂ IGI-ma GAR x#
+#lem: qaran[horn]N; imittišu[right side]N; +qatnu[thin]AJ$qatin; attallû[eclipse]N; barārīti[evening watch]N; X; īmurma[see]V; šakin[displayed]AJ; u
+
+#tr.en: If its right horn is thin, an eclipse will be visible during the evening-watch of the first day and …
+28'. ($___$) !cm {d}NISABA qab-li#-[(x)] 
+#lem: Nisaba[1]DN; u
+
+#tr.en: the harvest … .
+#note: The god @akk{{d}NISABA} appears in astrological omens as a way of writing “cereal” (CAD N/2 273 s.v. nissabu), but the phrase @sup{d}NISABA @i{qabli}/@i{qablītu}/@i{a}/@i{i} is not otherwise attested and its meaning is obscure. 
+29'. !bs *# SI ZAG-šu₂ SIG x# x# x# x# x# x# x# x# x# [(x x)]
+#lem: qaran[horn]N; imittišu[right side]N; ēdâ[prominent]AJ; u; u; u; u; u; u; u; u; u; u; u
+
+#tr.en: If its right horn is thin […] … [(…)]
+30'. ($___$) !cm {kur}URI{ki} KUR₂ GU₇# [...]
+#lem: Akkad[1]GN; nakri[enemy]N; ikkal[consume]V; u
+
+#tr.en: means “the enemy will dev[our] the land of Akkad […”]
+#note: Restoration following Verderame 2002 p. 151 with n. 531 (omitted, however, in Verderame’s transliteration).
+31'. !bs [*] SI# ZAG-šu₂ SIG [...]
+#lem: qaran[horn]N; imittišu[right side]N; ēdâ[prominent]AJ; u
+
+#tr.en: [If] its right horn is thin […]
+
+$(lower edge)
+
+32'. !bs [*] SI# GUB₃-šu₂ SIG x# [...]	
+#lem: qaran[horn]N; šumēlišu[left]N; ēdâ[prominent]AJ; u; u
+
+#tr.en: [If)] its left horn is thin […]
+33'. !bs [* SI x-šu₂] SIG MUL?# [...]
+#lem: qaran[horn]N; u; qatin[thin]AJ; kakkabu[star]N; u
+
+#tr.en: [If its … horn] is thin, a star/ the constellation […]
+34'. !bs [* SI] ZAG-šu₂ SIG x# [...]
+#lem: qaran[horn]N; imittišu[right side]N; qatin[thin]AJ; u; u
+
+#tr.en: [If] its right [horn] is thin […]
+35'. !bs [* SI] ZAG#-šu₂ SIG MUL# [...]
+#lem: qaran[horn]N; imittišu[right side]N; qatin[thin]AJ; kakkabu[star]N; u
+
+#tr.en: [If] its right [horn] is thin, a star/ the constellation […]
+
+$(reverse)
+
+36'. !bs [x x (x)] U₄.30.KAM₂ IGI-ma [...]
+#lem: u; u; u; X; īmurma[see]V; u
+
+#tr.en: […] is visible on the thirtieth day […]
+37'. ($___$) !cm šap*-liš* [...]
+#lem: šapliš[below]AV; u
+
+#tr.en: below […]
+#note: Collation of @i{-liš} by E. Frahm. 
+38'. !bs * SI ZAG-šu₂ SIG-ma MUL x# [...]
+#lem: qaran[horn]N; imittišu[right side]N; šapilma[low]AJ; kakkabu[star]N; u; u
+
+#tr.en: If its right horn is thin, the constellation […]
+39'. ($___$) !cm ina* {d}UTU.E₃ ZAG {d}30 {kur}URI*#[{ki} ...]
+#lem: ina[at]PRP; ṣīt[exit]N&šamši[sun]N; imni[right (side)]N; Sin[1]DN; Akkad[1]GN; u
+
+#tr.en: means “At sunrise, the right side of the moon will […] the land of Akkad.”
+40'. ($___$) !cm iq-ti*-in* MUL GAR# x# x# [...]
+#lem: +qatānu[be(come) thin]V$iqtin; kakkabu[star]N; šakin[displayed]AJ; u; u; u
+
+#tr.en: means “it grew thin.” The star … […]
+41'. !bs * SI ZAG-šu₂ IGI# x# x# [...]
+#lem: qaran[horn]N; imittišu[right side]N; pān[front]N; u; u; u
+
+#tr.en: If its right horn … […]
+42'. ($___$) !cm U₄.1.KAM₂ IGI [...]
+#lem: X; pān[front]N; u
+
+#tr.en: means “It will be visible on the first day […]
+
+$(long lacuna)
+
+43''. !zz [...] x# šu₂? x#
+#lem: u; u; u; u
+
+44''. !zz [...] x# x
+#lem: u; u; u
+
+45''. !zz [...] x# BI
+#lem: u; u; šū[that]IP
+
+46''. !zz [...] GUB-ma
+#lem: u; izzazma[stand]V
+
+47''. !zz [...] x#-ma
+#lem: u; u
+
+$(K.5790, located perhaps at the end of the reverse of Rm 2,302)
+
+48'''. !zz [...] dir#* x# x# x# x# [x x (x)] x#
+#lem: u; X; u; u; u; u; u; u; u; u
+
+#tr.en: […] …
+49'''. !zz [...] UŠ₂ 
+#lem: u; imât[die]V
+
+#tr.en: […] will die.
+50'''. !bs [...] ŠUB{+di}
+#lem: u; +nadû[throw (down)]V$inaddi
+
+#tr.en: […] will lie down.
+51'''. !bs [...] GEŠTU₂ GAL₂{+ši}
+#lem: u; X; ibašši[exist]V
+
+#tr.en: […] there will be … 
+52'''. !zz [...] x# x# SI x
+#lem: u; u; u; u; u
+
+#tr.en: […] …
+53'''. !bs [...] KIMIN# DINGIR ina KUR GU₇
+#lem: u; šanîš[otherwise]N; ilu[god]N; ina[in]PRP; māti[land]N; ikkal[consume]V
+
+#tr.en: […] Ditto, a god will devour in the land.
+54'''. !bs [...] x#-a ŠUB{+ti₃} ERIN₂{+ni} GAL₂
+#lem: u; u; miqitti[epidemic]N; ummāni[army]N; ibašši[exist]V
+
+#tr.en: […] … there will be a defeat of the army. 
+55'''. !bs [...] MUL ina SI 150-šu₂ GUB AN.GE₆ LUGAL MAR.TU GAR
+#lem: u; kakkabu[star]N; ina[in]PRP; qaran[horn]N; šumēlīšu[the left]N; izzizu[stand]V; attallâ[eclipse]N; šar[king]N; Amurru[1]GN; šakin[displayed]AJ
+
+#tr.en: [If …] a star stands in its left horn, an eclipse of the king of Martu will occur.
+56'''. !bs [...] a#-na#* 2#*-šu₂* BAR{+uz} KUR BI ZAH₂
+#lem: u; ana[to]PRP; +šinīšu[twice]N$; +zâzu[divide]V$izūz; nakāsu[cutting]'N; šū[that]IP; ihalliq[be destroyed]V
+
+#tr.en: [If …] is divided in two, that land will perish.
+#note: The omen is also attested in BM 98991 l. 9′ (@i{CCP} 3.1.3.H, Verderame 2002 p. 93).
+57'''. !zz [...] x# [x x x] x# x# x# x# x# x#
+#lem: u; u; u; u; u; u; u; u; u; u; u
+
+#tr.en: […] … […] …

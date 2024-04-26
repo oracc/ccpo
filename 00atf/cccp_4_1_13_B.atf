@@ -1,0 +1,102 @@
+&P294665 = CCP 4.1.13.B (http://ccp.yale.edu/P294665) = GCBC 766
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs he-em-ret !cm : še-eb-ret
+#lem: +hemru[shattered]AJ$hemret; +šebru[broken]AJ$šebret
+
+#note: The complete line in the base text can be found in Scurlock & Andersen, @i{Diagnoses in Assyrian and Babylonian Medicine} (2005), p. 425 §18.37, restored after K.18019 l. 2.
+2. !bs ŠU KI.NE !cm : ŠU {d}NUSKA
+#lem: qāti[hand]N; +kinūnu[brazier]N$kinūni; qāti[hand]N; Nusku[1]DN
+
+#note: The association is based on Nuska's role as the divine brazier (@akk{KI.NU} = @i{kinūnu}, "brazier").
+3. !bs id-da₂{+da}-lip !cm : ik-tu-uš
+#lem: +dalāpu[stir up//become restless]V'N$iddalip; +kâšu[delay]V$iktūš
+
+4. !bs pa-šit-tu₂ im-tu₂ !cm : pa-šit-tu₂ ša₂ mar-tu₂ u₂-kal-lu
+#lem: pāšittu[(an illness)]N; imtu[poison]N; pāšittu[(an illness)]N; ša[of]DET; +martu[gall bladder]N$; ukallu[contain]V
+
+#note: On @i{pāšittu} as "Gallenkolik," see Köcher "Spätbabylonische medizinische Texte aus Uruk" @i{Fs Goerke} (1978) p. 17-39, here 35-36 n. 59.
+5. !bs ŠU GA₂.GA₂ !cm : na-še-e bi-il-tu₂
+#lem: qāti[hand]N; zabālu[lingering]'N; nāšê[bearer]N; +biltu[load]N$
+
+#note: Compare Nabnītu K 187-188: gú.un.íl / gú.un.šu.gá.gá = @i{naš}[@i{û š}[@i{a bilti}] (MSL 16 147).
+6. !bs ŠU GA₂.GA₂ !cm : na-še-e še-er-ti
+#lem: qāti[hand]N; zabālu[lingering]'N; nāšê[bearer]N; +šērtu[guilt]N$šērti
+
+7. !bs rik₂-su-šu₂ ir-mu-u₂ !cm : ri-ik-su-šu₂ : šer₂-a-nu-šu₂
+#lem: +riksu[binding]N$riksūšu; irmû[slacken]V; +riksu[binding]N$riksūšu; +šerʾānu[vein]N$šerʾānūšu
+
+8. !bs gi-lit-su !cm : giš-ša₂-a-šu₂
+#lem: +gilšu[hip(-bone)]N$gilitsu; +gilšu[hip(-bone)]N$giššāšu
+
+9. !bs IGI.LA₂.ŠU₂ !cm : ha-a-a-at-tu₂
+#lem: +hayyattu[(pathological) terror]N$; +hayyattu[(pathological) terror]N$
+
+$(lower edge)
+
+10. !bs hu-uṣ-ṣa !cm : še-mu-u₂ ša₂ ka-ba-bu
+#lem: +hūṣu[pain]N$huṣṣa; +šawûm[roast//roasting]V'N$šemû; ša[of]DET; +kabābu[burn//burning]V'N$
+
+#note: On the term @i{ḫūṣ} (@i{ḫīp libbi}), "depression," see Scurlock & Andersen, @i{Diagnoses in Assyrian and Babylonian Medicine} (2005), p. 710 n. 14. The association is based on the lexical equation šu-ḫu-uz = @i{šemû} (e.g. Antagal III 180-181 and VII 230-231, MSL p. 156 and 166).
+$ single ruling
+11. ($___$) !zz ṣa-a-tu₂ u šu-ut KA ša₂ * GIG KIŠIB
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; marṣu[patient]N; +rittu[hand]N$
+
+12. !bs KIR₄.ŠU.GAL₂ !cm : la-ba-ni ap-pi
+#lem: +labānu[spread//spreading]V'N$labān&+appu[nose]N$appi; +labānu[spread//spreading]V'N$labāni; appi[tip]N
+
+#note: As stated by Wee, @i{The Practice of Diagnosis in Mesopotamian Medicine} p. 630, the logogram @akk{KIR₄.ŠU.GÁL} is attested in @i{Sagig} only in @i{Sagig} XII i 5.
+
+$(reverse)
+
+$ 1 line blank 
+
+13. !bs KI.GUB-su !cm : man-zal-ta-šu₂
+#lem: +mazzaztu[position//faeces]N'N$mazzāssu; +mazzaztu[position//faeces]N'N$manzaltašu
+
+14. !bs [{na₄}e]-tan*-de-e-ti !cm : pu-ra-ṭa-a-tu₂
+#lem: +etamdēti[(a stone)]N$; +purṭātu[(a stone)]N$puraṭātu
+
+#note: Collated. The explanation is taken from @sup{na₄}@i{e.tan.di.e.tu₄} = @i{ṣip-ri-e-tu}₄ = @i{pur-ṭa-a-tu}₄ (Hg B IV 105, @i{MSL} 10 33). The base text is @i{Sagig} XII iii 45 = @i{TDP} 106! (according to the copy of BE 35828 iv 5 in @i{TDP} pl. xxx, the reading @akk{[{na₄}]e#-tan-de-e-tú} is clear).
+
+15. !cm ša₂?#-niš?# a-na ik-rib qa-be₂-e i-bal-luṭ
+#lem: šanîš[alternatively]AV; ana[to]PRP; ikrib[prayer]N; qabê[mention]N; iballuṭ[live]V
+
+#note: Compare the usual prognosis @akk{ana ik-rib qí-bít KA-šú TIN}, “for a vow that he promised he will get well” (see Borger @i{JCS} 18 (1964) p. 54a and Scurlock & Andersen, @i{Diagnoses in Assyrian and Babylonian Medicine} (2005), p. 255 §11.44). J. Wee @i{The Practice of Diagnosis in Mesopotamian Medicine} p. 631 suggests that the line contains an etymographic analysis of the word @akk{[{na₄}e]-tan-de-e-ti} (read by him as “@akk{[...] x NÍG de-e-ti}”): cf. especially E = @i{qabû}, TI = @i{balāṭu}. It seems likely, however, that the line represents a second explanation of its base text, introduced by @i{šanîš} (the reading @i{šá-niš} is possible, according to Eckart Frahm’s collation in 10/2017). The commentator probably felt that the name of a stone alone is not a convincing prognosis, and therefore provided a fanciful parsing of the signs involved: thus, @akk{NA₄} = @i{ana} (elsewhere unattested, but @i{nam} and @i{ia} = @i{ana} is common), @akk{E.TAN} = @i{ík-rib}, @akk{E} = @i{qabû}, and @akk{TI} = @i{balāṭu}. With this creative use of philology the commentator shows that the rare writing refers in fact to a well-known prognosis.
+
+16. !bs šit-ti !cm : zu-u₂
+#lem: šitti[rest]N; zû[excrement]N
+
+17. !bs SA.GIG !cm : ki-is-sa-tu₄
+#lem: +kissatu[(an illness)]N$; kissatu[(an illness)]N
+
+#note: U. Gabbay suggests that this entry may explain the title of the series itself, rather than the entry @i{Sagig} XII iv 18 = @i{TDP} 107, like the last entry in the commentary edited by George, A.R. "Babylonian Texts from the folios of Sidney Smith. Part Two: Prognostic and Diagnostic Omens, Tablet I" @i{RA} 85 (1991) p. 152 l. 47 (@i{CCP} 4.1.1.A.b).
+$ rest of reverse blank
+
+@translation parallel en project
+
+1. “It is cracked up” (= @i{Sagig} XIII 13 i 12') means “it is broken up.”
+2. “Hand of KI.NE” (= @i{Sagig} XIII 5 = @i{TDP} 110 i 6') means “Hand of Nuska.”
+3. “He becomes restless” (= @i{Sagig} XIII ii 14 = @i{TDP} 118) means “he lingers (in a place).”
+4. The “poisonous @i{pāšittu}-demon”  (= @i{Sagig} XIII unknown) means “the @i{pāšittu}-demon demon that holds contains bile.”
+5. ŠU GÁ.GÁ (= @i{Sagig} XIII unknown) means “carrier of a load.”
+6. ŠU GÁ.GÁ means “carrier of a punishment.”
+7. “His binding will become loose” (= @i{Sagig} XIII iii 18 = @i{TDP} 124), “bindings” mean “his ligaments.”
+8. “@i{gilitsu}” (= @i{Sagig} XIII iii 24 = @i{TDP} 124) means “his hips.”
+9. “IGI.LÁ.ŠÚ” (= @i{Sagig} XIII iii 25 = @i{TDP} 124) means “terror.”
+10. “Depression” (@i{ḫuṣ̣ṣa}) (= @i{Sagig} XIII iii 43 = @i{TDP} 126) means “to roast (@šemû), in the meaning of 'to burn'.”
+
+11. Lemmata and oral explanations relating to “If the sick man, (his) hand” (= @i{Sagig} XI incipit).
+
+12. “KIR₄.ŠU.GÁL” (= @i{Sagig} XII i 5 = @i{TDP} 100) means “touching the nose.”
+13. “KI.GUB-@i{su}” (= @i{Sagig} XII iii 35 = @i{TDP} 106 and @i{Sagig} XIV 60 = @i{TDP} 132) means “his faeces.”
+14. @sup{na₄}@i{e-tan-de-e-ti} (= @i{Sagig} XII iii 45 = @i{TDP} 106!) is the @i{purṭātu}-stone.
+15. @i{Alternatively}, (it means) “for a vow that he promised he will get well.”
+16. “Excrement” (= @i{Sagig} XII iv 1 = @i{TDP} 106!) means “faeces.”
+17. SA.GIG (= @i{Sagig} XII iv 18 = @i{TDP} 107) means @i{kissatu}-disease.

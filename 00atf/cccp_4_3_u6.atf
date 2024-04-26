@@ -1,0 +1,83 @@
+&P239214 = CCP 7.2.u97 (http://ccp.yale.edu/P239214) = K.13663
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz [...]-i# & !cm a-ru-u₂
+#lem: u; +arû[vomit//vomiting]V'N$
+
+2. !zz [...] x & !cm a-du-du
+#lem: u; u; X
+
+3. !zz [...] & !cm is-sal-la-aʾ
+#lem: u; issallaʾa[be(come) infected]V
+
+4. &2 !zz [...]-i# e-ra#-[x]
+#lem: u; u
+
+$ single ruling
+5. &2 !zz [...] x# [x x]
+#lem: u; u; u; u
+
+@reverse
+
+1'. &2 !zz [...] x# (x#) [x]
+#lem: u; u; u; u
+
+2'. !zz [...] & !cm ne₂-su-ti#
+#lem: u; +nesû[far]AJ$nesûti
+
+3'. !zz [...] !bs qut#-tu-ri & !cm qa-ta-ru 
+#lem: u; +qatāru[smoke//fumigating]V'N$qutturi; +qatāru[smoke//smoking]V'N$
+
+4'. &2 [...] x# : !bs KI.MAH !cm kum₂-me-šu₂ ša₂ rama-ni-šu₂
+#lem: u; u; kimahhi[grave]N; +kummu[cella]N$kummēšu; ša[of]DET; ramānišu[self]N
+
+$ single ruling
+5'. !zz [...] x-ma & !cm HUL-šu₂ IDIM iz-zi-bil
+#lem: u; u; lumunšu[evil]N; +kabtu[heavy]N$; +zabālu[carry]V$izzibil
+
+$ single ruling
+$(lower edge)
+6'. !zz [...]-x#-ni & !bs ŠUB !cm : na-du-u : ŠUB : e-ze-bu
+#lem: u; nadû[throwing]'N; nadû[throwing]'N; +ezēbu[leave//leaving]V'N$; +ezēbu[leave//leaving]V'N$
+
+$ single ruling
+7'. !bs [...] KU₃.GI & !cm ṭur-ri KU₃.GI
+#lem: u; hurāṣu[gold]N; ṭurri[knot]N; hurāṣu[gold]N
+
+$ single ruling
+8'. !bs [...] DE₂?#.DE₂ & !cm na-ta-ku
+#lem: u; +natāku[drip//dripping]V'N$; natāku[dripping]'N
+
+
+
+@translation parallel en project
+
+@obverse
+
+1. [...] ... means "to vomit."
+2. [...] ...
+3. [...] means "he will become ill."
+4. ...
+$ single ruling
+5. ...
+
+@reverse
+
+1'. ...
+2'. [...] means "distant."
+3'. [...] "to fumigate" (stems from) "to smoke."
+4'. [...] "tomb" means "one's own room."
+$ single ruling
+5'. [...] ... @i{means} "he will carry his @i{heavy} affliction."
+$ single ruling
+6'. [...] ... ŠUB means "to throw," ŠUB means "to leave."
+$ single ruling
+7'. ["...] of gold" means "band of gold."
+$ single ruling
+8'. [@i{DÉ.DÉ means "to pour,"}] @i{DÉ}.DÉ means "to drip."

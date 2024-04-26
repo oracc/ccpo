@@ -1,0 +1,91 @@
+&P413991 = CCP 2.2.2 (http://ccp.yale.edu/P413991) = VAT 8286
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs %sux nam-lu₂-u₁₉-lu uŋ₃ saŋ-gig₂-ga-ke₄
+#lem: namlulu[humanity]N/nam-lu₂-u₁₉-lu#~; uŋ[people]N; saŋgiga[humankind]N/saŋ-gig₂-ga#~,ak.e
+
+2. !bs a-me-lu-tu₂ ni-ši ṣal-mat qaq-qa-di !cm an-nu-u šu*-mer-šu KI?.A GAR.A
+#lem: amēlūtu[mankind]N; nišī[people]N; ṣalmāt[black]AJ; qaqqadi[head]N; annû[this]DP; +šumeru[Sumerian]N$; u; u
+
+#note: In contrast to the following passages, both the Sumerian and the Akkadian versions are quoted here. Based on collation (8/2016), the reading suggested in @i{GMTR} 5 pp. 26-27 is probably not correct. The reading @akk{šu-mer-šu} follows the suggestion by Geller @i{BAM} 8 (2016); the interpretation of the following signs follows Gabbay @i{CHANE} 82 (2016) p. 171.
+
+$ single ruling
+3. !bs a-na E₂ ina e-re-bi-ia
+#lem: ana[into]PRP; bīti[house]N; ina[in]PRP; erēbiya[entering]'N
+
+4. !bs {d}UTU ina IGI-ia {d}30 ina ar₂-ki-ia !cm ma-a šum-ma ina {d}UTU.E₃ pa-ni-ia GAR*{+nu}
+#lem: Šamaš[1]DN; ina[in]PRP; mahriya[front]N; Sin[1]DN; ina[at]PRP; arkiya[behind]PRP; mā[indeed]J; šumma[if]MOD; ina[on]PRP; ṣīt[exit]N&šamši[sun]N; pāniya[front]N; šaknū[displayed]AJ
+
+5. ($___$) !cm ma-a {d}UTU ina IGI-ia {d}30 ina ar₂-ki-ia
+#lem: mā[indeed]J; Šamaš[1]DN; ina[in]PRP; mahriya[front]N; Sin[1]DN; ina[at]PRP; arkiya[behind]PRP
+
+6. !bs {d}U.GUR ina im-ni-ia {d}MAŠ ina GUB₃-ia !cm ina KA-ia ha-riš
+#lem: +Nergal[]DN$; ina[in]PRP; +imnu[right]N$imnīya; Ninurta[1]DN; ina[in]PRP; šumēliya[left]N; ina[in]PRP; +pû[mouth]N$pîya; X
+
+#note: Pace Borger, HKL 2, ll. 3-6 comment on Udug-hul 3 and not Udug-hul 2. The comments in ll. 4f. imply that the ritual accompanying the recitation took place in the early morning. harāšu can be translated as "to bind," but its exact meaning in this context remains obscure.
+
+7. ($___$) !zz ina ŠA₃ pu-ṭur lem-nu
+#lem: ina[in]PRP; libbi[interior]N; puṭur[release]V; lemnu[evil one]N
+
+#note: The incantation puṭur lemnu introduces the second and not the third tablet of Udug-hul (Geller, SAACT 5, 96); but it seems that the author of the commentary considered Udug-hul 2 and 3 as a kind of unit.
+$ single ruling
+8. !bs ša₂ ri-hu-ut {d}a-nu re-hu-u DUMU-MEŠ i-lit-ti KI{+ti₃} šu₂-nu
+#lem: ša[of]DET; +rihûtu[progeny]N$rihût; Anu[1]DN; +rehû[poured out]AJ$; mārū[son]N; ilitti[offspring]N; erṣeti[earth]N; šunu[they]IP
+
+9. !bs ša₂ ta-ri-ti HUL{+ti₃} šu₂-nu
+#lem: ša[of]DET; +tārītu[nurse]N$tārīti; lemutti[evil]N; šunu[they]IP
+
+10. !bs ša₂ mu-še-niq-ti le-mut-ti ši-iz-ba i-ni-qu šu₂-nu
+#lem: ša[of]DET; mušēniqti[suckling]AJ; lemutti[evil]N; +šizbu[milk]N$šizba; īniqu[suck]V; šunu[they]IP
+
+@bottom
+
+11. !bs ina a-ra-al-le-e še-pa i-šak-nu !cm ma-a ša₂ da-a-ki šu₂-u
+#lem: ina[in]PRP; Aralle[Underworld]GN; +šēpu[foot]N$šēpa; +šakānu[put]V$iššaknū; mā[indeed]J; ša[who]REL; +dâku[kill//killing]V'N$dâki; šū[that]IP
+
+12. !bs ina qab-ri ba-a-bi ip-tu-u !cm ma-a ina KI{+ti₃} ba-a-bi ip-te-tu-u
+#lem: ina[in]PRP; qabri[grave]N; +bābu[gate]N$bābi; +petû[open]V$iptû; mā[indeed]J; ina[in]PRP; Erṣeti[Underworld]GN; bābi[gate]N; +petû[open]V$iptetû
+
+#note: Unlike the comments in ll. 4-5, those in ll. 11-12 seem to have a theological rather than a practical scope. The explanation in l. 11 may draw on the fact that the sign combination used to write arali, É-KUR-BAD, includes the element BAD, which can mean "to die" when read úš.
+
+$(reverse uninscribed)
+
+@translation labeled en project
+
+@label o 1 - o 2
+
+Humanity, the people, the black-headed ones (@i{Udugḫul} II 47), (Akkad.:) "humanity, the people, the black-headed ones" (@i{Udugḫul} II 48). This is its Sumerian ...
+
+$ single ruling
+
+@label o 3 - o 5
+
+"When I enter the house, Šamaš is in front of me and Sîn is behind me" (@i{Udugḫul} III 142 und 144). (To be interpreted) as follows: When my face is directed towards the rising sun, the following (applies): Šamaš is in front of me, Sîn is behind me.
+
+@label o 6
+
+"Nergal is to my right, Ninurta is to my left." (@i{Udugḫul} III 146 und 148) – In my mouth ....
+
+@label o 7
+
+From: "Be released, evil!"
+
+$ single ruling
+
+@label o 8 - o 10
+
+"The ones poured out as progeny of Anu, they are children born by the netherworld. They belong to an evil nurse. They sucked the milk of an evil wet-nurse" (@i{Udugḫul} III 2, 4 und 6).
+
+@label b.e. 11
+
+"They set their feet into the netherworld (@i{arallû})" (@i{Udugḫul} III 8). (To be interpreted) as follows: It refers to acts of killing.
+
+@label b.e. 12
+
+"In the tomb, they opened a door" (@i{Udugḫul} III 10). (To be interpreted) as follows: They opened a door in the netherworld.

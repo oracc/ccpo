@@ -1,0 +1,142 @@
+&P237781 = CCP 3.5.103 (http://ccp.yale.edu/P237781) = K.103
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$ beginning of obverse missing
+
+0. &2 !zz [...] x 
+#lem: u; u
+
+$ double ruling
+1'. !bs [qid]-dam-ta & !cm qi₂-id-da-tu₄
+#lem: +qiddatu[bending down]N$qiddamta; +qiddatu[bending down]N$
+
+2'. !bs [KI.UŠ]-su A TAG-ma & !cm ki-bi-is me-e ta-lap-pat-ma : ul i-di
+#lem: +kibsu[track]N$; mê[water]N; +lapātu[touch]V$talappatma; kibis[track]N; mê[water]N; talappatma[apply]V; ul[not]MOD; idi[side]N
+
+3'. !bs [mas]-ka-du₃ & !cm ša₂-aš₂-ša₂-ṭu
+#lem: +maškadu[(an illness of the joints, arthritis?))]N$; šaššaṭu[(a disease of the joints)]N
+
+4'. !bs * NA ana hal-li-ša₂ DU & !cm ul i-di
+#lem: amēli[man]N; ana[into]PRP; +hallu[(upper) thigh]N$hallīša; illik[go]V; ul[not]MOD; idi[side]N
+
+$ single ruling
+5'. !bs i-na li-ba-ti-šu₂-ma UŠ₂ & !cm la-bu-u₂ : ša₂-su-u₂
+#lem: ina[in]PRP; +libbātu[rage]N$libbātīšū-ma; imât[die]V; +labû[howl//howling]V'N$; šasû[shouting]'N
+
+6'. ($___$) !bs AD & !cm um-mu
+#lem: abi[father]N; ummu[heat]N
+
+7'. !bs E₂# A-šu & !cm E₂ a-bi-šu₂
+#lem: bīt[house]N; +abu[father]N$abīšu; bīt[house]N; abišu[father]N
+
+$ single ruling
+8'. &2 !zz [ṣa-a]-tu₄ ša₂ * NA ana MUNUS GUB{+za-at} DU
+#lem: ṣâtu[commentary]N; ša[of]DET; amēli[man]N; ana[into]PRP; sinništu[wife]N; +uzuzzu[standing]AJ$uzuzzat; illik[go]V
+
+$ single ruling
+9'. ($___$) !bs KUD & !cm pa-ra-su
+#lem: parāsu[cutting (off)]'N; parāsu[cutting (off)]'N
+
+10'. !bs [GAR?]{+ta} & !cm a-hi-iz-tu
+#lem: +ahiztu[married woman]N$; +ahiztu[married woman]N$
+
+#note: According to @i{CAD} A/1 192b, @akk{a-hi-iz-tu} is a hapax legomenon.
+11'. !bs UŠBAR₆ & !cm e-mu
+#lem: +emu[father-in-law]N$; +emu[father-in-law]N$
+
+12'. !bs [x (x)].ZA & !cm ul i-di
+#lem: u; u; ul[not]MOD; idi[side]N
+
+$(lower edge)
+13'. !bs [šu-ta]-tu#-u₂ & !cm qe₂-re-bu 
+#lem: šutātû[positioned opposite one another]AJ; +qerēbu[be(come) close//be(com)ing close]V'N$
+
+14'. &2 !bs [x x x (x)] x#-še reš-ti i-nam-din et-gu-ru-tu₂ !cm :# ul i-di
+#lem: u; u; u; u; u; +rēštu[beginning]N$rēšti; inamdin[give]V; +etguru[crossed over]N$etgurūtu; ul[not]MOD; idi[side]N
+
+15'. !bs [x (x)] x# MU-MEŠ ana EGIR-šu₂ & !cm ul i-di
+#lem: u; u; u; šanāti[year]N; ana[according to]PRP; arkišu[after]PRP; ul[not]MOD; idi[side]N
+
+$(reverse)
+16'. !bs [et]-riṭ & !cm et-re-eṭ
+#lem: +eṭru[taken away]AJ$eṭret; +eṭru[taken away]AJ$eṭret
+
+17'. !bs SIG₂#.UZ₃ & !cm šar-ti
+#lem: +šārtu[hair]N$; +šārtu[hair]N$šārti
+
+18'. !bs ŠE₁₀ & !cm ze-e
+#lem: zê[excrement]N; zê[excrement]N
+
+#note: According to Guinan, A.K. @i{RAI} 47 (2002) p. 200, this line could refer to @i{CT} 39 44 l. 12 9 = @i{Šumma Ālu} 104).
+19'. !bs ep-qam & !cm ep-qu
+#lem: +epqu[leprosy]N$epqam; +epqu[leprosy]N$
+
+20'. !bs i#-ša₂#-par₂-ši & i-šap-par-ši
+#lem: +šapāru[send]V$išapparši; +šapāru[send]V$išapparši
+
+21'. !bs qud-da#-ti {d}15 & !cm ul i-di
+#lem: +quddu[(kind of) axe]N$quddāti; Ištar[1]DN; ul[not]MOD; idi[side]N
+
+$ single ruling
+
+22'. &2 !zz ṣa-a-tu₄ ša₂ * MUNUS ina E₂ NA ih-te-di
+#lem: ṣâtu[commentary]N; ša[of]DET; sinništu[wife]N; ina[at]PRP; bīt[house]N; amēli[man]N; +hadû[be joyful]V$ihtedi
+#note: The last word could also be read as @akk{ih-te-ṭi}, “sinned”, following @i{AHw} 338a.
+
+$ double ruling
+
+23'. !bs KA & !cm !cm pu-u₂
+#lem: pû[mouth]; pû[mouth]N
+
+24'. !bs NIR.NIR{+aṣ} & !cm it-ta-nar!(IN)-ra-aṣ
+#lem: ittanarraṣ[stretch out]V; +tarāṣu[stretch out]V$ittanarraṣ
+
+25'. !bs NIR & !cm ta-ra-ṣu
+#lem: tarāṣu[stretching out]'N; +tarāṣu[stretch out//stretching out]V'N$
+
+26'. !bs i-ša-ba-as-ma & !cm i-sa-ba-as-ma
+#lem: +šabāsu[be angry]V$išabbas-ma; +šabāsu[be angry]V$isabbas-ma
+
+27'. !bs [(x x) {giš}]NA₂# it-bi & !cm ša₂ ina la e-de-e [x] x#
+#lem: u; u; erši[bed]N; itbi[get up]V; ša[that]REL; ina[in]PRP; lā[not]MOD; edê[knowing]'N; u; u
+
+28'. !bs [x x x & !cm x] x# $UB x# [(x)]
+#lem: u; u; u; u; u; u; u; u
+
+$ rest of reverse missing
+@translation parallel en project
+
+
+0. …
+1'. [@i{qid}]@i{damta} (= @i{Šumma Ālu} 103 = K.8268+ l. 1′) means “bending down.”
+2'. [KI.UŠ]-@i{su} A TAG-@i{ma} (= @i{Šumma Ālu} 103 = K.8268+ l. 11′) means “you will touch a track on the water” – I do not know (what this means).
+3'. The [@i{mas}]@i{kadu}-disease (= @i{Šumma Ālu} 103 = K.8268+ l. 16′ // VAT 13809 [@i{KAL} 1 35] o 2′) is the @i{šaššaṭu}-disease.
+4'. “If a man ‘comes’ between her thighs” (VAT 13809 [@i{KAL} 1 35] o 18′) – I do not know (what this means).
+5'. “In his anger (@i{ina libbātīšu}) he will die” (stems from) “to howl” (@i{labû}), (which) means “to cry.”
+6'. AD (= “father”) means “mother.”
+7'. É A-@i{šu} means “his father’s house.”
+8'. [Lemma]ta relating to “If a man has intercourse with a woman who is standing up” (= @i{Šumma Ālu} 103).
+9'. KUD (@i{Šumma Ālu} 104 l. 4 [= @i{CT} 39 44 l. 4]) means “to cut.”
+10'. [@i{GAR} (?)]-@i{ta} means @i{married woman}.
+11'. UŠBAR₆ means “father in law.”
+12'. […].ZA – I do not know (what this means).
+13'. [“To me]et” means “to approach.”
+14'. […] … @i{beginning, he gives, intertwined} – I do not know (what this means).
+15'. […] … @i{years} to his back – I do not know (what this means).
+16'. [@i{et}]-@i{reṭ} means @i{et-re-eṭ}.
+17'. SÍG.ÙZ means “hair.”
+18'. ŠE₁₀ (@i{Šumma Ālu} 104 l. 12 [= @i{CT} 39 44 l. 12]) means “excrement.”
+19'. @i{ipqam} means “leprosy.”
+20'. ⸢@i{i-šá-pár-ši}⸣ means “He will send to her.”
+21'. “@i{Axes} of Ištar” – I do not know (what this means).
+22'. [Lemma]ta relating to “If a woman rejoices in a man’s house” (= @i{Šumma Ālu} unknown).
+23'. KA means “mouth.”
+24'. NIR.NIR-@i{aṣ} means “to extend repeatedly.”
+25'. NIR means “to stretch.”
+26'. @i{i-ša-ba-as-ma} means “he gets angry.”
+27'. “[…] raises [@i{from} the b]ed” (means) that without knowing […] …
+28'. …

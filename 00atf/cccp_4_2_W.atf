@@ -1,0 +1,190 @@
+&P412240 = CCP 4.2.W (http://ccp.yale.edu/P412240) = MMA 86.11.109
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@top
+
+1. !zz 4 IGI.TAB
+#lem: n; bari[checked]AJ
+
+#note: The meaning of these signs is unknown. H. Stadhouders (privatim) suggests that the line is “possibly a reminder for the copyist or his teacher, to be read: @akk{ša₂ IGI.TAB} = @i{ša barê} ‘(a copy) still to be checked/that needs collating’?”
+
+@obverse
+
+1. !bs [{giš}GEŠTIN.GIR₂ !cm : {giš}]a-mur-di-in :. !bs GIŠ BUR₂ !cm : iṣ-ṣi piš-ri : !bs {u₂}šal-la#-pa#-ni#
+#lem: amurdinnu[bramble]N$; amurdinnu[bramble]N$amurdin; iṣ[tree]N; pišri[release]N; iṣṣi[tree]N; pišru[release]N$pišri; šallapānu[(a grass)]N$šallapāni
+
+#note: The restoration of the first word, based on @i{Hh} III 12, is tentative. The second equation (GIŠ.BÚR = GIŠ @i{pišri}) is attested e.g. in @i{Hh} VI 226.
+2. !zz [x x x x :] !cm {na₄}su-u₂ : !bs GIŠ {d}UTU !cm : dul-bi : !bs GIŠ.MES.AN :
+#lem: u; u; u; u; sû[(a hard stone)]N$; iṣu[tree]N$iṣ; Šamaš[1]DN; dulbu[plane tree]N$dulbi; +dulbu[plane tree]N$
+#note: As noted by H. Stadhouders (private communication), “In the light of Erra I, 148-153 I strongly believe we should transcribe GIŠ.MES.AN, the last element standing for “tall” (elû, šaqû): the dulbu is defined as the tall mēsu-tree; [unlikely that we should read DINGIR and assume a hint at the mēsu as the ‘flesh of the gods.’] Is the commentator also trying to explain mesukkannu this way? The tree may be Shamash’s just because it is sky-high (the god is associated with the elâti part of the universe in several of his epithets after all).”
+3. !zz [x x x x :] !cm {giš}me-si : {giš}me-suk-kan-nu : GIŠ.MES.AN : {giš}dul-bi :.
+#lem: u; u; u; u; mēsu[(a type of tree)]N$mēsi; musukkannu[Magan-tree]N$mesukkannu; dulbu[plane tree]N; dulbi[plane tree]N
+
+#note: The explanation after @i{iṣ šamaš} is difficult to understand because of the lacuna at the begining of line 3. The commentary seems justify the otherwise unattested equation between the "plane tree" and the "tree of Šamaš" with a series of equations. Since the god Šamaš receives frequently the sobriquet "young hero" (ŠUL = @i{eṭlu} = MES), it is plausible that the commentary made use of the homonimy between "young hero" (MES) and MES-tree. It is then also conceivable that the equation between MES and ŠUL with the god Šamaš was made explicit at the beginning of the line, now missing.
+
+4. !bs [{giš}ERIN.BAD !cm :] bal-ṭi-it-tu₄ ša₂ ŠA₃ {giš}ERIN : !bs {u₂}ha-am !cm : {giš}da-ad-da-ri :
+#lem: šupuhru[(a variety or part of the cedar)]N$; bušṭītu[woodworm]N$balṭittu; ša[of]DET; libbi[interior]N; erēnu[cedar]N$erēni; hām[(a plant)]N$; daddaru[centaury]N$daddari
+
+#note: The first equation is also attested in @i{BRM} 4 32 o 15' [CCP 4.2.M.a], where it appears as an alternative explanation: GIŠ.ERIN.BAD : @i{šupuhru} : GIŠ.ERIN.BAD @i{šanîš balṭittu ša libbi erēni}. However, there seems to be not enough room at the beginning of the present line to restore GIŠ.ERIN.BAD : @i{šupuhru}.
+
+#NV changed CF bušṭītum to bušṭītu
+#NV is hām an otherwise unattested word?
+ 
+5. !cm [(x x) lib₃-bu-u₂] !qt ina# ID₂ tab!(UB)-ba-ši-i mu-<<:>>-ú-ka da-ad-da-ri te-ek-kel-mu-u₂
+#lem: u; u; libbū[meaning]PRP; ina[from]PRP; nāri[watercourse]N; bašû[be (at hand)]V$tabbašî; mû[water]N$mûka; daddaru[centaury]N$daddari; nekelmû[frown at]V$tekkelmû
+
+#note: As first noted by Finkel @i{ZA} 76 (1986) p. 253, this line contains a quotation from the bilingual proverb @i{BWL} 244 iv 19-24, which in the next line is apparently said to belong to the series Sidu.
+
+#NV added lemmatization for mu-u₂-ka
+
+6. !qt [x x x x x x ina] li#-ib-ba-ti-šu₂ dad-da-ri u₂-še-ṣi !cm ina EŠ₂.GAR₃ SI.DU₃ qa-bi
+#lem: u; u; u; u; u; u; ina[in]PRP; libbātu[rage]N$libbātišu; daddaru[centaury]N$daddari; ušeṣṣi[expel]V; ina[in]PRP; iškār[series]N; +Sidu[]PN$; qabi[said]AJ
+
+#note: Frahm @i{GMTR} 5 (2011) p. 103 fn. 532 and id. @i{CHANE} 42 @i{Fs Foster} (2010) p. 168 fn. 36 read the sign before SI.DÙ as a Personenkeil. However, as noted by H. Stadhouders (private communication), “the sign is the GAR-like end of QÀR in Babylonian script, only a bit bolder here than in l. 10.”
+
+7. !cm [ša₂-niš !bs ({u₂}ha-am) !cm : {u₂}ha-hi-in] : {u₂}pu-qut-tu₄ : šal-šiš {u₂}dar-dar-ri : {u₂}da-da-ri# :#
+#lem: šanîš[alternatively]AV; hām[(a plant)]N; hahinnu[(a thorny plant)]N$hahin; puquttu[thorn]N$; šalšiš[thirdly]AV; daddaru[centaury]N$dardarri; daddaru[centaury]N$dadari
+
+#note: The restoration at the beginning of the line is tentative. It is based on the assumption that (1) the first equations contain an alternative explanation on the name of the @i{ḫām}-plant (which seems unavoidable in view of the occurrence of @i{šalšiš}), and (2) that this alternative explanation is based on the phonetic similarity between @i{ḫām} and @i{ḫaḫinnu}, one of the plants frequently associated with @i{puquttu} (see @i{CAD} P 515b). On the other hand, the rationale behind the equation of @i{ḫām} and @i{dardarri} is not clear. Note however that Finkel’s transliteration inadvertently omits @i{daddaru} at the end of the line.
+
+8. !cm [x x x] iṣ-ṣi ša₂-ki-in : !bs {u₂}za-lu-ub !cm {u₂}an-za-lu-ub ša₂ ŠE.GIŠ.I₃#
+#lem: u; u; u; iṣṣi[tree]N; šakin[placed]AJ; zalub[(a plant)]N$; zalub[(a plant)]N$anzalub; ša[of]DET; šamaššammī[sesame]N
+
+#note: The names of the plants @akk{{u₂}ZA.LU.UB} and @akk{{u₂}AN.ZA.LU.UB} are otherwise unknown. The latter, /anzalub/ is actually the Diri reading of the sign @akk{GI.ŠA₃.GI} (@i{Diri} IV 234) in the meaning @i{ḫandû}, "reed pith," but it is uncertain if this has any bearing on the present passage.
+
+
+9. !cm [x x x] {u₂}ha-am ša₂ IGI me-e {giš}a-za-lu-ub i-qab-bu-šu₂ lib₃-bu#-[u₂]
+#lem: u; u; u; hām[(a plant)]N; ša[of]DET; pān[direction]N; mê[water]N; zalub[(a plant)]N$azalub; iqabbûšu[say]V; libbū[meaning]PRP
+
+10. !qt [x x x] x ID₂ {u₂}ša₂-ki-ru-u₂ ina ši-qa-a-tu₂ !cm ša₂ ina EŠ₂.GAR₃ |KA₅×A| iq-bu-[u₂ :.?]
+#lem: u; u; u; u; nāri[watercourse]N; šakirû[henbane]N$; ina[in]PRP; šīqu[levelling off]N$šīqātu; ša[that]REL; ina[in]PRP; iškār[series]N; šēlebu[fox]N$šēlebi; iqbû[say]V
+
+#note: The cite from an otherwise unknown passage in the series of the Fox seems to imply that either the plant @i{ḫām} or the plant @i{azalub} are identical with the plant @i{šakirû}.
+
+#NV changed |KAxA| to |KA×A| ("times" sign instead of x)
+
+11. !zz [x x x].x.IZI# ar₂-tu₄ hu-ud?-dul lib₃-bi : !bs PA !cm : ar₂-tu₄ : !bs GI.ZU₂.LUM.[MA !cm x x (x)]
+#lem: u; u; u; artu[branches]N$; X; libbi[interior]N; artu[branches]N$; artu[branches]N; kūru[(part of a reed)]N$; u; u; u
+
+#note: Compare perhaps GI.AN.NA.GI.IZI and GI.PA.GI.IZI = @i{artu} in @i{Hh} VIII 10-11.
+12. !cm [x x x] x x lib₃-bi :. !bs U₂.TIN.TIN : !cm U₂.NAM.TI.LA : {u₂}NUMUN {giš#}[HA.LU.UB₂]
+#lem: u; u; u; u; u; libbi[interior]N; +šammu[plant(s)]N$šammi&+balāṭu[life]N$balāṭi; +šammu[plant(s)]N$šammi&+balāṭu[life]N$balāṭi; zēru[seed(s)]N$zēr; haluppu[(a tree)]N$haluppi
+
+#note: On the “life-giving” character of the “seed of the @i{ḫaluppu}-tree,” see Böck @i{Sefarad} 69 (2009) p. 275-276 and fn. 53.
+
+13. !zz [x x x x x] :# !bs U₂ GAL !zz : šam-mu ra-bu-u₂ : {u₂}IGI-lim :.* !bs {u₂}U.x !zz [x x x]
+#lem: u; u; u; u; u; šammu[plant]N; rabû[great]AJ; šammu[plant]N; rabû[great]AJ; imhur-līm[(a medicinal plant)]N; u; u; u; u
+
+14. !zz [(x) x x x x :] !cm {u₂}ZU₂ ta-ma-at : ša₂-niš šam-mi GISSU ku-ša₂-ri [(x)]
+#lem: u; u; u; u; u; +imbû[fibre]N$imbuʾ; tiāmtu[sea]N$tâmat; šanîš[alternatively]AV; šammi[plant(s)]N; ṣillu[shade]N$ṣilli; kušāru[reed stalk]N$kušāri; u
+
+15. !zz [x x x x x] !cm ša₂?#-niš !bs {giš*}GEŠTIN* !zz : iṣ-ṣi bul-ṭu : GIŠ!(DIN) : iṣ-ṣi : TIN : ba-la#-[ṭu]
+#lem: u; u; u; u; u; šanîš[alternatively]AV; karānu[wine]N; iṣṣi[tree]N; bulṭu[treatment]N; iṣu[tree]N; iṣṣi[tree]N; balāṭu[life]N$; balāṭu[life]N
+
+#note: Collation shows that this line is a notarikon on the name of the vine. The equation DIN = @i{iṣu} seems to be elsewhere unattested, and it is probably a lapsus calami provoked by the occurrence of DIN in the next equation.
+
+16. !zz [x x x x x x x x x x x x x !cm ša₂?]-niš?# GIŠ ki-iš-šu₂ GIŠ {d}UTU !zz x sin nu x [x x (x)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; šanîš[alternatively]AV; iṣu[tree]N; kiššu[(reed-)bundle]N$; iṣu[tree]N; Šamaš[1]DN; u; X; X; u; u; u; u
+
+17. !zz [x x x x x x x x x x x x x x x x x] x# !cm ša₂-niš GIŠ.x# !zz [x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; šanîš[alternatively]AV; u; u; u; u; u; u; u; u; u; u; u
+
+18. !zz [x x x x x x x x x x x x x x x x x x] x [x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+$ rest of obverse broken
+
+@reverse
+
+$ beginning of reverse broken
+
+1'. !zz x [...]
+#lem: u; u
+
+2'. !zz [x x x x x x] ṣa-a-tu₂* šu-ut KA [ša₂ x] x x x x AL.TIL
+#lem: u; u; u; u; u; u; ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; ša[of]DET; u; u; u; u; u; qatû[ended]AJ$qati
+
+3'. !zz [GIM LIBIR-šu₂ {m}{d}UD.UD.UD].UD#.UD.UD.UD.UD.UD-DIN-su-E A ša₂ {m}{d}AMAR.UTU-NUMUN-DU₃ <A> {m}{d}e₄-gi₇-ba-ti-la
+#lem: kīma[according to]PRP; labīrišu[original]N; Nabu-balassu-iqbi[]PN; apli[son]N; ša[of]DET; Marduk-zera-ibni[]PN$; aplu[son]N$apal; Egibatila[]PN
+
+#NV added {m} in front of Nabu-balassi-iqbi's name and changed TIN to DIN (as in DT 84)
+
+4'. !zz SAR#-ma ib-ri
+#lem: šaṭāru[write]V$išṭurma; barû[see]V$ibri
+
+#NV changed išturma to išṭurma
+
+5'. !zz [pa-lih {d}UD.UD.UD].UD#.UD.UD.UD.UD.UD ma-diš ma-diš li₆-ṣur li₆-ša₂-qir al-la DUMU EN du-ul-la NU# [u₂-kal-lam]
+ 
+#lem: pālih[reverent one]N; Nabû[]DN$; mādiš[greatly]AV; mādiš[greatly]AV; naṣāru[guard]V$liṣṣur; waqāru[be(come) rare//respect]V'V$lišāqer; +ana[to]PRP$&+lā[not]AV$; mār[member]N; bēl[master]N; dullu[trouble//work]N'N$dulla; ul[not]MOD; ukallam[show]V
+
+ 
+
+#note: The last word has been restored on the basis of CTMMA 2 20 r 13': @akk{a-na NU DUMU TIN#.[TIR].ki# u a-na NU DUMU bar-sìp[{ki}] la u₂-kal#-[lam]}. @i{alla} represents a crasis of @i{ana lā}. The expression @i{mār bēl dulli} is otherwise attested only in a NA letter (@i{SAA} 16 34 r 16).
+
+#NV changed CF aqāru to waqāru
+
+@translation labeled en project
+
+@label t.e. 1
+
+Four (?) @collated.
+
+@label o 1 - o 3
+
+[... GIŠ.GEŠTIN.GÍR] means “bramble” (@i{amurdinnu}). GIŠ.BÚR means “plant of purification.” @i{šallapānu} means [...]. [...] means @sû-stone. the “tree of Šamaš” is the plane tree, (because) the tree GIŠ.MES.AN (lit., ‘the tree of the divine young hero’) means [...], i.e., the @i{mēsu}-tree, which is the Magan-tree (@i{mesukkannu}), hence GIŠ.MES.AN is the plane tree.
+
+@label o 4 - o 8
+
+[GIŠ.ERIN.BAD] means “the woodworm which is inside of the cedar.” @Ḫām-plant means “centaury” (@i{daddaru}), [... (as in)] “When you are in a river, your waters are foul (@i{daddaru}),” “You frowned at [...” (and)] “In his rage he expelled a great stench (@i{daddaru}),” which is said in the series Sidu. [Alternatively, @i{ḫām}-plant can mean @i{ḫaḫinnu}-plant], i.e., @puquttu-plant. Thirdly, it can mean DAR.DAR.RI, i.e., “centaury” (@i{daddaru}) [(@i{as in}) “...] the tree has.”
+
+@label o 8 - o 10
+The plant @i{zalub} (@i{means}) “@i{anzalub} of sesame” [...], the @i{ḫām}-plant on the surface of the water is called @i{azalub}-tree, as in “[...] the river, @i{šakirû}-plant in measuring vessels,” which is said in the series of the Fox.
+
+@label o 11 - o 12
+
+[...] twig; ... of the heart; PA means “twig;” the @i{kūru}-plant [(means) ...], heart.
+
+@label o 12
+
+Ú.DIN.DIN means “plant of life,” i.e., “seed of the @i{ḫaluppu}-tree.”
+
+@label o 13
+
+Ú.GAL means “the great plant,” i.e., the @i{imḫur-līm}. The plant [...].
+
+@label o 14
+
+[... means] “plant of the teeth of the sea” (i.e. “algae”) alternatively, it can mean “plant of the shade,” i.e., reed stalk.
+
+@label o 15
+
+[...]; @i{alternatively}, vine (GEŠTIN) can mean “tree of life,” since GEŠ means “tree” and TIN means “life."
+
+@label o 16
+
+[...]; @i{alternatively}, “tree bundle” (means) “wood of Šamaš” [...].
+
+@label o 17 - 18
+
+[...] alternatively, [...]
+
+@label r 1'
+
+...
+
+@label r 2'
+
+Lemmata and oral explanations relating to “[...]” (= tablet incipit). @i{Finished}.
+
+@label r 3' - r 4'
+
+[According to its original] Nabû-balāssu-iqbi, son of Marduk-zēra-ibni, descendant of Egibatila, wrote it and collated it.
+
+@label r 5'
+
+[The reverer] of Nabû should very much protect the tablet and respect it. [He should not show it] to a non-corvée master (i.e., a non @i{andurāru}-citizen).

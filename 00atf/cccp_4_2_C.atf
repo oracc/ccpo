@@ -1,0 +1,54 @@
+&P459067 = CCP 4.2.C (http://ccp.yale.edu/P459067) = 11N-T5 P459067
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...]-ri# KEŠ₂.DA-su šu#-[...]
+#lem: u; +riksu[binding]N$rikissu; u
+
+2'. !zz [...] !bs %sux keš₂?#-da !cm : %sb bu-di ša₂ {d}15 ša₂ GIM# [...]
+#lem: u; +kešed[bind]V/t$kešed;a/keš₂+-da=d.a#~;a; +būdu[(an implement)]N$būdi; ša[of]DET; Ištar[1]DN; ša[who]REL; kīma[like]PRP; u
+
+3'. !zz [...] !cm ri-hu-tu₄ : !bs ana in-na-kam! :! !cm ša₂ !zz [...]
+#lem: u; +rihûtu[progeny]N$; X; X; ša[of]DET; u
+
+#note: According to Civil’s copy (@i{JNES} 33 p. 331), the sign IN could be read as @i{še-er}.
+4'. !zz [...] :# !bs %sux kur keš₂-da !cm : %sb ra-kas KUR!# !zz x#-[...]
+#lem: u; kur[mountain]N; +kešed[bind]V/t$kešed;a/keš₂+-da=d.a#~;a; +rakāsu[bind//binding]V'N$rakās; šadî[mountain]N; u
+
+#note: Civil’s @i{JNES} 33 (1974) p. 338 reading @akk{UTUL₇!(KUR).ZI₃!(KEŠ₂).DA} seems too forced.
+
+5'. !zz [...]-x# !cm : ka-a-pu ša₂ ka-le-e !zz ma-[...]
+#lem: u; +kâpu[oppress//oppressing]V'N$; ša[of]DET; kalê[retaining]'N; u
+
+6'. !zz [... !cm ka]-a#-pa : ha-ba-lu : kap-ka-pu : [hab-bi-lu ...]
+#lem: u; +kâpu[oppress//oppressing]V'N$kâpa; +habālu[do wrong//doing wrong]V'N$; +kapkapu[powerful]N$; +hābilu[criminal]N$habbilu; u
+
+#note: The equation @i{kâpu} = @i{ḫabālu} is elsewhere attested only in @i{Malku} IV 134, from where it was probably borrowed. The next entry in @i{Malku} is @i{kāʾipu} = @i{ḫabbilu}.
+
+7'. !zz [...] !cm x#-kal-lum aš₂-šu₂ e-del !zz [...]
+#lem: u; u; aššu[because]SBJ; edēl[locking]'N; u
+
+8'. !zz [... !bs bu]-qu-um-mu-ma !cm ana ba-qa-mu# !zz [...]
+#lem: u; +buqqumu[plucked]AJ$buqummuma; ana[to]PRP; +baqāmu[pluck//plucking]V'N$; u
+
+9'. !zz [...]-x#-qu !cm lib₃-bu-u !zz x#-[...]
+#lem: u; libbū[meaning]PRP; u
+
+10'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+@translation parallel en project
+
+1'. [...] his binding [...],
+2'. [...] ... means the implement of Ištar which is like [...].
+3'. [...] means “progeny;” @i{innakam} means [...].
+4'. [...], @i{kurkešda} means “to tie a @i{mountain},” [...]
+5'. [...] means “to oppress” in the meaning “to hold back” [...],
+6'. [... “to opp]ress” (@i{kâpu}) means “to wrong” (@i{ḫabālu}), whence “powerful” (@i{kapkapu}) means [criminal (@i{habbilu}) ...].
+7'. [...] ..., because “@i{to close}” [...]
+8'. [...] “plucked out” derives from “to pluck” [...].
+9'. [...], as in [...]
+10'. ...

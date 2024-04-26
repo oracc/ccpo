@@ -1,0 +1,160 @@
+&P285998 = CCP 4.1.4.B (http://ccp.yale.edu/P285998) = BM 66965
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [he?-si?-ma? :] !cm GAZ# : he-su-u : GAZ : ṭe-pu-u₂ : DAB : he-su-u₂ : DAB : ka-ba-su [x x x (x)]
+#lem: hesima[battered]AJ; +hesû[cover up//battering]V'N$; +hesû[cover up//battering]V'N$; +ṭepû[extend//extending]V'N$; +ṭepû[extend//extending]V'N$; +hesû[cover up//battering]V'N$; +hesû[cover up//battering]V'N$; +kabāsu[tread//treading]V'N$; kabāsu[treading]'N; u; u; u; u
+
+#note: Neither @i{ṭepû} nor @i{ṭebû} are elsewhere equated with GAZ. The latter, however, is equated with @akk{ZAH₂} in @i{Diri} VI B 5, which suggests that it is the verb referred to here.
+2. !zz [x x x x (x) !bs SAG].KI?# !cm : {d}30 : SAG.KI : ana na-qa-pu : !qt qar-ra-du ša₂ ki-ma {d}30 qar-nu DU₃{+u₂} : [x x (x x)]
+#lem: u; u; u; u; u; +nakkaptu[brow]N$; Sin[1]DN; +nakkaptu[brow]N$; ana[according to]PRP; +naqāpu[stub//stubbing]V'N$; qarrādu[hero]N; ša[who]REL; kīma[like]PRP; Sin[1]DN; qarnu[horn]N; +banû[built]AJ$; u; u; u; u
+
+#note: The line seems to try to relate the “temple” (@i{nakkaptu}) with the moon god. The line commented upon, @i{Sagig} IV 1, reads: ¶ @akk{SAG.KI he-si-ma KUM₂{+im} : SED ŠU {d}ku₃-bi}, “If (his) temple is battered and hot (variant:) cold – hand of Kūbu.” On the verb @i{naqāpu}, see Lambert @i{Fs Borger} p. 144 fn. 2 and George @i{CUSAS} 18 (2013) pp. 163-164. The missing part of the line and the beginning of the next line might have equated @i{nakāpu} (in Sumerian DU₇) and @i{banû} (in Sumerian DU₃).
+3. [x x x x (x)] x# : !bs {d}ku₃-bi !cm : {d}U*.GUR* :* MIN* : {d}a-nun-na-ki : !qt i-la-at {d}a-nun-na-ki ina šu-bat?# [{d?}ku₃?-bi?]
+#lem: u; u; u; u; u; u; Kubi[1]DN; Nergal[1]DN; šanîš[alternatively]AV; Anunnakkū[1]DN; +iltu[goddess]N$ilat; Anunnakkū[1]DN; ina[in]PRP; šubat[residence]N; Kubi[1]DN
+
+#note: Quotation from unknown literary text. Compare perhaps @i{Angim} 89: @akk{{d}a-nun-na-ki ina šu-bat UB.ŠU.UKKIN.NA.KE₄ la tu-ra-ar}, “Do not panic the Anunna in the residence Ubšukkina!”
+4. !cm [x (x)] SAG?#.GA₂.GA₂ : {d}ku₃-bi : SAG : qaq-qa-du : SAG*#.US₂*# :# kul*#-lu ša₂ re-e-šu₂ : SAG.GA₂.GA₂ : ṣi-bit nak#-[kap-ti]
+#lem: u; u; X; Kubi[1]DN; qaqqadu[head]N; qaqqadu[head]N; +kullu[hold//holding]V'N$; +kullu[hold//holding]V'N$; ša[of]DET; rēšu[head]N; X; ṣibit[seizure]N; +nakkaptu[brow]N$nakkapti
+
+#note: Compare SAG.ÚS = @i{kullu ša rēši} in @i{Antagal} A 43 (@i{MSL} 17 p. 183).
+5. !cm [x (x)] x# x#-an# : {d}ku₃-bu : {d}{+ku₃}ku₁₀(MI)-bi : KU₁₀(MI) : e-ṭu-tu : BU# [:] nu*#-u₂-ri : !qt ki-ma {d}ku₃-bi ul-tu ŠA₃# [x (x)]
+#lem: u; u; u; u; Kubu[1]DN; +Kubu[]DN$; +eṭûtu[darkness]N$; +eṭûtu[darkness]N$; +nūru[light]N$; +nūru[light]N$nūri; kīma[like]PRP; Kubi[1]DN; ultu[from]PRP; libbi[interior]N; u; u
+
+6. !qt [(x)] x#-li?#-la na-ma-ri ta-re-ed-di !cm : ša₂-niš KU₁₀(MI) : ek#-let : BU : na-mar : GI.IZI.LA₂ : {d}30 : {d#}[x (x)]
+#lem: u; u; +nawāru[be(come) bright//be(com)ing bright]V'N$namāru; +redû[accompany]V$tareddi; šanîš[alternatively]AV; +ekletu[darkness]N$; +ekletu[darkness]N$eklet; +nawāru[be(come) bright]V$; +nawāru[be(come) bright//be(com)ing bright]V'N$namār; gizillâ[torch]N; Sin[1]DN; u; u
+
+#note: The line contains a quotation from an unknown text, perhaps from a childbirth ritual or a hymn to a mother goddess.
+7. !cm [(x)] KU₃?# (:#) KI#{+ti₃#} : SU?# :# na-ṣa-ri : !qt ša₂ šap-la-a-tu₂ ma-al-ku {d}ku₃-bi {d}a-nun-na-ki ta-paq-qid !cm : SAG.KI# [x (x)]
+#lem: u; +erṣetu[earth]N$; +erṣetu[earth]N$erṣeti; +naṣāru[guard//guarding]V'N$; +naṣāru[guard//guarding]V'N$naṣāri; ša[of]DET; +šaplītu[lower part]N$šaplâtu; +malku[prince]N$malkū; Kubi[1]DN; Anunnakkū[1]DN; +paqādu[entrust]V$tapaqqid; nakkaptu[brow]N; u; u
+
+#note: The first part of the line provides perhaps a notarikon explanation of the name of @akk{{d}ku₃-bu} as “he who guards the Netherworld,” an explanation that is then supported by a quotation from the @i{Šamaš Hymn}. Note the parallel explanation @akk{[...]-si : KU₃ : KI{+tim#} [...]} in BM 40837(+) o 2′.
+8. !cm [x (x)] x# {d}pa-bil-sag ŠUB*-su* KUM₂{+im} u* SED : !qt ina {iti}GAN {d}UTU ina {mul₂}pa-bil-sag GUB-ma EN.TE.[NA (x)]
+#lem: u; u; u; +Pabilsag[]DN$; imaqqussu[fall]V; immim[be(come) feverish]V; u[and]CNJ; ikaṣṣa[be(come) cold]V; ina[in]PRP; Kislimu[1]MN; Šamaš[1]DN; ina[in]PRP; +Pabilsag[]CN$; izzazma[stand]V; kūṣi[winter]N; u
+
+#note: Pabilsag features rarely in medical texts (e.g. @i{BAM} 580 iii 16′-17′: @akk{si-hi-[ip-ti] / {d}pa-bil-sag}), but apparently not in @i{Sagig}. The end of the line contains a quotation from @i{Mulapin} II gap A 7: [@i{ultu ūm} 1] @i{ša kislīmi adi ūm} 30 @i{ša šabāṭi šamaš ina ḫarrān šūt ea izzaz}(@akk{GUB})-@i{ma kuṣṣu}(@akk{EN.TE.NA}), [“From the 1st] of Kislīmu until the 30th of Šabāṭu the sun stands in the Path of Ea (and) it is winter.” Note that the symptom “it is hot and cold” (or perhaps the variant “hot” : “cold,” preserved in @i{Sagig} IV 1, @akk{KUM₂{+im} : SED}) is explained by means of an astronomical phenomenon that is at the same time “hot” (because of the sun) and “cold” (because of the winter). Illya Vorontsov (@i{privatim}) suggests that Nergal is the @i{tertium comparationis} between Pabilsag and Kūbu. According to Vorontsov, Nergal and Pabilsag are linked because they are both associated with the month Kislīmu (Nergal, among other places, in the Astrolabe B section A [@i{KAV} 218 iii 1-5 & 6-10]; Pabilsag in @i{Mulapin} I iii 6), and because they both represent warrior gods, elsewhere equated with Ninurta.
+
+9. !bs [(x)] al?#-du{+ṭu*} !cm : dan-nu : ana na-pa-hu ša₂ ŠA₃ : !bs it-te-nen-bi-ṭu !cm : e-be₂-ṭu : na-pa-hu : ub-bu-[ṭu (x x)]
+#lem: u; +ašṭu[stiff]AJ$; dannu[strong]AJ; ana[according to]PRP; napāhu[be(com)ing swollen]'N; ša[of]DET; libbi[concern]N; ittenenbiṭū[swell up]V; ebēṭu[swelling up]'N; napāhu[be(com)ing swollen]'N; +ebēṭu[swell up//making swollen]V'N$ubbuṭu; u; u
+
+#note: The equation @i{ašṭu} = @i{dannu}, which also occurs in the commentary on the same passage from BM 40837(+), originates in all likelihood from a misparsing of @akk{ŠA₂-MEŠ-šu₂ AL.DU} in @i{Sagig} IV 2 as @i{al-ṭù}, i.e., a Babylonian form of @i{ašṭu}. Note that the commentary @i{SpTU} 1 30 (@i{CCP 4.1.4.A}) l. 2 explains the form as @akk{ŠA₃-MEŠ-šu₂ il#-la-ku}, “his intestines @i{flow}.”
+10. !cm nap#-pah-tu₂ : ub-bu-uṭ : MU₂# : e-be₂-ṭu : MU₂ : na-pa-hu : !bs ŠU DINGIR-šu₂ : !qt {d}UG.URU : DINGIR a-lu : {d}[UG : x x]
+#lem: +naphu[blown on]AJ$nappahtu; +ubbuṭu[swollen]AJ$; +ebēṭu[swell up//swelling up]V'N$; ebēṭu[swelling up]'N; +napāhu[blow//be(com)ing swollen]V'N$; napāhu[be(com)ing swollen]'N; qāt[hand]N; ilišu[god]N; +Iliya[]DN$; il[god]N; ālu[city]N; X; u; u
+
+#note: On @i{nappaḫtu} as a variant of @i{napḫu}, see Schwemer @i{BagM} 37 (2006) p. 206. The end of the line contains a quotation from @i{An} = @i{Anu} VI 113.
+11. !cm URU# : a-lu : !bs UGU#-šu₂?# um*#-mu*#-da#-at : !bs UŠ !cm : e-me-du ša₂ qa-tu₄ : UŠ : ka-a-nu : !bs ŠUB{+ut} !cm : [x x (x)]
+#lem: ālu[city]N; ālu[city]N; elišu[over]PRP; ummudat[leaning upon]AJ; +emēdu[lean on//leaning on]V'N$; +emēdu[lean on//leaning on]V'N$; ša[of]DET; qātu[hand]N; +kânu[be(come) permanent//be(com)ing permanent]V'N$; kânu[be(com)ing permanent]'N; imqut[fall]V; u; u; u
+
+12. !bs a#-ši-a !cm : e-šu-u : da-la-hu : ša₂-niš ER₂(|A.ŠI|){+a} : ba-ka-a : ša₂ dim-tu₂ ina lib₃-bi DU{+ku} ša₂# x# [...]
+#lem: +ešû[confused]AJ$ašiā; +ešû[confuse//confusing]V'N$; dalāhu[troubling]'N; šanîš[alternatively]AV; +bakû[weep//weeping]V'N$; +bakû[weep//weeping]V'N$; ša[of]DET; +dimtu[tear]N$; ina[in]PRP; libbi[concern]N; +alāku[go]V$illaku; ša[of]DET; u; u
+
+13. !bs [(x)] UGU# SAG.DU-šu₂ !cm : ši-bit SAG.DU-šu₂ : !bs ha-biš !cm : ha-bi-iš : !bs ŠA₃ ŠA₃ DUG₄.DUG₄{+si#} [ŠU GIDIM (x)]
+#lem: u; muhhi[top]N; qaqqadišu[head]N; šībit[grey hair]N; qaqqadišu[head]N; +habiš[crushed]AJ$; habiš[crushed]AJ; libbi[concern]N; libbi[interior]N; +šasû[shout]V$ištanassi; qāt[hand]N; eṭemma[ghost]N; u
+
+14. !bs [(x)] ša₂#-ne₂-e {d}15 UŠ₂ !cm ŠA₃ : {d}15 : !qt is-suk mul-mul ih#-te-pi ka-ras#-[sa]
+#lem: u; +šanû[second//emissary]N'N$šanê; Ištar[1]DN; imât[die]V; libbi[interior]N; Ištar[1]DN; issuk[shoot]V; mulmul[arrow]N; +hepû[break]V$ihtepi; +karšu[stomach]N$karassa
+
+#note: The line tries to demonstrate that the apodosis can be inferred from the protasis. To do so, it states that a word from the protasis (@i{libbu}, “belly”) is related to a word from the apodosis (Ištar), since they both appear together, @i{mutatis mutandis}, in a line from the @i{Epic of Creation}. The line in question describes how Marduk pierces Tiāmat’s “belly” by means of an “arrow”: the latter word, written @i{mul-mul} in the commentary, is reinterpreted as symbolizing the astral aspect of the goddess Ištar. However the exact way in which the goddess’s planet, Venus, is related to the “Pleiades” (@akk{{mul}MUL}) is not specified in the commentary.
+15. !bs i*#-a₃*#-a-ru !cm : i-par-ru : a-ru-u : pa-ru-u : !bs KI.NA₂ !cm : KI : ši-i-[x : NA₂ : x x (x)]
+#lem: +arû[vomit]V$iʾarru; +parû[vomit]V$iparru; +arû[vomit//vomiting]V'N$; +parû[vomit//vomiting]V'N$; +mayyaltu[bed]N$; u; u; u; u; u; u
+
+16. !bs [TA {d}UTU.ŠU₂].A# EN# EN.NUN.U₄.ZAL.LI !cm : TA še-e-ri EN ki-iṣ U₄{+mu#} [x x x (x)]
+#lem: +ištu[from]PRP$ultu; ereb[entrance]N; adi[until]PRP; šāt[who(m)]DET&urri[daytime]N; +ištu[from]PRP$ultu; šēri[morning star]N; adi[until]PRP; +kīṣu[coolness]N$kīṣ; ūmu[day]N; u; u; u; u
+
+17. !zz [...] x# x# x#-ša-mu : ina ra-a-x# [...]
+#lem: u; u; u; u; ina[in]PRP; u; u
+
+18. !zz [...] x# hu# : !cm sa#-la?-hu !zz : ša₂ [...]
+#lem: u; u; X; salāhu[sprinkling]'N; ša[of]DET; u
+
+#note: If the reading @akk{sa#-la?-hu} is correct, compare @i{SpTU} 1 30 (@i{CCP 4.1.4.A}) l. 9: @akk{[i]-rad#-ma : ra-a-du : sa-la#-ha} (on @i{Sagig} IV 23). Compare also BM 38273 (@i{CCP} 7.2.u26) r 2 @akk{ha-mu-u : sa-la-hu}. According to E. Schmidtchen (private communication), @akk{sa#-la?-hu} might comment on @i{Sagig} IV 21 (@akk{ŠU KI.SIKIL.LIL₂.LA₂.EN.NA la-ʾ-bi}), either on @i{laʾbu} or on @akk{ŠU KI.SIKIL.LIL₂.LA₂.EN.NA} (note the equation @akk{LIL₂} = @i{salāḫu}).
+19. !zz [...] x# [...]
+#lem: u; u; u
+
+@reverse
+
+$(Only odd signs and traces preserved)
+
+@translation parallel en project
+
+@label o 1
+
+[“@i{He is battered}” (= @i{Sagig} IV 1)] – GAZ means “to batter,” GAZ means “to append”; DAB means “to batter,” DAB means “to trample.” [...]
+
+@label o 2 - 3
+
+[... the “@i{temp}]@i{le} (?) (= @i{Sagig} IV 1) (represents) Sîn; “temple” (@i{nakkaptu}) (stems) from “to stub,” (as in) “warrior whose horns grow like those of Sîn” (= quotation from @i{Lugale} 143) [...].
+
+@label o 3
+Kūbu (= @i{Sagig} IV 1) means “Nergal,” alternatively, it means “Anunnaki,” (as in) “the goddess of the Anunnaki in the @i{dwelling} [@i{of Kūbu} (?)” (quotation from unknown literary text)].
+
+@label o 4 - 6
+
+[... SA]G?.GÁ.GÁ means “Kūbu,” (because) SAG means “head,” SAG.ÚS means “to pay attention” (lit. “to hold, said of the head”), SAG.GÁ.GÁ means “seizure of the te[mple” ...] means Kūbu. (In) Kūbu (written @i{ku}₁₀-@i{bi}), KU₁₀ means “darkness” and BU means “light,” (as in) “you drive (the baby) like a foetus from the womb [... @i{towards} the] ... of the brightness” (quotation from unknown literary text).
+
+@label o 6
+
+Alternatively, KU₁₀ means “gloom” and BU means “brightness,” (it refers to) the torch, (i.e.), Sîn, (which is) the god [...].
+
+ 
+@label o 7
+
+[(...)] @i{KÙ} (?) means “Netherworld” and @i{SU} (?) means “to guard,” (as in) “In the depth you review the Anunnaki, the princes of Kūbu” (quotation from @i{Šamaš Hymn} 31).
+
+@label+ 7 - 8
+
+“The temple [...] ... Pabilsag will fall upon him, it is warm and it is cold” (because) “in Kislīmu the sun stands in the Pabilsag constelation (i.e., Sagittarius) (and) it is win[ter]” (quotation from @i{Mulapin} II gap A 7).
+
+@label o 9
+
+AL.DU (= @i{Sagig} IV 2) (read as @i{al-ṭù}) means “hard,” (it refers) to the bloating of the belly.
+
+@label+ 9 - 10
+
+“It is constantly swollen” (= @i{Sagig} IV 3) – “to swell” means “to bloat,” “swol[len ...], “bloated” means “swollen,” (since) MÚ means “to bloat” and MÚ means “to swell.”
+
+@label o 10 - 11
+
+The “Hand of his god” (= @i{Sagig} IV 4) refers to the god d.<U₄>.UK.URU, (i.e.), the “god of the town” (quotation from @i{An} = @i{Anu} VI 113), (since) d.[UG means @i{god}] and URU means “town.”
+
+@label o 11
+
+“It is imposed upon him” (= @i{Sagig} IV 4) – UŠ means “to impose,” said of a hand; UŠ means “to establish.” ŠUB-@i{ut} (= @i{Sagig} IV 5) means [...].
+
+@label o 12
+
+(The word) @i{a-ši-a} (= @i{Sagig} IV 6) (stems from) “to confuse” (@i{ešû}), i.e., “to trouble.” Alternatively, (parsed as) ÉR-@i{a}, it means “to cry,” (it refers to the man) who cries in his heart, ... [...].
+
+@label o 13
+
+The “@i{marrow} of the skull” (= @i{Sagig} IV 8) means “the seam of the skull.” (The word) @i{ḫa-biš} (= @i{Sagig} IV 9) (should be parsed as) @i{ḫa-bi-iš} (“it is swollen”).
+
+@label+ 13 - 14
+
+“(If) he cries once and again ‘my belly, my belly!’: [hand of a ghost], emissary of Ištar. He will die” (= @i{Sagig} IV 10). “Belly” (in the protasis is related to) “Ištar” (in the apodosis), (as in) “He shot an arrow that pierced her belly” (quotation from @i{Enūma eliš} IV 101).
+
+@label o 15
+
+“He vomits” (= @i{Sagig} IV 11) means “he retches,” (since) “to vomit” means “to retch.” (In) KI.NÁ (= @i{Sagig} IV 11), KI means ... [and NÁ means ...].
+
+
+@label o 16
+
+“From sunset until the third watch of the night” (= @i{Sagig} IV 12) means “from the morning until the evening (lit. ‘until the cool of the day’)” [...].
+
+@label o 17
+
+[...] ... [...]
+
+@label o 18
+
+[...] ... “@i{to twitch}” ... [...]
+
+@label o 19
+
+...

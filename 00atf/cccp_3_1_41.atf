@@ -1,0 +1,259 @@
+&P452134 = 3.1.41 (http://ccp.yale.edu/P452134) = 81-2-4,206
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+$ beginning of tablet broken
+
+1'. !bs * DUNGU# [x x x x x] IGI?# [x x x x]
+#lem: erpeti[cloud]N; u; u; u; u; u; u; u; u; u; u
+
+2'. ($_____$) !cm ka#-[x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u
+
+3'. !bs * DUNGU# [x x x x x x x x x x]
+#lem: erpeti[cloud]N; u; u; u; u; u; u; u; u; u; u
+
+4'. ($_____$) !bs ŠEG₃-MEŠ# [x x x x]-ti# [x x x]
+#lem: zunnū[rain]N; u; u; u; u; u; u; u
+
+5'. ($_____$) !cm ina {iti}ŠE?# [x x x] x# [x x x]
+#lem: ina[in]PRP; Addaru[1]MN; u; u; u; u; u; u; u
+
+6'. !bs * DUNGU KIMIN?# [x x x] ana {tu₁₅}U₁₈.LU ana {tu₁₅#}SI#.[SA₂ x x (x)]
+#lem: erpeti[cloud]N; X; u; u; u; ana[towards]PRP; šūti[south]N; ana[towards]PRP; iltāni[north]N; u; u; u
+
+7'. ($_____$) !cm DUNGU u₂#-[(x)]-x-bal-ma DU{+az#}-ma#
+#lem: erpeti[cloud]N; u; +izuzzum[stand]V$izzaz
+
+8'. !bs * DUNGU SIG₇ u GE₆ šu-ta-ha-a TU₁₅ ZI{+a}
+#lem: erpeti[cloud]N; +warqu[yellow-green]AJ$aruqtu; u[and]CNJ; +ṣalmu[black]AJ$ṣalamtu; +šutāhû[paired (off)]AJ$šutāhâ; šāru[wind]N; +tebû[get up]V$itebbâ
+
+9'. ($_____$) !cm šu-ta-hu-u₂ : mal₂-ma-liš
+#lem: +šutāhû[paired (off)]AJ$; +malmališ[equally//at the same time]AV'AV$
+
+$ single ruling
+
+10'. !zz mu-kal-lim-ti * U₄ AN {d}EN.LIL₂ šu-ut KA ša₂ KA UM.ME.A
+#lem: +mukallimtu[scholarly commentary]N$mukallimti; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[accordance]N; ummâni[expert]N
+
+11'. !zz ša lib₃-bi * U₄ ŠU₂-ma DUNGU i-lam-ma
+#lem: ša[of]DET; libbi[interior]N; ūm[day]N; irbima[disappear]V; erpetu[cloud]N; +lawû[surround]V$ilamma
+
+#NV the form ilamma is irregular, but reflects your translation better than illamma[rise]V. I have rendered erpetu in the nominative (you had erpeti).
+
+$ single ruling
+
+12'. !bs * ina {iti}BARA₂ {d}IŠKUR GU₃-šu₂ ŠUB{+di} ŠE GU{+u₂} TUR{+ir}
+#lem: ina[in]PRP; Nisannu[1]MN; Adad[1]DN; rigimšu[voice]N; +nadû[throw//utter]V'V$iddi; Addaru[1]MN; qû[flax]N; +ṣehēru[be(come) small]V$iṣehher
+
+#NV changed qû[string] into qû[flax]
+
+13'. ($_____$) !cm ki-i ul-tu ŠA₃ {iti}APIN GU₃-šu₂ la it-ta-du-u
+#lem: kī[like]PRP; ultu[from]PRP; libbi[interior]N; Arahsamnu[1]MN; rigimšu[voice]N; lā[not]MOD; +nadû[throw//utter]V'V$ittadû
+
+14'. ($_____$) !cm u₃ ul-tu ŠA₃ {iti}BARA₂ ul-ter-ru-u₂ lum-nu
+#lem: u[and]CNJ; ultu[from]PRP; libbi[interior]N; Nisannu[1]MN; +šurrû[begin]V$ulterrû; lumnu[evil]N
+
+15'. ($_____$) !cm ša gab-bi ITI-MEŠ ŠU.BI.AŠ.AM₃
+#lem: ša[that]REL; gabbi[all]N; arhī[month]N; X
+
+$ single ruling
+
+16'. !bs * ina {iti}GU₄ {d}IŠKUR GU₃-šu₂ ŠUB-ma KI{+tim!(MUN)} lu I₃#.GIŠ# lu A.ESIR₂
+#lem: ina[in]PRP; Ayyaru[1]MN; Adad[1]DN; rigimšu[voice]N; +nadû[throw//utter]V'V$iddima; +erṣetu[earth]N$erṣetim; lū[or]CNJ; šamna[oil]N; lū[or]CNJ; +iṭṭû[bitumen]N$iṭṭâ
+
+17'. ($_____$) !bs  lu A.ESIR₂.UD.DU.<A> i-hi-la 3 ITI-MEŠ U₄ 10-KAM KUR ina?# [niš-hi] TIL{+ti}
+#lem: lū[or]CNJ; +kupru[bitumen]N$kupra; +hiālu[be in labour//exude]V'V$ihīla; n; arhī[month]N; ūmū[day]N; n; mātu[land]N; ina[in]PRP; +nišhu[diarrhoea]N$nišhi; iqatti[cease]V
+
+#note: The restoration of @i{nišḫu} at this point seems unavoidable. Note that @i{nišḫu}, "diarrhea," appears in the apodosis of an unpublished tablet of astological omens (@i{CAD} N/2 280a, @i{nišḫu ana nišī imaqqut}).
+
+#NV KUR was lemmatized Šamaš - corrected to mātu
+
+18'. ($_____$) !bs  niš-hu : !cm su-a-lu : ṣa-na-hu : ŠA₃.SUR# [: niš]-hu
+#lem: +nišhu[diarrhoea]N$; +suālu[cough]N$; +ṣanāhu[excrete (fluid)//excreting fluid]V'N$; nišhu[diarrhoea]N; nišhu[diarrhoea]N
+
+#note: Apparently the earth "exudating" oil and bitumen allowed the ancient author to "deduce" the curious apodosis. The commentator then used explanation of the name of the disease "diarrhoea" (@i{nišḫu}) which was known to him from other astrological and medical commentaries (@i{CAD} N/2 279b).
+
+19'. ($_____$) !cm ŠA₃ : lib-bu : SUR : ši-[te-en]-nu#
+#lem: libbu[heart]N; libbu[heart]N; +šanû[sluice//urinating]V'N$šitennû; +šanû[sluice//urinating]V'N$šitennû
+
+#note: The equation at the end of the line is also attested in an @i{Ālu} commentary from Uruk (@i{CCP} 3.5.45.A, cited in @i{CAD} Š/1 409b).
+
+#NV this commentary is available as oracc.org/cams/gkab/P348641
+
+$ single ruling
+
+20'. !bs * ina {iti}GU₄ {d}IŠKUR GU₃-šu₂ GIM U.GU x [x x x]
+#lem: ina[in]PRP; Ayyaru[1]MN; Adad[1]DN; rigimšu[voice]N; kīma[like]PRP; X; u; u; u; u
+
+21'. ($_____$) !bs ŠUR AN{+e} RA{+aṣ}-[ma x x]
+#lem: +zanānu[rain//raining]V'N$zanān; šamê[heaven]N; +rahāṣu[flood//flooding]V'N$rahāṣma; u; u
+
+22'. ($_____$) !cm U : ri-ig-mu [:] {+ki*-ri}KA :# [x x x]
+#lem: +rigmu[voice]N$; +rigmu[voice]N$; +appu[nose]N$; u; u; u
+
+#note: On the first equation, cf. e.g. {ù}U₄ = @i{rigmu} (@i{MSL} 14 332 l. 14). The gloss to kiri₃ could have been either @i{appu}, "nose," or @i{būṣu}, "hyena."
+23'. ($_____$) !cm ki-ma ri-ig#-mi : [x x x]
+#lem: kīma[like]PRP; +rigmu[voice]N$rigmi; u; u; u
+
+24'. ($_____$) !cm : {+u₂-gu}UGU : u₂-ma-mu ki-ma iq#-[bu-u₂]
+#lem: +umāmu[animal]N$; umāmu[animal]N; kīma[when]'SBJ; iqbû[say]V
+
+#note: UGU = @i{umāmu} is probably based on Ú.KÚ = @i{umāmu} (@i{Hh} XIV 388). The lacuna in l. 23' precludes the understanding of the gist of the explanation. U. Gabbay (privatim) considers the restoration @i{ki-ma i}[@i{q-bu-ú}] very unlikely, "since all other syllabic writings of the term read @i{kī iqbû}. Also, since @i{kīma} occurs also in the previous line for a description, this is probably the case in this line as well (perhaps @i{ki-ma r}[@i{i-gim} ...] or similar, or @i{ki-ma i}[@i{k-kil}] or similar)."
+
+@reverse
+
+25'. !bs [*] ina {iti}KIN {d}IŠKUR GU₃-šu₂ GIM ANŠE.KUR.RA iš-tam-mar#
+#lem: ina[in]PRP; Ululu[1]MN; Adad[1]DN; rigimšu[voice]N; kīma[like]PRP; sisê[horse]N; ištammar[rage]V
+
+26'. ($_____$) !bs ZI{+ut} {giš}TUKUL pa-har UN!(KAL)-MEŠ BIR-MEŠ#
+#lem: tibût[attack]N; kakki[weapon]N; +pahāru[gather//gathering]V'N$pahār; nišū[people]N; +saphu[scattered]N$saphāti
+
+27'. ($_____$) !bs ID₂-MEŠ a-ha-meš i-še-ʾi-i-[ra]
+#lem: nārāti[river]N; ahāmeš[one another]AV; +šeʾēru[pass by]V$išeʾʾerā
+
+#note: On the use of @i{šaʾāru}, said of bodies of water, see Schwemer NABU 2003/97, who translates it as "passieren, überschreiten."
+28'. ($_____$) !bs ŠEG₃-ME u ILLU-ME har-pu ŠE <ina> AŠ.IKU ZAL{+iš} NU₂#[{+iṣ}]
+#lem: zunnū[rain]N; u[and]CNJ; mīlū[flood]N; harpū[early]AJ; Addaru[1]MN; ina[at]PRP; +šerʾu[furrow]N$širʾu; +lazziš[persistently]N$; +rabāṣu[lie down]V$irabbiṣ
+
+#note: The interpretation of the last two words as @i{lazziš irabbiṣ} follows @i{AHw} 1585a.
+29'. ($_____$) !cm {+i-ku}AŠ.IKU : ši-ir-ʾu ina ši-ir-ʾi ša₂ iq-bu#-[u₂]
+#lem: +šerʾu[furrow]N$širʾu; +šerʾu[furrow]N$širʾu; ina[in]PRP; +šerʾu[furrow]N$širʾi; ša[which]REL; iqbû[say]V
+#note: According to U. Gabbay (@i{privatim}), "The restoration of the term @i{ša iqbû} is unlikely because it does not occur in such a context. It is supposed to cite a text before a commentary on it, and here there is nothing after it. There is no ú in the tablet, and BU although possible is certainly not the only possible restoration. The restoration @i{ša eq}-[@i{lim}] in the original copy is not bad, although not necessarily correct.
+30'. !bs * ina {iti}APIN {d}IŠKUR GU₃-šu₂ GIM ši-ga-ti is#-[si]
+#lem: ina[in]PRP; Arahsamnu[1]MN; Adad[1]DN; rigimšu[voice]N; kīma[like]PRP; +šiggatu[meaning unknown]N$šiggati; issi[cry out]V
+
+31'. ($_____$) !cm BURU₁₄ KUR A-MEŠ ub-ba-lu a-ra-ar₂ DINGIR u LUGAL?#
+#lem: ebūr[harvest]N; māti[land]N; mê[water]N; +wabālu[carry]V$ubbalū; +arāru[curse//cursing]V'N$arār; ili[god]N; u[and]CNJ; šarri[king]N
+
+32'. ($_____$) !cm ki-ma šu-qa-ti ša {lu₂}SIPA
+#lem: kīma[like]PRP; +šūqātu[meaning uncertain]N$šūqāti; ša[of]DET; rēʾî[shepherd]N
+
+#note: @i{šuqātu} is a hapax legomenon. An emendation to @i{zer!-qa-ti} would yield the sense "like the shepherd's sheep," but is unconvincing epigraphically.
+
+$ single ruling
+
+33'. !zz mu-kal-lim-ti * U₄ AN {d}EN.LIL₂ šu-ut KA ša₂ KA UM.ME.A
+#lem: mukallimti[scholarly commentary]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[accordance]N; ummâni[expert]N
+
+34'. !zz ša lib₃-bi * ina {iti}BARA₂ {d}IŠKUR GU₃-šu₂ ŠUB{+di}
+#lem: ša[of]DET; libbi[middle]N; ina[in]PRP; Nisannu[1]MN; Adad[1]DN; rigimšu[voice]N; iddi[utter]V
+
+$ single ruling
+
+35'. !bs * ina {iti}GU₄ {d}IŠKUR GU₃-šu₂ ina IGI-PAR {d}UTU ŠUB NIM.GIR₂
+#lem: ina[in]PRP; Ayyaru[1]MN; Adad[1]DN; rigimšu[voice]N; ina[in]PRP; X; Šamaš[1]DN; +nadû[throw//utter]V'V$iddi; berqu[lightning (flash)]N$
+
+36'. ($_____$) !bs la ib-riq₂ {d}TIR.AN.NA NU GIB MU 3-KAM
+#lem: lā[not]MOD; +barāqu[lighten]V$ibriq; Manzat[Rainbow]DN; ul[not]MOD; ipruk[lie across]V; šatti[year]N; n
+
+37'. ($_____$) !bs UN-MEŠ iš-še-ha-a-ma LU₂ LU₂ ub-bar
+#lem: nišū[people]N; +šêhu[be agitated]V$iššeḫḫāma; amēlu[man]N; amēla[man]N; +abāru[embrace//accuse]V'V$ubbar
+
+38'. ($_____$) !cm IGI.{+pa}RU :* na-an-mu-ru ina KUR{+ih} {d}UTU GU₃-šu₂ ŠUB-ma
+#lem: +amāru[see]V$; +amāru[see//appear]V'V$nanmuru; ina[in]PRP; +niphu[(the act of) lighting]N$nipih; Šamaš[1]DN; rigimšu[voice]N; iddima[utter]V
+
+#note: The line ingenuously interprets the difficult IGI+UD {d}UTU from the protasis as IGI.PAR, and hence as some kind of writing of PÀD, PÀD(IGI{pa}.RU) :* @i{na-an-mu-ru}. This is then equated with “at sunrise” (for a more plausible interpretation of IGI-UD as a corruption, see @i{CAD} Š/3 57a).
+
+39'. !bs * ina {iti#}[x {d}]IŠKUR# GU₃-šu₂ ŠUB-ma {d}TIR.AN.NA ša₂ MUŠ₂-ša₂
+#lem: ina[in]PRP; u; Adad[1]DN; rigimšu[voice]N; iddima[utter]V; Manzat[Rainbow]DN; ša[of]DET; +zīmu[face]N$zīmīša
+
+40'. !bs ma#-[diš x x TA {tu₁₅}]U₁₈#.LU ana {tu₁₅}SI.SA₂ GIB
+#lem: mādiš[greatly]AV; u; u; +ištu[from]PRP$; šūti[south]N; ana[towards]PRP; iltāni[north]N; ipruk[lie across]V
+
+#note: @i{manzât ša zīmīša mādiš} + COLOR is an expression also attested in EAE 45 (Gehlken @i{CM} 43 [2012] p. 56 l. 16') and 46 (ibid. p. 106 l. 53'-54').
+
+41'. !bs x#-[x x x x {tu₁₅}]SI#.SA₂ ILLU-ME DU-ME{+ni}
+#lem: u; u; u; u; iltāni[north]N; mīlū[flood]N; +alāku[go]V$illikūni
+
+42'. !bs x# [x x x x x]-ME GAR{+an}
+#lem: u; u; u; u; u; u; iššakkan[take place]V
+
+43'. !cm x# [x x x x x]-ma-nu
+#lem: u; u; u; u; u; u
+
+$ single ruling
+
+44'. !bs * [x x x x x x x x] KASKAL* ŠEŠ.UNUG*<{ki}> ina-qar
+#lem: u; u; u; u; u; u; u; u; harrān[path]N; Ur[1]SN; inaqqar[demolish]V
+
+45'. !bs [x x x x x x x x x] GAL#{+u₂}
+#lem: u; u; u; u; u; u; u; u; u; rabû[great]AJ
+
+46'. !cm [x x x x x x x x x x] x#
+#lem: u; u; u; u; u; u; u; u; u; u; u
+
+$ rest of tablet broken
+
+@translation labeled en project
+
+@label 1' - 2'
+
+"If a cloud [...]." (= @i{EAE} 41 (?)) [...]
+
+@label 3' - 5'
+
+"If a cloud [...], rains [...]" (= @i{EAE} 41 (?)) [...] In the month of @Addaru (XII) (?) [...]
+
+@label 6' - 7'
+
+"If a cloud @ditto [and ...] to the south and to the north [...]" (= @i{EAE} 41 (?)) (means) that the cloud ... and stands.
+
+@label 8' - 9'
+
+"If a yellow and a black cloud are paired, the wind will come" (= @i{EAE} 41 (?)), "paired" means "at the same time."
+ 
+$ single ruling
+
+@label 10' - 11'
+
+Mukallimtu-commentary on Enūma Anu Enlil, with oral explanations, following the sayings of a scholar, (referring to entries) from "If the day gets dark and a cloud surrounds it" (= @i{EAE} 41).
+
+$ single ruling
+
+@label 12' - 15'
+
+"If in the month of Nisannu (I) Adad roars, the crops of barley (and) flax will diminish" (= @i{EAE} 42 1) (means) if from the month of Araḫsamna (VIII) (Adad) he has not roared, and has only started (@šurrû) to do so from the month of Nisannu (I) on, the evil (prognosis) will be the same for the rest of the months.
+ 
+@label 16' - 19'
+
+"If in the month of Ayyāru (II) Adad roars and the land exudes either oil, or bitumen or asphalt, the land will be consumed by diarrhea for three months and ten days" (= @i{EAE} 42 110). "Diarrhoea" means @suālu-disease, i.e., "to excrete." The signs ŠÀ.SUR mean "diarrhoea," where ŠÀ means "belly" and SUR means "to urinate."
+
+@label 20' - 24'
+
+"If in the month of Ayyāru (II) Adad [roars] like a @beast (U.GU), rain from the sky, flooding [of ...]" (= @i{EAE} 42 122). U means "noise," and KA, when pronounced /kiri/, means [...]. "Like the noise," [...]. (Hence) UGU means "beasts," (is) like it said. 
+
+@label 25' - 29'
+
+"If in the month of Elūlu (VI) Adad roars like a horse, violent attack, gathering of scattered people; the rivers will cross over each other; rains and floods will come early; the barley will lie in the furrows (IKU) continuously." (= @i{EAE} 42 126 (?) = @SpTU 2 41 r 20). IKU means "furrow," so "in the furrow" (is) what is said.
+
+@label 30' - 32'
+
+"If during the month of Araḫsamna (VIII) Adad roars like a @šigātu, flooding waters will carry off the land's harvest, cursing of god and king." (= @i{EAE} 42 128 (?)). ("Like a @šigātu" means) "like a shepherd's @šuqātu."
+
+$ single ruling
+
+@label 33' - 34'
+
+Mukallimtu-commentary on Enūma Anu Enlil, with oral explanations, following the sayings of a scholar, (referring to entries) from "If in the month of Nisannu Adad roars" (= @i{EAE} 42).
+
+$ single ruling
+
+@label 35' - 38'
+
+"If in the month of Ayyāru (II) Adad roars in the IGI-PAR of the sun but there is no lightning or rainbow, for three years the people will be agitated, one man will accuse the other," (= K.3551+ o 8'-9' = @i{EAE} 43 unplaced) PÀ (written IGI-PA-RU) means "to appear," (and hence the protasis means) "if (Adad) roars at sunrise."
+
+@label 39' - 43'
+
+"If in the month of [...] Adad roars and a rainbow whose appearance is predominantly [x color] stretches from north to south, [...] in the north, floods will come, [...] will be" (@i{EAE} 43 unplaced). [...] means [...]@i{mānu}.
+
+@label 44' - 46'
+
+"If [...] will destroy the [@cities] of the road to Ur" (@i{EAE} 43 unplaced) [...] great [...].
+
+$ rest of tablet broken

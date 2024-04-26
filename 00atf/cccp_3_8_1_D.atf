@@ -1,0 +1,133 @@
+&P369364 = CCP 3.8.1.D (http://ccp.yale.edu/P369364) = VAT 10801
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1. !bs * E₂ [x x] & !cm [...]
+#lem: bīt[house]N; u; u; u
+
+#tr.en: “If he […] a house” (= @i{Iqqur īpuš} uncertain) [refers to the man) who …].
+2. !bs * E₂ DU₃{+uš} & !cm ša₂ {giš#}[IG i-zaq-qa-pu]
+#lem: bīta[house]N; īpuš[do]V; ša[that]REL; dalti[door]N; izaqqapu[fix upright]V
+
+#tr.en: “If he builds a house” (= @i{Iqqur īpuš} §5) (refers to the man) who [erects a] d[oor.]
+3. !bs * E₂ i-qur# & !cm ša₂ E₂?# [SUMUN KUR₂-ma GIBIL ip-pu-šu]
+#lem: bīta[house]N; +naqāru[demolish]V$iqqur; ša[that]REL; šarru[king]N; labirtu[old]AJ; inakkirū-ma[be(come) different]V; eššetu[new]AJ; ippušu[do]V
+
+#tr.en: “If he tears down a house” (= @i{Iqqur īpuš} §7) (refers to the man) who [removes] an old] house [and builds a new one.]
+#note: Elsehwhere the explanation reads @akk{šá SUMUN KÚR-ma} … (e.g. in @i{CCP} 3.8.1.A r 14). However, according to Frahm’s collation, the sign after @i{šá} begins with two horizontals, and therefore cannot be @akk{SUMUN} or @akk{la}.
+4. !bs * E₂ i#-x# & ša₂ x#-bi-[...]
+#lem: bīta[house]N; u; ša[of]DET; u
+
+#tr.en: “If he … a house” (= @i{Iqqur īpuš} uncertain) (refers to the man) who … […].
+#note: Perhaps @akk{i#-qur!#} | @akk{šá la!#-bi-[ra KÚR-ma GIBIL ip-pu-šu]}.
+5. !bs * E₂-su ud-diš & !cm ša₂ si-i-[ri ...]
+#lem: bīssu[household]N; uddiš[renew]V; ša[of]DET; sīri[(wall-)plaster]N; u
+
+#tr.en: “If he renovates a house” (= @i{Iqqur īpuš} §20) (refers to the man) [who … the] wall-p[laster.]
+#note: Compare ¶ @akk{E₂ iṣ-ṣi ša₂ si-i-ri i-hal-la-šu}, “‘If he diminishes a house’ (= @i{Iqqur īpuš} §8) (refers to the man) who scrapes off the wall-plaster”; in @i{CCP} 3.8.1.A r 15.
+6. !bs * E₂ KUR₂{+ir} & !cm ša₂# la!#-[pa-an GISKIM E₃-ma ana E₂-šu₂ MAN-ma ir-ru-bu]
+#lem: bīt[house]N; inakkir[change]V; ša[of]DET; lapān[in front of]PRP; itti[sign]N; uṣṣima[leave]V; ana[according to]PRP; bītišu[household]N; šanûmma[(an)other]AJ; irrubu[enter]V
+
+#tr.en: “If he changes (his) house” (= @i{Iqqur īpuš} §11) (refers to the man) who, @i{f}[@i{leeing bad omens, leaves (his house) and enters another house of his}.]
+7. !bs * IDIM-BI i-šur & !cm ša₂# [...]
+#lem: X; īšur[muster]V; ša[of]DET; u
+
+#tr.en: “If he musters his @i{idim}” (= @i{Iqqur īpuš} §25) (refers to the man) who […].
+8. !bs * KI.NE KUR₂.KUR₂{+ir#} & !cm [ša₂ ...]
+#lem: kinūni[brazier]N; ittanakkir[change]V; ša[of]DET; u
+
+#tr.en: “If he repeatedly changes a brazier” (= @i{Iqqur īpuš} §51) [(refers to the man) who …].
+9. !bs * KI.NE [ŠUB{+di}] & !cm [ša₂ ...]
+#lem: kinūni[brazier]N; iddi[utter]V; ša[of]DET; u
+
+#tr.en: “If he [sets up] a brazier” (= @i{Iqqur īpuš} §52) [(refers to the man) who …].
+10. !bs * KI.NE# [GIBIL{+eš}] & !cm [ša₂ ...]
+#lem: kinūni[brazier]N; eššeš[anew]AV; ša[of]DET; u
+
+#tr.en: “If he [renovates] a brazier” (= @i{Iqqur īpuš} §53) [(refers to the man) who …].
+$ single ruling
+11. &2 !bs * x# [...]
+#lem: u; u
+
+#tr.en: If […]
+12. &2 !bs *# x# [...]
+#lem: u; u
+
+#tr.en: I[f …]
+
+@reverse
+
+1'. !bs *# x# [...]
+#lem: u; u
+
+#tr.en: “If … […].”
+2'. !bs * UR.GI₇ [...]
+#lem: kalbu[dog]N; u
+
+#tr.en: “If a dog […]” (= @i{Šumma Ālu} XLVII?).
+3'. !bs * a-a-ṣu# [...]
+#lem: +ayyāṣu[weasel]N$; u
+
+#tr.en: “If a weasel […]” (= @i{Šumma Ālu} XLVII?).
+4'. !bs * maš₂!?-gal-lu x# [...]
+#lem: +mašgallu[billy goat]N$; u; u
+
+#tr.en: “If a @i{billy goat} … […]”
+5'. !bs * UZU.DIR ina# [...]
+#lem: kamūnu[(a fungus)]N; ina[in]PRP; u
+
+#tr.en: “If lichen in […]” (= @i{Šumma Ālu} XIII).
+6'. !bs * ka-tar-ru [...]
+#lem: +katarru[(a kind of fungus)]N$; u
+
+#tr.en: “If fungus […]” (= @i{Šumma Ālu} XII 29-42).
+7'. !bs * ka-tar-ru [...]
+#lem: +katarru[(a kind of fungus)]N$; u
+
+#tr.en: “If fungus […]” (= @i{Šumma Ālu} XII 29-42).
+8'. !bs * ina E₂ NA x# [...]
+#lem: ina[in]PRP; bīt[house]N; amēli[man]N; u; u
+
+#tr.en: “If in a man’s house … […]” (= @i{Šumma Ālu} XIV 51, 60-64).
+9'. !bs * ina E₂ NA# [...]
+#lem: ina[in]PRP; bīt[house]N; amēli[man]N; u
+
+#tr.en: “If in a man’s house […]” (= @i{Šumma Ālu} XIV 51, 60-64).
+10'. !bs * ina E₂ NA# [...]
+#lem: ina[in]PRP; bīt[house]N; amēli[man]N; u
+
+#tr.en: “If in a man’s house […]” (= @i{Šumma Ālu} XIV 51, 60-64).
+11'. !bs * ina E₂ NA# [...]
+#lem: ina[in]PRP; bīt[house]N; amēli[man]N; u
+
+#tr.en: “If in a man’s house […]” (= @i{Šumma Ālu} XIV 51, 60-64).
+12'. !bs [(*)] x im-me-du-ma# [...]
+#lem: u; +emēdu[lean on]V$immedū-ma; u
+
+#tr.en: […] … they imposed and […]
+13'. !bs [(*)] $KI ana ku-šu#-[...]
+#lem: u; ana[according to]PRP; u
+
+#tr.en: [(If)] … […]
+14'. !bs [(*)] $KI ana ku-šu-[...]
+#lem: u; ana[according to]PRP; u
+
+#tr.en: [(If)] … […]
+15'. !bs [(*)] {giš#}SI#.GAR.I₃.GU₇.E NU (x#) x# x# $PAD [...]
+#lem: +šigaru[(wooden) clamp]N$; lā[not]MOD; u; u; u; u; u
+
+#tr.en: [(If)] a lock that uses oil … […]
+#note: Compare @i{Ḫḫ} V 295: @akk{{giš}SI.GAR.I₃.GU₇.E} = @akk{ši-[ga-ru a]-kil# šam#-ni}, “lock that uses oil.” 
+16'. !bs [(*) x] x# ina# E₂ NA x# x# [x x] ša₂#-ri-i  [...]
+#lem: u; u; ina[in]PRP; bīt[house]N; amēli[man]N; u; u; u; u; X; u
+
+#tr.en: [(If) …] … in a man’s house … […] … […].
+
+$ (end of reverse)

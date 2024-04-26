@@ -1,0 +1,179 @@
+&P417216 = CCP 3.6.3.D (http://ccp.yale.edu/P417216) = ROM 910x209.458
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs [BE iz-bu ku-ri-it 15-šu₂] NU GAL₂ DAM LUGAL BA.UG₇ E₂ BI BIR{+ah}
+#lem: šumma[if]MOD; izbu[anomaly]N; +kurītu[shin]N$kurīt; imittišu[right]N; lā[not]MOD; ibašši[exist]V; aššata[wife]N; šarru[king]N$šarri; +mâtu[die]V$imât; bītu[household]N; šū[that]IP; issappah[scatter]V
+
+2. !bs [sa-qi₂ !cm : sa-qi] : !bs ERIM-ka ana šal-la-ti-ša₂ GUR{+ar₂} !cm : um-man-ka
+#lem: +sāqu[thigh]N$sāqi; +sāqu[thigh]N$sāqi; +ummānu[army]N$ummānka; ana[to]PRP; +šallatu[plundered thing(s)]N$šallatīša; +târu[return]V$itâr; +ummānu[army]N$ummānka
+
+#note: The restoration at the beginning of the line is based on the first line of the main commentary on tablet XIV, cf. Leichty 1970 
+3. !cm [a-na šal-la]-ti# i-ta-ri lib-bu-u₂ !qt %sux dul₂-la₂ : a-dul₂-la₂ : lah₄-lah₄ :
+#lem: ana[to]PRP; +šallatu[plundered thing(s)]N$šallati; +târu[return]V$itâri; +libbū[meaning]PRP$; X; X; X
+
+4. %sb !qt [ri-du-tu] : e-tel-lu-u₂ : ša₂-la-lu !cm ina ERIM.HUŠ qa-bi
+#lem: +ridûtu[appropriation]N$; +edullû[(an administrative building)]N$; +šalālu[carry off//carying off]V'N$; ina[in]PRP; +Erimhuš[(a lexical series)]N$; qabi[said]AJ
+
+#note: For the Erimḫuš quote see Maekawa ASJ 18 (1996) p. 105, Sjöberg Fs Jacobsen (1975) p. 164 and dcclt/Q000203 and notes ad loc.
+5. !bs [um-man]-ka# ana šal-la-ti-šu₂ GUR{+ar₂} !cm : um-man-ka {lu₂}KUR₂ i-šal-lal
+#lem: ummānka[army]N; ana[to]PRP; +šallatu[plundered thing(s)]N$šallatīšu; +târu[return]V$itâr; +ummānu[army]N$ummānka; nakri[enemy]N; išallal[carry off]V
+
+6. !zz [x x x] : !bs DUMU E₂.GAL !cm : ša₂ re-eš ina lib₃-bi ša₂ ṣe-eh-ru-ma
+#lem: u; u; u; māru[son]N; ēkalli[palace]N; ša[that]REL; rēš[beginning]N; ina[in]PRP; libbi[heart]N; ša[of]DET; +ṣehru[small]N$ṣehrūma
+
+7. !cm [x x] x-u₂ a-na a-bi la i-tu-ru : !bs ku-us-sa₃-at !cm : ku-us-sa-at
+#lem: u; u; u; ana[to]PRP; abi[father]N; lā[not]MOD; itūrū[return]V; kussât[covered over]AJ; +kussû[covered over]AJ$kussât
+
+#note: The interpretation of this line differs from that of De Zorzi and Jursa @i{NABU} 2011/33; see Kraus @i{NABU} 2015/55. The second part of the line renders the archaizing writing @i{ku-us-sà-at} with the regular first millennium spelling @i{ku-us-sa-at}.
+8. !cm [x x]-ti# ša₂-niš ra-ak-sa-at : DIB : ka-su-u₂ ša₂ it-ti ŠEŠ-MEŠ-šu₂
+#lem: u; u; šanîš[alternatively]AV; +raksu[bound]AJ$raksat; +kasû[bind//binding]V'N$; +kasû[bind//binding]V'N$; ša[that]REL; itti[with]PRP; ahhīšu[brother]N
+
+9. !cm [x] x-tu ša₂-niš ma-ṭa-a-tu : LAL : ka-su-u₂ : LAL : ma-ṭu-u₂
+#lem: u; u; šanîš[alternatively]AV; +maṭû[small]N$maṭâtu; +kasû[bind//binding]V'N$; +kasû[bind//binding]V'N$; +maṭû[be(come) little//be(com)ing little]V'N$; +maṭû[be(come) little//be(com)ing little]V'N$
+
+10. !zz [x] x : !bs ina MA.SIL₃-šu₂ na-ši !cm : MA.{+si-il}SIL : eq-bi : MA.SIL : ku-tal-la
+#lem: u; u; ina[in]PRP; +eqbu[heel]N$eqbīšu; naši[standing up]AJ; +eqbu[heel]N$; +eqbu[heel]N$eqbi; +kutallu[back]N$; kutalla[back]N
+
+11. !cm [MA].SIL# : qin-na-tu₄ : !bs wa-tar !cm : a-tar : !bs KUR₂ li-di APIN-ka !cm :
+#lem: +qinnatu[buttocks]N$; +qinnatu[buttocks]N$; +watru[huge]AJ$watar; +watru[huge]AJ$atar; nakri[enemy]N; +līdu[child]N$; +erēšu[request]V$irriška
+
+12. !cm [li-di :] da#-na-nu : li-di : bu-šu-u₂ : APIN-ka : ir-riš-ka
+#lem: +līdu[child]N$; danānu[be(com)ing strong]'N; +līdu[child]N$; būšū[goods]N; +erēšu[request]V$irriška; +erēšu[request]V$irriška
+
+13. !bs [x x] !cm e-da-a : !bs ina ma-ru-ti-šu₂ !cm : ina ṣe-he-ri-šu₂
+#lem: u; u; ēdâ[prominent]AJ; ina[in]PRP; mārūtišu[youth]N; ina[in]PRP; +ṣehru[(time of) youth]N$ṣehrīšu
+
+#note: The equation of @i{mārūtu} = @i{ṣeḫēru} is otherwise unattested. 
+14. !zz [x x] x : !bs meṭ-lu-tu !cm : lit-tu-tu : MIN<(meṭ-lu-tu)> : it-ba-ru-tu
+#lem: u; u; u; +meṭlūtu[manhood]N$; +littūtu[(extreme) old age]N$; +meṭlūtu[manhood]N$; +itbārūtu[business partnership//skill]N'N$
+
+15. !bs [{lu₂}KUR₂ SAG] ERIM# ana HUL{+ti} u₂-kal !cm : {lu₂}KUR₂ pa-ni ERIM-ia ana HUL{+ti₃} i-dag₃-gal
+#lem: nakri[enemy]N; rēš[top]N; +ummānu[army]N$ummāni; ana[to]PRP; lemutti[evil]N; ukāl[suffer from]V; nakri[enemy]N; pāni[front]N; +ummānu[army]N$ummānīya; ana[to]PRP; lemutti[evil]N; +dagālu[see]V$idaggal
+
+16. !bs [SAG.UŠ !cm : ka]-a-a-nu : !bs SAG.UŠ !cm : mu-kil re-eš :
+#lem: kayyāmanu[permanent]AJ; kayyānu[steady]AJ; +mukillu[holder]N$mukīl; mukīl[holder]N; +rēšu[top]N$rēš
+#note: Compare [@i{ka-a}]@i{-°a-nu} = @i{mukīl rēš} in BM 37655 o 6' [EJ].
+17. !bs [{giš}TUKUL LUGAL]{+tu₂#} NU ip-pa-ṭar !cm lib-bu-u₂ {giš}TUKUL LUGAL i-rab-bi-ṣu
+#lem: +kakku[weapon]N$kakki; šarrūtu[kingship]N; lā[not]MOD; +paṭāru[loosen//be loosened]V'V$ippaṭṭar; libbū[meaning]PRP; +kakku[weapon]N$kakki; +šarru[king]N$šarri; +rabāṣu[sit]V$irabbiṣū
+
+18. !zz [x x x x] x !bs sah₄-maš-tum !cm : te-šu-u₂ : !bs us-su-la !cm : us-su-lu
+#lem: u; u; u; u; u; +sahmaštu[rebellion]N$; tēšû[chaos]N; +ussulu[crippled]AJ$ussula; +ussulu[crippled]AJ$
+
+19. !cm [ṣa-bit : DAB : us-su]-lu# : DAB : ṣa-ba-tu ša₂-niš us-su-lu
+#lem: +ṣabtu[captured]AJ$ṣabit; +ṣabtu[captured]AJ$ṣabit; +ussulu[crippled]AJ$; ṣabātu[seize//seizing]V'N$; ṣabātu[seizing]'N; šanîš[alternatively]AV; +ussulu[crippled]AJ$
+
+20. !cm [x x x x x x us-su]-lu : pe-hu-u₂
+#lem: u; u; u; u; u; u; +ussulu[crippled]AJ$; +pehû[sealed]AJ$
+
+#note: @i{lu} could also be read DIB, but the equation DIB = @i{peḫû} is unattested.
+$(reverse)
+21. !bs [NUNUZ LUGAL] {giš#}GU.ZA ul i-ṣab-bat !cm : NUNUZ : ma-ru
+#lem: peli[egg]N; šarri[king]N; kussi[throne]N; ul[not]MOD; iṣabbat[seize]V; peli[egg]N; māru[son]N
+
+22. !cm [gaṣ-ṣa-at !cm :] GAZ# : he-pu-u₂ ša₂-niš ga-aṣ-ṣa-at
+#lem: +gaṣṣu[chopped]AJ$gaṣṣat; +hepû[break//breaking]V'N$; hepû[breaking]'N; šanîš[alternatively]AV; +gaṣṣu[chopped]AJ$gaṣṣat
+
+23. !zz [... x]-as : !bs ina GIŠ ŠU-MIN u se-me-ri !cm lib-bu-u₂
+#lem: u; u; ina[in]PRP; iṣ[tree]N; qāt[hand]N; u[and]CNJ; +semeru[ring]N$semerī; +libbū[meaning]PRP$
+
+24. !cm [...] x# x# x# ṣab?#-ti ša₂ ŠU-MIN u GIR₃-MIN ka-lu-u₂
+#lem: u; u; u; u; +ṣabtu[captured]N$ṣabti; ša[of]DET; qātī[hand]N; u[and]CNJ; šēpī[foot]N; kalû[held (back)]AJ
+
+#note: The interpretation of ll. 23-25 is based on @i{CAD} S 224a.
+25. !zz [...]-lu# : !bs LAL !cm : ka-su-u₂
+#lem: u; +kasû[bind//binding]V'N$; +kasû[bind//binding]V'N$
+
+26. !zz [...] še#-it# [: !bs ina kin]-ṣi*#-šu₂*# KI i-kab-ba-as
+#lem: u; X; ina[in]PRP; kinṣīšu[shin]N; +qaqqaru[ground]N$qaqqara; ikabbas[continue]V
+
+27. !zz [... !bs ana ŠA₃]{+nu#} pa#-[as-la] !cm : a-na qer-be₂-nu
+#lem: u; ana[to]PRP; libbānu[inside]N; paslā[twisted]AJ; ana[to]PRP; qerbēnu[inside]AV
+
+28. !cm [pa-as-la !zz ...] x# !cm :# pe-se-[e]-lu# : ka-lu-u₂
+#lem: paslā[twisted]AJ; u; u; +pasālu[turn (away)]V$pesēlu; +kalû[hold (back)//holding (back)]V'N$
+
+29. !zz [...] x#-x#-an# : !bs a-he-e !cm : a-ha-meš
+#lem: u; u; +ahê[separately]AV$; ahāmeš[one another]AV
+
+30. !zz [... !bs pa-pa]-an# lib₃-bi
+#lem: u; papān[(a kind of rush or sedge)]N; libbi[heart]N
+
+31. !zz [...] x !cm : lem-nu
+#lem: u; u; lemnu[evil one]N
+
+$ double ruling
+@colophon
+32. !zz [BE iz-bu GIR₃-šu₂ ša₂ 15 il-mi-ma ana IGI KUN-šu₂] UMBIN#-šu₂ u₂-kal
+#lem: šumma[if]MOD; izbu[anomaly]N; šēpētušu[foot]N; ša[of]DET; imitti[right]N; +lawû[surround]V$ilmīma; ana[according to]PRP; pān[front]N; zibbatišu[tail]N; ṣupuršu[claw]N; ukāl[suffer from]V
+
+33. !zz [ṣa-a-tu₂ šu-ut KA u maš]-al#-tu₂ ša₂ KA um-man-nu
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; u[and]CNJ; +mašʾaltu[questioning]N$; ša[of]DET; pî[accordance]N; ummannu[scholar]N
+
+34. !zz [... im-gid₂]-da
+#lem: u; imgidda[(a single-columned tablet)]N
+
+35. !zz [... A ša₂ {d}]60#-EN#-šu₂-nu
+#lem: u; apli[son]N; ša[of]DET; +Anu-belšunu[]PN$
+
+36. !zz [...] x#-ku#-u₂
+#lem: u; u
+
+#note: The traces do not seem to allow a reading [... UNU]G.ki-ú, and [@i{ú-r}]@i{u-ku-ú} vel. sim. seems too far-fetched
+
+@translation labeled en project
+
+@label 1
+["If an anomaly does not have its right calf], the wife of the king will die, that house will be dispersed" (= @i{Šumma Izbu} XIV 1)
+@label 2 - 5
+[The word @saqi (= @i{Šumma Izbu} XIV 3) means "thigh".] "Your army will become prisoner" (= @i{Šumma Izbu} XIV 5) means "your army [is taken for] plunder." Because of (the passage) DUL₂.LA₂ = A.DUL₂.LA₂ = LAḪ₄.LAḪ₄ means [@ridûtu ("confiscation")] (i.e.,) "confiscated" (@etellû), (i.e.), "to plunder" (@šalālu), it is said in (the series) @Erimḫuš (= quote from @Erimḫuš I 198-200), (the base text) "[your army] will become captive" (can also mean) "the enemy will plunder your army."
+@label 6 - 7
+[...] son of the palace (= @i{Šumma Izbu} XIV 10) means a court official because he is young and [...] he did not become a father." 
+@label 7 - 9
+The word @i{ku-us-sà-at} (= @i{Šumma Izbu} XIV unknown) (is the same as) @i{ku-us-sa-at}, and means [...], alternatively, it means "it is bound" (@i{raksat}), (since) DIB means "prisoner," (i.e.), he who is [...] with his brothers. Alternatively, (it means) "it is reduced," (since) LAL means "to bind" and LAL means "to be reduced."
+@label 10 - 11
+[...]. "It is on its hoof (@ina MA.SÌL-@šú)" (= @i{Šumma Izbu} XIV 24), (the logogram) MA.SÌL (when QA is read as SÌL) means "hoof," MA.SÌL (also) means "back," [MA.S]ÌL (also) means "buttocks." 
+@label 11 - 12
+The word @i{watar} ("it is in excess") (= @i{Šumma Izbu} XIV 33) (is the same as) @i{atar}. In "The enemy will covet you @i{līdu}" (= @i{Šumma Izbu} XIV unknown), [@līdu] means "strength;" @i{līdu} (also) means "property." APIN-@i{ka} means "he will covet you."
+@label 13
+[...]  (= @i{Šumma Izbu} XIV unknown) means "alone." "In his childhood" (= @i{Šumma Izbu} XIV unknown) means "in his youth."
+@label 14
+[...] "maturity" (= @i{Šumma Izbu} XIV unknown) means "old age," the same thing (i.e. @meṭlūtu) means "skill."
+@label 15
+["The enemy] will take care of (my) army with evil (intentions)" (= @i{Šumma Izbu} XIV unknown) means "the enemy will look at my army with evil (intentions)."
+@label 16
+[SAG.UŠ] (= @i{Šumma Izbu} XIV unknown) means "regular," SAG (also) means "a constant attendant."
+@label 17
+["@i{The royal weapon} will not] be loosed," (= @i{Šumma Izbu} XIV unknown), is as if (it said) "the king's weapon will remain inactive."
+@label 18 - 20
+[...]. "Rebellion" (= @i{Šumma Izbu} XIV K.3595+ 11' (?)) means "confusion." @i{ussula} ("it is paralysed") (= @i{Šumma Izbu} XIV 82-3-23,84 10) (stems from) @i{ussulu} ("to paralyse"), (and it means) ["it is captured,"] (since) DIB means "to paralyse," and DIB means "to capture." Alternatively @i{ussulu} means [...], @i{ussu}]@i{lu} means "to seal."
+@label 21
+[In "The descendant (NUNUZ) of the king] will not seize the throne" (= @i{Šumma Izbu} XIV unknown), NUNUZ means "son."
+@label 22 - 23
+[@i{gaṣ-ṣa-at}] (?) (= @i{Šumma Izbu} XIV 70-74) (is written with) GAZ, (which) means "to break;" alternatively, @i{gaṣṣat} (= @i{Šumma Izbu} XIV 70) means [...].
+@label 23 - 25
+"In handcuffs and shackles" (= @i{Šumma Izbu} XIV unknown) is as if (it said) [someone ...] whose hands and feet they are restrained. [...] LAL means "to bind."
+@label 26 - 27
+["The lower part of] his leg tramples the earth" (= @i{Šumma Izbu} XIV 80-81) means [...] .
+@label 27 - 28
+"They are turned inward" (= @i{Šumma Izbu} XIV unknown, cf. @i{Šumma Izbu} XIV 93-97) means "toward the inside." [... (since) @i{pesēlu} "to turn outward"] means "to restrain." [...]
+@label 29
+"Separately" (= @i{Šumma Izbu} XIV 97) means "mutually."  [...]
+@label 30
+"The @i{papānu} of the stomach" (= @i{Šumma Izbu} XIV 103 (?)) [means ...].
+@label 31
+[...] means evil.
+
+$ double ruling
+
+@label 32
+[If an anomaly, its foot is surrounded on the right, and in front of its hair] its hoof is held.
+@label 33
+[Lemmata, oral explanations, and (materials for) a 'questioning'] following the sayings of a (master-)scholar.
+@label 34 - 35
+[...] one-column tablet of [..., son of] Anu-Bēlšunu, [...].

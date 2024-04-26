@@ -1,0 +1,73 @@
+&P470039 = CCP 7.2.u160 (http://ccp.yale.edu/P470039) = BM 47948
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x# [...]
+#lem: u; u; u
+
+2'. !zz [...]-MEŠ ni-[...]
+#lem: u; u
+
+3'. !zz [...] !cm ša₂-mu-u₂ [...]
+#lem: u; šamû[rain]N; u
+
+4'. !zz [... !bs e]-be₂-lu !cm : ra-ka-su# !zz [...]
+#lem: u; +ebēlu[net//netting]V'N$; rakāsu[binding]'N; u
+
+5'. !zz [...]-x#-u₂ : qa-tu₄ : LA₂ [...]
+#lem: u; qātu[hand]N; u; u
+
+6'. !zz [...] !cm ze#-ʾ-e-ru : ša₂-niš za-x#-[...]
+#lem: u; +zêru[dislike]V$zeʾēru; šanîš[alternatively]AV; u
+
+7'. !zz [...] sa-an-tak#-ku šal-lu-x# [...]
+#lem: u; +santakku[triangle]N$; u; u
+
+8'. !zz [...] meš#-re-e ša₂ KU₃.GI# [...]
+#lem: u; mešrê[riches]N; ša[of]DET; hurāṣu[gold]N; u
+
+9'. !zz [...] x#-ga?# [x x] ra-šal?#-[...]
+#lem: u; u; u; u; u
+
+10'. !zz [...] x# šu-ru#-[...]
+#lem: u; u; u
+
+11'. !zz [... KI].ŠU#.PEŠ₅# [...]
+#lem: u; +māhāzu[shrine]N$; u
+
+@reverse
+
+1'. !zz [...] kap-pi?# [...]
+#lem: u; kappī[wing]N; u
+
+2'. !zz [...] gu#-ur-x# [...]
+#lem: u; u; u
+
+3'. !zz [...] x [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+2'. ...
+3'. [...] (means) “heaven” [...]
+4'. [... “to sn]are” means “to ti[e” ...]
+5'. [...] ... means “hand”; LÁ [means ...]
+6'. [... means] “to hate”; alternatively, ... [...]
+7'. [...] “cuneiform wedge” ... [...]
+8'. [...] wealth, said of go[ld ...]
+9'. [...] ... [...] ... [...]
+10'. [...] ... [...]
+11'. [... sa]nctuar[ies ...]
+
+@reverse
+1'. [...] @i{wing} [...]
+2'. [...] ... [...]
+3'. [...] ... [...]

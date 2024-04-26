@@ -1,0 +1,317 @@
+&P461317 = CCP 3.5.25 (http://ccp.yale.edu/P461317) = F.2 P461317
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs * MUŠ SI ina E₂ NA IGI-ma SI-MEŠ-šu₂ ŠUB{+di} !cm : ŠUB : na-du#-[u₂ x x x x x x]
+#lem: ṣerra[snake]N; qarna[horn]N; ina[on]PRP; bīt[house]N; amēli[man]N; +amāru[see//be seen]V'V$innamirma; +qarnu[horn]N$qarnīšu; +nadû[throw]V$inaddi; +nadû[throw//throwing]V'N$; +nadû[throw//throwing]V'N$; u; u; u; u; u; u
+
+2. !bs it-ta-nap-raš !cm : i-ša₂-ʾa : !bs ina E₂ NA NA₂!?{+iṣ}-ma !zz x [x x x x x x x]
+#lem: +naprušu[fly]V$ittanapraš; +šâʾu[fly]V$išaʾʾa; ina[in]PRP; bīt[house]N; amēli[man]N; +rabāṣu[sit]V$irbiṣma; u; u; u; u; u; u; u; u
+
+3. !cm ša₂ qar-ni-šu₂ i-ša₂-ha-ṭu : !bs MUŠ.HUL !cm : hul-mit-[tu₂ !zz x x x x x x]
+#lem: ša[of]DET; +qarnu[horn]N$qarnīšu; +šahāṭu[tear away]V$išahhaṭu; +hulmiṭṭu[dragon]N$; +hulmiṭṭu[dragon]N$hulmittu; u; u; u; u; u; u
+
+4. !cm * MUŠ hul-mit{+mi-it}-tu₄ <<:>> ina E₂ NA IGI EN!? E₂ UŠ₂# !zz [x x x x x x x]
+#lem: ṣerru[snake]N; +hulmiṭṭu[dragon]N$hulmittu; ina[in]PRP; bīt[house]N; amēli[man]N; innamir[see]V; bēl[owner]N; bīti[house]N; imât[die]V; u; u; u; u; u; u; u
+
+#note: It is uncertain whether this line belongs to the same explanation as the previous one, although it seems likely. Not that the first line of this tablet comments on K.3674 o 1 (@i{ŠĀ} 25), and l. 5 seems to refer to K.3674 o 3. However, ll. 2-4 do not seem to be a commentary on K.3674 o 2.
+
+5. !cm RA : da-a-ku : !bs MUŠ.IGI.NU.TUKU !cm <:> up-pu-ut-ti !zz :# [x x x x x x x]
+#lem: +dâku[kill//killing]V'N$; dâku[killing]'N; +upputtu[blind (snake)]N$; +upputtu[blind (snake)]N$upputti; u; u; u; u; u; u; u
+
+#note: Note that @i{ŠĀ} 25 3 (= K.3674 o 3) reads, pace Freedman @i{OPKF} 19 (2006) p. 76, MUŠ.IGI.NU.TUKU (no SI!).
+
+6. !bs MUŠ.TUM₂.TUM₂ !cm : as-qu-du : MUŠ ša₂ ana E₂# NA i-x#-[x (x) : ša₂-niš MUŠ.TUM₂.TUM₂]
+#lem: +asqūdu[(a rodent)//(a kind of snake)]N'N$; +asqūdu[(a rodent)//(a kind of snake)]N'N$; ṣerru[snake]N; ša[that]REL; ana[into]PRP; bīt[house]N; amēli[man]N; u; u; šanîš[alternatively]AV; asqūdu[(a kind of snake)]N
+
+#note: The first entry of the next line refers in all likelihood still to the MUŠ.TÚM.TÚM, which is playfully rendered as the "wandering snake" (DU = @i{alāku}).
+
+7. !cm mut-tal-lik : !bs MUŠ ur-nu !cm : ṣe-ru ar₂-qa : ša₂ !zz [x x x x x x x]
+#lem: muttallik[restless]AJ; ṣerri[snake]N; +urnu[(a snake)]N$; +ṣerru[snake]N$ṣēru; +warqu[yellow-green]AJ$arqa; ša[of]DET; u; u; u; u; u; u; u
+
+#NV changed arqu[yellow]N$arqa to +warqu[yellow-green]AJ$arqa
+
+8. x# x# !bs MUŠ ru-up-pu-<du> !cm : ra-pa-du : ša₂-ne₂-e [ṭe-e-me !zz x x x x]
+#lem: u; u; ṣerri[snake]N; +ruppudu[roaming]AJ$; +rapādu[roam//roaming]V'N$; +šanû[be changed//being changed]V'N$šanê; ṭēme[mind]N; u; u; u; u
+
+#note: The restoration of the end is tentative, it follows @i{CAD} R 147a. Compare @i{SpTU} 1 32 r 8 (CCP 4.1.7.A): @i{rapādu sudduršu} / [@i{šan}]@i{ê ṭēme sadiršu}.
+
+9. !cm [i]-la#-as-su-um lu-bu-ši-šu₂ u₂-šar-ra-aṭ# !zz [x x x x x x x]
+#lem: +lasāmu[run]V$ilassum; +lubūšu[garment]N$lubūšīšu; +šarāṭu[tear]V$ušarraṭ; u; u; u; u; u; u; u
+
+10. !cm ra-pa-du MU#-šu₂ : !bs SI-BI im-niš IGI-ma : !zz x# [x x x x x x x]
+#lem: rapādu[(a disease of the joints?)]N; šumšu[name]N; +qarnu[horn]N$qarnīšu; +imniš[on the right]AV$; innamirma[be seen]V; u; u; u; u; u; u; u; u
+
+#NV why plural qarnīšu? rather qaranšu or qaraššu?
+
+11. !bs * MUŠ.MAŠ.DA₃ !cm ša₂ LU₂ man-ma i-x#-[x]-x# !cm ša₂-niš ša₂ x# [x x x x x x x]
+#lem: +ṣabītu[gazelle//(a snake)]N'N$; ša[of]DET; amēlu[person]N; +mamman[somebody]PRP$manma; u; šanîš[alternatively]AV; ša[of]DET; u; u; u; u; u; u; u; u
+
+12. !cm [(x)] ša₂!?#-niš ša₂ maš-ku ša₂ MAŠ!?.DA₃ šak!?-nu ša₂-niš muš-gal-[lu₄ x x : !bs MUŠ {giš}GEŠTIN]
+#lem: u; šanîš[alternatively]AV; ša[of]DET; mašku[skin]N; ša[of]DET; ṣabītu[gazelle]N; šaknu[provided with]AJ; šanîš[alternatively]AV; +mušgallu[great serpent]N$; u; u; ṣerri[snake]N; karāni[wine]N
+
+#NV changed šaknū to šaknu
+
+13. !cm MUŠ ka-ra-nu ša₂-niš ša₂ IGI-MIN-šu₂ ṣal-mu ša₂-[niš x x x x x x]
+#lem: ṣerri[snake]N; +karānu[wine]N$; šanîš[alternatively]AV; ša[of]DET; īnīšu[eye]N; ṣalmū[black]AJ; šanîš[alternatively]AV; u; u; u; u; u; u
+
+14. !cm ša₂-niš ša₂ ma-šak!?-šu₂ ana ka-ra-nu maš#-[lu x x : !bs MUŠ.A]
+#lem: šanîš[alternatively]AV; ša[of]DET; +mašku[skin]N$mašakšu; ana[to]PRP; karānu[wine]N; mašlu[similar]AJ; u; u; +ṣerru[snake]N$ṣer&+mû[water]N$mê
+
+#note: The restoration of the end is tentative.
+
+#NV changed mašlū to mašlu
+
+15. !cm MUŠ ša₂ ID₂!? : ša₂-niš MUŠ ša₂ [x x]-si ša₂ !zz [x x x x x x]
+#lem: ṣerri[snake]N; ša[that]REL; nāri[watercourse]N; šanîš[alternatively]AV; ṣerri[snake]N; ša[that]REL; u; u; ša[of]DET; u; u; u; u; u; u
+
+16. !cm [x] UGU!?# DAM-šu₂ [x x x x x] ID₂ !zz hi-[x x x x x x x]
+#lem: u; muhhi[top]N; +aššatu[wife]N$aššatišu; u; u; u; u; u; nāri[watercourse]N; u; u; u; u; u; u; u
+
+#NV changed aššatīšu to aššatišu
+
+17. !zz [x x] me-hu-u₂ : [x x x x x]-ri : šu#-[x x x x x x x]
+#lem: u; u; mehû[storm wind]N; u; u; u; u; u; u; u; u; u; u; u; u
+
+18. !zz [x x x x x x x x x x x]-ka-lu :# [x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+19. !zz [x x x x x x x x x x] : !bs * x ma x# !zz [x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; X; u; u; u; u; u; u; u; u
+
+#note: The sign before ma is not APIN in Delitzsch's copy, pace Freedman @i{OPKF} 19 (2006) p. 74.
+@reverse
+
+20. !cm [x] x ha-ṭe-e ana UGU hi-ṭi-tu₄ : !bs E₂ BI# !zz [x x x x x x x]
+#lem: u; u; +haṭû[do wrong//doing wrong]V'N$haṭê; ana[on]PRP; muhhi[top]N; hiṭītu[deficiency]N; bītu[household]N; šū[that]IP; u; u; u; u; u; u; u
+
+21. !bs kiš-ša₂-tu₄ !cm : sar!?-tu₄ : ZIZ₂{+zi-iz} : kiš-ša₂-[tu₄ !zz x x x x x]
+#lem: +kiššātu[debt-slavery//indemnity]N'N$; +sartu[falsehood//penalty]N'N$; +kiššatu[emmer]N$; +kiššatu[emmer]N$; u; u; u; u; u
+
+#note: The last equation, read with @i{CAD} K 459, probably derives from @i{Ea} I 329.
+
+#NV changed aš₂{+zi-iz} to ZIZ₂{+zi-iz}
+
+22. !bs aš-ša₂-bu E₂ uš-ša₂-bu SA₂-MEŠ{+ik-kaš-ša₂-du#} !zz [x x x x x x x]
+#lem: +aššābu[tenant]N$aššābū; bīti[house]N; +wašābu[sit (down)]V$uššabū; +kašādu[reach//be defeated]V'V$ikkaššadu; u; u; u; u; u; u; u
+
+#note: The interpretation of @i{ikkaššadū} as a glosse on SÁ-MEŠ is uncertain.
+
+#NV changed ašābu to wašābu
+
+23. !bs ṣi-mi-it-tu₂ ša₂ E₂.GAL ip-par-ra-as ERIN₂-[MEŠ !zz x x x x x x]
+#lem: +ṣimittu[binding]N$; ša[of]DET; ēkalli[palace]N; +parāsu[cut//be cut]V'V$ipparras; +ṣābu[people//troops]N'N$ṣābū; u; u; u; u; u; u
+
+#note: The reading of Steinkeller @i{NABU} 1990/12 and @i{CAD} I/J 198a (ER[ÍN : @i{ṣimittu}] / ŠU.UR : @i{ṣimittu}) is in all likelihood wrong, firstly because both equations would be unattested; secondly because there is space at the end of this line for ca. seven signs; and thirdly because the first sign of l. 24, as copied by Delitzsch, is KU, not ŠU.
+
+24. !cm KU.UR : ṣi-mit-tu₂ : um-ma ṣi-mit-tu₂ ša₂-[niš !cm x x x x x x]
+#lem: X; +ṣimittu[binding]N$; umma[saying]PRP; ṣimittu[binding]N; šanîš[alternatively]AV; u; u; u; u; u; u
+
+#note: The reading of the first two signs is uncertain. Compare perhaps Sm.532 5” (Freedman @i{OPKF} 19 [2006] p. 82): @akk{GIM ŠU.SAR!}
+
+25. !bs a-he-e BAR-MEŠ{+i-zu-zu} !cm : a-he-e : ŠEŠ-MEŠ : BAR-[MEŠ : za-a-zu ša₂-niš]
+#lem: +ahu[brother]N$ahhē; +zâzu[divide]V$izūzū; ahhē[brother]N; ahhī[brother]N; +zâzu[divide//dividing]V'N$; zâzu[dividing]'N; šanîš[alternatively]AV
+
+26. !cm BAR : uš-šu-ru : ša₂-niš BE{+be₂-e} : za-a-zu : x# [x x x x x x]
+#lem: +wašāru[sink down//releasing]V'N$uššuru;; +wašāru[sink down//releasing]V'N$uššuru; šanîš[alternatively]AV; +zâzu[divide//dividing]V'N$; zâzu[dividing]'N; u; u; u; u; u; u; u
+
+#note: It is very unlikely that the last word of the line is to be restore as @i{uššuru}, pace @i{CAD} Z 77a, since the commentary has already proven the equivalence of the verbs @i{zâzu} and @i{uššuru} via the fact that both share the logogram BAR. A different verb equated in some lexical list with the sign BE, or with some other sign with the reading /be/, must have been intended (cf. e.g. bé-e = BA = @i{našāru}, "to expropriate," in Ea II 302).
+
+#NV changed ašāru to wašāru (2x)
+
+27. !bs INIM.E₂.GAL !cm <:> šil-la-tu₂ : !bs * MUŠ-MEŠ MIN-ma lu-x# !zz [x x x x x x]
+#lem: +šillatu[impudence]N$; +šillatu[impudence]N$; ṣerrū[snake]N; X; u; u; u; u; u; u; u
+
+28. !bs izi-šub-ba-a ina E₂ NA GAL₂ !cm : izi-šub-bu-u₂ [: i-ša₂-tu₂ ma-aq-tu₂]
+#lem: +izišubbû[stroke of lightning]N$izišubbâ; ina[in]PRP; bīt[house]N; amēli[man]N; ibašši[exist]V; +izišubbû[stroke of lightning]N$; +išātu[fire]N$; +maqtu[fallen]AJ$
+
+#note: The restoration at the end is tentative.
+
+29. !cm IZI : i-ša₂-tu₂ : ŠUB : ma-qa-tu₂ : !bs ina lib₃-bi ša₂ !zz [x x x x x x x]
+#lem: išātu[fire]N; išātu[fire]N; +maqātu[fall//falling]V'N$; +maqātu[fall//falling]V'N$; ina[in]PRP; libbi[interior]N; ša[of]DET; u; u; u; u; u; u; u
+
+30. !cm bit!?-ta-nu-ti : !bs * MUŠ-MEŠ MIN-ma kit-pu-[lu-(tu) !zz x x x x x]
+#lem: +bītānû[inner]AJ$bītānûti; ṣerrū[snake]N; X; +kitpulu[entwined]AJ$kitpulūtu; u; u; u; u; u
+
+#NV changed +kitpulu[entwined]N$ to +kitpulu[entwined]AJ$ kitpulūtu
+
+31. !bs it-ta-nag-ra-ra !cm : DIRI : na-gar-ru-ru# :# [DIRI : !zz x x x x]
+#lem: +qarāru[writhe//grovel]V'V$ittanagrara; +qarāru[writhe//grovel]V'V$nagarruru; +qarāru[writhe//grovel]V'V$nagarruru; u; u; u; u; u
+
+32. !bs šu-ta-tu-su-nu NU ez-bu-ma <:> !cm la ez-bu-ma# !zz [x x x x x x]
+#lem: +šutātû[positioned opposite one another]AJ$šutātûssunu; +lā[not]MOD$; +ezbu[abandoned]AJ$ezbūma; lā[not]MOD; ezbūma[abandoned]AJ; u; u; u; u; u; u
+
+33. !cm ana muh-hi e-ze-bu <:> it-tap-ra-su UD# !zz [x x x x x x]
+#lem: ana[on]PRP; muhhi[top]N; ezēbu[leaving]'N; +parāsu[cut//be cut]V'V$ittapprasū; X; u; u; u; u; u; u
+
+#NV changed ezēbu[saving]'N to ezēbu[leaving]'N in accordance with translation
+
+34. !cm ša₂ DAM u DAM <i>-nar-ru-ma : !bs be₂-ru-su!? !cm : x# [x x x x x x x]
+#lem: ša[who]REL; aššata[wife]N; u[and]CNJ; aššata[wife]N; +nêru[strike]V$inarrūma; +berûtu[hunger]N$berûssu; u; u; u; u; u; u; u; u
+
+#NV why is there a long ū in inarrūma?
+
+35. !bs un-nu-tu !cm : un-nu-šu₂ : !bs * MUŠ-MEŠ GAL-MEŠ LU₃!?#-[MEŠ-ma E₃-MEŠ !cm : LU₃-MEŠ :]
+#lem: +enētu[flatten//fainting]V'N$unnutu; +enēšu[be(come) weak//be(com)ing weak]V'N$unnušu; ṣerrū[snake]N; rabûti[great]AJ; +dalāhu[disturb]V$udallihūma; +šegû[be wild]V$iššegû; +dalāhu[disturb]V$udallihū
+
+#note: The restoration of the end of the line is tentative.
+
+36. !cm u₂-dal-li-hu-ma <:> E₃-MEŠ <:> iš-še-gu-u₂# [x x x x x x x]
+#lem: +dalāhu[disturb]V$udallihūma; iššegû[be wild]V; +šegû[be wild]V$iššegû; u; u; u; u; u; u; u
+
+#note: Note È = @i{šegû} in @i{Diri} I 206.
+
+$ single ruling
+
+37. !zz ṣa-a-tu₂ u šu-ut KA ša₂ * MUŠ SI ina E₂ NA [IGI-ma SI-MEŠ-šu₂ ŠUB{+di}]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[who]REL; ṣerra[snake]N; qarna[horn]N; ina[on]PRP; bīt[house]N; amēli[man]N; innamirma[be seen]V; qarnīšu[horn]N; inaddi[throw]V
+
+$ single ruling
+
+@colophon
+
+38. !zz DUB ša₂ EGIR-šu₂ * MUŠ.HUŠ IGI i-šar₂-ri : [ŠAR₂ : x x x]
+#lem: ṭuppi[tablet]N; ša[who]REL; arkišu[after]PRP; mušhušši[serpent dragon]N; +amāru[see//be seen]V'V$innamir; išarri[be(come) rich]V; u; u; u; u
+
+#note: Note that the catchline cites what is probably the incipit of @i{ŠĀ} 26 together with its commentarial glosses, which seems to be of the notariqon type.
+
+39. !zz MIN<(ŠAR₂)> : GAL{+u₂} ina {kuš}ma-gal-lat GABA.RI E{ki#} [SAR {im}DUB]
+#lem: +rabû[be(come) big//be(com)ing big]V'N$; +rabû[be(come) big//be(com)ing big]V'N$; ina[in]PRP; magallat[parchment scroll]N; gabari[duplicate]N; Babilu[Babylon]SN; +šaṭru[written]N$šaṭir; ṭuppi[tablet]N
+
+#note: Compare the similar colophon in BM 41586 r 5'-6' (@i{CCP} 3.5.31): EGIR-@i{šu ina magallatu gabari bābilu šaṭir}.
+
+40. !zz {m!?}{d}AG-DIN-su-E A ša₂ {m}{d}AMAR.UTU-NUMUN-DU₃ A {m}{d}e₄-[gi₇-ba-ti-la]
+#lem: +Nabu-balassu-iqbi[]PN$; aplu[son]N; ša[of]DET; Marduk-zer-ibni[1]PN; aplu[son]N; Egibatila[]PN
+
+41. !zz pa!?#-lih!? {d}UTU u {d}[AMAR.UTU]
+#lem: pālih[reverent one]N; Šamaš[1]DN; u[and]CNJ; Marduk[1]DN
+
+@translation labeled en project
+
+@label o 1
+
+"If a snake with horns is seen in a man's house and it drops (ŠUB) its horns" (= @i{Šumma Ālu} 25 1), ŠUB means "to drop." [...].
+
+@label o 2 - o 3
+
+"It flutters" (= @i{Šumma Ālu} 25 unknown) means "it flies about." "It lies recumbent in the man's house and [...]" (= @i{Šumma Ālu} 25 unknown) refers to the (snake) that sheds its horns.
+
+@label o 3 - o 4
+
+"Evil snake" (MUŠ.HUL) (= @i{Šumma Ālu} 25 unknown) means @ḫulmiṭṭu-snake [...] "If the snake @ḫulmiṭṭu is seen in a man's house, the owner of the house will die" [...].
+
+@label o 5
+
+RA means "to kill." MUŠ.IGI.NU.TUKU ("snake without eyes") (cf. @i{Šumma Ālu} 25 3) means "blind snake" (@upputtu). [...].
+
+@label o 6
+
+MUŠ.TÚM.TÚM (= @i{Šumma Ālu} 25 unknown) is the @asqūdu-snake, it refers to the snake that [...] against a man's house. [Alternatively, MUŠ.TÚM.TÚM can mean] "wandering snake."
+
+@label o 7
+
+The "@i{urnu}-snake" (= @i{Šumma Ālu} 25 unkown) is a green snake, it refers to (the snake) that [...].
+
+@label o 8 - o 10
+
+[...] is the @i{ruppudu}-snake, (from the verb) @i{rapādu} ("to roam"), which means "to change one's [mind" ... it refers to (the snake) that] runs about tearing its cloths [...]. @i{Its name} is @i{rapādu}-disease.
+
+@label o 10
+
+"Its horn is seen to the right" (= @i{Šumma Ālu} 25 unknown) [...].
+
+@label o 11 - o 12
+
+"If a gazelle-snake" (= @i{Šumma Ālu} 25 unknown) refers to (the snake)  which no one can [...]; alternatively, it can refer to (the snake) that [...]; alternatively, it refers to (the snake) that @wears the hide of a gazelle; alternatively, it can refer to a @mušgallu-snake [...].
+
+@label o 12 - o 14
+
+[The MUŠ GIŠ.GEŠTIN (?)] (= @i{Šumma Ālu} 25 unknown) is the "vine snake;" alternatively, it is the snake whose eyes are dark; alternatively, [...]; alternatively, it refers to (the snake) whose skin is similar to wine; [...].
+
+@label o 14 - o 16
+
+[The ...] (= @i{Šumma Ālu} 25 unknown) is the snake of the river; alternatively, it can mean the snake that [...]. [...] @i{on} his wife [...] river [...]
+
+@label o 17
+
+[...] storm [...].
+
+@label o 18 - o 19
+
+...
+
+@label r 20
+
+[...] "to sin" (@ḫaṭê) (= @i{Šumma Ālu} 25 unknown) derives from "sin" (@ḫiṭītu). "That house will [..." means ...].
+
+@label r 21
+
+"Indemnity" (@kiššatu) means "penalty," the sign ÁŠ, when read /ziz/, means "emmer" (@kiššatu).
+
+@label r 22
+
+"Residents will live in the house and they @i{will be defeated}" (= @i{Šumma Ālu} 25 Sm.532 7') [...].
+
+@label r 23 - r 24
+
+"The yoke of the palace will be cut, the army [will ...]" (= @i{Šumma Ālu} 25 unknown). [...] KU.UR means "yoke," hence @umma also means yoke; alternatively [...].
+
+@label r 25 - r 26
+
+In "Brothers (@i{aḫḫê}) will divide (BAR-MEŠ) (a property)" (= @i{Šumma Ālu} 25 unknown), @i{aḫḫê} means "brothers;" and BAR-[MEŠ] means "to divide." Alternatively], BAR can mean "to leave fallow;" alternatively, since the sign BE, read /be/, means "to divide," (BAR-MEŠ) can also mean [...].
+
+@label r 27
+
+"Rumors of the palace" (@INIM @ÉGAL) (= @i{Šumma Ālu} 25 unknown) means "slander." "If snakes ditto and [...]" (= @i{Šumma Ālu} 25 unknown) [...].
+
+
+@label r 28 - r 29
+
+In "There will be a stroke of lightning on the man's house" (= @i{Šumma Ālu} 25 Sm.532 13'), "stroke of lightning" (@izišubbû) means ["fallen fire,"] because @i{IZI} means "fire" and @i{ŠUB} means "to fall."
+
+@label r 29 - r 30
+
+In "In the center of [...]" (= @i{Šumma Ālu} 25 unknown), [... snakes] inside of the house.
+
+@label r 30
+
+In "If snakes ditto and are entwined [...]" (= @i{Šumma Ālu} 25 unknown) [...].
+
+@label r 31
+
+"(The snakes) roll over once and again" (= @i{Šumma Ālu} 25 Sm.532 14' (?)), DIRI means "to roll over;" [it also means ...].
+
+@label r 32 - r 33
+
+In "Facing each other (@i{šutātûssunu}) without being left (NU @i{ezbū-ma})" (= @i{Šumma Ālu} 25 unknown) is to be read as "without being left" (@i{lā ezbū-ma}), [...] derived from "to leave" (@i{ezēbu}); (it means) "they have been separated" [...].
+
+@label r 33 - 34
+
+[...] refers to (the snake) that kills wife and wife. "His @i{hunger}" (= @i{Šumma Ālu} 25 unknown) means [...].
+
+@label r 35 - r 36
+
+"To be faint" (@i{unnutu}) (= @i{Šumma Ālu} 25 unknown) means "to weaken" (@i{unnušu}). "If great snakes [create confusion (LÙ-MEŠ) and become wild (È-MEŠ)" (= @i{Šumma Ālu} 25 unknown), LÙ-MEŠ] means "they will create confusion," È-MEŠ means "they will become wild" [...].
+
+$ single ruling
+
+@label r 37
+
+Lemmata and oral explanations relating to (the tablet) "If a snake with horns [is seen in a man's house and it drops its horns"] (= @i{Šumma Ālu} 25).
+
+$ single ruling
+
+@colophon
+
+@label r 38 - r 39
+
+The tablet with the continuation (of the present tablet), entitled "In 'If a @mušḫuššu-snake is seen, he will become rich (@i-@šár-@ri)' (= ŠĀ 26 1 (?)),[the sign ŠÁR means ...], the same can also mean 'to be great'," is written on a parchment scroll, (copied) from a Babylonian original.
+
+@label r 40 - r 41
+
+Tablet of Nabû-balāssu-iqbi son of Marduk-zēru-ibni, descendant of Egibatila. He who reveres Šamaš and Marduk (should not take it away)!

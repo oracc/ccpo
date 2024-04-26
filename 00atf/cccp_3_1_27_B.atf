@@ -1,0 +1,108 @@
+&P395223 = CCP 3.1.27.B (http://ccp.yale.edu/P395223) = K.3763
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+1. !bs * 20 KUR#-ma# UD#.DA?-su# dan#-[nat]
+#lem: Šamaš[1]DN; ippuhma[rise]V; ṣēssu[bright light]N; dannat[strong]AJ
+
+#tr.en: “If the sun rises and its light is str[ong”]
+
+$ (lines 2 to 13 are broken)
+
+14. !bs * 20# [...]
+#lem: Šamaš[1]DN; u
+
+#tr.en: “If the sun […”]
+15. ($___$) !cm a-na x# x# [...]
+#lem: ana[to]PRP; u; u; u
+
+#tr.en: means “To …”
+16. !bs * 20 ina GAL-šu₂ 2-šu₂{+ši-tin-šu₂} a-dir 3-šu₂{+ša₂-lul-taš-šu₂} ZALAG₂{+ir} LUGAL KUR ZAH₂#
+#lem: Šamaš[1]DN; ina[in]PRP; rabêšu[setting]'N; +šittān[two-thirds]NU$šittinšu; adir[dark]AJ; +šalšu[third]NU$šalultaššu; namir[bright]AJ; šar[king]N; māti[land]N; ihhalliq[be destroyed]V
+
+#tr.en: “If two thirds of the sun are dark when it sets and one third is is clear, the king will destroy the country.”
+17. !bs * 20 ina GAL-šu₂ i-zu-za-šu₂ DARA₄-MEŠ GAL₂ [...]
+#lem: Šamaš[1]DN; ina[in]PRP; rabêšu[setting]'N; +zâzu[divide]V$izūzašu; +daʾmu[dark]AJ$daʾmū; ibašši[being (at hand)]'N; u
+
+#tr.en: “If the sun is half dark when it sets … […”]
+18.  ($___$) !cm BAR : za-a-zu : BAR : meš-lu mi# [...]
+#lem: +zâzu[divide//dividing]V'N$; zâzu[dividing]'N; +mišlu[half]N$; mešlu[half]N; u; u
+
+#tr.en: “BAR” means “to divide”, “BAR” means “half” … […]
+
+$(reverse)
+
+19. !bs * 20 ina TUR₃ MUL-MEŠ ŠU₂.ŠU₂ LUGAL [...]
+#lem: Šamaš[1]DN; ina[in]PRP; tarbaṣ[lunar halo]N; kakkabī[star]N; +rabû[set]V$irtabbi; šar[king]N; u
+
+#tr.en: “If the sun sets in a halo of stars, a king […”]
+20. ($___$) !cm 20 ina GAL-šu₂ TUR₃ NIGIN₂-ma {d}GU₄.UD u [...]
+#lem: Šamaš[1]DN; ina[in]PRP; rabêšu[setting]'N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; Šehṭu[Mercury]CN; u[and]CNJ; u
+
+#tr.en: means “The sun is surrounded by a halo when it sets and Mercury and […”]
+21. !bs * 20 ŠU₂-ma a-šam-ša₂-a-tu₄ NIGIN-MEŠ{+da} [...]
+#lem: Šamaš[1]DN; irbima[disappear]V; +ašamšūtu[dust storm]N$ašamšātu; +ṣâdu[prowl]V$iṣṣanuddā; u
+
+#tr.en: “If the sun sets and dust storms whirl [(…)”]
+22. ($___$) !cm AN.GE₆ {d}UTU GAR-ma a-šam-ša₂#-[tu₄ NIGIN-MEŠ{+da}] 
+#lem: attallû[eclipse]N; Šamaš[1]DN; iššakkanma[take place]V; +ašamšūtu[dust storm]N$ašamšātu; iṣṣanuddā[prowl]V
+
+#tr.en: means “A solar eclipse will occur and dust stor[ms will whirl.”]
+23. !bs * 20 ŠU₂-ma ina GIŠGAL-šu₂ {d}30 GUB KUR [...]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; X; Sin[1]DN; izziz[stand]V; mātu[land]N; u
+
+#tr.en: “If the sun sets and the moon stands at its …, the country […”]
+#note: On the meaning of GIŠGAL in this context, see the brief discussion by van Soldt (2005: 90 n. 1).
+24. ($___$) !cm ina AN.GE₆ {d}UTU {d}[30 ...]
+#lem: ina[in]PRP; attallê[eclipse]N; Šamaš[1]DN; Sin[1]DN; u
+
+#tr.en: means “During a solar eclipse, the [moon …”]
+25. !bs * 20 ŠU₂-ma ina GIŠGAL-šu₂ {mul}MAR.GID₂.DA GUB [...]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; X; Ereqqu[Wagon]CN; izziz[stand]V; u
+
+#tr.en: “If the sun sets and the Wagon stands at its …, […”]
+26. ($___$) !cm ina AN.GE₆ {d}UTU {d}[...]
+#lem: ina[in]PRP; attallê[eclipse]N; Šamaš[1]DN; u
+
+#tr.en: means “During a solar eclipse, […”]
+27. !bs * 20 ŠU₂-ma ina GIŠGAL-šu₂ {d}da-pi-nu GUB# [...]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; X; +Dapīnu[Jupiter]CN$; izziz[stand]V; u
+
+#tr.en: “If the sun sets and Jupiter stands at its … […”]
+28. ($___$) !cm ina AN.GE₆ {d}UTU {d}[da-pi-nu ...]
+#lem: ina[in]PRP; attallê[eclipse]N; Šamaš[1]DN; Dapīnu[Jupiter]CN; u
+
+#tr.en: means “During a solar eclipse, [Jupiter …”]
+29. !bs * 20 ŠU₂-ma ina GIŠGAL-šu₂ {d}ha-ba-ṣi-ra#-[nu GUB (...)]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; X; +Habaṣiranu[Centaurus]CN$; izziz[stand]V; u
+
+#tr.en: “If the sun sets and Centaur[us stands] at its …”
+30. ($___$) !cm ina {iti}DU₆ {d}UTU AN.GE₆ GAR-ma?# [...]
+#lem: ina[in]PRP; Tašritu[1]MN; Šamaš[1]DN; attallû[eclipse]N; iššakinma[take place]V; u
+
+#tr.en: means “In Month VII, the sun will have a eclipse […”]
+31. !bs * 20 ŠU₂-ma ina GIŠGAL-šu₂ {d}kab-ta GUB IM.GI# [...]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; X; Kabta[1]DN; izziz[stand]V; hammāʾi[rebel]N; u
+
+#tr.en: “If the sun sets and Kabta stands at its …, a rebel […”]
+32. !bs * 20 ŠU₂-ma ina GIŠGAL-šu₂ {mul}GIR₂.TAB GUB x# [...]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; X; Zuqaqipu[Scorpion]CN; izziz[stand]V; u; u
+
+#tr.en: “If the sun sets and Scorpio stands at its … […”]
+$ single ruling
+33. !zz * ina {iti}BARA₂ KUR 20 MUD₂ SU₃ x# [...]
+#lem: ina[in]PRP; Nisannu[1]MN; +niphu[(the act of) lighting]N$nipih; Šamaš[1]DN; dāmi[blood]N; +salhu[sprinkled]AJ$salih; u; u
+
+#tr.en: “If during Month I, the rising of the sun (appears as though) sprinkled with blood.”
+34. !zz šu-ut KA ša KA UM.ME.A ša₂# [ŠA₃ ...]
+#lem: šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[accordance]N; ummâni[expert]N; ša[of]DET; libbi[interior]N; u
+
+#tr.en: Oral explanations following the sayings of a scholar, (referring to entries) fr[om …]
+35. !zz E₂.GAL {m}AN.ŠAR₂-DU₃-A MAN# [ŠU₂ MAN {kur}aš-šur{ki}]
+#lem: ēkalli[palace]N; Assurbanipal[1]RN; šar[king]N; kiššati[universe]N; šar[king]N; Aššur[Assyria]GN
+
+#tr.en: (Property of] the palace of Ashurbanipal, king [of the universe, king of Assyria.]

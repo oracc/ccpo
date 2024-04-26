@@ -1,0 +1,180 @@
+&P381770 = CCP 3.6.1.A.l (http://ccp.yale.edu/P381770) = VAT 10071
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#link: def A = dcclt:Q000204 = Erimhuš 02
+#link: def B = dcclt:Q000205 = Erimhuš 03
+#link: def S4 = dcclt:Q000146 = Diri 01
+#link: def S1 = dcclt:Q000101 = Mur-gud 02
+@tablet
+#  = excerpt tablet; collated after photo
+
+$(obverse)
+
+$ (excerpt from Erim-ḫuš II 234-237)
+1. %sux !bs bar# dag & %sb !cm tu-pu# & %sux !bs di-di
+#lem: bar[outside, (other) side]'N; dag[overthrow, military repulse]V/t; X; di[to go]V/i
+
+#tr.en: “bar dag” (= “to pursue”) means “@i{tūpu}.” “di-di” (in Sumerian) (…)
+#note: This and the following lines should be read as a two-column excerpt in which the right column (without translation) is a continuation of the left column. Thus, @akk{BAR# DAG : tu-pu} = @i{Erimḫuš} II 237, @akk{BAR# DAG.DAG : ta#-pi#} = @i{Erimḫuš} II 238, @akk{DI.DI} = @i{Erimḫuš} II 239, @akk{DI.DI.BA} = @i{Erimḫuš} II 239.
+>> A Seg.1, 237
+>> A Seg.1, 239
+2. %sux !bs bar dag-dag & %sb !cm ta#-pi# & %sux !bs di-di-ba
+#lem: bar[outside, (other) side]'N; dag[dwelling]N; X; X
+
+#tr.en: “bar dag-dag” (= “to pursue”) means “@i{tāpi}.”  “di-di-ba” (in Sumerian) (…)
+>> A Seg.1, 238
+>> A Seg.1, 240
+
+$single ruling
+$ (excerpt from Erim-ḫuš III 12-17)
+3a. %sux !bs ša₃ dib & %sb !cm zu#-un-nu-[u] & %sux !bs GUG
+#lem: ša[the one of]DP; dib[board]N; +zunnû[very angry]AJ$; X
+
+#tr.en: “šà-dib” (in Sumerian) means “very angry.” “gug” (in Sumerian) (…)
+>> B Seg.1, 12
+>> B Seg.1, 14
+
+3b. & & & %sux !bs SU-{+ga-ag}gag
+#lem: X
+
+#tr.en: “sugag” (in Sumerian) (…)
+>> B Seg.1, 15
+
+4. &2 %sux !bs ša₃ hul ŋal₂ & %sb !cm lu-mun lib₃-bi#
+#lem: ša[the one of]DP; hulu[(to be) bad, evil]V/i; ŋal[to exist]V/i; lumun[evil]N; libbi[interior]N
+
+#tr.en: ”šà ḫul ĝál” (in Sumerian) means “evil of the heart.”
+>> B Seg.1, 13
+5a. & & & %sux !bs GUG
+#lem: X
+
+#tr.en: “gug” means (…)
+>> B Seg.1, 16
+5b. & & & %sux !bs SU-GUG
+#lem: X
+
+#tr.en: “sugug” means (…)
+>> B Seg.1, 17
+$single ruling
+
+$ (excerpt from Diri I 247-249)
+6. !bs ku-uk-ku & !bs KU₇.KU₇ & !bs uš nu-til min#-a#-bi# & %sb !cm ṭa-a-bu
+#lem: kukku[(part of a balance)]N; matqi[sweet]AJ; X; X; X; ṭābu[favourable]AJ
+
+#tr.en: (The sign) KU₇.KU₇, (read) @i{kukku}, (is called) “double unfinished @i{uš},” (and means) “good.”
+>> S4 247
+7. & & & & %sb !cm mat#-qu
+#lem: matqu[sweet]AJ
+
+#tr.en: (and means) “sweet.”
+>> S4 248
+8. & & & & %sb !cm da#-aš₂-pu
+#lem: +dašpu[(honey-)sweet]AJ$
+
+#tr.en: (and means) “honeyed.”
+>> S4 249
+
+$ single ruling
+$ (excerpt from Principal Commentary on Šumma Izbu 121-123 [on Šumma Izbu III])
+
+
+9. %sb !bs ni#-is-sa-te & %sb !cm ku-ru₃
+#lem: +nissatu[wailing]N$nissate; +kūru[depression]N$
+
+#tr.en: “Wailing” (= @i{Šumma Izbu} III 76) means “depression.”
+10. %sb !bs MIN<(ni-is-sa-te)> & !cm ha-ra-ṣu#
+#lem: nissate[wailing]N; harāṣu[breaking off]'N
+
+#tr.en: Ditto (i.e., “wailing”) means “breaking off.”
+#note: The equation of @i{kūru} and @i{nissatu} in the previous line is well attested elsewhere; however, the equation of the former word with @i{ḫarāṣu}, “to break off,” is unattested outside the ‘Principal Commentary’. De Zorzi (@i{La seria teratomantica Šumma Izbu}, Padova, 2014 p. 435) suggests that “riguardo a @i{nissatu} il verbo @i{ḫarāṣu} indichi consunzione, dimagrimento e generale decadimento.” Alternatively, it is tempting to assume that the association may be due to the fact that the logogram for @i{nissatu}, @akk{ZARAH(|SAG.PA.LAGAB|)}, could be read “retrographically” as @i{ḫarāṣu}.
+
+11. %sb !bs ša₂-pu-lu₄!(UB) & !cm pe-e-[mu]
+#lem: +šapūlu[groin]N$; +pēmu[(upper) thigh]N$
+
+#tr.en: “Groin” (= @i{Šumma Izbu} III 79) means “thigh.”
+
+$ single ruling
+$ (excerpt from ḪAR-gud I 12a, 13, 17)
+12. %sux !bs i₃-dub & %sb !cm iš-pik-ki & !cm rug-bu
+#lem: idub[granary]N; +išpiku[stores (of crops)]N$išpikki; +rugbu[loft]N$
+
+#tr: “idub” (in Sumerian) means “grain storage”, (which) means “loft.”
+>> S1 12a
+
+13. %sux !bs a-ga-zi & %sb !cm im-bu-u & !cm mul-lu-u
+#lem: agazi[financial loss]N; +ibbûm[loss]N$imbû; +mullû[filling//compensation]N'N$
+
+#tr: “agazi” (in Sumerian) means “loss”, (which) means “compensation.”
+>> S1 13
+
+14. %sux !bs mu & %sb !cm ni-šu & !cm ma#-mi₃-tu₂
+#lem: mu[name]N; nīšu[oath]N; +māmītu[oath]N$
+
+#tr.en: “mu” (in Sumerian) means “vow,” (which) means “oath.”
+
+>> S1 17
+
+$ single ruling
+$(bottom)
+$ (excerpt from Maqlû IV 135-136)
+15. &4 %sb !zz a-na UDUN a-lik-ti a-šar-rap-ši-na#-[ti]
+#lem: ana[to]PRP; utūni[kiln]N; +āliku[moving]AJ$ālikti; +šarāpu[burn]V$ašarrapšināti
+
+#tr.en: I shall burn them in a flaming stove,
+16. &4 %sb !zz {d}GIŠ.BAR qu-mi!(LUM) kaš-ša₂-pi kaš-šap#-[ti]
+#lem: +gīru[fire(-god)]N$; +qamû[burn (up)]V$qumi; +kaššāpu[sorcerer]N$kaššāpī; +kaššaptu[sorceress]N$kaššaptī
+
+#tr.en: O Gira, burn my sorcerer and [my] witch!
+
+$(reverse)
+$ (excerpt from Great Hymn to Šamaš 138-139)
+17. &4 %sb !zz {d}UTU i-mah-har-ka a-lak-ti e-te#-qu# [pu-luh-ti]
+#lem: Šamaš[1]DN; +mahāru[face]V$imahharka; alakti[way]N; +ētiqu[passer-by]N$ētequ; puluhti[terror]N
+
+#tr.en: O Šamaš, the caravan, who travels in fear, addresses you,
+18. &4 %sb !zz {lu₂}DAM-GAR₃ al-la-ku {lu₂}ŠAMAN₂.LA₂ na-aš₂# ki#-[i-si]
+#lem: +tamkāru[merchant]N$; +allaku[always moving]AJ$; šamallû[scribal apprentice]N; nāš[bearer]N; +kīsu[money-bag]N$kīsi
+
+#tr.en: The relentless merchant and (his) assistant, the purse bearer.
+
+$ single ruling
+$ (excerpt from Ludlul bēl nēmeqi I 82-83)
+19. &4 %sb !zz URU ki-i a-a-[bi] ne₂-kil#-[man-ni]
+#lem: āli[village]N; kī[as]PRP; ayyābi[enemy]N; +nekelmû[frowned at]AJ$nekelmânni
+
+#tr.en: My own city frowned at me like an enemy,
+20. &4 %sb !zz tu-ša₂-ma nak-ra-tu₄# na-an-dur#-ti [ma-a-ti]
+#lem: tušama[as if]MOD; +nakru[strange]AJ$nakratu; +nanduru[very wild]AJ$nandurti; māti[land]N
+
+#tr.en: As if it were a foe, [my land] (was) savage.
+
+$ single ruling
+$ (excerpt from Enūma eliš I 22-23)
+21. &4 %sb !zz e-šu-u ti-amat-ma na!(MI)-ṣir-šu-nu iš#-[tap-pu]
+#lem: ešû[confusing]'N; Tiamatma[1]DN; +naṣīru[clamour]N$naṣīršunu; +šapû[be dense]V$ištappu
+
+#tr.en: Their clamour got loud, throwing Tiāmat into a turmoil,
+22. &4 %sb !zz dal-hu-nim-ma ša₂ ta#-a₃#-wa-ti#{+ta-ma#-te} ka-ra#-[as-sa]
+#lem: +dalhu[troubled]AJ$dalhūnim-ma; ša[of]DET; +Tiamat[]DN$; +karšu[stomach]N$karassa
+
+#tr.en: They jarred the nerves of Tiāmat.
+
+$ single ruling
+$ (excerpt from Erra and Išum I 73-74)
+23. &4 %sb !zz UN-MEŠ lip#-la#-hu#-ma lit-qu-na hu-bur#-šin#
+#lem: nišū[people]N; +palāhu[fear]V$liplahū-ma; litqunā[be(come) calm]V; +hubūru[bustle]N$hubūršin
+
+#tr.en: May people be afraid and their noise be diminished!
+24. &4 %sb !zz MAŠ₂.ANŠE li-ru-ur-ma li#-tur a-na ṭi-iṭ-ṭi#
+#lem: būli[livestock]N; līrurma[tremble]V; litūr[turn]V; ana[to]PRP; ṭiṭṭi[clay]N
+
+#tr.en: May animals tremble and be reduce to clay!
+
+$ single ruling
+25. !zz 13#/16#
+#lem: u
+
+#tr.en: 13?/16? (day of … month).
+#note: The date in school tablets usually consists of month and day, without indication of the year (see Gesche, @i{Schulunterricht in Babylonien}, 2001, p. 56). There is a small damaged sign before the three verticals that would well fit a reading @akk{U₄}.

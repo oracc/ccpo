@@ -1,0 +1,130 @@
+&P470046 = CCP 7.2.u166 (http://ccp.yale.edu/P470046) = BM 48532
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x x : x x x x x [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+2'. !bs [AN.TA].ŠUB#.BA !cm : qa-at {d}30 : {d}a-num : {d}30 :# TA#{+a#} :# [...]
+#lem: miqit[fall]N&šamê[heaven]N; qāt[hand]N; Sin[1]DN; Anum[1]DN; Sin[1]DN; u; u
+
+3'. !cm [x] {u₂#}im-ra-nu : IGI.DU₈.LA₂ : im-ri :# IGI.DU₈.LA₂ [...]
+#lem: u; +imrānu[plant]N$; +imru[observation]N$; +imru[observation]N$imri; imru[observation]N; u
+
+#note: Compare @akk{IGI.TUM₄(NIM).LA₂} = @i{im-ru₃} in @i{Izi} B ii 18 (@i{MSL} 13 p. 169, see @i{CAD} I/J 138a). Variants of the Sumerian word read @akk{IGI.DU₃.LA₂} and @akk{IGI.TUM₃.LA₂} (see Reisman, @i{Two Neo-sumerian Royal Himns} [1969], pp. 82-83). On @akk{IGI.TUM₄(NIM).LA₂}, see also Powell @i{ZA} 68 (1978) pp. 192 and Wilcke @i{ibid}. p. 220-221 (the latter’s interpretation is followed here). [EJ] 
+4'. !bs x# ILLU?# GI.AMBAR E₃ !cm : na-ba-ʾ-a : a#-ṣu#-u₂ !zz : ra-aʾ#-[...]
+#lem: u; mīlu[flood]N; +appāru[reed-bed]N$; uṣṣi[go out]V; +nabāʾu[rise//rising]V'N$; +aṣû[go out//going out]V'N$; u
+
+#note: The line might contain an explanation of the plant name @i{nibʾu}. [EJ]
+5'. !zz NUMUN-šu₂ GIM {giš}U₂{+ed-de-et}.GIR₂ x x [x x x] di :# {u₂}ed-de#-[tu ...]
+#lem: zēršu[seed(s)]N; kīma[like]PRP; +eddittu[(a kind of thorn-bush)]N$eddet; u; u; u; u; u; X; +eddittu[(a kind of thorn-bush)]N$eddetu; u
+
+6'. !bs LIL₂.LA₂.EN.NA !cm : li-lu-[u₂ !zz ...] x il? [...]
+#lem: lilâ[(a demon)]N; lilû[(a demon)]N; u; u; X; u
+
+7'. !bs {d}EN.LIL₂ !cm : EN za-qi₂-qi₂ !zz [...] x {mul}KA₅.A [...]
+#lem: Ellil[1]DN; bēl[lord]N; zāqīqi[wind]N; u; u; Šelebu[Fox]CN; u
+
+#note: The first equation is also attested in the @i{Nippur Compendium} (@i{BTT} p. 152-153 no. 18) iii 4′ (said of Ninlil). [EJ]
+8'. !zz x# x# tu ši E₃ : [...] ti?# : tu-u₂ : [...]
+#lem: u; u; X; u; uṣṣi[go out]V; u; X; +tû[incantation(-formula)]N$; u
+
+9'. !zz x# x# : bal-tu₄ : na# x# [...] :? ṣal-tu : ta-[ha-zu? ...]
+#lem: u; u; +baltu[(a spiny plant)]N$; X; u; u; +ṣāltu[combat]N$; tāhāzu[battle]N; u
+
+10'. !bs {d}sig₃#-ga !cm : šu-lak : SIG₃ : sa#-lu-u₂ ša₂ x# (x#) x# : !bs {u₂}mur-ra-nu !cm : {u₂}[...]
+#lem: +Šulak[]DN$; +Šulak[]DN$; +salāhu[jerk]V$; +salāhu[jerk]V$salû; ša[of]DET; u; u; u; +murrānu[(a tree or shrub)]N$; u
+
+#note: The equation @akk{{d}SIG₃.GA} = @akk{{d}šu-lak} is attested in the lexical list @i{Lú}, as quoted by Reiner, @i{Šurpu}, p. 56, ad III, 75 and Stol, @i{Epilepsy}, p. 71, ad rev. 21, with fn. 49 and p. 76. Note also the incantations @i{Šulak māḫiṣ eṭli}, “Šulak, hitter of the young man,” and @i{Eṭlu ša Šulak imhaṣūšū-ma imšidu pagaršu}, “the young man, who was hit by Šulak, and his body beat up,” both in the series @i{Qutāru}. [HS] 
+11'. !zz [...] x x x x x [...]
+#lem: u; u; u; u; u; u; u
+
+@reverse
+
+1'. !zz im id? x# x# [...] x# x# [...]
+#lem: X; u; u; u; u; u; u; u
+
+2'. !zz ša₂ AMAR?/niš!? KA{+ri-gim} AŠ{+tu₄}{+et#-tu-tu#} [x] x x [...]
+#lem: ša[of]DET; u; +rigmu[voice]N$rigim; +ettūtu[spider]N$ettūti; u; u; u; u
+
+#note: The “noise of the spider” brings to mind the stridulation observed in various species of tarantula (fam. Theraphosidae). However, for the Middle East region, the most likely candidates to have produced the “spider’s noise” are the “camel spiders” (solpugids): solpugids make a hissing sound like a Saw-scale viper when molested. [Henry Stadhouders & Rick C. West]
+3'. !bs {u₂}ṣu-ta-nu !cm : {u₂}ṣa-da-nu : !bs DU{+a-lak} us-si !cm : ana MUNUS a-la#-ku# !zz [...]
+#lem: +ṣutānu[a bush]N$; +ṣadānu[a bush]N$; +alāku[go//going]V'N$alāk; +ūsu[goose]N$ussi; ana[according to]PRP; sinništu[wife]N; alāku[going]'N; u
+
+#note: (Mallard) drakes are notoriously horny animals when coming in mating season, chasing every female they spot on land, water and in the air, and (gang) raping her when she remains unwilling. In 2008 a mallard drake mated for over half an hour with a dead fellow who just had crashed into a window at the Rotterdam Museum of Natural History; the director of the museum made the case world-famous in a study that was awarded the Ignobel Price. Note the mention of ducks quacking so as to incite the lover to chase the woman in N. Wasserman, @i{Akkadian Love Literature} (2016) Text No. 11, l. 9 (and rev. 5). [Henry Stadhouders]
+4'. !bs {u₂}ni-ih-li{+ni-ʾi-lu} !cm : a-na UGU na-a-lu ra-hu-u₂ : !bs {d}ku₃-bu/su₁₃ !cm : {d}GIR₃/AMAR#{+x#}.[UTU !zz ...]
+#lem: +niʾlu[a plant]N$nihli; ana[on]PRP; muhhi[top]N; +naʾālu[moisten//moistening]V'N$; +rehû[pour out//pouring out]V'N$rahû; Kubu[1]DN; u; u
+
+#note: The last sign is perhaps @akk{{d#}U.GUR?#}. [EJ]
+5'. !bs MAŠ.MAŠ?.TAB !cm : a-šu-u₂ : !bs SA#.GIG?# !cm : ki-sa₃-tu₄ :# {uzu}ka-sis-tu₄ [...]
+#lem: X; ašû[(a disease of the head)]N; kissatu[(an illness)]N; +kissatu[(an illness)]N$kisatu; +kāsistu[gnawer]N$; u
+
+#note: The second sign might be @akk{LÁL}. [EJ]
+6'. !zz {u₂}ŠIM.ŠEŠ ša₂ ŠIM.SAR : ša₂ ra-[qi-i] :# U₂ MIN{+uš₂} {u₂}ṣa-ṣu-ut-ti{u₂}{+ṣa-ṣu#-[x-x]-x#} ŠIM{+šim?#} [...]
+#lem: +rīqu[aromatic substance]N$rīqī; ša[of]DET; +raqqû[oil-perfumer]N$raqqî; ša[of]DET; +raqqû[oil-perfumer]N$raqî; šammi[plant(s)]N; +ṣaṣumtu[(a medicinal plant)]N$ṣaṣutti; u; +rīqu[aromatic substance]N$; u
+
+7'. !bs {u₂#}PIL₂ !cm :# ki-si-it-tu₄ : !zz [x x] ti?# x# x# {u₂}su-pa-[lu ...]
+#lem: X; +kisittu[branches]N$; u; u; X; u; u; supālu[(a juniper)]N; u
+
+8'. !zz [x x] x# x# E₃ : {u₂}su-pa-lu MU pil₂-lu-u₂ : {u₂#}x# [...]
+#lem: u; u; u; u; uṣṣi[go out]V; supālu[(a juniper)]N; +aššum[because (of)]PRP$; +pillû[mandragora]N$; u; u
+
+9'. !zz [...] x x x : ki-si-it-tu₄ : {u₂}x# lu lu?# [...]
+#lem: u; u; u; u; kisittu[branches]N; u; lū[or]CNJ; lū[or]CNJ; u
+
+10'. !zz [...] !bs {u₂}UKUŠ.HAB !cm : {u₂}NAM.TI.LA !zz [...]
+#lem: u; errî[colocynth]N; +šammu[plant(s)]N$šam&+balāṭu[life]N$balāṭi; u
+
+$ single ruling
+11'. !zz [...] {u₂}im-ra-nu MU? [...]
+#lem: u; imrānu[plant]N; u; u
+
+#note: The last line of the text, separated from the preceding line by a ruling, might contain the incipit of the text (note that the plant @i{imrānu} also appears in o 3′). [EJ]
+
+@left
+
+1. !zz [...] x SAR? ša₂ E{+u₂} x [...]
+#lem: u; u; u; ša[which]REL; iqbû[say]V; u; u
+
+2. !zz [...] DIŠ ka ki nam?#-maš#-tu₄ da x [...]
+#lem: u; X; X; u; +nammaštû[moving things]N$nammaštu; X; u; u
+
+@translation parallel en project
+
+@obverse
+
+1'. [...] ... [...]
+2'. [@i{anta}]@i{šubba} means “hand of Sîn,” (since) Anu (@i{i.e.}, @i{an}) means “Sîn,” @i{ta} means [...]
+3'. ... means @i{imrānu}-plant, (since) @i{igi.du}₈.@i{lá} means “@i{charity}” (@i{imru}) and @i{igi.du}₈.@i{lá} [means ...].
+4'. @i{x illu gi.ambar è} means “to rise,” i.e., “to sprout,” ... [...]
+5'. Its seed is like the @i{eddettu}-bush ... [...] ... the @i{eddet}[@i{tu}-bush ...]
+6'. @i{líl.lá.en.na} means @i{lill}[@i{û}-demon ...].
+7'. Enlil means “lord of the breezes” [...] ... the Fox star [...].
+8'. ... [...] ... “@i{incantation}” ... [...]
+9'. ... means “thistle” [...] ... “strife” means “@i{ba}[@i{ttle}” ...].
+10'. The @i{Sìg.ga}-god means “Šulak,” (since) “@i{sìg}” means “to infect,” said of ... The @i{murrānu}-plant is the [...]-plant, [...]
+11'. [...] ... [...]
+
+@reverse
+
+1'. ... [...] ... [...]
+2'. ... the “noise of the spider” ... [...]
+3'. The @i{ṣutānu}-plant is the @i{ṣadānu}-plant. “@i{Duck} walk” @i{means} “to walk towards a woman” [...]
+4'. The @i{niʾlu}-plant stems from “to lie down” (@i{nâlu}), i.e., “to mate.” Kūbu/Kūsu means ... [...]
+5'. @i{maš.maš.tab} means @i{ašû-disease}, @i{sa.gig} (?) means “@i{kissatu}-disease.” “Devouring (body part)” [...]
+6'. “Plants of the oil-perfumer,” means “of the oil [perfumer.”] @i{Ditto-plant}. @i{Ṣaṣuttu}-plant, ... [...]
+7'. @i{píl}-plant means “wood shavings,” ... [...] ... “Juni[per” ...]
+8'. [...] ... “Juniper” (@i{supālu}), on account of (the equation) “‘Mandragora’ (@i{pillû}) equals ‘...-plant’” [...]
+9'. [...] ... “wood shavings” ... [...]
+10'. [...] @i{errû}-plant means “plant of life” [...]
+11'. [...] @i{imrānu}-plant ... [...]
+
+@left
+
+1. [...] ... which it says, ... [...]
+2. [...] ... [...]

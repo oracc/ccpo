@@ -1,0 +1,118 @@
+&P394167 = CCP 3.1.55.A (http://ccp.yale.edu/P394167) = K.2064
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. ($___$) !cm x# x# [...]
+#lem: u; u; u
+
+2'. !bs * {mul}ELLAG₂ ma#-[diš  SIG₇ ...] 
+#lem: Kalitu[Kidney]CN; mādiš[greatly]AV; +arqu[yellow]AJ$aruq; u
+
+#note: Restoration based on @i{ACh Ištar} 21: 32.
+3'. ($___$) !cm {d}SAG.UŠ ina {mul#}x# [...] x# x# x# [...]
+#lem: Kayyamanu[Saturn]CN; ina[in]PRP; u; u; u; u; u; u
+
+4'. !bs * {mul}ELLAG₂ ma-diš GE₆ [(x)] ka# ŠE u x# [x x x]
+#lem: Kalitu[Kidney]CN; mādiš[greatly]AV; ṣalim[black]AJ; u; X; šeʾi[barley]N; u[and]CNJ; u; u; u; u
+
+#note: The traces of the sign following the signs @akk{ŠE u} seem incompatible with the tempting restoration @akk{ŠE#.[GIŠ.I₃ SI.SA₂]}.
+5'. ($___$) !cm {d}GU₄.UD ina {mul}gu-la u₂-tan-[nat-ma]
+#lem: +Šehṭu[Mercury]CN$; ina[in]PRP; +Gula[]CN$; +enētu[flatten]V$utannatma
+
+6'. !bs * {mul}ELLAG₂ {mul}UDU.IDIM it-te-hi ŠE.GIŠ.I₃ SI.[SA₂]
+#lem: Kalitu[Kidney]CN; bibbu[planet]N; +ṭehû[be(come) near to]V$ittehi; šamaššammī[sesame]N; iššir[thrive]V
+
+#note: Parallels @i{ACh Ištar} 21: 36.
+7'. ($___$) !cm {d}GU₄.UD ina {mul}gu-la ana {d}SAG.UŠ TE{+e?#} 
+#lem: Šehṭu[Mercury]CN; ina[in]PRP; Gula[1]CN; ana[according to]PRP; Kayyamanu[Saturn]CN; +ṭehû[be(come) near to]V$iṭehhi
+
+8'. !bs * {mul}ELLAG₂ ana {mul}UGA{mušen} i-mid ŠE.GIŠ.I₃ SIG₅ !cm ŠU.BI.AŠ.AM₃ 
+#lem: Kalitu[Kidney]CN; ana[at]PRP; Erebu[Raven]CN; īmid[touch]V; šamaššammū[sesame]N; idammiq[prosper]V; X
+
+#note: Parallels @i{ACh Ištar} 21: 39.
+
+$ single ruling
+
+9'. !bs * {d}e₂-a a-dir GAN₂.ZI NU SI.SA₂
+#lem: Ea[1]DN; adir[dark]AJ; mērešu[cultivated land]N; ul[not]MOD; iššir[thrive]V
+
+#note: Parallels @i{ACh Ištar} 21: 43.
+10'. ($___$) !cm {d}GU₄.UD ina {mul}SUHUR.MAŠ₂{ku₆} u₂-tan-nat
+#lem: Šehṭu[Mercury]CN; ina[in]PRP; Suhurmašu[Goatfish]CN; +enētu[flatten]V$utannat
+
+11'. !bs * {mul}NUN.KI miš-ha im-šuh₂ BURU₁₄ GAN₂.ZI KUR SI.SA₂
+#lem: X; X; X; ebūr[harvest]N; mērešu[cultivated land]N; mātu[land]N; iššir[thrive]V
+
+#note: Parallels @i{ACh Ištar} 21: 45.
+12'. ($___$) !cm {d}GU₄.UD ki-ma TUM₃ ha-an-ṭiš IGI-ma
+#lem: Šehṭu[Mercury]CN; kīma[like]PRP; +tabālu[take away]V$itbalu; hanṭiš[quickly]AV; īmurma[see]V
+
+#note: @i{CAD} T 20b and @i{abālu} A mng. 6a-1’ and 6b.
+
+$ single ruling
+
+13'. !bs * {mul}EN.TE.NA.BAR.HUM ina E₃-šu mu-lu-uh ina SAG {iti}ŠU.NUMUN.NA IGI
+#lem: Habaṣiranu[Mouse]CN; ina[in]PRP; aṣîšu[going out]'N; +mulluhu[flickering]AJ$muluh; ina[at]PRP; rēš[beginning]N; Duʾuzu[1]MN; +amāru[see]V$innamir
+
+#note: Parallels @i{ACh Ištar} 21: 47.
+14'. ($___$) !cm BURU₁₄ KUR SI.SA₂ KI.LAM {+i}TUR
+#lem: ebūr[harvest]N; māti[land]N; iššir[thrive]V; mahīra[exchange rate]N; +ṣehēru[be(come) small]V$iṣehher
+
+15'. ($___$) !cm {d}GU₄.UD ki-ma TUM₃ ha-an-ṭiš IGI-ma
+#lem: Šehṭu[Mercury]CN; kīma[like]PRP; itbalu[take away]V; hanṭiš[quickly]AV; īmurma[see]V
+
+16'. !bs [*] {mul}EN.TE.NA.BAR.HUM ina E₃-šu a-pi₂-il BURU₁₄ NU SI.SA₂ !cm up-pu-lu : ka-a-šu₂
+#lem: Habaṣiranu[Mouse]CN; ina[in]PRP; aṣîšu[going out]'N; +aplu[late]AJ$apil; ebūr[harvest]N; lā[not]MOD; iššir[thrive]V; +apālu[be (too) late//being (too) late]V'N$; kâšu[delaying]'N
+
+#note: Parallels @i{ACh Ištar} 21: 49.
+17'. ($___$) !cm {d}GU₄.UD GIM TUM₃ a-dan{+an}-šu₂ ina AN{+e} DIB{+iq}-ma
+#lem: Šehṭu[Mercury]CN; kīma[according to]PRP; itbalu[take away]V; +adānu[fixed date]N$adānšu; ina[from]PRP; šamê[heaven]N; +etēqu[go past]V$ittiqma
+
+#note: @i{CAD} A/1 100-101 but see also 99b (“exceeds its normal time”?), cp. @i{BPO} 3 p. 100 l. 11.
+
+@reverse
+1'. !bs [*] {mul#}EN.TE#.NA#.BAR#.HUM# SAG?#-šu₂?# AN#{+e?#} i#-na#-aṭ#-ṭa#-la# ina MU BI
+#lem: Habaṣiranu[Mouse]CN; rēšišu[top]N; šamê[heaven]N; inaṭṭalā[face]V; ina[in]PRP; šatti[year]N; šū[that]IP
+
+#note: Parallels @i{ACh Ištar} 21: 51.
+2'. ($___$) !cm x# zi x# x# [x x x] x# x# x# u₂#-tan#-nat-ma
+#lem: u; X; u; u; u; u; u; u; u; u; utannatma[flatten]V
+
+3'. !bs [*] {mul#}[...]-kur-ru
+#lem: u
+
+4'. ($___$) !cm [...]-ma
+#lem: u
+
+@translation parallel en project
+
+@obverse
+1'.	(means) “[...]”
+2'. “If the Kidney Star ve[ry ...]”
+3'. 	(means) “Saturn in the [...] Constellation [...].”
+4'. “If the Kidney Star is very black ... [...].”
+5'. 	(means) “Mercury grows faint in the Gula Constellation.”
+6'. “If the Kidney Star comes close to a planet, sesame will pr[osper].”
+7'. 	(means) “Mercury in the Gula Constellation (i.e., Aquarius) comes close to Saturn.”
+8'. “If the Kidney Star leans on the Raven Constellation, sesame will be good (means) “ditto” (i.e., “Mercury in the Gula Constellation comes close to Saturn).”
+9'. “If Ea grows dark, the field will not prosper”
+10'. 	 (means) “Mercury grows faint in the Goat-Fish Constellation.”
+11'. 	 “If (with respect to) the Eridu Star, a meteor flares up, the harvest of the field of the land will prosper”
+12'. 	 (means) “Mercury, @i{as though it had disappeared}, will soon be seen.”
+13'. “If the Ḫabaṣirānu Constellation flickers when it rises (and) is seen at the beginning of the month of Dumuzi,
+14'. 	 the harvest of the land will prosper (and) business will shrink.”
+15'. 	 (means) “Mercury, @i{as though it had disappeared, will soon be seen.”
+16'. (In) “[If] the Ḫabaṣirānu Constellation is late when it rises, the harvest of the land will not prosper,” “to be late” means “to linger”
+17'. 	  (means) “Mercury, @i{as though it had disappeared, exceeds its normal time in the sky.”
+
+@reverse
+
+1'. [If] the Ḫabaṣirānu Constellation, its head looks at the heavens in that year”
+2'. 	 (means) “... [...] ... grows faint.”
+3'. [If] the [...] constellation [...]
+4'. 	 [...] ...

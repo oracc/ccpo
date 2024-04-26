@@ -1,0 +1,319 @@
+&P369075 = CCCP 2.1.D = VAT 8928
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(The beginning is lost. The first preserved commentary entries explain the line “I invoke you, gods of the night,” the incipit of Maqlû I)
+
+$(obverse)
+
+1'. ($___$) !cm ša₂-niš ana# MUL#.MUL# [{mul}GU₄.AN.NA {mul}SIPA.ZI.AN.NA]
+#lem: šanîš[alternatively]AV; ana[according to]PRP; Zappu[Bristle]CN; Alu[Bull of Heaven]'CN; Šitaddaru[Orion]CN
+#note: 1’-6’: My restorations are based on the unpublished Assur commentary A 405 (CCP 2.1.A) rev. 5’-9’. In the same tablet, rev. 4’ is badly damaged, but seems to read: @akk{[al]-si#-ku#-nu#-ši# DINGIR#-MEŠ# mu#-ši#-tu₂# :# DINGIR-MEŠ mu-ši-tu₂ MUL?# DINGIR-MEŠ GAL-MEŠ} “‘I invoke you, gods of the night’ (= Maqlû I 1). The gods of the night (are) @i{the stars of} the great gods.” It is likely that the same text segment preceded KAR 94, obv. 1’. The explanation in lines 1’-2’ claims that the “gods of the night” invoked in the first incantation of Maqlû can be identified with three specific groups of stars, located closely together: the Pleiades, which are found in the constellation Taurus, on the “back of the bull,” Taurus itself, and nearby Orion. The Pleiades and Orion, both also mentioned in Job 9:9, are among the brightest constellations in the night sky, which may be the reason why the commentary singles them out before providing, in lines 2’-3’, a more general additional explanation. The commentary’s interest in the true nature of the “gods of the night” reflects the rise astronomy and astrology experienced in first millennium Mesopotamia.
+2'. ($___$) !cm i-qab-bi šal-šiš# [ana MUL-MEŠ]
+#lem: iqabbi[speak]V; šalšiš[thirdly]AV; ana[according to]PRP; kakkabū[star]N
+
+3'. ($___$) !cm ka-a-a-ma-nu-ti [DUG₄.GA]
+#lem: +kayyamānu[permanent]AJ$kayyamānūti; +qabû[speak]V$iqabbi
+
+4'. !bs KI-ku-nu al-si mu-ši-tu₂ kal-la#-[tu₂ kut-tum₃-tu₂]
+#lem: ittikunu[with]PRP; +šasû[shout]V$alsi; mušītu[night]N; kallātu[bride]N; +kuttumu[covered over]AJ$kutumtu
+#note: 4’-6’: While in the base text the expression “veiled bride” is a mere metaphor for the night, the commentary provides a more specific interpretation: in line 5’, it identifies the “veiled bride” as the goddess Gula, patroness of healing. The explanation brings to mind a line from the oneiromantic “Rituals to obtain a @i{purussû}” that mentions Ereqqu mārat Anu rabītu kallat Ekur @i{kuttumtu}/@i{kullultu} “the Wagon, great daughter of Anu, veiled bride of the Ekur” (Butler 1998, 358: 77). Even though this entry clearly refers, first and foremost, not to Gula, but to Ninlil, the wife of Enlil, lord of the Ekur,1841 the commentator may nevertheless have been inspired by it − @i{kallatu}, after all, does not only mean “bride,” but also “daughter-in-law,” a position that Gula, the wife of Enlil’s son Ninurta, held with regard to Enlil.
+5'. ($___$) !cm kal-la-tu₂ kut-tum₃-tu₂ {d}[gu-la]
+#lem: kallātu[bride]N; kutumtu[covered over]AJ; +Gula[]DN$
+
+6'. ($___$) !cm ša₂ mam₂-ma la u₂-ṣab-bu-ši MU {d}UTU.ŠU₂.[A DUG₄.GA]
+#lem: ša[of]DET; mamma[whoever]XP; lā[not]MOD; +ṣubbû[observe (from a distance)]V$uṣabbûši; šatti[year]N; ereb[entrance]N&šamši[sun]N; iqabbi[speak]V
+
+7'. !bs e-le-ni-tu₂ ub-bir₂-an#-[ni]
+#lem: +elēnītu[witch]N$; +abāru[embrace]V$ubbiranni
+
+8'. ($___$) !cm ub-bu-ru ka-[su?-u?]
+#lem: +abāru[embrace//embracing]V'N$; +kasû[bind//binding]V'N$
+#note: The restoration @akk{ka-[su-u]} follows a suggestion by Meier (1966, 70). The equation is not attested elsewhere, but both ubburu and kasû can be written with the logogram LÁ. It is noteworthy that elēnītu, a rare term for witches (see Schwemer 2007, 82), is not commented on at all.
+9'. !bs SIK₂.UZ₃ im-li-šu : !cm ma-la-šu ba?#-[qa?-mu?]
+#lem: +šārtu[hair]N$; +malāsu[pluck (out)]V$imlišu; +malāsu[pluck (out)//plucking (out)]V'N$; baqāmu[plucking]'N
+#note: 9’: The tentative restoration at the end of the line is inspired by the Nippur commentary 11N-T3 (CCP 4.2.A.a), line 28: @akk{ZE₂ : ma-la-su : ZE₂ : ba-qa-mu} (@i{malāsu} is a variant of @i{malāšu}). Both in 11N-T3 and in the commentary at hand, the equations may ultimately derive from the lexical series Nabnītu, tablet XVII (= J), line 331 (ZÉ = @i{baqāmu}) and line 347 (ZÉ = @i{malāsu}).
+10'. !bs i-ti-iq SAHAR GIR₃-MIN-ia₂ iš#-[bu-šu₂]
+#lem: ītiq[pass by]V; eper[dust]N; +šēpu[foot]N$šēpīya; +šabāšu[gather]V$išbušū
+
+11'. ($___$) !cm ša₂-ba-šu na-sa#-[hu]
+#lem: +šabāšu[gather//gathering]V'N$; nasāhu[tearing out]'N
+#note: 11’: The equation is attested only here and seems to be an ad hoc explanation of the passage. 12’: Mistakenly interpreted as “GIŠ.MA.NU (=) @i{ḫa-aṣ-bu}” in @i{CAD} Ḫ, 132a. Note that the only manuscript of the base text in which this line is completely preserved uses the correct determinative Ú, and not GIŠ, before @i{maštakal}.
+12'. !bs ana-ku {giš}MA.NU ha-aṣ-bu {giš}IN₆.UŠ₂ na#-[ša₂-ku]
+#lem: anāku[I]IP; ēri[(a tree)]N; +haṣbu[broken off]AJ$; +maštakal[masztakal]N$; našâku[lifting]AJ
+
+13'. ($___$) !cm ha-aṣ-bu x# [x x]
+#lem: haṣbu[broken off]AJ; u; u; u
+
+14'. !bs a-kul a-a-bi-ia a-ru-uh lem-nu-[ti-ia]
+#lem: +akālu[eat]V$akul; +ayyābu[enemy]N$ayyābīya; +arāhu[devour]V$aruh; +lemnu[bad]N$lemnūtīya
+
+15'. ($___$) !cm GIR₂(UL₄) : ur-ru-hu : GIR₂(UL₄) : ha-ma#-[ṭu]
+#lem: +arāhu[hasten//hastening]V'N$urruhu; +arāhu[hasten//hastening]V'N$urruhu; +hamāṭu[hasten//hastening]V'N$; hamāṭu[hastening]'N
+#note: 15’: For lexical attestations of the two equations provided in this line, see @i{CAD} A/2, 221a (note especially the passage @i{Aa} VIII/2, 248ff.). @i{CAD} A/2 distinguishes between @i{arāḫu} A “to hasten,” @i{arāḫu} B “to devour” (where the passage at hand is quoted), and @i{arāḫu} C “to attack,” but notes that “the ancient commentators evidently connected both @i{arāḫu} B and @i{arāḫu} C with @i{arāḫu} A” (p. 222b).
+16'. !bs te-ri-na-at a-šu-hi lip-šur-an-ni ša₂ ŠE{+im} ma-la-[(a)-ta]
+#lem: +terinnu[cone]N$terinnātu; +ašūhu[pine-tree]N$ašūhi; lipšuranni[release]V; ša[of]DET; +šeʾu[barley]N$šeʾi; +malû[full]AJ$malât
+#note: 16’: The base text offers @i{terinn}(@i{at})@i{u lipšuranni ša šeʾu malâta} “May the cone, which is filled with seed, release me.” In KAR 94, the specification that the cone comes from a pine-tree is integrated into the quotation. It is not completely clear whether @i{te-ri-na-at} (and @i{te-ri-na-tu}₄ in line 17’) should be regarded as unusual fem. sg. forms of @i{terinnu} or as regular plural forms.
+17'. ($___$) !cm te-ri-na-tu₄ : iš-bur/pur-na?-[tu₄?]
+#lem: +terinnu[cone]N$terinnātu; +išburnatu[pine cone]N$
+
+#note: There is an erasure at the beginning of the line. 17’: The scribe, realizing that he had mistakenly written the first sign, te, without indenting it, erased it and began anew further towards the right. The restoration @i{iš-b}/@i{pur-na-}[@i{tu}₄], which is based on the observation that the word’s formation seems to resemble that of @i{is}/@i{šḫunnatu} “bunch of grapes” (see Meier 1937-39, 240, n. 26), is uncertain; to this day, @i{išb}/@i{purnatu} remains a hapax, and from the photo, a reading r[u] instead of Ebeling’s na seems not completely excluded. The commentator may have adduced the word because of its phonetic resemblance to lipšuranni “may it release me,” in an attempt to show through etymological speculation why the cone (@i{terinn}(@i{at})@i{u}) had such redemptive power.
+18'. ($___$) !cm ma-a ša₂ ŠA₃-šu₂ ŠE{+im} ma-a-lat
+#lem: mā[indeed]J; ša[who]REL; libbišu[interior]N; šeʾi[barley]N; +malû[full]AJ$malât
+
+19'. !bs URU zab-ban URU zab-ban ša₂ URU-MU zab-ban 2 ABUL-MEŠ-šu₂#
+#lem: āli[village]N; +Zabban[]GN$; āli[village]N; Zabban[1]GN; ša[of]DET; +ālu[village]N$ālī; Zabban[1]GN; n; +abullu[gate (of city or large building)]N$abullātīšu
+#note: 19’: The commentator quotes the first part of the line inaccurately; the base text offers instead: @akk{URU-MU zab-ban URU-MU zab-ban}. Zabban was situated in the border region between Assyria and Babylonia, perhaps on the Diyala river. Why the city and its two gates are mentioned in @i{Maqlû} I 42-43 is not quite clear. The reference introduces an incantation that accompanies a water libation to the gods of heaven, who are, in turn, asked to purify (@i{ullulu}) the speaker. Abusch (2002, 257, 261-67), speculating that Zabban was regarded as a place closely connected to the upper regions of the universe, has suggested that its mentioning in the Maqlû incantation might be a “Mesopotamianized” reference to the cosmic Saphôn mountain of the Levant (the Mons Cassius of classical sources). This seems doubtful to me, however. Line 23’ of our commentary points instead to a link with the god Adad, who had a fairly prominent sanctuary in Zabban and, as the patron deity of rainfall, provided heavenly water quite suitable for purifications. The city’s two gates may have been thought to mirror the two acts of purification mentioned in the incantation, that of the gods by the speaker (@i{kīma anāku ana kâšunu ullalu}) and that of the speaker by the gods (@i{attunu yāši ullilāʾinni}).
+20'. ($___$) !cm NU ma-a zab-ban ana qul?-li?#-a-ti ŠUB{+di} MIN ABUL-MEŠ-šu₂
+#lem: +ṣalmu[effigy]N$; mā[indeed]J; Zabban[1]GN; ana[according to]PRP; +qulliu[(a vessel)]N$qulliāti; iddi[utter]V; šanîš[alternatively]AV; abullātīšu[gate (of city or large building)]N
+
+#note: NU is written on the left edge of the tablet. 20’-21’: Why the scribe wrote the sign “@i{nu}” on the left edge of the tablet at the beginning of line 20’ has remained unexplained so far, and in the past, no satisfactory understanding of the passage has been reached. My own interpretation is inspired by lines 38’-40’ of the commentary, which elucidate a quote from another incantation by referring (in the first person singular) to the ritual acts that accompanied it. I believe that a similar concern to link the legomena of @i{Maqlû} to its dromena may have informed the explanation in lines 20’-21’. One of the most significant procedures prescribed by the ritual tablet of @i{Maqlû} in conjunction with the incantations of @i{Maqlû} I was a voodoo-style burning of figurines representing the witch or the enemy. The ritual tablet stipulates that those figurines had to be “thrown” (@i{nadû}) into a @i{ḫuluppaqqu}-vessel. But in first millennium Mesopotamia, the word ḫuluppaqqu seems to have disappeared from daily life, the only contemporary sources mentioning it being literary, religious, and lexical texts (see @i{CAD} Ḫ, 232-33). This explains why the commentator, in what seems to be an attempt to link the statement about Zabban to the act of throwing a figurine (NU = @i{ṣalmu}) into a bowl, did not use the term ḫuluppaqqu for the latter, but another word, qulliu, which he knew from daily experience. He actually provides its uncontracted Neo-Assyrian plural form, @i{qulliāti}. Then, in line 21’, he justifies the ritual use of the @i{qulliu}-bowl by claiming that it resembled the @i{ḫuluppaqqu}-vessel mentioned in the ritual text. But why did the commentator feel prompted by the mentioning of Zabban to refer to the qulliu- and ḫuluppaqqu-bowls in the first place? After all, the burning of figurines in those vessels was not specifically linked to the Zabban-incantation, but rather to @i{Maqlû} I in general? No firm answer is possible, and all I can do is offer some speculative thoughts. It has been observed that the Elamite word @i{zappan} may either designate a type of vessel or the metal copper/bronze. Evidence for this comes from @i{MDP} 9, 5, a Neo-Elamite text from the acropolis at Susa, which mentions in line 2, in a context that refers to several varieties of vessels, “1 @akk{{giš}za-ap-pan ša₂-ah-ši}.” While Giovinazzo (2004) has suggested that @akk{{giš}za-ap-pan}, which she tentatively links to Akkadian šappu/sappu (a bowl), is a vessel as well, Henkelman (2005), in a response to Giovinazzo’s article, has argued that @akk{{giš}za-ap-pan} should rather be understood as a term for copper/ bronze, derived from Sumerian zabar. Whether one follows Giovinazzo or Henkelman, the Elamite word brings to mind our commentary entry. On one hand, @i{zappan} sounds, obviously, very similar to Zabban, while on the other, both @i{qulliu} and @i{ḫuluppaqqu} designate vessels that were usually made of bronze. It is therefore tempting to assume that the association of the city of Zabban with the vessels in question was based on the commentator’s knowledge of the Elamite term zappan. From a socio-linguistic point of view, such a scenario is not unfeasible. There were intense, even though not always cordial, relations between Assyria and Elam in the seventh century BCE, and many Elamites traveled to Nineveh and Assur during this period. The interpretation advanced here remains, of course, conjectural. Another possibility is that the vessels referred to by the commentator had two openings, corresponding to the city’s two gates. Line 20’ of the commentary seems to have been written in haste and somewhat carelessly. The scribe skipped the sign nu (which he later added on the edge of the tablet), and he wrote his explanation somewhat awkwardly between the beginning and the end of the statement on Zabban and its two gates. Furthermore, one would have expected to find the phrase @i{ana libbi qulliāti} instead of @i{ana qulliāti}.
+21'. ($___$) !cm ma-a a-na hul-pa-qim-ma ma-ši-il
+#lem: mā[indeed]J; ana[to]PRP; +huluppaqqu[(a vessel)]N$hulpaqqimma; +mašlu[equal]AJ$mašil
+
+22'. ($___$) !cm ša₂ ina lib₃-bi UTU-ZI ana GAR/ša₂-ŠU₂-šu/ma! iq-bu-u
+#lem: ša[that]REL; ina[in]PRP; libbi[heart]N; X; ana[according to]PRP; X; iqbû[decree]V
+#note: 22’: Meier (1966, 71) transliterates this difficult line “@i{šá ina lìb-bi} UD @i{napāḫi ana šikin siḫpi-šu iq-bu-u},” apparently taking it as a reference to sunrise and sunset.1853 His interpretation has a certain basis in @i{Maqlû} I 44-45, the lines following the one on Zabban, which state explicitly, using both Sumerian and Akkadian terms, that the two gates of that city were directed towards the east and the west: @akk{DIŠ-et ana {d}UTU-E₃ ša₂-ni-tu ana {d}UTU-ŠU₂-A / DIŠ{+et} ana ṣi-it {d}UTU{+ši} ša₂-ni-tu ana e-reb {d}UTU{+ši}}. The problem with Meier’s explanation is that UT ZI is otherwise not attested as a logogram for sunrise (even though UT means “sun” and ZI “to rise”), and that the sign sequence GAR/@i{šá} ŠÚ-@i{šu} would be a rather unorthodox way to refer to the sunset. D. Schwemer’s unpublished transliteration of the line, @i{šá ina lìb-bi ut}-ZI @i{ana šá-šú-ma}?!(text: @i{šu}) @i{iq-bu-u},” suggests a different understanding. It leads to the translation: “(this is) what has been said in ‘Ūta-napišti (spoke) to him’” and implies that the line provides an explicit reference to a specific text or text passage. But this ingenious solution is likewise fraught with difficulties. First of all, it requires the emendation of ŠU into ma. Second, one would have to assume that Ūta-napišti’s name is written without a determinative. And finally, there is the question of the text alluded to. The obvious candidate is, of course, the Epic of Gilgameš, whose Standard Babylonian version contains several times, in tablets X and XI, the line Ūta-napišti ana šâšuma izakkar(a) ana PN (Gilgameš, Uršanabi) “Ūta-napišti spoke to him, to PN (Gilgameš, Uršanabi)” (X 212, 266, XI 8, 234, 247). The most remarkable of the speeches thus introduced provides the famous flood story (XI 8-206). Is it feasible that line 22’ refers to one of these speeches? The problem is that the actual quotation, which should be provided in line 23’ of the commentary in case line 22’ really introduces a quote, is not attested in @i{Gilgameš} X or XI, and even though there are still a few gaps in the respective tablets, does not seem to fit there. Furthermore, the line @i{Ūtanapiš ti ana šâšuma izakkar}(@i{a}) ana PN is not the incipit of @i{Gilgameš} X or XI. Despite these difficulties, it remains tempting to hypothesize that the commentary entry alludes to Ūta-napišti’s flood story. The Zabban incantation deals with heavenly and earthly purification, and this theme does bring to mind the deluge that had once, upon divine command, swept over the earth.
+23'. ($___$) !cm ma-a ša₂ 15 zab-ban-ma ša₂ 2.30 kar-kar{ki!?(ku)}
+#lem: mā[indeed]J; ša[who]REL; imitti[right]N; +Zabban[]GN$; ša[of]DET; šumēli[left hand]N; +Karkar[]GN$
+#note: 23’: This is another problematic line. Much depends on the interpretation of the last three signs. Meier (1966, 71) suggested to read “kāru kar-ku,” but the occurrence of the verbal adjective karku seems to make little sense after kāru. Abusch (2002, 263) offers no translation. The reading proposed above requires a small emendation (KU > KI), but provides us with a meaningful sentence: Zabban’s location “on the right” would be compared to that of another city, Karkar, “on the left.” Zabban and Karkar were located far apart from each other, the former, as stated before, on the Diyala river in the border region between Assyria and Babylonia, the latter close to the Tigris between the ancient cities of Umma and Adab. The only possible reason why the two cities are listed together here is, in my view, that they were both home to important sanctuaries of the god Adad, the @akk{e₂-ni₂-gal-kur-kur-ra-dir-ra/dul₆-la} in Zabban and the @akk{e₂-u₄-gal-gal} in Karkar. Together with five other cities, Zabban and Karkar are mentioned as prominent centers of the Adad cult in the esoteric list KAR 142, a tablet written in seventh century Assur and hence possibly known to the commentator. The weather god Adad was thought to provide rainfall, which, as argued above, brings to mind that the theme of the Zabban incantation is purification, both heavenly and earthly. It remains unclear to me, however, why the commentator refers to Zabban and Karkar as being situated towards the right and the left, respectively.
+24'. ($___$) !cm ina lib₃-bi EN₂ al-si-ku-nu-ši
+#lem: ina[in]PRP; libbi[interior]N; šiptu[incantation]N; alsikunūši[call out]V
+#note: 24’: The line contains a subscript, as do lines 36’ and 45’. All subscripts refer to the incipit of a Maqlû tablet, and not to the incantations commented on in the entry preceding them.
+$ single ruling
+25'. !bs ki#-ma hu-ha-ri ana sa-ha-pi-ia
+#lem: kīma[like]PRP; +huhāru[bird-snare]N$huhāri; ana[according to]PRP; X
+
+26'. ($___$) !cm ma-a hu-ha-ru : ana {giš}kak-kul-li ma-šil
+#lem: mā[indeed]J; +huhāru[bird-snare]N$; ana[according to]PRP; +kakkullu[mash-tub]N$kakkulli; mašil[equal]AJ
+#note: 26’-27’: The commentator explains the shape of the bird-snare by comparing it to a @i{kakkullu}-box; both objects appear to have had a narrow opening and a wide base. At the beginning of the line, a reading @akk{ša₂ sip#-pi#-šu₂#} “whose ‘doorframe’” could be considered, but the traces are not clear, and context and grammar seem to argue against this solution.
+27'. ($___$) !cm ša₂ ME? UD/PI? x# SUHUŠ?#-šu₂?# DAGAL KA-šu₂ qa-ta-an
+#lem: ša[of]DET; u; u; u; išdišu[base]N; +rapšu[wide]AJ$rapšat; pîšu[mouth]N; +qatnu[thin]N$qatan
+
+28'. ($___$) !cm ZA/HA# [x x] x#-ni-iš ana E₂.GAR₈ x# [x] ŠUB?#{+u?}
+#lem: X; u; u; u; ana[according to]PRP; igāri[wall]N; u; u; +nadû[throw (down)]V$iddû
+
+29'. !bs {d}[30 ina URI{ki} {d}UTU?] ina?# <UD?>.UNUG#[{ki}]
+#lem: Sin[1]DN; ina[at]PRP; Akkad[1]SN; Šamaš[1]DN; ina[in]PRP; +Larsa[]GN$
+
+30'. ($___$) !cm [...]
+#lem: u
+#note: 30’-32’: Additional collation is required in order to establish where the traces at the ends of these lines really belong. 32’: That Nergal is described as a murderous deity comes as no surprise. Note that in @i{Maqlû} III 52, it is the witch who is called “murderess” (@i{dayyiktu}).
+31'. !bs [{d}U.GUR a?-di? um?-ma?-na?-ti?]-šu₂?#
+#lem: Nergal[1]DN; adi[until]PRP; +ummānu[army]N$ummānātīšu
+
+$(lower edge)
+32'. ($___$) !cm {d#}U#.GUR# da#-a#-a-ku# x# [x x x] x#
+#lem: Nergal[1]DN; +dāʾiku[killer]N$dayyiku; u; u; u; u; u
+
+33'. ($___$) !cm {d}be-let-a-ga-de₃{ki#} [(...)]
+#lem: +Bēlet-Agade[]DN$; u
+#note: 33’-35’: The quotation is not marked by being “outdented,” like the other quotations in @i{KAR} 94, perhaps because it is written on the edge of the tablet. It is also not quite accurate − the base text refers to Ištar-of-Akkad and not to the Lady-of-Akkad. Both names, however, designate the same goddess. As pointed out by Schwemer 2007, 117, the commentary entry shows that the deity in question was regarded as a powerful patroness of witches. By addressing her while performing the @i{Maqlû} ritual, the exorcist aimed at destroying the witches fought by him in an act of magical inversion (“Umkehrzauber”).
+34'. ($___$) !cm EN kum₂-me-ša₂ [(...)]
+#lem: adi[until]PRP; +kummu[cella]N$kummēša; u
+
+35'. ($___$) !cm be-let {munus}UŠ₁₁.ZU-MEŠ ši-i# [(...)]
+#lem: bēlet[mistress]N; +kaššaptu[sorceress]N$kaššapāti; šī[she]IP; u
+#note: 35’: Note that here and in lines 48’, 52’, 54’, and probably 56’, the explanations have the form of nominal sentences ending with personal pronouns.
+$(reverse)
+36'. ($___$) !zz ina ŠA₃ EN₂ {d}NUSKA šur-bu-[u]
+#lem: ina[in]PRP; libbi[interior]N; šiptu[incantation]N; Nusku[1]DN; šurbû[formidable one]N
+
+$ single ruling
+37'. !bs a-laq-qa-kim-ma ha-ha-a ša₂ UDUN dih₂-me-e ša₂ UTUL₂
+#lem: +leqû[take]V$alaqqâkkim-ma; +hahû[slag]N$hahâ; ša[of]DET; utūni[kiln]N; +ṭikmēnu[ashes]N$dihmê; ša[of]DET; diqāri[tureen]N
+#note: 37’-40’: The lines provide a clear example of an explanation that pairs a passage from an incantation with the ritual act it was supposed to accompany. As shown by Schwemer 2007, 226-27, the act in question, the pouring out of slag and soot, was performed over a statue representing the “fate” (@i{šīmtu}) of the witch. Noteworthy is the use of the first person singular; the commentator presents his ruminations in the form of a monologue in this entry. @i{díḫ}(UM)-@i{me-e} in lines 37’ and 39’ is apparently a mistake (or an Assyrian form?); one expects, in accordance with the base text, @i{diḫmēnu} (< @i{ṭikmēnu}). My reading of the word follows @i{AHw}, 169b, but it should be noted that @i{CAD} D, 158b and @i{CAD} Ṭ, 111b read the first sign, both in the commentary and in the various manuscripts that preserve @i{Maqlû} III 116, not as @i{díḫ}, but as @i{um}, postulating the existence of a lemma ummīnu, likewise to be translated as “soot.”
+38'. ($___$) !cm ma-a NU ša₂ IM DU₃{+uš}
+#lem: mā[indeed]J; +ṣalmu[effigy]N$ṣalma; ša[of]DET; +ṭīdu[clay]N$ṭīdi; +epēšu[do]V$eppuš
+
+39'. ($___$) !cm kur-ban-nu ša₂ UDUN dih₂-me-e ša₂ UTUL₂
+#lem: kurbannu[lump (of earth)]N; ša[of]DET; utūni[kiln]N; dihmê[ashes]N; ša[of]DET; diqāri[tureen]N
+
+40'. ($___$) !cm a-mah-ha-ah ina SAG.DU NU ša₂ IM a-tab-bak
+#lem: +mahāhu[soak]V$amahhah; ina[in]PRP; qaqqadu[head]N; +ṣalmu[effigy]N$ṣalmi; ša[of]DET; +ṭīdu[clay]N$ṭīdi; +tabāku[pour (out)]V$atabbak
+#note: 40’: After this line, the scribe drew a horizontal ruling, which he erased again when he realized that yet another incantation from @i{Maqlû} III was to be commented on. All the rulings in @i{KAR} 94 mark the transition from one individual tablet of the base text(s) to another.
+$(erased ruling)
+41'. !bs ka-mi-tu₄ ša₂ KA DINGIR-MEŠ
+#lem: +kāmû[binder//witch]N'N$kāmmītu; ša[of]DET; pî[accordance]N; ilāni[god]N
+#note: 41’-42’: Here, the notion that the witch can magically manipulate even a god is interpreted as a reference to her ability to alienate a (personal) deity from his or her client. A comparable statement is found in Esarhaddon’s “Vassal Treaties”: @akk{kiš-pi te-ep-pa-ša₂-niš-šu₂-u-ni DINGIR-(MEŠ) u {d}iš-tar is-si-šu₂ tu-ša₂-az-na-a-ni} “You shall not practice witchcraft against him (the crown prince Assurbanipal), nor make god(s) and goddess(es) angry with him” (@i{SAA} 2, no. 6: 264-65). It is not unfeasible that the commentator had this very stipulation in mind when producing the explanation at hand. In any case, with @i{šaznuʾu} apparently serving as the Assyrian counterpart of Babylonian @i{zunnû} (see Watanabe 1987, 185), the explanation provides yet another example of the impact the Neo-Assyrian vernacular had on the language of the commentaries from Assur.
+42'. ($___$) !cm ma-a ša₂ DINGIR KI NA tu-ša₂-za-na
+#lem: mā[indeed]J; ša[who]REL; ili[god]N; +itti[with]PRP$; amēli[man]N; +zenû[be angry]V$tušazna
+
+43'. !bs e-te-lil ki-ma nam-ru ana E₂ EŠ.BAR-MU
+#lem: ētelil[be(come) pure]V; kīma[like]PRP; namru[bright]AJ; ana[according to]PRP; bīt[house]N; +purussû[decision]N$purussīya
+#note: 43’: The four manuscripts of the base text in which the first word of this line is preserved all have @i{e-te-bi-ib} (< @i{ebēbu}) instead of @i{e-te-lil} (@i{elēlu}). 44’: In lines 69-70 and 72 of @i{Maqlû} III, @i{namru}, “the luminous one,” occurs together with @akk{{d}ID₂}, the divine representative of the river ordeal, which accounts for the commentarial equation of namru with Šamaš, the god of justice. It should be noted that the Assur tablet VAT 9985, an early Neo-Assyrian exorcistic text characterized by its close parallels with @i{Maqlû} III, seems to replace namru in the passage at hand with the divine name Šamšu, indicating that the theologoumenon offered in the commentary was based on religious thoughts already well established in the city of Assur.
+44'. ($___$) !cm nam-ru {d}ša₂-maš
+#lem: namru[bright]AJ; Šamaš[1]DN
+
+45'. ($___$) !zz ina ŠA₃ EN₂ {munus}UŠ₁₁.ZU mut-tal-lik-tu₂
+#lem: ina[in]PRP; libbi[interior]N; šiptu[incantation]N; kaššapta[sorceress]N; +muttalliku[mobile]AJ$mutalliktu
+
+$ single ruling
+46'. !bs ma-mit KI.TUŠ a-na IGI {d}UTU a-ša₂-bu u₂-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>
+#lem: māmīt[curse]N; šubti[dwelling]N; ana[according to]PRP; pān[front]N; Šamaš[1]DN; +wašābu[sit (down)//sitting (down)]V'N$ašābu; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+#note: 46’: With this line, the commentarial section on Šurpu begins. Just as in the base text, the final @i{ú-} serves as an abbreviation for the “refrain” @i{upaššar mašmaš ilī Asalluḫi} “Asalluḫi, exorcist of the gods, will undo it.” The quotations in this and the following lines all refer to curses that befall a person who has been exposed to dangerous physical or metaphysical forces.
+47'. !cm ma-a ša₂ a-na tar-ṣi {mul}SAG.ME.GAR uš-ša₂-bu
+#lem: mā[indeed]J; ša[who]REL; ana[according to]PRP; tarṣi[extent]N; Neberu[Jupiter]CN; uššabū[sit (down)]V
+#note: 47’-48’: That Jupiter is paired with the sun-god comes as a surprise at first glance, since Mesopotamian astrologers usually associated the sun with the planet Saturn. The equation is probably informed by a desire on the part of the commentator, more obvious in the following entries, to correlate all the lemmata discussed by him in this section with features typical of Babylonia and Babylon − where Jupiter, and not Saturn, was worshipped as the planet of Marduk, Babylon’s patron god. We can only speculate on what basis the commentator established the identity of Jupiter with Šamaš. One possibility is that he was aware of traditions according to which Marduk, the divine embodiment of Jupiter, was regarded as residing inside the sun. One wonders, of course, what prompted the commentator to associate the curses he quotes in lines 46’-55’ with items so intimately related to Babylonian religion. Perhaps, we can discern some anti-Babylonian propaganda here. As pointed out further below, in the notes on the lost final portion of @i{KAR} 94, there are good reasons to assume that the tablet was written by Kiṣir-Nabû, who was active as a scribe during the second half of the seventh century, when, in the aftermath of the Šamaš-šumu-ukīn rebellion, relations between Assyria and Babylonia were very tense.
+48'. !cm ma-a {d}UTU {mul}SAG.ME.GAR šu-u
+#lem: mā[indeed]J; Šamaš[1]DN; Neberu[Jupiter]CN; šū[that]IP
+
+49'. !bs ma-mit {d}MUŠ₂ EN um-ma-ni u₂-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>
+#lem: māmīt[curse]N; Tišpak[1]DN; bēl[lord]N; ummânī[craftsman]N; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+
+50'. !cm {d}MUŠ₂ {d}na-bi-um
+#lem: Tišpak[1]DN; Nabium[1]DN
+#note: 50’: The equation of Tišpak, an ancient warrior god linked to the city of Ešnunna, with Nabû, the chief deity of Borsippa, is yet another attempt to “Babylonianize” − and “contemporize” − the base text. The identification between the two deities also reflects some awareness that Tišpak’s heroic deeds, and the god’s association with the mušḫuššu-dragon, had been transferred at some point first to Marduk and then later on to Nabû. One of the sources first millennium scholars might have drawn on to find information on the nature of Tišpak is the so-called Labbu myth, which features the heroic battle Tišpak waged against the @i{mušḫuššu}- and labbu-monsters. A late manuscript of this myth, @i{CT} 13, 33-34, is known from Assurbanipal’s libraries at Nineveh.
+51'. !bs ma-mit {id₂}sa-la-ha u ID₂-MEŠ u₂-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>
+#lem: māmīt[curse]N; +Salāhu[]RN$; u[and]CNJ; nārāti[river]N; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+#note: 51’: K 2959+, the only manuscript of the base text that preserves this line, renders it as @akk{ma-mit sa-li-hu u ID₂-MEŠ#}. The missing determinative and the fact that no river called Sala/iḫu is otherwise known make the translation provided above (which follows Reiner 1958, 21) somewhat uncertain. @i{AHw}, 1015b lists the @akk{sa-li-hu} from K 2959+ hesitatingly under sāliḫu “Besprenger” (“sprinkler”).
+52'. !cm ma-a ID₂-MEŠ ša₂ KUR URI{ki} ši-[na]
+#lem: mā[indeed]J; nārāti[river]N; ša[of]DET; māti[land]N; Akkad[1]SN; šina[two]NU
+
+53'. !bs ma-mit suk-ku pa-an-pa-na u₂#-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>
+#lem: māmīt[curse]N; +sukku[shrine]N$; +panpānu[(a shrine or cultic installation)]N$panpāna; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+
+54'. !cm ma-a BARA₂-MEŠ ša₂ E₂.SAG.IL₂ šu₂-[nu]
+#lem: mā[indeed]J; parakkī[(royal) dais]N; ša[of]DET; Esaggil[1]TN; šunu[they]IP
+#note: 54’: The Esagil is of course the temple of Marduk in Babylon.
+55'. !bs ma-mit ib-ri-ti u ne₂-me-di-ša₂ [u₂-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>]
+#lem: māmīt[curse]N; +ibratu[(outdoor) cult niche]N$ibriti; u[and]CNJ; +nēmedu[base]N$nēmedīša; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+#note: 55’: The writing @i{ib-ri-ti}, which represents an Assyrian form (Bab. @i{ibrati} > Ass. @i{ibriti}), is also used in two manuscripts of the base text, both from Assur.1869 58’: Reiner 1958, 50 reads @akk{a-na di#-[hu]}, apparently assuming that the commentator’s goal in this line was to offer a phonological variant of the word @i{diʾu} II “(deity’s) throne-platform.” However, dīḫu is attested only as a variant of @i{diʾu} I “(a disease affecting the head),” not of @i{diʾu} II, and the sign after @i{a-na} resembles a KI rather than a DI. All this makes Reiner’s interpretation unlikely, but unfortunately, none better comes to mind.
+56'. !cm ma-a BARA₂-MEŠ ša₂ KA₂.DINGIR{ki} [šu₂-nu]
+#lem: mā[indeed]J; parakkī[(royal) dais]N; ša[of]DET; +Bābili[]GN$; šunu[they]IP
+
+57'. !bs ma-mit di-ʾu-u u BARA₂# [u₂-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>]
+#lem: māmīt[curse]N; +diʾu[(deity’s) throne-platform]N$; u[and]CNJ; +parakku[cult dais]N$parakki; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+
+58'. !cm di-ʾu-u a-na KI?# x# [...]
+#lem: diʾu[(deity’s) throne-platform]N; ana[to]PRP; erṣetu[earth]N; u; u
+
+59'. !bs ma-mit {d}ma-nu!(BAD)-gal ṣab#-[bu-ti-ti u₂-<(pa-aš₂-šar {lu₂}MAŠ.MAŠ {d}ASAR.LU₂.HI)>]
+#lem: māmīt[curse]N; +Manugal[]DN$; +ṣabbutītu[(evil) female seizer]N$ṣabbutīti; upaššar[undo]V; mašmaš[incantation priest]N; Asalluhi[1]DN
+#note: 59’-60’: The theonym Manu(n)gal, attested since the Ur III period, is a variant of the name of the goddess Nungal, patroness of prisons (see @i{RlA} 9, 615-18). It would have been interesting to see what the commentator had to say about her, but his ruminations are unfortunately lost.
+60'. !cm {d}ma-[nu-gal ...]
+#lem: +Manugal[]DN$; u
+
+61'. !bs x# [...]
+#lem: u; u
+#note: The last lines of @i{KAR} 94, including the colophon − if there ever was one − are broken away, and we cannot establish with certainty who wrote the tablet or was its addressee. The most plausible candidate is Kiṣir-Nabû, son of Šamaš- ibni, whose name appears in the colophon of Ass 13955ii. As pointed out in the note to lines 1’-6’, this tablet displays close parallels to at least one paragraph of @i{KAR} 94, and originates from the same findspot. It cannot, of course, be excluded that @i{KAR} 94 was written by (or for) another young scribe, perhaps one who studied together with Kiṣir-Nabû.
+
+$(remainder lost)
+@translation labeled en project
+
+@label 1' - 3'
+
+Secondly, he (the exorcist-scholar?) says so with regard to the Pleiades, [Taurus, and Orion]. Thirdly, [he says so with regard to] the regular [stars].
+
+@label 4' - 6'
+
+“Together with you, I invoke the night, the [veiled] bride” (@i{Maqlû} I 2). The veiled bride (is) the goddess [Gula], whose features no one can make out. [(This) is said] with reference to the sunset.
+
+@label 7' - 8'
+
+“The mendacious (witch) bound/accused [me]” (@i{Maqlû} I 5). “To bind” (means) “to tie.”
+
+@label 9'
+
+“They plucked out my hair” (@i{Maqlû} I 132). “To pluck out” (means) “@i{to tear out}.”
+
+@label 10' - 11'
+
+“They gathered the earth on which my feet had passed” (@i{Maqlû} I 133). “To gather” (means) “to dig up.”
+
+@label 12' - 13'
+
+“I raise a snapped off (twig of) @i{ēru}-wood and the (alkaline) @i{maštakal}-plant” (@i{Maqlû} I 46). “Snapped off (twig)” (means) ... [...].
+
+@label 14' - 15'
+
+“Consume my enemies, devour/burn (@i{aruḫ}) those who act maliciously [against me]” (@i{Maqlû} I 116). GÍR(ul₄) (means) “to speed up/scare away (@i{urruḫu}),” GÍR(ul₄) (also means) “to hasten/burn.”
+
+@label 16' - 18'
+
+“May the pine cone, which is filled with seed, release me (@i{lipšuranni})” (@i{Maqlû} I 24). The pine cone (is equivalent to?) ... (@i{išpurn}[@i{atu}(?)]). (One says), its interior parts are filled with seed.
+
+@label 19' - 23'
+
+“(My) city Zabban, (my) city Zabban, my city Zabban has two gates” (@i{Maqlû} I 42-43). (One says), the city of Zabban − @i{I throw a figurine} (@i{of my opponent}) (@i{in})@i{to} @i{qulliu-bowls} − has two gates; (one says that) it (a @i{qulliu-bowl}?) resembles a @i{ḫuluppaqqu}-vessel; (this is something) that has been said @i{with regard to “the rising of the sun until its setting”} (or: (this is) what has been said in “@i{Ūta-napišti (spoke) to him}”); (one says) that Zabban is on the right, while @i{Karkar} is on the left.
+
+@label 24'
+
+From “Incantation: ‘I invoke you’” (= incipit @i{Maqlû} I).
+
+$ single ruling
+
+@label 25' - 28'
+
+“To clamp down upon me like a bird-snare” (@i{Maqlû} II 162) (One says), a bird-snare (resembles) a wooden @i{kakkullu}-box, whose ... @i{base} is wide and whose opening is narrow. ... [...] ... towards the wall ... @i{are set}.
+
+@label 29' - 30'
+
+“@i{Sîn} [@i{in Ur, Šamaš}] @i{in Larsa}” (@i{Maqlû} II 193 (?)) [...].
+
+@label 31' - 32'
+
+“@i{Nergal} [@i{with}] @i{his} [@i{hordes}]” (@i{Maqlû} II 194 (?)). Nergal (is) the killer ... [...] ...
+
+@label 33' - 35'
+
+“The Lady-of-Akkad with (the goddesses of) her chapel” (cf. @i{Maqlû} II 195) − she is the mistress of the witches.
+
+@label 36'
+
+From “Incantation: ‘Very great Nuska’” (= incipit @i{Maqlû} II).
+
+$ single ruling
+
+@label 37' - 40'
+
+“I shall take against you (fem. sg.) slag from the oven, soot from a cooking bowl” (@i{Maqlû} III 116). (One says), I shall make a clay figurine, moisten a lump from the oven and slag from a cooking bowl, and pour it over the head of the clay figurine.
+
+$(erased ruling)
+
+@label 41' - 42'
+
+“The (witch) who binds the mouth of the gods” (@i{Maqlû} III 50) (One says, this is the one) who makes a god angry with a man.
+
+@label 43' - 44'
+
+“I am pure like the luminous one in the house (where) the decision about my (case takes place)” (@i{Maqlû} III 70). The “luminous one” (is) Šamaš.
+
+@label 45'
+
+From “Incantation: ‘Roaming witch’” (= incipit @i{Maqlû} III).
+
+$ single ruling
+
+@label 46' - 48'
+
+“The curse related to sitting on a seat before Šamaš” (@i{Šurpu} III 23) − (Asalluḫi, exorcist of the gods), will u(ndo it). (One says that of someone) who sits facing Jupiter (Sag-me-gar); (for one says), Šamaš is Jupiter.
+
+@label 49' - 50'
+
+“The curse related to Tišpak, lord of the troops” (@i{Šurpu} III 165) − will u. Tišpak (is) Nabû.
+
+@label 51' - 52'
+
+“The curse related to the @i{Salaḫu}-river and (other) rivers” (@i{Šurpu} III 64) − will u. (One says), they are the rivers of Babylonia.
+
+@label 53' - 54'
+
+“The curse related to a chapel or shrine” (@i{Šurpu} III 73) − will u. (One says), they are the sanctuaries of the Esagil temple.
+
+@label 55' - 56'
+
+“The curse related to an (outdoor) cult niche and its base” (@i{Šurpu} III 83) − will u. (One says), [they are] the sanctuaries of Babylon.
+
+@label 57' - 58'
+
+“The curse related to (a deity'.s) throne platform and @i{dais}” (@i{Šurpu} III 74) − [will u.]. (One says), “throne platform” ... to [...].
+
+@label 59' - 61'
+
+“The curse related to Manu(n)gal, the snatcher” (@i{Šurpu} III 77) − [will u.]. Manu(n)gal [is ...] ... [...]
+
+$(remainder lost)

@@ -1,0 +1,37 @@
+&P461115 = CCP 7.2.u86 (http://ccp.yale.edu/P461115) = Rm.833
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] !bs ka-kul-ti !zz [...]
+#lem: u; +kakkultu[mash-tub//eyeball]N'N$kakulti; u
+
+#note: Compare @i{SpTU} 1 83 o 9 (@i{CCP} 3.7.2.C): @i{kakkulti} : @i{kišāssu}. 
+2'. !zz [...] !bs x.DIM₂ !cm : ka-kat₂-ti !zz : bi#-[...]
+#lem: u; u; X; u
+
+3'. !zz [...] x : !bs NU DU₃ !cm [: la ba-nu-u ...]
+#lem: u; u; lā[not]MOD; ibni[be(come) beautiful]V; lā[not]MOD; banû[creating]'N; u
+
+#note: Restored after @i{Erimḫuš} III 179 (@i{MSL} 17 p. 51).
+4'. !zz [...]-du# : !bs sa-ha-ri !cm : la-mu-u# [...]
+#lem: u; sahāri[going around]'N; +lawû[surround//surrounding]V'N$lamû; u
+
+5'. !zz [...] !bs ŠIR₃ !cm : ṣer-hi : MIN : bi-ki?#-[tu₂? ...]
+#lem: u; +ṣerhu[shout]N$; +ṣerhu[shout]N$ṣerhi; šanîš[alternatively]AV; bikītu[sorrow]N; u
+
+6'. !zz [... !bs IGI]-šu₂?# ZAG GAR !cm : at-ku-x# [...]
+#lem: u; +īnu[eye]N$īnīšu; imni[right (side)]N; šakin[displayed]AJ; u; u
+
+@translation parallel en project
+
+1'. [... "his] eyeball" [...]
+2'. [...] ... means ... [...]
+3'. [...] @i{nu dù} [means "not beautiful" ...]
+4'. [...] "to turn" means "to surround" [...]
+5'. [...] @i{šìr} means "lamentation," the same can also "@i{plaint}" [...].
+6'. [... "If ...] is set on [his] right [eye]," ... [...]

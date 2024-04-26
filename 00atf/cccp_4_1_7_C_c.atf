@@ -1,0 +1,71 @@
+&P470057 = CCP 4.1.7.C.c (http://ccp.yale.edu/P470057) = BM 49044
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1'. !zz x# x# [...]
+#lem: u; u; u
+
+2'. !zz x# x# x# [...]
+#lem: u; u; u; u
+
+3'. !zz x# x# [...]
+#lem: u; u; u
+
+4'. !zz x# x# [...]
+#lem: u; u; u
+
+5'. !zz ši-x# [(x)] x# [...]
+#lem: u; u; u; u
+
+#note: The sign after @akk{ši} does not appear to be @akk{i} (hence, @i{šīqu} seems impossible). E. Schmidtchen (private communication) suggests a reading @akk{ši-qu#}.
+
+6'. !zz ša₂-a-qu : la [...]
+#lem: +šêqu[level off//levelling off]V'N$; lā[not]MOD; u
+#note: E. Schmidtchen (private communication) suggests reading @akk{šá-a-al?}, and compares the entry to @i{Sagig} VII 39′ @akk{DIŠ KA#-šu₂ DAB.DAB-ma an-na ma!-gal la ip-pal}.
+7'. !zz iš-ha-bi : x#-[...]
+#lem: X; u
+
+8'. !bs GU₃{+gu-za}.LUM?# !cm : ta?#-[...]
+#lem: X; u
+#note: E. Schmidtchen (private communication) suggests that the first entry might explain the logogram @akk{ZÚ.GUZ} = @i{kaṣāṣu}, “to gnaw”. 
+9'. !bs UR₂ !cm : še-e-pi !zz : LAGAB?# [...]
+#lem: +šēpu[foot]N$; šēpi[foot]N; X; u
+
+10'. !bs U₄ 31.KAM ŠU {d}[30 !cm ...]
+#lem: ūmu[day]N; n; qāt[hand]N; Sin[1]DN; u
+#note: According to E. Schmidtchen (private communication), no omen referring to the 31st day of the month is attested within the known manuscripts of @i{Sagig} VII.
+11'. !cm ITI : {d}30 [...]
+#lem: arhi[month]N; Sin[1]DN; u
+
+12'. !zz ša₂#-pa#-ra GIR₃# [...]
+#lem: u; šēpu[foot]N; u
+#note: As noted by to E. Schmidtchen (private communication), this line could also be read as @akk{ša₂# pa-ra-aṣ# [...]}.
+$single ruling
+
+$(end of obverse)
+
+@reverse
+
+$(reverse completely broken)
+
+@translation parallel en project
+
+1'. ... [...]
+2'. ... [...]
+3'. ... [...]
+4'. ... [...]
+5'. ... [...]
+6'. “@i{To level off}” ... [...]
+7'. ... [...]
+8'. means ... [...]
+9'. @i{úr} means “foot.” ... [...]
+10'. “31st day, hand of [Sîn]” [...]
+11'. “Month” means “moon” [...]
+12'. “To send,” ... [...]

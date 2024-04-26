@@ -1,0 +1,373 @@
+&P237754 = CCP 3.5.30 (http://ccp.yale.edu/P237754) = K.1
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs * GIR₂.TAB-MEŠ ina E₂# LU₂# DU# & !cm x# [x x x x (x x)]
+#lem: +zuqiqīpu[scorpion]N$zuqiqīpū; ina[in]PRP; bīt[house]N; amēla[man]N; illik[go]V; u; u; u; u; u; u; u
+
+2. !bs ul-ṭib-bu-ma IGI-MEŠ & !cm ša₂ [x x x x (x x)]
+#lem: +ṭiābu[be(come) good//make good]V'V$ulṭibbū-ma; immar[see]V; ša[that]REL; u; u; u; u; u; u
+
+3. !bs GIR₂.TAB-MEŠ ina E₂ LU₂ DU & !cm {iti}[x x x x (x x)]
+#lem: zuqiqīpū[scorpion]N; ina[in]PRP; bīt[house]N; amēla[man]N; illik[go]V; u; u; u; u; u; u
+
+4. !bs U₄{+mi} e-di-i & !cm U₄#[{+mi} x x (x x)]
+#lem: ūmi[day]N; +edû[flood]N$edî; ūmi[day]N; u; u; u; u
+
+5. !bs dan-na-at EN.TE.NA & !cm {iti#}[x x x (x x)]
+#lem: dannat[strong]AJ; kūṣi[winter]N; u; u; u; u; u
+
+6. !bs SAG-MEŠ UR₂ & !cm iš?#-[di x x x (x x)]
+#lem: rēšū[head]N; išdu[base]N; išid[root]N; u; u; u; u; u
+
+7. !bs i-šur & !cm i-[šu-ur]
+#lem: +ašāru[muster]V$īšur; +ašāru[muster]V$īšur
+
+$ single ruling
+8. &2 !zz ṣa-a-tu₄ u šu-ut pi-i ša₂ DUB 27.KAM# [* URU ina SUKUD{+e} GAR{+in}]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; ṭuppi[tablet]N; n; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$single ruling
+
+9. !bs bi-rit GEŠTU-šu₂ & !cm mim-ma ma-[la x x x]
+#lem: birīt[space between]N; +uznu[ear]N$uznīšu; mimma[anything]XP; mala[as many]PRP; u; u; u
+
+10. !bs MUD <a>-hi & !cm piṭ-ru [x x]
+#lem: +piṭru[release]N$piṭir; +ahu[arm]N$ahi; +piṭru[release]N$piṭir; u; u
+#note: As pointed out by H. Stadhouders (private communication), the line probably refers to the “armpit” (@i{uppi aḫi}). The translation of these lines is courtesy of H. Stadhouders.
+11. !bs up-pu & !cm pi-iṭ-[ru]
+#lem: +uppu[tube]N$; +piṭru[release]N$
+
+#note: Quotation from Malku III 216 (see Hrůša AOAT 50 (2010) p. 237).
+12. !bs di-MIT ŠA₃ !cm : ER₂ : di-im-tu₄ & !cm KIMIN <:> di-ib-ba-ta lib₃?#-bi?#
+#lem: +dimtu[tear]N$dimit; libbi[interior]N; +dimtu[tear]N$N; +dimtu[tear]N$; šanîš[otherwise]N; +dibbu[words]N$dibbāta; libbi[interior]N
+
+#note: The alternative explanation is based on a different reading of the sign MIT (as @akk{bat}).
+
+13. !bs NIG₂.GU₇ & !cm u₂-kul-ti
+#lem: ukultu[food]N; ukulti[devouring]N
+
+14. !bs ša!#-pu-ul & !cm bi-rit pi-ri-du
+#lem: +šapūlu[groin]N$šapūl; birīt[space between]N; +purīdu[leg]N$pirīdu
+
+15. !bs im-ta-ha-aṣ & !cm man-ma DU₁₄ i-gir₂-re-eš
+#lem: +purīdu[leg]N$imtahaṣ; manma[somebody]PRP; ṣāltu[fight]N; +gerû[be hostile to]V$igerrēš
+
+$ single ruling
+
+16. !bs NIG₂.ŠU u₂-ta-ar₂ & !cm ši-mu-šu u₂-tar-ra
+#lem: būši[property]N; +târu[turn]V$utār; +šīmu[purchase (price)]N$šīmūšu; +târu[turn]V$utarra
+17. ($___$) & !cm bu-šu-šu₂
+#lem: būšušu[goods]N
+
+$ single ruling
+
+18. ($___$) !bs DUB & !cm ṭe-hu-u₂
+#lem: +ṭehû[be(come) near to//be(com)ing near to]V'N$; +ṭehû[be(come) near to//be(com)ing near to]V'N$
+
+$ single ruling
+
+19. !bs KA.DU₃.A & !cm bu-ṣur : bu-ṣur : ta-x#-x#-ru
+#lem: +bussurtu[message]N$; +bussuru[bring a message//bringing a message]V'N$buṣur; buṣur[bringing a message]'N; u
+
+#note: The last word could not be deciphered.
+20. !bs <(KA)>{+en}.<(DU₃.A)>{+da} &
+#lem: +bussurtu[message]N$
+
+21. !bs U₄{+um} DINGIR u LUGAL & !cm U₄{+mu} i-sin-nu ša₂ DINGIR u LUGAL
+#lem: ūm[day]N; ilu[god]N; u[and]CNJ; šarri[king]N; ūmu[day]N; +isinnu[festival]N$isinni; ša[who]REL; ili[god]N; u[and]CNJ; šar[king]N
+
+$ single ruling
+
+22. !bs TUG₂.SIG₂-HI.A & !cm sis-si-ke-e-tu₄
+#lem: +sissiktu[hem]N$sissikētu; +sissiktu[hem]N$sissikētu
+
+$ single ruling
+
+23. !bs iz-zib₂-šu₂ & !cm iz-zib-šu₂
+#lem: izzibšu[leave]V; izzibšu[leave]V
+
+$ single ruling
+
+24. &2 !bs * EGIR uš-ta-mi LU₂ iz-qu₂-ut
+#lem: arki[after]PRP; +awû[speak//discuss]V'V$uštāmi; amēla[man]N; +zaqātu[sting]V$izqut
+
+#note: @i{arku} may refer to the “continuation” of the present tablet, since the note appears immediately before the colophon. H. Stadhouders (private communication) suggests understanding @i{šumma arkata uštāmi amēlu iskut}, “if he ponders something down to the last detail/in its ultimate consequences/ if he concentrates on something in depth, a man is silent”; and compares the sentence with idioms such as @i{arkata ḫâṭu}, @i{šaʾālu}: AHw., s.v. @i{warkatu}, 5.b.
+25. !bs šu-ta-mu-u₂ & !cm ša₂-su-u₂
+#lem: šutāmû[discussing]'N; šasû[shouting]'N
+
+$ single ruling
+
+26. &2 !zz ṣa-a-tu₄ ša₂ DUB 28.KAM * URU ina SUKUD{+e} GAR{+in}
+#lem: ṣâtu[commentary]N; ša[of]DET; ṭuppi[tablet]N; n; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$single ruling
+
+27. !bs iz-qu₂-ut & !cm ša₂ SIG₃-su ne-e-eh
+#lem: izqut[sting]V; ša[of]DET; +zaqātu[sting//stinging]V'N$zaqāssu; +nēhu[calm]AJ$nēh
+
+28. !bs RA-su & !cm ša₂ SIG₃-su dan-nu
+#lem: izaqqassu[sting]V; ša[of]DET; zaqāssu[stinging]'N; dannu[strong]AJ
+
+$single ruling
+29. !bs {d}da-mu & !cm {d}gu-la
+#lem: Damu[1]DN; Gula[1]DN
+
+30. !bs ṭur-ra tara-kas & !cm DUR ta-rak-kas
+#lem: +ṭurru[binding]N$ṭurra; tarakkas[bind]V; +ṭurru[binding]N$ṭurra; +rakāsu[bind]V$tarakkas
+
+31. !bs IGI* RA & !cm pa-an ri-ih-ṣu
+#lem: pān[front]N; +rihṣu[flood(ing)]N$rihṣi; pān[front]N; +rihṣu[flood(ing)]N$
+#note: The translation is courtesy of H. Stadhouders.
+32. !bs NAG-ma u₂-zaq & !cm NAG-ma i-par-ri
+#lem: +šatû[drink]V$išattī-ma; uzāq[belch]V; +šatû[drink]V$išattī-ma; +parû[vomit]V$iparri
+
+#note: The equation is also attested in @i{SpTU} 1 33 r 2 (@i{CCP} 4.1.7.B). See the important parallels cited in CAD S 84b, where the verb is parsed as @i{zakû} D.
+33. !bs I₃.GIŠ u KAŠ SUD-šu & !cm I₃.GIŠ u!# KAŠ ta-sal-lah#-[šu₂]
+#lem: šamna[oil]N; u[and]CNJ; šikari[beer]N; +salāhu[sprinkle (with)]V$tasallahšu; šamna[oil]N; u[and]CNJ; šikari[beer]N; +salāhu[sprinkle (with)]V$tasallahšu
+
+$single ruling
+34. !bs DU.DU-ma NU ut-tar-am-ma & !cm a-tal-lu-ku la u-ta-ra-am-ma
+#lem: +alāku[go//roaming about]V'N$atalluku; lā[not]MOD; +atāru[be(come) outsize]V$uttaram-ma; +alāku[go//roaming about]V'N$atalluku; lā[not]MOD; +târu[turn]V$utāram-ma
+#note: The commentary explains the “Koppelung” VERB-@i{ma la uttar} (from @i{watāru} D) by means of INFINITIVE @i{la utâr} (@i{târu} D, “to do again”) [H. Stadhouders].
+35. ($___$) & !cm a-la-ku la u₂-šam-ad
+#lem: alāku[going]'N; lā[not]MOD; +mâdu[be(come) many//increase]V'V$ušamʾad
+
+$(reverse)
+
+36. !bs {d}nin-imma₃ & !cm {d}e₂-a ša₂ {lu₂}DUB.SAR
+#lem: +Ninimma[]DN$; Ea[1]DN; ša[of]DET; +ṭupšarru[scribe]N$ṭupšarri
+
+37. !bs {d}nin-nisig & !cm {d}U!.GUR KIMIN {d}en-nin-šar
+#lem: +Ninnisig[]DN$; Nergal[1]DN; šanîš[otherwise]N; +Enninšar[]DN$
+
+#note: @i{Si vera lectio}, the equation between Ninnisig and Nergal is also attested in the commentary on the kettledrum ritual O 175 o 13 (Livingstone @i{Mystical and Mythological Explanatory Works} [1986] p. 190). On the reading @akk{{d}nin-nisig} of @akk{{d}nin-SAR}, see Cavigneaux @i{Fs Boehmer} (1995) p. 65 (reference courtesy of Uri Gabbay).
+
+38. !bs {d}MUŠ & !cm {d}KA.DI
+#lem: Nirah[Snake]'DN; Ištaran[1]DN
+
+$ single ruling
+
+39. !bs BIR ŠA₃-šu₂ & !cm ŠA₃-šu₂
+#lem: +kalītu[kidney]N$kalīt; libbišu[interior]N; libbišu[interior]N
+
+$ single ruling
+
+40. !bs EN a-mi#-ri-šu₂ & !cm ša₂ i-ze-ʾe-e-ru-šu₂
+#lem: +bēlu[lord]N$bēl; +āmeru[that sees]N$āmirīšu; ša[of]DET; +zêru[dislike]V$izeʾʾerūšu
+
+41. !bs * DUMU.MUNUS mu-ši-hat  & !cm {giš}BANŠUR-MEŠ
+#lem: mārat[daughter]N; +mušīhu[grower]N$mušīhat; paššurātu[offering table]N
+
+#note: The meaning of @akk{mu-ši-hat} is uncertain; see CAD Š/1 107a.
+
+
+42. ($___$) !cm {(mu-us-si-ha-at)} &
+#lem: +mušīhu[grower]N$mussīhat
+
+$ single ruling
+
+43. &2 !zz ṣa-a-tu₄ u šu-ut pi-i ša₂ DUB 29.KAM * URU ina SUKUD#{+e#} GAR#{+in#}
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; ṭuppi[tablet]N; n; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$ single ruling
+
+44. !bs i-ha-az-zu & !cm i-ša₂-as-su
+#lem: +azû[sigh]V$ihazzû; +šasû[shout]V$išassû
+
+45. !bs NIG₂.ME.GAR AL.KUD & !cm iš-di-ih-hu KUD{+as}
+#lem: +išdihu[profit(able business)]N$; +parāsu[cut (off)]V$ipparras; +išdihu[profit(able business)]N$; +parāsu[cut (off)]V$ipparras
+
+$ single ruling
+
+46. !bs na-bu-ul-tu₄ & !cm mi-it-ti KIMIN nu-ub-{(he-pi₂ eš#-šu₂#)}-<(bu-ul-tu₄)>
+#lem: X; +mītu[dead]AJ$mitti; šanîš[otherwise]N; u; hepi[broken]AJ; eššu[new]AJ
+
+47. !cm nu-<ub-bu>-ul-tu₄ & !cm mi-it-tu₄
+#lem: X; +mītu[dead]AJ$mittu
+
+#note: @i{AHw} 700a cites this passage as the only attestation of the hapax legomenon @i{nabultu}, “corpse,” and compares it with Hebrew @i{nĕḇēlā} as a parallel. @i{CAD} N/1 328 and 342 suggest the emendation followed here. According to Freedman’s ingenious explanation (@i{If a City is Set on a Height}, volume 2 [2006] p. 171), the source of the equations in ll. 46-47 may have been an incorrect parsing of the base text (which reads @akk{na-bu-ul-tu₄}, but appears in some manuscripts as @akk{nu-bal-tu₄}) as @akk{NU bal-ṭu₄}, “not alive.”
+
+$ single ruling
+
+48. !bs KUL-de-e E₂ &
+#lem: +udû[tools]N$KULdê; bīti[house]N
+
+49. ($___$) !bs <(KUL-de-e)>{+mu} &
+#lem: +udû[tools]N$mudê
+
+50. !bs mu-du-u₂ & !cm nu-us-hu
+#lem: +udû[(a vessel)]N$mudû; +nushu[(a container)]N$
+
+51. !bs mu-du-u₂ & !cm u₂-du-u₂
+#lem: +udû[tools]N$mudû; udû[equipment]N
+
+$ single ruling
+
+52. !bs DAB.DAB{+ta}-ma & !cm ti-iṣ-bu-ta-ma
+#lem: +ṣabātu[seize]V$tiṣbuta-ma; +ṣabātu[seize]V$tiṣbuta-ma
+
+53. !bs E₂ BI NAM TUKU{+ši} & !cm E₂ BI an-nu TUKU{+ši}
+#lem: bītu[household]N; šū[that]IP; +arnu[guilt]N$arna; irašši[acquire]V; bīt[house]N; šu[that]IP; annu[guilt]N; irašši[acquire]V
+
+54. ($___$) !bs NAM : !cm an-nu & !cm an-nu : ar₂-nu
+#lem: +arnu[guilt]N$; annu[guilt]N; annu[guilt]N; arnu[guilt]N
+
+$ single ruling
+
+55. !bs ul KUD & !cm ul i-par-ra-as
+#lem: ul[not]MOD; +parāsu[cut (off)]V$iparras; ul[not]MOD; +parāsu[cut (off)]V$iparras
+
+$ single ruling
+
+56. !bs qu-um-ma-lam & !cm bu-lu₄
+#lem: +qumahhu[cattle]N$; būlu[livestock]N
+
+#note: @akk{qu-um-ma-lam} is a hapax legomenon. According to @i{CAD} Q 304b, the scribe misinterpreted a presumed spelling @akk{qu-um-ma-hum} as @akk{qu-um-ma-lum} (the rare word @i{qummaḫu} is equated with @i{būlu} in the astrological commentary 2@i{R} 47 ii 5ff = @i{CCP} 3.1.u72).
+
+
+57. ($___$) !cm <(qu-um-ma-lam)>{+lu} &
+#lem: +qumahhu[cattle]N$
+
+$ single ruling
+
+58. !bs ṣu₂{+ṣu}-ri-ri-it & !cm EME.ŠID.MUNUS
+#lem: +ṣurārû[lizard(s)]N$ṣurīrīt; +ṣurārû[lizard(s)]N$ṣurīrītu
+
+$ single ruling
+59. !bs * a₃{+a}-mir i-lit-tu₂ & !cm i-lit-tu₂ lit-tu <<tu>>
+#lem: +āmeru[that sees]N$āmir; +ilittu[birth]N$; +ilittu[birth]N$; +littu[descendant]N$
+
+60. !bs U₃.TU !cm : ba-nu-u₂ & !bs U₃.TU !cm : a-la-du
+#lem: +banû[be(come) good//be(com)ing good]V'N$; +banû[be(come) good//be(com)ing good]V'N$; +alādu[give birth (to)//giving birth (to)]V'N$; alādu[giving birth (to)]'N
+
+$ single ruling
+61. !bs ku-kit-ti & !cm la mit-gur-ti
+#lem: +kukittu[inappropriate location]N$; lā[not]MOD; +mitgurtu[agreement]N$
+
+62. !bs ku-kit-ti & !cm la šat-ti
+#lem: kukittu[inappropriate location]N; lā[not]MOD; +šattu[improper]AJ$šatti
+
+63. !bs NU{+la} šat{+ša}-ti & !cm la ku-ši-ri
+#lem: +lā[not]MOD$; +šattu[improper]AJ$šatti; lā[not]MOD; kušīri[success]N
+
+$ single ruling
+
+64. !bs MIN U₄ !cm ši-in & !cm U₄{+mu*}
+#lem: +šinā[two]N$; ūm[day]N; +šinā[two]N$šin; ūmu[day]N
+
+#note: Collated.
+
+$ single ruling
+
+$(left edge column i)
+
+65. !bs EME.SIG & !cm kar-ṣi
+#lem: karṣa[slander]N; karṣi[slander]N
+
+66. !zz {(kur₂)} !bs GU₇-ME !zz <<e>> & !cm in-nak-ka-lu
+#lem: X; +akālu[eat]V$innakkalū; +akālu[eat]V$innakkalū
+
+#note: Labat @i{Commentaires} (1933) p. 38 takes @i{kúr} as a phonetic complement, but it is probably a paratextual note indicating that there is a textual problem in the text (in this case, the additional @i{e} at the end). On the scribal mark @i{kúr}, see e.g. Lambert @i{Fs Kraus} (1982) p. 216 ad iv 24.
+67. !bs UŠ₂ ka-mit UŠ₂ & !cm mu-tu ka-ma-tu i-ma-ti
+#lem: +mūtu[death]N$mūt; +kamītu[bondage]N$kamīt; imât[die]V; +mūtu[death]N$; +kamītu[bondage]N$kamâtu; +mâtu[die]V$imâti
+
+$(left edge column ii)
+
+68. !bs ka-šu-tu₄ &
+#lem: +kašūtu[]N$
+
+#note: @i{ka-šu-tu}₄, si vera lection, is a hapax legomenon.
+69. !bs ka-šu-tu₄ &
+#lem: +kašūtu[]N$
+
+70. !bs IGI-MIN-šu₂ uṣ-ṣa-ha-ta !cm : & !cm MIN-šu₂ ul-tam-ma-a
+#lem: īnīšu[eye]N; +ṣahātu[press]V$uṣṣahata; X; +lawû[surround]V$ultammâ
+
+#note: The interpretation of the line follows @i{CAD} Ṣ 61a.
+71. &2 !zz ṣa:a-tu₄ ša₂ DUB 30.KAM * URU ina SUKUD{+e} GAR{+in}
+#lem: ṣâtu[commentary]N; ša[of]DET; ṭuppi[tablet]N; n; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+@translation parallel en project
+
+1. “If scorpions walk in a man’s house” (@i{Šumma ālu} 30 incipit) [...].
+2. “If they @i{improve} and are seen” (@i{Šumma ālu} 30 unknown), it (refers to someone) who [...].
+3. “If scorpions walk in a man’s house” (@i{Šumma ālu} 30 incipit), it refers to the months [...]
+4. “On a day of flooding” (@i{Šumma ālu} 30 26′-30′) means a da[y ...].
+5. The “depth of winter” (@i{Šumma ālu} 30 22′) refers to the months [...].
+6. SAG-MEŠ ÚR (@i{Šumma ālu} 30 unknown) means “@i{fou}[@i{dation} ...].
+7. @i{i-šur} (@i{Šumma ālu} 30 unknown) means @i{i}-[@i{šu-ur}]
+
+8. Lemmata and oral explanations relating to the 27th tablet [of “If a city is set on a height”].
+
+9. “Between his ear” (@i{Šumma ālu} 31 6-7) means “as much as [...].”
+10. MUD @i{aḫi} (@i{Šumma ālu} 31 16-17) means “joint [...].”
+11. “@i{Armpit}” means “jo[int].”
+12. @i{di}-MIT @i{libbi} (@i{Šumma ālu} 31 unknown), written ÉR, means “tear”; alternatively, (it means) “words @i{of the heart}.”
+13. NÍG.GU₇ (@i{Šumma ālu} 31 unknown) means “consumption.”
+14. “Groin” (@i{Šumma ālu} 31 48-49) means “(part) between the legs.”
+15. “He will be beat” (@i{Šumma ālu} 31 unknown) means “someone will start a fight with him.”
+16. NÍG.ŠU @i{ú-ta-ár} (@i{Šumma ālu} 31 unknown) means “he will return his purchase”;
+17. (alternatively, it means) “his property.”
+18. DUB (@i{Šumma ālu} 31 unknown) means “to approach.”
+
+19. KA.DÙ.A (@i{Šumma ālu} 30 66′) means “news,” “news” means ...
+20. (KA should be read as) @i{en} and (DÙ.A should be read as) @i{da} (i.e., @i{enim.da})
+21. “The day of god or king” (@i{Šumma ālu} 30 unknown) means “the day of the a god’s or king’s festival.”
+22. TÚG.SÍG-ḪI.A (@i{Šumma ālu} 30 77′) means “fringes.”
+23. @i{iz-zíb-šú} (@i{Šumma ālu} 30 85′) means “it will leave him” (written @i{iz-zib-šú}).
+24. In “If it considers the back and stings the man” (@i{Šumma ālu} 30 unknown),
+25. “to consider” means “to shout.”
+26. Lemmata relating to the 28th tablet of “If a city is set on a height.”
+27. “It stings” (written @i{iz-qú-ut}) (@i{Šumma ālu} 31 @i{passim}) (is said of the scorpion whose) sting is soft.
+28. “It stings him” (written RA-@i{su}) (@i{Šumma ālu} 31 @i{passim}) (is said of the scorpion whose) sting is hard.
+29. Damu (@i{Šumma ālu} 31 unknown) is Gula.
+30. @i{ṭur-ra tara-kas} (@i{Šumma ālu} 31 unknown) means “you tie a knot.”
+31. IGI RA (cf. @i{Šumma ālu} 31 77′) means “before (the time of) thunderstorm(s).”
+32. “He will drink it and @i{bring it up}” (@i{Šumma ālu} 31 75′) means “he will drink and vomit.”
+33. Ì.GIŠ @i{u} KAŠ SUD-@i{šu} (@i{Šumma ālu} 31 74′) means “you will sprinkle [him] with oil and beer.”
+34. DU.DU-@i{ma} NU @i{ut-tar-am-ma} (@i{Šumma ālu} 31 76′) means “he will no longer walk around,”
+35. (in the sense) “he will not increase the walking.”
+36. “Ninimma” (@i{Šumma ālu} 31 unknown) is Ea of the scribe.
+37. “Ninnisig” (@i{Šumma ālu} 31 unknown) is Nergal; alternatively, it is Enninšar.
+38. “Irḫan” (@i{Šumma ālu} 31 unknown) is Ištarān.
+39. “Kidney of his belly” (@i{Šumma ālu} 31 unknown) means “belly.”
+40. “The person who looks askance at him” (@i{Šumma ālu} 31 unknown) (refers to the man) who hates him.
+41. “If a daughter who @i{mu-ši-ḫat}” (@i{Šumma ālu} 31 unknown) (refers to) tables.
+42. (@i{mu-ši-ḫat} should be read as) @i{mussiḫat} (i.e., “she who assigns”).
+43. Lemmata and oral explanations relating to the 29th tablet of “If a city is set on a height.”
+44. “It hisses” (@i{Šumma ālu} 32 37′) means “it cries out.”
+45. NÍG.ME.GAR AL.KUD (@i{Šumma ālu} 32 unknown) means “profit will cease.”
+46. @i{nabultu} (@i{Šumma ālu} 32 46′) means “dead.” @i{nu-ub} (recent break),
+47. @i{nu}<@i{bb}>@i{ultu} means “dead.”
+48. In “The KUL-@i{de-e} of the house” (@i{Šumma ālu} 32 57′),
+49. (KUL should be read as) @i{mu}, (and means) “a container.”
+50. (read as) @i{mudû},
+51. @i{mudû} (is a writing of) @i{udû} (“equipment”).
+52. DAB.DAB-@i{ta-ma} (@i{Šumma ālu} 32 41′) means “to hold one another” (@i{tiṣbutu}, @i{ṣabātu} Gt).
+53. É BI NAM TUKU-@i{ši} (@i{Šumma ālu} 32 unknown) means “that house will bear guilt.”
+54. NAM means @i{annu}, (and) @i{annu} means “guilt.”
+55. @i{ul} KUD (@i{Šumma ālu} 32 unknown) means “it will not be cut off.”
+56. @i{qu-um-ma-lam} (@i{Šumma ālu} 32 unknown) means “cattle.”
+57. (LAM should be read as) @i{lu}.
+58. @i{ṣú-ri-ri-it} (@i{Šumma ālu} 32 unknown) (read @i{ṣu}) means “female lizard.”
+59. In @i{a-mir i-lit-tú} (@i{Šumma ālu} 32 unknown), @i{ilittu} means “progeny.”
+60. Ù.TU (@i{Šumma ālu} 32 63′?) means “to create”; Ù.TU means “to bear.”
+61. “Inappropriate” (@i{Šumma ālu} 32 unknown) means “not in agreement.”
+62. “Inappropriate” means “not proper.”
+63. “Not proper” means “profitless.”
+
+64. 2 U₄ (@i{Šumma ālu} 32 unknown) means “two days.”
+
+65. EME.SIG (@i{Šumma ālu} 32 unknown, but cf. @i{Šumma ālu} 32 [@i{KAR} 382 20′]) means “slander.”
+66. (Mistake!) GU₇-ME (@i{Šumma ālu} 32 unknown) means “it will be eaten.”
+67. ÚŠ @i{ka-mit} (@i{Šumma ālu} 32 unknown) ÚŠ means “he will die a death of captivity.”
+68. @i{kašūtu} (@i{Šumma ālu} 32 unknown) means (blank).
+69. @i{kašūtu} (@i{Šumma ālu} 32 unknown) means (blank).
+70. “(The lizard’s) eyes @i{contract}” (@i{Šumma ālu} 32 unknown) means “his eyes(!) repeatedly become surrounded.”
+71. Lemmata relating to the 30th tablet of “If a city is set on a height.”

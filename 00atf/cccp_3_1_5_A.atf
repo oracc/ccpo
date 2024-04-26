@@ -1,0 +1,238 @@
+&P237772 = CCP 3.1.5.A (http://ccp.yale.edu/P237772) = K.75
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs [*] 30 ina AN.BIR₉ E₃-ma SI-MEŠ-šu₂ KI IGI-MEŠ ILLU DU{+kam₂} !cm lu U₄ 2#.[KAM₂ lu U₄] 3#.KAM₂ DINGIR BAR-ma GUB{+az}-ma
+#lem: Sin[1]DN; ina[at]PRP; muṣlāli[siesta(-time)]N; uṣṣima[leave]V; qarnātušu[horn]N; qaqqar[district]N; immarā[see]V; mīlu[flood]N; illakam[come]V; lū[or]CNJ; ūmu[day]N; n; lū[or]CNJ; ūmu[day]N; n; ilu[god]N; zīzma[divided]AJ; izzazma[stand]V
+
+2. !bs [*] 30 ina AN.BIR₉ E₃-ma KIMIN<(SI-MEŠ-šu₂ KI IGI-MEŠ)> : !cm KIMIN U₄ 3.KAM₂ U₄ 4.KAM₂ ma-gal GAL-ma
+#lem: Sin[1]DN; ina[at]PRP; muṣlāli[siesta(-time)]N; uṣṣima[leave]V; qarnīšu[horn]N; qaqqar[ground]N; immarā[see]V; šanîš[otherwise]N; ūmu[day]N; n; ūmu[day]N; n; magal[greatly]AV; rabīma[big]AJ
+
+#note: It seems odd that the same omen as is quoted in l. 1 is quoted also in this line.
+3. !bs *# 30 ina IGI.LA₂-šu₂ BAL{+ut} LUGAL KUR-su ul uš-te-eš-šer₃ !cm U₄ 14.KAM₂ KI# [20] NU# IGI KIMIN 30 IGI-ma DUNGU ia-ʾ-nu
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; +nabalkutu[crossed over]AJ$nabalkut; šar[king]N; mātsu[land]N; ul[not]MOD; +ešēru[be/go well//put in good condition]V'V$ušteššer; ūmu[day]N; n; itti[with]PRP; Šamaš[1]DN; lā[not]MOD; innamir[appear]V; šanîš[otherwise]N; Sin[1]DN; +amāru[see]V$innamir-ma; erpeti[cloud]N; +yānu[(there) is not]V$yaʾnu
+
+4. !bs * U₄ is-si !cm {d}IŠKUR ina la si-[ma]-ni-šu₂ GU₃-šu₂ ŠUB-ma
+#lem: ūmu[day]N; issi[cry out]V; Adad[1]DN; ina[in]PRP; lā[not]MOD; simānīšu[(right) occasion]N; rigimšu[voice]N; iddima[utter]V
+
+5. !bs * U₄ is-si-ma !cm 30 a-dir ina AN.GE₆ 30 {d}IŠKUR GU₃-šu₂ ŠUB-ma 
+#lem: ūmu[day]N; issīma[be distant]V; Sin[1]DN; adir[dark]AJ; ina[in]PRP; attallê[eclipse]N; Sin[1]DN; Adad[1]DN; rigimšu[voice]N; iddima[utter]V
+
+6. !bs * U₄ is-si-ma !cm 20 a-dir ina AN.GE₆ 20 {d}IŠKUR GU₃-šu₂ ŠUB-ma
+#lem: ūmu[day]N; issīma[be distant]V; Šamaš[1]DN; adir[dark]AJ; ina[in]PRP; attallû[eclipse]N; Šamaš[1]DN; Adad[1]DN; rigimšu[voice]N; iddima[utter]V
+
+7. !bs * U₄ UD.DA-su KUR₂.KUR₂{+ir} !cm IM 4{+ba} DU-MEŠ-ma
+#lem: ūmu[day]N; ṣēssu[bright light]N; ittanakkir[change]V; ṭīdi[clay]N; n; illakūma[go]V
+
+8. !bs * U₄ is-si-ma {d}IŠKUR GU₃-šu₂ ŠUB !cm TA AN.GE₆ GAR-ma
+#lem: ūmu[day]N; issīma[be distant]V; Adad[1]DN; rigimšu[voice]N; maqātu[falling]'N; ina[in]PRP; attallû[eclipse]N; iššakinma[take place]V
+
+#note: It is unclear why the explanation takes the form of a subordinate clause.
+9. !bs * {d}ši₂-mut !cm {mul}ṣal-bat-a-nu ša₂-niš {d}ba-lu šal-šiš*# {mul}UD.KA.DU₈.A
+#lem: +Šimut[]DN$; Ṣalbatanu[Mars]CN; šanîš[alternatively]AV; +Balu[]CN$; šalšiš[thirdly]AV; +Udkaduʾa[]CN$
+
+#note: On the association of (1) the Elamite deity Šimut and (2) the constellation "Open Mouthed Storm Demon" with Mars, see Reynolds (1998: 354-356). The Akkadian "Balu" ("Without") seems to be otherwise attested as a name for Mars only in the text HAR-gud B (Reynolds 1998: 348-349, 353).
+10. !bs * 20 7 AGA-MEŠ a-pir LUGAL kib-ra-a-ti i-be-el KIMIN ŠUB{+ti₃#} MAŠ₂*#.ANŠE*# mi-šil-šu AN.GE₆ GAR-ma
+#lem: Šamaš[1]DN; n; +agû[tiara]N$agê; apir[wearing]AJ; šar[king]N; kibrāti[edge]N; ibêl[rule (over)]V; šanîš[otherwise]N; miqitti[epidemic]N; būli[livestock]N; +mišlu[half]N$mišilšu; attallû[eclipse]N; iššakinma[take place]V
+
+11. !bs * 30 ina IGI.DU₈.A-šu₂ ina {d}UTU.E₃ it-tan-mar !cm lu ina# [MU₂ lu ina] AN#.BIR₉ U₄ 30.KAM₂ EGIR 20 IGI-ma
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; ina[in]PRP; ṣīt[exit]N&šamši[sun]N; ittanmar[appear]V; lū[or]CNJ; ina[in]PRP; +napāhu[blow//blowing]V'N$napāhi; lū[or]CNJ; ina[in]PRP; muṣlāli[siesta(-time)]N; ūmu[day]N; n; arki[after]PRP; Šamaš[1]DN; +amāru[see]V$innamir-ma
+
+12. !bs * 30 ina IGI.LA₂-šu₂ pal-lu-ur-ti MUL-MEŠ e-bi-ih ina MU#* [BI] ina KUR-MEŠ MUNUS.KUR₂-MEŠ GAR-MEŠ
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; +išpallurtu[cross]N$pallurti; kakkabū[star]N; +ebhu[girded]AJ$ebih; ina[in]PRP; šatti[year]N; šū[that]IP; ina[in]PRP; mātāti[land]N; nukrātu[hostility]N; ittanaškan[put]V
+
+13. ($___$) !cm {d}UDU.IDIM.SAG.UŠ {d}dil-bat {d}ṣal-bat-a-nu IGI#-ma# {mul}MAŠ.TAB.BA.GAL.GAL.LA NIGIN₂-MEŠ-šu₂-ma
+#lem: Kayyamanu[Saturn]'DN; Dilbat[Venus]CN; Ṣalbatanu[Mars]CN; innamir-ma[see]V; X; +lawûm[surround]V$ilammûšū-ma
+
+14. !bs *# {d}30 ina IGI.LA₂-šu₂ SI-MEŠ-šu₂ ṣer-ši SA₅-MEŠ AN.GE₆ GAR{+an} !cm ina# SI#-MEŠ-šu₂ ki-lat-tan 2 MUL-MEŠ
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; +ṣeršu[offshoot]N$ṣerši; sāmūtu[red]AJ; attallû[eclipse]N; iššakkan[take place]V; ina[in]PRP; qarnātišu[horn]N; kilattān[both]AJ; n; kakkabū[star]N
+
+#note: The word @i{ṣeršu}, "growth, protuberance," is attested only in divinatory literature (AHw 1093b, CAD Ṣ 209b). For a discussion of the word's meaning, and an argument against the appearance of the word in the third caption of the Sippar Sun God Tablet, see Woods (2004: 64-66).
+15. ($___$) !cm GUB-MEŠ-ma : !bs A₂ ana A₂-šu₂ : !cm SI-MEŠ-šu₂ mit-ha-ra
+#lem: izzazzūma[stand]V; idi[side]N; ana[according to]PRP; idišu[side]N; qarnātušu[horn]N; mithārā[symmetrical]AJ
+
+#note: Despite sharing a line with the previous explanation, the phrase @i{idi ana idīšu} ("on each side") seems to be drawn from a different, otherwise uncited omen in the base text.
+16. !bs * 30 ina IGI.LA₂-šu₂ NU iq-qab-bi ŠU₂ AN.GE₆ ŠU₂-ma KI 20 IGI-ma !cm GIŠKIM NU u₂-kal-lam
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; lā[not]MOD; +qabû[say]V$iqqabbi; kiššati[universe]N; attallû[eclipse]N; irbima[disappear]V; itti[with]PRP; Šamaš[1]DN; innamir-ma[see]V; ittu[sign]N; ul[not]MOD; ukallam[show]V
+
+17. !bs * 30 ina IGI.LA₂-šu₂ SI 150-šu₂ PA TUKU* !cm MUL 1 ina SI 150-šu₂ 1 ŠU.SI 2 ŠU.SI DIM₄*-ma
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qaran[horn]N; +šumēlu[the left]N$šumēlīšu; artu[branches]N; īši[have]V; kakkabu[star]N; n; ina[in]PRP; qaran[horn]N; +šumēlu[the left]N$šumēlīšu; n; ubānu[unit]N; n; ubānu[unit]N; isniqma[approach]V
+
+18. !bs * 30 ina IGI.LA₂-šu₂ SI 15-šu₂ GE₆{+at₂} !cm SI 15-šu₂ er-rem-ma
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qaran[horn]N; imittišu[right]N; ṣalmat[dark]AJ; qaran[horn]N; imittišu[right]N; +arāmu[cover]V$errem-ma
+
+19. !bs * 30 20 la u₂-qi₂-ma ir-bi na-an-dur UR.MAH u UR.BAR.RA !cm ina {d}UTU GUB{+zu} ad-riš
+#lem: Sin[1]DN; Šamaš[1]DN; lā[not]MOD; uqîma[await]V; irbi[set]V; nandur[rampaging]'N; nēšū[lion]N; u[and]CNJ; barbari[wolf]N; ina[in]PRP; Šamaš[1]DN; izzazzū[stand]V; adriš[dimly]AV
+
+20. ($___$) !cm E₃-ma : U₄ 15.KAM IGI-ma
+#lem: uṣṣima[leave]V; ūmu[day]N; n; innamir-ma[see]V
+
+21. !bs * 30 u 20 im-dah-ru-ma 30# te#-diš-tu₂ NU# KUR{+ud} !cm 14#.KAM₂ DINGIR KI DINGIR IGI-ma hap-ra-tu₂ ul ina-aš-šar
+#lem: Sin[1]DN; u[and]CNJ; Šamaš[1]DN; +mahāru[face]V$imdahrū-ma; Sin[1]DN; +tēdištu[renewal]N$; lā[not]MOD; ikšud[reach]V; n; ili[god]N; itti[with]PRP; ilu[god]N; innamir-ma[see]V; +haprātu[visible surface]N$; ul[not]MOD; +našāru[deduct]V$inaššar
+
+22. !bs * 30 ina# IGI#.DU₈#.A-šu₂ SI-MEŠ#-šu₂ ka-pi₂-a !cm TUN₃.BA.AB GI ka-pi₂ TUN₃.BA.AB GI ku-pi
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; +kepû[bent (back)]AJ$kapiā; X; qanê[reed]N; X; X; qanê[reed]N; X
+
+#note: The general purpose of the commentator is clear: to explain the writing of the uncontracted form of the 3 fp G stative of @i{kepû}, "to bend," as a form of that verb. The commentator does so by means of the Sumerian phrase TUN₃.BA.AB GI. The sign GIN₂ (read TUN₃) is elsewhere attested in reference to a reed stylus (GI) in the lexical list @i{Nabnītu} Tablet 22, ll. 121-126 (cited by CAD K 312b).
+23. !bs * [30 ina IGI.LA₂-šu₂ {mul}]ŠUL.PA.E₃ ina ŠA₃-šu₂ GUB{+iz} LUGAL KUR MAR.<TU>{ki} ŠU₂{+tu₂} DU₃{+uš}
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; Šulpae[1]DN; ina[in]PRP; libbišu[interior]N; izziz[stand out]V; šar[king]N; mātu[land]N; Amurru[1]GN; kiššatu[world]N; eppuš[accomplishing]'N
+
+24. ($___$) !bs [a-bi-ik-ti] KUR KUR₂-šu₂ GAR{+an}
+#lem: +abiktu[defeat]N$abikti; māti[land]N; nakiršu[enemy]N; iššakkan[take place]V
+#note: The restoration at the beginning is courtesy of L. Marti, who noticed that the line is a parallel to SAA 8, 147 r 6-7: @akk{30 TUR₃ NIGIN₂-ma {d}ŠUL.PA.E₃ ina ŠA₃-šu₂ GUB-iz LUGAL MAR.TU ŠU₂-tu₂ DU₃-ma a-bi-ik-ti KUR KUR₂-šu₂ GAR-an}.
+
+25. !bs [* 30 ina IGI.LA₂-šu₂ {mul}]SIPA#.ZI.AN.NA ina ŠA₃-šu₂ GUB{+iz} LUGAL KIŠ* ŠU₂{+tu₂} DU₃{+uš}
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; Šitaddaru[Orion]CN; ina[in]PRP; libbišu[interior]N; izziz[stand out]V; šar[king]N; kiššati[universe]N; kiššatu[world]N; eppuš[accomplishing]'N
+
+#note: The constellation "Šitaddaru" = Orion.
+26. ($___$) !cm [{mul}SIPA].ZI#.AN.NA {ul}UDU.IDIM.SAG.UŠ
+#lem: Šitaddaru[Orion]CN; +Kayyamanu[Saturn]CN$
+
+27. !bs [* 30 ina IGI.LA₂-šu₂] {mul}AŠ.IKU ina ŠA₃-šu₂ GUB !cm {ul#}ṣal#-bat-a-nu ina ŠA₃-šu₂ GUB-ma
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; Iku[Field]CN; ina[in]PRP; libbišu[interior]N; izziz[stand]V; +Ṣalbatanu[Mars]CN$; ina[in]PRP; libbišu[interior]N; izzazma[stand]V
+
+#note: The constellation "Field" = Pegasus.
+$ single ruling
+
+$(reverse)
+28. !zz [...] LAL₂# x# x# x# [... !cm ina] ITI# EN.NUN ana AN.[GE₆]
+#lem: u; šitqulū[in conjunction]AJ; u; u; u; u; ina[in]PRP; arhi[month]N; maṣṣarti[watch]N; ana[according to]PRP; attallû[eclipse]N
+
+29. !zz [...] x#-i !cm ina ITI EN.NUN ana AN.GE₆#
+#lem: u; u; ina[in]PRP; arhi[month]N; maṣṣarti[watch]N; ana[for]PRP; attallî[eclipse]N
+
+30. !zz [...] AN.GE₆ GAL₂{+ši#}
+#lem: u; attallû[eclipse]N; ibašši[exist]V
+
+31. !zz [...] ana AN.GE₆#
+#lem: u; ana[for]PRP; attallî[eclipse]N
+
+32. !zz [...] AN.GE₆ GAR{+an}
+#lem: u; attallû[eclipse]N; iššakkan[take place]V
+
+33. !zz [...] x# BI? AN.GE₆ GAR{+an}
+#lem: u; u; šū[that]IP; attallû[eclipse]N; iššakkan[take place]V
+
+34. !zz [...] KIMIN
+#lem: u; šanîš[otherwise]N
+
+35. !zz [...] AN.GE₆
+#lem: u; attallû[eclipse]N
+
+36. !zz [...] AN.GE₆
+#lem: u; attallû[eclipse]N
+
+37. !zz [...] !bs GUB#-ma !cm AN.GE₆ ta-nam-bi
+#lem: u; izzazma[stand]V; attallû[eclipse]N; tanambi[name]V
+
+$ single ruling
+
+38. !zz [...] !bs {giš#}TUKUL : !cm ERIN₂ DAGAL ina BAD₅.BAD₅ ŠUB{+ut}
+#lem: u; kakku[weapon]N; uqu[people]N; rapšat[wide]AJ; ina[in]PRP; dabdu[defeat]N; imqut[fall]V
+
+39. !zz [...] !bs ITI# 12 !cm ITI i-šal-lim-ma
+#lem: u; arhi[month]N; n; arhi[month]N; +šalāmu[be(come) healthy]V$išallim-ma
+
+#note: The verb @i{šalāmu} is attested in reference to a period of time (as in the present interpretation of this line) in a Neo-Babylonian text (CAD Š I 218 c).
+40. !zz [...] !cm BAD GUB-ma KAL
+#lem: u; nesû[be(com)ing distant]'N; izzazma[stand]V; danānu[be(com)ing strong]'N
+
+41. !zz [...] GAL# ŠU₂ {d}NIN.URTA
+#lem: u; rabâ[great]AJ; kiššati[universe]N; Ninurta[1]DN
+
+42. !zz [...] x# mal-ku {mul}UR.GU.LA
+#lem: u; u; malku[ruler]N; Urgulu[Lion]CN
+
+43. !zz [...] {mul}nin-ka-si
+#lem: u; +Ninkasi[]CN$
+
+44. !zz [...] AN.GUB še-e GU₄.UD
+#lem: u; X; X; šahiṭ[throbbing]AJ
+
+45. !zz [...] x# IDIM-MEŠ KU₅-MEŠ
+#lem: u; u; +nagbu[underground water]N$nagbū; ipparrasū[cut (off)]V
+
+46. !zz [...]-MEŠ# ILLU DU{+kam}
+#lem: u; mīlu[flood]N; illakam[come]V
+
+47. !zz [...] x#-qu ILLU-MEŠ KU₅-MEŠ
+#lem: u; u; mīlū[flood]N; ipparrasū[cut (off)]V
+
+48. !zz [...] x# !bs {d}nin-gir₂-su !cm {d}ninnu*-urta
+#lem: u; u; +Ningirsu[]DN$; +Ninurta[]DN$
+
+#note: Since Ningirsu is the local (in Girsu), pre-OB period form of Ninurta, Ninurta could be cited here as the explanation of an appearance of Ningirsu in the base text.
+
+$ single ruling
+
+49. !zz ki-i pi#-[i {giš}DA GABA.RI TIN].TIR*#{ki} ša₂ {m}{d}AG-URI₃{+ir} DUMU {m}{d}e₂-a-pat-ta-ni {lu₂}TIN.TIR{ki}-i
+#lem: kī[as]PRP; pî[mouth]N; lēʾi[writing board]N; gabari[duplicate]N; Babilu[Babylon]SN; ša[of]DET; +Nabu-naṣir[]PN$; māru[son]N; Ea-pattani[1]PN; +Bābilû[Babylonian]EN$Bābilî
+
+50. !zz a-na ta-mar-ti-šu₂ is-su#-ha# AB#.SAR.AM₃ BA.AN.E₃ ṭup-pi {m}{d}AG-zu-qu-up-GI.NA DUMU {m}{d}AMAR.UTU-MU-BA{+ša₂} {lu₂}DUB.SAR
+#lem: ana[to]PRP; +tāmartu[view(ing)]N$tāmartīšu; +nasāhu[tear out//extract]V'V$issuha; šaṭirma[written]N; bari[checked]AJ; ṭuppi[tablet]N; +Nabu-zuqup-kenu[]PN$; mār[son]N; Marduk-šuma-iqiša[1]PN; ṭupšarri[scribe]N
+
+51. !zz ŠA₃.BAL.BAL {m}gab-bi-DINGIR-MEŠ{+ni}-KAM{+eš} {lu₂}GAL DUB.SAR-MEŠ {uru}ka-lah₃ {iti}ŠE.KIN.KU₅ U₄ 23-KAM₂
+#lem: liblibbi[descendant]N; +Gabbi-ilani-ereš[]PN$; rab[overseer]N; ṭupšarrē[scribe]N; +Kalhu[]GN$; Addaru[1]MN; ūmu[day]N; n
+
+52. !zz li-mu {m}DINGIR-KI-ia {lu₂}ša₂-kin₃ {uru}ša₂-i-me-ri-šu₂ u₃ MU 11.KAM₂ {d}EN:ZU-ŠEŠ-MEŠ-eri-ba LUGAL KUR aš-šur{ki}
+#lem: +līmu[eponym (of year)]N$; +Ilu-issiya[]PN$; šakin[governor]N; +Šaʾimerišu[Damascus]GN$; u[and]CNJ; šatti[year]N; n; +Sennacherib[]RN$; šar[king]N; mātu[land]N; Assur[1]GN
+
+@translation parallel en project
+
+1. "[If] the moon rises at midday and its horns are @i{looking at the earth}, a flood will come" (means) "on the seco[nd o]r third [day] the god (i.e., the moon) is split in half while standing." 
+2. "[If] the moon rises at midday and @i{ditto} (i.e., @i{it horns are looking at the earth}), @i{ditto} (i.e., a flood will come)" (means) "on the third day (and) the fourth day [(...)] it (i.e., the moon) becomes unusually big."
+3. "If the moon, on its first appearance, is inverted, the king will not set his land aright" (means) "on the fourteenth day it is not seen with [the sun]." Variant: "the moon is visible and there is no cloud."
+4. "If the storm howled" (means) "Adad at an unexpected time thunders ."
+5. "If the storm howled and the moon was dim" (means) "at an eclipse of the moon Adad thunders."
+6. "If the storm howled and the sun was dim" (means) "at an eclipse of the sun Adad thunders."
+7. "If the storm (and) its heat change" (means) "the four winds will blow."
+8. "If the storm howled (and) Adad thundered" (means) "after the eclipse occurred."
+9. "If Šimut" (means) "Mars"; alternatively (it means) "(the god) Balu"; thirdly (it means) "(the constellation) Open Mouthed Storm Demon."
+10. "If the sun is bedecked with seven coronas, the king will rule the four (quarters)." Variant: "collapse of cattle, half of it (i.e., the sun) will be eclipsed."
+11. "If the moon, on its first appearance, has been seen at sunset" (means) "either at [the rising or at] midday on the thirtieth day it (i.e., the moon) will be visible after the sun."
+12. "If the moon, on its first appearance, is surrounded by a cross of stars, in [that] ye[ar] war will take place in the lands"
+13. (means) "(the moon) looks at Saturn, Venus (and) Mars, and the Great Twins surround it (i.e., the moon).
+14. "If the moon, on its first appearance, its horns are full of protuberances, an eclipse will occur" (means) "in both of its horns 2 stars
+15. stand." "On each side" means "the horns correspond."
+16. "If the moon, on its first appearance, without anything being said, the eclipsed (moon) sets and is seen with the sun" (means) "it shows no sign."
+17. "If the moon, on its first appearance, its left horn has a branch" (means) "one star approaches its left horn by 1 finger (or) 2 fingers"
+18. "If the moon, on its first appearance, its right horn is black" (means) "its right horn will be covered."
+19. "If the moon does not wait for the sun, but sets, the Lion and the Wolf will rage" (means) "while the sun is still standing, it dimly
+20. rises"; (or) "it is seen on the 15th day (of the month)."
+21. "If the moon and the sun have entered conjunction/opposition, and the moon does not reach the renewal" (means) "on the fourteenth day the god (i.e., the moon) is visible with the god (i.e., the sun), and the visible surface (of the moon) is not diminishing."
+22. "If the moon, on its first appearance, its horns are @i{blunt} (@i{ka-pí-a})" – TUN₃.BA.AB GI (means) @i{ka-pí} (and) TUN₃.BA.AB GI (also means) @i{ku-pi}.
+23. "If [the moon, on its first appearance,] the Šulpae constellation stands in its midst, the king of the land of Amurru will exercise power
+24. and bring about the defeat of his enemy's land."
+25. [If the moon, on its first appearance, the Ši]taddaru [constellation] stands in its midst, a king of the universe will exercise power"
+26. (in this case) "[Šitad]daru" (means) "Saturn."
+27. ["If the moon, on its first appearance,] the Field constellation stands in its midst" (means) "Mars stands in its midst (i.e., in the moon)."
+28. [...] ... [... in] the month of the watch for an ec[lipse].
+29. [...] ... in the month of the watch for an ecli[pse].
+30. [...] there will be an eclipse.
+31. [...] for an eclipse.
+32. [...] an eclipse will occur.
+33. [...] ... an eclipse will occur.
+34. [...] ditto.
+35. [...] eclipse
+36. [...] eclipse
+37. ["...] will stand" (means) "you should declare an eclipse."
+38. ["... w]eapon" means "the far-flung army will be defeated."
+39. ["...] month 12" (means) "the month will be @i{complete}."
+40. ["...] ... stands and is strong."
+41. [...] ... Ninurta.
+42. [...] ... the Lion constellation .
+43. [...] the Ninkasi constellation.
+44. [...] @i{standing in the sky} ... @i{Mercury}.
+45. [...] the underground waters will cease.
+46. [...] ... the flood will come.
+47. [...] ... the floods will cease.
+48. [...] ... "Ningirsu" is Ninurta.
+49. According to [@i{a writing board, a manuscript from Babyl}]@i{on}, which Nabû-nāṣir son of Ea-pattāni, the Babylonian,
+50. had excerpted, written and checked for his reading. Tablet of Nabû-zuqup-kēnu, son of Marduk-šumu-iqīša, scribe,
+51. descendant of Gabbi-ilāni-ēreš, chief scribe. Kalhu, Month XII, Day 23,
+52. eponym of Ilu-issīya, governor of Damascus, and Year 11 of Sennacherib, king of Assyria.

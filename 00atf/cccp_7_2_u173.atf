@@ -1,0 +1,51 @@
+&P470053 = CCP 7.2.u173 (http://ccp.yale.edu/P470053) = BM 48752
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] KI# AN.GE₆ IGI# x# [...]
+#lem: u; +itti[with]PRP$; attallû[eclipse]N; +amāru[see]V$innamir; u; u
+
+#tr.en: […] … is seen with an eclipse … […]
+2'. !zz [...] !cm x# KI MUL₂.MUL₂ u {mul₂}ŠU.GI?# [...]
+#lem: u; u; +itti[with]PRP$; Zappu[Bristle]CN; u[and]CNJ; Šibu[Old Man]CN; u
+
+#tr.en: […] … with the Plejades and the @i{Old Man} […]
+3'. !zz [...] !cm TE#-šu₂-ma : !bs ZI me-he-e {im}1 x# [...]
+#lem: u; iṭehhešuma[approach]V; +tību[arousal]N$tīb; mehê[storm wind]N; šūti[south]N; u; u
+
+#tr.en: […] approaches … “Rise of the storm, south wind … […]”
+4'. !zz [...] TE#-šu₂-ma : UR₅.UŠ₂-MEŠ HAŠHUR-MEŠ {giš}GI?#-[MEŠ ...]
+#lem: u; iṭehhešuma[approach]V; têrētu[instruction]N; +hašhūru[apple (tree)]N$hašhūrū; apī[reed-bed]N; u
+
+#tr.en: […] approaches … 
+
+$ single ruling
+
+5'. !zz [... !bs {d}30] ina# IGI.LA₂-šu₂ SI-MEŠ-šu₂ E₃-ma ZALAG₂-ME !zz : U₄ x# [...]
+#lem: u; Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; uṣṣima[leave]V; +nawāru[be(come) bright]V$inammirā; ūm[day]N; u; u
+
+#tr.en: [… “the moon], when it appears, brings forth its horns and they are bright” … […]
+#note: @akk{E₃-ma} (@akk{ud-du-ma}?) stands perhaps for @i{edēdu}, “to be pointed.”
+6'. !zz [...] !bs x# AN.GE₆ GAR-ma HUL ša₂ KUR KUR₂ !zz :# * x# [...]
+#lem: u; u; attallû[eclipse]N; iššakinma[take place]V; lemnu[evil one]N; ša[of]DET; mātu[land]N; nakri[enemy]N; u; u
+
+#tr.en: […] … there is an eclipse, it is bad for the enemy land. … […]
+7'. !zz [...] x# {d}IŠKUR : MIN : li-le-e-[...]
+#lem: u; u; Adad[1]DN; šanîš[alternatively]AV; u
+
+#tr.en: […] … means “Adad”, ditto means … […] 
+8'. !zz [...] NU?# TE-šu₂-ma !bs URU-ME GUL-ME !cm : x# [...]
+#lem: u; lā[not]MOD; iṭehhešuma[approach]V; +ālu[village]N$ālū; +abātu[destroy]V$ūtabbatū; u; u
+
+#tr.en: […] approaches … “Cities will be destroyed” … […]
+9'. !zz [...] x# : ni-pak{+pa-ak} :# ka-x# [...]
+#lem: u; u; X; u; u
+
+#tr.en: […] … @i{ni-pak}, (with the sign @i{ḫu} pronounced) /@i{pa-ak}/, means … […]
+10'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]

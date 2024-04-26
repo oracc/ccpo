@@ -1,0 +1,133 @@
+&P461191 = CCP 6.1.17 (http://ccp.yale.edu/P461191) = BM 40745
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use unicode
+@tablet
+
+@obverse
+$ n lines broken
+1'. !bs * {+uš}[|KA×BAD| !zz ...]
+#lem: u; u
+
+2'. !bs * {+še-e}[|KA×BALAG| !zz ...]
+#lem: X; u
+
+3'. !bs * {+šu-du}[|KA×ŠU| !zz ...]
+#lem: u; u
+
+4'. !bs * {+kur-ku}[|KA×SI| !zz ...]
+#lem: X; u
+
+5'. !zz [...]
+#lem: u
+
+6'. !bs [*] {+pu-u#}[|KA×GAN₂@t| !zz ...]
+#lem: X; u
+
+@reverse
+1. !bs * [...] |KA×UD|# UD! !cm : ṣa-a-hu : !cm ša₂ KA# !zz [...]
+#lem: u; u; u; +ṣiāhu[laugh//laughing]V'N$ṣâhu; ša[of]DET; pî[accordance]N; u
+
+#note: The Akkadian rendering @i{ṣâhu}, “to laugh"” (see @i{CAD} Ṣ 64–65), contradicts @i{Ea} III 113, which renders @akk{|KA×UD|} as @i{ṣūmu}, “thirst” (see @i{CAD} Ṣ 247). For the latter see the @i{Šumma ālu} commentary @i{CCP} 3.5.57, 18': @akk{{+im-ma}|KA×UD|} = @i{ṣu-u₂-mu} and now also the unpublished lexical list MLC 1948, line 4: @i{en-me-en} = @i{ṣu₂-mu-um} (see Wagensonner [forthcoming]). Related to @i{ṣâhu} in the commentary is the Hittite version of @i{Erimhuš} (@i{MSL} 17, 108) 33': @akk{|KA×UD|} = @i{ṣu₂-uh-hu}, “"laughing.” 
+
+2. ($___$) !cm ma-za-qu !zz x x gi [...]
+#lem: +mazāqu[suck//sucking]N'V$mazāqu; u; u; X; u
+
+#note: The whole line is written over erasure. @i{MSL} 14 331 notes that there is a @i{he-pi₂ eš-[šu₂]} written over the last three erased signs in this line, but this cannot be verified after collation. There is, however, such a remark on the left edge. 
+
+3. ($___$) !bs pe-du-u !cm : ga-ma-lu₄ !zz : ni# [...]
+#lem: +padû[spare//sparing]N'V$pedû; +gamālu[do a favour//doing a favour]N'V$gamālu; u; u
+
+4. !bs * {+im-mi-in-gi}|KA×(ME.GI)| ME.GI !cm : šu-ur-pi-tu₄# !zz [...]
+#lem: u; u; +šurpītu[burning thirst]N$šurpitu; u
+
+#note: @i{Ea} III 114 offers @akk{šur-bu-[tu₄]} as Akkadian rendering (see @i{CAD} Š/III 353), @i{Kagal} D, Section 8:5' the rendering @i{šu-ur-bi-tum}. 
+
+5. ($___$) !bs KA !cm : pu-u : !bs ME !cm : li#-[ša₂-nu !zz ...]
+#lem: u; +pû[mouth]N$pû; u; lišānu[language]N; u
+
+6. !bs * {+im-min₃!-te}|KA×(ME.TE)| ME.TE! !cm : lap-lap-[tu₄ ...]
+#lem: u; u; +laplaptu[thirst]N$laplaptu; u
+
+#note: The rare Akkadian word @i{laplaptu} (see @i{CAD} L 94) is also attested in the Old Babylonian version Kagal D, Section 8:6': @i{la-ap-la-ap-tum} and now in the unpublished text MLC 1948, line 5: @i{en-me-en-te} = @akk{la-ap-la#-ap#-tum} following an entry @i{en-me-en} = @i{ṣu₂-mu-um} (see Wagensonner [forthcoming]). Note that these two entries use the phonetic representation in the Sumerian column instead of the complex graphemes. 
+
+7. ($___$) !bs TE !cm : pa-la-hu : ša₂-niš !zz [...]
+#lem: u; palāhu[fearing]'N; šanîš[alternatively]AV; u
+
+8. !bs * {+im-mi-in}|KA×UD| : |KA×UD| !zz [...]
+#lem: u; u; u
+
+#note: The sign reading (collated; but see MSL XIV 331) is written over erasure. It corresponds to entry Ea III 113, whose sign reading is @akk{im-[mi-in]} repeated from the previous entry. 
+ 
+9. !bs * {+zu-gu-uz}|KA×LUM| LUM !cm : ga-ṣa-ṣu# [...]
+#lem: u; u; +kaṣāṣu[grind//grinding]V'N$; u
+
+10. !bs * {+tu-uk-ku}|KA×U₂| U₂ !cm : ga-ṣa#-[ṣu ...]
+#lem: u; u; kaṣāṣu[grinding]'N; u
+
+#note: @i{Ea} III 116 offers the sign reading @i{tu-kur}. In our commentary, KU is written beneath the first two signs. 
+
+11. !bs * {+zu-ub}|KA×GA| GA !cm : na-ṣa#-[bu ...]
+#lem: u; u; +naṣābu[suck//sucking]V'N$; u
+
+12. ($___$) !cm na-ša₂-qu !zz : x [...]
+#lem: našāqu[kissing]'N; u; u
+
+13. ($___$) !cm e-ne#-qu# !zz [...]
+#lem: +enēqu[suck//sucking]V'N$enēqu; u
+
+@left
+1. !zz x x x <(he-pi₂ eš-šu₂)>
+#lem: u; u; u; hepi[broken]AJ; eššu[new]AJ
+
+
+@translation parallel en project
+
+@label o 1'
+
+[(The complex grapheme) |KA×BAD|], read /uš/, [means ...].
+
+@label o 2'
+
+[(The complex grapheme) |KA×BALAG|], read /še/ (= @i{Ea} III 91), [means ...].
+
+@label o 3'
+
+[(The complex grapheme) |KA×ŠU|], read /šudu/ (= @i{Ea} III 97), [means ...].
+
+@label o 4'
+
+[(The complex grapheme) |KA×SI|], read /kurku/ (= @i{Ea} III 99), [means ...].
+
+@label o 5'
+
+[(The complex grapheme) |KA×X|, read /.../, means ...].
+
+@label o 6'
+
+[(The complex grapheme) |KA×GAN₂@t|, read /pu/ (= @i{Ea} III 101), [means ...].
+
+@label r 1 - r 3
+(The complex grapheme) |KA×UD|, read [...] (= @i{Ea} III 113?), means "to laugh" pertaining to the mouth(?) (= @i{Ea} III 113),[...], i.e., "to suck," ..., "to relent," "to spare," ... [...].
+
+@label r 4 - r 5
+(The complex grapheme) |KA×ME.GI|, read /immingi/ (= @i{Ea} III 114), means "burning thirst" (= @i{Ea} III 114), [...], i.e., KA means "mouth," TE means "tongue," [and GI means ...].
+
+@label r 6 - r 7
+(The complex grapheme) |KA×ME.TE|, read /imminte/ (= @i{Ea} III 115), means "parching thirst" (= @i{Ea} III 115), [...], i.e., TE means "to be afraid", alternatively [...].
+
+@label r 8
+(The complex grapheme) |KA×UD|, read /immin/, means [...], ...
+
+@label r 9
+(The complex grapheme) |KA×LUM|, read /zuguz/ (= @i{Ea} III 116), means "to gnash the teeth" (= @i{Ea} III 117), [...]
+
+@label r 10
+(The complex grapheme) |KA×U₂|, read /tukku/ (= @i{Ea} III 117), means "to gnash the teeth" (= @i{Ea} III 116), [...]
+
+@label r 11
+(The complex grapheme) |KA×GA|, read /zub/ (= @i{Ea} III 118), means "to suck" [...], i.e., "to kiss" (= @i{Ea} III 118), [...]
+
+

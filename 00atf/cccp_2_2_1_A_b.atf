@@ -1,0 +1,113 @@
+&P430865 = CCP 2.2.1.A.b (http://ccp.yale.edu/P430865) = JRL 1053
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs ana-ku {d}asar-lu₂-hi ša₂ ina ra-ma-ni-šu₂ DU₃{+u} ana#-[ku]
+#lem: anāku[I]IP; +Asalluhi[]DN$; ša[that]REL; ina[in]PRP; ramānišu[self]N; bānû[creator]N; anāku[I]IP
+
+2. ($___$) !cm ma-a ina UGU u₂-lu-lu an-šar₂ qa-bi#
+#lem: mā[indeed]J; ina[in]PRP; muhhi[top]N; +elēlu[be(come) pure//purifying]V'N$ullulu; +Anšar[]DN$; qabi[said]AJ
+
+#note: For some discussion on this explanation, see Frahm @i{GMTR} 5 pp. 355-359.
+3. !bs ana-ku {d}asar-lu₂-hi ša₂ a-šar# šil-la-te! la i-qab-bu-u ana#-[ku]
+#lem: anāku[I]IP; +Asalluhi[]DN$; ša[of]DET; ašar[where]SBJ; +šillatu[impudence]N$šillate; lā[not]MOD; +qabû[say]V$iqabbû; anāku[I]IP
+
+#note: On the interpretation of this difficult line, see Frahm @i{GMTR} 5 pp. 94.
+4. ($___$) !cm ina ŠA₃ kam-me ša₂ {d}MES DU₃-šu₂ UM.ME.A la i#-sal-lit
+#lem: ina[in]PRP; libbi[concern]N; +Maduk[]DN$; ša[who]REL; Marduk[1]DN; +banû[be(come) good]V$ibnûšu; ummâni[expert]N; lā[not]MOD; +salātu[slit]V$isallit
+
+#note: The reading @akk{UM.ME.A} stems from Mark Geller.
+
+5. ($___$) !cm la i-tak#-kip ma-a {d}AMAR.UTU ka-mu-u AD-MEŠ-šu₂ ŠEŠ-MEŠ-šu₂#
+#lem: lā[not]MOD; itakkip[be(come) spotted]V; mā[indeed]J; Marduk[1]DN; kāmû[one who catches]N; abbīšu[father]N; ahhīšu[brother]N
+
+#note: The explanation is triggered by the phonetic similarity between @i{salātu} and @i{šillatu}. Both @i{salātu} and @i{takāpu} have a approximate meaning “to pierce”; they both are equated in lexical lists with Sumerian dar (see @i{CAD} S 94b and T 68b). A second explanation is then appended, motivated by the similarity between @i{kamme} and @i{kāmû}.
+6. ($___$) !zz ina lib₃-bi EN₂ dup-pir lem-nu
+#lem: ina[in]PRP; libbi[concern]N; šiptu[incantation]N; duppir[move away]V; lemnu[evil one]N
+
+$ single ruling
+7. !bs %sux ki#-bi gur₄-gur₄*# ki-bi*# i₃*#-gal-gal
+#lem: ki[ground, earth, land]N; gur[(to be) big, to feel big]V/i; ki[ground, earth, land]N; X
+
+8. ($___$) !bs %sb it*-ti*-šu₂* i-kab*#-bi#-ru*# KI-šu₂ i-ra-bu-u
+#lem: ittišu[with]PRP; +kabāru[be(come) thick]V$ikabbirū; ittišu[with]PRP; +rabû[be big]V$irabbû
+
+$(lower edge)
+9. ($___$) !cm x x x (x) x# x# x# rak#-su# qa-bi#
+#lem: u; u; u; u; u; u; u; raksu[wearing]AJ; qabi[said]AJ
+
+#note: M.J. Geller suggests reading the beginning as @akk{ina a-ki-tu₄}.
+
+10. ($___$) !zz ina lib₃-bi EN₂ %sux uš₂ hul-ŋal₂
+#lem: ina[in]PRP; libbi[concern]N; šiptu[incantation]N; uš[to shut off, block up]V/t; huluŋal[evil]AJ
+
+$ single ruling
+
+$(reverse)
+11. !bs a-na E₂ ina e-re-bi-ia {d}UTU ina IGI-ia {d}30 ina EGIR#-ia
+#lem: ana[into]PRP; bīt[house]N; ina[in]PRP; erēbiya[entering]'N; Šamaš[1]DN; ina[in]PRP; mahriya[front]N; Sin[1]DN; ina[in]PRP; +arkû[rear]N$arkīya
+
+#note: The explanation contained in lines 11-16 of the present text appears also in LKA 82 o 3-7 (CCP 2.2.2).
+12. ($___$) !cm ma-a šum-ma ina {d!}UTU!.E₃!# pa-ni-ia šak!-nu
+#lem: mā[indeed]J; šumma[if]MOD; ina[at]PRP; ṣīt[exit]N&šamši[sun]N; pāniya[front]N; šaknu[provided with]AJ
+
+#note: The reading @akk{šak-nu} at the end stems from Mark Geller.
+
+13. ($___$) !cm ma-a {d}UTU ina IGI-ia {d}30 ina ar₂-ki-ia
+#lem: mā[indeed]J; Šamaš[1]DN; ina[in]PRP; mahriya[front]N; Sin[1]DN; ina[at]PRP; arkiya[behind]PRP
+
+14. !bs {d}IŠKUR# ina im-ni-ia {d}MAŠ ina GUB₃-ia
+#lem: Adad[1]DN; ina[in]PRP; imnīya[right]N; Ninurta[1]DN; ina[in]PRP; šumēliya[left]N
+
+15. ($___$) !cm ina KA-ia ha-riš#
+#lem: ina[in]PRP; pîya[mouth]N; X
+
+16. ($___$) !zz ina ŠA₃ EN₂ pu-ṭur lem#-[nu]
+#lem: ina[in]PRP; libbi[concern]N; šiptu[incantation]N; puṭur[release]V; lemnu[evil one]N
+
+$ single ruling
+17. !zz maš#-al#-ti {m}ki-ṣir-{d}PA
+#lem: mašʾalti[questioning]N; +Kiṣir-Nabu[]PN$
+
+@translation labeled en project
+
+@label 1 - 2
+
+“I am Asalluḫi, he who was created by himself I am” (= @i{Marduk’s Address} l. 47). (To be interpreted) as follows: @i{he is called} Anšar (on account of) the month Ulūlu (VI).
+
+@label 3 - 5
+
+“I am Asalluḫi, he who @i{is not mentioned} at the place of blasphemy (@i{šillatu}) I am” (= @i{Marduk’s Address} l. 45). On account of the tablet (@i{kamme}) that Marduk has created, the scholar does not pierce it (@i{lā isallit}) nor puncture it. (To be interpreted) as follows: Marduk is the binder (@i{kāmû}) of his parents and brothers.
+
+@label 6
+
+From: “Incantation: Be released, evil!” (= @i{Marduk’s Address}).
+
+@label 7 - 9
+
+(Sumerian) @i{kibi gurgur kibi igalgal}, (Akkadian) “with it (sc. ‘death’) they are fat, with it they are big” (= @i{Muššuʾu} VI 5). It is said ... @i{bound}.
+
+@label 10
+
+From: “Incantation: Evil Death!” (= @i{Muššuʾu} VI).
+
+@label 11 - 13
+
+“When I enter the house, Šamaš is in front of me and Sîn is behind me” (@i{Udugḫul} III 142 und 144). (To be interpreted) as follows: When my face is directed towards the rising sun, the following (applies): Šamaš is in front of me, Sîn is behind me.
+
+@label 14 - 15
+
+“Nergal is to my right, Ninurta is to my left” (@i{Udugḫul} III 146 und 148). In my mouth ...
+
+@label 16
+
+From: “Incantation: Be released, evil!” (= @i{Marduk’s Address}).
+
+@label 17
+
+“Questioning” of Kiṣir-Nabû.

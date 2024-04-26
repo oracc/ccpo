@@ -1,0 +1,93 @@
+&P461216 = CCP 4.1.3.C (http://ccp.yale.edu/P461216) = BM 43854+
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1'. !zz [...] !bs UŠ-ME-šu₂# !zz x [...]
+#lem: u; +redû[accompany]V$irtenedīšu; u; u
+
+2'. !zz [...] x# x# (x#) pu#-x#-ti# : !bs ša₂-niš MUNUS MU?# [a?-ri? u? sa?-ma?-li?]
+#lem: u; u; u; u; u; šanîš[alternatively]AV; sinništu[wife]N; +aššum[because (of)]PRP$aššu; +aru[branch]N$; u[and]CNJ; +samālu[(a cup)]N$samāli
+
+3'. !bs [a]-ri!# !cm :# haṭ!#-ṭu : a-ri : kak-ku : {giš!#}RU u! me!-ṭu : a-tu-x# x# (x#)-zi#-i
+#lem: aru[branch]N; haṭṭu[sceptre]N; aru[branch]N; kakku[stick]N; +tilpānu[bow]N$; u[and]CNJ; +miṭṭu[(a divine weapon)]N$mēṭu; u; u; u
+
+#note: The explanation is based on the fact that the difficult word from @i{Sagig} III 42, @akk{a-rì}, can be analyzed as @i{aru}, “twig,” a word whose Sumerian equivalent, @akk{PA}, can also be rendered as @i{ḫaṭṭu}, “staff.” Compare @i{STT} 403 l. 38 (@i{CCP} 4.1.1.D, collated): @akk{PA{+a-ru} a-ru hu-ta-ru}, “(since) PA (can be read as) @i{aru}, @i{aru} means @i{ḫuṭāru}.” The phrase @i{tilpānu miṭṭu} is attested in @i{LKU} 31 l. 9: see Groneberg @i{RA} 82 (1988) p. 71 fn. 4. [EJ]
+
+4'. !qt x# ma-li-la a-ru-u₂ ša₂ ŠU-MIN {d}a#-ha-la-mi-ti :
+#lem: u; +malīlu[pipe]N$; +aru[branch]N$arû; ša[of]DET; qātī[hand]N; +Ahlamayitu[]DN$
+
+#note: The line contains a quotation from an unknown literary text, which is used to illustrate the polysemy of @i{aru} and, perhaps, @i{ḫaṭṭu} (“staff,” perhaps represented by @i{malīlu}, “flute”?). On the goddess Aḫlamayītu, see Beaulieu @i{The pantheon of Uruk During the Neo-Babylonian Period}, @i{CM} 23 (2003), p. 309.
+5'. !bs [KI].SIKIL#.BAN₃.DA !cm : ba-tul#-ti : !bs KI.GUL#{+li₃!(ME)} !cm : ke-ze-ri :# NIG₂.TUK
+#lem: +batultu[adolescent]N$; +batultu[adolescent]N$batulti; +kigullu[a slave]N$; +kezēru[give s.o. a hair-do]V$; +šarû[rich//rich]AJ'N$
+
+#note: Compare @akk{SAG.KI.GUL} = @akk{ke-ze-[ru]} in 5@i{R} 16 ii 41. 
+6'. !bs [aš₂-ta/tam]-mi# !cm :!#  ha-ri-im-ti : !bs KUM₂ TEŠ₂.BI TUKUR₂-su!# !cm : TUKUR₂# :# ka!#-sa!#-[su]
+#lem: +aštammû[belonging to the tavern]N$aštammu; +harimtu[(temple) prostitute]N$harimti; umma[fever]N; iltēniš[together]AV; +kasāsu[chew//chewing]V'N$; +kasāsu[chew//chewing]V'N$; +kasāsu[chew//chewing]V'N$
+
+$(lower edge)
+7'. !bs [NIG₂.NIGIN] TUKU#-šum-ma U₄{+ma} NIG₂.LA₂-šu₂ !zz : !bs NIG₂.NIGIN! !cm : ta-a-a-ru?#
+#lem: +tayyāru[mercy]N$; +rašû[acquire]V$iraššīšum-ma; enūma[when]SBJ; X; +tayyāru[mercy]N$; +tayyāru[mercy]N$
+
+#note: Compare @i{Sagig} XVII l. 34: @akk{UD LAL-šú LAL-šú}, translated by Heeßel @i{AOAT} 43 (2000) p. 208 as “zu dem Zeitpunkt, an dem sein Anfall ihn überwältigt.”
+8'. !bs [NIG₂.LA₂ !cm : x x]-u₂ : !bs NIG₂.LA₂ !cm : ha-a-a-at-ti : !bs u₂-rap-[pa-du !zz :]
+#lem: u; u; u; +hayyattu[terror]N$; hayyatti[terror]N; +rapādu[roam]V$urappadu
+
+#note: Note @akk{IGI.LÁ.ŠÚ : ha-a-a-at-tu} in GCBC 766 l. 3 (@i{CCP} 4.1.13.B). At the beginning, perhaps @akk{[LÁ : ma-ṭu]-ú} (?). At the end, compare @i{STT} 403 l. 42 (@i{CCP} 4.1.1.D): @akk{u₂#-rap-pad} = @akk{u₂-par-rad}.
+9'. !cm [ru-up-pu]-du# : ša₂-ne₂-e ṭe₃-me : ŠU.DAG : ra-[pa-du : ŠU : ṭe₃-me]
+#lem: ruppudu[roaming]AJ; šanê[being changed]'N; ṭēme[mind]N; +rapādu[roam//roaming]V'N$; +rapādu[roam//roaming]V'N$; +ṭēmu[(fore)thought]N$; ṭēme[instruction]N
+
+#note: @akk{ŠU.DAG} = @i{rapādu} is well attested: see @i{CAD} R 148a. @akk{ŠU} = @i{ṭēmu} is rarer, but see e.g. K.5908 l. 4′ (@i{CCP} 3.1.u76).
+10'. !cm [x x x (x)] DAG?# : ha-la-qa : !bs KA-šu₂ DAB-ma at#-[ma-a NU ZU{+e}]
+#lem: u; u; u; u; u; halāqa[fleeing]'N; +pû[mouth]N$pûšu; iṣabbatma[master]V; +awû[speak]V$atmâ; lā[not]MOD; ileʾʾe[be(come) able]V
+
+#note: The equation @akk{DAG} = @i{ḫalāqu} is elsewhere unattested, but compare @i{rapādu} = @i{ḫalāqu} in @i{Malku} VIII 41.
+$(reverse)
+11'. !cm [at-mu-u₂ :] da#-ba-bi : !bs ina DU₁₁.DU₁₁-šu₂{+da-ba-bi-šu₂} it-te-ne₂-ep#-[rik-ku₈(GU)]
+#lem: +awû[speak]V$atmû; dabābi[talk]N; ina[in]PRP; +dabābu[talk]N$dabābīšu; +naparkû[cease]V$itteneprikku
+
+#note: Note @i{STT} 403 l. 43 (@i{CCP} 4.1.1.D): @akk{ina DU₁₁.DU₁₁-šu₂ it-te-ne₂-ep-rik-ku₈} = @akk{ina DU₁₁.DU₁₁-šu₂ ib-ta-nak-ki}. 
+$ single ruling
+12'. !bs [ne₂-per-ku-u₂] !cm : ba-ṭa-lu : !bs ŠU-MIN-šu₂ u GIR₃-MIN-šu₂ i-ra-ʾu-bu !zz :
+#lem: neperkû[ceasing]'N; +baṭālu[cease//ceaasing]V'N$; qātāšu[hand]N; u[and]CNJ; šēpāšu[foot]N; +raʾābu[shake]V$iraʾūbū
+
+13'. !cm [ra-ʾa-bu] : sa-la-hu : !bs KA-šu₂ ana at-me-e il-la-ti u₂-kal#  
+#lem: +raʾābu[shake//shaking]V'N$; +salāhu[jerk//jerking]V'N$; pûšu[mouth]N; ana[according to]PRP; atmê[speech]N; +illātu[saliva]N$illāti; ukāl[suffer from]V
+
+14'. !cm [at-mu-u₂] : da-ba-bi : !bs il-la-ti !cm : ru-ʾu-tu! : !bs lu-ʾa-a-ti šu#-kul# 
+#lem: atmû[speak]V; +dabābu[speak//speaking]V'N$; illāti[saliva]N; +ruʾtum[spittle]N$; +lūtu[debility]N$luʾāti; +šūkulu[fed]AJ$šūkul
+
+15'. !cm [lu-ʾa-(a)]-ti# : kiš-pi : !bs ŠA₃-šu₂ ana BURU₈{+a-re!-e}-e : i-te-ne₂-el-la-a#-[ma (x x)]
+#lem: luʾāti[debility]N; kišpī[sorcery]N; libbišu[interior]N; ana[according to]PRP; +arû[vomit//vomiting]V'N$arê; +elû[go up]V$itenellâ-ma; u; u
+
+#note: Note @i{STT} 403 l. 44 (@i{CCP} 4.1.1.D): @akk{lu-ʾu-tu₄} = @akk{kiš-pu}. 
+16'. !cm [BURU₈ : a-ru]-u₂# :# BURU₈# :# pa#-ru-u₂ : !bs šu-rat-tu#-x# [...]
+#lem: +arû[vomit//vomiting]V'N$; +arû[vomit//vomiting]V'N$; +parû[vomit//vomiting]V'N$; parû[vomiting]'N; u; u
+
+#note: The word at the end might be a corruption of @akk{i-rat-tu-ta}, “they tremble,” which appears in @i{Sagig} III 54 [ES].
+17'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. [...] “continually pursues him” (= @i{Sagig} III 40) [...]
+2'. [...] ... “secondly, a woman @i{on account of} [@i{ari and bowl}” (= @i{Sagig} III 40)] —
+3'. @i{ari} (= @i{Sagig} III 40) means “staff,” @i{ari} means “weapon,” (i.e.), “bow and mace,” ...
+4'. (@i{as in}) “... the flute, the twig of the hands of the goddess Aḫlamītu” (= quotation from unknown literary text).
+5'. [@i{kisi}]@i{kilbanda} (= @i{Sagig} III 40) means “nubile girl.” @i{kigullu} (@i{ibid}.) means “slave,” (@i{i.e.},) @i{rich} (?).
+6'. [@i{aštam}]@i{mi} (@i{ibid}.) means “prostitute.” “Fever UŠ₁₁-@i{su} (?) all over” (= @i{Sagig} III 43) – UŠ₁₁-@i{su} (?) means “to ch[ew.”]
+7'. “Will have @i{níg.nigin} towards him, until his @i{níg.lá}” — @i{níg.nigin} means “mer[cy,”]
+8'. [@i{níg.lá} means ...] ..., @i{níg.lá} means “terror.” @i{urappad} (“to keep moving”) (= @i{Sagig} III 43) — 
+9'. [@i{ruppu}]@i{du} means “to change one’s mind,” (since) @i{šu.dag} means @i{ra}[@i{pādu} — @i{šu} means “mind,”]
+10'. [... and @i{da}]@i{g} (?) means “to destroy.” “His mouth is @i{seized} and [cannot] ta[lk]” (= @i{Sagig} III 45) —
+11'. [“to talk” means] “to speak.” “He hal[ts] once and again when he speaks” (= @i{Sagig} III 46) —
+12'. [“to halt”] means “to stop.” “His hands and feet shake” (= @i{Sagig} III 48) —
+13'. [“to shake”] means “to jerk.” “His mouth retains saliva when he talks” (= @i{Sagig} III 48) —
+14'. [“to talk”] means “to speak” (and) “saliva” means “spittle.” “He has been fed debility” (= @i{Sagig} III 48?) —
+15'. [“debili]ty” means “sorcery.” “His belly rises up (@i{buru}₈) once and again to vomit” (= @i{Sagig} III 49) —
+16'. [@i{buru}₈ means “to vomi]t,” @i{buru}₈ means “to throw up.” ... [...]
+17'. ...

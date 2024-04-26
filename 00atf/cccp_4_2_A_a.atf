@@ -1,0 +1,497 @@
+&P459066 = CCP 4.2.A.a (http://ccp.yale.edu/P459066) = 11N-T3
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#link: def B = ccpo:P346934 = CCP 4.2.A.b (U.30654)
+
+@tablet
+
+
+
+1. !bs %sux en₂ munus u₃-tu-ud-da-a-ni : %sb e-lep-pi ša₂ uq-na-a ṣa-na-at
+#lem: en[incantation, spell]N; munus[woman]N; +utud[bear]V/u₃-tu-ud#~,ani; +eleppu[ship]N$eleppi; ša[of]DET; +uqnû[lapis lazuli]N$uqnâ; +ṣânu[filled up]AJ$ṣānat
+
+2. !cm %sb ṣa-na : ma-lu-u₂ : !bs %sux gug nu-zu u₃ gug nu-zu : !cm %sb lu-ʾa-at-ma
+#lem: +ṣânu[fill up//filling up]V'N$ṣâna; +malû[be(come) full//be(com)ing full]V'N$malû; gug[carnelian]N; zu[to know]V/t; u[and]CNJ; gug[carnelian]N; zu[to know]V/t; +luʾʾû[sullied]AJ$luʾʾâtma
+
+3. !cm a-na ni-qi₂-i ul na-ṭa-at : !cm %sb pu-uh-tu₄ ši-i : %sux gug : %sb el-lu₄
+#lem: ana[to]PRP; +nīqu[offering]N$niqî; ul[not]MOD; +naṭû[suitable]AJ$naṭât; +pūhtu[item of exchange]N$; +šī[she]IP$; gug[carnelian]N; +ellu[pure]AJ$
+
+4. !cm %sux nu : %sb la-ʾa : %sux zu : %sb na-ṭu-u : a-ma-ra : a-na ni-qi₂-i ul na-ṭa-at
+#lem: M; +laʾû[small child]N$laʾâ; zu[to know]V/t; naṭû[suitable]AJ; +amāru[see//seeing]V'N$amāra; ana[to]PRP; niqî[offering]N; ul[not]MOD; +naṭû[suitable]AJ$naṭât
+
+5. !cm %sb ša₂ E{+u} : %sux siškur : %sb ni-qu-u₂ : %sux siškur : %sb ṣu-le-e um-ma lu-ʾa-at-ma
+#lem: ša[of]DET; qabû[said]AJ; siškur[blessing]N; niqû[offering]N; siškur[blessing]N; ṣullê[beseeching]'N; umma[saying]PRP; luʾʾâtma[sullied]AJ
+
+6. !cm a-na ṣu-le-e ul am-ra-at : !bs na-gi-ri um-ma {d}GAŠAN-DINGIR
+#lem: ana[to]PRP; ṣullê[beseeching]N; ul[not]MOD; amru[seen]AJ$amrat; nāgiru[(town) crier]N$nāgiri; umma[saying]PRP; Belet-ili[]DN
+
+7. !bs iš-ta-na-as-si : !cm %sux {+na-gi-ri}nigru(|KA×(AD.KU₃)|) %sb ša₂ ka-ga-ak-ku AD-KU₃ i-gub : %sb a-ši-pu
+#lem: +šasû[shout]V$ištanassi; +niŋir[herald]N/{+na-gi-ri}nigru(|KA×(AD.KU₃)|)#~; ša[of]DET; kāgu[the sign KA]N$kāgakku; u; igub[inscribed sign]AJ; āšipu[exorcist]N
+
+8. !bs %sux gi en₃-bar ban₃-da šu u-me-ti : !cm %sux gi : %sb sin-niš-tim : %sux bar : %sb a-ṣu-u : %sux ban₃-da
+#lem: gi[reed]N; ambar[reed-bed]N; banda[junior]AJ; šu[hand]N; +teŋ[approach]V/i/ti#u.imma:~; gi[reed]N; sinništu[woman]N$sinništim; bar[outside, (other) side]'N; waṣû[go out]V$aṣû; banda[junior]AJ
+
+9. !cm %sb še-er-ri : ṣa-ah-ri : %sux sahar sila{+la} : sahar : %sb e-pe-ri : %sux sa-har %sb u ṣa-har iš-ten-ma
+#lem: šerri[(young) child]N; ṣehru[small]AJ$ṣahri; sahar[dust]N; +sila[street]N/sila{+la}#~; sahar[dust]N; eperi[dust]N; sahar[dust]N; u[and]CNJ; +ṣehru[small]AJ$ṣahar; ištēnma[one]NU
+
+
+10. !bs %sux sila lam₄-ma : !cm %sux si : %sb e-še-ri ša₂ a-la-ku : %sux la : %sb la-a : ṣa-har : am-ma : ze-ri
+#lem: sila[street]; limmu[four]NU; si[horn]; ešēru[go well//going well]V'N$ešēri; ša[of]DET; alāku[go//going]V'N$; u; +laʾû[small child]N$laʾa; ṣahar[small]AJ; ammu[people]N$amma; zēri[seed(s)]N
+
+11. !cm ša₂-am-nu : %sux {+ni-ig}niŋ₂ %sb sin-niš-tim : am : ze-ri : %sux nu : %sb ba-nu-u !cm %sb ša₂-niš %sux {+i}i₃
+#lem: +šamnu[oil]N$; nin[lady]N; sinništim[woman]N; +ammu[people]N$am; zēri[seed(s)]N; lu[person]N; banû[creating]'N; šanîš[alternatively]'AV; i[oil]N
+
+
+12. !cm %sb ša₂-am-nu : %sux i : %sb a-ṣu-u ša₂ NUMUN : !bs e-li LI.DUR-šu₂ he-pi-ma !cm aš-šum GI
+#lem: šamnu[oil]N; e[leave]; +waṣû[go out//going out]V'N$aṣû; ša[of]DET; +zēru[seed(s)]N$zēri; +eli[on]PRP$; abunnatišu[umbilical cord]N; +hepû[break]V$hepima; +aššu[because//because of]SBJ'PRP$aššum; +qanû[reed]N$qanê
+
+#note: As against previous interpretations, @i{ḫepi} is better understood as an imperative (the base text reads ḫé-en-[o]-ge₄ || @i{ḫe-pé-e-ma}).
+
+13. !cm na-ki-is ab-bu-un-na-ti : ab-bu-un-na-tu₂ ri-ik-si ša₂ LU₂ ši-i
+#lem: +nakāsu[cut]V$nakis; +abunnatu[umbilical cord]N$abunnati; +abunnatu[umbilical cord]N$; +riksu[binding]N$riksi; ša[of]DET; amēli[person]N; šī[she]IP
+
+14. !bs %sux {ŋeš}{+ki-ri-is}kirid : !cm %sb ki-ri-is-su : E₂ u₂-ba-nu : !bs šup-šuq-tum₃-ma : !cm šup-šu-qa
+#lem: +kirid[clasp]N/{ŋeš}{+ki-ri-is}kirid#~; +kirissu[hairpin]N$; bīt[house]N; ubānu[finger]N; +šupšuqtu[woman labouring (in childbirth)]N$šupšuqtumma; +pašāqu[be(come) narrow//being in difficulties]V'N$šupšuqa
+
+15. !cm ka-a-šu₂ ša₂-niš dan-na-ti : !bs ina qar-ni-šu₂ qaq-qar ṭe-ra-at : !cm ṭa-ru-u SAG.UŠ
+#lem: +kâšu[delay//delaying]V'N$; +šanîš[otherwise//alternatively]AV'AV$šanîš; +dannu[strong//distressed]AJ'AJ$dannatu; ina[in]PRP; +qarnu[horn]N$qarnīšu; +qaqqaru[ground]N$qaqqar; +ṭerû[penetrating]AJ$ṭerât; +ṭerû[penetrate//penetrating]V'N$ṭarû; kayyāmanu[permanent]AJ
+|| B o 1'
+#note: @i{dannatu} is interpreted as a feminine singular adjective. An alternative interpretation would be to take it as the noun @i{dannatu}, "hardship," but the equations in the commentary would then be difficult to understand.
+
+16. !cm ša₂-niš ṭe-ra-at : he-eṣ-ne₂-et : ṭa-ru-u : ha-ṣa-nu !cm lib₃-bu-u %sux gu₂-da ri
+#lem: +šanîš[otherwise//alternatively]AV'AV$šanîš; ṭerât[penetrating]AJ; +haṣnu[hugged//protected]AJ'AJ$heṣnet; ṭerû[penetrate//penetrating]V'N$ṭarû; +haṣānu[hug//protecting]V'N$; +libbū[from out of]PRP$; gu[neck]; u
+
+
+17. !cm %sb na-an-du-ra : %sux e la₂ : %sb e-de-ri : !bs el-la-me-e : !cm AGA taš-ri-ih-ti
+#lem: +nanduru[intertwined]AJ$nandura; u; la[hang]; +edēru[embrace//embracing]V'N$edēri; +ellammû[epithet of Sîn]N$ellammê; agâ[corona]N; +tašrihtu[glorification]N$tašrihti
+|| B o 2'
+#note: If correctly interpreted, the equation e lá = @i{edēru} would be a quotation from an unknown source (but cf. la₂ = @i{edēru} in CAD E 29b). As pointed out by N. Veldhuis (privatim), in OB Sumerian “to embrace” is gú lá, which is the source of lá = @i{edēru}. U. Gabbay (privatim) further suggests that e lá = @i{e-ṭe-ri} may be a mistake for gú-lá = @i{e-ṭe-ri}, “to embrace,” since the signs gú and e are similar in some LB scripts.
+
+18. !cm %sb lib₃-bu-u %sux e₂ lam₄-ma : %sb E₂ er-bi ša₂-niš %sux si e₂-gar₈-bi til-la : %sb el-lam-mu-u
+#lem: libbū[from out of]PRP; e[house]N; limmu[four]; bīt[house]N; erbe[four]NU; +šanîš[otherwise//alternatively]AV'AV$šanîš; si[horn]N; +egar[form]N/e₂-gar₈#~,bi; til[(to be) complete(d)]V/i; +ellammû[epithet of Sîn]N$
+|| B o 3'
+
+
+
+19. !cm ša₂ nu-u₂-ru la-ni-šu u₂-qat-ta-a : %sux si : %sb nu-u₂-ru₃ : %sux e₂-gar₈ : %sb la-a-nu
+#lem: ša[of]DET; nūru[light]N; lānu[form]N$lānišu; +qatû[come to an end//bring to an end]V'V$uqattâ; si[horn]N; +nūru[light]N$; egar[form]; lānu[stature]N
+
+|| B o 4'
+
+
+20. !cm %sux bi : %sb šu-u : %sux til : %sb qa-tu-u aš₂-šu₂ {d}30 ša₂ AN.TA.LU₃ gam-mar-ti i-šak-kan
+#lem: M; šū[that]IP; til[(to be) complete(d)]V/i; +qatû[finish//finishing]V'N$; +aššu[because//because of]SBJ'PRP$; Sin[1]DN; ša[of]DET; antallû[eclipse]N$antallâ; gamru[complete]AJ$gammarti; šakānu[put]V$išakkan
+
+
+|| B o 5'
+
+21. !bs aš-šum AB₂-ia la a-lit-ti aš₂-šu₂ !cm {d}30 EN la-a-tu₄ el-le-e-ti
+#lem: +aššu[because//because of]SBJ'PRP$aššum; +lītu[cow]N$lītiya; lā[not]MOD; +wālittu[one who gives birth]AJ$ālitti; aššu[because of]'PRP$; Sin[]DN$; +bēlu[lord]N$bēl; +lītu[cow]N$lâtu; +ellu[pure]AJ$ellēti
+|| B o 6'
+
+
+22. !qt %sux zi {d}nin-dar-a sipad udul₁₀-lu-u₂-a he₂-pad₃ : !cm %sb niš {d}MIN<(NIN.DAR.A)> SIPA
+#lem: zi[life]N; Nindara[]DN; sipad[shepherd]N; +udul[herdsman]N/udul₁₀-lu-u₂#~,ak; pad[to find, discover]V/t; nīš[life]N; +Nindara[]DN$; +rēʾû[shepherd]N$
+
+#NV changed reʾ̂ʾû to rēʾû
+
+
+23. !cm u₂-tul-la-a-tu₂ lu-u₂ ta-ma-at : %sux {d}nin-dar-a : %sb {d}30 : !bs ne₂-šel-pa-a
+#lem: +utullu[chief herdsman]N$utullātu; lū[may]MOD; +tamû[having (for)sworn//cursed]AJ'AJ$tamât; Nindara[1]DN; Sin[1]DN; +nešalpû[glide//gliding]V'N$nešelpâ
+
+
+
+
+24. !cm ne₂-šal-pu₂-u : e-te-qu : ne₂-šal-pu₂-u : a-la-ka : %sux gir₅-gir₅ : %sb na-hal-ṣu-u
+#lem: +nešalpû[glide//gliding]V'N$; +etēqu[cross//crossing]V'N$; nešalpû[gliding]'N; +alāku[go//going]V'N$alāka; gigri[to dive]V/t; +nehelṣû[slip//slipping]V'N$nahalṣû
+
+
+|| B o 7'
+
+25. !cm %sux gir₅-gir₅ : %sb na-šal-pu₂-u : !bs %sux {+ni-ra-ah}|AN.GU₄| : !cm %sb ni-ra-hu : an : ze-ri
+#lem: gir[slip]; +nešalpû[glide//gliding]V'N$našalpû; nirah[snake]N; nirāhu[(a kind of snake)]N; +ammu[people]N$an; +zēru[seed(s)]N$zēri
+
+
+
+
+26. !cm %sux gud : %sb ša₂-ha-ṭu : !bs %sux ka-inim-ma <<:>> munus la-ra-ah-a-kam₂ : !cm %sux la-ra-ah : %sb pu-uš-qa
+#lem: +gud[jump]V/gud#~; +šahāṭu[jump//jumping]V'N$; kaʾinima[formula]N; munus[woman]N; +larah[straits]N/la-ra-ah#~,ak.am; +larah[straits]N/la-ra-ah#~; +pušqu[narrowness]N$pušqa
+
+|| B o 7'
+
+27. !cm %sb dan-na-ti : !bs na-hu-un-di : !cm {d}30 : !bs na-ru-un-di : !cm {d}UTU
+#lem: +dannatu[fortress//distress]N'N$dannati; +Nahundi[]DN$; Sin[1]DN; +Narundi[]DN$; Šamaš[1]DN
+|| B o 9'
+
+
+
+28. !bs na-am-li-su ki-ma ṣa-bi-tu₄ : !cm %sux zi : %sb ma-la-su : %sux zi : %sb ba-qa-mu
+#lem: +malāsu[pluck (out)//being plucked (out)]V'N$namlisu; kīma[like]PRP; +ṣabītu[gazelle]N$; zi[cut]; +malāsu[pluck (out)//plucking (out)]V'N$; zi[cut]; +baqāmu[pluck//plucking]V'N$
+
+
+29. !cm ša₂-niš na-am-li-su lib₃-bu-u nap-lu-su : a-ma-ra : !bs ki-ma MAŠ.DA₃
+#lem: šanîš[alternatively]AV; namlisu[being plucked (out)]'N; libbū[from out of]PRP; +palāsu[look (at)//seeing]V'N$naplusu; amāru[see//seeing]V'N$amāra; kīma[like]PRP; +ṣabītu[gazelle]N$ṣabīti
+
+
+30. !cm %sux bar{+ba-ar₂} : %sb a-ṣu-u ša₂ NUMUN : %sux {+du-u}du₃ : %sb lil-li-du : !bs ul-la : !cm an-na
+#lem: +bar[outside]N/bar{+ba-ar₂}#~; waṣû[go out//going out]V'N$aṣû; ša[of]DET; +zēru[seed(s)]N$zēri; +du[build]V/{+du-u}du₃#~; +lillidu[offspring]N$; +ulla[no!]AV$; +anna[yes]AV$
+
+|| B o 10'
+
+
+31. !cm %sb an-na : qi₂-bi-ti ša₂-niš ul-la : ul-la %sux i₃{+i-ʾu-u} : %sb ša₂-am-nu : !bs I₃ BUR
+#lem: anna[yes]AV; +qibītu[speech//command]N'N$qibīti; šanîš[alternatively]'AV; +ulla[no!]AV$; +ulû[best (oil)]N$ullâ; +i[oil]N/i₃{+i-ʾu-u}#~; šamnu[oil]N; +šamnu[oil]N$šaman; +pūru[(stone) bowl]N$pūri
+
+|| B o 11'
+
+
+32. !cm I₃ kan-nu ša₂ {lu₂}I₃.ŠUR ša₂-niš %sux bur : %sb bi-ʾi-il-ti : %sux {urud}gag-u₄-tag-e
+#lem: +šamnu[oil]N$šaman; +kannu[(vessel-)stand]N$kannu; +ša[of]DET$; +ṣāhitu[oil, wine-presser]N$ṣāhiti; šanîš[alternatively]'AV; bur[bowl]; +biʾiltu[(a container)]N$biʾilti; +gagutagga[arrow]N/{urud}gag-u₄-tag-e#~
+|| B o 11'
+
+
+
+33. !cm %sux mul-mul : %sb mul-mul : šil-ta-hu : %sux mul-mul : %sb ze-ri
+#lem: mul[shine]; +mulmullu[arrow]N$mulmul; šiltāhu[arrow]N; mul[shine]; zēri[seed(s)]N
+
+
+|| B o 12' - o 13'
+
+34. !cm %sux {gi}mul-mul : %sb ze-ri ša₂-niš %sux gi : %sb sin-niš-ti : %sux urudu : %sb e-ru-u
+#lem: +mulmul[reed fence]N/mul-mul#~; +zerru[(a reed fence)]N$zēri; šanîš[alternatively]'AV; gi[reed, cane]N; sinništi[woman]N; urud[copper]N; +werû[copper]N$erû
+
+
+
+
+35. !cm a-na a-re-e : %sux {+du-u}du₃ : %sb lil-li-du : %sux {+za-al}zalag : %sb nu-ur₂ : %sux tag-ga
+#lem: ana[to]PRP; +arû[be(come) pregnant//be(com)ing pregnant]V'N$arê; du[build]V; lillidu[offspring]N; +zalag[shine]N/{+za-al}zalag#~; +nūru[light]N$nūr; +taka[abandon]V/t/tag#~;a
+
+
+
+
+36. !cm %sb e-ze-bi ša₂-niš %sux {+du-u}du₃ : %sb lil-li-du : %sux si : %sb e-še-ri ša₂ a-la-ku aš-šum
+#lem: ezēbu[leave//leaving]V'N$ezēbi; šanîš[alternatively]AV; du[build]V; lillidu[offspring]N; si[horn]N; ešēri[going well]'N; ša[of]DET; alāku[going]'N; aššum[because of]'PRP
+
+
+
+
+37. !cm {mul}KAK.SI.SA₂ : !bs e-gi-zi-ni-ti : !cm GEME₂-{d}30 : !bs ina SAG.DU-MU na-ma-ra
+#lem: +Šukudu[Arrow//Sirius]CN'CN$Šukudi; +Egiziniti[]PN$; +Ardat-Sin[]PN$; ina[in]PRP; +qaqqadu[head]N$qaqqadīya; +namāru[clearing//path]N'N$namāra
+
+38. !cm na-ma-ra : KASKAL-MIN ša₂ GIŠ.GI u GIŠ.TIR : !bs ša₂ ŠA₃ iš-qil-la-tu₄ li-kal-lim nu-u₂-ru₃
+#lem: namāra[path]'N; +harrānu[path]N$; ša[of]DET; +apu[reed-bed]N$api; u[and]CNJ; +qištu[forest]N$qišti; ša[of]DET; libbi[interior]N; +išqillatu[shell]N$; likallim[show]V; nūru[light]N
+
+|| B r 1'
+|| B r 3'
+39. !cm ana MUNUS.PEŠ₄ iq-ta-bi : %sux {na₄}iškila : %sb ṣi-il-la-tu₄ : %sux na₄ : %sb a-ṣu-u ša₂ ze-ru₃
+#lem: ana[to]PRP; +arītu[pregnant (woman)]N$arīti; +qabû[say]V$iqtabi; iškila[shell]; +išqillatu[shell]N$ṣillatu; na[stone]N; aṣû[going out]'N; ša[of]DET; +zēru[seed(s)]N$
+
+
+|| B r 3' - r 4'
+40. !cm %sux a : %sb ma-ra : %sux šag₄ : %sb lib₃-bi : !bs uš-šu-rat hur-da-at-su : !cm hur-da-tu₂ : u₂-ru-u
+#lem: a[water]N; māra[son]N; šag[heart]N; +libbu[heart]N$libbi; +wuššuru[released//loosened]AJ'AJ$uššurat; +hurdatu[female pudenda]N$hurdatsu; +hurdatu[female pudenda]N$; +ūru[nakedness]N$urû
+
+|| B r 7'
+
+#NV really hur-da-at-su; not hur-da-at-sa?
+
+
+41. !cm ša₂ sin-niš-ti ŠA₃{+bu-u} !qt qa-at-ka šu-ta-am-ṣa-am-ma lu-pu-ut hur-da-at-na
+#lem: ša[of]DET; sinništi[wife]N; libbū[from out of]PRP; +qātu[hand]N$qātka; +maṣû[correspond//reach]V'V$šutamṣâmma; +lapātu[touch]V$luput; +hurdatu[female pudenda]N$hurdatna
+
+|| B r 8'
+
+
+
+42. !cm ša₂-niš hur-da-ti : qim-ma-ti : šal-šiš hur-da-ti : hur-ri da-du
+#lem: šanîš[alternatively]AV; +hurdatu[female pudenda]N$hurdati; +qimmatu[tuft]N$qimmati; šalšiš[thirdly]AV; hurdati[female pudenda]N; +hurru[hole]N$hurri; +dādu[darling]N$
+
+
+
+
+43. !cm da-du : ma-ra : !bs ina kit-tab-ri-šu₂ : !cm ina i-di-šu₂ : kit-tab-ri : i-di : %sux še : %sb i-di
+#lem: dādu[darling]N; māra[son]N; +ina[in]PRP$; +kittabru[(synonym for arm)]N$kittabrišu; ina[in]PRP; +idu[side]N$idišu; +kittabru[(synonym for arm)]N$kittabri; +idu[side]N$idi; +še[hook?//side]N'N/še#~; idi[side]N
+|| B r 9'
+#NV the equation še = kittabru appears in Aa VII/4 and Lugal-e 82.
+#NV my guess would be that še is ES for zag/za₃(but why an ES form in Lugale?)
+#NV is še-ba in Lugale to be analyzed as šeb.a (// zag.a?)
+
+
+44. !cm %sux še : %sb kit-tab-ra : !bs qi₂-ip nap-ša₂-a-tu₄ : !cm qa-a-pa : na-da-nu
+#lem: še[side]; +kittabru[(synonym for arm)]N$kittabra; +qīpu[believable//entrusted]AJ'AJ$qīp; +napištu[throat]N$napšātu; +qiāpu[(en)trust//(en)trusting]V'N$qâpa; +nadānu[give//giving]V'N$
+
+
+
+
+45. !cm %sux tug₂ {+tu-un}tunₓ(DUB₂) : %sb ka-ma-du : !bs ik-kud it-ta-ʾi-id : !cm ta-an-ki-tu₄
+#lem: tug[textile, garment]N; +dun[warp]V/{+tu-un}tunₓ(DUB₂)#~; +kamādu[beat cloth//beating cloth]V'N$; +nakādu[beat//be frightened]V'V$ikkud; +naʾādu[be attentive//be concerned]V'V$ittaʾid; +tankittu[worry]N$
+
+
+
+
+#note: The raison d’etre of the first equation is unknown, see Civil @i{JNES} 33 (1974) p. 335 ad loc.
+
+46. !cm hi-is-sa-tu₄ : it-mu-du : še-mu-u₂ : !bs ab-nu ti-ik-ku AN{+e} : !cm ab-nu
+#lem: +hissatu[understanding]N$; +naʾādu[be attentive//being concerned]V'N$itmudu; +šemû[hear//hearing]V'N$; +abnu[stone]N$; +tīku[(rain)drop]N$tikku; šamê[heaven]N; +abnu[stone]N$
+
+|| B r 12'
+
+
+47. !cm %sux ab : %sb ba-nu-u ša₂ a-la-du : %sux nu : %sb ze-ru₃ : %sux u-gu₄ : %sb ti-ik-ku : %sux u : %sb ba-nu-u
+#lem: abba[father]N/ab#~; +banû[create//creating]V'N$; ša[of]DET; alādu[giving birth (to)]'N; +nu[genitalia]N/nu#~; +zēru[seed(s)]N$; +gu[neck]N/u-gu₄#~; tīku[(rain)drop]N; u; +banû[create//creating]V'N$
+
+|| B r 12'
+
+
+48. !cm %sux gu : %sb a-la-du : %sux an : %sb AN{+e} : %sb an : %sb ze-ri : !bs SAHAR BAD₃ ŠUB{+tu₂}
+#lem: +ugu[bear]V/t/gu#~; alādu[giving birth (to)]'N; an[sky, heaven]N; šamê[heaven]N; +ammu[people]N$an; +zēru[seed(s)]N$zēri; eper[dust]N; +dūru[city wall]N$dūri; +maqtu[fallen]AJ$maqtu
+
+|| B r 12'
+
+
+49. !cm %sux bad₃ : %sb du-u₂-ru : %sux keš₂ : %sb ri-ik-si : %sux bad : %sb pe-tu-u
+#lem: bad[wall, fortification]N; +dūru[city wall]N$; kešed[to bind]V/t; +riksu[binding]N$riksi; bad[to open, undo]V/t; +petû[open//opening]V'N$
+
+
+
+
+50. !bs ŠUB{+tu₂} !cm ša₂ E{+u} aš₂-šu₂ %sux dirig : %sb qa-a-pa ša₂ E₂.GAR₈ : %sux si : %sb e-še-ri ša₂ a-lak
+#lem: +maqtu[fallen]AJ$; +ša[of]DET$; qabû[said]AJ; +aššu[because//because of]SBJ'PRP$; dirig[fall]; +qâpu[fall down//falling down]V'N$qâpa; ša[of]DET; igāri[wall]N; si[horn]; ešēri[going well]'N; ša[of]DET; +alāku[go//going]V'N$alāk
+
+
+
+
+51. !cm %sux a : %sb ṣa-har : !bs SAHAR GA₂ šur-di-i : !cm %sux {+ma-a}ŋa₂ : %sb pi-sa-an-nu : %sux ŋa₂ : %sb a-la-ku
+#lem: a[water]N; +ṣehru[small]AJ$ṣahar; eper[dust]N; +pišannu[box]N$pisanni; +šurdû[allowed to flow]AJ$šurdî; bisaŋ[basket]N/{+ma-a}ŋa₂; +pišannu[box]N$pisannu; ŋen[go]V/i/ŋa₂#~; +alāku[go//going]V'N$
+
+
+
+
+$ single ruling
+
+@colophon
+
+
+
+52. !zz ṣa-a-ti šu-ut KA u maš-ʾa-al-ti ša₂ KA um-ma-nu ša₂ ŠA₃
+#lem: ṣâti[commentary]N; šūt[those of]DET; pî[mouth]N; u[and]CNJ; mašʾalti[questioning]N; ša[of]DET; pî[accordance]N; ummânu[expert]N; ša[from]DET; libbi[interior]N
+
+
+
+
+53. !zz %sux en₂ munus u₃-tu-ud-da-a-ni %sb IM.GID₂.DA {d}50-KAD₂
+#lem: en[incantation, spell]N; munus[woman]N; utud[bear]; +imgiddû[a single-columned tablet]N$imgidda; +Enlil-kaṣir[]PN$
+
+
+
+
+54. !zz {lu₂}GALA {d}EN.LIL₂ A ša₂ {m}{d}EN.LIL₂-MU-im-bi ŠA₃.BAL.BAL
+#lem: +kalû[lamentation priest]N$kalê; Ellil[1]DN; +aplu[son]N$; ša[of]DET; +Enlil-šuma-imbi[]PN$; liblibbi[descendant]N
+
+
+
+
+55. !zz {m}LU₂-DUMU-NUN.NA šu-me-ru-u₂
+#lem: +Ludumununna[]PN$; +šumeru[Sumerian]EN$šumerû
+
+
+
+
+@translation labeled en project
+
+
+
+@label 1 - 2
+
+“Incantation for a woman in labor.” (In) “A ship which is loaded with lapis;” “to be loaded” means “to be full.”
+
+
+
+@label 2 - 6
+
+(The line) @i{gug nu-zu ù nu-zu} means “She is sullied and not suited for sacrifice,” i.e., “she is a substitute.” @i{gug} means “pure,” @nu means “to be sullied” (@i{laʾû}, written @i{laʾ}), @i{zu} (means) “to be suited” (@i{naṭû}), whence “to see” (@i{amāru}). What it says, “she is not suited for sacrifice (@i{siškur}),” (since) “@siškur means ‘sacrifice’ and @siškur means ‘prayer’” (@i{Diri} II 1 and 8), (could be understood) as follows: “she is sullied and not seen for the prayer.”
+
+
+
+@label 6 - 7
+
+(In) “The herald summons Bēlet-ilī as follows,” (“the herald” (@i{nāgiru}) means “the exorcist,” because) the sign KA×AD.KÙ - i.e., AD.KÙ put inside of the sign @i{kagakku} (@i{ka}) - read as /nagiri/, means “exorcist.”
+
+
+
+@label 8 - 9
+
+(In) “Take a small (@i{banda}) reed (@i{gi}) from the marsh (@i{enbar}),” @i{gi} means “woman,” @i{bar} means “to go out,” @i{banda} means “baby,” “little one” (@i{ṣaḫru}). (In) “Dust (@i{sahar}) from the street (@i{sila}),” @i{saḫar} means “dust.” “Dust” (@i{saḫar}) and “little one” (@i{ṣaḫar}) are one and the same thing.
+
+
+
+@label 10
+
+(In) “Crossroad” (@i{sila-lamma}), @i{si} means “to go straight” said of walking; @i{la} means “child” (@i{laʾû}), i.e., “little one” (@i{ṣaḫar}); and “people” (@i{ammu}, written @i{amma}) means “seed.”
+
+
+
+@label 11 - 12
+
+(In) “Oil” (@i{šamnu}), the sign @i{gar} (= @i{šá}), read /nig/, means “woman;” “people” (@i{ammu}, written @i{am}) means “seed;” and @i{nu} means “to build.” Another explanation, the sign @i{ni}, read /i/, means “oil;” @i{i} means “to go out” said of the seed.
+
+
+
+@label 12 - 13
+
+“Break the top of his umbilical cord!” is said on account of the reed that cuts the umbilical cord; the “umbilical cord” is the human knot.
+
+
+
+@label 14 - 15
+
+(The word) @i{kirid} means “clasp” (@i{kirissu}), i.e., a thimble. “Woman in labor” (@i{šupšuqtum-ma}) stems from “person in difficulties” (@i{šupšuqu}), it means “to be delayed;” or, alternatively, it means “woman distressed” (@i{dannatu}).
+
+
+
+@label 15 - 17
+
+(In) “With her horns she is beating (@i{ṭerât}) the ground,” “to beat” (@i{ṭarû}) is its usual meaning; alternatively “she is beating” (@i{ṭerât}) can mean “she is given shelter” (@i{ḫeṣnet}), since “to beat” (@i{ṭarû}) means “to give shelter” (@i{ḫaṣānu}), as in “@i{gudari} = @i{nanduru}, ‘is intertwined’” (@i{Ḫḫ} II 287); and in “@i{e-lá} = @i{edēru}, ‘to embrace’” (?). 
+
+
+
+@label 17 - 20
+
+Ellammê (a sobriquet of Sîn) means “Crown of Glory,” as in “@i{elamma} (a temple of Sîn ?) = “House of Four” (quotation from unknown source); or, alternatively, @i{si egari tilla}, i.e., “Elammû, whose figure brings to an end the light,” where @i{si} means “light,” @i{egar} means “figure,” @i{bi} means “his,” and @i{til} means “to bring to an end;” (this is said) on account of the moon when there is a complete eclipse.
+
+
+
+@label 21
+
+“Because of my barren cow,” (is said) on account of Sîn, the lord of the pure cows.
+
+
+
+@label 22 - 23
+
+(In) “Be adjured by Nindarʾa, the sherpherd of the herdsmen” (cf. @i{Udugḫul} V 59) “Nindarʾa” means “Sîn.”
+
+
+
+@label 23 - 25
+
+“Slithered” (@i{nešelpû}) stems from “to slither” (@i{nešalpû}), which means “to cross;” “to slither” (@i{nešalpû}) (also means) “to go.” (Moreover), @i{gir₅-gir₅}, which means “to slide” (@i{nehelṣû}), can also mean “to slith” (@i{našalpû}).
+
+
+
+@label 25 - 26
+
+The sign AN.GUD, read /niraḫ/, means “snake” (@i{nirāḫu}). (From its components,) @i{an means “seed,” @i{gud} means “to jump.”
+
+
+
+@label 26 - 27
+
+(In) “Incantation for a woman in labor (@i{laraha}),” “labor” (@i{larah}) means “straits,” i.e., “difficulty.”
+
+
+
+@label 27
+
+“Naḫundi” means Sîn, “Narundi” means Šamaš.
+
+
+
+@label 28 - 29
+
+(In) “@i{be plucked out} (@i{namlisu}) like a gazelle!,” @i{zé is} the logogram for “to pluck out” (@i{malāsu}), and also for “to pluck.” Alternatively, “@i{be plucked out!}” (@i{namlisu}) (can be interpreted) as in “‘To look’ (@i{naplusu}) = ‘to see’” (quotation from unknown synonym list).
+
+
+
+@label 29 - 30
+
+(In) “Like a gazelle (@i{maš.dà}(GAG)),” the sign @i{maš}, read /bar/, means “to go out” said of the seed; and the sign @i{gag}, read /du/, means “children.”
+
+
+
+@label 30 - 31
+
+“No” (@i{ulla}) (is the opposite of) “yes,” “yes” means a “command;” alternatively, @i{ulla} (sc. @i{ūlu}), when said of the sign @i{i}, read as /i'u/, means  “oil.”
+
+
+
+@label 31 - 37
+
+“Oil (@i{i}) from bowl (@i{bur}),” means “oil from the oil-presser's vessel;” alternatively, @i{bur} means “container.” “Arrow” (@i{urudu.gag.u₄.tag.e}) can also be rendered as @i{mul.mul}, inasmuch as “dart” (@i{mulmullu}, written @i{mul-mul}) means “arrow” (@i{šiltāḫu}). Hence, @i{mul.mul} means “seed” (@i{zēru}), because @i{gi.mul.mul} means “reed fence” (@i{zerru}, written @i{ze-ru}) (Ḫḫ VIII 41-42). Alternatively, @i{gi} means “woman” and @i{urudu} means “copper” (@i{erû}), which means “to be pregnant” (@i{arû);} the sign @i{gag}, read /du/, means “children;” the sign @i{u₄}, read /zalag/, means “light;” @i{tag.ga} (i.e. @i{tag₄}) means “to leave.” Alternatively, the sign @i{gag}, read /du/, means “children;” the sign @i{si} means “to go straight” said of walking, (@i{si} appears here because of the name) of the constellation “Arrow” (@i{mul.gag.si.sá}).
+
+
+
+@label 37 - 38
+
+“Egiziniti” is a name of Geme-Sîn. In “the path in my head,” “path” (@i{namāru}) means “way” said of marshlands and forests.
+
+
+
+@label 38 - 40
+
+The line “let him show the light to the one living in the shell!” refers to the pregnant woman (@i{munus.peš₄}), because “the pregnant stone” (@i{na₄.peš₄}) means “shell,” where “stone” @i{na₄} means “to go out” said of the seed and (in the sign @i{peš₄} = ŠÀ×A), @i{a} means “son” and @i{šà} means “womb.”
+
+
+
+@label 40 - 43
+
+(In) “Her vulva is loosened,” “vulva” means “female pudenda,” as in “put our your hand and stroke our vulva!” (@i{Gilgameš} VI 69); alternatively “vulva” can mean “tuft;” thirdly “vulva” (@i{ḫurdatu}) can mean “cavity of the darling” (@i{ḫurri dādi}) where “darling” means “son.”
+
+
+
+@label 43 - 44
+
+“In his arm” means “in his side,” since “arm” means “side,” because ŠE, which means “arm,” also means “side.”
+
+
+
+@label 44 - 45
+
+(In) “He who is entrusted with their lives,” “to entrust” means “to grant.” (...) @i{dúb} means “to beat cloth.”
+
+
+
+@label 45 - 46
+
+(In) “he is anxious (@i{ikkud}) and concerned,” “@i{anxiety}” (@i{takkītu}) means “understanding” and “to be concerned” means “to listen.”
+
+
+
+@label 46 - 48
+
+(In) “Hail stone from the sky” (@i{abnū tīk} AN-@i{e}), “stone” (@i{abnu}) (can be explained as) @i{ab}, i.e., “to create” said of giving birth, and @i{nu}, i.e., seed. (Likewise,) @i{u.gú} is the logogram for “Rain” (@i{tīku}), where @i{u}) stands for “to create” and @i{gu} stands for “to give birth.” @i{an} stands for “heaven” (@i{šamê}), but it also stands for “seed.”
+
+
+
+@label 48 - 51
+
+(In) “Dust from a fallen wall” (SAḪAR BÀD ŠUB-@i{tú}), BÀD means “wall;” (from its components (KÉŠ×BAD)), KÉŠ means “bond” and BAD means “to open.” (The wall has to be) “fallen” (because of) what it is said, “@i{diri} (SI.A) = ‘to collapse’ said of a wall” (@i{Antagal} A 151, cf. OB @i{Diri} I 18b), since @i{si} means “to go straight” said of walking, and A means “little one” (@i{ṣaḫar}).
+
+
+
+@label 51
+
+(In) “Dust of a leaking box (@i{gá});” the sign GÁ, read /ma/, means “box;” but @i{gá} can also mean “to go” (sc. out of the womb).
+
+
+
+$ single ruling
+
+
+
+@colophon
+
+
+
+@label 52 - 53
+
+Lemmata, oral explanations, and (materials for) a “questioning” @i{by a} (master-)scholar, relating to (the text with the incipit) “Incantation for a woman in labor.”
+
+
+
+@label 53 - 55
+
+One column tablet of Enlil-kāṣir, lamentation priest of Enlil, son of Enlil-šuma-imbi, descendant of Ludumununna the Sumerian (i.e. the Nippurean).
+

@@ -1,0 +1,40 @@
+&P404068 = CCP 3.9.u4 (http://ccp.yale.edu/P404068) = K.19136
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...]-x#
+#lem: u
+
+2'. !zz [...]-x#-ma
+#lem: u
+
+3'. !zz [...]-x#-iṣ-ma
+#lem: u
+
+4'. !zz [...]-x#-ma
+#lem: u
+
+5'. !zz [...]-x#-ma
+#lem: u
+
+6'. !zz [... !cm ša₂] DUG₄.GA{+u₂}
+#lem: u; ša[that]REL; +qabû[say]V$iqbû
+
+#note: It would also be possible to reconstruct [@i{kīma}] @i{iqbû}.
+7'. !zz [...]-x#
+#lem: u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. ...
+4'. ...
+5'. ...
+6'. [... what] it says.
+7'. ...

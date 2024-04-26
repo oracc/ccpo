@@ -1,0 +1,94 @@
+&P433502 = CCP 3.4.1.A.i (http://ccp.yale.edu/P433502) = DT 84
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@top
+
+1. !zz i-na a-mat {d}EN u {d}GAŠAN-ia₂ liš-lim
+#lem: ina[by]PRP; amāt[command]N; Bel[1]DN; u[and]CNJ; +Beletiya[]DN$; lišlim[go well]V
+
+@obverse
+
+1. !zz BE{+ma} šu-ma-at ši-bu u mu-kal-lim-ti ša₂ is#-[ri a-na IGI-ka]
+#lem: šumma[if]MOD; šumāt[line]N; +šību[old (person)//old version]N'N$; u[and]CNJ; mukallimti[scholarly commentary]N; ša[of]DET; +isru[(a part of the exta)]N$isri; ana[to]PRP; +amāru[see//seeing]V'N$amārika
+
+#NV changed amārīka to amārika; changed šumma[if]CONJ to šumma[if]MOD
+
+$ single ruling
+
+2. !bs BE is-ri 15 ZALAG₂{+ir} ul-lu-uṣ lib₃-bi ERIN₂[{+ni} !bs BE is-ri 15 ZALAG₂{+ir} !cm ana IGI-ka]
+#lem: šumma[if]MOD; +isru[(a part of the exta)]N$isri; imitti[right]N; namir[bright]AJ; ulluṣ[making rejoice]'N; libbi[heart]N; +ummānu[army]N$ummāni; šumma[if]MOD; isri[(a part of the exta)]N; imitti[right]N; namir[bright]AJ; ana[according to]PRP; +amāru[see//seeing]V'N$amārika
+
+#note: As noted by Frahm @i{GMTR} 5 (2011) p. 112 and Heeßel @i{KAL} 5 (2012) p. 52 ad I 0-1, this first entry is also cited in @i{Multābiltu} I 21 (Koch @i{AOAT} 326 [2005] p. 95).
+
+3. ($___$) !cm IGI pir-si ma-gal SA₅ ul-lu-uṣ# [lib₃-bi ERIN₂{+ni}]
+#lem: +pānu[face]N$pān; +persu[division//(a part of the entrails)]N'N$pirsi; magal[greatly]AV; sāmū[red]AJ; ulluṣ[making rejoice]'N; libbi[heart]N; ummāni[army]N
+
+#note: For another attestation of the word @i{pirsu} (in OB extispicy), see Stol @i{OLZ} 103 (2008) p. 353.
+
+4. !cm BE MAN{+u₂} MU-NI ina is-ri ša₂ 15 BUR₃# ŠUB-ma ŠA₃ BUR₃ [u₃ IGI BUR₃ SA₅ BE is-ri 15 ZALAG₂{+ir} ta-qab-bi]
+#lem: šumma[if]MOD; šanû[second]NU; šumšu[name]N; ina[in]PRP; +isru[(a part of the exta)]N$isri; ša[of]DET; imitti[right]N; pilšu[perforation]N; +nadû[placed]AJ$nadīma; libbi[interior]N; pilši[perforation]N; u[and]CNJ; pān[face]N; pilši[perforation]N; sāmū[red]AJ; šumma[if]MOD; isru[(a part of the exta)]N; imitti[right]N; namir[bright]AJ; taqabbi[say]V
+
+#note: Lines 4-6, as attested in K.3978+ i 7-8 (@i{CCP} 3.4.1.A.a), are cited in @i{CAD} I/J 203b.
+
+5. ($___$) !cm SA₅# ZALAG₂ GIM MUL ši#-[kin-šu₂ (...)]
+#lem: sāmū[red]AJ; +nawru[bright]AJ$namru; kīma[like]PRP; kakkabi[star]N; šikinšu[appearance]N; u
+
+#NV odd mix of plural and singular (sāmū and namru). Translation has singular. Changed +namru[bright]AJ$ to +nawru[bright]AJ$namru
+
+6. !cm [BE šal-šu₂] MU#-NI lar-sin-ni 15 ZALAG₂{+ir} ul-lu-uṣ# [lib₃-bi ERIN₂{+ni} lar-sin-nu is-ri ina EME]
+#lem: šumma[if]MOD; šalšu[third]NU; šumšu[name]N; +larsīnu[hoof]N$larsinni; imitti[right]N; namir[bright]AJ; ulluṣ[making rejoice]'N; libbi[heart]N; ummāni[army]N; +larsīnu[hoof]N$larsinnu; +isru[(a part of the exta)]N$isri; ina[on]PRP; lišāni[tongue]N
+
+#note: The reading @i{larsinnu}, as opposed to @akk{PA-sin-nu}, was established by von Soden, “Seltene akkadische Wörter”, @i{StOr} 46 (1975), p. 325; see also Cohen, Y. “Sheep Anatomical Terminology in the šumma immeru Omen Series and Additional Texts”, in J. C. Fincke (ed.), @i{Divination as Science} (2016), p. 89 fn. 46 [reading and references courtesy of Y. Cohen].
+
+7. !cm [BE 4-u₂ MU]-NI ina ŠA₃ BUR₃ 15 U₄ ZALAG₂ ŠUB{+di} LUGAL ana LU₂ ŠUR₂#[{+iz}-ma ...]
+#lem: šumma[if]MOD; +rebû[fourth]NU$; šumšu[name]N; ina[in]PRP; libbi[interior]N; pilši[perforation]N; imitti[right]N; ūmū[day]N; namru[bright]AJ; nadi[located]AJ; šarru[king]N; ana[to]PRP; amēli[man]N; +ezēzu[be(come) angry]V$izzizma; u
+
+8. !zz [x x x x x x x x] x# u₃# x# ni# [...]
+#lem: u; u; u; u; u; u; u; u; u; u[and]CNJ; u; X; u
+
+@reverse
+
+1'. !zz [ša₂ ina] UGU# {kuš#}ma#-gal-lat ša₂ TA x# [...]
+#lem: ša[that]REL; ina[in]PRP; muhhi[top]N; +magallatu[parchment scroll]N$magallat; ša[that]REL; ištu[from]PRP; u; u
+
+#note: The reading of the colophon follows Finkel @i{CTMMA} 2 (2005) p. 283 and Frahm @i{GMTR} 5 (2011) p. 172 and fn. 808.
+
+2'. !zz {m#}{d}UD.UD.UD.UD.UD.UD.UD.UD.UD-DIN-[su-E A ša₂ {m}{d}AMAR.UTU-NUMUN-DU₃]
+#lem: +Nabu-balassu-iqbi[]PN$; apli[son]N; ša[of]DET; +Marduk-zera-ibni[]PN$
+
+3'. !zz A {m}{d}e₄-gi₇-ba-ti-la a-na ši#-[ta-as-si-šu₂ iš-ṭur-ma]
+#lem: apli[son]N; +Egibatila[]PN$; ana[to]PRP; +šasû[shout//reading]V'N$šitassīšu; išṭurma[write]V
+
+4'. !zz DU₃-ma ib-[ri]
+#lem: īpušma[work]V; +barû[see]V$ibri
+
+@translation parallel en project
+
+@top
+
+1. By the command of Bēl and Bēltīya, may (this endeavour) be successful!
+
+@obverse
+
+1. "If you have the omen entries, (their) old versions, and the @mukallimtu-commentary on @Isru before you."
+
+$ single ruling
+
+2. "If the right @i{isru} is bright, the army will rejoice" (= @i{Šumma Isru} I 1). [If you have "If the right @i{isru} is bright" (@i{ibid}.) before you,]
+3. (you will find that it means) "If the surface of the @i{pirsu} is very red, [the army] will rejoice."
+4. [Second (possible) entry]: "If in the right @i{isru} there is a perforation, and the interior [and the surface of the perforation are red," you may say that "If the right @i{isru} is bright"]
+5. "@i{it is red}" means "it is bright, [its appearance] is like a star."
+6. [Third (possible) entry]: "If the right @i{larsinnu} is bright, the [army] will rejoice." [@i{Larsinnu} means @i{isru} in the bilingual lists].
+7. [Fourth (possible) entry]: "If the center of the right @i{perforation} there is a bright light, the king will be angry with the man." [...].
+8. ...
+
+@reverse
+@colophon
+1'. [...] which was written on a parchment scroll from [...].
+2'. Nabû-balāssu-iqbi, [son of Marduk-zēru-ibni,]
+3'. descendant of Egibatila, [copied,]
+4'. @i{made} and collated it.

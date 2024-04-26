@@ -1,0 +1,201 @@
+&P461299 = CCP 3.5.48 (http://ccp.yale.edu/P461299) = BM 92700
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [* NIG-MEŠ ina KA₂-MEŠ u₂-nab-ba]-hu?# u₂-kul-ti {d}ER₃.RA ina KUR GAL₂{+ši}
+#lem: +kalbatu[female dog]N$kalbātu; ina[in]PRP; bābāti[gate]N; +nabāhu[bark]V$unabbahū; ukulti[devouring]N; Erra[1]DN; ina[in]PRP; māti[land]N; ibašši[exist]V
+
+2. !zz [x x x x x x x x x] : !bs kiš-šu !cm : nu-kur₂-tu₄ : !bs mut-ta-tu₂
+#lem: u; u; u; u; u; u; u; u; u; +kiššū[exercise of power]N$; nukurtu[enmity]N; +muttatu[half]N$
+
+#note: @i{kiššū} = @i{nukurtu} is elsewhere attested only in @i{Malku} II 266
+3. !cm [miš-lu !zz x x x x x] !cm x#-x#-ku-šu-ma : !bs A-MEŠ i-sap-pa-nu-šu₂ :
+#lem: +mišlu[half]N$; u; u; u; u; u; u; mê[water]N; +sapānu[flatten]V$isappanūšu
+
+#note: The first word has been restored with the @i{Principal Commentary on Šumma Izbu} (CCP 3.6.1.A) l. 42: @i{muttatu} = @i{mešlu}.
+
+4. !zz [x x x x x] !cm : le-qu-u₂ : !bs DU₁₁.DU₁₁-BI i-ger-ri-šu
+#lem: u; u; u; u; u; leqû[taken]AJ; +dabābu[talk]N$dabābišu; +gerû[be hostile to]V$igerrīšu
+
+#NV +dabābu[talk]N$ for DU₁₁.DU₁₁-BI changed to +dabābu[talk]N$dabābišu
+
+5. !cm [x x x i]-ger-ru-šu₂ : !bs * NIG ina E₂ LU₂ 1 U₃.TU E₂ BI
+#lem: u; u; u; +gerû[be hostile to]V$igerrūšu; +kalbatu[female dog]N$; ina[in]PRP; bīt[house]N; amēli[man]N; n; ūlid[give birth (to)]V; bītu[house]N; šū[that]IP
+
+#NV amēlu changed to amēli
+
+6. !bs [ṣu-mi-ra-tu]-šu₂ KUR{+ad₂} !cm : ša₂ 1*{+et} MUNUS ul-la-du : !bs ina ṣar*-ti PAP.HAL DAB{+bat}
+#lem: +ṣummirātu[desires]N$ṣummirātūšu; +kašādu[reach]V$ikaššad; ša[of]DET; ištēt[one]NU; sinništu[woman]N; ulladu[give birth (to)]V; ina[in]PRP; +sartu[falsehood]N$ṣarti; +pušqu[narrowness]N$pušqa; iṣabbat[seize]V
+
+#note: Collation shows that the sign copied by Gadd as IT looks rather like 1+@i{et}. On the other hand, only another instance of @i{pušqu iṣabbat} is booked in the dictionaries: YOS 10 42 i 30: @i{rubâm pušqum iṣabbat}, "difficulty will befall the prince" (OB extispicy). Compare also VAT 10218 ii 5 (CCP 3.1.58.A.a): @i{āl kiššūti ina ṣarti} PAP?.ḪAL? @i{iṣabbat}, "@i{difficulties} will befall a city of world dominion."
+
+#NV I would read pušqu rather than pušqa
+
+7. !bs [ṣar-tu₂ !cm : x x :] !bs PAP.HAL !cm : dan-na-tu₂ : !bs ina A.RI.A UŠ₂ : !bs A.RI.A !cm : na-mu-u₂
+#lem: +sartu[falsehood]N$ṣartu; u; u; +pušqu[narrowness]N$; dannatu[distress]N; ina[in]PRP; namê[pasturage]N; imât[die]V; namû[pasturage]N; namû[pasturage]N
+
+8. !bs [UŠ₂ !cm : ma-a-tu₂ : !bs DUMU-MEŠ] E₂ LU₂ KUR₂-ma E₂ i-be-el !cm : DUMU-MEŠ E₂ LU₂ KUR₂-ma
+#lem: imât[die]V; +mâtu[die//dying]V'N$; mārū[son]N; bīt[house]N; amēli[man]N; ikkirma[change]V; bīta[house]N; ibêl[rule (over)]V; mārū[son]N; bīt[house]N; amēli[man]N; ikkirma[change]V
+
+9. !cm [x x x x] mam-ma ša₂-nam-ma E₂ i-be-el : !bs * NIG ina E₂ LU₂
+#lem: u; u; u; u; +mamman[somebody]N$mamma; šanâmma[(an)other one]N; bīta[house]N; ibêl[rule (over)]V; kalbatu[female dog]N; ina[in]PRP; bīt[house]N; amēli[man]N
+
+#NV changed amēlu to amēli
+
+10. !bs [x-MEŠ U₃.TU EN] E₂ UŠ₂ x# x# : BALA TUKU{+ši} !cm <:> pa-lu-u₂ TUKU{+ši}
+#lem: u; ūlid[give birth (to)]V; bēl[owner]N; bīti[house]N; imât[die]V; u; u; +palû[period of office]N$palâ; irašši[acquire]V; +palû[period of office]N$palâ; irašši[acquire]V
+
+#note: The beginning is restored with K.7033 10' (see introduction). Both the @i{explanandum} and the text of the commentary remain obscure.
+
+#NV changed +palû[period of office]N$ to +palû[period of office]N$palâ
+
+11. !zz [x x x x] !cm ša₂-niš mit-gur-tu₂ BALA TUKU{+ši} : mit-gur-tu₂ AGA?# TUKU{+ši}
+#lem: u; u; u; u; šanîš[alternatively]AV; mitgurtu[agreement]N; palû[period of office]N; irašši[acquire]V; mitgurtu[agreement]N; agâ[corona]N; irašši[acquire]V
+
+#NV I would rather normalize mitgurat palê irašši (and mitgurat agê irašši). How are the words connected in this reading?
+
+12. !zz [x x x x] x# !bs BALA TUKU{+ši} <:> !bs pa-lu-u₂ !cm : u₄-mu :. !bs * NIG ina KUN₄ E₂ NA U₃.TU
+#lem: u; u; u; u; u; palâ[period of office]N; irašši[acquire]V; palû[period of office]N; ūmu[day]N; kalbatu[female dog]N; ina[at]PRP; +simmiltu[stair(case)]N$simmilti; bīt[house]N; amēli[man]N; ūlid[give birth (to)]V
+
+#note: Compare @i{palû} = @i{ūmu} in Malku III 134.
+13. !cm [x x x] x# :# !bs E₂ BI U.BAR{+ru-tu₂} šad-ru-šu₂ : !bs U.BAR{+ru₃} !cm : nak-ri
+#lem: u; u; u; u; +bītu[household]N$bīta; šū[that]IP; +ubāru[(resident) alien]N$ubārūtu; +sadru[in order]AJ$sadrūšu; ubāru[(resident) alien]N; nakru[enemy]N
+
+#note: The reading @akk{E₂ BI U.BAR{+ru-tu₂} šad-ru-šu₂} here and in the next line is courtesy of Sally M. Freedman. It is likely that the missing first part of this line explained KUN₄ = @i{simmiltu}. On the other hand, @i{ubāru} = @i{nakru} is also attested in a commentary on @i{Šumma Ālu} 49 written by the same scribe (@i{CT} 41 31 r 25 = CCP 3.5.49). @i{CAD} U/W 10a reads the the verb as @i{ittarrušu}, a reading that does not fit the traces.
+
+14. !cm [x x] x šad-ru-šu₂ : !bs ur-ši !cm : dul-ba-nu : !bs * NIG ina ALAL₂? UR₃?# U₃.TU
+#lem: u; u; u; sadrūšu[in order]AJ; urši[bedroom]N; +dalbānu[intervening space]N$dulbānu; kalbatu[female dog]N; ina[in]PRP; +alallû[drain]N$alallê; ūri[roof]N; ūlid[give birth (to)]V
+
+#note: Cf. @i{uršu} = @i{dulbānu} in the @i{Principal Commentary on Šumma Izbu} (CCP 3.6.1.A) l. 535. The signs before Ù.TU are written over the margin and are difficult to decipher, ÁLAL ÙR is a tentative reading. 
+15. !bs [ina ALAL₂? UR₃? !cm : ina] ki-in-šu₂ ša₂ u₂-ri : ša₂-niš ina ALAL₂? ša₂ u-ri :
+#lem: ina[in]PRP; alallê[drain]N; ūri[roof]N; ina[in]PRP; +kinšu[slope]N$; ša[of]DET; ūri[roof]N; šanîš[alternatively]AV; ina[in]PRP; alallê[drain]N; ša[of]DET; +ūru[roof]N$ūri
+
+#note: The word @i{kinšu}, "drainage slope," is elsewhere attested in a couple of NB documents (@i{CAD} K 388b) and in @i{Šumma Ālu} 6 94: @i{šumma bīt amēli kinša lawi}, "if a man's house is surrounded by a slope" (Freedman, S.M. @i{OPKF} 17 (1998) p. 118).
+16. !bs [(x x x) x ina?] šu-bat LU₂
+#lem: u; u; u; u; ina[in]PRP; šubat[residence]N; amēli[man]N
+
+#NV changed amēlu to amēli
+
+@reverse
+
+17. !zz x# x# !cm : šub-tu₂ : !bs iš-di-hi !cm : ne₂-me-lu : !bs * NIG ina KA₂ E₂ LU₂
+#lem: u; u; šubtu[seat]N; +išdihu[profit(able business)]N$išdihi; nēmelu[profit]N; kalbatu[female dog]N; ina[at]PRP; bāb[gate]N; bīt[house]N; amēli[man]N
+
+#note: The second sign of the line is probably not DI, as copied by Gadd, but rather RU. On the occurrences of the equation @i{išdiḫu} = @i{nēmelu} in commentaries, see Frahm, E. @i{GMTR} 5 (2011) p. 284.
+
+18. !bs U₃.TU E₂ BI ṣu-mi-ra-tu-šu₂ KUR{+ad₂}
+#lem: ūlid[give birth (to)]V; bīt[house]N; šū[that]IP; ṣummirātūšu[desires]N; +kašādu[reach]V$ikaššad
+
+#note: The line is here simply enunciated, and no explanation is offered. Probably the Vorlage contained the commentary in the lines that followed this one, which were apparently broken.
+
+#NV kašād[achieving]'N changed to +kašādu[reach]V$ikaššad
+
+$ single ruling
+
+19. !zz {(he-pi₂ eš-šu₂)} {(he-pi₂ eš-šu₂)}
+#lem: hepi[broken]AJ; eššu[new]AJ; hepi[broken]AJ; eššu[new]AJ
+
+20. !zz {(he-pi₂ eš-šu₂)} {(he-pi₂ eš-šu₂)}
+#lem: hepi[broken]AJ; eššu[new]AJ; hepi[broken]AJ; eššu[new]AJ
+
+21. !zz {(he-pi₂ eš-šu₂)} {(he-pi₂ eš-šu₂)}
+#lem: hepi[broken]AJ; eššu[new]AJ; hepi[broken]AJ; eššu[new]AJ
+
+$ single ruling
+
+22. !zz ṣa-a-tu₂ u₃ šu-ut KA ša₂ * NIG-MEŠ ina KA₂-MEŠ u₂-nab-ba-hu
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; kalbātu[female dog]N; ina[in]PRP; bābāti[gate]N; unabbahū[bark]V
+
+23. !zz * URU ina SUKUD{+e} GAR{+in}
+#lem: +ālu[village]N$; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$ single ruling
+
+@colophon
+
+24. !zz LIBIR.RA-šu₂ TA muh-hi im-gi₃-da*# SUMUN# GABA#.RI bar-sip₃{ki} SAR-ma IGI.TAB
+#lem: labīrišu[original]N; +ištu[from]N$; muhhi[top]N; +imgiddû[(a single-columned tablet)]N$imgiddâ; labīri[old]AJ; gabarê[copy]N; +Borsippa[]GN$; šaṭirma[written]AJ; bari[checked]AJ
+
+25. !zz im-gi₃-da {m}{d}AG-DIN-su-E A ša₂ {m}{d}AMAR*#.UTU*#-NUMUN*#-DU₃ A {m}{d}egi-ba*-ti-la
+#lem: +imgiddû[(a single-columned tablet)]N$imgiddâ; +Nabu-balassu-iqbi[]PN$; aplu[son]N; ša[of]DET; Marduk-zer-ibni[1]PN; aplu[son]N; +Egibatila[]PN$
+
+26. !zz ŠU-MIN {m}{d}AG-MU-SI.SA₂ DUMU-šuₓ(LU₂)
+#lem: qāt[hand]N; +Nabu-šumu-lišir[]PN$; +māru[son]N$mārīšu
+
+@translation labeled en project
+
+@label o 1 - o 3
+
+"If bitches bark at the city gates, the voracity of the plague god will be over the land" (= @i{Šumma Ālu} 48 1). [...] "exercise of power" (= @i{Šumma Ālu} 48 unknown) means "hostility;" "half" (= @i{Šumma Ālu} 48 unknown) means ["half" ...].
+
+@label o 3 - o 5
+
+[...] means "they will ... him." "The waters will level it" (= @i{Šumma Ālu} 48 unknown) means [... "..."] means "to take." "His slander will be hostile with him" (= @i{Šumma Ālu} 48 unknown) [means "@his @enemies] will be hostile with him."
+
+@label o 5 - o 6
+
+"If a bitch gives birth to one in a man's house, that house will achieve its desires" (= @i{Šumma Ālu} 48 unknown) refers (to the bitch) that gives birth to one female.
+
+@label o 6 - o 7
+
+In "Through treachery difficulty will befall (that house)" (= @i{Šumma Ālu} 48 K.7033 5'), ["treachery" means ...]; "difficulty" means "straits."
+
+@label o 7
+
+In "He will die in the steppe" (= @i{Šumma Ālu} 48 K.7033 6'), A.RI.A means "steppe" [and ÚŠ means "to die" (?)].
+
+@label o 8 - o 9
+
+"[The sons] of the man's house will be estranged and will rule the house" (= @i{Šumma Ālu} 48 K.7033 9') means "the sons of the man's house will be estranged [...] and someone else should rule the house."
+
+@label o 9 - o 12
+
+In "If a bitch gives birth to [...] in a man's house, [the owner of] the house will die, [...] (variant) he will achieve (a long) reign" (= @i{Šumma Ālu} 48 unknown), "he will achieve a BALA" means "he will achieve (a long) reign" [...] alternatively, "he will achieve peace for (his) reign" means "he will achieve peace for the @i{crown}" [...] In "he will achieve for (his) reign," "(his) reign" means "(his) days."
+
+@label o 12 - o 13
+
+In "If a bitch gives birth on the staircase (KUN₄)" (= @i{Šumma Ālu} 48 unknown), [@KUN₄ @means "@staircase"].
+
+@label o 13
+
+In "That house, foreigners will be in store for it" (= @i{Šumma Ālu} 48 unknown), "foe" means "enemy." [...] ... "will be in store for it."
+
+@label o 14 - o 16
+
+"Bedroom" (= @i{Šumma Ālu} 48 unknown) means "storey." In "A bitch will give birth in the roof drain pipe" (= @i{Šumma Ālu} 48 unknown), ["in the roof drain pipe"] means "on the drainage slope of the roof," alternatively, "@in @the @roof @drain @pipe."
+
+@label o 16 - r 17
+In "[(...) in] the man's residence." (= @i{Šumma Ālu} 48 unknown), ... means "residence."
+
+@label r 17 - r 18
+
+"Profit" (= @i{Šumma Ālu} 48 unknown) beans "benefit." "If a bitch gives birth at the threshold of a man's house, that house will achieve its desires" (= @i{Šumma Ālu} 48 unknown).
+
+$ single ruling
+
+@label r 19 - r 21
+
+(Broken recently).
+
+$ single ruling
+
+@label r 22 - r 23
+
+Lemmata and oral explanations relating to (the tablet) "If bitches bark at the city gates" (= @i{Šumma Ālu} 48), tablet of "If a City is Set on a Height."
+
+$ single ruling
+
+@colophon
+
+@label r 24
+
+Its original was copied from a one-column tablet whose original was from Borsippa.
+
+@label r 25 - r 26
+
+One-column tablet of Nabû-balāssu-iqbi son of Marduk-zēru-ibni, descendant of Egibatila. Handwork of Nabû-šumu-līšir, his son.

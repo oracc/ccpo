@@ -1,0 +1,140 @@
+&P348644 = CCP 4.1.34 (http://ccp.yale.edu/P348644) = W 22730/2
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use maths
+@tablet
+
+@obverse
+1. [... : !qt šu-ru-up-pu]-u₂# hur-ba-šu₂ mu-na-aš₂-šir₃ nap-har
+#lem: u; šuruppû[icy blast]N; +hurbāšu[frost]N$; +munašširu[diminisher]N$munaššir; naphar[all]N
+
+#note: As noted by von Weiher @i{SpTU} 2 (1983) p. 166 and Frahm @i{GMTR} 5 (2011) p. 128, the first few lines contain a quotation from @i{Udughul} V 1 and 3. The room at the beginning of the line would be enough to contain the Sumerian part of @i{Udughul} V 1.
+2. !qt [mim-ma šum-šu₂ : ... !cm šu-ru-up-pu]-u₂# : ku-ṣi : !qt nam-tar DUMU na-ra-am {d}50
+#lem: mimma[anything]XP; šumšu[name]N; u; šuruppû[icy blast]N; +kūṣu[coldness]N$kūṣi +.; namtar[fate]N; mār[son]N; +narāmu[loved one]N$narām; Ellil[1]DN +.
+
+#note: The broken part of the line may have contained @i{Udugḫul} V 2 (@akk{u₂-tuk-ki lem-nu ša₂ re-hu-ut {d}a-nim re-hu-u}) rather than [@i{šurupp}]@i{û}.
+3. !qt [i-lit-ti {d}EREŠ.KI.GAL ... !bs i-gar]-ru*#-ur!* : !cm ga-ra-ra : pa-la-hu
+#lem: ilitti[offspring]N; Ereškigal[1]DN; u; igarrur[writhe]V; +qarāru[writhe//quivering]V'N$garāra; +palāhu[fear//fearing]V'N$
+#note: Uri Gabbay (private communication) suggests that the first half of the present line may have contained a quotation from Udugḫul V 4 (@akk{e-liš ik-ṣu-ṣu-ma šap-liš kar-ru id-du-u₂}, “Above (the demons) were snarling, while below they donned mourning-clothes”). As Gabbay suggests, the @akk{ik-ṣu-ṣu-ma} of Udugḫul V 4 may have been intended to explain the @akk{ku-ṣi} from the previous line of the present commentary, whereas @akk{kar-ru} may have been thought to be related to @akk{[i-gar]-ru*#-ur!* : ga-ra-ra} in this line.
+4. !zz [...]-x# !cm ki-is lib₃-bi : !bs ut-ta-ta-ah!#-haš₂?#
+#lem: u; +kīsu[binding//constriction]N$kīs; libbi[heart]N; +nahāšu[be(come) luxuriant]V$uttatahhaš
+
+5. !zz [...]-x# !cm aš₂-šu₂ ta-la-lu : ma-lu-u₂ : !bs u₂-zab-bal-ma
+#lem: u; aššu[concerning]'PRP; +talālu[stretch//stretching]V'N$; +malû[be(come) full//be(com)ing full]V'N$ +.; uzabbalma[linger]V
+
+6. !cm [i-kab-bit-ma ...]-ru# : !bs MUŠ₂-ME-šu₂ : !cm pa-ni-šu₂ : !bs SAG :
+#lem: +kabātu[be(come) heavy]V$ikabbitma; u; +zīmu[face]N$zīmēšu; pānīšu[face]N; rēšu[head]N
+
+#note: The first word is restored after @i{SpTU} 1 28 7 (@i{CCP} 4.1.1.C). The poetic term @i{zīmū} is explained with the more prosaic one @i{pānū}: see Frahm @i{GMTR} 5 (2011) p. 67.
+7. !zz [...]-x# : !cm lib₃-bu-u ŠA₃.MAH ŠA₃.TA.HA.RI
+#lem: u; libbū[meaning]PRP; +isiltu[swelling]N$; +ṣimertu[swollen state]N$ṣimerti +.
+
+#note: The clause introduced by @i{libbū} contains in all likelihood a vertical quotation from the @i{List of Diseases} 66-67 (246-247) (@i{MSL} 9 93).
+8. !bs [...]-bat ta-bal-lal : !cm LU₃.LU₃ :
+#lem: u; +balālu[mix (up)]V$taballal; +balālu[mix (up)]V$taballal
+
+
+9. !zz [...]-x#-x#-hu# !cm ik-kab-ba-su :
+#lem: u; +kabāsu[tread//continue]V$ikkabbasu +.
+
+10. !zz [...]-x#-ba-ṭu
+#lem: u
+
+11. !zz [...]-x#
+#lem: u
+
+$end of obverse broken
+@reverse
+$start of reverse broken
+1'. !zz [x x x x x x x x x x x x x x x x x x x]-x-ma#
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !zz [x x x x x x x x x x x x x]-lu?# : e-x#-[x x x x]-lu?#
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+3'. !zz [x x x x x x x x x x x x x]-nu# : du#-ur# x x [x x (x)]-šu₂
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+4'. !zz [x x x x x x x x x x x x x !bs ir]-ta#-na-haṣ : !cm mar-haṣ : nar-ma#-ku
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; irtanahhaṣ[wash]V; marhaṣ[rinse]N; narmaku[(cultic) washing]N
+
+5'. !zz [x x x x x x x x x x x x x] !cm i?#-ša₂-as-sa-a : !bs šul-bu-šu₂ !zz x# x#
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; išassâ[shout]V; šulbušu[clothing]V; u; u
+
+6'. !zz [x x x x x x x x x x x x x]-ta-mu : !bs NA BI ina kiš-pi du-um-ma
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; amēla[man]N; šu[that]IP; ina[in]PRP; kišpī[sorcery]N; dummâ[brought to tears]AJ
+
+7'. !cm [x x x x x x x x x x x x x] : !bs di-im-mat : !cm da-ma-ma
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; dimmat[wailing]N; damāma[wailing]'N
+
+$single ruling
+
+@colophon
+
+8'. !zz [ṣa-a-tu₂ šu-ut KA u maš-ʾa-al-tu₂ ša₂ KA um-man]-nu ša₂ ŠA₃ * NA ana MUNUS-šu₂ ŠA₃-šu₂ IL₂-šu₂-ma
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; u[and]CNJ; +mašʾaltu[questioning]N$; ša[of]DET; pî[accordance]N; ummannu[scholar]N; ša[from]DET; libbi[interior]N; amēli[man]N; ana[into]PRP; sinništišu[wife]N; libbašu[interior]N; iššišuma[lift]V
+
+9'. !zz [IM {m}BA{+ša₂-a} bu₁₂-kur₂ {m}{d}INANNA-MU-KAM ŠA₃.BAL].BAL# {m}E₂.KUR-za-kir UNUG{ki}{+u₂}
+#lem: ṭuppi[tablet]N; Iqišaya[1]PN; bukur[son]N; Ištar-šuma-ereš[1]PN; liblibbi[descendant]N; Ekur-zakir[1]'LN; Urukayu[Urukean]EN
+
+@translation labeled en project
+
+@obverse
+@label o 1 - o 3
+1. [... (as in) “While cold] and chills weaken every[thing” (quotation from @i{Udugḫul} V 1), ... “col]d” means frost. In “Namtar, beloved son of Enlil, [offspring of Ereškigal,” (quotation from @i{Udugḫul} V 3) ...].
+
+@label o 3
+“He quivers” (@i{igarrur}) (= @i{Sagig} 34 unknown) (stems from) “to quiver,” which means “to fear.”
+
+@label o 4 - o 5
+[...] means “constriction of the heart.” “He has been granted prosperity” (= @i{Sagig} 34 unknown) means [...].
+ 
+@label o 5 - o 6
+[...], since “to stretch out” means “to be full.” “He will linger” (= @i{Sagig} 34 unknown) means [@i{he will become worse} ...].
+
+@label o 6 - o 7
+MÚŠ-ME-@i{šú} (= @i{Sagig} 34 unknown) means “his face.” SAG means [...].
+
+@label o 7
+[...], as in “swelling” means “inflamation."
+
+@label o 8 - o 9
+
+[...] ... “you mix” (= @i{Sagig} 34 unknown) (can be written as) LÙ.LÙ, which means [...].
+
+@label o 9 - o 11
+[...] ... “they will continue,” [...]
+
+$end of obverse broken
+@reverse
+$start of reverse broken
+
+@label r 1' - r 3'
+...
+
+@label r 4'
+
+[...] “he washes himself repeatedly” (@i{irtanaḫḫaṣ}) (= @i{Sagig} 34 unknown) is related to the word “rinse” (@i{marḫaṣu}), which means “cultic washing.”
+
+@label r 5' - r 6'
+
+[...] means “they call out.” “To clothe” means [...]
+
+@label r 6' - r 7'
+
+[...] ... In “That man is brought to tears (@i{dummâ}) by sorcery” (= @i{Sagig} 34 unknown), [...], “wailing” (@i{dimmatu}) derives from “to wail” (@i{damāmu}).
+
+$single ruling
+
+@label r 8'
+[Lemmata, oral explanations, and (materials for) a ‘questioning’ @i{by} a] (master-)scholar, relating to “If a person has desire for his wife.”
+@label r 9'
+[Tablet of Iqīšāya, son of Ištar-šumu-ēreš], descendant of Ekurzakir, the Urukean.
+
+
+	
+
+
+	
+

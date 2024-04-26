@@ -1,0 +1,36 @@
+&P423302 = CCP 3.2.11 (http://ccp.yale.edu/P423302) = BM 134783
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@reverse
+
+$(uncertain number of lines missing)
+
+1'. !cm KU₄?# KI?#-MEŠ? MUL?#-MEŠ?# ša₂?# ina?# lib₃?#-bi?# [...]
+#lem: u; u; kakkabū[star]N; ša[that]REL; ina[in]PRP; libbi[interior]N; u
+
+$ single ruling
+2'. !zz *# 30 {giš}GIGIR U₅ [...]
+#lem: Sin[1]DN; narkabti[chariotry]N; +rakābu[ride]V$irkab; u
+
+#note: The present line may be the catchline of the next tablet. It also appears as the first line of VAT 9434 (@i{CCP} 3.1.u94.b).
+$ 2 lines blank
+3'. !zz IM?# 11.KAM NIG₂.PA₃.DA * U₄ AN {d}EN#.[LIL₂ ...]
+#lem: ṭīdi[clay]N; n; mukallimti[scholarly commentary]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; u
+
+$ 1 line blank
+4'. !zz [KUR {m}AN.ŠAR₂-DU₃]-IBILA# MAN# ŠU₂?# MAN# KUR?# [aš-šur{ki} ...]
+#lem: +ēkallu[palace]N$; +Assurbanipal[]RN$; šar[king]N; kiššati[universe]N; šar[king]N; mātu[land]N; Assur[1]GN; u
+
+
+$ rest of reverse missing
+
+@translation parallel en project
+
+1'. ... @i{stars that in the center} [...]
+2'. “If the moon rides the Chariot” (= catchline) [...]
+3'. 11th tablet of the @i{mukallimtu}-commentary on @i{Enūma Anu En}[@i{lil} ...]
+4'. [Palace of Ashurbani]pal, king of the Universe, king of [Assyria ...].

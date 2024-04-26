@@ -1,0 +1,46 @@
+&P403116 = CCP 7.2.u77 (http://ccp.yale.edu/P403116) = K.17826
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...]-x#
+#lem: u
+
+2'. !zz [...]-ʾ#-nu
+#lem: u
+
+3'. !zz [...]-x# qa-x#
+#lem: u; u
+
+4'. !zz [...] x#-mu
+#lem: u; u
+
+5'. !zz [...] ir#-mu
+#lem: u; u
+
+6'. !zz [...] x# la x#-[x]-ma?# ir-bu-u₂
+#lem: u; u; lā[not]MOD; u; irbû[grow up]V
+
+7'. !zz [...] si-kit₂-ma
+#lem: u; X
+
+8'. !zz [... !bs e-de-du !cm : ṣa-pa]-ru ša₂ qar-ni
+#lem: u; edēdu[be(com)ing pointed]'N; ṣapāru[winking]'N; ša[of]DET; qarnī[horn]N
+
+#note: @i{edēdu} = @i{ṣapāru ša qarni}, cf. @i{SAA} 8 106, 190 o 2', 330 o 7.
+9'. !zz [...]-u₂#
+#lem: u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. ...
+4'. ...
+5'. ...
+6'. [...] ... grows.
+7'. ...
+8'. [... "To be pointed" means "@i{to be ador}]@i{ned}, said of horns.
+9'. ...

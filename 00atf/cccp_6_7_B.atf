@@ -1,0 +1,1029 @@
+&P285539 = CCP 6.7.B (http://ccp.yale.edu/P285539) = VAT 10173
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@column 1
+
+1. !bs [{d}AN & !cm {d}]a#-nu
+#lem: +Anu[1]DN; Anu[1]DN
+
+#tr.en: [@sup{d}Anu (is)] @sup{d}Anu
+
+2. !bs [an-tu₄ & !cm an?]-tu₄
+#lem: Antu[1]DN; Antu[1]DN
+
+#tr.en: [Antu (is) An]tu
+
+3. !bs [{d}en-lil₂ & !cm {d?}]BAD
+#lem: Ellil[1]DN; Ellil[1]DN
+
+#tr.en: [@sup{d}Enlil (is)] Enlil
+
+4. !bs [{d}nin-lil₂ & !cm {d}]mu#-lil#-tu# 
+#lem: Ninlil[1]DN; +Muliltu[]DN$
+
+#tr.en: [@sup{d}Ninlil (is)] [@sup{d}]Mulliltu
+
+5. !bs [{d}nuska] & !cm {d}nu-[us-ka]
+#lem: +Nuska[]DN$; +Nuska[]DN$
+
+#tr.en: [@sup{d}Nuska] (is) @sup{d}Nu[ska]
+
+#note: For the reading of the god’s name see Lambert, W.G. 2002. “The name of Nuska.” @i{Revue d'Assyriologie} 96: 57-60. Weidner (1924-25: 9) restores @i{-ku}. 
+
+6. !bs {d#}[sa-dar₃-nun-na] & !cm DAM! {d}[nuska] 
+#lem: +Sadarnunna[]DN$; aššata[wife]N; Nuska[1]DN
+
+#tr.en: [@sup{d}Sadarnunna] (is the) wife of [@sup{d}Nuska]
+
+#note: The copy consistently shows NIN instead of DAM. The reconstructed syllabic writing follows Cavigneaux 1981: 82-83, but Weidner (1924-25: 9) has @i{Sa-dara-nun-an-na} with the note that usually the goddess’ name is written @i{Sa-dara-nun-na}. In Neo-Assyrian sources, Šala is the consort of Nuska, attesting to the conservatism of this list as a scribal tradition rather than living practices in Assur. Babylonian sources name Sadarnunna as a spouse of Nuska, including in the later Neo-Babylonian royal temple building accounts. 
+
+7. !bs {d}gibil₆(|BIL#.GI?#|)# & !cm {d}gi-ir#-[ra]
+#lem: +Girru[]DN$; +Girru[]DN$
+
+#tr.en: @sup{d}Gibil (is) @sup{d}Girra
+
+#note: The copy reads BAD instead of GI, but see Weidner’s (1924-25: 10 fn. 1) correction. 
+
+8. !bs {d#}li₉-si₄ & !cm {d}x#
+#lem: +Lisi[]DN$; u
+
+#tr.en: @sup{d}Lisi (is) DN
+
+#note: Only the divine determinative (AN) for the second name is rendered in the copy, but Weidner (1924-25: 10) very tentatively suggests a NE sign (also read li₉) after the determinative. An Old Babylonian copy of Diri preserves Lisi = AN.NE.SI@sup{g} (http://oracc.org/dcclt/P447993 d ii 43) so one might speculate that this could also be reconstructed here as a different syllabic rendering of Lisi’s name.
+
+9. !bs {d#}nin-sikil-la₂ & !cm DAM {d}[li₉-si₄]
+#lem: +Ninsikila[]DN$; aššata[wife]N; Lisi[1]DN
+
+#tr.en: @sup{d}Ninsikila (is the) wife of @sup{d}Lisi(?)
+
+#note: The reconstruction is consistent with other OB god-lists including @i{An = Anum}  and is part of a theological change Lisi underwent, transforming from a female deity to a male one (RlA 7: 32-33).
+
+10. !bs {d#}ŠEŠ.KI & !cm {d}[30?]
+#lem: +Sin[]DN$; Sin[1]DN
+
+#tr.en: @sup{d}Nanna (is) @sup{d}Sîn
+
+#note: This scribe diverges from Cavigneaux 1981: 82, which has ŠEŠ.ZU.
+
+11. !bs {d#}EN.ZU & !cm {d#}30#
+#lem: +Sin[]DN$; Sin[1]DN
+
+#tr.en: @sup{d}Sîn (is) @sup{d}Sîn
+
+12. !bs {d}nin-gal & !cm DAM# {d}EN?#.[ZU?]
+#lem: +Ningal[]DN$; aššata[wife]N; +Sin[]DN$
+
+#tr.en: @sup{d}Ningal (is the) wife of @sup{d}Sîn
+
+#note: Frahm 2011: 256 fn. 1213 reconstructs Sîn’s name as written @sup{d}30.  
+
+13. !bs {d}LAL₃ & !cm SUKKAL?# {d}[30?]
+#lem: Alammuš[1]DN; šukkal[minister]N; Sin[1]DN
+
+#tr.en: @sup{d}Alammuš (is) the @i{vizier} of @sup{d}Sîn
+
+14. !bs {d}nin-EZEN# & !cm [...] {d#}[30?]
+#lem: +Ningublaga[]DN$; u; Sin[1]DN
+
+#tr.en: @sup{d}Ningublaga (is the) [son] of @sup{d}Sîn
+
+#note: The name might be written EZEN×GU₄, despite the copy, but Nin-EZEN can also be read Nin-Isina (RlA 9: 351, 374, 386-387), in which case Nin-Isina may be equated with Gula or Ninkarrak, disrupting the Sîn group here. This line diverges from Weidner’s reconstruction (1924-25: 10), where he reads the first name as Ninšer and the second as Harru for this exemplar. 
+
+15. !bs {d}amar-ra-he₂-e₃-[a?] & !cm [DUMU?.MUNUS?] {d}30
+#lem: +Amarra-hea[]DN$; mārat[daughter]N; Sin[1]DN
+
+#tr.en: @sup{d}Amarra-hea (is the) daughter of @sup{d}Sîn
+
+#note: Amarra-hea’s name is preserved as @akk{{d}amar-ra-he₂-e₃-a} in Cavigneaux 1981: 82-83 and Weidner 1924-25: 10. The copy shows I instead of HE₂ (GAN) and the second half of E₃ and the entire A sign are missing. 
+
+16. !bs [{d}]amar#-ra#-a#-[zu] & !cm DUMU.MUNUS {d}30
+#lem: +Amarra-azu[]DN$; mārat[daughter]N; Sin[1]DN
+
+#tr.en: @sup{d}Amarra-azu (is the) daughter of @sup{d}Sîn
+
+17. !bs [{d}]MUŠ₃ & !cm {d}iš-tar
+#lem: +Ištar[]DN$; Ištar[1]DN
+
+#tr.en: @sup{d}Ištar (is) @sup{d}Ištar
+
+18. !bs [{d}]dumu#-zi# & !cm {d}du-mu-[zi]
+#lem: +Dumuzi[]DN$; +Dumuzi[]DN$
+
+#tr.en: @sup{d}Dumuzi (is) @sup{d}Dumuzi
+
+19. !bs [{d}nin]-šubur?# & !cm {d}i#?-la#?-ab#?-rat 
+#lem: +Ninšubur[]DN$; +Ilabrat[]DN$
+
+#tr.en: [@sup{d}Ninšubur] (is) @sup{d}Ilabrat
+
+20. !bs [{d}pap-sukkal?] & !cm {d#}[i-la]-ab#-rat
+#lem: +Papsukkal[]DN$; Ilabrat[1]DN
+
+#tr.en: @sup{d}Papsukkal (is) @sup{d}Ilabrat
+
+#note: This reconstruction is very speculative, but see RlA 9: 492-93. The first column could instead contain an alternate spelling of Ninšubur. Weidner (1924-25: 11) does not record this line, with his edition going directly from Ninšubur to Nanaya. He does, however, remark upon the circular nature of Ninšubur—Ilabrat—Papsukkal, who are all identified with each other (1924-25: 11 fn. 2). For instance, note that Papsukkal is mentioned below in Col. I line 44 as equivalent to Ilabrat. One might speculate that the line is a dittography of the previous line and should be reconstructed as identical.
+
+21. !bs [{d}bi-zil₂]-la₂# & !cm {d#}[na-na]-a#-a
+#lem: +Bizilla[]DN$; +Nanaya[]DN$
+
+#tr.en: @sup{d}Bizilla (is) @sup{d}Nanaya
+
+#note: Weidner (1925-24: 11 fn. 4) claims that collation confirms the final @i{la}₂ in the first column but reads an @i{-e} in the second column of this line, as the copy seems to suggest, but notes in his following footnote “ist eventuell auch Zeile 21 als [@i{mārat }@sup{d}@i{Na-na}]@i{-a}(!) wiederherzustellen?” It seems possible that the @i{-e} in the copy is actually an @i{-a} and part of the confusion may come from the fact that there is meant to be a line directly previous to this one that reads Nanaya = Nanaya. That line is absent in this exemplar, perhaps due to a case of homeoteleuton that resulted in the conflation of the beginning and end of two different lines. Bizilla’s original equivalent is, therefore, lost in this exemplar.
+
+22. !bs [{d}ka-ni-sur]-ra & !cm DUMU#.MUNUS {d}[na-na-a-a]
+#lem: +Kanisurra[]DN$; mārat[daughter]N; Nanaya[1]DN
+
+#tr.en: [@sup{d}Kanisur]ra (is the) daughter of [@sup{d}Nanaya]
+
+#note: See RlA 5: 389 and Weidner 1924-25: 11 fn. 5.
+
+23. !bs [{d}]lu₂#-lal₃ & !cm {d}la-ta-[rak?]
+#lem: +Lulal[]DN$; La-tarak[1]DN
+
+#tr.en: @sup{d}Lulal (is) @sup{d}Latarak
+
+24. !bs [{d}la]-ta-ra-ak & !cm {d}la-ta#-[rak?]
+#lem: La-tarak[1]DN; La-tarak[1]DN
+
+#tr.en: @sup{d}Latarak (is) @sup{d}Latarak
+
+25. !bs [{d}]šara₂ & !cm DUMU.MUNUS {d#}[iš-tar]
+#lem: +Šara[]DN$; mārat[daughter]N; Ištar[1]DN
+
+#tr.en: @sup{d}Šara (is the) daughter of @sup{d}[Ištar]
+
+#note: Šara is usually the son of Ištar. Weidner (1924-25: 11) suggests for the second column “marat Marduk?” without further explanation.
+
+26. !bs [{d}]tišpak & !cm {d}ti-[iš-pa-ak]
+#lem: +Tišpak[]DN$; +Tišpak[]DN$
+
+#tr.en: @sup{d}Tišpak (is) @sup{d}Tišpak
+
+27. !bs [{d}]nin-a-zu & !cm {d}EN er#-ṣe#-ti#
+#lem: +Ninanzu[]DN$; Bel[1]DN; erṣeti[land]N
+
+#tr.en: @sup{d}Ninazu (is) lord of the underworld
+
+#note: Weidner (1924-25: 11) was able to read the two final signs, which are not rendered in the copy. See Col. II line 25 for Nirah having the same epithet.
+
+28. !bs [{d}]nin-girim₃ & !cm {d}nin-gi-ri#-[ma?]
+#lem: +Ningirima[]DN$; +Ningirima[]DN$
+
+#tr.en: @sup{d}Ningirima (is) @sup{d}Ningirima
+
+29. !bs {d#}UD & !cm {d}ša₂-maš
+#lem: +Šamaš[]DN$; Šamaš[1]DN
+
+#tr.en: The deified day (is) @sup{d}Šamaš
+
+#note: The reading UD rather than UTU is found in Cavigneaux 1981: 84 and the DCCLT edition, which notes that “this interpretation depends on the translation @i{ym} (day) in the Ugarit version.” 
+
+30. !bs {d}UTU & !cm {d}ša₂-maš
+#lem: Šamaš[1]DN; Šamaš[1]DN
+
+#tr.en: @sup{d}Šamaš (is) @sup{d}Šamaš
+
+#note: This line is missing in the other exemplars that preserve this section (Weidner 1924-25: 12). 
+
+31. !bs {d}a-a & !cm [DAM] [{d}]UTU#
+#lem: Aya[1]DN; aššata[wife]N; Šamaš[1]DN
+
+#tr.en: @sup{d}Aya (is) [the wife of @sup{d}Šamaš]
+
+#note: Weidner (1924-25: 12 fn. 3) claims that he can see the UTU sign clearly on the tablet for this and the two following lines, but that the determinative is missing in all three. 
+
+32. !bs {d}pap-nun-na & !cm [SUKKAL {d}]UTU#
+#lem: +Papnunna[]DN$; šukkal[minister]N; Šamaš[1]DN
+
+#tr.en: @sup{d}Papnunna (is the) [vizier of] @sup{d}Šamaš
+
+#note: The NUN is missing one vertical in the copy. The reconstruction is based on Weidner 1924-25: 12, but is consistent with Papnunna’s historical role (see RlA 10: 327). 
+
+33. !bs {d}bu-ne-ne & !cm SUKKAL# [{d}]UTU#
+#lem: +Bunene[]DN$; šukkal[minister]N; Šamaš[1]DN
+
+#tr.en: @sup{d}Bunene (is the) [vizier of] @sup{d}Šamaš
+
+34. !bs {d}ma-mu₂ & !cm {d}šu#-[ut?-tu₄?] 
+#lem: Mamu[1]DN; +Šuttu[]DN$
+
+#tr.en: @sup{d}Mamu (is) the divine Dream
+
+#note: Weidner (1924-25: 12) very tentatively reconstructs @akk{{d}šu₂-ut-tu}. This line is missing in the other exemplars that preserve this section.
+
+35. !bs {d}nin-pirig₃ & !cm {d}mu-u₂#?-[tu₄?]
+#lem: +Ninpirig[]DN$; +Mutu[]DN$
+
+#tr.en: @sup{d}Ninpirig (is) @sup{d}Mutum
+
+#note: See RlA 9: 481. This line is missing in the other exemplars that preserve this section (Weidner 1924-25: 12).
+
+36. !bs {d}nin-urta & !cm {d}[MAŠ?]
+#lem: Ninurta[1]DN; Ninurta[1]DN
+
+#tr.en: @sup{d}Ninurta (is) @sup{d}Ninurta
+
+#note: See RlA 9: 513. The reconstruction of MAŠ is given here based on the available space on the tablet.
+
+37. !bs {d}uraš & !cm {d}[MAŠ?]
+#lem: Uraš[1]DN; Ninurta[1]DN
+
+#tr.en: @sup{d}Uraš (is) @sup{d}Ninurta
+
+#note: See RlA 9: 513 for the equivalence between Uraš and Ninurta.
+
+38. !bs {d#}nin-e₂-gal & !cm {d}GAŠAN-[E₂].GAL
+#lem: +Ninegal[]DN$; +Belet-ekalli[]DN$
+
+#tr.en: @sup{d}Ninegal (is) @sup{d}Bēlet-Ekalli
+
+39. !bs [{d}]la-ga-ma-al & !cm {d}U.[GUR] 
+#lem: +La-Gamal[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}La-gamal (is) @sup{d}Nergal
+
+40. !bs [{d}]za-ba₄-ba₄ & !cm {d}[...]-x#
+#lem: Zababa[1]DN; u
+
+#tr.en: @sup{d}Zababa (is) @sup{d}DN
+
+#note: The traces in the second column of the copy look like the line should end in U.GUR but Weidner (1925-24: 13 fn. 3) claims to read Ninurta in collation. 
+
+41. !bs ila#-ba₄ & !cm {d}[ila]-ba#
+#lem: +Ilaba[]DN$; +Ilaba[]DN$
+
+#tr.en: Ilaba (is) @sup{d}Ilaba
+
+#note: Weidner (1924-25: 13) reads the line @sup{d}MAL (GA₂) & !cm @sup{d}Ninurta. DCCLT and other exemplars of the WGL start with Ilaba, Cavigneau (1981: 84-85) has GA₂ in this and the following line in the first subcolumn but does not suggest a reading. DCCLT gives the reading Ila-ba₄ for AN.GA₂.
+
+42. !bs ila#-ba₄ & !cm {d}[al?]-ba#
+#lem: Ilaba[1]DN; +Alba[]DN$
+
+#tr.en: Ilaba (is) @sup{d}Alba?
+
+#note: As with the previous line, Weidner (1924-25: 13) reads @sup{d}MAL(GA₂) & !cm @sup{d}Ninurta, noting that the D exemplar has @sup{d}Šamaš instead. See above note for Cavigneaux reading GA₂ in the first subcolumn.
+
+43. !bs [{d}]za-ba₄-ba₄ & !cm {d}[nin]-sig₇ 
+#lem: Zababa[1]DN; +Ninsig[]DN$
+
+#tr.en: @sup{d}Zababa (is) @sup{d}Ninsig
+
+#note: This line is found in only two exemplars in Weidner’s edition, both of which are Assyrian.
+
+44. !bs [{d}]pap-sukkal# & !cm {d#}[i-la]-ab#-rat
+#lem: Papsukkal[1]DN; Ilabrat[1]DN
+
+#tr.en: @sup{d}Papsukkal (is) @sup{d}Ilabrat
+
+45. !bs [{d}]nin-gir₂-su & !cm {d#}[nin-urta]
+#lem: Ningirsu[1]DN; Ninurta[1]DN
+
+#tr.en: @sup{d}Ningirsu (is) @sup{d}Ninurta
+
+46. !bs {d#}sak-kud & !cm {d#}x-x-[x]
+#lem: +Sakkud[]DN$; u
+
+#tr.en: @sup{d}Sakkud (is) @sup{d}DN
+
+#note: Weidner (1925-24: 13 fn. 12) tentatively suggests E-ta?-lak?, see also RlA 11: 530. 
+
+47. !bs {d#}mes-sag-unu{+ki} & !cm [{d}]NIGIN₂# AN
+#lem: +Mesagunuki[]DN$; X; u
+
+#tr.en: @sup{d}Mesagunuki (is) DN
+
+48. !bs {d#}ba-u₂ & !cm [{d}]gu#-la
+#lem: Bau[1]DN; Gula[1]DN
+
+#tr.en: @sup{d}Ba’u (is) @sup{d}Gula
+
+49. !bs [{d}]lugal#-banda₃{+da} & !cm {d#}MAŠ
+#lem: +Lugalbanda[]DN$; Ninurta[1]DN
+
+#tr.en: @sup{d}Lugalbanda (is) @sup{d}Ninurta
+
+50. !bs [{d}]nin-sun₂ & !cm {d#}gu#-la
+#lem: +Ninsun[]DN$; Gula[1]DN
+
+#tr.en: @sup{d}Ninsun (is) @sup{d}Gula
+
+51. !bs [{d}lugal-mar]-da#? & !cm {d#}MAŠ#
+#lem: +Lugalmarda[]DN$; Ninurta[1]DN
+
+#tr.en: @sup{d}Lugalmarda? (is) @sup{d}Ninurta
+
+@column 2
+
+1. !bs {d}šu-zi-[an-na & !cm {d}gu-la]
+#lem: +Šuzianna[]DN$; Gula[1]DN
+
+#tr.en: @sup{d}Šuzianna (is) @sup{d}Gula
+
+#note: Weidner (1924-25: 14) reads šu₂. This manuscript skips a line that equates Imzianna with Gula.
+
+2. !bs {d}ku₃-nun#-[na & !cm {d}gu-la]
+#lem: +Kununna[]DN$; Gula[1]DN
+
+#tr.en: @sup{d}Kununna (is) @sup{d}Gula
+
+3. !bs {d}en#-[ki] & !cm [{d}e₂-a]
+#lem: +Enki[]DN$; Ea[1]DN
+
+#tr.en: @sup{d}Enki (is) @sup{d}Ea
+
+4. !bs {d#}[e₂]-a & !cm [{d}e₂-a]
+#lem: Ea[1]DN; Ea[1]DN
+
+#tr.en: @sup{d}Ea (is) @sup{d}Ea
+
+5. !bs {d#}dam#-gal#-nun#-an-na & !cm [DAM {d}e₂-a]
+#lem: +Damgalnunna[]DN$; aššat[wife]N; Ea[1]DN
+
+#tr.en: @sup{d}Damgalnunna (is) the wife of @sup{d}Ea
+
+6. !bs {d#}[dam]-ki#-an-na & !cm DAM [{d}e₂-a]
+#lem: Damkianna[1]DN; aššat[wife]N; Ea[1]DN
+
+#tr.en: @sup{d}Damkianna (is) the wife of @sup{d}Ea
+
+7. !bs {d}ara & !cm {d}[us-mu-u]
+ 
+#lem: +Ara[]DN$; +Usmu[]DN$
+
+ 
+
+#tr.en: @sup{d}Ara (is) @sup{d}Usmu
+
+8. !bs {d}ID₂ & !cm {d}[x-x]
+#lem: Id[River]DN; u
+
+#tr.en: The river god (is) DN
+
+9. !bs {d}[...] BAD & !cm {d}[...] ŠU#?
+#lem: u; u; u; u
+
+#tr.en: …
+
+#note: Weidner (1925-24: 15) reads @akk{{d}id₂-lu₃-ru-gu₃} (the river ordeal) for the first name, which is also in the DCCLT edition.
+
+10. !bs [{d}]ki-sag₉# & !cm {d}[dam]-ki-na
+ 
+#lem: +Kisag[]DN$; +Damkina[]DN$
+
+ 
+
+#tr.en: @sup{d}Kisag (is) @sup{d}Damkina
+
+11. !bs [{d}]asar-lu₂-hi & !cm [{d}]AMAR.UTU
+#lem: Asalluhi[1]DN; Marduk[1]DN
+
+#tr.en: @sup{d}Asarluhhi (is) @sup{d}Marduk
+
+12. !bs {d}AMAR.UTU & !cm {d}AMAR.UTU
+#lem: Marduk[1]DN; Marduk[1]DN
+
+#tr.en: @sup{d}Marduk (is) @sup{d}Marduk
+
+13. !bs {d#}[zar-pa-ni-tu₄] & !cm {d}[zar]-pa#-ni-tu₄
+#lem: Zarpanitu[1]DN; Zarpanitu[1]DN
+
+#tr.en: @sup{d}Zarpanitum (is) @sup{d}Zarpanitum
+
+14. !bs {d#}[na-bi-um] & !cm {d}MUATI
+#lem: Nabium[1]DN; Nabu[1]DN
+
+#tr.en: @sup{d}Nabu (is) @sup{d}Nabu
+
+#note: The DCCLT edition reconstructs the first names in line 14 and 15 in the opposite order (i.e. AK in this line, na-bi-um in the next) but Weidner (1924-25: 15) gives this sequence. The copy does not clarify the issue.  
+
+15. !bs {d}[AG] & !cm {d}MUATI
+#lem: Nabu[1]DN; Nabu[1]DN
+
+#tr.en: @sup{d}Nabu (is) @sup{d}Nabu
+
+#note: Weidner (1924-25: 15 fn. 7) suggests that, since this line does not appear in the Old Babylonian versions, AK is a later writing for Nabu’s name. See also the note to line 14. 
+
+16. !bs {d}taš#-[me-tu₄] & !cm {d}taš-me-tu₄#
+#lem: Tašmetu[1]DN; Tašmetu[1]DN
+
+#tr.en: @sup{d}Tašmetum (is) @sup{d}Tašmetum
+
+17. !bs {d#}[a-ra-ah-tu₄] & !cm {d#}su#?-ti#-tu₄#?
+#lem: Arahtu[1]DN; +Sutitu[]DN$
+
+#tr.en: @sup{d}Arahtum (is) @sup{d}Sutitum
+
+#note: Weidner (1924-25 15) notes that the Neo-Assyrian exemplars skip a line that equates Mamme with a deity whose name is lost. 
+
+18. !bs [{d}ṣil₂-uš-DU₁₀] & !cm {d}su-ti-tu₄
+#lem: +Ṣilluš-ṭab[]DN$; Sutitu[1]DN
+
+#tr.en: @sup{d}Ṣilluš-ṭāb (is) @sup{d}Sutitum
+
+#note: The reading of the first name follows DCCLT and An = @i{Anu} col. II line 260.
+
+19. !bs [{d}KA.DI] & !cm [{d}]il#-tar#?-an
+#lem: Ištaran[1]DN; +Ištaran[]DN$Iltaran
+
+#tr.en: @sup{d}Ištaran (is) @sup{d}Iltaran
+
+20. !bs [AN.GAL] & !cm {d}il-tar#-an
+#lem: Angal[1]DN; Iltaran[1]DN
+
+#tr.en: Anu @i{rabû} (is) @sup{d}Iltaran
+
+#note: Anu @i{rabû} “Great Anu” is another name for Ištaran.
+
+21. !bs [{d}kur-gal] & !cm {d}MAR.TU
+#lem: +Kurgal[]DN$; Amurru[1]DN
+
+#tr.en: @sup{d}Kurgal (is) @sup{d}Amurru
+
+22. !bs {d#}[DI].KU₅# & !cm {d}man-da-nu
+#lem: Madānu[1]DN; +Madānu[]DN$Mandānu
+
+#tr.en: @sup{d}Mandanu (is) @sup{d}Mandanu
+
+23. !bs {d#}qudma# & !cm {d}man-da-nu
+#lem: +Madānu[]DN$; Mandānu[1]DN
+
+#tr.en: @sup{d}Qudma (is) @sup{d}Mandanu
+
+#note: For the reading of the sign KU₅ in this and the following line, see the DCCLT edition. 
+
+24. !bs {d#}qadma# & !cm {d}man-da-nu
+#lem: +Madānu[]DN$; Mandānu[1]DN
+
+#tr.en: @sup{d}Qadma (is) @sup{d}Mandanu
+
+#note: See note above. 
+
+25. !bs {d}nirah# & !cm {d}EN# er-ṣe-ti
+#lem: +Nirah[]DN$; Bel[1]DN; erṣeti[land]N
+
+#tr.en: @sup{d}Nirah (is) the lord of the underworld
+
+#note: Cf. Col. I line 27, where Ninazu is given the same epithet.
+
+26. !bs {d#}[i-šar-ma-ti-su] & !cm {d}U.GUR#
+#lem: +Išar-matissu[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Išar-matissu (is) @sup{d}Nergal
+
+#note: See RlA 5: 173 for Išar-names. The reconstructions for the writing and reading of the first names in this and the following Nergal names are in DCCLT and Weidner 1924-25: 16-17.  
+
+27. !bs [{d}i-šar-ki-di-su] & !cm {d}U.GUR#
+#lem: +Išar-kidissu[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Išar-kidissu (is) @sup{d}Nergal
+
+28. !bs [{d}i-šar-ne]-ri#-su# & !cm {d}U.GUR#
+#lem: +Išar-nerissu[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Išar-nerissu (is) @sup{d}Nergal
+
+#note: The copy shows some traces for the first name, possibly part of @i{-ri} and the beginning of @i{-su}.
+
+29. !bs [{d}i-šar-a-li-su] & !cm [{d}U.GUR]
+#lem: +Išar-alissu[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Išar-alissu (is) @sup{d}Nergal
+
+30. !bs [{d}i-šar-pad₃-da] & !cm [{d}]U#.GUR#
+#lem: +Išar-padda[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Išar-padda (is) @sup{d}Nergal
+
+31. !bs [{d}nergal] & !cm {d#}U.GUR
+#lem: Nergal[1]DN; Nergal[1]DN
+
+#tr.en: @sup{d}Nerigal (is) @sup{d}Nergal
+
+32. !bs [{d}er₃-ra] & !cm {d}U.GUR
+#lem: Erra[1]DN; Nergal[1]DN
+
+#tr.en: @sup{d}Irra (is) @sup{d}Nergal
+
+#note: The appearance of Irra between Nerigal and Irragal diverges from the DCCLT edition, which has Irragal coming first. 
+
+33. !bs [{d}ir]-ra#-gal# & !cm {d}U.GUR
+#lem: +Irragal[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Irragal (is) @sup{d}Nergal
+
+#note: Weidner (1924-25: 17 fn. 5) was able to read @i{-ra-gal} through collation. 
+
+34. !bs [{d}ir]-ra#-kal# & !cm {d}U.GUR
+#lem: +Irrakal[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Irrakal (is) @sup{d}Nergal
+
+#note: Weidner (1924-25: 17 fn. 5) was able to read @i{-kal} through collation.
+
+35. !bs [{d}]ma#-ma# & !cm DAM-su
+#lem: Mama[1]DN; aššassu[wife]N
+
+#tr.en: @sup{d}Mama (is) his wife
+
+#note: The signs in the copy look like “Ningal,” but Weidner (1924-25: 17 fn. 7) read @akk{DAM-su} through collation.
+36. !bs {d#}ma-mi# & !cm {d}nin-me?#
+#lem: Mami[1]DN; +Ninme[]DN$
+
+#tr.en: @sup{d}Mami (is) @sup{d}Ninme
+
+#note: Other exemplars switch the order of lines 35 and 36 (Weidner 1924-25: 17 fn. 7).
+
+37. !bs {d}ma#-lik# & !cm {d}U#.GUR#
+#lem: +Malik[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Malik (is) @sup{d}Nergal
+
+38. !bs {d}ur#-[ma]-šum# & !cm {d}za-ba₄-ba₄
+#lem: +Urmašum[]DN$; Zababa[1]DN
+
+#tr.en: @sup{d}Urmašum (is) @sup{d}Zababa
+
+#note: Weidner (1924-25: 17 fn. 9) could read part of @i{-šum} through collation.
+
+39. !bs {d}šu#-[bu]-la₂# & !cm {d}U.GUR
+#lem: +Šubula[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Šubula (is) @sup{d}Nergal
+
+#note: Weidner (1924-25: 17 fn. 11) could read @i{-la}₂ through collation. This exemplar moves a line that equates @sup{d}Laṣ with @sup{d}Baʾu from preceding this line to Col. II line 41, below, but in reverse order.
+
+40. !bs {d}i#-šum# & !cm {d}U.GUR
+#lem: Išum[1]DN; Nergal[1]DN
+
+#tr.en: @sup{d}Išum (is) @sup{d}Nergal
+
+41. !bs {d}ba-u₂ & !cm {d}la-aṣ
+#lem: Bau[1]DN; Laṣ[1]DN
+
+#tr.en: @sup{d}Ba’u (is) @sup{d}Laṣ
+
+#note: This exemplar swaps the order of the deities here, see note to Col. II line 39 above. If this was done purposefully, it may suggest that Laṣ was the more familiar deity to an Assyrian scribe.
+
+42. !bs {d}nin-mug & !cm {d}me-me
+#lem: +Ninmug[]N$; +Meme[]DN$
+
+#tr.en: @sup{d}Ninmug (is) @sup{d}Meme
+
+43. !bs {d}nin-maš & !cm {d}mu-lil-tu₄#
+#lem: +Ninmaš[]DN$; +Muliltu[]DN$
+
+#tr.en: @sup{d}Ninmaš (is) @sup{d}Mulliltum
+
+#note: Weidner (1924-25: 18 fn. 3) thought the reading Mulliltu was not very likely, but if TUM is read (rendered erroneously in the copy as DU.I), it would confirm that reading, see also RlA 9: 469.
+
+44. !bs {d}saggar₂ & !cm {d}AMAR-re-e
+#lem: +Saggar[]DN$; +Amarre[]DN$
+
+#tr.en: @sup{d}Saggar (is) @sup{d}AMAR-re
+
+45. !bs {d}šullat₂ & !cm {d}ša₂-maš
+#lem: +Šullat[]DN$; Šamaš[1]DN
+
+#tr.en: @sup{d}Šullat (is) @sup{d}Šamaš
+
+46. !bs {d}haniš₂# & !cm {d}IŠKUR
+#lem: +Haniš[]DN$; Adad[1]DN
+
+#tr.en: @sup{d}Haniš (is) @sup{d}Adad
+
+47. !bs {d}ebih & !cm {d}IŠKUR#
+#lem: +Ebih[]DN$; Adad[1]DN
+
+#tr.en: @sup{d}Ebih (is) @sup{d}Adad
+
+@column 3
+
+$ 9 lines missing
+
+10. !bs {d}[...]
+#lem: u
+
+#tr.en: …
+
+#note: Weidner (1924-25: 71) suggests “@sup{d}Dilbat (is) @sup{d}Ištar,” the DCCLT edition has the deity A’ušar where this line would fall.
+ 
+11. !bs {d}x# [...]
+#lem: u; u
+
+#tr.en: …
+
+#note: The copy gives only the first wedge of the divine name; Weidner (1924-25: 72) tentatively suggests PAP, and DCCLT’s edition of the Weidner God List has the god Ašgi (written aš₇aš-gi₄) in the list above the next god. 
+
+12. !bs {d}pap-nigin₃-[gar-ra & !cm ...]
+#lem: +Papnigingarra[]DN$; u
+
+#tr.en: @sup{d}Papnigingarra (is) …
+
+#note: Weidner (1924-25: 72) suggests Ninurta in the second place based on other material.
+
+13. !bs {d}šakkan₂# & !cm [...]
+#lem: +Šakkan[]DN$; u
+
+#tr.en: @sup{d}Šakkan (is) …
+
+#note: This diverges from Weidner’s edition, which has Nergal instead. Weidner (1924-25: 72) suggests that the second place is Nergal from this line through line 17, which extends the Nergal group preserved in lines 18-20 so that it begins here. 
+
+14. !bs {d}lugal-ir₉-ra & !cm [...]
+#lem: +Lugalirra[]DN$; u
+
+#tr.en: @sup{d}Lugalirra (is) …
+
+15. !bs {d}mes-lam-ta-e₃-a & !cm [...] 
+#lem: +Meslamtaeʾa[]DN$; u
+
+#tr.en: @sup{d}Meslamtaeʾa (is) X
+
+16. !bs {d}lugal-{giš}šinig & !cm {d}[...]
+#lem: +Lugal-Šinig[]DN$; u
+
+#tr.en: @sup{d}Lugal-@sup{giš}Šinig (is) DN
+
+17. !bs {d}lugal-{giš}asal₂ & !cm {d}[...]
+#lem: +Lugal-Asal[]DN$; u
+
+#tr.en: @sup{d}Lugal-@sup{giš}Asal (is) DN
+
+18. !bs {d}lugal-{giš}ur₃ & !cm {d}U.GUR#
+#lem: +Lugal-Ur[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Lugal-@sup{giš}Ur (is) @sup{d}Nergal
+
+19. !bs {d}lugal-{giš}gišimmar & !cm {d}U.GUR
+#lem: +Lugal-Gišimmar[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Lugal-@sup{giš}Gišimmer (is) @sup{d}Nergal
+
+20. !bs {d}si-mu-ut & !cm {d}U.GUR
+#lem: +Simut[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Simut (is) @sup{d}Nergal
+
+21. !bs {d}[la]-aṣ & !cm NIN eridu{ki}
+#lem: Laṣ[1]DN; ahāti[sister]N; X
+
+#tr.en: @sup{d}Laṣ (is) the lady of Eridu
+
+22. !bs {d}[nin]-ka#-si# & !cm DAM {d}si-ri-si
+#lem: +Ninkasi[]DN$; aššata[wife]N; +Sirisi[]DN$
+
+#tr.en: @sup{d}Ninkasi (is) the wife of @sup{d}Sirisi
+
+23. !bs {d}[siraš] & !cm [...]-ra#?-nu?#
+#lem: +Siraš[]DN$; u
+
+#tr.en: @sup{d}Siraš (is) …
+
+#note: Weidner (1924-25: 72 fn. 10) suggests @akk{a-ri-tu₄} in second half.
+
+24. !bs {d}ku-nun-na & !cm {d}MIN
+#lem: +Kununna[]DN$; X
+
+#tr.en: @sup{d}Kununna (is) Ditto
+
+#note: The divine name in the second space is the one that is lost in the previous line. This format is used in god-lists such as @i{An = Anum}. 
+
+25. !bs {d}nun-gal & !cm {d}MIN
+#lem: +Nungal[]DN$; X
+
+#tr.en: @sup{d}Nungal (is) Ditto
+
+#note: See note above. The fourth vertical of NUN is consistently missing, but the writing of Eridu and then NUN elements in following divine names may be the connecting principle here.
+
+26. !bs {d}ma-nu-gal & !cm {d#}ma-nu-qu
+#lem: Manugal[1]DN; +Manuqu[]DN$
+
+#tr.en: @sup{d}Manugal (is) @sup{d}Manuqu
+
+#note: Weidner (1924-25: 73) suggests the second writing is the phonetic pronunciation. DCCLT has @sup{d}ma-gal-la before this line.  
+
+27. !bs {d}egi#-zi & !cm {d#}nin-giš-zi-da
+#lem: X; Ningišzida[1]DN
+
+#tr.en: @sup{d}Egizi (is) @sup{d}Ningizzida
+
+#note: The DCCLT edition has @akk{{d}egi-zi-da}, allowing secure restoration even though Weidner (1924-25: 73) has zi₂(d)?-zi. See line 42 for Ningizzida again. 
+
+28. !bs {d}ereš#-[ki-gal] & !cm {d#}[al]-la#-tu₄#
+ 
+#lem: Ereškigal[1]DN; Allatu[1]DN
+
+ 
+
+#tr.en: @sup{d}Ereškigal (is) @sup{d}Allatum
+
+29. !bs {d#}[al-la-tu₄] & !cm {d}[al]-la#-tu₄#
+#lem: Allatu[1]DN; Allatu[1]DN
+
+#tr.en: @sup{d}Allatum (is) @sup{d}Allatum
+
+#note: Reconstruction of lines 29-32 follows Weidner’s (1924-25: 73) collation of the tablet. 
+
+30. !bs {d#}[ir-kal-la] & !cm {d}al-la-[tu₄]
+#lem: +Irkalla[]DN$; Allatu[1]DN
+
+#tr.en: @sup{d}Irkalla (is) @sup{d}Allatum
+#note: Reconstruction of lines 29-32 follows Weidner’s (1924-25: 73) collation of the tablet. 
+31. !bs {d#}[ir-ni]-na# & !cm {d}U.[GUR]
+#lem: +Irnina[]DN$; Nergal[1]DN
+
+#tr.en: @sup{d}Irnina (is) @sup{d}Nergal
+#note: Reconstruction of lines 29-32 follows Weidner’s (1924-25: 73) collation of the tablet. 
+32. !bs [{d}lama₃-ir-ni]-na# & !cm {d}iš-tar
+#lem: +Lama-irnina[]DN$; Ištar[1]DN
+
+#tr.en: @sup{d}Lama-irnina (is) @sup{d}Ištar
+#note: Reconstruction of lines 29-32 follows Weidner’s (1924-25: 73) collation of the tablet. 
+33. !bs {d}du₈#-du₈ & !cm {d}gu-ba-ba#
+#lem: +Dudu[]DN$; +Gubaba[]DN$
+
+#tr.en: @sup{d}Dudu (is) @sup{d}Gubaba
+
+34. !bs {d}da-da & !cm {d}MAŠ#
+#lem: +Dada[]DN$; Ninurta[1]DN
+
+#tr.en: @sup{d}Dada (is) @sup{d}Ninurta
+
+35. !bs {d}tu-tu & !cm {d}AMAR.UTU#
+#lem: Tutu[1]DN; Marduk[1]DN
+
+#tr.en: @sup{d}Tutu (is) @sup{d}Marduk
+
+36. !bs {d}tu-ba-ak & !cm {d}iš-[tar]
+#lem: +Tubak[]DN$; Ištar[1]DN
+
+#tr.en: @sup{d}Tubak (is) @sup{d}Ištar
+
+37. !bs {d}alla & !cm {d}iš-tar#
+#lem: +Alla[DN]$; Ištar[1]DN
+
+#tr.en: @sup{d}Alla (is) @sup{d}Ištar
+
+#note: @akk{NAGAR} is read here as @i{alla}, following DCCLT and MZL: 454.
+
+38. !bs {d}alla & !cm {d}iš-tar
+#lem: Alla[DN]DN; Ištar[1]DN
+
+#tr.en: @sup{d}NAGAR (is) @sup{d}Ištar
+
+#note: It is not clear how the sign NAGAR should be read in this and the following line; possibly they should again be @sup{d}Alla, like in line 37. 
+
+39. !bs {d}alla & !cm {d}iš-tar
+#lem: Alla[DN]DN; Ištar[1]DN
+
+#tr.en: @sup{d}NAGAR (is) @sup{d}Ištar
+
+#note: See note above
+
+40. !bs {d}lugal-šud₃-de₃ & !cm {d}MAŠ
+#lem: +Lugalšudde[]DN$; Ninurta[1]DN
+
+#tr.en: @sup{d}Lugalšudde (is) @sup{d}Ninurta
+
+41. !bs {d}uttu & !cm DUMU.MUNUS {d}a-nu
+#lem: +Uttu[]DN$; mārat[daughter]N; Anu[1]DN
+
+#tr.en: @sup{d}Uttu (is) the daughter of @sup{d}Anu
+
+42. !bs {d}nin-giz-zi-da & !cm {d}ni-gi-zi#-[da]
+#lem: +Ningišzida[]DN$Ningizida; +Ningišzida[]DN$Ningizida
+
+#tr.en: @sup{d}Ningizzida (is) @sup{d}Nigizzida 
+
+#note: The second spelling looks phonetic, favoring this rendering of the GIŠ sign rather than Ningišzida. 
+
+43. !bs {d}nin-imma₃ & !cm {d}ni-[...]
+#lem: Ninimma[1]DN; u
+
+#tr.en: @sup{d}Ninimma (is) @sup{d}Ni-[…]
+
+#note: probably a syllabic spelling of Ninimma
+
+44. !bs {d}nin-mu₂ & !cm {d}[...]
+#lem: +Ninmu[]DN$; u
+
+#tr.en: @sup{d}Ninmu (is) DN
+
+#note: This diverges from the DCCLT edition. 
+
+45. !bs {d}kal#-kal & !cm {d}[...]
+#lem: +Kalkal[]DN$; u
+
+#tr.en: @sup{d}Kalkal (is) DN
+
+46. !bs {d}šul-gi & !cm {d#}[...]
+#lem: Šulgi[1]'DN; u
+
+#tr.en: @sup{d}Šulgi (is) DN
+
+47. !bs {d}šul-pa-e₃-a & !cm {d#}[...]
+#lem: +Šulpaeʾa[]DN$; u
+
+#tr.en: @sup{d}Šulpaeʾa (is) DN
+
+48. !bs {d}ab#-u₂# & !cm [...]
+#lem: +Abu[]DN$; u
+
+#tr.en: @sup{d}Abu (is) …
+
+@column 4
+
+1. !bs {d}gu-[...] & !cm [...]
+#lem: u; u
+
+#tr.en: …
+
+#note: See Weidner 1924-25: 75 fn. 6 for the restoration of this line.
+
+2. !bs {d}tu-[...] & !cm [...]
+#lem: u; u
+
+#tr.en: …
+
+#note: See Weidner 1924-25: 75 fn. 7 for the restoration of this line.
+
+3. !bs [{d}]bi?-[...] & !cm [...]
+#lem: u; u
+
+#tr.en: …
+
+#note: See Weidner 1924-25: 75 fn. 7 for the restoration of this line.
+
+4. !bs [{d}]nin?#-[...] & !cm [...]
+#lem: u; u
+
+#tr.en: …
+
+#note: See Weidner 1924-25: 75 fn. 7 for the restoration of this line. Weidner (1924-25: 75 fn. 9) writes that the recension here is longer than the other exemplar that partially preserves this section of the text (manuscript F in his edition) and that “es ist sehr leicht möglich, daß diese Zeilen der neuassyrischen Rezension A in der altbabylonischen Rezension ganz fehlten. Die Zeilen 4-20 von A IV sind in der ersten Spalte völlig abgebröckelt. In der zweiten Spalte der Zeilen 13-17 ist dagegen, fünfmal untereinander, @akk{{d}iš-tar} noch zeimlich deutlich zu erkennen, doch bleibt auch hier das Verhältnis dieser fünf Zeilen zu F V völlig ungeklärt.”
+
+$ 18 lines missing
+
+
+23. !bs {d}[nin-kar-ra-ak] & !cm {d}[gu-la]
+#lem: +Ninkarrak[]DN$; Gula[1]DN
+
+#tr.en: @sup{d}Ninkarrak (is) @sup{d}Gula 
+
+24. !bs {d#}pa-sag#-ga₂ & !cm {d}i-[šum]
+#lem: +Pasaga[]DN$; Išum[1]DN
+
+#tr.en: @sup{d}Pasaga (is) @sup{d}Išum
+
+#note: The copy preserves the determinative and what looks like a MAŠ at the end of the first subcolumn, but see Weidner 1924-25: 76 fn. 1 for the restoration of this line. The expected divine name here is Pabilsag or Hendursag (see DCCLT). 
+
+25. !bs {d}[ku₃]-bu & !cm {d}i-[šum]
+#lem: Kubu[]DN; Išum[1]DN
+
+#tr.en: @sup{d}Kubu (is) Išum
+
+#note: Weidner 1924-25: 76 fn. 3 
+
+26. !bs {d}ku₃-[su₃] & !cm {d}nisaba[{+ba?}]
+#lem: +Kusu[]DN$; +Nissaba[]DN$
+
+#tr.en: @sup{d}Kusu (is) @sup{d}Nisaba
+
+27. !bs {d#}[nin-x] & !cm {d}[gu-la]
+#lem: u; Gula[1]DN
+
+#tr.en: DN (is) @sup{d}Gula
+
+28. !bs [...] & !cm {d}[gu]-la#
+#lem: u; Gula[1]DN
+
+#tr.en: DN (is) @sup{d}Gula
+
+29. !bs [...] & !cm [{d}gu]-la
+#lem: u; Gula[1]DN
+
+#tr.en: DN (is) @sup{d}Gula
+
+30. !bs [{d}nin-x] & !cm [{d}gu]-la
+#lem: u; Gula[1]DN
+
+#tr.en: @sup{d}Nin-x (is) @sup{d}Gula
+
+31. !bs [...] & !cm {d}e₂-a
+#lem: u; Ea[1]DN
+
+#tr.en: DN (is) @sup{d}Ea
+
+#note: The copy clearly shows Ea in the second subcolumn, but Weidner (1924-25: 76) reads Marduk (@akk{{d}mar-duk}), although a syllabic spelling of Marduk is quite unusual. He tentatively restores @akk{{d}AMAR.UTU} in the first column, though, which would suggest that the syllabic spelling is a phonetic rendering of the logograms. Another option is that the first name is actually @akk{{d}MAR.TU₂} (Amurru), who is associated with Ea. 
+
+32. !bs {d}IŠKUR & !cm {d}a-ad#?-da#?
+#lem: Adad[1]DN; +Adad[]DN$
+
+#tr.en: @sup{d}Adad (is) @sup{d}Adad
+
+33. !bs {d}IŠKUR & !cm {d}a-da-ad#?
+#lem: Adad[1]DN; X
+
+#tr.en: @sup{d}Adad (is) @sup{d}Adad
+#note: The reading of the line this follows Weidner’s collation (Weidner 1924-25: 76 fn. 7).
+
+34. !bs {d}ša-la & !cm DAM [{d}IŠKUR]
+#lem: Šala[1]DN; aššata[wife]N; Adad[1]DN
+
+#tr.en: @sup{d}Šala (is) the wife of @sup{d}Adad
+
+#note: Instead of @i{aššat} Adad, Weidner (1924-25: 76 fn. 9) reads NIN DUG₂.G[A], i.e. @i{bēltu ṭābtu}, “the good lady,” suggesting that it is an explanation of the goddess’s name. 
+
+35. !bs {d}mi-ša!-[ru₃] & !cm DUMU# [...]
+#lem: +Mišaru[]DN$; māru[son]N; u
+
+#tr.en: @sup{d}Mišarum (is) the son of Šamaš?
+
+#note: Weidner (1924-25: 76) suggests Šamaš without explanation, but presumably this is because @i{mīšarum} means “justice,” which Šamaš is affiliated with as the divine judge.
+ 
+36. !bs {d}iš-ha#-ra & !cm DUMU#.[MUNUS? ...]
+#lem: Išhara[1]DN; mārat[daughter]N; u
+
+#tr.en: @sup{d}Išhara (is) the daughter of […]
+
+#note: See Weidner (1924-25: 77 fn. 2) for the collation and how the order in lines 35-39 in this exemplar is different from the other exemplar that preserves this section.
+
+37. !bs {d}maš-da-ad & !cm DUMU#? [...]
+#lem: +Mašdad[]DN$; māru[son]N; u
+
+#tr.en: @sup{d}Mašdad (is) the child of […]
+
+38. !bs {d}nin-geštin-an-na & !cm {d#}[...]
+#lem: +Ningeštinanna[]DN$; u
+
+#tr.en: @sup{d}Ningeštinanna (is) […]
+
+39. !bs {d}i-[nu]-bu-um & !cm [...] 
+#lem: +Inubum[]DN$; u
+
+#tr.en: @sup{d}Inubum (is) […]
+
+#note: See Weidner (1924-25: 77 fn. 3) for collation. See Weidner (1924-25: 77) for the missing lines from other exemplars, with the caveat that they might differ from what was actually on this tablet.
+
+$ about 4-5 lines missing
+
+@column 5
+
+1'. !bs {d}še-[ru₃] & !cm [...]
+#lem: +Šeru[]DN$; u
+
+#tr.en: @sup{d}Šeru […]
+
+2'. !bs {d}nisaba-GAL & !cm [{d}a-ru-ru]
+#lem: +Nisabagal[]DN$; +Aruru[]DN$
+
+#tr.en: @sup{d}Nisaba-gal (is) @sup{d}Aruru
+
+#note: See Weidner 1924-25: 78 for the collation.
+
+3'. !bs {d}TIR.AN.NA & !cm [...] 
+#lem: Manzat[Rainbow]DN; u
+
+#tr.en: @sup{d}Manzat […]
+
+4'. !bs {d}mah-di-an-na & !cm [...]
+#lem: +Mahdianna[]DN$; u
+
+#tr.en: @sup{d}Mahdianna […]
+#note: See Weidner 1924-25: 78 fn. 6 for the collation.
+5'. !bs {d}me-te#-[an-na] & !cm {d}[...]
+#lem: +Meteanna[]DN$; u
+
+#tr.en: @sup{d}Meteanna (is) […]
+
+#note: See Weidner 1924-25: 78 for the restoration and 78 fn. 8 for the suggestion that the traces in the second subcolumn read @akk{KASKAL}.
+
+6'. !bs {d#}[...] & !cm [...]
+#lem: u; u
+
+#tr.en: …
+
+#note: See Weidner 1924-25: 78 for the name @sup{d}Kabta in the first subcolumn. For the following lines, he claims in footnote 10 that lines 7’-10’ preserve the divine determinative in the second subcolumn. 
+
+1''. !bs {d#}KASKAL#.KUR & !cm {d#}[...]
+#lem: +Ilat[]DN$; u
+
+#tr.en: @sup{d}Ilat (is) DN
+
+2''. !bs {d}KASKAL.KUR & !cm {d#}[...]
+#lem: Ilat[1]DN; u
+
+#tr.en: @sup{d}Ilat (is) DN
+
+@column 6
+
+$ beginning of column broken
+
+1'. !zz la? BA.E₃ x# [... & ...]
+#lem: lā[not]MOD; bari[checked]AJ; u; u; u
+
+#tr.en: @i{Not} checked […]
+
+#note: This looks like a colophon but not enough is left to read it securely. The copy prefaces this fragment with “von den 9 Zeilen der Kolumne VI enthielten Zeile 2 bis 4, was aus Resten urkennbar ist, Namen der Göttin Ištar . . . unter der 9 Zeilen links der Schlußstrich erhalten; Rest der Kolumne leer, extra in der Mitte des freien Raumes [this line].” 

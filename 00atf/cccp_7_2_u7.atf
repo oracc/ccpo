@@ -1,0 +1,38 @@
+&P237395 = CCP 7.2.u7 (http://ccp.yale.edu/P237395) = 83-1-18,725
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$ beginning of tablet missing
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...] x# x# x# x# x# $PA : a-na x# [...]
+#lem: u; u; u; u; u; u; u; ana[to]PRP; u; u
+
+3'. !zz [...] x# x# hi-ṭu ša₂ DINGIR-MEŠ [(x)] ša₂ IGI ŠU₂-ma !cm : ana ra-bu#-[u₂? ...]
+#lem: u; u; u; hīṭu[error]N; ša[that]REL; ilī[god]N; u; ša[of]DET; +pānu[face]N$; irbima[disappear]V; ana[according to]PRP; +rabû[set//setting]V'N$; u
+
+#note: The second legible word could also be @i{šāʾilu}, "diviner.:
+4'. !zz [... !bs KU₃.GI] !cm : hu-ra-ṣu : !bs BAR{+tu₂} !cm : a-hi-tu₂ : !bs A.RI.A !cm : ri#-[hu-tu₂ !zz ...]
+#lem: u; +hurāṣu[gold]N$; +hurāṣu[gold]N$; +ahû[outside(r)]N$ahītu; +ahû[outside(r)]N$ahītu; +rihûtu[progeny]N$; +rihûtu[progeny]N$; u
+#note: @akk{A.RI.A} is also explained as @i{rihûtu} in @i{BRM} 4 32 l. 5 (@i{CCP} 4.2.M.a).
+
+5'. !zz [...]-mit !cm : ša₂-niš GEŠTIN la hi-i-qa !zz : $BAD $TU x#-x#-x# [...]
+#lem: u; šanîš[alternatively]AV; karāni[wine]N; lā[not]MOD; +hīqu[mixed]AJ$hīqa; u; u; u; u
+
+6'. !zz [...] ŠU#-MIN# liš?#-x#-x# x# x#-tu#-mu# [...]
+#lem: u; qāt[hand]N; u; u; u; u
+
+$ rest of tablet missing
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] ... "@i{sin of the gods}, whose face is covered over," (@i{šú} (?) derives) from "@i{to set}" [...].
+4'. [... @i{kugi}] means "gold"; @i{bar-tú} means "extraneous"; @i{aria} means "pr[ogeny" ...].
+5'. [...] alternatively, it means "unmixed wine." ... [...]
+6'. [...] hands ... [...]

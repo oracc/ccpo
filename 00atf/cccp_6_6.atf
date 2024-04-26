@@ -1,0 +1,254 @@
+&P461061 = CCP 6.6 (http://ccp.yale.edu/P461061) = FLP unn72
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz [x (x)] x# x# KU : !bs %sux dur !cm %sb : MURUB₄{+u₂} : !bs %sux ki dili !cm %sb : it#-te-eš-šu₂?# !zz [...]
+#lem: u; u; u; u; X; +endur[navel?]N/dur#~; +qablû[central]AJ$; ki[place]; dili[single]; +ištēn[one]NU$ištēššu; u
+
+#note: As noted by Leichty, the equation @akk{DUR} = @i{qablû}, which occurs again in l. 10, probably relates to the term for Sumerian infix, @akk{MURUB₄}, which is equated with @i{qablītu} in @i{Examenstext A} 16. Leichty proposes that the equation of @akk{MURUB₄{+u₂}}with @akk{DUR} may be due to the rare equation @akk{DUR} = @i{abunnatu} (“navel, umbilical cord”), which is attested in the lexical list Aa @akk{A} = @i{nâqu} (Tablet 8, 1:76 = @i{MSL} 14 p. 491).  With respect to the following entry, Leichty notes that @i{itteššu} is probably a biform of @i{ištiššu}, “once,” which is treated in @i{NBGT} 4: 34, in which case the equation seems to be based on synonymous equivalence. The poorly attested logogram @akk{KI.DILI} otherwise appears on a liver model, BM 50494 (82-3-23, 1485), written by one Mušēzib-Marduk, where, however, the term is also poorly understood: see the discussion by J. Nougayrol @i{RA} 62 (1968) pp. 47-48.  @i{itt}- is not attested for @i{ištīššu}, but it is attested for @i{ištēštu} (e.g. @i{Gilg} V 103, @i{it-til-ti}). The equation with @i{ištēššu} may derive from a notarikon analysis of @i{itteššu} as @i{itti}(@akk{KI}) + @i{aš}(@akk{DILI}). 
+
+2. !bs %sux [šu?-bi?]-gin₇?# !cm %sb : ki-ma qa-ti-šu-ma : ša₂-niš ki-ma qa-ti mah*#-[ri-i !zz ...]
+#lem: +šu[hand]N/šu#~,bi.gin; kīma[like]PRP; +qātu[hand]N$qātīšūma; šanîš[alternatively]AV; kīma[according to]PRP; qāti[hand]N; +mahrû[first]AJ$mahrî; u
+
+#note: The phrase @i{kīma qātīšu}, which occurs again in l. 7, is otherwise attested in Old Babylonian letters: see the brief discussion by W. van Soldt @i{ad AbB} 13 8: 11, where he translates the phrase as “in accordance with his share.” The phrase may be related to the term @i{kīma šumīšu}, which means “ditto” (see the discussion by M. Rutz @i{JCS} 58 (2006), pp. 87-88. However, according to U. Gabbay @i{CHANE} 82 (2016), p. 119 n. 176, the phrase @i{kīma qātīšu} is “not necessarily a hermeneutical term.”
+ 
+3. !cm GI# : mah-ru-u₂ : !bs %sux ha! !cm %sb mi-hi-il-ti₃ an-ni-tu₄ !zz : x# [...]
+#lem: +mahrû[first]AJ$; mahrû[first]AJ; M; +mihiṣtu[strike]N$mihilti; annītu[this]DP; u; u
+
+#note: As Leichty notes, the equation @akk{GI} = @i{mahrû} is not attested elsewhere, but @akk{GI} = @akk{ma-ha-ru} is found in the lexical list @i{Lanu} B iii 6 (for an edition, see dcclt/P385927). Leichty also notes that, since @i{mahrû} is equated in lexical lists both with @akk{AN.TA.GI} and with @akk{IGI} (for specific references see @i{CAD} M/I 108b), GI in both cases may be a shortened form of @akk{IGI}. In the present line, if the reading of the first sign of l. 2 is correct, then @akk{GI} would probably explain @akk{GIM}. With respect to the second entry in the line, Leichty observes: “If this is a correct translation, the scribe must be commenting on a reading of a sign. Perhaps the sign was written in an archaic form or was damaged.” Leichty also notes that @akk{HA} occurs in @i{NBGT} 9: 32 and 59, but also in 1: 407 and 2: 44. The sign @akk{HA} is written in its Old Babylonian and Assyrian form, rather than in its Late Babylonian counterpart.
+4. !bs %sux u₂-nu a-na e-na i-na !cm : aŋ₂-kuš₂ %sb : šu-us₂-hur-tu₄ :#* !zz [...]
+#lem: M; M; M; M; X; +šushurtu[non-indicative]N$; u
+
+#note: The interpretation of the first part of this line follows Leichty, who suggests that it contains writings of the Sumerian verbal prefixes @akk{un-}, @akk{an-}, @akk{en-} and @akk{in-}, which are treated in @i{NBGT} 2: 86-89, 99-102 and @i{passim} in @i{NBGT} 1. Alternatively, as suggested by C. Wilcke to Leichty (private communication), the first part of the line might refer to @i{NBGT} 9: 43-44, which treats the Akkadian prepositions @i{ina} and @i{ana}. However, if this were the case, the commentary in this line would be reversing the order in which the prepositions appear in the base text (first @i{ina} then @i{ana}), and the meanings of the other halves of the two equations would be unclear; it therefore seems a less likely possibility. As noted by Leichty, the word @akk{AG₂.KUŠ₂} occurs in @i{NBGT} 9: 39. The Akkadian word also occurs @i{passim} in @i{NBGT} 1 and 2, as well as in @i{Examenstext A} 16, where it is equated with @akk{NIGIN}. See J. Black @i{Sumerian Grammar in Babylonian Theory} (1984), pp. 92-95 for the proposal that it means “non-indicative verbal form.”
+
+5. !bs li-la-a !cm %sb ul aš₂-me : !bs %sux niŋ₂ til-ri-iš !cm %sb : ga-mer-tu₄ ul x# [...]
+#lem: X; ul[not]MOD; +šemû[hear]V$ašme; niŋ[thing]; +til[complete]V/i/til#~;*a,re.eše; +gamertu[completeness]N$; ul[not]MOD; u; u
+
+#note: As noted by Leichty, the word @akk{li-la-a} also occurs in @i{NBGT} 9: 50 (in the @i{MSL} 4 edition, it has been misread as @akk{li u₂# a}). Leichty, albeit reluctantly, understands this word as the word for @i{lilû}-demon, it seems more likely that it is an otherwise unattested grammatical term. The second entry of the line comments on a phrase attested in @i{NBGT} 9: 55 (@i{MSL} 4: 172). The proposal by Frahm @i{GMTR} 5 (2011), pp. 254-255 n. 1207, that @akk{NIG₂.TIL.RI.IŠ}, should be read as Akkadian @akk{šá be-ri-iš}, “that which is distant,” is not followed here. As noted by N. Veldhuis (private communication), níĝ-til-la also appears in ‘In Praise of the Scribal Art’ (see http://oracc.org/blms/P357277), a text that contains abundant grammatical terminology.
+
+6. !cm %sb ša₂ a-na ru-qu ŠUB{+u₂} : !bs %sux du₃-luh !cm %sb : mu-gal-lit-tum :#* !zz [...]
+#lem: ša[which]REL; ana[for]PRP; rūqu[deep]AJ; +nadû[placed]AJ$; +huluh[frightened]V/i/du₃-luh#~; +mugallitu[troublemaker]N$; u
+
+#note: The proposal by Frahm @i{GMTR} 5 (2011), pp. 254-255 n. 1207 that @akk{šá ... ŠUB{+ú}} is a hermeneutic term (meaning “that which pertains to ...”) is viewed skeptically by U. Gabbay @i{CHANE} 82 (2016) p. 213 n. 51, on the grounds that “all the elements of the phrase @akk{šá a-na ru-qu ŠUB{+ú}} correspond to the elements @akk{NIG₂.TIL.RI.IŠ} that they interpret.” Accordingly, the phrase @akk{šá ... ŠUB{+ú}} is not translated as a hermeneutic term here. However, until the meaning of the entry in l. 5 to which these words refer is clarified, certainty on how to interpret both this phrase and the signs @akk{NIG₂.TIL.RI.IŠ} in the preceding line is impossible. With respect to the second entry in this line, the equation @akk{DU₃.LUH} = @i{mugallitu} is otherwise attested in @i{NBGT} 9: 57 (in the @i{MSL} 4 edition, it has been misread as @akk{du₃.u₂}), as well as in the lexical list @i{Antagal} B 209 (@i{MSL} 17 p. 193). As with @akk{li-la-a} in the preceding line, the phrase @akk{DU₃.LUH} seems more likely to refer to a grammatical term than to a demon.
+
+7. !cm %sb aš₂-šu₂ !bs ra-qa-tu₄ !cm : GIŠ.PA.A : !zz %sb ki-ma qa-ti-šu*#-ma*# [...]
+#lem: aššu[because of]'PRP; +raqqu[thin]AJ$raqqatu; X; kīma[like]PRP; +qātu[hand]N$qātīšūma; u
+
+#note: The word @akk{ra-qa-tum} occurs in @i{NBGT} 9 345, but its specific meaning in a grammatical context is unclear (compare the use of @i{marû}, lit. “fat, slow”, to describe Sumerian verbal forms). The translation offered here of the hermeneutic term @i{aššu} in this passage is based on the suggestion of Gabbay @i{CHANE} 82 (2016) p. 151, who argues that @i{aššu} can sometimes function as “a linguistic indicator in a lexical contextualization.”
+
+8. !bs %sux niŋ₂ dili-me !cm %sb : e-de-e-ti : !bs %sux ša !zz %sb u !bs %sux u₃ : !cm %sb  ša₂ mu-x# [...]
+#lem: niŋ[thing]; +dili[single]V/i/dili#~;*a,me; +wēdu[single]AJ$ēdēti; M; u[and]CNJ; M; ša[of]DET; u; u
+
+#note: As pointed out by Leichty, the second entry refers to the prefixes @akk{ŠA-} and @akk{U₃-} in Sumerian.
+
+9. !bs %sb e-su*-ub !cm %sb : lu-ta-mi-ka !zz %sb : i-qa-at-ta# [...]
+#lem: +ezēbu[leave]V$esub; +tamû[swear]V$lutamīka; +qatû[come an end]V$iqatta; u
+
+#note: As Leichty suggests, the first entry is connected with @i{Malku} = @i{šarru} 3 118 (@akk{e-su*-ub} = @akk{la te-me-ek-ki} (p. 367 in the 2010 edition of I. Hrůša). The reading @akk{e-su-ub} in this commentary indicates that those mss of @i{Malku} = @i{šarru} 3 broken in this line should be read @akk{es-su-ub} instead of @i{e-zu-ub}. Leichty suggests: “Either the scribe was badly confused or @akk{lu-ta-mi-ka} is some sort of strange dialectal Akkadian.” Leichty points out that @i{NBGT} 1 435, where @akk{ŠUB.BA} is equated with @akk{e-zib₄} may also be relevant (if @akk{zib₄} is the correct reading of @akk{KA}: on which issue see the cautious words of R. Borger @i{MesZL} P. 255). Note that the following entry in @i{NBGT} 1 is quoted verbatim in l. 13 of the commentary.
+
+10. !bs %sux si dur !cm %sb : !cm %sb e-lu-u MURUB₄{+u₂} : !bs %sux ib₂ x# !zz [...]
+#lem: si[horn]N; endur[navel?]; elû[high]AJ; +qablû[central//infixed]AJ'AJ$; M; u; u
+
+#note: The equation @akk{SI} = @i{elû} is otherwise unattested but may be motivated by the learned writing @akk{{d}SI} for the god Enlil, on which see Frahm @i{GMTR} 5 (2011), p. 140 n. 692. For the equation @akk{DUR} = @akk{MURUB₄{+ú}} see ad l. 1.
+11. !bs %sb ra-i !cm %sb : e lu-u₂ !zz i-x# !bs a-lak.MEŠ !cm %sb : a-la#-ku#* [...]
+#lem: +raʾi[definitely]AV$; ē[not]MOD; lū[may]MOD; u; +alāku[go//going]V'N$alāk; alāku[going]'N; u
+
+#note: As noted by Leichty, the optative Akkadian particle @i{raʾi} is attested in @i{NBGT} 9 119. The reading of the signs differs from Leichty’s, who considered @akk{e-lu} to mean “prefix.” The equation of the adverb with the particles @i{ay} (sometimes written “@i{ē}”) and @i{lū} makes better sense.
+
+12. !bs %sb ša-at₂-tu₂ u₃ !bs at₂-tu-nu !cm :? ša-at-ta u at-tu#-[nu !zz ...]
+#lem: +šâtu[him]IP$šattu; u[and]CNJ; +attunu[you]IP$; +šâtu[him]IP$šatta; u[and]CNJ; attunu[you]IP; u
+
+#note: The commentator explains two words as unusually written syllabic spellings of two common Akkadian words. Leichty regards this explanation as unlikely.
+
+13. !bs %sux ŋen !cm %sb : ma-a AN.TA : !qt %sux ŋen ga-ra-ab-dug₄ inim mu-un-da#-[bala-e/en ŋidlam-ŋu₁₀ he₂-me-en]
+#lem: ŋen[go]; mā[indeed]J; +elû[upper//prefixed]AJ'AJ$; ŋen[go]; dug[speak]; inim[word]; bala[turn]V/t; +ŋidlam[spouse]N/ŋidlam#~,ŋu; me[to be]V/i
+
+#note: The first three words correspond exactly with the entry NBGT 1 436. As noted by E. Jiménez (private communication), the passage cited is l.24 of the Sumerian literary work @i{Enlil and Sud}, which is attested in first millennium manuscripts (M. Civil, “Enlil and Ninlil: The Marriage of Sud,” @i{JAOS} 103 [1983], pp. 43-66. See E. Jiménez @i{The Babylonian Disputation Poems} (@i{CHANE} 87, 2017), p. 91 for further discussion of the passage in question.  
+14. !bs %sux 3 GI !cm %sb : mi-hi-il-ti₃ : !zz %sux ha am₃ sukud-gin₇#* %sb aš₂-šu₂ x# [...]
+#lem: n; X; +mihiṣtu[strike]N$mihilti; X; X; X; aššu[because of]'PRP; u; u
+
+#note: It is unclear to what “3 GI” refers in this context. The meaning of the signs following @akk{mi-hi-il-tim} is unclear too. As noted by E. Frahm (private communication), the expression @akk{SUKUD.GIM} is also attested in the Esangil-kīn-apli colophon (Finkel, @i{Fs Sachs} [1998], p. 147 A 37 and 43). Note that @akk{HA/HU} and @akk{AM₃} are equated with @i{lū} in the grammatical text HS 1610 (dcclt/P229745). In the same text, a sign is followed by the word “sign/wedge” @akk{tum GU.SUM} (= @i{mihiltu}) in r iii′ 33′.
+
+15. !bs %sb u₂-ka !zz ap? li is mu ti-ma : !bs %sb tu#-ša₂-ma : !cm %sb ki#*-[ša₂-ma (...)]
+#lem: +ūka[thus]MOD$; X; X; X; X; X; tušama[as if]MOD; +kīšama[forgive me]MOD$; u
+
+#note: The adverb @i{uka}, which is also cited in l. 17 of this commentary, is otherwise attested only in three Old Babylonian letters from Mari (@i{CAD} U/W 54, it is perhaps related to the Neo-Assyrian particle @i{muk}). As noted by Leichty, the Akkadian adverb @i{tušāma}, “seemingly,” appears in @i{NBGT} 3, 4 and 9 (l. 268 and perhaps Appendix 2:2 C). It also appears in the so-called Reisner Vocabulary, where it is one of many Akkadian adverbs equated with the Sumerian adverb i-gi₄-in-zu. Unfortunately, neither context clarifies how to read the preceding signs in the present line. However, since @i{tušāma} is equated with @i{kīam} and @i{kīšāma} in @i{Malku} = @i{šarru} 3 109 and 8 114, the restoration of @i{kīšāma} seems likely.
+16. !bs %sb lu-man !cm %sb : i-na-an-na !bs %sb : a-nu-um-ma : !cm %sb a-na i-[rat? !zz ...]
+#lem: +lūman[were it not for]MOD$; inanna[now]AV; anumma[now]AV; ana[to]PRP; irat[bowel]N; u
+
+#note: As noted by Leichty, both @i{lumān} and @i{anumma} appear several times in @i{NBGT}, but in view of the preponderance of correspondences with entries from NBGT 9, the context @i{NBGT} 9 276-277 seems most likely to be the source of the present line. The tentative restoration of the phrase following @i{anumma} is based on the entry @i{NBGT} 9 279, as Leichty suggested it might be. Note, however, that in the only preserved manuscript of @i{NBGT} 9 279, the phrase is instead written @akk{an-na i-rat}.
+
+17. !bs U₄.TA : al-la-pak !cm %sb ul aš₂-me : !bs %sb u₂-ka x# !zz [...]
+#lem: +allapak[when]CNJ$; +allapak[when]CNJ$; ul[not]MOD; ašme[hear]V; ūka[thus]MOD; u; u
+
+#note: As Leichty noted, the equation cited occurs in @i{NBGT} 9 280 as well as elsewhere in @i{NBGT}. The alleged attestation of the adverb @i{allapak} in @i{Malku} = @i{šarru} mentioned in @i{CAD} A/1 356a is incorrect: see Hrůša @i{AOAT} 50 (2010) p. 368.
+
+18. ($___$) !cm %sb ša₂-niš al-lu-u₂-a
+#lem: šanîš[alternatively]AV; +allapak[when]CNJ$allūʾa
+
+#note: As noted by Leichty, the commentary’s explanation in this line is based on a reading of the final sign in @akk{al-la-pak} as @akk{HU} not @i{pak}.
+
+19. !bs %sb A₂-ka i-šar : !cm %sb a-na i-di-ka?# !zz [...]
+#lem: +idu[arm]N$idka; iššar[be(come) well]V; ana[to]PRP; +idu[arm]N$idīka; u
+
+#note: As Leichty observed, the association of @i{idu} and @i{išaru} in this line is reminiscent of the Akkadian part of @i{Nabnītu} Tablet R 288 (@akk{i-du i-ša-ru}). The various components of the line also appear in the grammatical text in the Hilprecht Sammlung edited by Veldhuis at http:/oracc.org/dcclt/P229745].
+
+20. !bs a-sir-tum-ma !cm %sux : {+su-u}SU₈ :# x# [...]
+#lem: +asirtu[female captive]N$asirtumma; X; u; u
+
+#note: The word @i{asirtu} is very rare. It is otherwise attested in SB @i{Ālu} (and is commented on in a late commentary on this text, @i{CCP} 3.5.49). The signs could also be Sumerian.
+
+21. !zz %sux saŋ u₄-sakar nu-eš₃ lu₂ bala gub !zz [...]
+#lem: saŋ[head]; usakar[crescent moon]N; nuʾešak[a priest]N; lu[person]; bala[turn]; gub[stand]; u
+
+#note: The context of this line is obscure. As noted by Leichty, the Sumerian phrase @akk{BALA.GUB} occurs in @i{MSL} 12 40: 212b and 131: 75, where it is equated with @i{ša manzalti}, “office-holder.”
+
+22. !zz %sb ar-hi ša₂ ina E₂.KUR i-na x# [...]
+#lem: +arhu[month]N$arhi; ša[that]REL; ina[in]PRP; Ekur[1]TN; ina[in]PRP; u; u
+
+#note: The context of this line is also obscure.
+
+23. !bs %sux bar-NUN !cm %sb : BAR.NUN{+ta} !bs %sb : SAG.KI?# [...]
+#lem: bar.NUN[diagonal]N; +ṣiliptu[(diagonal) dissection]N$ṣilipta; nakkaptu[brow]N; u
+
+#note: Neither BAR.NUN, nor its Akkadian reading @i{ṣiliptu}, nor @akk{SAG.KI} is attested in @i{NBGT}, but, interestingly, @akk{BAR.NUN} is attested in LB mathematical texts with the meaning “diagonal”: see Friberg @i{RlA} 7 (1987/1990) p. 553b. Note, however, that @akk{SAG.KI} is attested in r 9 of the present tablet. 
+
+24. !bs %sux im-me !cm %sb la tuš-tab-bal : [...]
+#lem: e[speak]; lā[not]MOD; tuštabbal[calculate]V; u
+
+#note: The translation of this line is tentative, due to the difficulty of translating @akk{IM.ME}, which may a quotation of Sumerian.
+25. !zz %sb ša₂ ina a-la-ku u a-ma-ru :?# [...]
+#lem: ša[that]REL; ina[in]PRP; alāku[going]'N; u[and]CNJ; amāru[seeing]'N; u
+
+26. !zz $ZIK $KI $ZI $SAL $NIM x# [...]
+
+#note: This line is currently unable to be understood. In view of the occurrence of NIM.GIR₂ in the following line, the NIM sign may be the beginning of NIM.GIR₂. Unfortunately, the traces of the following sign are inconclusive.
+
+27. !bs NIM.GIR₂ GE₆ !cm : bi-ri-iq?# [...]
+#lem: +berqu[lightning (flash)]N$; +ṣalmu[black]AJ$; +berqu[lightning (flash)]N$biriq; u
+
+28. !zz AN# AN# ti?# SAG# ša₂# tum?# [...]
+#lem: u; u; u; u; u; X; u
+
+@reverse
+1'. !zz x# [...]
+#lem: u; u
+
+2'. !zz x# [...]
+#lem: u; u
+
+3'. !zz x# [...]
+#lem: u; u
+
+4'. !zz ša₂ [...]
+#lem: ša[of]DET; u
+
+5'. !zz $ZA*# x# [...]
+#lem: X; u; u
+
+$ single ruling	
+6'. !zz {lu₂}MAŠ.MAŠ x# [...]
+#lem: mašmaš[incantation priest]N; u; u
+
+7'. !zz ina še-er-tu x# [...]
+#lem: ina[in]PRP; +šērtu[morning]N$; u; u
+
+8'. !zz $BAD x# x# [...]
+#lem: u; u; u; u
+
+9'. !zz ša₂ u₂-ṣi?#-[...]
+#lem: ša[of]DET; u
+
+10'. !cm ša₂ %sux ur₅-ra# [...]
+#lem: ša[of]DET; urra[loan]; u
+
+#note:  As suggested by Leichty, these signs seem to refer to the lexical list @akk{UR₅.RA} = @i{hubullu}.
+11'. !zz %sux sa saŋ-ki-a#-ni# x# [...]
+#lem: sa[sinew]; saŋki[forehead]; u; u
+
+#note: Leichty suggests that both this and the following line refer to diagnostic omina. But compare perhaps @i{Muššu’u} 2 38: sa saŋ-ki-a-ni sa ši-[...] (reference courtesy of E. Jiménez).
+12'. !zz KI NA₄-ME SA-ME KUD [...]
+#lem: u; +abnu[stone]N$abnāti; +šerʾānu[vein]N$šerʾānī; X; u
+
+13'. !bs %sux ri !cm %sb : ku-u₂ x# [...]
+#lem: M; +kum[to you]IP$ku; u; u
+
+#note: Leichty suggests that this and the following two lines contain the catchline (i.e., the first lines of the next tablet). He also notes that, though this is the only occurrence of the specific equation @akk{RI} = @i{kû}, it is an unsurprising equation because @akk{RI} is attested equated with other forms of the 2nd person pronoun. As noted by N. Veldhuis (private communication), the equation ri = @i{ku-ú} and the next two lines appears in HS 1610 o ii 24′-26′.
+
+14'. ($___$) !cm ka-ta x# [...]
+#lem: +kâti[you]IP$kâta; u; u
+
+15'. ($___$) !cm at-ta NU x# [...]
+#lem: attā[you]IP; lā[not]MOD; u; u
+
+16'. !zz im-gi₃-da {m}{d}nin#-[urta-...]
+#lem: imgidda[(a single-columned tablet)]N; u
+
+#note: The restoration Nin[urta-...] follows Gabbay and Jiménez: Ninurta is a common theophoric element in names of Nippureans. As Gabbay and Jiménez note, the person in question is not Ninurta-ušabši son of Enlil-kēšir, the owner of at least one other commentary (on @i{Šumma ālu} = @i{CCP} no. 3.5.45.A), because the traces of the father’s name in the following line do not fit the reading Enlil-kēšir. See U. Gabbay and E. Jiménez, “Cultural Imports and Local Products in the Commentaries from Uruk: The Case of the Gimil-Sîn Family,” forthcoming, no. 3.
+
+17'. !zz A ša₂ {m}{d}DUL₃-x# [...]
+#lem: aplu[son]N; ša[of]DET; u; u
+
+#note: As pointed out by Gabbay and Jiménez, the personal name could be interpreted either as @akk{{m}AN.DUL₃} = @i{andullu} or @i{ṣulūlu} (MZL, top of p. 250), or as a cryptographic writing of a theonym (Šamaš or Enlil). Note that the relatively rare sign @akk{DUL₃} is attested in the l. 4 of the commentary.
+
+18'. !zz pa-lih {d}elal₂ {d#}UTU?# [...]
+#lem: pālih[reverent one]N; +Ellil[]DN$; Šamaš[1]DN; u
+
+#note: On @akk{{d}ŠID} (@akk{ŠID} read here as @i{élal}) as a cryptographic writing for Enlil, see Frahm @i{GMTR} 5 (2011) p. 198 n. 936 and p. 298 n. 1424. The restoration of this line follows Frahm (ibid. p. 299), who bases it on the parallel in the colophon of the @akk{SA-GIG} commentary @i{CCP} 4.1.21 (also housed in the Free Library of Philadelphia), which was produced in Nippur by a member of the Rīš-Gula branch of the Gimil-Sîn family. For discussion of the commentaries produced by members of the Gimil-Sîn family, see now U. Gabbay and E. Jiménez, “Cultural Imports and Local Products in the Commentaries from Uruk: The Case of the Gimil-Sîn Family,” forthcoming.
+
+@translation parallel en project
+
+@obverse
+1. [...] ... @i{dur} means “infix”; (the phrase) @i{ki.dili} means “onc[e” ...].
+2. [@i{šubig}]@i{in} means “like its hand”; alternatively, (it means) “like an @i{ear}[@i{lier}] hand [...]
+3. @i{gi} means “first”; this sign is HA; ... [...]
+4. (The prefixes) “un-, an-, en-, in-” (belong to the category of) @i{ág.kúš}, which means “non-indicative”; [...]
+5. (The word) “@i{lilâ}” – I did not hear it. (The phrase) “@i{níg.til.ri.iš}” means “completeness” ... [...]
+6. (which means) “that which is thrown far away.” (The phrase) “@i{dù.luḫ}” means “trouble maker.” ... [...]
+7. concerning “thin ones (fp).” @i{giš.pa.a means} “Like its hand” [...]
+8. “@i{níĝ.dili.me}” means “single things.” (The prefixes) @i{ša}- and @i{ù}- mean “that which ... [...]
+9. “@i{esub}” means “may I conjure you!” (The word) “It comes to an end” [...]
+10. (The words) @i{si dur} mean “prefixed” (and) “infixed.” (The word) ... [...]
+11. (The adverb) “definitely” means “@i{ē}” (or) “@i{lū}.” ... (The word) “a-lak.MEŠ” (is derived from the verb) “to g[o” ...]
+12. “Him/her/it” and “you (2 mp)” mean (the pronouns) “him/her/it” and “yo[u (2 mp)” ...]
+13. (The word) “@i{ĝen}” means “thus” (i.e., it is used to introduce direct speech) (it is) a prefix” (as in) “Come, I want to speak to you, I will have a talk with you, [please be my wife” (quotation from @i{Enlil and Sud} 24)].
+14. “3 @i{gi}” means “cuneiform sign/wedge”; ... as above ... [...]
+15. (The adverb) @i{uka} ... (the adverb) “seemingly” means ... [...]
+16. (The adverbial expression) “if only” means “now.” (The adverb) “herewith” means “to the b[reast” ...]
+17. “@i{u}₄.@i{ta} means @i{allapak}” – I did not hear. The adverb “uka” ... [...]
+18. alternatively, (it @i{allapak} should be read as) @i{allū’a}.
+19. “Your arm is straight” means “to/for @i{your} arm” [...]
+20. (The word) “captive woman” means “to bring”;... [...]
+21. At the beginning of the month, the @i{nêšakku}-priest, @i{the man who stands ready to perform the bala duty} [...]
+22. The month that in Ekur ... [...]
+23. The word “@i{bar-nun}” means “diagonal.” The word @i{sag.ki} [...]
+24. Do not consider the @i{im-me}! [...]
+25. He/she/they who when going and seeing [...]
+26. ...
+27. “NIM.GIR₂ GE₆” means “lightning [@i{at night}]”
+
+@reverse
+
+1'. ... [...]
+2'. ... [...]
+3'. ... [...]
+4'. ... [...]
+5'. The exorcist ... [...]
+6'. ... [...]
+7'. At dawn [...]
+8'. ... [...]
+9'. ... [...]
+10'. that which @i{ur₅.ra} [...]
+11'. “Sinew, temple ... [...]”
+12'. @i{Cut the sinews} ... @i{stones} [...]
+13'. @i{ri} means “your(s)” ... [...]
+14'. You (sg.) ... [...]
+15'. You (ms) ... [...]
+16'. Long tablet of Nin[urta-...]
+17'. son of ... [...]
+18'. He who reveres Enlil, Shamash [and Marduk must not take it (i.e., the tablet) away!]

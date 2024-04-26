@@ -1,0 +1,75 @@
+&P426183 = CCP 3.1.5.F (http://ccp.yale.edu/P426183) = Sm.1931
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !bs [* 30] ina IGI.LA₂#-šu₂# x# [...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; u; u
+
+#tr.en: [“If the moon,] on its appearance […”]
+2'. ($___$) !cm SI-MEŠ-šu₂ ŠA₃#?{+bi#?} [...]
+#lem: qarnātušu[horn]N; libbi[heart]N; u
+
+#tr.en: means “its horns … […]
+3'. !bs * 30 ina IGI.LA₂-šu₂ SI-MEŠ-šu₂ ed#-[da? ...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; eddā[pointed]AJ; u
+
+#tr.en: “If the moon, on its appearance, its horns are p[ointed …”]
+4'. !bs * 30 ina IGI.LA₂-šu₂ SI-MEŠ-šu₂ ŠA₃?# [...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; libbi[interior]N; u
+
+#tr.en: “If the moon, on its appearance, its horns […”]
+5'. !bs * 30 ina IGI.LA₂-šu₂ SI-MEŠ-šu₂ [...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; u
+
+#tr.en: “If the moon, on its appearance, its horns […”]
+6'. ($___$) !cm SI-MEŠ-šu₂ mit-ha#?-[ra? ...]
+#lem: qarnātušu[horn]N; mithārā[symmetrical]AJ; u
+
+#tr.en: means “it horns are @i{c}[@i{orresponding} …]
+7'. !bs * 30 ina IGI.LA₂-šu₂ SI-MEŠ#-[šu₂ ...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; u
+
+#tr.en: “If the moon, on its appearance, [its] horns […”]
+8'. !bs [*] 30# ina IGI.LA₂-šu₂ SI#-[MEŠ-šu₂ ...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; u
+
+#tr.en: [“If] the moon, on its appearance, [its] horn[s …”]
+9'. !bs [* 30 ina] IGI#.LA₂#-šu₂# [...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; u
+
+#tr.en: [“If the moon, on] its appearance […”]
+@reverse
+1'. !zz [...] x# $BAD? [...]
+#lem: u; u; u; u
+
+#tr.en: […] … […]
+2'. !zz [...] x# x# $NU $DU x# [...]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+3'. !bs [* 30 u 20] im#-tah-ru-ma ina bi#-[ri-šu₂-nu ...]
+#lem: Sin[1]DN; u[and]CNJ; Šamaš[1]DN; +mahāru[face]V$imtahrū-ma; ina[in]PRP; birišunu[between]PRP; u
+
+#tr.en: [“If the moon and the sun] are opposite one another and bet[ween them …”]
+4'. ($___$) !cm IDIM nag#-bu BAD sa-ki-ki!(ŠU) nu maš# x# [...]
+#lem: kabtu[heavy]N; +nagbu[underground water]N$; nesû[be(com)ing distant]'N; sakīkī[(mud, silt) deposits]N; X; X; u; u
+
+#tr.en: IDIM means “spring”, IDIM means “silt” … […]
+#note: @i{CAD} S 76a suggests reading @akk{IDIM nag#-bu IDIM sa-ki-ku!(ŠU)}, a reading supported by the commentary @akk{sa-ki-ki DIRI-MEŠ : IDIM : sa-ki-ki : IDIM : nag-bi# :# DIRI# [ma-lu]-u₂#} in @i{SAA} 10 160.
+5'. !bs * 30 u 20 im-tah-ru-ma ina bi#-ri#-[šu₂-nu ...]
+#lem: Sin[1]DN; u[and]CNJ; Šamaš[1]DN; imtahrū-ma[face]V; ina[in]PRP; birišunu[between]PRP; u
+
+#tr.en: “If the moon and the sun] are opposite one another and between [them …”]
+6'. ($___$) !cm BAD₅.BAD₅ ina x# x# x# x# [...]
+#lem: dabdu[defeat]N; ina[in]PRP; u; u; u; u; u
+
+#tr.en: means “a defeat in … […”]
+7'. ($___$) !cm U₄.14#?.[KAM₂ ...]
+#lem: X; u
+
+#tr.en: means “on the @i{fourteenth} day […”]

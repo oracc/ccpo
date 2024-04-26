@@ -1,0 +1,188 @@
+&P461178 = CCP 3.7.2.J (http://ccp.yale.edu/P461178) = BM 38788
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs LU₂# SAG.DU# [x] & !cm x#-x#-x#
+#lem: amēlu[man]N; qaqqadu[head]N; u; u
+
+2. !bs SAG.HA.MA.AL & !cm šar-hu
+#lem: +šarhu[splendid]AJ$; šarhu[splendid]AJ
+
+3. !bs ku-um-mu-su & !cm ra-aš₂-bi
+#lem: +kummusu[fearsome]AJ$; +rašbu[terrifying]AJ$rašbi
+
+#note: Compare @i{rašbu} = @i{kummusu} in An IX 18.
+4. !bs UMBIN BABBAR & !cm na-ba-li
+#lem: ṣupur[nail]N; peṣi[white]AJ; +nabālu[(a disease?)]N$nabāli
+
+#note: Compare perhaps Böck @i{AfO Beih} 27 (2000) p. 272 l. 102: ¶ @akk{ṣu-up-ra-šu na-ma-li ma-la-a}.
+5. !bs UMBIN GE₆ & !cm ku-ra-ru
+#lem: ṣupur[nail]N; +ṣalmu[black]AJ$; +kurāru[glowing ashes//carbuncle]N'N$
+
+$ single ruling
+
+6. &2 !zz ṣa-a-tu₂ u šu-ut pi-i ša₂ * GU₂ GID₂.DA
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[that]REL; kišād[bank]N; arik[long]AJ
+
+#note: The incipit of @i{Alamdimmû} IX is elsewhere attested as ¶ @akk{GU₂-su GID₂.DA}.
+$ single ruling
+
+7. !bs HAŠ₂ & !cm em-šu
+#lem: +emšu[lower body]N$; +emšu[lower body]N$
+
+8. !bs HAŠ₂ & !cm šap-ri
+#lem: +šapru[thigh]N$; +šapru[thigh]N$šapri
+
+9. !bs ŠA₃.MAH# & !cm kar-šu₂
+#lem: +karšu[stomach]N$; +karšu[stomach]N$
+
+$ single ruling
+
+10. &2 !zz ṣa-a-tu₂ u šu#-ut pi-i ša₂ * GABA DAGAL.AŠ
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[that]REL; irat[chest]N; +rapšu[wide]AJ$rapšat
+
+#note: The incipit of @i{Alamdimmû} X is elsewhere attested as ¶ @akk{GABA-su GID₂.DA}, “If his chest is long.”
+$ single ruling
+
+11. !bs x# & !cm !cm x#-ba-tu₄
+#lem: u; u
+
+12. !bs ZAG GU.DU# & !cm tu-kul-ti qin?#-na?#-ti?#
+#lem: +tukultu[trust//(part of buttocks)]N'N$tukulti; qinnatu[buttocks]N; +tukultu[trust//(part of buttocks)]N'N$tukulti; qinnati[buttocks]N
+
+13. !bs GIG.GIR & !cm ku#-ra-ru
+#lem: +kurāru[carbuncle]N$; kurāru[carbuncle]N
+
+$(bottom)
+
+14. !bs x# & !cm pa#-qa-du
+#lem: u; paqādu[consigning]'N
+
+15. !bs DUL₃ & !cm GISSU
+#lem: +ṣulūlu[roof//shade]N'N$; +ṣillu[shade]N$
+
+$(reverse) 
+
+16. !bs i-te-en-ṣu-u & !cm [x (x)] x#
+#lem: +teṣû[defecate]V$itteṣṣû; u; u; u
+
+17. !bs BAR & !cm [x]-x#-tu₄
+#lem: u; u
+
+18. !bs UR₂ GIR₃ & !cm [šu]-har# še-e-pi
+#lem: +šahūru[(a part of the foot)]N$šuḫār; +šēpu[foot]N$šēpi; +šahūru[(a part of the foot)]N$šuḫār; +šēpu[foot]N$šēpi
+
+#note: On @akk{UR₂ GIR₃} as “Achiles’ tendom,” see Mirelman @i{NABU} 2008/65. The equation @akk{UR₂ GIR₃} : @i{šuḫār šēpi} is also attested in Nabnītu X 224.
+19. ($___$) & !cm ši?#-si-it x#
+#lem: +šisītu[(hand/foot) joint]N$šisīt; u
+
+20. !bs {du-u}DU₁₁# & !cm tu-kul-ti#
+#lem: +tukultu[trust//(part of buttocks)]N'N$tukulti; +tukultu[trust//(part of buttocks)]N'N$tukulti
+
+21. !bs [x] & !cm e-de#-[x]
+#lem: u; u
+
+22. !bs x# & !cm ṣa-pa-pa
+#lem: u; +ṣabābu[flutter//fluttering]V'N$ṣapāpa
+
+#note: No Sumerian equivalent of @i{ṣabābu} is known (CT 20 49 25, read BAR @akk{u₂-ṣab-bab} in AHw 1065a, is read differently in Koch @i{AOAT} 326 p. 167 l. 26). 
+$ single ruling
+
+23. &2 !zz [ṣa-a-tu₂] u šu-ut pi-i ša₂ * is-qu-bit GU₄ GAR
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[that]REL; +asqubbītu[hump]N$isqubbīt; alpi[ox]N; šakin[located]AJ
+
+#note: The reading of the incipit of @i{Alamdimmû} XI as proposed in Finkel @i{Gs Sachs} (1988) p. 151 has to be corrected accordingly (ND 4358+: ¶ @akk{is!-qu!-bit! GU₄ GAR{+in}} // BM 41237+ ¶ @akk{is!-qu!-bit! GU₄ [GAR{+in}]}).
+$ single ruling
+
+24. !bs GUR₄ & !cm ba-a-lu
+#lem: +baʾālu[be dominant//being dominant]V'N$bâlu; +baʾālu[be dominant//being dominant]V'N$bâlu
+
+25. !bs ALAN & !cm la-a-nu
+#lem: lānu[form]N; +lānu[form]N$
+
+26. !bs ti-mi-ra-aš₂ & !cm mi-ra-šu-u
+#lem: +timiraš[(desig. of a horse)]N$; X
+
+#note: Both explanandum and explanans appear to be hapax legomena. The former perhaps represents the same word of Kassite origin that is attested in some Middle Babylonian texts as a color of horses and cattle (CAD T 418b and Brinkman NABU 1996/40). The word @i{mirāšû} is entirely unattested: it represents perhaps an attempt to provide an artificial Akkadian etymology to a foreign word.
+27. !bs MAŠ.ŠU.GAL₂ & !cm si-kil-tu₄
+#lem: +sikiltu[acquistion(s)]N$; +sikiltu[acquistion(s)]N$
+
+#note: The equation is atested in Nabnītu XXI (= XXII) 154.
+28. !bs HAŠ₂ TE.GUN₃.A & !cm e-ri-mu
+#lem: emšu[abdomen]N; +erimmu[mole (on skin)]N$; erimmu[mole (on skin)]N
+
+#note: Compare @akk{TE.GUN₃{+gu}.A} : @i{erimu} in SB List of Diseases i 32 (MSL 9 p. 93).
+29. !bs x#-ha-šu-šu & !cm i-mi-ṣi
+#lem: u; +emēṣu[be sour]V$īmiṣi
+
+#note: No obvious restoration suggests itself for the left column. The word in the right column is probably a form of @i{emēṣu} I, “to be sour,” or else of @i{emēṣu} II, “to be hungry.”
+30. !bs [UŠ?]{+di} & !cm um-mi-di
+#lem: +emēdu[lean on]V$ummidi; +emēdu[lean on]V$ummidi
+
+$ single ruling
+$(top)
+
+31. &2 !zz [ṣa-a-tu₂ u šu-ut pi-i ša₂ * alam-dim₂-ma-a ...] x# di#
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[that]REL; +alandimmû[physique]N$alandimmâ; u; u; X
+
+#note: This line should contain the incipit of @i{Alamdimmû} XII, which is only partially known from catalogs (see Finkel @i{Gs Sachs} [1988] p. 151 A 76 // B 44′ and Böck @i{AfO Beih} 27 p. 27a).
+
+@translation parallel en project
+
+1. LÚ SAG.DU-[x] means ...
+2. SAG.̆ḪA.MA.AL means “proud.”
+3. “Fearsome” means “terrifying.”
+4. “White toe” means @i{namālu-disease}.
+5. “Black toe” means @i{kurāru}-disease.
+
+$ single ruling
+
+6. Lemmata and oral explanations relating to “If (his) neck is long.” (= Alamdimmû IX).
+
+$ single ruling
+
+7. ḪÁŠ means “abdomen.”
+8. ḪÁŠ means “thigh.”
+9. ŠÀ.MAḪ (= @i{Alamdimmû} X 45-46) means “stomach.”
+
+$ single ruling
+
+10. Lemmata and oral explanations relating to “If (his) chest is wide.” (= @i{Alamdimmû} X).
+
+$ single ruling
+
+11. ... means ...
+12. SAG GU.DU means “part of the buttocks.”
+13. GIG.GIR means @kurāru-disease.
+14. ... means “to entrust.”
+15. DÙL means “shade.”
+16. @i{itenṣû} means ...
+17. BAR means ...
+18. ÚR GÌR means “Achiles' tendom.”
+19. “@i{ankle}” [...].
+20. KA, when read /du/, means “support” (of the buttocks).
+21. ...
+22. [...] means “to flutter.”
+
+$ single ruling
+
+23. Lemmata and oral explanations relating to “If he has a cow’s hump.” (= @i{Alamdimmû} XI).
+
+$ single ruling
+
+24. GUR₄ means “to be dominant.”
+25. ALAN means “figure.”
+26. @i{timirāš} means @i{mirāšû}.
+27. MAŠ.ŠU.GÁL means “property.”
+28. ḪÁŠ TE.GÙN.A  means “mole.”
+29. ... means “it is sour.”
+30. [ÚŠ]-@i{di} (?) means “it is leaning.”
+
+$ single ruling
+
+31. Lemmata and oral explanations relating to “If the form [...]” (= @i{Alamdimmû} XII).

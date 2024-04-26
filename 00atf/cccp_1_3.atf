@@ -1,0 +1,506 @@
+&P394923 = CCP 1.3 (http://ccp.yale.edu/P394923) = K.3291 
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+@obverse
+
+1'. [... !bs an]-nu
+#lem: u; +arnu[guilt]N$annu
+
+#tr.en: […] guilt […].
+
+2'. ($___$) [... !cm an-nu ar]-nu 		
+#lem: u; annu[guilt]N; +arnu[guilt]N$
+
+#tr.en: [… Guilt] (means) guilt.
+
+3'. [... !bs hur]-ba#-šu₂ 
+#lem: u; hurbāšu[terror]N
+
+#tr.en: […] cold tremors.
+
+4'. ($___$) [... !cm hur-ba-šu₂ ku]-uṣ#-ṣu 
+#lem: u; hurbāšu[terror]N; +kūṣu[coldness]N$kuṣṣu
+
+#tr.en: [… Cold tremors] (mean) chill.
+
+5'. [... !bs du-u₂-ti u₂]-tam#-mil
+#lem: u; dūtī[virility]N; ūtammil[be(come) veiled]V
+
+#tr.en: [… my masculine features] obscured.
+
+6'. ($___$) [... !cm du-u₂-tu bu-un]-na#-nu-u₂ 
+#lem: u; +dūtu[virility]N$; +bunnannu[physiognomy]N$
+
+#tr.en: [… Masculine features] (mean) outer appearance.
+
+7'. [...] !bs x !cm : ta-ra-nu ṣil-lu 
+#lem: u; u; +tarānu[roof]N$; +ṣillu[shade]N$
+
+#tr.en: […] … Protection (means) covering.
+
+8'. [...] !bs a-tam-mah
+#lem: u; +tamāhu[grasp]V$atammah
+
+#tr.en: […] I will lay hold of […].
+
+9'. ($___$) [... !cm ta]-ma-hu ṣa-ba-tu₄
+#lem: u; +tamāhu[grasp//grasping]V'N$; ṣabātu[seizing]'N
+
+#tr.en: […] To lay hold of (means) to sieze.
+
+10'. [... !bs u₂]-šam#-ga-ru UGU-MU 	
+#lem: u; ušamgarū[persuade]V; +muhhu[skull]N$muhhī
+
+#tr.en: They set […] in alliance against me.
+
+11'. ($___$) [...] !cm nap-ra-ku pe-er-ku
+#lem: u; naprakū[obstacle]N; +perku[transverse line//crime]N'N$
+
+#tr.en: […] Obstruction (means) fraud.
+
+12'. !bs [šap-ta-a-a ša₂ it-ta-aṣ]-ba-ra ha-šik-kiš e-me
+#lem: šaptāya[lip]N; ša[that]REL; ittaṣbarā[prattle]V; hašikkiš[like a deaf man]AV; ēme[become]V
+
+#tr.en: [My lips, which] chattered constantly, became those of a deaf-mute.
+
+13'. ($___$) !cm [ṣa-ba-ru da]-ba#-bu : ha-šik-ku suk-ku-ku : e-mu-u ma-ša₂-lu
+#lem: +ṣabāru[twinkle//twinkling]V'N$; dabābu[speaking]'N; +hašikku[deaf]N$; sukkuku[deaf one]N; +ewû[become//becoming]V'N$; +mašālu[equal//equalling]V'N$
+
+#tr.en: [To chatter] (means) to speak. Deaf (means) deaf. To become (means) to be like.
+
+14'. !bs šar-ra#-ha#-ku#-ma# a-tur a-na re-e-ši !cm : re-e-šu {lu₂}ARAD
+#lem: šarrahākuma[splendid]AJ; atūr[turn]V; ana[to]PRP; +rēšu[head//slave]N'N$rēši; +rēšu[head//slave]N'N$; ardi[servant]N
+
+#tr.en: I was (once) dignified but became a slave. Head (means) slave.
+
+15'. !bs na-al-bu-bu tap-pe-e u₂-nam-ga-ra-an-ni
+#lem: nalbubu[furious]AJ; tappê[companion]N; +nagāru[denounce]V$unamgaranni
+
+#tr.en: In a rage (my) comrade would denounce me. 
+
+16'. ($___$) !cm na-al-bu-bu še₂₀-gu-u₂
+#lem: nalbubu[furious]AJ; +šegû[wild]N$
+
+#tr.en: Raging (means) rabid.
+
+17'. !bs [ki]-na#-at#-[ti a-na na-aq] da#-me# u₂#-[mar]-ra#-aš₂# {giš#}[TUKUL]
+#lem: kinattī[employee]N; ana[to]PRP; +naqû[pour (a libation)]V$naq; dāmē[blood]N; +warāšu[be(come) dirty]V$umarraš; +kakku[weapon]N$
+
+#tr.en: My colleague @?made (his) weapon dirty?@ [for spilling] blood.
+
+18'. ($___$) !cm [ana] na#-aq*# da#-mi ta-[bak da-mi]
+#lem: ana[to]PRP; naq[pour (a libation)]V; dāmī[blood]N; +tabāku[pour (out)//pouring (out)]V'N$tabāk; dāmī[blood]N
+
+#tr.en: For spilling blood (means) for pouring out blood.
+
+#note: The reading of the line follows George & al-Rawi Iraq 60 (1998) p. 200. [EJ]
+19'. !bs šu#-piš ina pu-uh-ri e-ru-ra-an-ni# ar#?-[di !cm : x x x (x)]
+#lem: šūpîš[openly]AV; ina[in]PRP; puhri[assembly]N; +arāru[curse]V$ēruranni; ardī[servant]N; u; u; u; u
+
+#tr.en: My slave openly cursed me in the assembly. [...] 
+
+20'. !bs a-na qa-ab {munus}SIG₅-ia pe-ta-as-su haš-tu₄ !cm : ha-aš₂-tu₄ šu-ut#-[ta-tu₄]
+#lem: ana[to]PRP; +qabû[say//saying]V'N$; +damiqtu[goodness]N$damiqtīya; petâssu[open]AJ; +haštu[hole]N$; +haštu[hole]N$; +šuttatu[(hunter’s) pitfall]N$
+
+#tr.en: A pit lies open for one speaking well of me. Pit (means) grave.
+
+21'. !bs u₄-mu šu-ta-nu-hu mu-šu ger-ra-a-ni !cm : ger-ra-a-ni bi-[ki-tu₄]
+#lem: ūmu[day]N; šutānuhū[be(com)ing depressed]'N; mūšu[night]N; +gerrānu[wailing]N$gerrāni; gerrāni[wailing]N; bikītu[sorrow]N
+
+#tr.en: The day (was) sighing, the night lamentation. Lamentation (means) weeping.
+
+#note: This line of Ludlul is cited in a Late Babylonian commentary fragment, CCP 3.5.u7. [EJ]
+
+22'. !bs ITI qi₂-ta-a-a-u₂-lu i-dir-tu# MU.AN.[NA]
+#lem: arhi[month]N; qitayyulu[anxious silence]N; +idirtu[misery]N$; šatti[year]N
+
+#tr.en: (Every) month a daze, the year misery. 
+
+23'. ($___$) !cm qi₂-ta-a-a-u₂-lu qu-u₂-[lu]
+#lem: qitayyulu[anxious silence]N; +qūlu[silence]N$
+
+#tr.en: Daze (means) stupor.
+
+24'. !bs za-pur-tu₄ u₂-ta-aṣ-ṣa-pa i#-šar#-tu₄# ul ut#-[tu]
+#lem: +zapurtu[wickedness]N$; ūtaṣṣapa[increase]V; +išartu[prosperity]N$; ul[not]MOD; uttu[find]V
+
+#tr.en: My bad luck was increasing, I could not find prosperity.
+
+25'. ($___$) !cm za-pur-tu₄ ru#-ub-[bu?] 
+#lem: zapurtu[wickedness]N; +rūbu[anger]N$rubbu
+
+#tr.en: Bad luck (means) wrath.
+
+26'. !bs i-na maš-šak-ki {lu₂}ENSI# ul u₂!(I)-ša₂-pi di#-ni#
+#lem: ina[in]PRP; maššakki[incense]N; +šāʾilu[asker]N$; ul[not]MOD; +apû[be(come) visible//make manifest]V'V$ušāpi; dīni[judge]V
+
+#tr.en: The dream interpreter did not clarify my case with his incense.
+
+27'. ($___$) !cm maš-šak-ku sur-qe₂-nu ša₂ {lu₂}ENSI#
+#lem: +maššakku[incense]N$; +surqēnu[strewn offering]N$; ša[that]REL; šāʾilu[asker]N
+
+#tr.en: Incense (means) offering of the dream interpreter.
+
+28'. !bs {lu₂}MAŠ.MAŠ ina KID₃.KID₃{+ṭe₃-e} ki-mil-ti ul ip-ṭur
+#lem: mašmaššu[incantation priest]N; ina[in]PRP; kikiṭṭê[ritual procedures]N; kimilti[wrath]N; ul[not]MOD; ipṭur[loosen]V
+
+#tr.en: The exorcist with his ritual did not release the divine anger against me.
+
+29'. ($___$) !cm KID₃.KID₃{+ṭu#-u₂#} ne₂-pe-ši
+#lem: +kikiṭṭû[ritual procedures]N$; +nēpešu[activity]N$nēpeši
+
+#tr.en: Ritual (means) ritual procedure.
+
+30'. !bs a-mur-ma ar₂-ka-tu₄# ri-da#-a-tu₄# ip-pe-e-ri
+#lem: amurma[select]V; +arkatu[rear]N$; +ridûtu[appropriation//persecution]N'N$ridâtu; +ippīru[conflict]N$ippēri
+
+#tr.en: I looked behind me, harassment and trouble.
+
+31'. ($___$) !cm ip-pi-ri : ma#-na-ah-tu₄ : GIG
+#lem: +ippīru[conflict]N$; +mānahtu[weariness]N$; marṣu[patient]N
+
+#tr.en: Trouble (means) fatigue (and) illness.
+
+32'. !bs a-na ša₂ im-hu-u₂ be-la-šu₂# im-šu-u₂ !cm : im-hu-u₂ ka-ba-tu₄
+#lem: ana[for]PRP; ša[that]REL; +mahû[rave//raving]V'N$imhû; +bēlu[lord]N$bēlašu; +mašû[forget]V$imšû; imhû[raving]'N; +kabātu[be(come) heavy//be(com)ing heavy]V'N$
+
+#tr.en:  Like the one who @?raves?@, and forgot his lord. He raves (means) to be @?lethargic?@.
+
+33'. !bs tes₂-li-tu₄ ta-ši-ma-tu₄ ni-qu-u₂ sak-ku-u₂-a !cm : sak-ku-u par-ṣi
+#lem: +teslītu[appeal]N$; +tašīmtu[discernment]N$tašīmatu; niqû[offering]N; sakkûya[(cultic rites)]N; +sakkû[(cultic rites)]N$; parṣī[rite]N
+
+#tr.en: Prayer (was) common sense, sacrifice my rule. Rule/rites (mean) custom/ritual regulation.
+
+34'. !bs ki-i pe-te-e u₃ ka-ta-me ṭe₃#-en#-ši-na šit-ni !cm : u₄-mu u₃ mu-ši
+#lem: kī[as]PRP; petê[opening]'N; u[and]CNJ; +katāmu[cover//covering]V'N$katāme; +ṭēmu[(fore)thought]N$ṭēnšina; šitni[contradictory]AJ; ūmu[day]N; u[and]CNJ; mūši[night]N
+
+#tr.en: Their mind changes in a blink of the eye; literally, like opening and closing. : (Their mind changes like) day and night.
+
+35'. !bs im-mu-ṣa-ma im-ma-a ša₂-lam-tiš₂# !cm [:] un#-ṣu# bu#-bu#-tu₄#
+#lem: +emēṣu[be hungry]V$immuṣā-ma; immâ[become]V; +šalamtiš[like a corpse]AV$; +umṣu[hunger]N$unṣu; +bubūtu[hunger]N$
+
+#tr.en: When they are hungry, they become as corpses. Hunger (means) starvation.
+
+36'. !bs šu-lu₄# lem#-nu# it#-ta#-ṣa#-a# ABZU#-uš#-šu₂# !cm : šu-lu₄ e-ṭem₂-mu
+#lem: +šūlu[evil spirit]N$; lemnu[evil one]N; ittaṣâ[come out]V; +apsû[(cosmic) underground water]N$apsûššu; +šūlu[evil spirit]N$; eṭemmu[ghost]N
+
+#tr.en: A wicked demon/cough has come forth from its Apsu. Shulu-demon (means) ghost.
+
+37'. !bs it-ti ur-qit KI{+tu₄} i-pe-eṣ-ṣu lu-uʾ-tu₄
+#lem: itti[with]PRP; +urqītu[vegetation]N$urqīt; Erṣetu[Underworld]GN; +paʾāṣu[break up]V$ipeṣṣu; +lūtu[debility]N$
+
+#tr.en: Debility broke through the land with the plants.
+
+38'. ($___$) !cm lu-uʾ-tu₄ : mur-ṣu
+#lem: lūtu[debility]N; murṣu[illness]N
+
+#tr.en: Debility (means) illness.
+#note: On the equation luʾtu = murṣu, cf. [@i{l}]@i{u-'-tum mur-ṣ}[@i{u}] in K.5872 9' (unpubl.) [EJ] and CT 41 31 l. 33 (CCP 3.5.49) [AL].
+
+39'. !bs la-ba-ni i-ti-qu₂ u₂-ram-mu-u₂ ki-ša₂-du !cm : i-ti-qu₂ : ra-mu-u : še-be₂-ru#
+#lem: labânī[neck (tendons)]N; +etēqu[go past]V$ītiq; urammû[release]V; kišādu[neck]N; ītiq[go past]V; +ramû[slacken//loosening]V'N$; +šebēru[break//breaking]V'N$
+
+#tr.en: They strained my neck muscles, they made (my) neck limp. To cross over/strain (means) to loosen (and) to break.
+
+40'. !bs gat-ti rap-ša₂-tu ur-ba-ti-iš uš-ni-il-lu₄ !cm : ur-ba-tu : {giš}ur-ba-nu
+#lem: gatti[physique]N; +rapšu[broad]AJ$rapšatu; +urbatiš[like rushes]AV$; +nâlu[lie down (sleep)//flatten]V'V$ušnillū; +urbatu[rush]N$; +urbānu[papyrus]N$
+
+#tr.en: My broad build they leveled like rushes. Rushes (means) papyrus.
+
+41'. !bs ki-i u₂-lil-tu₄ an-na-bi-ik bu-up-pa-niš an-na-di
+#lem: kī[as]PRP; +uliltu[dried fig]N$; +abāku[overturn]V$annabik; +buppāniš[face down]AV$; +nadû[throw (down)]V$annadi
+
+#tr.en: I was thrown down like a @?dried fig?@, I was cast on my face.
+
+42'. ($___$) !cm u₂-lil-tu₄ su-un-gir-tu₄
+#lem: uliltu[dried fig]N; +sungirtu[(a meadow plant)]N$
+
+#tr.en: @?Dried fig?@ (means) sungirtu-plant.
+
+43'. !bs aš₂-na-an šum-ma da-ad-da-riš a-la-ut !cm : da-da-ru bu-uʾ-ša₂-nu
+#lem: ašnan[grain]N; šumma[if]MOD; daddariš[like a foetid plant?]AV; +laʾātu[swallow (up)]V$alaʾʾut; +daddaru[centaury]N$; buʾšānu[(a disease of the mouth, nose and skin)]N
+
+#tr.en: If (it is) grain, I swallow it like stinkweed. Stinkweed (means) buʾšānu-plant.
+
+44'. !bs ap-pu-na-ma e-te-rik si-le-e-tu₄
+#lem: appūnama[moreover]AV; +arāku[be long]V$ēterik; +siliʾtu[sickness]N$silētu
+
+#tr.en: Indeed, (my) illness was chronic.
+
+45'. ($___$) !cm ap-pu-na-ma ma-aʾ-diš : si-le-e-tu₄ : GIG
+#lem: appūnama[moreover]AV; maʾdiš[very]AV; silētu[sickness]N; marṣu[patient]N
+
+#tr.en: Indeed (means) very much. Sickness (means) illness.
+
+46'. !bs a-na ki-šuk-ki-ia i-tu-ra be₂-e-tu !cm : ki-šuk-ku ki-lu₄
+#lem: ana[to]PRP; kišukkiya[jail]N; itūra[turn back]V; +bītu[house]N$bētu; +kišukku[captivity]N$; +kīlu[enclosure]N$
+
+#tr.en: (My) house became my prison. Prison (means) captivity.
+
+47'. !bs {giš}il-lu-ur-tu₄ ši-ri-ia na-da-a i-da-a-a
+#lem: +illurtu[handcuffs]N$; +šīru[flesh]N$šīrīya; nadâ[laid]AJ; idāya[arm]N
+
+#tr.en:  A fetter for my flesh, my arms were useless.
+
+48'. ($___$) !cm {giš}il-lu-ur-tu₄ iz-qa-tu₄
+#lem: illurtu[handcuffs]N; +izqātu[fetters]N$
+
+#tr.en: Fetter (means) handcuff.
+
+49'. !bs maš-kan ram-ni-ia muq-qu-tu₂ še-pa-a-a !cm : maš-kan : bi-ri-tu₄
+#lem: maškan[chain]N; +ramānu[self]N$ramnīya; +muqqutu[fallen]AJ$; šēpāya[foot]N; maškan[chain]N; +birītu[fetter]N$
+
+#tr.en: A shackle to my person, my feet were done for. Shackle (means) fetter.
+
+50'. !bs qin#-na-zi iṭ-ṭa-an-ni ma-la-a ṣil-la-a-tu₄
+#lem: qinnāzi[whip]N; iṭṭânni[beat]V; malâ[abundance]N; +ṣillû[thorn]N$ṣillâtu
+
+#tr.en:  The whip that beat me was full of thorns.
+
+51'. ($___$) !cm qin-na-zu is-tuh-hu : ṣil-la-a-tu₄ ka-ta-a-tu₄
+#lem: qinnāzu[whip]N; +ištuhhu[whip]N$; ṣillâtu[thorn]N; +katâtu[needle]N$
+
+#tr.en: Whip (means) whip. Thorns (means) needles.
+
+@reverse
+
+1. !bs {giš}pa-ru-uš-šu₂ u₂-sah-hi-la-an-ni zi-qa-tu₄ lab-šat !cm : {giš}pa-ru-uš-šu₂ {giš}GIDRU
+#lem: +paruššu[(a sharp stick)]N$; usahhilanni[prick]V; +ziqtu[sting]N$ziqātu; +labšu[clothed]AJ$labšat; paruššu[(a sharp stick)]N; haṭṭi[sceptre]N
+
+#tr.en: A goad covered with thorns pricked me. Goad (means) staff.
+
+2. !bs ub-tal-lil ki-i UDU.NITA₂ ina ta-ba-aš₂-ta-ni-ia
+#lem: +balālu[mix (up)//be covered]V'V$ubtallil; kī[as]PRP; immeri[ram]N; ina[in]PRP; tabāštāniya[excrement]N
+
+#tr.en: I wallowed in my own excrement like a sheep.
+
+3. ($___$) !cm ta-ba-aš₂-ta-nu : zu-u₂ ši-na-tu₄
+#lem: +tabāštānu[excrement]N$; zû[excrement]N; +šīnātu[urine]N$
+
+#tr.en: Excrement (means) shit (and) piss.
+
+4. !bs kab-ta-at ŠU-su ul a-le-ʾi na-ša₂-ša₂ !cm : kab-tu dan-nu
+#lem: kabtat[heavy]AJ; qāssu[hand]N; ul[not]MOD; aleʾʾi[be(come) able]V; +našû[lift]V$našâša; +kabtu[heavy]AJ; dannu[mighty]AJ
+
+#tr.en: His hand was (so) heavy I could not bear it. Heavy (means) strong.
+
+5. !bs lal₃-ur₂-alim-ma a-šib NIBRU{ki} !cm : ṭa-a-bi-u₂-tu-ul-{d}BE
+#lem: +Laluralimma[]DN$; āšib[inhabitant]N; Nippur[1]SN; +Ṭabi-utul-Enlil[]DN$
+
+#tr.en: Laluralimma, resident of Nippur (means) Ṭabi-utul-Enlil (i.e., "sweet is the lap of Enlil").
+
+6. !bs iq-ba-a a-hu-la-pi ma-gal šu-nu-uh-ma !cm : a-hu-la-pi a-di ma-ti
+#lem: +qabû[say]V$iqbâ; ahulapi[(it is) enough!]J; magal[greatly]AV; +šūnuhu[much troubled]AJ$šūnuh-ma; ahulapi[(it is) enough!]J; adi[until]PRP; +mati[when?]AV$
+
+#tr.en: She spoke my deliverance, “he is extremely  exhausted.” My deliverance (means) how long?
+
+7. !bs eṭ-lu ṭar₃-ru a-pir a-ga-šu₂ !cm : ṭar₃-ru dan-nu
+#lem: eṭlu[young man]N; +ṭarru[bearded]AJ$; apir[wearing]AJ; +agû[tiara]N$agâšu; ṭarru[bearded]AJ; dannu[mighty]AJ
+
+#tr.en: A bearded man, wearing his crown. Bearded (means) strong.
+
+8. !bs e-ga-ti-ia u₂-ša₂-bil IM !cm : e-ga-a-ti hi-ṭa-a-ti
+#lem: +egītu[negligence]N$egâtīya; +wabālu[carry]V$ušābil; +šāru[wind]N$; +egītu[negligence]N$egâti; +hiṭītu[shortfall]N$hiṭâti
+
+#tr.en: He caused the wind to carry off my acts of negligence. Acts of negligence (mean) sins.
+
+9. !bs GEŠTU-MIN-a-a ša₂ uṭ-ṭam-me-ma us-sak-ki-ra ha-šik-kiš !cm : ha-šik-ku suk-ku-ku
+#lem: +uznu[ear]N$uznāya; ša[that]REL; +ṭummumu[block (ears)]V$uṭṭamemā; +sekēru[shut off]V$ussakkira; hašikkiš[like a deaf man]AV; hašikku[deaf]N; sukkuku[deaf one]N
+
+#tr.en: My ears, which were clogged and stopped up like a deaf man’s. Deaf (means) deaf.
+
+10. !bs it-bal a-mir-ši-na ip-te-te neš-ma-a-a !cm : a-me-ra ze-e uz-ni
+#lem: itbal[disappear]V; +amīru[obstruction of the ear]N$amīršina; iptete[open]V; +nešmû[hearing]N$nešmāya; +amīru[obstruction of the ear]N$amīra; zê[excrement]N; +uznu[ear]N$uzni
+
+#tr.en: He removed their wax, he opened my hearing. Wax obstruction of the ear (means) ear shit.
+
+11. !bs ur-u₂-di ša₂ in-ni-is-ru u₂-nap-pi-qu la-gab-biš !cm : la-gab-biš ša₂ a-šaṭ pag-ri
+#lem: +urʾudu[windpipe]N$urʾudī; ša[that]REL; +esēru[enclose]V$innisru; +napāqu[harden//be constipated]V'V$unappiqu; +lagabbiš[like a lump]N$; lagabbiš[like a lump]N; ša[that]REL; +ašṭu[stiff]AJ$ašaṭ; pagri[body]N
+
+#tr.en: (My) throat, which was constricted, was blocked as with a lump. : Like a lump (refers to the man whose) body is stiff.
+
+#note: The explanation seems to consist of a paraphrase of the hapax legomenon @i{lagabbiš}. CAD P 12a reads @i{ša amāt pagri}, "in the manner of(?) a corpse," but it seems preferable to understand it as a constuction of the @i{rapaš uzni} type. [EJ]
+
+12. !bs uš-ṭib-ma i-ra-ti-ša₂ ma-li-liš uh-tal#?-lil#?-ša₂ !cm ma-li-lu₄ em-bu-bu
+#lem: +ṭiābu[be(come) good//make good]V'V$ušṭībma; +irtu[breast]N$irātīša; +malīliš[like a pipe?]N$; +halālu[pipe]V$uhtallilša; +malīlu[pipe]N$; +ebbūbu[flute]N$embūbu
+
+#tr.en: He made it well and @?caused it to sound?@ its songs like a reed flute. Reed flute (means) flute/windpipe.
+
+13. !bs la-ga-a-a-ša₂ i-šir₂ i-dil-taš ip-ti !cm : la-ga-u₂ ši-ik-tu₄
+#lem: +lagāʾu[scale]N$lagāʾaša; +ešēru[be/go well]V$īšir; +idiltu[locking]N$idiltaš; +petû[open]V$ipti; +lagāʾu[scale]N$; +šiktu[slag]N$
+
+#tr.en: Its @?swelling?@ went down, and he opened its stoppage. Scales (mean) scales.
+
+14. !bs šam-ma-hu ša₂ ina un-ṣi it-tar-ru-u₂ ki-ma pi-sa-an-ni ir-rak-su !cm un-ṣu bu-bu-tu₄
+#lem: +šammāhu[large intestine]N$; ša[that]REL; ina[in]PRP; unṣi[hunger]N; +warû[lead]V$ittarrû; kīma[like]PRP; +pišannu[box]N$pisanni; irraksu[set out]V; unṣu[hunger]N; bubūtu[hunger]N
+
+#tr.en: The large intestine, which was @i{lead away} in hunger and woven together like a basket. Hunger (means) starvation.
+
+15. !bs i-mah-har ip-te-en-ni ub-ba-la maš-qi₂-ta !cm : ip-te-en-ni# ma#-ka-lu-u
+#lem: imahhar[digest]V; +iptennu[meal(-time)]N$iptenni; ubbala[be(come) worth]V; +mašqītu[watering place]N$; iptenni[meal(-time)]N; +mākālu[meal]N$mākālû
+
+#tr.en: It accepts meals, it takes drink. Meals (mean) food.
+
+16. !bs ki-ša₂-di ša₂ ir-mu-u₂ er-na-ma ik-kap#-pu
+#lem: +kišādu[neck]N$kišādī; ša[that]REL; +ramû[slacken]V$irmû; +erēnu[root]N$ernā-ma; ikkappu[be(come) bent]V
+
+#tr.en: My neck, which was loose and twisted at its base,
+
+17. ($___$) !cm e-re-e-na :. šur-šu : e-ri-na-ti
+#lem: +erēnu[root]N$; +šuršu[root]N$; +erēnu[root]N$erēnāti
+
+#tr.en: Root (means) root (and) ...
+
+18. !bs u₂-pat-tin kin-ne₂-e a-ma-liš iz-qu-up !cm : kin-nu-u KUR{+u₂} : a-ma-lu {giš}U₃#.SUH₅#
+#lem: +patānu[become strong//strengthen]V'V$upattin; +kinnû[mountain]N$kinnê; +amališ[like an a. tree]AV$; +zaqāpu[fix upright]V$izqup; +kinnû[mountain]N$; šadû[mountain]N; +amalu[(a conifer)]N$; ašūhi[pine-tree]N
+
+#tr.en: He strengthened it (as) a mountain, he planted (it) erect like a tree. Mountain (means) mountain. Tree (means) pine tree.
+
+19. !bs a-na ga-mir a-ba-ri u₂-ma-ši u₂-maš-šil
+#lem: ana[to]PRP; gamir[full]AJ; +abāru[embrace]N$abāri; +umāšu[grappling-hook (for wrestlers)]N$umāšī; umaššil[equal]V
+
+#tr.en: He made my physique like one perfect in strength.
+
+20. ($___$) !cm a-ba-ri e-mu-qu : u₂-ma-ši ṣal-mu
+#lem: abāri[embrace]N; emūqu[strength]N; umāšī[grappling-hook (for wrestlers)]N; +ṣalmu[effigy]N$
+
+#tr.en: Strength (means) strength : Physique (means) image.
+
+21. !bs GIM! na-kim-tu₄ šu-ṣi-i u₂-ṣap-pi-ra ṣu-pur-a-a
+#lem: kīma[like]PRP; u; šūṣî[driving out]'N; +ṣapāru[press down]V$uṣappira; +ṣupru[(finger/toe-)nail]N$ṣuprāya
+
+#tr.en: As to expel ..., he trimmed my nails.
+
+22. ($___$) !cm {lu₂}šu-ṣu#-u₂# : ša₂ {d}iš-tar ana IZI E₃{+a}
+#lem: +šūṣû[made leave]N$; ša[of]DET; Ištar[1]DN; ana[to]PRP; išātu[fire]N; +waṣû[go out//expel]V'V$ušēṣṣâ
+
+#tr.en: One who expels (means) one whom Ishtar expels to the fire.
+
+23. !bs it-bu-uk ma-[na]-ah#-ta-šin# x#-x#-ša₂-šin uš-ṭib
+#lem: itbuk[spill]V; +mānahtu[weariness]N$mānahtašin; u; +ṭiābu[be(come) good//make good]V'V$ušṭīb
+
+#tr.en: He dispelled their fatigue, their ... he made well.
+
+24. ($___$) !cm ma-na-ah-tu# : GIG [x-x]-ša₂-šu₂ : SAG.DU
+#lem: +mānahtu[weariness]N$; +murṣu[illness]N$; u; qaqqadu[head]N
+
+#tr.en: Fatigue (means) illness. [...] ... (means) head.
+
+25. !bs bir-ka-a-a ša₂ uk-tas-sa-a bu-ṣi-[iš ub-bu]-ṭa# :#  !cm bu-ṣi : iṣ-ṣur hur-ri
+#lem: +birku[knee]N$birkāya; ša[that]REL; +kasû[bind]V$uktassâ; +būṣiš[like a b. bird]AV$; +ebēṭu[swell up]V$ubbuṭā; +būṣu[hyaena]N$; iṣṣūr[bird]N; hurri[hole]N
+
+#tr.en: My knees, which were bound and restrained like a būṣu-bird. Būṣu-bird (means) @?partridge?@. 
+
+26. !bs šuk-lul-tu₄ pag-[ri]-ia iš-ta-at-x [x x] x# !cm : šuk-lul-tu₂ : la-a-nu
+#lem: +šuklultu[completion]N$; pagriya[body]N; u; u; u; u; +šuklultu[completion]N$; lānu[form]N
+
+#tr.en: The form of my body ... [...] ... Form (means) stature.
+
+27. !bs im-šu-uš ma-am-me₂-e ru#-šu-uš u₂-zak-ki
+#lem: +mašāšu[wipe off]V$imšuš; +mammû[frost]N$mammê; +rūšu[dirt]N$rūšuš; +zakû[be(come) clear]V$uzakki
+
+#tr.en: He wiped clean the dirt, he cleaned its filth.
+#note: There is a sign erased after @i{imšuš}.
+28. ($___$) !cm ma-ša-šu₂ : ka-pa-ru : ma-am-mu-u : šu#-uh-tu : ru-ši-iš : eb-bi
+#lem: +mašāšu[wipe off//wiping off]V'N$; +kapāru[wipe (clean)]V$; +mammû[frost]N$; +šuhtu[verdigris]N$; +rūšu[dirt]N$rūšiš; ebbi[pure man]N
+
+#tr.en: To wipe (means) to wipe. Dirt (means) rust (and) like dirt. (The line means) clean.
+#note: The scribe may have left out rūšuš from the base text immediately before rūšiš, the explanation.
+
+29. !bs du-u₂-tu₄ um-mul-tu₄ it-ta-per-di !cm : du-u₂-tu : bu-un-na-nu-u
+#lem: +dūtu[virility]N$; +ummulu[stifled]AJ$ummultu; +napardû[shine brightly]V$ittaperdi; dūtu[virility]N; +bunnannu[physiognomy]N$
+
+#tr.en: (My) overshadowed masculine features have become brilliant (again). Masculine features (mean) outer appearance.
+
+30. !bs i-na i-te-e {d}ID₂ a-šar de-en UN-MEŠ ib-bir-ru
+#lem: ina[in]PRP; itê[boundary]N; Id[River]DN; ašar[where]SBJ; +dīnu[legal decision]N$dēn; nišū[people]N; +bêru[choose]V$ibbirru
+
+#tr.en: On the bank of the River, where people’s judgment is decided,
+
+31. ($___$) !cm i-te-e {d}ID₂ hur-ša₂-an
+#lem: itê[boundary]N; Id[River]DN; huršān[river ordeal]N
+
+#tr.en: Bank of the River (means) ordeal.
+
+32. !bs mut#-ta#-tu# am#-ma#-šid# ab#-bu#-ut#-tu₄# ap#-pa#-šir# !cm [: ab-bu-ut]-tu# bi-ri-tu
+#lem: +muttatu[half]N$muttūtu; +mašādu[beat]V$ammašid; +abbuttu[(a hair-style)]N$; +pašāru[release]V$appašir; +abbuttu[(a hair-style)]N$; +birītu[fetter]N$
+
+#tr.en: I was struck on the @?forehead?@, I was released from slavery. [:] abbuttu-hair clasp (means) fetter.
+
+33. !zz [...]
+#lem: u
+
+#tr.en: [...]
+
+34. !zz [...]
+#lem: u
+
+#tr.en: [...]
+
+35. !bs [...] x [...] x !cm re-e#-mu# 
+#lem: u; u; u; u; rēmu[mercy]N
+
+#tr.en: [...] ... [...] ...  mercy.
+
+36. !bs [ku-nu-uš]-kad₃#-ru i-na pi-šer₃#-ti# a-ba-ʾa
+#lem: +Kunuškadru[]GN$; ina[in]PRP; +pišertu[release]N$pišerti; +bâʾu[go along]V$abaʾʾa
+
+#tr.en: I walked along (the street) Kunush-kadru released.
+
+37. ($___$) !cm [ku]-nu#-uš-kad₃-ru : su₂-qi₂ qat-nu
+#lem: Kunuškadru[1]GN; +sūqu[street]N$sūqi; qatnu[narrow]AJ
+
+#tr.en: Kunush-kadru (means) narrow street.
+
+38. !bs [ša₂] a-na E₂.SAG.IL₂ e-gu-u ina ŠU-ia li-mur !cm : e-gu-u ha-ṭu-u
+#lem: ša[which]REL; ana[for]PRP; Esaggil[1]TN; +egû[be(come) lazy]V$; ina[in]PRP; +qātu[hand]N$qātīya; līmur[see]V; +egû[be(come) lazy//be(com)ing lazy]V'N$; +haṭû[do wrong//doing wrong]V'N$
+
+#tr.en: Let [the one who] was negligent of/sinned against Esagil learn from my example. To be negligent (means) to do wrong.
+
+39. !bs i-na pi-i ger-ra GU₇-ia id-di nap-sa-ma {d}AMAR.UTU
+#lem: ina[in]PRP; pî[mouth]N; +gerru[lion cub]N$gerra; +ākilu[that eats]AJ$ākilīya; iddi[voice]V; +napsamu[nose bag]N$napsama; Marduk[1]DN
+
+#tr.en: In/on the mouth of the lion that was eating me, Marduk put a bit/muzzle.
+
+40. ($___$) !cm ger-ra : UR.MAH nap-sa-mu : ma-ak-ṣa-ru ša₂ KA ANŠE.KUR.RA
+#lem: gerra[lion cub]N; nēša[lion]N; +napsamu[nose bag]N$; +makṣāru[snaffle]N$; ša[of]DET; pî[accordance]N; sisê[horse]N
+
+#tr.en: Lion (means) lion. Bit/muzzle (means) a bit for a horse’s mouth.
+
+41. !bs {d}AMAR.UTU ša₂ mu-kaš-ši-di-ia i-kim as-pa#-šu₂ as-suk-ka-šu₂ u₂-sah-hir₂
+#lem: Marduk[1]DN; ša[that]REL; +mukaššidu[pursuer]N$mukaššidīya; +ekēmu[take away]V$īkim; +aspu[sling]N$aspašu; assukašu[sling-stone]N; +sahāru[go around//turn around]V'V$usahhir
+
+#tr.en: Marduk confiscated my pursuer’s sling, he turned back his sling stone.
+
+42. ($___$) !cm as#-suk#-ku# [a]-bat#-tu#  : as₂-pu us₂-pu 
+#lem: assukku[sling-stone]N; +abattu[river-gravel]N$; +aspu[sling]N$aspu; +aspu[sling]N$uspu
+
+#tr.en: Sling stone (means) slingstone. Sling (means) sling.
+#note: The second equation explains a Babylonian word by means of its Assyrian form, thus suggesting that the Ludlul commentary might be Assyrian creation. [EJ]
+43. !bs id-di# [...]-bir !cm : KI.HUL{+u} bi-ki-tu₄
+#lem: iddi[voice]V; u; +kihullû[mourning rites]N$; bikītu[sorrow]N
+
+#tr.en: ... [...] ... Mourning rites (mean) weeping.
+
+44. !bs x# [...] x# !cm i-na-an-na
+#lem: u; u; u; inanna[now]AV
+
+#tr.en: ... [...] ... (means) now.
+
+45. !zz [...] x# tum# x# ru
+#lem: u; u; X; u; X
+
+#tr.en: [...] ...
+
+46. !zz [...] bit#
+#lem: u; X
+
+#tr.en: [...] ...
+
+47. !zz [...] x#
+#lem: u; u
+
+#tr.en: [...] ...

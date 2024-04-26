@@ -1,0 +1,1267 @@
+@project ccpo
+@lang sux
+@name sux
+
+@letter A
+
+@entry a [water] N
+@bases a
+@form a /a #~
+@form a-a /a #~,a
+@sense N water
+@sense N progeny
+@sense N semen
+@end entry
+
+@entry aʾan [spadix] N
+@bases {ŋeš}an-na
+@form {ŋeš}an-na /{ŋeš}an-na #~
+@sense N date spadix
+@end entry
+
+@entry abba [father] N
+@bases ab; ab-ba
+@form ab /ab #~
+@form ab-ba /ab-ba #~
+@sense N father
+@sense N elder
+@end entry
+
+@entry abzu [water] N
+@bases abzu
+@form abzu /abzu #~
+@sense N (cosmic) underground water
+@end entry
+
+@entry agazi [loss] N
+@bases a-ga-zi
+@form a-ga-zi /a-ga-zi #~
+@sense N financial loss
+@end entry
+
+@entry ak [do] V/t
+@bases ak; b°a-k·e₄
+@form ak-a-de₃ /ak #~;ed,e
+@form i₃-ak-a /ak #V:~;a
+@form ib₂-ba-ke₄-e-ne $(ib₂-ba-ke₄-e-ne) $ib₂-ba-ke₄-e-ne /b°a-k·e₄ #~;*a.ene
+@form na-an-ak-e-en /ak #na.V.n:~;e.en
+@sense V/t do
+@sense V/t to do
+@end entry
+
+@entry ama [chamber] N
+@bases ama
+@form ama /ama #~
+@sense N chamber
+@end entry
+
+@entry ama [mother] N
+@bases ama
+@form ama /ama #~
+@sense N mother
+@end entry
+
+@entry ambar [reed-bed] N
+@bases en₃-bar
+@form en₃-bar /en₃-bar #~
+@sense N reed-bed, marsh
+@end entry
+
+@entry an [sky] N
+@bases an
+@form an-na /an +-na=n.a #~,ak
+@form an /an #~
+@form an-ta /an #~,ta
+@sense N sky, heaven
+@sense N above
+@end entry
+
+@entry ana [what?] QP
+@bases a-na
+@form a-na-bi /a-na #~,bi
+@sense N as much as (math.)
+@end entry
+
+@entry anta [companion] N
+@bases an-ta
+@form an-ta /an-ta #~
+@sense N companion
+@end entry
+
+@letter B
+
+@entry bad [open] V/t
+@bases bad
+@form bad /bad #~
+@sense V/t to open, undo
+@end entry
+
+@entry bad [wall] N
+@bases bad₃
+@form bad₃ /bad₃ #~
+@sense N wall, fortification
+@end entry
+
+@entry bala [turn] V/t
+@bases bala
+@form bala /bala #~
+@form mu-un-da-bala-e /bala #mu.n.da:~;e
+@sense V/t to turn, rotate, turn over
+@end entry
+
+@entry banda [junior] V/i
+@bases ban₃-da
+@form ban₃-da /ban₃-da #~
+@sense AJ (to be) junior
+@end entry
+
+@entry bar [cvve] V/t
+@bases bar; ba-r·a
+@form bar-ra-ta /bar #~;a,ta
+@form ba-ra /ba-r·a #~;a
+@sense V/t cvve
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry bar [outside] V/t
+@bases bar; bar{+ba-ar₂}
+@form bar /bar #~
+@form bar{+ba-ar₂} /bar{+ba-ar₂} #~
+@sense N outside, (other) side
+@end entry
+
+@entry barag [sanctum] N
+@bases barag
+@form barag-ba /barag #~,bi.ak
+@sense N sanctum
+@end entry
+
+@entry bar.NUN [diagonal] N
+@bases bar-NUN
+@form bar-NUN /bar-NUN #~
+@sense N diagonal (math.)
+@end entry
+
+@entry bisaŋ [basket] N
+@bases {+ma-a}ŋa₂
+@form {+ma-a}ŋa₂ /{+ma-a}ŋa₂ #~
+@sense N basket
+@end entry
+
+@entry bur [bowl] N
+@bases bur
+@form bur /bur #~
+@sense N (stone) bowl
+@end entry
+
+@letter D
+
+@entry dag [demolish] V/t
+@bases dag
+@form dag /dag #~
+@sense V/t overthrow, military repulse
+@end entry
+
+@entry dag [dwelling] N
+@bases dag-dag
+@form dag-dag /dag-dag #~
+@sense N dwelling
+@end entry
+
+@entry di [go] V/i
+@bases di-di
+@form di-di /di-di #~
+@sense V/i to go
+@end entry
+
+@entry dib [board] N
+@bases dib
+@form dib /dib #~
+@sense N board
+@end entry
+
+@entry diŋir [deity] N
+@bases diŋir
+@form diŋir /diŋir #~
+@sense N deity, god, goddess
+@end entry
+
+@entry dikud [judge] N
+@bases di-kud
+@form di-kud-gin₇ /di-kud #~,gin
+@sense N judge
+@end entry
+
+@entry dili [single] V/i
+@bases dili
+@form dili /dili #~
+@form dili-me /dili #~;*a,me
+@sense V/i (to be) single, unique, sole
+@sense V/i single
+@end entry
+
+@entry dirig [fall] V/i
+@bases dirig
+@form dirig /dirig #~
+@sense V/t to fall down, collapse
+@end entry
+
+@entry du [build] V
+@bases {+du-u}du₃
+@form {+du-u}du₃ /{+du-u}du₃ #~
+@sense V build
+@end entry
+
+@entry du [build] V/t
+@bases du₃-du₃
+@form im-ta-du₃-du₃-e /du₃-du₃ #V.m.ta:~;e
+@sense V/t to build, make
+@end entry
+
+@entry dug [speak] V/t
+@bases dug₄
+@form im-me /dug₄ #X
+@form ga-ra-ab-dug₄ /dug₄ #ga.V.ra.b:~
+@form im-mi-dug₄-ga-gin₇ /dug₄ #Vmma.i:~;a,gin
+@sense V/t to do, perform
+@sense V/t to speak, talk, say
+@end entry
+
+@entry dun [warp] V
+@bases {+tu-un}tunₓ(DUB₂)
+@form {+tu-un}tunₓ(DUB₂) /{+tu-un}tunₓ(DUB₂) #~
+@sense V warp
+@end entry
+
+@entry dur [balk] N
+@bases dur
+@form dur /dur #~
+@sense N balk?
+@end entry
+
+@entry dur [board] N
+@bases dur₂
+@form dur₂-bi /dur₂ #~,bi
+@sense N board
+@end entry
+
+@letter E
+
+@entry e [house] N
+@bases e₂
+@form e₂ /e₂ #~
+@sense N house
+@end entry
+
+@entry e [interjection] J
+@bases e
+@form e /e #~
+@sense J a vocative interjection
+@end entry
+
+@entry e [leave] V/i
+@bases e₃; i
+@form e₃ /e₃ #~
+@form i /i #~
+@form i-i /i #~;e
+@sense V/t to leave
+@sense V/i to leave, go out
+@end entry
+
+@entry e [speak] V/t
+@bases b°e₂
+@form hu-mu-ra-ab-be₂ /b°e₂ #ha.mu.ra.b:~
+@sense V/t perfect plural and imperfect stem of dug⟦to speak⟧
+@end entry
+
+@entry ed [ascend] V/i
+@bases ed₃
+@form ed₃ /ed₃ #~
+@sense V/i to go up, ascend
+@end entry
+
+@entry egar [form] N
+@bases e₂-gar₈
+@form e₂-gar₈-bi /e₂-gar₈ #~,bi
+@form e₂-gar₈ /e₂-gar₈ #~
+@sense N form
+@sense N form, shape
+@end entry
+
+@entry emegala [nurse] N
+@bases eme₂-ga-la₂
+@form eme₂-ga-la₂ /eme₂-ga-la₂ #~
+@sense N wet nurse
+@end entry
+
+@entry en [cvne] N
+@bases inim
+@form inim /inim #~
+@sense N (compound verb nominal element)
+@end entry
+
+@entry en [incantation] N
+@bases en₂
+@form en₂ /en₂ #~
+@sense N incantation, spell
+@end entry
+
+@entry en [lord] N
+@bases en
+@form en /en #~
+@sense N lord
+@end entry
+
+@entry endur [navel?] N
+@bases dur
+@form dur /dur #~
+@sense N navel?
+@end entry
+
+@entry engur [waters] N
+@bases engur
+@form engur-ra /engur +-ra=r.a #~,ak
+@sense N (cosmic) underground waters
+@end entry
+
+@entry er [tears] N
+@bases er₂
+@form er₂-bi-e /er₂ #~,bi.e
+@sense N tears
+@end entry
+
+@entry eš [rope] N
+@bases eš₂
+@form eš₂ /eš₂ #~
+@sense N rope, thong, string
+@end entry
+
+@entry ešŋar [part of a loom] N
+@bases eš₂-ŋar
+@form eš₂-ŋar /eš₂-ŋar #~
+@sense N part of a loom
+@end entry
+
+@letter G
+
+@entry gagutagga [arrow] N
+@bases {urud}gag-u₄-tag-e
+@form {urud}gag-u₄-tag-e /{urud}gag-u₄-tag-e #~
+@sense N arrow
+@end entry
+
+@entry gal [big] V/i
+@bases gal-gal
+@form gal-gal-la /gal-gal +-la=l.a #~,ak
+@form gal-gal-e-ne /gal-gal #~;e.ene
+@sense V/i (to be) big, great
+@end entry
+
+@entry gi [thicket] N
+@bases gi
+@form gi /gi #~
+@sense N reed thicket
+@end entry
+
+@entry gid [long] V/i
+@bases gid₂
+@form gid₂ /gid₂ #~
+@sense V/i (to be) long
+@end entry
+
+@entry gig [sick] V/i
+@bases gig-ga
+@form gig-ga /gig-ga #~
+@sense V/i (to be) sick
+@end entry
+
+@entry gigri [dive] V/t
+@bases gir₅-gir₅
+@form gir₅-gir₅ /gir₅-gir₅ #~
+@sense V/t to dive
+@end entry
+
+@entry gin [firm] V/i
+@bases gin₆
+@form gin₆-na-ta /gin₆ #~;a,ta
+@form mu-un-gin₆-ne-eš /gin₆ #mu.n:~;eš
+@sense V/i firm
+@sense V/t establish
+@end entry
+
+@entry gir [slip] V/i
+@bases gir₅-gir₅
+@form gir₅-gir₅ /gir₅-gir₅ #~
+@sense V/i to slip (in or through), glide
+@end entry
+
+@entry gu [neck] N
+@bases gu₂; u-gu₄
+@form gu₂-da /gu₂ #~,da
+@form u-gu₄ /u-gu₄ #~
+@form gu₂ /gu₂ #~
+@sense N neck
+@end entry
+
+@entry gub [stand] V/i
+@bases gub
+@form gub /gub #~
+@form ba-gub /gub #ba:~
+@form ha-ba-gub-bu-nam /gub +-bu=b.u #ha.ba:~;e.en.am
+@form im-ma-gub /gub #Vmma:~
+@sense V/i to stand
+@sense V/i (to be) assigned (to a task)
+@end entry
+
+@entry gud [jump] V
+@bases gud
+@form gud /gud #~
+@sense V jump
+@end entry
+
+@entry gug [carnelian] N
+@bases gug
+@form gug /gug #~
+@sense N carnelian
+@end entry
+
+@entry gul [destroy] V/t
+@bases gul
+@form na-an-gul-la /gul #na.n:~;a
+@form na-an-gul-e /gul #na.V.n:~;e
+@sense V/t destroy
+@sense V/t to destroy
+@end entry
+
+@entry gur [thick] V/i
+@bases gur₄-gur₄
+@form gur₄-gur₄ /gur₄-gur₄ #~
+@sense V/i (to be) big, to feel big
+@end entry
+
+@entry gurud [throw] V/t
+@bases gurud
+@form gurud-da /gurud +-da=d.a #~;a
+@form u₃-bi₂-in-gurud-de₃ /gurud +-de₃=d.e #u.ba.i.n:~;e
+@sense V/t to throw, place
+@end entry
+
+@letter Ŋ
+
+@entry ŋaʾe [I] IP
+@bases ŋa₂-e
+@form ŋa₂-e /ŋa₂-e #~
+@sense IP I
+@end entry
+
+@entry ŋal [be] V/i
+@bases ŋal₂
+@form ŋal₂ /ŋal₂ #~
+@sense V/i to exist
+@end entry
+
+@entry ŋalga [forethought] N
+@bases ŋalga
+@form ŋalga-ne-ne /ŋalga #~,nene
+@sense N plan
+@end entry
+
+@entry ŋar [place] V/t
+@bases ŋa₂-ŋa₂
+@form al-ŋa₂-ŋa₂ /ŋa₂-ŋa₂ #al:~
+@sense V/t to place on, put on
+@sense V/t to remove
+@end entry
+
+@entry ŋen [go] V/i
+@bases ŋa₂; ŋen
+@form ŋa₂ /ŋa₂ #~
+@form ŋen /ŋen #~
+@sense V/i go
+@sense V/i to go
+@end entry
+
+@entry ŋeškiŋti [workshop] N
+@bases ŋeš-kiŋ₂-ti
+@form ŋeš-kiŋ₂-ti-ŋu₁₀-še₃ /ŋeš-kiŋ₂-ti #~,ŋu.eše
+@sense N craft workshop
+@end entry
+
+@entry ŋeškim [sign] N
+@bases ŋeškim
+@form ŋiškim /ŋeškim #~
+@sense N sign, omen
+@end entry
+
+@entry ŋidlam [spouse] N
+@bases ŋidlam
+@form ŋidlam-ŋu₁₀ /ŋidlam #~,ŋu
+@sense N spouse
+@end entry
+
+@entry ŋirizugalak [flint] N
+@bases {na₄}ŋiri₂-zu₂-gal-la
+@form {na₄}ŋiri₂-zu₂-gal-la /{na₄}ŋiri₂-zu₂-gal-la #~
+@sense N flint
+@end entry
+
+@letter H
+
+@entry huŋ [pacify] V/t
+@bases huŋ-ŋa₂
+@form huŋ-ŋa₂ /huŋ-ŋa₂ #~
+@sense V/t to pacify
+@end entry
+
+@entry hulu [bad] V/i
+@bases hul
+@form hul /hul #~
+@sense V/i (to be) bad, evil
+@end entry
+
+@entry huluŋal [evil] AJ
+@bases hul-ŋal₂
+@form hul-ŋal₂ /hul-ŋal₂ #~
+@sense AJ evil
+@end entry
+
+@entry huluh [frightened] V/i
+@bases du₃-luh
+@form du₃-luh /du₃-luh #~
+@sense V/i frightened
+@end entry
+
+@entry hursaŋ [mountain] N
+@bases hur-saŋ
+@form hur-saŋ-ŋa₂-ke₄ /hur-saŋ +-ŋa₂=ŋ.a #~,ak.e
+@sense N mountain
+@end entry
+
+@letter I
+
+@entry i [oil] N
+@bases {+i}i₃; i₃{+i-ʾu-u}
+@form {+i}i₃ /{+i}i₃ #~
+@form i₃{+i-ʾu-u} /i₃{+i-ʾu-u} #~
+@sense N oil
+@end entry
+
+@entry ib [angry] V/i
+@bases ib₂
+@form ib₂-ba-ke₄-e-ne $ib₂-ba-ke₄-e-ne $(ib₂-ba-ke₄-e-ne) /ib₂ +-ba=b.a #~;a
+@form ib₂ /ib₂ #~
+@sense V/i angry
+@sense V/i (to be) angry
+@end entry
+
+@entry idub [granary] N
+@bases i₃-dub
+@form i₃-dub /i₃-dub #~
+@sense N granary
+@end entry
+
+@entry igi [eye] N
+@bases igi
+@form igi /igi #~
+@form igi-ni-še₃ /igi #~,ani.eše
+@sense N eye
+@end entry
+
+@entry igi [face] N
+@bases igi
+@form igi /igi #~
+@sense N front
+@end entry
+
+@entry imanak [stone] N
+@bases {na₄}im-an-e
+@form {na₄}im-an-e /{na₄}im-an-e #~
+@sense N a stone
+@end entry
+
+@entry inim [word] N
+@bases inim
+@form inim /inim #~
+@sense N word
+@end entry
+
+@entry iškila [shell] N
+@bases {na₄}iškila
+@form {na₄}iškila /{na₄}iškila #~
+@sense N shell
+@end entry
+
+@entry itud [moon] N
+@bases itud
+@form itud /itud #~
+@sense N month
+@end entry
+
+@letter K
+
+@entry kaʾinima [formula] N
+@bases ka-inim-ma
+@form ka-inim-ma /ka-inim-ma #~
+@sense N incantation formula
+@end entry
+
+@entry kag [mouth] N
+@bases ka
+@form ka /ka #~
+@sense N mouth
+@end entry
+
+@entry kašbir [beer] N
+@bases {kaš}kaš-bi-ir
+@form {kaš}kaš-bi-ir /{kaš}kaš-bi-ir #~
+@sense N beer
+@end entry
+
+@entry kešed [bind] V/t
+@bases keš₂
+@form keš₂-da /keš₂ +-da=d.a #~;a
+@form keš₂ /keš₂ #~
+@sense V/t bind
+@sense V/t to bind
+@end entry
+
+@entry ki [place] N
+@bases ki
+@form ki-a /ki #~,a
+@form ki-bi /ki #~,bi
+@form ki /ki #~
+@sense N land, country
+@sense N place
+@end entry
+
+@entry kibala [rebel land] N
+@bases ki-bala
+@form ki-bala-a-še₃ /ki-bala #~,ak.eše
+@sense N rebel land
+@end entry
+
+@entry kiŋ [work] N
+@bases kiŋ₂
+@form kiŋ₂-še₃ /kiŋ₂ #~;*a,eše
+@sense N work
+@end entry
+
+@entry kiŋgia [messenger] N
+@bases {lu₂}kiŋ₂-gi₄-a
+@form {lu₂}kiŋ₂-gi₄-a /{lu₂}kiŋ₂-gi₄-a #~
+@sense N messenger
+@end entry
+
+@entry kirid [clasp] N
+@bases {ŋeš}{+ki-ri-is}kirid
+@form {ŋeš}{+ki-ri-is}kirid /{ŋeš}{+ki-ri-is}kirid #~
+@sense N clasp
+@end entry
+
+@entry kud [cut] V/t
+@bases kud
+@form kud /kud #~
+@sense V/t to break off, deduct
+@end entry
+
+@entry kur [mountain] N
+@bases kur; kur-kur
+@form kur /kur #~
+@form kur-kur-ra /kur-kur +-ra=r.a #~,ak
+@sense N mountain(s)
+@sense N land, country
+@end entry
+
+@letter L
+
+@entry la [hang] V/t
+@bases la₂
+@form la₂ /la₂ #~
+@sense V/t to hang, balance, suspend,
+@end entry
+
+@entry larah [straits] N
+@bases la-ra-ah
+@form la-ra-ah-a-kam₂ /la-ra-ah #~,ak.am
+@form la-ra-ah /la-ra-ah #~
+@sense N straits
+@end entry
+
+@entry lil [ghost] N
+@bases lil₂
+@form lil₂-la₂ /lil₂ +-la₂=l.a #~,ak
+@form lil₂ /lil₂ #~
+@sense N ghost
+@end entry
+
+@entry limmu [four] NU
+@bases lam₄-ma
+@form lam₄-ma /lam₄-ma #~
+@sense NU four
+@end entry
+
+@entry lu [abundant] V/i
+@bases lu₂
+@form lu₂ /lu₂ #~
+@sense V/i (to be) abundant
+@end entry
+
+@entry lu [person] N
+@bases nu; lu₂
+@form nu /nu #~
+@form lu₂ /lu₂ #~
+@sense N person
+@end entry
+
+@entry lugal [king] N
+@bases lugal
+@form lugal-e /lugal #~,e
+@form lugal-ŋu₁₀ /lugal #~,ŋu
+@form lugal /lugal #~
+@sense N king
+@end entry
+
+@entry lulim [stag] N
+@bases lu-lim
+@form lu-lim-bi /lu-lim #~,bi
+@sense N stag
+@end entry
+
+@letter M
+
+@entry magur [barge] N
+@bases ma₂-gur₈
+@form ma₂-gur₈ /ma₂-gur₈ #~
+@sense N barge
+@end entry
+
+@entry mah [great] V/i
+@bases mah
+@form ši-mah /mah #ši:~
+@sense V/i (to be) great
+@end entry
+
+@entry mašda [stone] N
+@bases {na₄}maš-da
+@form {na₄}maš-da /{na₄}maš-da #~
+@sense N stone
+@end entry
+
+@entry me [Being] N
+@bases me
+@form me /me #~
+@sense N (cultic) ordinance
+@end entry
+
+@entry me [be] V/i
+@bases me; ŋen
+@form he₂-me-en /me #ha:~;en
+@form ŋen /ŋen #~
+@sense V/i to be
+@end entry
+
+@entry melim [splendor] N
+@bases me-lim₄
+@form me-lem₄-bi /me-lim₄ #~,bi
+@sense N frightening splendor
+@end entry
+
+@entry menam [when?] N
+@bases me-na
+@form me-na /me-na #~
+@sense N when?
+@end entry
+
+@entry mete [appropriate thing] N
+@bases me-te
+@form me-te /me-te #~
+@sense N appropriate thing, ornament
+@end entry
+
+@entry mete [one's own] RP
+@bases ni₂-te
+@form ni₂-te /ni₂-te #~
+@sense RP one's own
+@end entry
+
+@entry meteš [praise] N
+@bases me-teš₂
+@form me-teš₂ /me-teš₂ #~
+@sense N praise
+@end entry
+
+@entry meteš e [praise] V/t
+@parts meteš[praise]N e[leave]V/i
+@form me-teš₂_i-i
+@sense V/t to praise
+@end entry
+
+@entry min [two] NU
+@bases min
+@form min /min #~
+@sense NU two
+@end entry
+
+@entry mu [grow] V/t
+@bases mu₂-mu₂
+@form mu₂-mu₂-da /mu₂-mu₂ #~;de.a
+@form mu₂-mu₂ /mu₂-mu₂ #~
+@sense V/t to grow
+@end entry
+
+@entry mu [name] N
+@bases mu
+@form mu /mu #~
+@sense N name
+@end entry
+
+@entry mul [star] N
+@bases mul-mul
+@form mul-mul /mul-mul #~
+@sense V/t to shine, radiate (light)
+@end entry
+
+@entry mulmul [reed fence] N
+@bases mul-mul
+@form {gi}mul-mul /mul-mul #~
+@sense N reed fence
+@end entry
+
+@entry munus [woman] N
+@bases munus
+@form munus /munus #~
+@sense N woman
+@end entry
+
+@letter N
+
+@entry na [stone] N
+@bases na₄; {na₄}na
+@form na₄ /na₄ #~
+@form na₄-e /na₄ #~,e
+@form {na₄}na-ta /{na₄}na #~,ta
+@sense N stone
+@end entry
+
+@entry namlulu [humanity] N
+@bases nam-lu₂-u₁₉-lu
+@form nam-lu₂-u₁₉-lu /nam-lu₂-u₁₉-lu #~
+@sense N humanity
+@end entry
+
+@entry nammah [greatness] N
+@bases nam-mah
+@form nam-mah-zu /nam-mah #~,zu
+@sense N greatness
+@end entry
+
+@entry ni [fear] N
+@bases ni₂
+@form ni₂ /ni₂ #~
+@sense N aura
+@end entry
+
+@entry niŋ [thing] N
+@bases niŋ₂
+@form niŋ₂ /niŋ₂ #~
+@sense N thing, possesion
+@end entry
+
+@entry niŋin [encircle] V/t
+@bases niŋin
+@form niŋin-na-a /niŋin +-na=n.a #~;a
+@sense V/t encircle
+@end entry
+
+@entry niŋir [herald] N
+@bases {+na-gi-ri}nigru(|KA×(AD.KU₃)|)
+@form {+na-gi-ri}nigru(|KA×(AD.KU₃)|) /{+na-gi-ri}nigru(|KA×(AD.KU₃)|) #~
+@sense N herald
+@end entry
+
+@entry nin [lady] N
+@bases niŋ₂{+ni-ig}
+@form {+ni-ig}niŋ₂ /niŋ₂{+ni-ig} #~
+@sense N lady
+@end entry
+
+@entry nir [lordly] AJ
+@bases nir
+@form nir /nir #~
+@sense N authority
+@end entry
+
+@entry nirah [snake] N
+@bases {+ni-ra-ah}nirahₓ(|AN.GUD|)
+@form {+ni-ra-ah}|AN.GU₄| /{+ni-ra-ah}nirahₓ(|AN.GUD|) #~
+@sense N snake
+@end entry
+
+@entry nirŋal [authoritative] AJ
+@bases nir-ŋal₂
+@form nir-ŋal₂ /nir-ŋal₂ #~
+@sense AJ authoritative
+@end entry
+
+@entry nu [genitalia] N
+@bases nu
+@form nu /nu #~
+@sense N genitalia
+@end entry
+
+@entry nuʾešak [priest] N
+@bases nu-eš₃
+@form nu-eš₃ /nu-eš₃ #~
+@sense N a priest
+@end entry
+
+@letter P
+
+@entry pa [branch] N
+@bases pa
+@form pa /pa #~
+@sense N branch, frond
+@end entry
+
+@entry pad [find] V/t
+@bases pad₃
+@form he₂-pad₃ /pad₃ #ha:~
+@sense V/t to find, discover
+@end entry
+
+@entry pel [defile] V/t
+@bases pe-el
+@form pe-el-la₂-am₃ /pe-el #~;am
+@sense V/t defile
+@end entry
+
+@letter R
+
+@entry ri [impose] V/t
+@bases ri
+@form ri /ri #~
+@sense V/t impose
+@end entry
+
+@letter S
+
+@entry sa [sinew] N
+@bases sa
+@form sa /sa #~
+@sense N sinew, tendon
+@end entry
+
+@entry sag [good] V/i
+@bases sag₁₀
+@form sag₁₀ /sag₁₀ #~
+@sense N goodness, good (thing)
+@end entry
+
+@entry saga [press?] V/t
+@bases sag
+@form sag /sag #~
+@sense V/t press?
+@end entry
+
+@entry saŋ [head] N
+@bases saŋ
+@form saŋ /saŋ #~
+@sense N head
+@end entry
+
+@entry saŋgiga [humankind] N
+@bases saŋ-gig₂-ga
+@form saŋ-gig₂-ga-ke₄ /saŋ-gig₂-ga #~,ak.e
+@sense N humankind
+@end entry
+
+@entry saŋki [forehead] N
+@bases saŋ-ki
+@form saŋ-ki-a-ni /saŋ-ki #~,ani
+@sense N forehead, brow
+@end entry
+
+@entry sahar [soil] N
+@bases sa-har; sahar
+@form sa-har /sa-har #~
+@form sahar /sahar #~
+@sense N dust
+@sense N dust, dirt
+@end entry
+
+@entry sar [run] V/i
+@bases sar
+@form sar /sar #~
+@sense V/t to make run
+@end entry
+
+@entry sed [cold] V/i
+@bases sed
+@form nu-sed-da /sed #nu:~;a
+@sense V/i rest
+@end entry
+
+@entry sed [cold] V
+@bases sed
+@form nu-sed-da /sed #~
+@sense V/i rest
+@end entry
+
+@entry si [cvne] N
+@bases si
+@form si /si #~
+@sense N (compound verb nominal element)
+@end entry
+
+@entry si [fill] V/t
+@bases si
+@form si-a /si #~;a
+@sense V/t to fill, load up
+@end entry
+
+@entry si [horn] N
+@bases si
+@form si /si #~
+@sense N horn
+@end entry
+
+@entry sila [street] N
+@bases sila; sila{+la}
+@form sila /sila #~
+@form sila{+la} /sila{+la} #~
+@sense N street
+@end entry
+
+@entry sipad [shepherd] N
+@bases sipad
+@form sipad /sipad #~
+@sense N shepherd
+@end entry
+
+@entry sisa [straighten] V/t
+@bases si-sa₂
+@form si-sa₂-e /si-sa₂ #~!V
+@sense V/t straighten
+@end entry
+
+@entry siškur [prayer] N
+@bases siškur
+@form siškur /siškur #~
+@sense N blessing
+@end entry
+
+@entry su [flesh] N
+@bases su
+@form su-ni-ta /su #~,ani.ta
+@form su /su #~
+@sense N body
+@sense N flesh
+@end entry
+
+@entry su [red] V/i
+@bases su₃; su₃-su₃
+@form su₃-a /su₃ #~;a
+@form su₃ /su₃ #~
+@form su₃-su₃-a /su₃-su₃ #~;a
+@sense V/i (to be) red, brown
+@sense V/i red
+@end entry
+
+@entry sudsud [grind] V/t
+@bases sud₂-sud₂
+@form ba-ab-sud₂-sud₂ /sud₂-sud₂ #ba.b:~
+@sense V/t grind
+@end entry
+
+@letter Š
+
+@entry ša [the one of] DP
+@bases ša₃
+@form ša₃ /ša₃ #~
+@sense DP the one of
+@end entry
+
+@entry šag [heart] N
+@bases šag₄
+@form šag₄ /šag₄ #~
+@form šag₄-bi /šag₄ #~,bi
+@sense N belly
+@sense N in, inside
+@sense N heart
+@end entry
+
+@entry šagha [cloth] N
+@bases ha
+@form ha /ha #~
+@sense N a cloth
+@end entry
+
+@entry še [hook?] N
+@bases še
+@form še /še #~
+@sense N side
+@end entry
+
+@entry šu [hand] N
+@bases šu
+@form šu /šu #~
+@form šu-bi-gin₇ /šu #~,bi.gin
+@sense N hand
+@end entry
+
+@letter T
+
+@entry taka [abandon] V/t
+@bases tag
+@form tag-ga /tag #~;a
+@sense V/t abandon
+@end entry
+
+@entry tar [cut] V/t
+@bases tar
+@form tar-re-de₃ /tar +-re=r.e #~;e.de
+@sense V/t to cut
+@end entry
+
+@entry teŋ [approach] V/i
+@bases ti
+@form u-me-ti /ti #u.imma:~
+@sense V/i approach
+@end entry
+
+@entry til [complete] V/i
+@bases til
+@form til-la /til +-la=l.a #~;a
+@form til /til #~
+@form til-ri-iš /til #~;*a,re.eše
+@sense V/i (to be) complete(d)
+@sense V/i complete
+@end entry
+
+@entry tug [textile] N
+@bases tug₂
+@form tug₂ /tug₂ #~
+@sense N textile, garment
+@end entry
+
+@entry tur [small] V/i
+@bases tur-tur
+@form tur-tur-bi /tur-tur #~;*a,bi
+@sense V/i (to be) small
+@end entry
+
+@entry tur [stall] N
+@bases tur₃
+@form tur₃-gin₇ /tur₃ #~,gin
+@sense N stall
+@end entry
+
+@entry tuš [sit] V/i
+@bases tuš
+@form tuš-a /tuš #~;a
+@sense V/i to dwell
+@end entry
+
+@letter U
+
+@entry u [and] CNJ
+@bases u₃
+@form u₃ /u₃ #~
+@sense CNJ and
+@end entry
+
+@entry ud [sun] N
+@bases ud
+@form ud /ud #~
+@sense N day
+@end entry
+
+@entry udul [herdsman] N
+@bases udul₁₀-lu-u₂
+@form udul₁₀-lu-u₂-a /udul₁₀-lu-u₂ #~,ak
+@sense N herdsman
+@end entry
+
+@entry ugu [bear] V/t
+@bases gu
+@form gu /gu #~
+@sense V/t bear
+@end entry
+
+@entry uŋ [people] N
+@bases uŋ₃
+@form uŋ₃ /uŋ₃ #~
+@sense N people
+@end entry
+
+@entry urra [loan] N
+@bases ur₅-ra
+@form ur₅-ra /ur₅-ra #~
+@sense N interest-bearing loan
+@end entry
+
+@entry urud [copper] N
+@bases urud
+@form urudu /urud #~
+@sense N copper
+@end entry
+
+@entry usakar [moon] N
+@bases u₄-sakar
+@form u₄-sakar /u₄-sakar #~
+@sense N crescent moon
+@end entry
+
+@entry usuh [tree] N
+@bases u₃-suh₅
+@form u₃-suh₅ /u₃-suh₅ #~
+@sense N a tree
+@end entry
+
+@entry uš [block] V/t
+@bases uš₂
+@form uš₂ /uš₂ #~
+@sense V/t to shut off, block up
+@end entry
+
+@entry utud [bear] V/t
+@bases tu-ud; u₃-tu-ud
+@form u₃-tu-ud-da /tu-ud +-da=d.a #u:~;a
+@form u₃-tu-ud-da-a-ni /u₃-tu-ud #~,ani
+@sense V/t to give birth (to), bear a child
+@sense V/t bear
+@end entry
+
+@letter Z
+
+@entry zalag [shine] N
+@bases {+za-al}zalag
+@form {+za-al}zalag /{+za-al}zalag #~
+@sense N shine
+@end entry
+
+@entry zi [cut] V/t
+@bases zi
+@form zi /zi #~
+@sense V/t to cut, remove
+@end entry
+
+@entry zi [life] N
+@bases zi
+@form zi /zi #~
+@sense N life
+@end entry
+
+@entry zu [know] V/t
+@bases zu
+@form nu-zu /zu #nu:~
+@form zu /zu #~
+@sense V/t to know
+@end entry
+
+@entry zu [tooth] N
+@bases zu₂
+@form zu₂ /zu₂ #~
+@sense N tooth
+@end entry
+

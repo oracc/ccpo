@@ -1,0 +1,95 @@
+&P348450 = CCP 4.1.3.A (http://ccp.yale.edu/P348450) = W 22307/71
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+$ obverse missing
+
+@reverse
+$ start of reverse broken
+
+1'. !zz x (x)-ri# ša₂ LU₂ [...]
+#lem: u; u; ša[of]DET; amēlu[person]N; u
+
+2'. !bs DINGIR šag-ga-ši !cm : DINGIR [...]
+#lem: ilu[god]N; +šaggāšu[murderer]N$šaggāši; ilu[god]N; u
+
+#note: At the end, perhaps @akk{{d}[er₃-ra]}? 
+
+3'. !bs ina {giš}MA₂ iš-riq DINGIR ka#-[a-ri DAB-su !zz (...)]
+#lem: ina[from]PRP; +eleppu[ship]N$eleppi; +šarāqu[steal]V$išriq; il[god]N; +kāru[quay]N$kāri; +ṣabātu[seize]V$iṣabbassu; u
+
+4'. !cm mim-ma ša₂ {giš}MA₂ il-te-ri-[iq ...]
+#lem: mimma[whatever]XP; ša[that]REL; eleppi[ship]N; +šarāqu[steal]V$ilteriq; u
+
+5'. !bs ITI GIG !cm : ar₂-hu GIG{+uṣ#} [...]
+#lem: arhi[month]N; maruṣ[sick]AJ; +warhu[month]N$arhu; +marṣu[sick]AJ$maruṣ; u
+
+6'. !cm ITI : a-ṣu-u₂ : !zz TIL-MEŠ [...]
+#lem: arhu[month]N; +āṣû[having an exit//outward bound]AJ; gamri[complete]AJ; u
+
+#note: The first equation is elsewhere unattested. It is uncertain whether @akk{TIL-MEŠ} is part of the explanation.
+7'. !bs 2 DAL-MEŠ GAR-MEŠ-ma !cm : DAL# [...]
+#lem: n; +tallu[(a container)]N$tallū; +šaknu[placed]AJ$šaknūma; +tallu[(a container)]N$; u
+
+8'. !bs ina EDIN TAG{+it} !cm : ina muh#-[hi-šu₂ ...]
+#lem: ina[in]PRP; ṣēri[open country]N; +laptu[touched//affected]AJ$lapit; ina[in]PRP; muhhišu[skull]N; u
+
+9'. !bs na-ʾi-id !cm : na-kud !zz : x [...]
+#lem: +naʾdu[attentive//worrying]AJ$naʾid; +naqdu[critical(ly ill)]AJ$naqud; u; u
+
+10'. !bs u₂-maš-šad !cm : u₂-maš-[ša₂-aʾ ...]
+#lem: umaššad[rub]V; +muššuʾu[rub]V$umaššaʾ; u +.
+
+$single ruling
+
+@colophon
+
+11'. !zz {im}GI₃.DA {m}{d?#}[...]
+#lem: +giṭṭu[oblong tablet]N$giṭṭi; u
+
+12'. !zz DUMU ša₂ {m}{d}[...]
+#lem: māri[son]N; ša[of]DET; u +.
+
+@translation labeled en project
+
+@label r 1'
+
+The ... of a man [...]
+
+@label r 2'
+
+“A murderer god” (= @i{Sagig} 3 89) means “god [...”]
+
+@label r 3' - r 4'
+
+“He stole from a ship, the god of the quay [will seize him” (= @i{Sagig} 3 96) (...)], whatever he has stolen from the ship [...]
+
+@label r 5' - r 6'
+
+“ITI GIG” (= @i{Sagig} 3 98) means “he is ill (for) a month, [@i{but he goes out}], since ITI means “to go out.” TIL-MEŠ @i{means} [...].
+
+@label r 7'
+
+“Two vessels (DAL-MEŠ) are placed” (= @i{Sagig} 3 107), DAL [means ...]
+
+@label r 8'
+
+“He has been affected in the steppe” (= @i{Sagig} 3 109) means “On [his] sk[ull ...].”
+
+@label r 9'
+
+“He is worried” (= @i{Sagig} 3 109) means “he is anxious.” ... [...]
+
+@label r 10'
+
+“He massages” (= @i{Sagig} 3 123) means “he rubs” [...].
+
+$single ruling
+
+@label r 11' - r 12'
+
+One column tablet of ... [...] son of ... [...].

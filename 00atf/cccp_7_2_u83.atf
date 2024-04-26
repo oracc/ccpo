@@ -1,0 +1,80 @@
+&P238616 = CCP 7.2.u83 (http://ccp.yale.edu/P238616) = K.6151
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [{mul}SAG.ME.GAR !cm : na-aš₂ ṣa]-ad#-du a-na da-ad-mi
+#lem: Neberu[Jupiter]CN; nāš[bearer]N; +ṣaddu[(wooden) signal]N$; ana[to]PRP; dadmī[inhabited world]N
+
+#note: Line 1 is paralleled in the star list BM 42262 (5@i{R} 46/1) r 3.
+2. !bs [{mul}MA₂.GUR₈ !cm : x x :] MA₂# : ba-nu-u₂ : ba-ni-tu₄
+#lem: Makurru[Barge]CN; u; u; +banû[create//creating]V'N$; +bānû[creator]N$; +bānû[creator//creatress]N'N$banītu
+
+#note: The star @akk{{mul}MÁ.TU} is equated with Nabû in BM 42262 (5@i{R} 46/1) r 2, whence the restoration. On the other hand, @akk{MÁ} = @i{banû} is elsewhere unattested, but cp. @akk{MA} = @i{banû} in the @i{Commentary on the Names of Marduk} K.4406 r 8 (@i{CCP} 1.1.B.b). The line probably tried to demonstrate that the star @akk{{mul}MÁ.GUR₈} is the star of Nabû by proving that both signs @akk{MÁ} and @akk{AG} (from Nabû's name) mean @i{banû}, "to create."
+3. !cm [x x x {d}AG] ki-i iq-bu-u₂
+#lem: u; u; u; Nabu[1]DN; kī[as]PRP; iqbû[say]V
+
+4. !zz [x x x x x x] : !bs {mul}ŠU!.PA !cm : MUL na-me-ru
+#lem: u; u; u; u; u; u; Šupa[1]CN; kakkabi[star]N; +nawru[bright]N$nameru
+
+#note: Compare BM 42262 (5@i{R} 46/1) r 16: mul.ŠU.PA | MUL @i{na-am-ru}.
+5. !zz [x x x x (x)]-ti !cm ka-mu-u₂
+#lem: u; u; u; u; u; +kamû[defeated]AJ$
+
+6. !bs [{mul}GAG.SI.SA₂? !cm :] MUL# mi-ša₂-ri
+#lem: +šukudu[arrow//Sirius]N'N$; kakkabi[star]N; +mīšaru[justice]N$mīšari
+
+#note: The restoration of the star name is based on the possibility that @i{mīšaru} may be a translation of @akk{SI.SÁ}. Note that the @akk{{mul}GAG.SI.SÁ} star appears in BM 42262 (5@i{R} 46/1) r 15, where it is explained as @i{kakkab mešrê}, "wealthy star."
+7. !bs [{mul}UDU.TIL !cm :] muš#-mit bu-li₃#
+#lem: +bibbu[wild sheep//planet]N'N$; mušmīt[murderous]AJ; būli[livestock]N
+
+8. !bs [{mul}ṣal-bat-a-nu !cm : muš]-ta-bar-ru-u₂ mu#-[ta-nu]
+#lem: Ṣalbatanu[Mars]CN; +muštabarrû[persistent]AJ$; +mūtānu[epidemic]N$
+
+#note: Lines 7-8 are paralleled in the BM 42262 (5@i{R} 46/1) r 5-6.
+@reverse
+
+1'. !zz [...] x# x#
+#lem: u; u; u
+
+2'. !zz [...] DINGIR?#.MAH x#
+#lem: u; Belet-ili[1]DN; u
+
+3'. !zz [...] x# mi-x#
+#lem: u; u; u
+
+4'. !zz [...] x# za?-ru-u₂ : ma-šad?#-du?#
+#lem: u; u; +zarû[shaft]N$; mašaddu[(yoke-)shaft]N
+
+#note: If correctly read, the line would be citing @i{Malku} II 208. Note that @i{zarû}, "cart-pole," appears in an astronomical context in Mulapin I i 16.
+5'. !zz [...]-x#-bu GAM ina ma-a-ti MUL KUR KUR# [(x x)]
+#lem: u; +kepû[bent (back)]AJ$kepi; ina[from]PRP; māti[land]N; kakkabi[star]N; mātu[land]N; +napāhu[blow//rise]V'V$inappuh; u; u
+
+6'. !zz [...]-x#-ši
+#lem: u
+
+@translation parallel en project
+
+@obverse
+
+1. [(...) Jupiter is] the bearer of signals for the villages.
+2. [In "The boat constellation" (mul.MÁ.GUR₈) ...] MÁ means "creator," and hence "creatress,"
+3. [...]. Hence it is as if it said ["Nabû"].
+4. [...]. The ŠUPA-star is the shining star.
+5. [The ... star is the star that] binds the [...].
+6. [the Arrow star] is the righteous star.
+7. [... Mercury (is)] the killer of cattle.
+8. [... Mars] (is) the bringer of continual plague.
+
+@reverse
+
+1'. ...
+2'. [...] @i{Bēlet-ilī} ...,
+3'. ...
+4'. [...] "cart-pole" means "shaft" (of the wagon star).
+5'. [... the ...-star] @i{bends back}, in the country the @i{star of the country will raise} [...],
+6'. ...

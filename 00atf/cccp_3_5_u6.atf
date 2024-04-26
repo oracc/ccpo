@@ -1,0 +1,73 @@
+&P347133 = CCP 3.5.u6 (http://ccp.yale.edu/P347133) = VAT 17122
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [x (x)] x#.SIG.GA !cm : ni-ip-hu ša₂?# x#
+#lem: x; x; u; +niphu[(the act of) lighting]N$; ša[of]DET; u
+
+2. !bs [x (x)]-hu !cm : mi-šil :
+#lem: x; u; mišil[half]NU
+
+#note: Probably @akk{a-hu}, since both @i{aḫu} and @i{mišlu} can be equated with Sumerian @akk{BAR}.
+
+3. !bs [x x] x# !cm [:] bu-šu-u₂ :
+#lem: x; x; x; būšū[goods]N
+
+4. !zz [x x] x# eš-re#-e-ti :
+#lem: x; x; x; ešrēti[chapel]N
+
+5. !zz [E₂?]-MEŠ# DINGIR-MEŠ :#
+#lem: bītāt[temple]N; ilī[god]N
+
+6. !bs NU# TUKU !cm : la i-ša₂-nu-u₂ : muš#-ke?#-[nu :]
+#lem: lā[not]MOD; +išānû[important]N$; lā[not]MOD; +išānû[important]N$; +muškēnu[dependant]N$
+
+#note: The equation @i{lā išānû} = @i{muškēnu} is also attested in @i{Malku} IV 44.
+7. !cm IH-ri : !bs ru-ʾu !zz : [(x)]
+#lem: u; +rūʾu[colleague]N$; u
+
+#note: These two words do not seem to go together (@akk{IH-ri} for @akk{ib-ri}?): it seems possible that the first one is actually a gloss on a word that appeared at the end of the previous line. Note that this could also be the case of the first word of l. 6', @i{ḫanāsu}, accepted by both dictionaries as a synonym of @i{bikītu} solely on the basis of this text.
+
+8. !bs ha-mu-u₂ !cm : ša-su-u₂ [:]
+#lem: +hamû[howl//howling]V'N$; +šasû[shout//shouting]V'N$
+
+#note: The verb @i{ḫamû} is attested apparently only in @i{Šumma Ālu} (@i{AHw} 338b and @i{CAD} Ḫ 163a), hence the tentative identification of this fragment as a commentary on that series.
+9. !bs ha-na-su !cm : bi-ki-tu₄ [:]
+#lem: +hanāsu[mourning]N$; bikītu[sorrow]N
+
+10. !bs KU.NU gu?-gu-un !cm : ru-mu-mu# [:]
+#lem: u; X; +râmu[love//fawning]V'N$rummumu
+
+#note: If correctly read, the verb @i{râmu} D, "to fawn (?)" (@i{CAD} R 145b) would be elsewhere attested almost exclusively in the incipit of @i{Šumma Ālu} 47.
+
+11. !bs KU.NU DUB₂?# !cm :# nu-us-su-us# [:]
+#lem: u; +nasāsu[lament//flapping]V'N$nussusu; +nasāsu[lament//flapping]V'N$nussus
+
+#note: The sign read here tentatively as DÚB (after @i{Nabnītu} X 42 DÚB.DÚB.BU = @i{nussusu ša pērti}) is read in @i{VS} 24 p. 9 as KU.NU.GÙN.GÙN, a meaningless sequence of signs. If correctly read, the verb @i{nussusu} would also be attested in @i{Šumma Ālu} 65 10 (Sm.1376+).
+
+12. !zz ra-x# x# x# x# [x x]
+#lem: u; x; x; x; x; x
+
+$ (end of obverse)
+
+$ (reverse is missing)
+
+@translation parallel en project
+
+1. […] … means “rising of the …”
+2. […] … means “half.”
+3. […] … [means] “property.”
+4. […] … “sanctuaries”
+5. [@i{Temple}]@i{s} of the gods.
+6. @i{nu tuku} means “non important,” (i.e.), “hum[bl]e.”
+7. @i{iḫ-ru} means “friend.”
+8. “To howl” means “to shout.”
+9. “@i{Mourning}” means “weeping.”
+10. … means “to fawn” […].
+11. … @i{dúb} (?) means “to flap" […].
+12. …

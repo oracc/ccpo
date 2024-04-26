@@ -1,0 +1,294 @@
+&P470058 = CCP 2.1.C (http://ccp.yale.edu/P470058) = VAT 13846
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs EN₂ tum₃-me E₂ qaq-qa-ru šu-ta-as-suk#/suq#
+#lem: šiptu[incantation]N; +tummû[sworn]AN$tumme; +bītu[house]N$; qaqqaru[ground]N; +nasāku[throw (down)]V$šutassuk
+
+2. ($___$) !cm GIŠ.HUR : e-se-qu : e-se-qu : iṣ-ṣur-tu₂
+#lem: +esēqu[incise//incising]V'N$; +esēqu[incise//incising]V'N$; esēqu[incising]'N; +iṣurtu[drawing]N$iṣṣurtu
+
+#note: @i{CAD} E 331 suggests that the commentator mistakenly derived @i{šutassuk} from @i{esēqu} (“to incise”) instead of the correct @nasāku (“to throw down”). @i{CAD} N2 20, however, does not include the passage sub @i{nasāku} (despite suggesting for @i{šussuku} in connection with @i{qaqqaru} the meaning "to clear the ground"), and on p22f. also not sub @i{nasāqu} A, which renders šutassuqu as "to put in order, to make ready, to prepare" (see also p23a, where it is left open whether @i{šutassuk/qu} derives from @i{nasāku} or @i{nasāqu}). @i{@i{AHw}} 753 lists most of the attestations (but not the one from the commentary) sub @nasāqu. The derivation from @i{esēqu} suggested by the commentary is not that unreasonable, however, since @i{AMT}, pl. 34, 2 (K 6390, @i{Bīt mēseri}) mentions the @i{tummu-bītu} incantation together with a reference to the drawing of magic circles within a ritual (ll. 1-7, see Wiggermann, Protective Spirits, p. 111-12). Note that A 163(+) (@i{CCP} 2.2.1.A.a), the Aššur commentary on “Marduk’s Address” and another Kiṣir-Nabû tablet, includes the rare @i{iṣ-ṣur-tu₂} as well, in an entry that explains @i{giš-hur-ri} (ll. 46-47).
+3. !bs [ina] ap#-ti ṣe-li la te-rab-šu₂
+#lem: ina[in]PRP; apti[window]N; ṣēlī[rib]N; lā[not]MOD; +erēbu[enter]V$terrabšu
+
+4. ($___$) !cm ap-tu ša₂ E₂ ra-ma-ki
+#lem: +aptu[window]N$; ša[that]REL; +bītu[house]N$bīt; +ramāku[bathe//bathing]V'N$ramāki
+
+#note: For the house type described here, see Meier, @i{AfO} 12, p243.
+5. !bs ina ap-ti ṣe#-li a-he-e KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; apti[window]N; ṣēlī[rib]N; +ahû[outside(r)]AJ$ahê; lā[not]MOD; terrabšu[enter]V
+
+6. ($___$) !cm ap-tu ša₂# tar#-ba-ṣi
+#lem: aptu[window]N; ša[that]REL; +tarbaṣu[animal stall]N$tarbaṣi
+
+7. !bs ina ap-ti kar-ra#-ti KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; apti[window]N; +karratu[designation of a window]N$karrati; lā[not]MOD; terrabšu[enter]V
+
+8. ($___$) !cm ap-tu ṭu-bu-su
+#lem: aptu[window]N; X
+
+#note: Both @i{AHw} 1393b und @i{CAD} Ṭ 120-21 consider @i{ṭu-bu-su} as unclear; a possible connection with @i{d/tuppussû} "younger brother, second in rank" remains highly conjectural. @i{karratu} in l. 7 is likewise poorly attested. The entry explains @i{obscurum per obscurius}.
+9. !bs ina ap-ti mu-šir₉-ti KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; apti[window]N; +mušērtu[overlooking window]AJ$mušērti; lā[not]MOD; terrabšu[enter]V
+
+#note: @i{AHw} 683a translates @i{mušē/īrtu} as “Ort des Herabbeugens” (“a place to bow down”) and considers it a kind of window (“eine Art Fenster”). The explanation given for @i{mušē/īrtu} in @i{CAD} M2 271a (“a demon, lit. she who leans into the window”) fits this context less well.
+10. ($___$) !cm ap-ti muh-hi
+#lem: apti[window]N; muhhi[top]N
+
+11. !bs ina GISSU pu-uz-ri LU₂# KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; ṣilli[shade]N; +puzru[concealment]N$puzur; amēli[man]N; lā[not]MOD; terrabšu[enter]V
+
+12. ($___$) !cm ina pi-i-ši-ri
+#lem: ina[in]PRP; +pašīru[a secret]N$pišīri
+
+13. !bs ina NU.KUŠ₂.U₃ AN.TA KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; +nukuššû[(a door fitting)]N$nukuššê; +elû[upper]AJ$elî; lā[not]MOD; terrabšu[enter]V
+
+14. ($___$) !cm [ina? (x)] tar ba zi?# ni?#
+#lem: ina[in]PRP; u; X; X; X; X
+
+#note: The partial duplicate Ass. 13955 ii (@i{CCP} 2.1.C), o 14 provides the explanation: @akk{[ina? (x)]} @i{tar pa zi n}[@i{i}?]. The word may be another @i{hapax}.
+15. !bs [ina NU.KUŠ₂].U₃# KI.TA# KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; nukuššê[(a door fitting)]N; +šaplu[low(er)]AJ$šapli; lā[not]MOD; terrabšu[enter]V
+
+16. ($___$) !cm x# [x x] x# ni ki
+#lem: u; u; u; u; X; kī[if]'MOD
+
+17. !bs ina ṣer#-[ri AN].TA KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; +ṣerru[socket for doorpost]N$ṣerri; +elû[upper]AJ$elî; lā[not]MOD; terrabšu[enter]V
+
+18. ($___$) !cm ša₂ [x x] {giš#}SAG.KUL šak-nu
+#lem: ša[that]REL; u; u; sikkūra[bar]N; šaknu[provided with]AJ
+
+19. !bs ina ṣer#-[ri KI].TA KIMIN<(la te-rab-šu₂)>
+#lem: ina[in]PRP; ṣerri[socket for doorpost]N; šapli[low(er)]AJ; lā[not]MOD; terrabšu[enter]V
+
+20. ($___$) !cm x [x x] bi#-rit {giš}IG-MEŠ
+#lem: u; u; u; birīt[space between]N; dalāti[door]N
+
+21. ($___$) !zz ina [ŠA₃] EN₂# tum₃-mi E₂
+#lem: ina[in]PRP; libbi[concern]N; šiptu[incantation]N; +tummû[sworn]AN$tummi; bītu[house]N
+
+$single ruling
+22. !bs [bar-ru pa-ar-šu] pi-i-šu₂
+#lem: barru[(meaning unclear)]N; X; pîšu[mouth]N
+
+23. ($___$) !bs [pa?-ar?-šu?] !cm da-bi-bu par-ri-ṣu
+#lem: X; +dābibu[(legal) advocate]N$; +parriṣu[lying]AJ$
+
+24. ($___$) !bs [ba-ar]-ri !cm : ba-ru-<<ru?>>-nu-u šu-u
+#lem: +barru[(meaning unclear)]AJ$barri; +bārānû[rebel]N$barūnû; šū[that]IP
+
+#note: The exact meaning of @i{barru} is unclear (see @i{AHw} 107), and whether the explanation @akk{ba-ru-<<ru?>>-nu-u} is really to be derived from @i{bārānû} remains uncertain as well. Provided the lines are correctly restored, the commentary would explain the words in a sequence that deviates from that in the base text.
+25. !bs [ina a-hi u₂]-re-e ša₂-ʾi-il
+#lem: ina[in]PRP; ahi[arm]N; urê[stall]N; +šāʾilu[asker]N$šāʾil
+
+26. ($___$) !cm [ša₂? ina? u₂-re]-e? i-za-zu-u-ni ina ŠA₃ u₂-ma-me
+#lem: ša[that]REL; ina[in]PRP; urê[stall]N; +izuzzu[stand]V$izzazūni; ina[in]PRP; libbi[concern]N; +umāmu[animal]N$umāme
+
+#note: Note the Assyrian subjunctive ending in @i{izzazzūni}.
+27. ($___$) !cm [x x x x] x# ki-i an-ni-i x x# (x) ra x#
+#lem: u; u; u; u; u; kī[like]PRP; annî[this]DP; u; u; u; X; u
+
+#note: The restoration suggested by Meier and Reiner for the signs after @i{kī annî}, @i{lu gam?-ra-k}[@i{u}], seems not very plausible; for the time being, the passage remains obscure.
+28. !bs [im-i-ru u₂-ri-ih]-hu i-ku-lu
+#lem: +âru[go (up to)]V$imʾiru; +riāhu[remain]V$urihhu; īkulu[eat]V
+
+29. ($___$) !bs [x x x x] !cm : im-ru gi-nu-u SIŠKUR#
+#lem: u; u; u; u; X; ginû[child]N; +nīqu[offering]N$
+
+#note: The two available @i{Šurpu} manuscripts render the first word of the line as @i{im-i-ru} and @i{i-me-ru}, respectively. Reiner does not translate this, but @i{CAD} A2 319a is probably right in deriving the word from @i{âru} “to go.” The commentator, however, apparently takes it to be a noun, possibly @i{immeru} "sheep," and associates it with two very common terms for sacrifices. @i{CAD} I 138a lists the passage under @i{imru} A "offering."
+
+$ (reverse)
+
+30. !bs [iš-ru-ru]-ma# ni-iš ŠU-MIN ir-šu-u₂					
+#lem: +šarāru[go ahead]V$išrurū-ma; nīš[lifting]N; qātī[hand]N; +rašû[acquire]V$iršû
+
+31. ($___$) !bs [ša₂]-ra#-ru !cm : a-la-ku
+#lem: +šarāru[go ahead//going ahead]V'N$; +alāku[go//going]V'N$
+
+32. ($___$) !cm [ša₂] ŠU#-MIN-su ana ma-haṣ mim-ma i-dak-ku-u
+#lem: ša[that]REL; qāssu[hand]N; ana[for]PRP; mahāṣ[fight]'N; mimma[anything]XP; +dekû[raise]V$idakkû
+
+33. ($___$) !cm [(x)] x# ŠA₃.GID₂.GID₂ ša₂-ra-ru ša₂-da-ad lib₃-bi
+#lem: u; u; +šarāru[go ahead//going ahead]V'N$; šarāru[going ahead]'N; +šadādu[drag//dragging]V'N$šadād; libbi[interior]N
+
+#note: The line commented on is again rather obscure. @i{šarāru} is also elsewhere equated with @i{alāku}, and furthermore with SAG.GÍD.GÍD, inter alia in a commentary from Uruk (for references, see @i{CAD} Š/2 57b). The equation in the commentary with ŠÀ.GÍD.GÍD may go back to a mistaken replacement of SAG with ŠÀ; the final @i{šadād libbi} (compare @i{ana libbi šadādu}) is a literal translation of the individual components of the logogram. The reference to “hitting something” may be an attempt to find a negative meaning in the line, which must indeed refer to some kind of misconduct on the part of the patient.
+34. !bs [dab₂]-da-šu uk-ta-bi-is	
+#lem: +dabdû[defeat]N$dabdâšu; +kabāsu[tread]V$uktabis
+
+35. ($___$) !bs dab₂-du-u₂ !cm da-me?# [ša₂?] di-i-ki
+#lem: +dabdû[defeat]N$; dāmē[blood]N; ša[that]REL; +dīku[killed]N$dīki
+
+#note: Note that the possessive suffix @i{-šu} is missing in the @i{Šurpu} manuscripts.
+36. !bs ih-te-si-ma it-ta-mi	
+#lem: ihtesīma[cover up]V; ittami[speak]V
+
+37. ($___$) !bs he-su-u₂ !cm : pa-za-ru
+#lem: +hesû[cover up//covering up]V'N$; +pazāru[hide o.s.//hidding o.s.]V'N$
+
+38. ($___$) !cm ša₂ mim-ma u₂-pa-za-ru
+#lem: ša[that]REL; mimma[anything]XP; +pazāru[hide o.s.]V$upazzaru
+
+39. !bs a-na an-na ul-la iq-bu-u				
+#lem: ana[to]PRP; anna[yes]AV; +ulla[no!]AV$; iqbû[say]V
+
+40. !bs a-na ul-la an-na iq-bu-u
+#lem: ana[on]PRP; ulla[no!]AV; anna[yes]AV; iqbû[say]V
+
+41. ($___$) !cm ma-a# a#-na qa-bi-ti la qa-bi-tu iq-ta-bi
+#lem: mā[indeed]J; ana[according to]PRP; +qabītu[spoken]N$qabīti; lā[not]MOD; +qabītu[spoken]N$; iqtabi[say]V
+
+42. ($___$) !cm [(ma-a) a-na] la# qa-bi#-[ti?] qa-bi-tu iq-ta-bi
+#lem: mā[indeed]J; ana[according to]PRP; lā[not]MOD; qabīti[spoken]N; qabītu[spoken]N; iqtabi[say]V
+
+#note: For the @i{Šurpu} line, compare Matthew 5:37 and James 5:12; a similar phrase, probably inspired by the verse from @i{Šurpu}, is attested in an Esarhaddon inscription (Leichty, RINAP 4, p195 (no. 104), I 21-24). @i{qabītu} is otherwise only attested with a preceding @i{lā}. @i{CAD} Q 3b quotes the commentary entry without offering a translation.
+43. !bs la# na#-ṭa#-tu da-a#-a-[nu] u₂#-ša₂-hi-zu			
+#lem: lā[not]MOD; +naṭû[suitable]AJ$naṭâtu; dayyānu[judge]N; ušāhizu[learn]V
+
+44. ($___$) !bs KA.NU#.GAR.RA !cm : la na?-ṭa?#-[tu?] nu?-la-tu₂
+#lem: +nullâtu[maliciousness]N$; lā[not]MOD; naṭâtu[suitable]AJ; +nullâtu[maliciousness]N$
+
+#note: Meier and Reiner read in l. 44 @i{la qa-bi}-[@i{ti/tú}], but in light of the @i{Šurpu} line commented on (II 15, restored after II 64), a reading @i{lā naṭâtu} – which is not excluded by the meager traces – seems to make better sense. Note that KA.NU.GAR.RA is nowhere attested in connection with @i{lā qabītu} (see @i{CAD} Q 3), while the very similar NÍG.NU.GAR.RA does occur together with @i{lā naṭâtu} (see @i{CAD} N/2 130b); both logograms are, moreover, attested for @i{nullâtu} (see @i{CAD} N2 333-34). Compare @i{nullâtu} = @i{lā kittu} in the Theodicy commentary (@i{CCP} 1.4) r 35’.
+45. !bs ša₂-ʾi-il ša₂-ʾi#-il# !cm : ša₂ iq?#-bu-[u]					
+#lem: +šāʾilu[asker]N$šāʾil; šāʾil[asker]N; ša[which]REL; iqbû[say]V
+
+46. ($___$) !cm an giš x# [x x x] ma ad?#/ṣi?# [(x)]
+#lem: u; X; u; u; u; u; X; X; u
+
+#note: The explanation remains unclear; it seems unlikely, but is not entirely excluded, that the line begins with a reference to Gilgameš.
+47. !bs ina IGI ši-pa-ri# [iz-za-az-zu-ma] la# šal-ma-te i?-tam?#-[mu?]-u?	
+#lem: ina[in]PRP; pān[front]N; šipāru[assembly]N; +izuzzu[stand]V$izzazzū-ma; lā[not]MOD; +šalmu[intact]AJ$šalmāte; +awû[speak]V$ītammû
+
+48. ($___$) !bs ši-pa-ru# !cm [(x) :] pu#-uh-ru
+#lem: +šipāru[regulations]N$šipāri; u; puhru[assembly]N
+
+#note: In the @i{Šurpu} commentary @i{CCP} 2.1.B from Nineveh (o i 10), @i{šipāru}, which is rare and only attested in literary and religious texts, is likewise equated with the more common @i{puḫru}.
+49. !bs {d}LAMMA DINGIR u LUGAL it#-ta#-[mi? :] !cm {d}UTU u {d}IŠKUR i?-tam?-mu-u	
+#lem: lamassi[(female) tutelary deity]N; ili[god]N; u[and]CNJ; šarri[king]N; ittami[speak]V; Šamaš[1]DN; u[and]CNJ; Adad[1]DN; ītammû[speak]V
+
+50. !bs {d}a-nu-ni-tu₄ lip-ṭur ina a-ga-de₃{ki} URU ta-šil-ti-ša₂			
+#lem: Annunitu[1]DN; lipṭur[release]V; ina[in]PRP; +Agade[]GN$; +ālu[city]N$āl; +tašīltu[(ceremony of) celebration]N$tašīltīša
+
+51. !bs {d}a-nu-ni-tu₄ !cm {d}15 ša₂ KU₇{ki} : E₂.UL.MAŠ : pa-pah a-ga-de₃{ki}
+#lem: Annunitu[1]DN; Ištar[1]DN; ša[who]REL; +Bubê[]GN$; Eulmaš[1]TN; papāh[cella]N; Agade[]GN
+
+#note: The city of Bubê, located in the border region to Elam (note the Elamite gods mentioned in the following line), is poorly known; the deity most often associated with it is Sakkud. The goddess Anunītu was worshipped in Sippar and Akkad; why she is linked in the commentary to Bubê remains unclear. The Eulmaš was the traditional Ištar sanctuary in Akkad.		
+52. !bs {d}ia-ab-ru {d}hum-ba nap-ru-ši lip-ṭur DINGIR-MEŠ šu?-pu?#-te?#	
+#lem: Iabru[1]DN; +Humba[]DN$; +Napruš[]DN$Napruši; lipṭur[release]V; ilī[god]N; +šūpû[made apparent]AJ$šūpûte
+
+53. ($___$) !bs {d}ia-ab-ru !cm {d}a-nu !bs {d}hum-ba !cm {d}en-lil₂
+#lem: Iabru[1]DN; Anu[1]DN; Humba[]DN; Ellil[1]DN
+
+54. ($___$) !bs nap-ru-ša₂ !cm {d}e₂-a
+#lem: +Napruš[]DN$Napruša; Ea[1]DN
+
+#note: The two available manuscripts of the base text have @i{šur-bu-tu₂} instead of @i{šu?-pu?#-te}. The three Elamite deities mentioned in this line are also known from the @i{Underworld Vision of an Assyrian Prince} (@i{SAA} 3, p74, r 25), where they guard an Assyrian ruler, apparently Sennacherib, in the netherworld. Hinz, @i{JNES} 24 (1965), 353-54 has argued that the missing divine determinative in @i{napruš} indicates a knowledge on the part of the scribe that @i{napru}/@i{iš} was an Elamite epithet of Ḫumba(n) and meant “great god,” but the commentary clearly considers it a divine name, to be identified with Ea. The names of the three deities are also explained in @i{CCP} 2.1.B, o i 1-3, with the same equations but an additional note indicating that they are all Elamite.
+55. ($___$) !zz ina ŠA₃ EN₂ lu paṭ-ṭir DINGIR-MEŠ GAL-MEŠ
+#lem: ina[in]PRP; libbi[concern]N; šiptu[incantation]N; lū[or]CNJ; +paṭru[released]AJ$paṭṭir; ilū[god]N; rabûtu[great]AJ
+
+$ single ruling
+@colophon
+56. ($___$) !zz ina pu-ut SUMUN-šu₂ SAR-ma ba₃-ri₃
+#lem: ina[in]PRP; pūt[forehead]N; labīrišu[original]N; šaṭirma[written]AJ; bari[checked]AJ
+
+57. ($___$) !zz a-na IGI.DU₈.A-šu₂ {m}ki-ṣir-{d}MUATI {lu₂}MAŠ.MAŠ TUR
+#lem: ana[the sign AN]N; +amāru[see//seeing]V'N$amārīšu; +Kiṣir-Nabû[]PN$; mašmaššu[incantation priest]N; ṣehru[small]N
+
+58. ($___$) !zz AMAR {m}{d}UTU-DU₃ {lu₂}MAŠ.MAŠ E₂ AN.ŠAR₂
+#lem: atam[hatchling]N; Šamaš-ibni[1]PN; mašmaš[incantation priest]N; bīt[house]N; Anšar[1]DN
+
+59. ($___$) !zz ša IR {d}AG ZAH₂!-šu₂ DUG₄.GA
+#lem: ša[that]REL; šalālu[carying off]'N; Nabu[1]DN; halāqšu[destroying]'N; iqabbi[speak]V
+
+#note: For the colophon, see Hunger, @i{BAK}, no. 210. The phraseology used is not entirely clear as to whether Kiṣir-Nabû actually wrote the commentary, but since no other scribe is mentioned, it seems likely that he did. The colophon of the partial duplicate Ass. 13955 ii (@i{CCP} 2.1.A) refers to Kiṣir-Nabû as well and is very similar; the syllabic writing @i{a-na a-ma-ri-šú} that it provides instead of @i{a-na} IGI.DU₈.A-@i{šú} indicates that the latter is not to be read @i{ana tāmartišu}.
+
+@translation labeled en project
+
+@label 1 - 2
+“The house is bewitched, the floor has been cleaned / prepared / drawn upon.” – GIŠ.ḪUR means “to draw,” “to draw” refers to a sketch.
+
+@label 3 - 4
+“You (the demon) shall not enter to him [through] the window of the side wing” – (this refers to) the window of the bathroom.
+
+@label 5 - 6
+“Through the window of the other side wing ditto (i.e., you shall not enter to him)” – (this refers to) the courtyard window.
+
+@label 7 - 8
+“Through the @i{karratu}-window ditto” – (this refers to) the second(?) window.
+
+@label 9 - 10 
+“Through the @i{mušīrtu}-window ditto” – (this refers to) the upper window.
+
+@label 11 - 12
+“Hidden under the shadow of a man ditto” – (this means:) secretly.
+
+@label 13 - 14
+“Through the upper door fitting ditto” – [(this means:) through] ....
+
+@label 15 - 16
+“[Through the] lower [door fit]ting ditto” – (this means:) … [...] ....
+
+@label 17 - 18
+“Through the [upp]er so[cket (for the doorpost)] ditto” – (this refers to) what [...] is placed […] the door bolt.
+
+@label 19 - 20
+“Through the [lo]wer soc[ket (for the doorpost)] ditto” – (this refers to) ... [...] between the doors.
+
+@label 21
+Fr[om]: “Incantation: The house is bewitched (@i{Tummu bītu})."
+
+$single ruling
+
+@label 22 - 24
+“His mouth (i.e., the mouth of the patient who needs to be ritually cleansed) [is ... (@i{barru}) and lying]” (@i{Šurpu} II 63) – [“lying”(?)] (refers to) a mendacious speaker. [... (@i{barru})]: this is a rebel (@i{bārā/ūnû}).
+
+@label 25 - 27
+“He (the patient) is being questioned(?) [at the side of the st]able” (@i{Šurpu} II 114) – [(refers to someone) who] stands [in the stabl]e(?) in the midst of the cattle. [...] … accordingly ....
+
+@label 28 - 29
+[(Since) he went(?) (@i{imʾiru}) and sav]ed (something) (for the gods)], but then ate (it himself)” (@i{Šurpu} II 77) – [...]; @i{imru} means “regular offering (@i{ginû}) and @i{nīqu}-offering, (respectively).
+
+@label 30 - 33
+“[(Since) he went ahead (?)] and performed (lit., obtained) a hand-lifting (prayer?)” (@i{Šurpu} II 78) – ["to g]o ahead(?)” (@i{šarāru}) means “to go,” [(referring to someone) who] raises his hands in order to hit something. [...] ... ŠÀ.GÍD.GÍD (corresponds to) @i{šarāru} (and is to be interpreted literally as) “to consider (earnestly in) one’s heart."
+
+@label 34 - 35
+“He trampled in [blood]shed he had caused(?)” (@i{Šurpu} II 93) – “bloodshed” (refers to) the blood [of] someone killed.
+
+@label 36 - 38
+“He had covered something up and swore (that he was innocent(?))” (@i{Šurpu} II 84) – “to cover up” means “to hide,” (referring to someone) who hides something.
+
+@label 39 - 42
+“(Who) said no instead of yes and said yes instead of no” (@i{Šurpu} II 6) –  this means, he said nothing about things better be spoken of, and he said something [about] things better not be sp[oken of] (?).
+
+@label 43 - 44
+“[(Who)] incited the judg[e] to inappropriate actions” (@i{Šurpu} II 15) – KA.NU.GAR.RA corresponds to “inappropriate acti[ons]” (and) “maliciousness."
+
+@label 45 - 46
+“He is being questioned, he is being questioned (?)” (@i{Šurpu} II 104) – what is said (is the following): ... [...] ... [...].
+
+@label 47 - 48
+“[(Since) he stood] in front of the congregation and sp[ok]e insincere words” (@i{Šurpu} II 81) – “congregation” [means] “assembly."
+
+@label 49
+“(Since) he sw[ore] by the protective deity of god and king” (@i{Šurpu} II 91) – [(this means)] he swore by Šamaš and Adad.
+
+@label 50 - 51
+“May (the goddess) Anunītu release (the patient) in Akkad, the city that celebrates her” (@i{Šurpu} II 170) – Anunitu is the Ištar of Bubê. The (term) Eulmaš refers to a sanctuary in Akkad.
+
+@label 52 - 54
+“May Yabru, Ḫumba, and Napruši, the most famous deities, release (the patient)” (cf. @i{Šurpu} II 163-64) – Yabru is Anu, Ḫumba is Enlil, and Napruša is Ea.
+
+@label 55
+From: “Incantation: May it be released, o great gods!” (@i{Šurpu} II 1).
+
+$single ruling
+
+@label 56 - 59
+Written and checked according to its original. For the reading of Kiṣir-Nabû, junior-exorcist, son of Šamaš-ibni, exorcist of the Aššur temple. Whoever removes the tablet, may Nabû order that he perish.

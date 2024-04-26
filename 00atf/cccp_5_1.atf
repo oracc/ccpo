@@ -1,0 +1,81 @@
+&P461271 = CCP 5.1 (http://ccp.yale.edu/P461271) = BM 59739
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. !bs [i-šal-li]-am*#-ma*# !cm : GIR₅*.GIR₅* : ša₂*#-[lu-u₂ ...]
+#lem: +šalû[submerge]V$išalliamma; +šalû[submerge//submerging]V'N$; +šalû[submerge//submerging]V'N$; u
+
+#note: Pace Lambert, the signs should be read as GIR₅.GIR₅, rather than KÁ.KÁ. The line thus represents a commentary on @i{CH} §2 (@i{i-ša-al-li-a-am-ma}). On GIR₅.GIR₅ = @i{šalû} see e.g. @i{Diri} II 44.
+3'. !bs [{d}ID₂ :] !cm {d*#}IDIM : {d}ID₂ : na-a-ri [...]
+#lem: Id[River]DN; Ea[1]DN; Id[River]DN; +nāru[river]N$nāri; u
+#note: The first sign, not read by Lambert, is probably the divine determinative. The writing of Ea's name as¨d.idim, instead of d.é.a, pinpoints his syncretism with the River god in the commentator's eyes: on the one hand, their names are similar (d.íd, “River god” : d.idim, “Ea”), on the other, also their functions are comparable (since d.idim literally means “the divine water spring").
+4'. !bs [ik-ta]-šad-su !cm : SAR : ka-ša₂-du [...]
+#lem: +kašādu[reach]V$iktašadsu; +kašādu[reach//reaching]V'N$; +kašādu[reach//reaching]V'N$; u
+
+5'. !zz [... !bs i]-na di-i-ni : !bs KU{+eš} !cm : i-[na ...]
+#lem: u; ina[during]PRP; dīni[trial]N; +ina[in]PRP$; ina[in]PRP; u
+
+6'. !zz [...] x-ri !cm : ši-bu-tu : !zz x# [...]
+#lem: u; u; +šībūtu[old age//function as witness]N'N$; u; u
+
+#note: The first word is perhaps @i{amāri}, “to see,” a verb which is said to be etymologically related to the word “witness” in the commentary @i{CCP} 7.2.u24 l. 11.
+7'. !zz [...] x# x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+@reverse
+
+1'. !zz [...] x x [...]
+#lem: u; u; u; u
+
+2'. !zz [... !bs hab?]-ba?#-tu !cm : da?#-[a?-i?-ku? ...]
+#lem: u; habbātū[bandit]N; +dāʾiku[killer]N$; u
+
+#note: The restoration follows Lambert’s. It is inspired by the lexical list @i{Malku} I 99.
+3'. !zz [... !bs ra]-ba#-an-nu !cm : {lu₂}ha-za-nu : !zz x# [...]
+#lem: u; +rabiānum[mayor]N$rabannu; hazannu[mayor]N; u; u
+
+4'. !zz [... !bs KI !cm : er]-ṣe#-ti₃ : KI : qaq-qar : !zz [...]
+#lem: u; +erṣetu[earth]N$; +erṣetu[earth]N$erṣeti; +qaqqaru[ground]N$; qaqqar[ground]N; u
+
+5'. !zz [... !bs nu-ma]-at !cm : u₂-na-a-tu₂ : [...]
+#lem: u; +numātu[movable goods]N$numāt; +unūtu[tools]N$unâtu; u
+
+$ single ruling
+6'. !zz [ṣa-a]-tu₂# šu-ut KA ša₂ šum-ma# [a-me-lu ...]
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; ša[of]DET; šumma[if]MOD; amēlu[man]N; u
+
+7'. !zz [IM?] {m?}{d?}AG?#-[...]
+#lem: ṭuppi[tablet]N; u
+
+#note: The tentative reading of the name in the colophon follows Frahm @i{GMTR} 5 (2011) p. 242.
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+2'. [“He will sub]merge (himself)” (= @i{Hammurapi Law Code} §2), GIR₅.GIR₅ means “to sub[merge” ...],
+3'. [The “River god” (= @i{Hammurapi Law Code} §2)] is Ea; the River god”  is a “river"; [...],
+4'. [“If (the river) overw]helms him” (= @i{Hammurapi Law Code} §2), SAR means “to overwhelm."
+5'. [... “in a] lawsuit” (= @i{Hammurapi Law Code} §3), KU, read /eš/, means “in” [...],
+6'. [...] “witness” [...]
+7'. ...
+
+@reverse
+
+1'. ...
+2'. [...] “plunderer” (@i{Hammurapi Law Code} §23) means “@murderer” [...]
+3'. [...] @rabannu (@i{Hammurapi Law Code} §23) means “mayor” [...],
+4'. [... KI] means “land,” KI means “earth"; [...]
+5'. [...] @numātu means “possessions"; [...]
+$ single ruling
+6'. [Lemma]ta and oral explanations relating to “If [a man ...]."
+7'. [@i{Tablet}] of @i{Nabû}-[...].

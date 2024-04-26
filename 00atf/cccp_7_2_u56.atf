@@ -1,0 +1,81 @@
+&P461234 = CCP 7.2.u56 (http://ccp.yale.edu/P461234) = BM 47668+
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [ner]-ru#-bu !cm : la-sa-mu : ner-ru#-[bu : !zz ...]
+#lem: +nērubu[flee//fleeing]V'N$; +lasāmu[run//running]V'N$; nērubu[fleeing]'N; u
+
+#note: The same equation is attested in @i{SpTU} 1 83 r 32 (@i{CCP} 3.7.2.C).
+2. !bs ri-ʾ#-i#-tu₄ !cm : ma-ka-lu-u₂ !zz : la?#-[ʾ-u₂ : ...]
+#lem: +rîtu[pasture]N$riʾītu; mākālû[food]N; +laʾû[small child]N$; u
+
+#note: If correctly read, the first equation would be elsewhere unattested. Compare perhaps @i{tiʾûtu} = @i{mākālu} in @i{CAD} M/1 123f.
+2a. !cm ša₂-niš la-ʾ-u₂ !zz [...]
+#lem: šanîš[alternatively]AV; laʾû[small child]N; u
+
+#note: The line is written in vertical on the left hand margin.
+3. !cm ne-e-šu# !zz :# <<x x x>> : !bs na-za-qu?# !zz [...]
+#lem: +nēšu[lion]N$; nazāqu[worrying]'N; u
+
+#note: Several signs have been erased.
+4. !bs ta-šim-tu₄ !cm : mil?#-ku?# !zz :# x#-e lam-mu : x#-[...]
+#lem: +tašīmtu[discernment]N$; +milku[advice]N$; u; X; u
+#note: If the reading of the second word is correct, the equation would be attested in @i{Malku} IV 119.
+
+5. !bs a-la-la# !zz :# ne#-x#-x# [...]
+#lem: +alālu[work song]N$; u; u
+
+6. !bs man-gu !cm : mur-ṣu !zz : mi-i-[x ...]
+#lem: mangu[(a skin disease)]N; murṣu[illness]N; u; u
+#note: Equation attested in @i{Malku} IV 58.
+7. !bs a-nu-um-mu !cm : a-na ia-a-[ši !zz ...]
+#lem: +anummu[to me]IP$; ana[to]PRP; yâši[to me]IP; u
+
+#note: The equation is taken from @i{Malku} III 214.
+8. !qt ka-a-ta {d}a-nun-na-ki aš₂-[...]
+#lem: kâta[you]IP; Anunnakkū[1]DN; u
+
+#note: The line is perhaps a quotation from an unknown literary text.
+9. !bs šu#-a-tu₂ !cm : a-na ša₂-a-šu !zz : u₃ [...]
+#lem: šuātu[that]'DP; ana[to]PRP; šâšu[to him]IP; u[and]CNJ; u
+
+#note: The same equation is attested in @i{Malku} III 102 and in the commentary @i{SpTU} 1 50 32 (@i{CCP} 4.2.F).
+10. !zz li#-i-x#-a : a-na x# [...]
+#lem: u; ana[to]PRP; u; u
+
+#note: The last sign is probably not KA.
+11. !bs x# EME.SAL !cm : li-ša₂-nu MUNUS !zz [...]
+#lem: u; +emesallu[Emesal]N$; lišānu[language]N; sinništu[wife]N; u
+#note: The last word could also be read as @i{raq}[@i{qatu}], as suggested by U. Gabbay (personal communication, 5/2015).
+
+12. !zz [(x)] x# x# KI.TA : ina tak-ka-x# [...]
+#lem: u; u; u; šapliš[below]AV; ina[in]PRP; u; u
+
+13. !zz [x x]-x#-tu : ka-ka-[...]
+#lem: u; u; u
+
+$ reverse blank
+
+@translation parallel en project
+
+1. "To flee" means "to run,""To fle[e" means ...].
+2. "Pasture" means "meal"; "@i{Ba}[@i{by} means ...],
+2a. alternatively, "baby" [means ...]
+3. [...] means "lion"; "@i{to worry}" means [...]
+4. "Discernment" means "counsel"; ... [...]
+5. @i{alāla} means ... [...]
+6. "@i{mangu}-disease" means "illness"; [...],
+7. @i{anummu} means "to me" [...],
+8. "To you the Anunnaki [...]."
+9. @i{šuātu} means "to him"; "and" [...]
+10. ...
+11. [...] @i{emesal} means "@i{female} language" [...].
+12. ...
+13. ...
+
+$ reverse blank

@@ -1,0 +1,66 @@
+&P461184 = CCP 3.1.58.C.e (http://ccp.yale.edu/P461184) = BM 40397
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# u MUL# [...]
+#lem: u; u; u[and]CNJ; kakkabu[star]N; u
+
+2'. !zz [... ṣal]-bat#-a-nu $KU# x# x# [...]
+#lem: u; +ṣalbatānu[Mars]CN$; u; u; u; u
+
+3'. !zz [...] u₃# SAG.ME.GAR : x# x# x# x# [...]
+#lem: u; u[and]CNJ; +Nēberu[Jupiter]CN$; u; u; u; u; u
+
+4'. !zz [...] x# !bs :# MUL GAL UGU-ša₂# DU# x# !zz [...]
+#lem: u; u; kakkabu[star]N; rabâ[great]AJ; eliša[on]PRP; +izuzzu[stand]V$izziz; u; u
+
+#note: Compare @i{EAE} 59-60 Group C ii 4 (@i{BPO} 3 p. 112): ¶ @akk{{mul}dil-bat ina {iti}GU₄ IGI-ma ŠE.ER.ZI-ša₂ NU GAL₂-MEŠ : ma-aq-tu₄ U₄.4.KAM : MUL# GAL UGU-ša₂ DU : MUL-(MEŠ) NIGIN{+at}-ma u₃ MUL TUR UGU-ša₂ DU{+iz} : MUL-ME NIGIN{+at}-ma u UL.GAL?# x# x# x# UGU#-ša₂ DU{+iz?#} LUGAL KUR la šu-a-tu₄ : KUR šu-a-tu₄ ŠU-su KUR{+ad₂}}, “If Venus is seen in month II and her rays are not there, variant: fall, (for?) three days she is surrounded by stars and a small star stands above her: the king will conquer a land that is not his, variant: that land, his son will (not) seize the throne.”
+
+5'. !zz [... !bs iš]-ta#-naq-qa-a : MUL NIGIN{+at₂}-ma# !zz [...]
+#lem: u; ištanaqqâ[be(come) high]V; kakkabu[star]N; +lamû[surrounded]N$lamât; u
+
+#note: The form @akk{iš-ta-naq-qa-a} (@i{šaqû} Gtn) is attested very commonly in Venus omens: see @i{CAD} Š/2 20b.
+
+6'. !zz [... !bs iš]-ta-naq-qa-a : SA₅ ta-kip# !zz :# [...]
+#lem: u; ištanaqqâ[be(come) high]V; sāmū[red]AJ; takip[spotted (with)]AJ; u
+
+#note: Compare @i{EAE} 59-60 Group C ii 6 (@i{BPO} 3 p. 113): ¶ @akk{{mul}dil-bat ina U₄.14.KAM KIMIN U₄.15.KAM KIMIN U₄.16.KAM ZAG-ša₂ SA₅ ta-kip : tir-ku ṣa-rip KUR HUL IGI{+mar}}, “If Venus on the 14th, variant: 15th, variant: 16th, her right side is dotted with red, variant: colored red by a dark spot: the land will see evil.”
+
+7'. !zz [...] !bs x KI-šu₂ LA₂-ma : ZAG-šu₂ u GUB₃ SA₅ [tuk-kup !zz ...]
+#lem: u; u; ittišu[with]PRP; taṣammidma[bandage]V; imittišu[right side]N; u[and]CNJ; šumēl[left hand]N; sāmū[red]AJ; +tukkupu[dotted]AJ$tukkup; u
+
+#note: Compare @i{EAE} 59-60 Group C ii 8 (@i{BPO} 3 p. 114): ¶ @akk{{mul}dil-bat ina U₄.14.KAM KIMIN U₄.15.KAM KIMIN U₄.16.KAM ZAG-ša₂ u GUB₃-ša₂ SA₅ tuk-kup (KIMIN ta-kip) KUR ša₂ HE₂.NUN IGI HUL IGI ša₂ HUL IGI HE₂.NUN IGI}, “If Venus on the 14th, variant: 15th, variant: 16th, her right side and left side are dotted with red: the land which has seen plenty will see evil, which has seen evil will see plenty.”
+8'. !bs [* {mul}dil-bat ina {iti}GU₄ ina {d}UTU].E₃# KUR-ma TUR₃ NIGIN : ina {d}UTU#.E₃# !zz [...]
+#lem: Dilbat[1]CN; ina[in]PRP; Ayyaru[1]MN; ina[at]PRP; ṣīt[exit]N&šamši[sun]N; ippuhma[rise]V; tarbaṣa[lunar halo]N; lami[surrounded]AJ; ina[at]PRP; ṣīt[exit]N&šamši[sun]N; u
+
+#note: Compare @i{EAE} 59-60 Group C ii 9 (@i{BPO} 3 p. 114): ¶ @akk{{mul}dil-bat ina {iti}GU₄ ina {d}UTU.E₃ KUR-ma TUR₃ NIGIN₂ LUGAL NIM.MA{ki} me-si-ra IGI}, “If Venus in month II rises in the East and is surrounded by a halo: the king of Elam will experience hemming in.”
+
+9'. !zz [... !cm ṣal]-bat#-a-nu ša₂-niš SAG.UŠ !zz [...]
+#lem: u; ṣalbatānu[Mars]CN; šanîš[alternatively]AV; +Kayyamānu[Saturn]CN$; u
+
+10'. !zz [...] :# !cm un-nu-tu : !bs TUR₃# [...]
+#lem: u; unnutu[fainting]'N; tarbaṣa[lunar halo]N; u
+
+11'. !zz [...]-as#-su : [...]
+#lem: u; u
+
+12'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. [...] ... and the star [...]
+2'. [... M]ars ... [...]
+3'. [...] and Jupiter ... [...]
+4'. [...] ... (variant:) a big star stands over it ... [...]
+5'. [... keeps going h]igher (variant:) it is surrounded by stars [...]
+6'. [... keeps g]oing higher (variant:) it is dotted with red [...]
+7'. [...] ... is high with it (variant:) it right side and left side [are dotted] with red [...]
+8'. [If Venus in the month Ayyāru (II) rises in the ea]st and is surrounded by a halo (variant:) in the east [...]
+9'. [... Ma]rs, alternatively, Saturn [...]
+10'. [...] means “faint.” A halo [...]
+11'. ...
+12'. ...

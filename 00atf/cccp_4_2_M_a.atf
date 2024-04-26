@@ -1,0 +1,572 @@
+&Q005179 = CCP 4.2.M (http://ccp.yale.edu/P296515) = Commentary M on Qutāru
+@composite
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+$(upper edge)
+0. !zz ina a-mat AN.DIŠ AN.DIŠ AN.AN PAB?.PAB? NI {d}ku₃-su₃ {d}nin-girim₃ liš-lim
+#lem: ina[by]PRP; amāt[command]N; X; X; X; X; X; Kusu[1]DN; Ningirima[1]DN; lišlim[go well]V
+
+#tr.en: At the command of the gods …, Kusu (and) Ningirim may it be a success!
+#note: The sign @akk{mat} in @akk{a-mat} is written over an erasure (probably the subsequent AN sign written prematurely). For the interpretation of the signs after @i{ina amat} see the discussion by Frahm (2011: 235 n. 1099 and 327 n. 1561). On Kusu, see P. Michalowski in Fs. Hallo pp. 158-159, and on Nigirim, who had a cult place in Uruk, see RlA 9 363-367.
+
+$(obverse)
+
+1. !bs SI DARA₃.MAŠ !cm : qar#-nu a-a-lu : !bs SI !cm : qar-nu : !bs DARA₃.MAŠ !cm : a-a-lu : !bs DIŠ !cm : šum-mu : !bs AN.TA.ŠUB.BA !cm : mar-ṣa ih-tan-naq u₃ UH₂-su ŠUB.ŠUB{+a} : !bs AN.TA.ŠUB.BA
+#lem: qaran[horn]N; +ayyalu[stag]N$ayyali; qarnu[horn]N; ayyali[stag]N; qarnu[horn]N; qarnu[horn]N; +ayyalu[deer]N$; ayyali[stag]N; +šummu[a šumma-clause]N$; šummu[a šumma-clause]N; +antašubbû[epilepsy]N$; +marṣu[sick]AJ$marṣa; +hanāqu[press]V$ihtannaq; u[and]CNJ; +ruʾtum[spittle]N$ruʾussu; ittanadda[flow]V; antašubbû[epilepsy]N
+
+#tr.en: “Stag’s horn” (Sumerian) means “stag’s horn” (because) “horn” (Sumerian) means “horn” (and) “stag” (Sumerian) means “stag”. “If” (Sumerian) means “if”. “Fallen-from-heaven” (Sumerian) is (when) “with respect to the sick man, he suffocates and expectorates repeatedly”; “Fallen-from-heaven” (and)
+#note: As noted by Stol (1993: 104), as well as Frahm (2010) and Geller (2010), the commentary begins with a drug drawn from the second column of the base text, for reasons uncertain; Stol points out that in the classical world, stag’s horn was used to detect epilepsy, and Frahm hypothesizes that its prominent position in the commentary may therefore reflect its importance for treating epilepsy in ancient Mesopotamia too (the reading DARA₄ by Geller 2010: 168 is a typo). However, ‘stag’s horn’ appears in another commentary on a therapeutic text, @i{CCP} 4.2 Q o 8, as an explanation for the @i{elkulla}-plant (“It is like stag’s horn”), and so in this context it may refer to a plant. In the description of the symptoms of the disease ‘Fallen-from-heaven’, the syllabic writing @i{ih-tan-naq} could be interpreted as either a Dt perfect, so Stol (1993: 25), a Gtn preterite (so @i{CAD} R 435b) or as a Gt durative of @i{hanāqu}; however, because the durative is used to describe medical symptoms in o 2-3, the Gt durative option seems the more likely of the three. As noted by Stol (1993: 25-26), it is unclear why the commentator chose to highlight the symptoms described in this and the next two lines, since they are not the only ones associated with these forms of epilepsy.
+
+2. !bs {d}LUGAL.UR₃.RA !cm : IGI-MIN 15-šu₂ u 150-šu₂ i-kap-pi-iṣ !bs {d}LUGAL.UR₃.RA !cm : !bs ŠU.DINGIR.RA !cm : DINGIR-MEŠ i-nam-zar šil-lat i-qab-bi ša₂ im-mar i-mah-haṣ !bs ŠU.DINGIR.RA !cm : !bs ŠU.{d}INNIN.NA !cm :
+#lem: Lugalurra[1]DN; īnī[eye]N; imittišu[right]N; u[and]CNJ; šumēlīšu[the left]N; +kapāṣu[bend back]V$ikappiṣ; Lugalurra[1]DN; šudingirrakki[(a serious illness)]N; ilāni[god]N; +nazāru[revile]V$inamzar; šillat[impudence]N; iqabbi[speak]V; ša[of]DET; immar[see]V; +mahāṣu[beat]V$imahhaṣ; šudingirrakki[(a serious illness)]N; +qātu[hand]N$qāt&+ištaru[goddess]N$ištari
+
+#tr.en: “Lord-of-the-roof” are (when) “the right and his left eye @i{roll up}.” “Lord-of-the-roof” is (also the same as) “Hand-of-the-god”, (which) is (when) “he (i.e., the sick man) curses the gods, speaks blasphemy, (and) hits whatever he sees.” “Hand-of-the-god” is (also) the same as “Hand-of-the-goddess”,
+
+#note: In his translation Geller (2010: 171) omits the second occurrence of @akk{{d}LUGAL.UR₃.RA}.
+
+3. !cm hu-uṣ-ṣi GAZ ŠA₃ TUK.TUK{+ši} u₃ INIM-MEŠ-šu₂ im-ta-na-aš₂-ši !bs ŠU.{d}INNIN.NA !cm : ŠU.GIDIM.MA !cm <:> GEŠTUG-MIN-MEŠ-šu₂ GU₃.DE₂-MEŠ ma-gal iṭ-ṭe₃-ne₂-pi šin-na-šu₂ ana ma-ka-le-e
+#lem: +hūṣu[pain]N$huṣṣi; +hīpu[break(age)]N$hīp; libbi[concern]N; +rašû[acquire]V$irtanašši; u[and]CNJ; awâtušu[word]N; +mašû[forget]V$imtanašši; qāt[hand]N&ištari[goddess]N; +šugidimmakku[hand of the ghost]N$; +uznu[ear]N$uznāšu; ištanassâ[ring]V; magal[greatly]AV; +ṭepû[extend]V$iṭṭeneppi; +šinnu[tooth]N$šinnāšu; ana[according to]PRP; mākālê[food]N
+
+#tr.en: (which) is (when) “he (i.e., the sick man) will repeatedly contract @i{abdominal pain} and keeps forgetting his words.” “Hand-of-the-goddess-disease” is (also the same as) “Hand-of-the-ghost-disease”, (which) is (when) “his (the sick man’s) ears ring, @i{a poultice is firmly applied}, (and) he cannot bring his teeth near food”
+
+#note: The precise meaning of @i{huṣṣi hīpi libbi} is unclear. @i{CAD} Ḫ 260b concludes that the expression was “originally probably a hendiadys construction denoting a specific abdominal pain”. For a more recent discussion see Moudhy al-Rashid, “A Note on the Meaning of @i{hūṣu} and @i{huṣṣu}”, CDLN 2014: 7 (reference courtesy of K. Wagensonner), although note that E. Jiménez’s new reading of the relevant lines in the commentary @i{GCCI} 2 406 can now be found at @i{CCP} 4.1.13.B. The translation offered here of the phrase @akk{ma-gal iṭ-ṭe₃-ne₂-pi} follows both Geller (2010: 171), who tentatively translates “(a poultice) is @i{excessively applied}”, and @i{CAD} Ṭ s.v. @i{ṭepû}, which (prefaced with the remark, “difficult”) understands the phrase as referring to poultice application. Such an interpretation nevertheless seems out of step with the phrase’s context in this line, namely a description of medical symptoms.
+
+4. !cm la u₂-qar-ra-ba-ma !bs ŠU.GIDIM.MA !cm : !bs DU₃.DU₃.BI !cm : e-pu-uš-ta-šu₂ : !bs nap-šar-šu₂ !cm : u₂-ru-di-su : !bs ta-a !cm : a-par : !bs hu-up-pat* !cm :* šup-lu BUR₃*{+ru₃*} : šup-lu : a-par ša₂ SAG.DU
+#lem: lā[not]MOD; +qerēbu[be/come close]V$uqarrabā-ma; šugidimmakku[hand of the ghost]N; +epuštu[(magical) procedure]N$epuštašu; +epuštu[(magical) procedure]N$epuštašu; +napšāru[winnowing basket//uvula]N'N$napšāršu; +urʾudu[windpipe]N$urʾussu; +têʾu[cover (up)//covering (up)]V'N$tâ; +apāru[cover the head//covering the head]V'N$apār; +huptu[hole]N$huppāt; šuplu[depth]N; +šuplu[depth]N$; šuplu[depth]N; apār[covering the head]'N; ša[of]DET; qaqqadi[head]N
+
+#tr.en: – (this) is “Hand-of-the-ghost.” “Its ritual” (Sumerian) means “its ritual”. “Its uvula” means “its trachea”. “…” means “@i{covering}”; “@i{cavity}” means “depression”, (which can be written) “BUR₃{+ru₃}”; “depression” means “@i{covering} of the head
+
+#note: The interpretation of the final reference to ‘Hand-of-the-ghost’ as summarizing the previous entry follows the translation of Frahm (2010: 174) rather than Geller (2010: 171), who interprets it as referring to the following entry on “ritual.” The equation of @i{napšāru} with @i{urʾudu}, although otherwise unattested, is reminiscent of two Old Babylonian extispicy omens that refer to the uvula swallowing the trachea and vice versa (see @i{CAD} N/1 317a for references). In light of @i{napšāršu}, the @i{-su} following @akk{u₂-ru-di} seems more plausibly understood as a possessive suffix than a logographic writing of @i{zumru} (so Geller 2010: 171) The writing @akk{u₂-ru-di-su} would then be a Late Babylonian spelling of @i{uru’ssu}, with CV-CV for CVC. On spellings of this type see M. Streck 2001 “Keilschrift und Alphabet” @i{LingAeg–StudMon} 3, pp. 77-97. As noted by @i{CAD} T 301a, the commentary’s equation of the poorly understood word @i{ta’u} with @i{apāru} suggests that the commentator understood @i{ta’u} as a form of @i{tê’u}, “to cover (up)”. The entry beginning @i{hu-up} should be read @akk{hu-up-pat} : @akk{šup-lu} U AŠ, not as previously @akk{hu-up-ti}? IGI : @akk{šup-lu} IGI (so @i{CAD} Š 3 s.v. @i{šuplu}) or @akk{hu-up-pat}! IGI : @akk{šup-lu-šu₂} (so Geller (2010: 168)). Moreover, Frahm’s proposal (personal communication) to read AŠ as @akk{ru₃}, a pronunciation gloss for BUR₃, neatly solves the problem of how to understand U AŠ. On @akk{hu-up-pat} see Kilmer (1977: 132 n. 12) citing CAD H s.v. @i{huptu} B. Formally, the writing @akk{hu-up-pat} could be understood as a construct state of the singular or plural: the decision to interpret it as plural here is based on the word’s appearance in the base text, where it refers to both the head and the neck.
+
+5. !cm u BUR₃*{+ru₃*} GU₂ : !bs I₃ HUL !cm : nap-ṭu <<u>> !bs I₃ KU₆ !cm : šam-ni nu-u₂-nu : !bs A.RI.A NAM.LU₂.U₁₈.LU !cm : {u₂}maš-ta-kal : aš₂-šu₂ {u₂}A.RI.A : {u₂}maš-ta-kal ša₂-niš !bs A.RI.A !cm : ri-hu-tu₂ :
+#lem: u[and]CNJ; +šuplu[depth]N$šupul; kišāda[neck]N; šaman[oil]N; lumni[evil]N; napṭu[naphtha]N; šaman[oil]N; nūni[fish]N; +rihûtu[progeny]N$rihût; +awīlūtum[humanity]N$amēlūti; namû[pasturage]N; amēlūtu[people]N; +maštakal[masztakal]N$; aššu[because of]'PRP; +maštakal[masztakal]N$; +maštakal[masztakal]N$; šanîš[alternatively]AV; rihûtu[progeny]N; rihûtu[progeny]N
+
+#tr.en: and depression of the neck.” “Naptha” (Sumerian) means “naptha”. “Fish oil” (Sumerian) means “fish oil”. “Human semen (A.RI.A NAM.LU₂.U₁₈.LU)” (Sumerian) means “@i{maštakal}-plant”, because “steppe plant (@sup{ú}A.RI.A)” (Sumerian) means “@i{maštakal}-plant”; alternatively, “semen” (Sumerian) (simply) means “semen”.
+#note: As noted by Gabbay (2016: 155), the commentary’s explanation for equating “human semen” with the @i{maštakal}-plant ignores the “human” element of the first term. Gabbay suggests that the alternative explanation (“semen means semen”) may be a tacit acknowledgement of this omission.
+
+6. !bs TUG₂.NIG₂.DARA₂ !cm : u₂-la-pi : !bs ŠU.LAL₂ !cm : lu-up-pu-ut-tu₄ : !bs TUG₂.NIG₂.DARA₂ ŠU.LAL₂ !cm : UZU KA₅.A : !bs {u₂}tara-muš !cm : ki-ma SUHUŠ {u₂}si-il-qa : !bs {u₂}IGI-lim ki-ma GIR₃.PAD.DU NAM.LU₂.U₁₈.LU
+#lem: +ulāpu[rag]N$; ulāpi[rag]N; lupputu[soiled]AJ; lupputtu[soiled]AJ; ulāpu[rag]N; lupputu[soiled]AJ; šīr[flesh]N; šēlebi[fox]N; +tarmuš[lupin]N$; kīma[like]PRP; šuruš[root]N; +silqu[mangold]N$silqa; imhur-līm[(a medicinal plant)]N; kīma[like]PRP; +eṣemtu[bone]N$eṣemti; amēlūti[people]N
+
+#tr.en: “Towel” (Sumerian) means “towel”; “soiled” (Sumerian) means “soiled”; “soiled towel” (Sumerian) means “fox-flesh(-plant)” (Sumerian). “@i{Taramuš}-plant” means “(it is) like mangel-wurzel root”. “It-confronted-1000-plant” (means) “(it is) like human bone”.
+
+#note: The first signs of @akk{lu-up-pu-ut-tu₄} are written over an erasure. Scurlock (2004: 256) interprets @akk{UZU KA₅ A} as the base text, and both @akk{{u₂}tara-muš} and @akk{ki-ma SUHUŠ {u₂}si-il-qa} as the commentary; the different interpretation presented here is supported by the fact that “fox flesh” is also equated with “soiled towel” in Uruanna (@i{CAD} U/W s.v. @i{ulāpu}, lexical section). The parallel in Uruanna also indicates that “fox flesh” is very probably a plant name.
+
+7. !zz : !bs {u₂}IGI-MAN !cm ki-ma ša₂-ru-ru {d}15 ša₂-niš !bs {u₂}IGI-MAN !cm ki-ma U₂ {d}UTU NUMUN-šu₂ ki-ma ši-gu-uš-ti : !bs MUD₂ ka-mi-i !cm MUD₂ {lu₂}ga-ar-ba-nu aš₂-šu₂ !bs ka-mu-u₂ : !cm
+#lem: +imhur-ešrā[(a climbing plant)]N$; kīma[like]PRP; šarūru[brilliance]N; Ištar[1]DN; šanîš[alternatively]AV; imhur-ešrā[(a climbing plant)]N; kīma[like]PRP; šammi[plant(s)]N; Šamaš[1]DN; zēršu[seed(s)]N; kīma[like]PRP; šiggušti[(a garden plant)]N; dāmi[blood]N; +kamû[bound//prisoner]AJ'N$kamî; dāmi[blood]N; +garbānu[leprous]N$; aššu[because of]'PRP; +kamû[bound//prisoner]AJ'N$
+
+#tr.en: “It-confronted-20-plant” (means) “(it is) like the radiance of Ishtar”; alternatively, “‘it-confronted-20’-plant” (means) “(it is) like the sunflower”; its seed is like the @i{šigguštu}(-plant). “Blood of a prisoner” (means) “blood of a leper” because “prisoner” can refer to (lit. means)
+#note: Frahm (2011: 235) suggests that the description of the ‘It-confronted-20-plant’ (@i{imhur-ešrā}) as “like the radiance of Ishtar” (@i{šarūr ištar}) is based on their phonetic similarity; Geller suggests that there is a play on the double meaning of @i{šarūru} as both radiance and cucumber tendril, however Ishtar’s tendril is not otherwise attested. The interpretation of @akk{ši-gu-uš-ti} follows Frahm (and @i{CAD} Š 2 412a) rather than Geller (2010: 171), who translates “barley” (@i{šigūšu}). The interpretation of @akk{ka-mi-i} as “prisoner” (<@i{kamû}, “to bind”) follows, e.g., @i{CAD} G 50a and K 128a rather than Geller (2010: 171 with n. 265), who translates “outside”, because of the equation of (<@i{kamû} with @i{garbānu} in a commentary on a line from @i{Marduk’s Address to the Demons} in which @i{kamû} clearly means prisoner (see @i{CCP} 2.2.1.A.a o 14). Geller’s objection to the sense of “to bind” in this context, namely that it is unlikely that lepers were incarcerated in ancient Mesopotamia, is countered by Malul (1993).
+
+8. !cm {lu₂}ga-ar-ba-nu ša₂-niš MUD₂ qa-du-u₂{mušen} !zz : !bs 1{+niš} !cm : ki-ma <<:>> iš-ten !bs it-ti a-ha-miš HI.HI !cm : !bs HI.HI !cm : ba-la-lu : !bs {zi₃}ŠE.MUŠ₅ : !cm ši-gu-šu₂ qe₂-me up-pu-lu : !bs KUŠ {d}ku-ši :
+#lem: garbānu[leprous]N; šanîš[alternatively]AV; dāmi[blood]N; +qadû[owl]N$; iltēniš[together]AV; kīma[like]PRP; ištēn[one]NU; itti[with]PRP; ahāmiš[together]AV; taballal[mix (up)]V; +balālu[mix (up)//mixing (up)]V'N$; +balālu[mix (up)//mixing (up)]V'N$; +šigūšu[(a type of barley)]N$; +šigūšu[(a type of barley)]N$; qēme[flour]N; +uppulu[dried]AJ$; mašak[skin]N; Kušu[1]DN
+
+#tr.en: a leper; alternatively (it means) “blood of an owl”. “Together” (Sumerian) means “as one”. (In the phrase) “to mix with one another”, “mix” (Sumerian) means “mix” (Akkadian); “@i{šigūšu}-flour” (Sumerian) means “dried @i{šeguššu}-flour”. “Hide of Kūšu” means 
+#note: For an alternative interpretation of @akk{ki-ma : iš-ten it-ti a-ha-meš HI.HI : HI.HI : ba-la-lu} see Scurlock (2004: 256). The interpretation of @akk{ub-bul-lu} as “dried” follows CAD U s.v. @i{ubbulu} lexical section rather than Geller 2010: 171, who prefers @i{up-pu-lu}, “late”. The interpretation of the signs @sup{d}@akk{ku-ši} follows Ambos (2013: 191 ad l. 6') rather than Geller (2010: 171), who reads @akk{an-dul₅-lim}, “of the canopy”; Kūšu belonged to a group of seven demons, the @i{Asakkū}, who were defeated by Ninurta. As Böck (2010: 93) suggests, possibly of relevance to his appearance here (and in the base text) is his association with a scapegoat in another text: see RlA 6 382 for details. The same phrase, @akk{KUŠ {d}ku-ši}, appears in another therapeutic medical commentary, @i{CCP} 4.2.R o 7, where its explanation as oxhide is similar to the explanation found in this text, at the beginning of o. 9.  
+
+9. !cm KUŠ GU₄ ṣal-mu ša₂ ina ABUL URU ša₂ {im}MAR.TU ina muh-hi ŠINIG {d}ku-ši in-ne₂-ep-pu-uš : !bs til-lat <<:>> {d}ku-ši : !cm til-lat ša₂ ŠINIG ša₂ KUŠ GU₄ ṣal-mu ana {d}ku-ši
+#lem: mašak[skin]N; alpi[ox]N; ṣalmu[black]AJ; ša[of]DET; ina[in]PRP; +abullu[gate (of city or large building)]N$abul; āli[village]N; ša[of]DET; amurri[west]N; ina[on]PRP; muhhi[top]N; bīni[tamarisk]N; Kušu[1]DN; inneppuš[do]V; +tillatu[vine]N$tillat; Kušu[1]DN; tillat[vine]N; ša[of]DET; bīni[tamarisk]N; ša[of]DET; mašak[skin]N; alpi[ox]N; ṣalmu[black]AJ; ana[according to]PRP; Kušu[1]DN
+
+#tr.en: “hide of a black ox” which is at the western city-gate, over which tamarisk of Kūšu is constructed; “vine of Kūšu” means “vine of tamarisk” (l. 10) over which (l. 9) hide of a black ox (l. 10) is placed (l. 9) for Kūšu.
+#note: The interpretation of the signs @sup{d}@akk{ku-ši} follows Böck (2010: 93) rather than Geller (2010: 171), who reads @akk{an-dul₅-lim}, “of the canopy”. According to @i{CAD} T 409a, @i{tillatu} is used with respect to tamarisk only in this commentary and its base text (@i{TCL} 6 34 i 7); elsewhere it refers to the grapevine.
+
+10. !cm ina UGU šak-na : !bs MAŠ₂.ZU : !cm ki-iz-zu : !bs MAŠ₂ : !cm u₂-ri-ṣa : !bs ZU : !cm e-du-u₂ : !bs šam-ma HAB !cm : tu-na-as-su-ma : ki-ma ba-aṣ-ṣa : !bs {u₂}URI !cm ki-ma ŠINIG u SA₅ :
+#lem: ina[on]PRP; muhhi[top]N; +šaknu[placed]AJ$; +kizzu[(young male) goat]N$; +kizzu[(young male) goat]N$; +urīṣu[male goat]N$; urīṣa[male goat]N; +edû[know//knowing]V'N$; edû[knowing]'N; +šammu[plant(s)]N$šamma; +happu[stinking]N$; +nesû[be distant]V$tunassû-ma; kīma[like]PRP; baṣṣa[sand]N; +urṭû[fibre]N$; kīma[like]PRP; bīni[tamarisk]N; u[and]CNJ; sāmu[red]AJ
+
+#tr.en: “(Male) goat” (Sumerian) means “(male) goat” (Akkadian); “a goat” (Sumerian) means “goat” (Akkadian); “to know” (Sumerian) means “to know” (Akkadian). “@i{Smelly plant}” means “you remove” means “(it is) like sand”. @i{Urṭû}(-plant) (means) “(it is) like tamarisk and red”. 
+#note: According to @i{CAD} G s.v. @i{gizzu}, lexical section, ZU = @i{edû} means “to know” in the biblical sense. The point of the explanation thus seems to be that @i{kizzu} is a male goat of reproductive age, rather than that it is “well known” (@i{pace} Geller 2010b n. 267). The rationale behind the triple equation of “smelly plant”, “you remove” and “(it is) like sand” is unclear. Note that @akk{šam-ma HAB} could be a writing for the plant @i{būšānu}. For the proposal that the plant @i{urṭû} should be identified with the plant attested in Arabic as @i{’arṭan}, see Watson (2016).
+
+11. !bs {u₂}LU₂-{d}a-nu : !cm ki-ma hal-la e-re-bi : !bs U₂.DILI : !cm ki-ma hal-la TU{mušen} : !bs {šim.d}MAŠ NITA !cm ki-ma qu-lip-tu₂ ŠINIG ka-ṣar u SA₅ !bs ni-kip-tu₂ MUNUS !cm ki-ma qu-lip-tu₂ ŠINIG
+#lem: +amīlānu[(a medicinal plant)]N$; kīma[like]PRP; +hallā[(dung) pellet]N$; +erēbu[rook]N$erēbi; +ēdu[single//Asa foetida]N'N$; kīma[like]PRP; hallā[(dung) pellet]N; summati[(female) dove]N; +nikiptu[spurge]N$; +zikaru[man]N$zikar; kīma[like]PRP; +quliptu[skin of scales//bark]N'N$; bīni[tamarisk]N; +kaṣru[firmly joined]AJ$kaṣar; u[and]CNJ; sāmu[red]AJ; +nikiptu[spurge]N$; +sinništu[woman]N$sinniš; kīma[like]PRP; quliptu[bark]N; bīni[tamarisk]N
+
+#tr.en: “@i{Amīlānu}-plant” means “(it is) like the seed of … (lit. “raven droppings”). “Single-plant” means “(it is) like the seed of the @i{false carob} (lit. “dove droppings”). “Male @i{nikiptu}(-plant)” (means) “(it is) like tamarisk bark, (insofar as) it is solid and red”; “female @i{nikiptu}(-plant)” (means) “(it is also) like tamarisk bark,
+#note: Since “dove droppings” is a name for the seed of the false carob (see @i{CAD} S 380), the translation offered here assumes that “raven droppings” refers to the seed of a different plant.
+
+12. !cm raq-qa-qu u a-ru-qu : !bs PIŠ₁₀-{d}ID₂ UH₂.{d}ID₂ : !cm PIŠ₁₀-{d}ID₂ a-ru-uq-tu₄ : !bs PIŠ₁₀-{d}ID₂ A.GAR.GAR.{d}ID₂ : !cm PIŠ₁₀-{d}ID₂ ṣa-li-in-du :
+#lem: +raqqaqu[very thin]AJ$; u[and]CNJ; +arqu[yellow]AJ$aruqu; +kibrītu[sulphur]N$; +ruʾtītu[sulphur]N$; kibrītu[sulphur]N; +arqu[yellow]AJ$aruqtu; kibrītu[sulphur]N; agargarītu[(a mineral)]N; kibrītu[sulphur]N; +ṣalmu[black]AJ$ṣalindu
+
+#tr.en: (but) very thin and yellow-green. “@i{Ruttītu}-sulphur” means “yellow-green sulphur”, “@i{agargarītu}-sulphur” means “black sulphur”,
+#note: Following @i{CAD} A 1 144b, Heeßel (2000: 351 n. 30) observed that the terms @i{ruttītu}, @i{agargarītu} and @i{pappasītu} are terms that qualify sulphur, not stand-alone terms for types of sulphur. Similarly, Worthington (2006: 33 ad i.14) notes that the commentator’s purpose is to indicate that @i{ruttītu}, etc., serve as abbreviated writings for @i{kibrīt ruttīti}, etc.
+ 
+13. !bs PIŠ₁₀-{d}ID₂ BA.BA.ZA.{d}ID₂ : !cm PIŠ₁₀-{d}ID₂ pe-ṣi-tu₄ : !bs MUN eme-sal-li₃ : !cm MUN ša₂ lib₃-bi ID₂ : !bs ILLU {šim}BULUH <:> !cm hi-i-lu ša₂ a-na {lu₂}a-su-tu₄ in-ne₂-pu-uš : !bs ILLU LI.DUR
+#lem: kibrītu[sulphur]N; pappāsīta[(a white lime)]N; kibrītu[sulphur]N; +peṣû[white]AJ$peṣītu; ṭabat[salt]N; +mēsallu[salt]N$; ṭabtu[salt]N; ša[of]DET; libbi[concern]N; nāri[watercourse]N; +hīlu[exudation]N$hīl; baluhhi[(an aromatic plant)]N; +hīlu[exudation]N$; ša[which]REL; ana[for]PRP; +asûtu[profession of physician]N$; inneppuš[offer]V; hīl[exudation]N; +abukkatu[sap of a.]N$abukkati
+
+#tr.en: “@i{pappasītu}-sulphur” means “white sulphur”. “@i{Emesallu}-salt” means “salt from the middle of the river”. “@i{Baluhhu}-resin” (means) “resin which is prepared for medicinal purposes”. “@i{Abukkatu}-resin” 
+
+#note: Regarding the second passage commented on in this line, Worthington (2006: 33 ad i.ll) transliterates and translates: @akk{MUN šá ina ŠA₃{+bi} ID₂}, “salt which (is found) in the river.” However, no @i{ina} precedes ŠA₃ on the tablet. Note K.16766 l. 2′ (unpublished): @akk{ILLU a-bu-ka-tú ni-lu} [EJ].
+
+14. !zz : !cm ki-ma e-pe-ri a-sur-re-e : !bs {šim}HAB : !cm ṭu-ri : !bs in-za-ru-u₂# : hi-biš-ti : !bs {šim#}GUR₂.GUR₂ ša₂ hup₂-pe#-e !cm lib₃-bu-u₂ {šim}BULUG šim-meš-la {šim}GUG₂.GUG₂ : !cm {šim}MUG ŠIM.ŠAL
+#lem: kīma[like]PRP; eperi[dust]N; asurrê[footing]N; +ṭūru[opopanax]N$; +ṭūru[opopanax]N$ṭūri; +inzarû[(an aromatic plant)]N$; hibišti[crushed pieces (of aromatic wood)]N; kukura[(an aromatic tree)]N; ša[of]DET; huppê[crushed]AJ; libbū[meaning]PRP; +ballukku[(a tree)]N$; +šimiššalû[(type of) box-tree]N$šimmešla; kukuru[(an aromatic tree)]N; ballukka[(an aromatic substance)]N; +šimiššalû[(type of) box-tree]N$
+
+#tr.en: means “(it is) like dust-from-the-bottom-of-a-wall”. The aromatic @sup{šim}HAB means “@i{opoponax}”. “@i{Inzarû}(-plant)” means “cuttings”. “@i{Kukru}-aromatic” (means) “that which is crushed”, as in “@i{ballukku}-aromatic, @i{šimeššalû}-aromatic (and) @i{kukru}-aromatic mean @i{ballukku}-aromatic, @i{šimeššalû}-aromatic
+
+#note: Although @i{asurrû} originally meant sewer, by the first millennium its meaning seems to have evolved to “wall footings” (George 2015: 101-102). In this context, the phrase @i{eper asurrê} seems likely to be a Deckname of a plant. For the interpretation of the passage from @akk{{šim}GUR₂.GUR₂} onwards, I am indebted to E. Frahm (personal communication).
+
+15. !cm hi-biš-ti ša₂ ina EN₂*{+tu₂} E{+u} !bs ŠIM-HI.A !cm : u₂-ru-u₂ : la-ba-na-tu₄ : !bs {giš}EREN.BAD !cm : šu-pu-uh-ri : {giš}EREN.BAD !cm ša₂-niš bal-ṭi-it-tu₄ ša₂ ŠA₃ {giš}EREN : !bs MUN a-ma-nu !cm U₃.MU.UN : a-ma-nu
+#lem: hibišti[crushed pieces (of aromatic wood)]N; ša[that]REL; ina[in]PRP; +šiptu[incantation]N$; qabû[said]AJ; rīqī[aromatic substance]N; +urû[aromatics]N$; +labanātu[incense]N$; +šupuhru[(a variety or part of the cedar)]N$; +šupuhru[(a variety or part of the cedar)]N$šupuhri; +bušṭītum[woodworm]N$balṭittu; šanîš[alternatively]AV; balṭittu[woodworm]N; ša[of]DET; libbi[concern]N; erēni[cedar]N; ṭabat[salt]N; +amānu[(a reddish salt)]N$; +amānu[(a reddish salt)]N$; +amānu[(a reddish salt)]N$
+
+#tr.en: (and) cuttings”, which are mentioned in the incantation corpus/ the incantation ‘…’. “Aromatics” (Sumerian) means “@i{urû}(-plants)”, (which) means “incense.” “@sup{giš}EREN.BAD” (Sumerian) means “old cedar?”; “@sup{giš}EREN.BAD”  alternatively (means) “a @i{woodworm} which inhabits the cedar tree”. (Regarding) “@i{amānu}-salt”: U₃.MU.UN means “@i{amānu}”,
+
+#note: The reading @akk{EN₂-tu₂} follows the suggestion of K. Wagensonner (personal communication). The equation of aromatics and @i{urû} also occurs in @i{Ura} III 109 (cited @i{CAD} U/W 260b); the purpose of the additional equation here of @i{urû} with “incense” seems to be to explain a general term by means of a more specific one (E. Frahm, personal communication). Although @akk{{giš}EREN.BAD} is often read @akk{{giš}EREN.SUMUN} (literally, “old cedar”), the term could refer to a particular part or variety of cedar (@i{CAD} Š 3 s.v. @i{šupuhru}). The equation between {giš}eren.bad  and @i{šupuhru} is also attested in @i{Ura} 3 220-222. On the equation between @akk{{giš}EREN.BAD} and @i{bušṭītu ša libbi} giš@i{erēni} see @i{CAD} B s.v. @i{bušṭītu}, which suggests that the equation stems from the writing of @i{bušṭītu} as GIŠ×BAD in the sign list @i{Ea}. As noted by Jiménez (2017: 188), the same equation between @akk{{giš}EREN.BAD} and @i{bušṭītu ša libbi} @sup{giš}@i{erēni} is found in another commentary on a therapeutic medical text, @i{CCP} 4.2.W o 4, which was written in 2nd/1st century BCE Babylon.
+
+16. !cm [U₃].MU#.UN : da-mu aš₂-šu₂ MUN sa-mat ša₂ {kur}ma-da-a-a : !bs IM.SA₅ !cm : šer₃-šer₃-ri : !bs {u₂}kur-ka#-nu-u₂ !cm ki-ma su-ha-tu₄ gul-lu-ub !bs {u₂}kur-ka-nu-u₂ ša₂ ša₂-di-i
+#lem: amānu[(a reddish salt)]N; dāmu[blood]N; aššu[because of]'PRP; ṭabtu[salt]N; sāmat[red]AJ; ša[of]DET; +Madâ[]GN$; šaršerru[red paste]N; +šaršerru[red paste]N$; +kurkanû[(a medicinal plant)]N$; kīma[like]PRP; suhātu[recess]N; +gullubu[shorn]AJ$gullub; kurkanû[(a medicinal plant)]N; ša[of]DET; šadî[mountain]N
+
+#tr.en: (and) U₃.MU.UN (also) means “blood”, with respect to the red salt of Media. “Red clay” (Sumerian) means “red clay” (Akkadian). “@i{Kurkānû}-plant” (means) “(it is) like a shaved armpit”; “@i{kurkānû}-plant-of-the-mountain”
+
+#note: The rare equation of UMUN with @i{dāmu} is otherwise attested in a commentary written by the Assyrian scholar Nabû-zuqup-kēnu, @i{CCP} 3.1.u72 r I. The translation of @i{aš₂-šu₂} MUN @i{sa-mat ša₂} KUR @i{ma-da-a-a} follows Gabbay (2016: 158). The translation of @i{suhātu} as “armpit” follows @i{CAD} S 347a and Gabbay (2016: 158) rather than Geller (2010) and Stadhouders (2012), who translate “crotch”. On the basis of the parallel explanations using @i{kīma} in this commentary, “shaved armpit” is understood as a plant Deckname. Kinnier Wilson (2005: 12) suggests emending the text twice to give an aetiology suitable for identifying @i{kurkānû} with a type of fern, thus: @akk{{u₂}kur-ka-nu-u₂ DIM₂! šá!(SU)-ha-tu₄ <<gul-lu-ub>> {u₂}kur-ka-nu-ú šá šá-di-i}, “the @i{kurkānû}-plant, having been created in a mountain cleft (@i{suhātu} for @i{šahātu}) is (called accordingly) the mountain @i{kurkānû}.” This idea is not followed here.
+
+17. !cm [{u₂}x]-x#-ah : !bs {u₂}kur-ka-nu-u₂ ša₂ ma-a-tu₂ !cm {u₂}sa-pal-gi-na : !bs I₃.GIŠ BUR !cm : I₃.GIŠ par₃ : bi-iʾ-il-ti : BUR : bi-iʾ-il-ti ša₂-niš I₃.NUN.NA šal-šiš I₃ hal-ṣa re-bi-iš
+#lem: u; kurkanû[(a medicinal plant)]N; ša[of]DET; mātu[land]N; +sapalgīnu[(a plant)]N$sapalgīna; šamna[oil]N; pūri[(stone) bowl]N; šamna[oil]N; X; +biʾiltu[(a container)]N$biʾilti; +biʾiltu[(a container)]N$; biʾilti[(a container)]N; šanîš[alternatively]AV; himētu[butter]N; šalšiš[thirdly]AV; šaman[oil]N; halṣa[filtered]AJ; rebîš[fourthly]AV
+
+#tr.en: [(means) “…] …”; “@i{kurkānû}-plant-of-the-land” means “@i{sapalginu}-plant.” “Oil in a @i{pūru}(-vessel)” (Sumerian) is (pronounced?) “oil in a @i{par}-vessel”, “@i{biʾiltu}-(vessel)”. means “@i{pūru}(-vessel)” (Sumerian); @i{biʾiltu}-(vessel) secondly (means) “ghee”; thirdly (it means) “pressed oil”. Fourthly 
+#note: @i{CAD} K s.v. @i{kurkānû} and P s.v. @i{pirizaḫ} restore the beginning of the line as @akk{[U₂ pi-ri-z]a-ah}; Geller (2010: 171) restores @akk{[{u₂}na]-mu#-lu#-uh}; both restorations draw on equations between @i{kurkānû} and other plants attested in Uruanna, but neither fits the traces. The second and third explanations of the @i{bi’iltu}-vessel as “ghee” and “pressed oil” refer to the possible contents of the vessel, as is clear from a reference to “one @i{bi’iltu} of pressed oil” in a Neo-Babylonian letter (TCL 9 117: 44, reference from CAD B s.v. @i{bi’iltu}).
+
+18. !zz [...] !bs TU#.RA#.KILIB₃#.BA !cm : nap-har mur-ṣu# : {u₂}LAL : ki-ma {giš}HAŠHUR ina ne₂#-reb tam-ti₃ a-šar šam-mu u {giš}GI la ba-šu-u₂ ina IGI A-MEŠ E₃ ina muh-hi-šu₂
+#lem: u; +murṣu[illness]N$&+napharu[all]N$; naphar[all]N; murṣu[illness]N; ašqulālu[(a marine plant)]N; kīma[like]PRP; hašhūri[(a fruit)]N; ina[in]PRP; nēreb[entrance]N; tâmti[sea]N; ašar[where]SBJ; šammu[plant(s)]N; u[and]CNJ; apu[reed-bed]N; lā[not]MOD; bašû[existing]AJ; ina[in]PRP; pān[front]N; mê[water]N; uṣṣi[go out]V; ina[in]PRP; muhhišu[skull]N
+
+#tr.en: [(it means) “…”.] “Panacea” (Sumerian) means “panacea” (Akkadian). “@i{Ašqulālu}-plant” means “(it is) like an apple-tree; it grows at the entrance to the sea where there is neither plant nor reed, in front of water; on it 
+#note: The reading of the damaged signs before @i{nap-har mur-ṣu} follows Parpola (1983: 28). The reading @i{ina né-reb} follows @i{CAD} N 2 s.v. @i{nērebu} and @i{nishu} mng. A7) rather than @i{CAD} A 2 s.v. @i{ašqulālu} mng. 3b), Geller (2010: 169) and Stadhouders (2011: Text 1 §31’ and Text II §19),  who read @i{ina ni-sih₂}. As noted by @i{CAD} A 2 s.v. @i{ašqulālu} mng. 3b) and Geller (2010: 199 n. 248), the description of the “@i{ašqulālu}-plant” in this line draws on a line in the botanical treatise @i{Šumma šikinšu} (Stadhouders 2011: Text 1 §31’ and Text II §19).
+
+19. !zz [...] x# :?# {giš*#}AL#.LA#.AN sar-ri : !bs {u₂}A.ZAL.LA₂ !cm : ki-ma {u₂}ka-na-šu-u₂ u SA₅ : !bs {u₂}A.ZAL.LA₂ !cm : U₂ ni-is-sat ma-še-e : !bs {u₂}KUR.KUR !cm :
+#lem: u; u; +allānu[oak]N$; +sarru[false]AJ$sarri; azallâ[(a medicinal plant)]N; kīma[like]PRP; +kanašû[(a red flower)]N$; u[and]CNJ; sāmu[red]AJ; azallû[(a medicinal plant)]N; šammi[plant(s)]N; nissat[wailing]N; mašê[forgetting]'N; atāʾišu[white hellebore]N
+
+#tr.en: […] @i{means} “false oak”; the “@i{azallû}-plant” means “(it is) like the “@i{kanašû}-plant and is red”; “@i{azallû}-plant” means “(it is) a plant for forgetting worries”. The “@i{ataʾīsu}-plant” means
+#note: As noted by Frahm (2011: 235 n. 1096), the first description of @i{azallû} as @i{kīma kanašî} is a quotation from @i{Šammu šikinšu} (Stadhouders 2011: Text II §8). The second explanation of @i{azallû}, as an U₂ @i{nissāt mašê}, “plant for forgetting worries,” is similar to its entry in @i{Uruanna} 2 2 – according to Köcher’s unpublished edition, as cited by Landsberger (1967: 51) – which describes it as @akk{U₂ šá-mi ni-is-sa-ti}.
+
+20. !zz [...] !cm x# ze-e e-re-bi : !bs KU#.{+he#-he#}KU !cm : su#-pan#-du : !bs gul-gul NAM.LU₂.U₁₈.LU :# !cm ŠINIG : !bs UZU NAM.LU₂.U₁₈.LU !bs :
+#lem: u; u; zê[excrement]N; erēbi[rook]N; +subandu[(materia medica)]N$; +subandu[(materia medica)]N$; +gulgullu[skull]N$gulgul; amēlūti[people]N; bīnu[tamarisk]N; šīr[flesh]N; amēlūti[people]N
+
+#tr.en: […] “raven droppings” means “KU.KU (pronounced “@i{ḫeḫe}”)” (which) means “@i{powder}”; “human skull” means “tamarisk”; “human flesh” means
+#note: The equation of @akk{KU.KU} and @i{supandu} is also found in the ritual instructions in “Evil Demons”, Tablet 15: 214' and 242', (Geller, @i{SAACT} 5 2007: 175-76), as well as in another commentary, @i{CCP} 7.2.u132, 6′). On the gloss to @akk{KU.KU}, compare @i{Diri} I 99: @akk{e-eh-he KU.KU} (@i{MSL} 15 p. 108).
+
+21. !zz [...] x# x# x# !bs ap?#-pa?#-ri?# !cm :?# ša₂ ap-pa-ri : !bs sik-kat !cm : pa-ʾ-ṣa!(A)-nu ša₂ {lu₂}LUNGA₃ sim-di ša₂ ŠE.BAR u GAZI{sar} 1{+niš} HI.HI-ma
+#lem: u; u; u; u; appāri[reed-bed]N; ša[of]DET; appāri[reed-bed]N; +sikkatu[yeast]N$sikkat; +paʾṣu[crushed]N$paʾṣānu; ša[of]DET; +sīrāšû[brewer]N$sīrāšî; +simdu[(a flour)]N$simdi; ša[of]DET; uṭṭati[barley]N; u[and]CNJ; kasâ[mustard]N; iltēniš[together]AV; taballalma[mix (up)]V
+
+#tr.en: […] “… @i{reedbed}” @i{means} “of the reedbed”; “@i{yeast}” means “the @i{crushings} of the brewer”; you mix (it) together with @i{simdu} of barley and @i{kasû}, and 
+#note: The emendation @i{pa-ʾa-ṣa!(A)-nu} follows @i{CAD} S s.v. @i{sikkatu} C, lexical section.
+22. !bs [ka-mun ŠINIG !cm : UZU?].DIR# SUHUŠ ŠINIG E₃{+u₂} ša₂-niš !bs ka-mun ŠINIG !cm : {na₄}gab-u₂ : {na₄}gab-u₂
+#lem: kamūn[cumin]N; bīni[tamarisk]N; kamūnu[(a fungus)]N; šuruš[root]N; bīni[tamarisk]N; uṣṣû[emerge]V; šanîš[alternatively]AV; kamūn[cumin]N; bīni[tamarisk]N; gabû[alum]N; gabû[alum]N
+
+#tr.en: [“@i{kamūnu}-of-the-tamarisk” means “@i{kam}]@i{ūnu} (which) grows from the tamarisk root”; alternatively, “@i{kamūnu}-of-the-tamarisk” means “alum.” “Alum” (means)
+#note: As noted by Frahm (2011: 234) the explanations relating to @i{kamūn bīni} in this commentary are similar to those found in @i{SpTU} 1 52 (@i{CCP} 4.2.I o 11'-12'), another therapeutic commentary from Uruk, whence the restoration of @akk{UZU.DIR} (= @i{kamūnu} B). An equation similar to the second equation between @i{kamūn bīni} and @i{gabû} is found in @i{Uruanna} III 50 (cited @i{CAD} G 7a).
+23. !zz [...]-u₂# !bs pa-gu-u₂ !cm : u₂-qu-pi ša₂ ap-pi-ta-šu₂ ana IGI-šu₂ qa-pa-at : !bs qa-pu !cm :
+#lem: u; +pagû[ape]N$; +uqūpu[ape]N$; ša[of]DET; +appītā[nostrils]N$appītašu; ana[according to]PRP; pānīšu[face]N; +qâpu[collapsed]AJ$qāpat; +qâpu[fall down//fallen down]V'N$
+
+#tr.en: […] … “ape” means “the @i{uqūpu}-monkey whose snout @i{collapses} (@i{qāpat}) towards its face”; “to collapse” means 
+#note: In its description, the commentator seems to pun on the monkey’s name, @i{uqūpu}. For semantic reasons, the verb in question is tentatively understood to be @i{qâpu}, “to collapse” (so @i{CAD} A 2 s.v. @i{appītu} and @i{CAD} P s.v. @i{pagû} A) rather than @i{qapû} B, “to turn upwards” (so @i{CAD} Q s.v. @i{qapû}). The noun @i{appītu} is a hapax legomenon.
+
+24. !zz [...] !bs U₂# šu-ba-ri !cm : {u₂}HAR.HUM.BA.ŠIR šam-mu hi-niq₂-tu₄ : !bs {u₂}eli-kul-la
+#lem: u; šammi[plant(s)]N; Šubari[1]GN; harmuna[(a plant)]N; šammu[plant(s)]N; hiniqtu[constriction]N; elikulla[(a medicinal plant)]N
+
+#tr.en: […] “Subarean-plant” means “@i{harmunu}-plant” (which is) a drug (against) stricture. “@i{Elikulla}-plant” (means)
+
+25. !zz [...] x# : !bs {u₂}ar-za-ni-ik-ka-tu₂ !cm : {u₂}ku-uk-ka-ni-tu₄
+#lem: u; u; +arzanikkatu[(a plant)]N$; +kukkānītu[(a garden plant)]N$
+
+#tr.en: […] … “@i{arzanikkatu}-plant” means “@i{kukkānītu}-plant.”
+#note: This seems to be the only attestation to date of the @i{arzanikkatu}-plant, and the @i{kukkānītu}-plant is attested only in one other text, CT 14 50, a Neo- or Late Babylonian copy of a list of “shoots of Marduk-apla-iddina” (see @i{CAD} K s.v. @i{kukkānītu}). Since both plants are poorly attestested, @i{arzanikkatu} may be the explanation for a plant in the preceding, broken away part of the line, while @i{kukkānītu} could be the base text whose explanation followed at the beginning of o 26.
+
+26. !zz [...] lu#-lu-u₂ :# !bs {u₂}HA !cm :# šam-mu nu-u₂-nu ka-a-a-an
+#lem: u; X; +šimru[fennel]N$; šammu[plant(s)]N; +nūnu[fish]N$; kayyān[constantly present]AJ
+
+#tr.en: […] … ; “@i{urânu}-plant” (written with the signs for “plant” and “fish”) means “fish-plant” – literal (meaning).
+#note: As Gabbay (2016: 187) points out, the usual reading of @sup{u₂}@akk{HA} is @i{urânu}, “anise,” and so the technical term @i{kayyānu} cannot mean “regular” here.
+
+27. !zz [...] !bs {u₂*#}|ZI&ZI|.LAGAB* !cm : {u₂}šu-up-pa-tu₄ : {u₂}ur-ba-nu
+#lem: u; +šuppatu[rush]N$; +šuppatu[rush]N$; +urbānu[papyrus]N$
+
+#tr.en: […] (the writing) @sup{u₂}ZI&ZI.LAGAB means “rush” (which) means “papyrus”;
+#note: The reading @akk{|ZI&ZI|.LAGAB} is courtesy of K. Wagensonner (personal communication), who observes that this sign appears in @i{Diri} 4 11-14 (@i{MSL} 15), where it is equated with @i{urbatu} and @i{šuppatu}.
+
+28. !zz [... !bs bur]-ti#-šam#-hat# !cm : ar-ra-bi : {u₂}la-ku* ša₂ {kur}SU.BIR₄{ki}
+#lem: u; būrtī-šamḫat[caterpillar]N; +arrabu[dormouse]N$arrabi; +lagu[(a kind of legume)]N$laku; ša[of]DET; Subartu[1]GN
+
+#tr.en: […  “cater]pillar” means “dormouse”, which means “@i{lagu}-plant from Subartu”.
+#note: The collation of the sign previously read as @i{-lu} is that of E. Jiménez (personal communication). The @i{lagu}-plant is otherwise only attested in the plant-list Uruanna (2, 478) where it has the slightly different name of “@i{lagu}-legume” and is spelled differently as well; the entry in question runs as follows: @akk{Ú ab-šu la-gu} : @akk{Ú la-la-gu}. If the interpretation of the signs Ú LA KU as a plant name is correct, then both “caterpillar” and “dormouse” can be considered plant Decknamen. A similar explanation for “caterpillar” appears in @i{CCP} 4.2.R o 8.
+
+29. !zz [...] !cm x# [x] !bs {u₂#}el#*-kul#*-la* !cm ki#-ma# zap*#-pi# ŠAH :
+#lem: u; u; u; elkulla[(a medicinal plant)]N; kīma[according to]PRP; zappu[tuft of hair]N; šahû[pig]N
+
+#tr.en: […] “@i{elkulla}-plant” (is) like the bristles of the pig.
+#note: The same entry appears in @i{CCP} 4.2.Q o 7.
+
+30. !zz [...]
+#lem: u
+
+#tr.en: […]
+
+$(reverse)
+
+1'. !zz [... !bs a]-ba?#-tu !cm U e#-pe#-šu₂#
+#lem: u; +abātu[destroy//destroying]V'N$; u; epēšu[doing]'N
+
+#tr.en: […] …
+#note: The interpretation of the final three signs as the G infinitive @i{epēšu} follows Gabbay & Jiménez (forthcoming), who propose that this and the preceding words represent either the end of the incipit of the base text or the catchline to a second tablet of a possible series. For a different interpretation of this line compare Geller (2010b: 170), who reads: @akk{[... uz-nu ra-pa]-aš₂-tu u E pi#-šu₂}, “[… who is] wise and whose speech.” At the beginning, the restoration of @i{abātu} (uncertain) is based on the fact that both verbs can be equated with @akk{GUL}. The tentative restoration of the word before “u” as @i{abātu} is courtesy of E. Jiménez (personal communication); it is based on the fact that both @i{abātu} and @i{epēšu} are readings of the logogram GUL. Collation of the sign following @akk{[a]-ba?#-tu} indicates that it is a U (so Geller) not a NU.
+2'. !zz [... {lu₂}]NU#.EŠ₃ {d}en-lil₂ A ša₂ {m}NUMUN-kit-ti-HE₂.GIŠ
+#lem: u; nêšak[(a priest)]N; Ellil[1]DN; aplu[son]N; ša[of]DET; +Zer-kitti-lišir[]PN$
+
+#tr.en: […] @i{nêšakku}-priest of Enlil, son of Zēr-kitti-līšir.
+#note: The reading of the signs before Enlil follows Frahm (2011: 235 n. 1097).
+
+3'. !zz [... A {m}gi-mil-{d}30 pa-lih {d}UMUN {d}]MAŠ# u {d}U.PA NU TUM₃-šu₂
+#lem: u; aplu[son]N; +Gimil-Sin[]PN$; pālih[reverent one]N; +Enlil[]DN$; Ninurta[1]DN; u[and]CNJ; Nuska[1]DN; lā[not]MOD; itabbalšu[carry off]V
+
+#tr.en: [… descendant of Gimil-Sîn. He who reveres @i{Enlil}, Ninu]rta and Nuska will not take it away! 
+#note: The restoration of the ancestor name Gimil-Sîn follows Gabbay & Jiménez (forthcoming). The restoration of the god names and the interpretation of @akk{{d}U.PA} as an unusual writing for Nuska follows Frahm (2011: 196 n. 921, 236 n.1102), who points out a) that the divine names parallel those found in a colophon of a commentary on @i{Šumma Ālu} from Uruk also written by a person of Nippur origin, and b) that @akk{U.PA} can be read as UMUN-GIDRU/MUDURU, “lord of the staff”, an epithet of Nuska attested in the Emesal Vocabulary.
+
+4'. !zz [x] di*#-ik*#-šu₂?# ha*#-bi*#-gal*-bat* x# (x#) IM# E₂# zu#-um*#-bu*# : !bs {u₂#}KA#.ZAL# !cm ip#-tu₂# uz#-na!(ZA)-ni-tu₄ U !bs u₂-lab-bak U i-nak-kis !cm GIM* GEŠTUG-MIN ar-ra-bi
+#lem: u; u; +Habigalbat[]GN$; u; u; ṭuppi[(clay) tablet]N; bīt[house]N; zumbu[fly]N; kazalli[(a plant)]N; +iptu[luxuriance]N$; +uznānātu[plantain]N$uznānītu; u; ulabbak[soften up]V; u; +nakāsu[cut]V$inakkis; kīma[according to]PRP; +uznu[ear]N$uznī; arrabi[dormouse]N
+
+#tr.en: … @i{habigalbat} for the ... of the @i{bīt zumbi}(-plant); “@i{kazallu}-plant” (means) “luxuriant(-plant)” (which means) “@i{uznānītu}(-plant)”; “he softens” means “he cuts” means “like the ears of a dormouse” 
+
+#note: The reading @i{habigalbat ana … bīt zumbu} and accompanying references are courtesy of E. Jiménez (personal communication). Note @akk{ha-bi-gal-[bat]} in VAT 8903 (@i{KADP} 36) iii 1 and @akk{{u₂}ha-bi-gal-bat} in @i{BAM} 267 l. 1. Note @i{bīt-zumbu} in @i{Muššuʾu} II 46b. The seed of the @i{kazallu}-plant is also attested in prescriptions against witchcraft: see CAD K 309b for references. The emendation of @akk{uz-za-ni-tu₄} follows @i{AHw} 1147b in thinking that the word is the plant name @i{uznānātu}, even though @i{CAD} U/W 361b considers this “unlikely.” Geller (2010b: 200 n.254) suggests analyzing @i{uṣ-ṣa-ni-tu}₄ as D-stem verbal adjective of @i{eṣēnu}, “to smell”. The reading @i{u₂-lab-bak} follows Geller (2010) and @i{CAD} U/W s.v. @i{uribhu}, but since the equation of @i{lubbuku} with @i{nakāsu} is otherwise unattested, the reading @i{u₂-rib-hu} (a type of tree, albeit one only attested in lexical lists) remains possible.
+
+5'. !bs {u₂#}šu#-hat-tu₄ !cm ha-muṭ U !bs {u₂}ka-kud U !cm kim-ma-an-ta !cm U ša₂ aš₂-tu₄ TUKU{+ši} : !bs {u₂}GIŠ!.GI.ZU₂.LUM.MA SUMUN !cm U uš-ša₂-aš₂ bu-ṣi-in ša₂-di-i
+#lem: +šuhattu[š. of the oven]N$; +hamṭu[quick]AJ$hamuṭ; u; +kamkadu[(a plant)]N$kakud; u; +kamantu[kamantu]N$kimmanta; u; ša[of]DET; +artu[branches]N$ašta; irši[acquire]V; +buṣinnu[mullein]N$; labiru[old]AJ; u; +ušaštu[bird’s nest]N$uššāšu; +buṣinnu[mullein]N$buṣin; šadî[mountain]N
+
+#tr.en: “@i{šuhattu}-plant” (@i{stems from}) @i{quick} (@i{ḫamuṭ}). “@i{kakud}-plant” means “@i{kimmanta}-plant,” it is the one that has branches; “old @i{buṣinnu}-plant” means “bird’s nest made from (lit. “of”) @i{buṣinnu}-of-the-mountain(-plant).”
+
+#note: The readings @akk{šu-hat-tu₄} and @akk{kim-ma-an-ta} plus accompanying references are courtesy of E. Jiménez (personal communication). Compare @akk{A.RA-2 DINGIR.RA KI : u₂-la!(PA)-pa / A.RA₂ DINGIR.RA KI A.RA₂ : šu-hat-tu₄} (preceded by @i{šipātu}, @i{širṭi} LU₂.SIG₂.UZ₃) in @i{Uruanna} III 547 f.; @akk{ZU₂.LUM.MA SA₅ : U₂ šu-hat-ta-a-ti ša}₂ @i{tinūri} Uruanna III 327 (cited @i{CAD} Š/3 205a). The word @i{kimmanta} is surely @i{kamantu} (also attested as @i{kamandu}, @i{kamâtu}, and @i{kammantu}, see @i{CAD} K 109-10). Note the frequent equation between @i{kamkadu} and @i{kammantu}, which suggest that @akk{{u₂}ka-kud} is a writing of the former. The reading @akk{{u₂}GIŠ!.GI ZU₂.LUM.MA} (already @i{CAD} B 348a) rather than @akk{U₂ PA GI ZU₂.LUM.MA} (Geller 2010: 170) is supported by the equation of @akk{{u₂}GIŠ.GI ZU₂.LUM.MA} with @i{buṣinnu} in the lexical list @i{Ura} 3 468ff (@i{MSL} 5 p. 136); this passage seems to be the only attestation of the @i{buṣinnu}-plant with the qualification “of the mountain.”
+
+&P296515 = CCP 4.2.M.a (http://ccp.yale.edu/P296515) = MLC 1863
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+#link: def A = ccpo:Q005179 = CCP 4.2.M = Commentary M on Qutāru
+@tablet
+
+@obverse
+
+$(upper edge)
+0. !zz ina a-mat AN.DIŠ AN.DIŠ AN.AN PAB?.PAB? NI {d}ku₃-su₃ {d}nin-girim₃ liš-lim
+#lem: ina[by]PRP; amāt[command]N; X; X; X; X; X; Kusu[1]DN; Ningirima[1]DN; lišlim[go well]V
+
+#tr.en: At the command of the gods …, Kusu (and) Ningirim may it be a success!
+#note: The sign @akk{mat} in @akk{a-mat} is written over an erasure (probably the subsequent AN sign written prematurely). For the interpretation of the signs after @i{ina amat} see the discussion by Frahm (2011: 235 n. 1099 and 327 n. 1561). On Kusu, see P. Michalowski in Fs. Hallo pp. 158-159, and on Nigirim, who had a cult place in Uruk, see RlA 9 363-367.
+>> A 0
+$(obverse)
+
+1. !bs SI DARA₃.MAŠ !cm : qar#-nu a-a-lu : !bs SI !cm : qar-nu : !bs DARA₃.MAŠ !cm : a-a-lu : !bs DIŠ !cm : šum-mu : !bs AN.TA.ŠUB.BA !cm : mar-ṣa ih-tan-naq u₃ UH₂-su ŠUB.ŠUB{+a} : !bs AN.TA.ŠUB.BA
+#lem: qaran[horn]N; +ayyalu[stag]N$ayyali; qarnu[horn]N; ayyali[stag]N; qarnu[horn]N; qarnu[horn]N; +ayyalu[deer]N$; ayyali[stag]N; +šummu[a šumma-clause]N$; šummu[a šumma-clause]N; +antašubbû[epilepsy]N$; +marṣu[sick]AJ$marṣa; +hanāqu[press]V$ihtannaq; u[and]CNJ; +ruʾtum[spittle]N$ruʾussu; ittanadda[flow]V; antašubbû[epilepsy]N
+
+#tr.en: “Stag’s horn” (Sumerian) means “stag’s horn” (because) “horn” (Sumerian) means “horn” (and) “stag” (Sumerian) means “stag”. “If” (Sumerian) means “if”. “Fallen-from-heaven” (Sumerian) is (when) “with respect to the sick man, he suffocates and expectorates repeatedly”; “Fallen-from-heaven” (and)
+#note: As noted by Stol (1993: 104), as well as Frahm (2010) and Geller (2010), the commentary begins with a drug drawn from the second column of the base text, for reasons uncertain; Stol points out that in the classical world, stag’s horn was used to detect epilepsy, and Frahm hypothesizes that its prominent position in the commentary may therefore reflect its importance for treating epilepsy in ancient Mesopotamia too (the reading DARA₄ by Geller 2010: 168 is a typo). However, ‘stag’s horn’ appears in another commentary on a therapeutic text, @i{CCP} 4.2 Q o 8, as an explanation for the @i{elkulla}-plant (“It is like stag’s horn”), and so in this context it may refer to a plant. In the description of the symptoms of the disease ‘Fallen-from-heaven’, the syllabic writing @i{ih-tan-naq} could be interpreted as either a Dt perfect, so Stol (1993: 25), a Gtn preterite (so @i{CAD} R 435b) or as a Gt durative of @i{hanāqu}; however, because the durative is used to describe medical symptoms in o 2-3, the Gt durative option seems the more likely of the three. As noted by Stol (1993: 25-26), it is unclear why the commentator chose to highlight the symptoms described in this and the next two lines, since they are not the only ones associated with these forms of epilepsy.
+>> A 1
+2. !bs {d}LUGAL.UR₃.RA !cm : IGI-MIN 15-šu₂ u 150-šu₂ i-kap-pi-iṣ !bs {d}LUGAL.UR₃.RA !cm : !bs ŠU.DINGIR.RA !cm : DINGIR-MEŠ i-nam-zar šil-lat i-qab-bi ša₂ im-mar i-mah-haṣ !bs ŠU.DINGIR.RA !cm : !bs ŠU.{d}INNIN.NA !cm :
+#lem: Lugalurra[1]DN; īnī[eye]N; imittišu[right]N; u[and]CNJ; šumēlīšu[the left]N; +kapāṣu[bend back]V$ikappiṣ; Lugalurra[1]DN; šudingirrakki[(a serious illness)]N; ilāni[god]N; +nazāru[revile]V$inamzar; šillat[impudence]N; iqabbi[speak]V; ša[of]DET; immar[see]V; +mahāṣu[beat]V$imahhaṣ; šudingirrakki[(a serious illness)]N; +qātu[hand]N$qāt&+ištaru[goddess]N$ištari
+
+#tr.en: “Lord-of-the-roof” are (when) “the right and his left eye @i{roll up}.” “Lord-of-the-roof” is (also the same as) “Hand-of-the-god”, (which) is (when) “he (i.e., the sick man) curses the gods, speaks blasphemy, (and) hits whatever he sees.” “Hand-of-the-god” is (also) the same as “Hand-of-the-goddess”,
+
+#note: In his translation Geller (2010: 171) omits the second occurrence of @akk{{d}LUGAL.UR₃.RA}.
+>> A 2
+3. !cm hu-uṣ-ṣi GAZ ŠA₃ TUK.TUK{+ši} u₃ INIM-MEŠ-šu₂ im-ta-na-aš₂-ši !bs ŠU.{d}INNIN.NA !cm : !bs ŠU.GIDIM.MA !cm <:> GEŠTUG-MIN-MEŠ-šu₂ GU₃.DE₂-MEŠ ma-gal iṭ-ṭe₃-ne₂-pi šin-na-šu₂ ana ma-ka-le-e
+#lem: +hūṣu[pain]N$huṣṣi; +hīpu[break(age)]N$hīp; libbi[concern]N; +rašû[acquire]V$irtanašši; u[and]CNJ; awâtušu[word]N; +mašû[forget]V$imtanašši; qāt[hand]N&ištari[goddess]N; +šugidimmakku[hand of the ghost]N$; +uznu[ear]N$uznāšu; ištanassâ[ring]V; magal[greatly]AV; +ṭepû[extend]V$iṭṭeneppi; +šinnu[tooth]N$šinnāšu; ana[according to]PRP; mākālê[food]N
+
+#tr.en: (which) is (when) “he (i.e., the sick man) will repeatedly contract @i{abdominal pain} and keeps forgetting his words.” “Hand-of-the-goddess-disease” is (also the same as) “Hand-of-the-ghost-disease”, (which) is (when) “his (the sick man’s) ears ring, @i{a poultice is firmly applied}, (and) he cannot bring his teeth near food”
+
+#note: The precise meaning of @i{huṣṣi hīpi libbi} is unclear. @i{CAD} Ḫ 260b concludes that the expression was “originally probably a hendiadys construction denoting a specific abdominal pain”. For a more recent discussion see Moudhy al-Rashid, “A Note on the Meaning of @i{hūṣu} and @i{huṣṣu}”, CDLN 2014: 7 (reference courtesy of K. Wagensonner), although note that E. Jiménez’s new reading of the relevant lines in the commentary @i{GCCI} 2 406 can now be found at @i{CCP} 4.1.13.B. The translation offered here of the phrase @akk{ma-gal iṭ-ṭe₃-ne₂-pi} follows both Geller (2010: 171), who tentatively translates “(a poultice) is @i{excessively applied}”, and @i{CAD} Ṭ s.v. @i{ṭepû}, which (prefaced with the remark, “difficult”) understands the phrase as referring to poultice application. Such an interpretation nevertheless seems out of step with the phrase’s context in this line, namely a description of medical symptoms.
+>> A 3
+4. !cm la u₂-qar-ra-ba-ma !bs ŠU.GIDIM.MA !cm : !bs DU₃.DU₃.BI !cm : e-pu-uš-ta-šu₂ : !bs nap-šar-šu₂ !cm : u₂-ru-di-su : !bs ta-a !cm : a-par : !bs hu-up-pat* !cm :* šup-lu BUR₃*{+ru₃*} : šup-lu : a-par ša₂ SAG.DU
+#lem: lā[not]MOD; +qerēbu[be/come close]V$uqarrabā-ma; šugidimmakku[hand of the ghost]N; +epuštu[(magical) procedure]N$epuštašu; +epuštu[(magical) procedure]N$epuštašu; +napšāru[winnowing basket//uvula]N'N$napšāršu; +urʾudu[windpipe]N$urʾussu; +têʾu[cover (up)//covering (up)]V'N$tâ; +apāru[cover the head//covering the head]V'N$apār; +huptu[hole]N$huppāt; šuplu[depth]N; +šuplu[depth]N$; šuplu[depth]N; apār[covering the head]'N; ša[of]DET; qaqqadi[head]N
+
+#tr.en: – (this) is “Hand-of-the-ghost.” “Its ritual” (Sumerian) means “its ritual”. “Its uvula” means “its trachea”. “…” means “@i{covering}”; “@i{cavity}” means “depression”, (which can be written) “BUR₃{+ru₃}”; “depression” means “@i{covering} of the head
+
+#note: The interpretation of the final reference to ‘Hand-of-the-ghost’ as summarizing the previous entry follows the translation of Frahm (2010: 174) rather than Geller (2010: 171), who interprets it as referring to the following entry on “ritual.” The equation of @i{napšāru} with @i{urʾudu}, although otherwise unattested, is reminiscent of two Old Babylonian extispicy omens that refer to the uvula swallowing the trachea and vice versa (see @i{CAD} N/1 317a for references). In light of @i{napšāršu}, the @i{-su} following @akk{u₂-ru-di} seems more plausibly understood as a possessive suffix than a logographic writing of @i{zumru} (so Geller 2010: 171) The writing @akk{u₂-ru-di-su} would then be a Late Babylonian spelling of @i{uru’ssu}, with CV-CV for CVC. On spellings of this type see M. Streck 2001 “Keilschrift und Alphabet” @i{LingAeg–StudMon} 3, pp. 77-97. As noted by @i{CAD} T 301a, the commentary’s equation of the poorly understood word @i{ta’u} with @i{apāru} suggests that the commentator understood @i{ta’u} as a form of @i{tê’u}, “to cover (up)”. The entry beginning @i{hu-up} should be read @akk{hu-up-pat} : @akk{šup-lu} U AŠ, not as previously @akk{hu-up-ti}? IGI : @akk{šup-lu} IGI (so @i{CAD} Š 3 s.v. @i{šuplu}) or @akk{hu-up-pat}! IGI : @akk{šup-lu-šu₂} (so Geller (2010: 168)). Moreover, Frahm’s proposal (personal communication) to read AŠ as @akk{ru₃}, a pronunciation gloss for BUR₃, neatly solves the problem of how to understand U AŠ. On @akk{hu-up-pat} see Kilmer (1977: 132 n. 12) citing CAD H s.v. @i{huptu} B. Formally, the writing @akk{hu-up-pat} could be understood as a construct state of the singular or plural: the decision to interpret it as plural here is based on the word’s appearance in the base text, where it refers to both the head and the neck.
+>> A 4
+5. !cm u BUR₃*{+ru₃*} GU₂ : !bs I₃ HUL !cm : nap-ṭu <<u>> !bs I₃ KU₆ !cm : šam-ni nu-u₂-nu : !bs A.RI.A NAM.LU₂.U₁₈.LU !cm : {u₂}maš-ta-kal : aš₂-šu₂ {u₂}A.RI.A : {u₂}maš-ta-kal ša₂-niš !bs A.RI.A !cm : ri-hu-tu₂ :
+#lem: u[and]CNJ; +šuplu[depth]N$šupul; kišāda[neck]N; šaman[oil]N; lumni[evil]N; napṭu[naphtha]N; šaman[oil]N; nūni[fish]N; +rihûtu[progeny]N$rihût; +awīlūtum[humanity]N$amēlūti; namû[pasturage]N; amēlūtu[people]N; +maštakal[masztakal]N$; aššu[because of]'PRP; +maštakal[masztakal]N$; +maštakal[masztakal]N$; šanîš[alternatively]AV; rihûtu[progeny]N; rihûtu[progeny]N
+
+#tr.en: and depression of the neck.” “Naptha” (Sumerian) means “naptha”. “Fish oil” (Sumerian) means “fish oil”. “Human semen (A.RI.A NAM.LU₂.U₁₈.LU)” (Sumerian) means “@i{maštakal}-plant”, because “steppe plant (@sup{ú}A.RI.A)” (Sumerian) means “@i{maštakal}-plant”; alternatively, “semen” (Sumerian) (simply) means “semen”.
+#note: As noted by Gabbay (2016: 155), the commentary’s explanation for equating “human semen” with the @i{maštakal}-plant ignores the “human” element of the first term. Gabbay suggests that the alternative explanation (“semen means semen”) may be a tacit acknowledgement of this omission.
+>> A 5
+6. !bs TUG₂.NIG₂.DARA₂ !cm : u₂-la-pi : !bs ŠU.LAL₂ !cm : lu-up-pu-ut-tu₄ : !bs TUG₂.NIG₂.DARA₂ ŠU.LAL₂ !cm : UZU KA₅.A : !bs {u₂}tara-muš !cm : ki-ma SUHUŠ {u₂}si-il-qa : !bs {u₂}IGI-lim ki-ma GIR₃.PAD.DU NAM.LU₂.U₁₈.LU
+#lem: +ulāpu[rag]N$; ulāpi[rag]N; lupputu[soiled]AJ; lupputtu[soiled]AJ; ulāpu[rag]N; lupputu[soiled]AJ; šīr[flesh]N; šēlebi[fox]N; +tarmuš[lupin]N$; kīma[like]PRP; šuruš[root]N; +silqu[mangold]N$silqa; imhur-līm[(a medicinal plant)]N; kīma[like]PRP; +eṣemtu[bone]N$eṣemti; amēlūti[people]N
+
+#tr.en: “Towel” (Sumerian) means “towel”; “soiled” (Sumerian) means “soiled”; “soiled towel” (Sumerian) means “fox-flesh(-plant)” (Sumerian). “@i{Taramuš}-plant” means “(it is) like mangel-wurzel root”. “It-confronted-1000-plant” (means) “(it is) like human bone”.
+
+#note: The first signs of @akk{lu-up-pu-ut-tu₄} are written over an erasure. Scurlock (2004: 256) interprets @akk{UZU KA₅ A} as the base text, and both @akk{{u₂}tara-muš} and @akk{ki-ma SUHUŠ {u₂}si-il-qa} as the commentary; the different interpretation presented here is supported by the fact that “fox flesh” is also equated with “soiled towel” in Uruanna (@i{CAD} U/W s.v. @i{ulāpu}, lexical section). The parallel in Uruanna also indicates that “fox flesh” is very probably a plant name.
+>> A 6
+7. !zz : !bs {u₂}IGI-MAN !cm ki-ma ša₂-ru-ru {d}15 ša₂-niš !bs {u₂}IGI-MAN !cm ki-ma U₂ {d}UTU NUMUN-šu₂ ki-ma ši-gu-uš-ti : !bs MUD₂ ka-mi-i !cm MUD₂ {lu₂}ga-ar-ba-nu aš₂-šu₂ !bs ka-mu-u₂ : !cm
+#lem: +imhur-ešrā[(a climbing plant)]N$; kīma[like]PRP; šarūru[brilliance]N; Ištar[1]DN; šanîš[alternatively]AV; imhur-ešrā[(a climbing plant)]N; kīma[like]PRP; šammi[plant(s)]N; Šamaš[1]DN; zēršu[seed(s)]N; kīma[like]PRP; šiggušti[(a garden plant)]N; dāmi[blood]N; +kamû[bound//prisoner]AJ'N$kamî; dāmi[blood]N; +garbānu[leprous]N$; aššu[because of]'PRP; +kamû[bound//prisoner]AJ'N$
+
+#tr.en: “It-confronted-20-plant” (means) “(it is) like the radiance of Ishtar”; alternatively, “‘it-confronted-20’-plant” (means) “(it is) like the sunflower”; its seed is like the @i{šigguštu}(-plant). “Blood of a prisoner” (means) “blood of a leper” because “prisoner” can refer to (lit. means)
+#note: Frahm (2011: 235) suggests that the description of the ‘It-confronted-20-plant’ (@i{imhur-ešrā}) as “like the radiance of Ishtar” (@i{šarūr ištar}) is based on their phonetic similarity; Geller suggests that there is a play on the double meaning of @i{šarūru} as both radiance and cucumber tendril, however Ishtar’s tendril is not otherwise attested. The interpretation of @akk{ši-gu-uš-ti} follows Frahm (and @i{CAD} Š 2 412a) rather than Geller (2010: 171), who translates “barley” (@i{šigūšu}). The interpretation of @akk{ka-mi-i} as “prisoner” (<@i{kamû}, “to bind”) follows, e.g., @i{CAD} G 50a and K 128a rather than Geller (2010: 171 with n. 265), who translates “outside”, because of the equation of (<@i{kamû} with @i{garbānu} in a commentary on a line from @i{Marduk’s Address to the Demons} in which @i{kamû} clearly means prisoner (see @i{CCP} 2.2.1.A.a o 14). Geller’s objection to the sense of “to bind” in this context, namely that it is unlikely that lepers were incarcerated in ancient Mesopotamia, is countered by Malul (1993).
+>> A 7
+8. !cm {lu₂}ga-ar-ba-nu ša₂-niš MUD₂ qa-du-u₂{mušen} !zz : !bs 1{+niš} !cm : ki-ma <<:>> iš-ten !bs it-ti a-ha-miš HI.HI !cm : !bs HI.HI !cm : ba-la-lu : !bs {zi₃}ŠE.MUŠ₅ : !cm ši-gu-šu₂ qe₂-me up-pu-lu : !bs KUŠ {d}ku-ši :
+#lem: garbānu[leprous]N; šanîš[alternatively]AV; dāmi[blood]N; +qadû[owl]N$; iltēniš[together]AV; kīma[like]PRP; ištēn[one]NU; itti[with]PRP; ahāmiš[together]AV; taballal[mix (up)]V; +balālu[mix (up)//mixing (up)]V'N$; +balālu[mix (up)//mixing (up)]V'N$; +šigūšu[(a type of barley)]N$; +šigūšu[(a type of barley)]N$; qēme[flour]N; +uppulu[dried]AJ$; mašak[skin]N; Kušu[1]DN
+
+#tr.en: a leper; alternatively (it means) “blood of an owl”. “Together” (Sumerian) means “as one”. (In the phrase) “to mix with one another”, “mix” (Sumerian) means “mix” (Akkadian); “@i{šigūšu}-flour” (Sumerian) means “dried @i{šeguššu}-flour”. “Hide of Kūšu” means 
+#note: For an alternative interpretation of @akk{ki-ma : iš-ten it-ti a-ha-meš HI.HI : HI.HI : ba-la-lu} see Scurlock (2004: 256). The interpretation of @akk{ub-bul-lu} as “dried” follows CAD U s.v. @i{ubbulu} lexical section rather than Geller 2010: 171, who prefers @i{up-pu-lu}, “late”. The interpretation of the signs @akk{{d}ku-ši} follows Ambos (2013: 191 ad l. 6') rather than Geller (2010: 171), who reads @akk{an-dul₅-lim}, “of the canopy”; Kūšu belonged to a group of seven demons, the @i{Asakkū}, who were defeated by Ninurta. As Böck (2010: 93) suggests, possibly of relevance to his appearance here (and in the base text) is his association with a scapegoat in another text: see RlA 6 382 for details. The same phrase, @akk{KUŠ {d}ku-ši}, appears in another therapeutic medical commentary, @i{CCP} 4.2.R o 7, where its explanation as oxhide is similar to the explanation found in this text, at the beginning of o. 9.  
+>> A 8
+9. !cm KUŠ GU₄ ṣal-mu ša₂ ina ABUL URU ša₂ {im}MAR.TU ina muh-hi ŠINIG {d}ku-ši in-ne₂-ep-pu-uš : !bs til-lat <<:>> {d}ku-ši : !cm til-lat ša₂ ŠINIG ša₂ KUŠ GU₄ ṣal-mu ana {d}ku-ši
+#lem: mašak[skin]N; alpi[ox]N; ṣalmu[black]AJ; ša[of]DET; ina[in]PRP; +abullu[gate (of city or large building)]N$abul; āli[village]N; ša[of]DET; amurri[west]N; ina[on]PRP; muhhi[top]N; bīni[tamarisk]N; Kušu[1]DN; inneppuš[do]V; +tillatu[vine]N$tillat; Kušu[1]DN; tillat[vine]N; ša[of]DET; bīni[tamarisk]N; ša[of]DET; mašak[skin]N; alpi[ox]N; ṣalmu[black]AJ; ana[according to]PRP; Kušu[1]DN
+
+#tr.en: “hide of a black ox” which is at the western city-gate, over which tamarisk of Kūšu is constructed; “vine of Kūšu” means “vine of tamarisk” (l. 10) over which (l. 9) hide of a black ox (l. 10) is placed (l. 9) for Kūšu.
+#note: The interpretation of the signs @akk{{d}ku-ši} follows Böck (2010: 93) rather than Geller (2010: 171), who reads @akk{an-dul₅-lim}, “of the canopy”. According to @i{CAD} T 409a, @i{tillatu} is used with respect to tamarisk only in this commentary and its base text (@i{TCL} 6 34 i 7); elsewhere it refers to the grapevine.
+>> A 9
+10. !cm ina UGU šak-na : !bs MAŠ₂.ZU : !cm ki-iz-zu : !bs MAŠ₂ : !cm u₂-ri-ṣa : !bs ZU : !cm e-du-u₂ : !bs šam-ma HAB !cm : tu-na-as-su-ma : ki-ma ba-aṣ-ṣa : !bs {u₂}URI !cm ki-ma ŠINIG u SA₅ :
+#lem: ina[on]PRP; muhhi[top]N; +šaknu[placed]AJ$; +kizzu[(young male) goat]N$; +kizzu[(young male) goat]N$; +urīṣu[male goat]N$; urīṣa[male goat]N; +edû[know//knowing]V'N$; edû[knowing]'N; +šammu[plant(s)]N$šamma; +happu[stinking]N$; +nesû[be distant]V$tunassû-ma; kīma[like]PRP; baṣṣa[sand]N; +urṭû[fibre]N$; kīma[like]PRP; bīni[tamarisk]N; u[and]CNJ; sāmu[red]AJ
+
+#tr.en: “(Male) goat” (Sumerian) means “(male) goat” (Akkadian); “a goat” (Sumerian) means “goat” (Akkadian); “to know” (Sumerian) means “to know” (Akkadian). “@i{Smelly plant}” means “you remove” means “(it is) like sand”. @i{Urṭû}(-plant) (means) “(it is) like tamarisk and red”. 
+#note: According to @i{CAD} G s.v. @i{gizzu}, lexical section, ZU = @i{edû} means “to know” in the biblical sense. The point of the explanation thus seems to be that @i{kizzu} is a male goat of reproductive age, rather than that it is “well known” (@i{pace} Geller 2010b n. 267). The rationale behind the triple equation of “smelly plant”, “you remove” and “(it is) like sand” is unclear. Note that @akk{šam-ma HAB} could be a writing for the plant @i{būšānu}. For the proposal that the plant @i{urṭû} should be identified with the plant attested in Arabic as @i{’arṭan}, see Watson (2016).
+>> A 10
+11. !bs {u₂}LU₂-{d}a-nu : !cm ki-ma hal-la e-re-bi : !bs U₂.DILI : !cm ki-ma hal-la TU{mušen} : !bs {šim.d}MAŠ NITA !cm ki-ma qu-lip-tu₂ ŠINIG ka-ṣar u SA₅ !bs ni-kip-tu₂ MUNUS !cm ki-ma qu-lip-tu₂ ŠINIG
+#lem: +amīlānu[(a medicinal plant)]N$; kīma[like]PRP; +hallā[(dung) pellet]N$; +erēbu[rook]N$erēbi; +ēdu[single//Asa foetida]N'N$; kīma[like]PRP; hallā[(dung) pellet]N; summati[(female) dove]N; +nikiptu[spurge]N$; +zikaru[man]N$zikar; kīma[like]PRP; +quliptu[skin of scales//bark]N'N$; bīni[tamarisk]N; +kaṣru[firmly joined]AJ$kaṣar; u[and]CNJ; sāmu[red]AJ; +nikiptu[spurge]N$; +sinništu[woman]N$sinniš; kīma[like]PRP; quliptu[bark]N; bīni[tamarisk]N
+
+#tr.en: “@i{Amīlānu}-plant” means “(it is) like the seed of … (lit. “raven droppings”). “Single-plant” means “(it is) like the seed of the @i{false carob} (lit. “dove droppings”). “Male @i{nikiptu}(-plant)” (means) “(it is) like tamarisk bark, (insofar as) it is solid and red”; “female @i{nikiptu}(-plant)” (means) “(it is also) like tamarisk bark,
+#note: Since “dove droppings” is a name for the seed of the false carob (see @i{CAD} S 380), the translation offered here assumes that “raven droppings” refers to the seed of a different plant.
+>> A 11
+12. !cm raq-qa-qu u a-ru-qu : !bs PIŠ₁₀-{d}ID₂ UH₂.{d}ID₂ : !cm PIŠ₁₀-{d}ID₂ a-ru-uq-tu₄ : !bs PIŠ₁₀-{d}ID₂ A.GAR.GAR.{d}ID₂ : !cm PIŠ₁₀-{d}ID₂ ṣa-li-in-du :
+#lem: +raqqaqu[very thin]AJ$; u[and]CNJ; +arqu[yellow]AJ$aruqu; +kibrītu[sulphur]N$; +ruʾtītu[sulphur]N$; kibrītu[sulphur]N; +arqu[yellow]AJ$aruqtu; kibrītu[sulphur]N; agargarītu[(a mineral)]N; kibrītu[sulphur]N; +ṣalmu[black]AJ$ṣalindu
+
+#tr.en: (but) very thin and yellow-green. “@i{Ruttītu}-sulphur” means “yellow-green sulphur”, “@i{agargarītu}-sulphur” means “black sulphur”,
+#note: Following @i{CAD} A 1 144b, Heeßel (2000: 351 n. 30) observed that the terms @i{ruttītu}, @i{agargarītu} and @i{pappasītu} are terms that qualify sulphur, not stand-alone terms for types of sulphur. Similarly, Worthington (2006: 33 ad i.14) notes that the commentator’s purpose is to indicate that @i{ruttītu}, etc., serve as abbreviated writings for @i{kibrīt ruttīti}, etc.
+>> A 12
+13. !bs PIŠ₁₀-{d}ID₂ BA.BA.ZA.{d}ID₂ : !cm PIŠ₁₀-{d}ID₂ pe-ṣi-tu₄ : !bs MUN eme-sal-li₃ : !cm MUN ša₂ lib₃-bi ID₂ : !bs ILLU {šim}BULUH <:> !cm hi-i-lu ša₂ a-na {lu₂}a-su-tu₄ in-ne₂-pu-uš : !bs ILLU LI.DUR
+#lem: kibrītu[sulphur]N; pappāsīta[(a white lime)]N; kibrītu[sulphur]N; +peṣû[white]AJ$peṣītu; ṭabat[salt]N; +mēsallu[salt]N$; ṭabtu[salt]N; ša[of]DET; libbi[concern]N; nāri[watercourse]N; +hīlu[exudation]N$hīl; baluhhi[(an aromatic plant)]N; +hīlu[exudation]N$; ša[which]REL; ana[for]PRP; +asûtu[profession of physician]N$; inneppuš[offer]V; hīl[exudation]N; +abukkatu[sap of a.]N$abukkati
+
+#tr.en: “@i{pappasītu}-sulphur” means “white sulphur”. “@i{Emesallu}-salt” means “salt from the middle of the river”. “@i{Baluhhu}-resin” (means) “resin which is prepared for medicinal purposes”. “@i{Abukkatu}-resin”
+
+#note: Regarding the second passage commented on in this line, Worthington (2006: 33 ad i.ll) transliterates and translates: @akk{MUN šá ina ŠA₃{+bi} ID₂}, “salt which (is found) in the river.” However, no @i{ina} precedes ŠA₃ on the tablet. Note K.16766 l. 2′ (unpublished): @akk{ILLU a-bu-ka-tú ni-lu} [EJ].
+>> A 13
+14. !zz : !cm ki-ma e-pe-ri a-sur-re-e : !bs {šim}HAB : !cm ṭu-ri : !bs in-za-ru-u₂# : hi-biš-ti : !bs {šim#}GUR₂.GUR₂ ša₂ hup₂-pe#-e !cm lib₃-bu-u₂ {šim}BULUG šim-meš-la {šim}GUG₂.GUG₂ : !cm {šim}MUG ŠIM.ŠAL
+#lem: kīma[like]PRP; eperi[dust]N; asurrê[footing]N; +ṭūru[opopanax]N$; +ṭūru[opopanax]N$ṭūri; +inzarû[(an aromatic plant)]N$; hibišti[crushed pieces (of aromatic wood)]N; kukura[(an aromatic tree)]N; ša[of]DET; huppê[crushed]AJ; libbū[meaning]PRP; +ballukku[(a tree)]N$; +šimiššalû[(type of) box-tree]N$šimmešla; kukuru[(an aromatic tree)]N; ballukka[(an aromatic substance)]N; +šimiššalû[(type of) box-tree]N$
+
+#tr.en: means “(it is) like dust-from-the-bottom-of-a-wall”. The aromatic @sup{šim}HAB means “@i{opoponax}”. “@i{Inzarû}(-plant)” means “cuttings”. “@i{Kukru}-aromatic” (means) “that which is crushed”, as in “@i{ballukku}-aromatic, @i{šimeššalû}-aromatic (and) @i{kukru}-aromatic mean @i{ballukku}-aromatic, @i{šimeššalû}-aromatic
+
+#note: Although @i{asurrû} originally meant sewer, by the first millennium its meaning seems to have evolved to “wall footings” (George 2015: 101-102). In this context, the phrase @i{eper asurrê} seems likely to be a Deckname of a plant. For the interpretation of the passage from @akk{{šim}GUR₂.GUR₂} onwards, I am indebted to E. Frahm (personal communication).
+>> A 14
+15. !cm hi-biš-ti ša₂ ina EN₂*{+tu₂} E{+u} !bs ŠIM-HI.A !cm : u₂-ru-u₂ : la-ba-na-tu₄ : !bs {giš}EREN.BAD !cm : šu-pu-uh-ri : {giš}EREN.BAD !cm ša₂-niš bal-ṭi-it-tu₄ ša₂ ŠA₃ {giš}EREN : !bs MUN a-ma-nu !cm U₃.MU.UN : a-ma-nu
+#lem: hibišti[crushed pieces (of aromatic wood)]N; ša[that]REL; ina[in]PRP; +šiptu[incantation]N$; qabû[said]AJ; rīqī[aromatic substance]N; +urû[aromatics]N$; +labanātu[incense]N$; +šupuhru[(a variety or part of the cedar)]N$; +šupuhru[(a variety or part of the cedar)]N$šupuhri; +bušṭītum[woodworm]N$balṭittu; šanîš[alternatively]AV; balṭittu[woodworm]N; ša[of]DET; libbi[concern]N; erēni[cedar]N; ṭabat[salt]N; +amānu[(a reddish salt)]N$; +amānu[(a reddish salt)]N$; +amānu[(a reddish salt)]N$
+
+#tr.en: (and) cuttings”, which are mentioned in the incantation corpus/ the incantation ‘…’. “Aromatics” (Sumerian) means “@i{urû}(-plants)”, (which) means “incense.” “@sup{giš}EREN.BAD” (Sumerian) means “old cedar?”; “@sup{giš}EREN.BAD” alternatively (means) “a @i{woodworm} which inhabits the cedar tree”. (Regarding) “@i{amānu}-salt”: U₃.MU.UN means “@i{amānu}”,
+
+#note: The reading @akk{EN₂-tu₂} follows the suggestion of K. Wagensonner (personal communication). The equation of aromatics and @i{urû} also occurs in @i{Ura} III 109 (cited @i{CAD} U/W 260b); the purpose of the additional equation here of @i{urû} with “incense” seems to be to explain a general term by means of a more specific one (E. Frahm, personal communication). Although @akk{{giš}EREN.BAD} is often read @akk{{giš}EREN.SUMUN} (literally, “old cedar”), the term could refer to a particular part or variety of cedar (@i{CAD} Š 3 s.v. @i{šupuhru}). The equation between {giš}eren.bad  and @i{šupuhru} is also attested in @i{Ura} 3 220-222. On the equation between @akk{{giš}EREN.BAD} and @i{bušṭītu ša libbi} giš@i{erēni} see @i{CAD} B s.v. @i{bušṭītu}, which suggests that the equation stems from the writing of @i{bušṭītu} as GIŠ×BAD in the sign list @i{Ea}. As noted by Jiménez (2017: 188), the same equation between @akk{{giš}EREN.BAD} and @i{bušṭītu ša libbi} @sup{giš}@i{erēni} is found in another commentary on a therapeutic medical text, @i{CCP} 4.2.W o 4, which was written in 2nd/1st century BCE Babylon.
+>> A 15
+16. !cm [U₃].MU#.UN : da-mu aš₂-šu₂ MUN sa-mat ša₂ {kur}ma-da-a-a : !bs IM.SA₅ !cm : šer₃-šer₃-ri : !bs {u₂}kur-ka#-nu-u₂ !cm ki-ma su-ha-tu₄ gul-lu-ub !bs {u₂}kur-ka-nu-u₂ ša₂ ša₂-di-i
+#lem: amānu[(a reddish salt)]N; dāmu[blood]N; aššu[because of]'PRP; ṭabtu[salt]N; sāmat[red]AJ; ša[of]DET; +Madâ[]GN$; šaršerru[red paste]N; +šaršerru[red paste]N$; +kurkanû[(a medicinal plant)]N$; kīma[like]PRP; suhātu[recess]N; +gullubu[shorn]AJ$gullub; kurkanû[(a medicinal plant)]N; ša[of]DET; šadî[mountain]N
+
+#tr.en: (and) U₃.MU.UN (also) means “blood”, with respect to the red salt of Media. “Red clay” (Sumerian) means “red clay” (Akkadian). “@i{Kurkānû}-plant” (means) “(it is) like a shaved armpit”; “@i{kurkānû}-plant-of-the-mountain”
+
+#note: The rare equation of UMUN with @i{dāmu} is otherwise attested in a commentary written by the Assyrian scholar Nabû-zuqup-kēnu, @i{CCP} 3.1.u72 r I. The translation of @i{aš₂-šu₂} MUN @i{sa-mat ša₂} KUR @i{ma-da-a-a} follows Gabbay (2016: 158). The translation of @i{suhātu} as “armpit” follows @i{CAD} S 347a and Gabbay (2016: 158) rather than Geller (2010) and Stadhouders (2012), who translate “crotch”. On the basis of the parallel explanations using @i{kīma} in this commentary, “shaved armpit” is understood as a plant Deckname. Kinnier Wilson (2005: 12) suggests emending the text twice to give an aetiology suitable for identifying @i{kurkānû} with a type of fern, thus: @akk{{u₂}kur-ka-nu-u₂ DIM₂! šá!(SU)-ha-tu₄ <<gul-lu-ub>> {u₂}kur-ka-nu-ú šá šá-di-i}, “the @i{kurkānû}-plant, having been created in a mountain cleft (@i{suhātu} for @i{šahātu}) is (called accordingly) the mountain @i{kurkānû}.” This idea is not followed here.
+>> A 16
+17. !cm [{u₂}x]-x#-ah : !bs {u₂}kur-ka-nu-u₂ ša₂ ma-a-tu₂ !cm {u₂}sa-pal-gi-na : !bs I₃.GIŠ BUR !cm : I₃.GIŠ par₃ : bi-iʾ-il-ti : BUR : bi-iʾ-il-ti ša₂-niš I₃.NUN.NA šal-šiš I₃ hal-ṣa re-bi-iš
+#lem: u; kurkanû[(a medicinal plant)]N; ša[of]DET; mātu[land]N; +sapalgīnu[(a plant)]N$sapalgīna; šamna[oil]N; pūri[(stone) bowl]N; šamna[oil]N; X; +biʾiltu[(a container)]N$biʾilti; +biʾiltu[(a container)]N$; biʾilti[(a container)]N; šanîš[alternatively]AV; himētu[butter]N; šalšiš[thirdly]AV; šaman[oil]N; halṣa[filtered]AJ; rebîš[fourthly]AV
+
+#tr.en: [(means) “…] …”; “@i{kurkānû}-plant-of-the-land” means “@i{sapalginu}-plant.” “Oil in a @i{pūru}(-vessel)” (Sumerian) (is pronounced?) is (pronounced?) “oil in a @i{par}-vessel”, “@i{biʾiltu}-(vessel)”. means “@i{pūru}(-vessel)” (Sumerian); @i{biʾiltu}-(vessel) secondly (means) “ghee”; thirdly (it means) “pressed oil”. Fourthly 
+#note: @i{CAD} K s.v. @i{kurkānû} and P s.v. @i{pirizaḫ} restore the beginning of the line as @akk{[U₂ pi-ri-z]a-ah}; Geller (2010: 171) restores @akk{[{u₂}na]-mu#-lu#-uh}; both restorations draw on equations between @i{kurkānû} and other plants attested in Uruanna, but neither fits the traces. The second and third explanations of the @i{bi’iltu}-vessel as “ghee” and “pressed oil” refer to the possible contents of the vessel, as is clear from a reference to “one @i{bi’iltu} of pressed oil” in a Neo-Babylonian letter (TCL 9 117: 44, reference from CAD B s.v. @i{bi’iltu}).
+>> A 17
+18. !zz [...] !bs TU#.RA#.KILIB₃#.BA !cm : nap-har mur-ṣu# : {u₂}LAL : ki-ma {giš}HAŠHUR ina ne₂#-reb tam-ti₃ a-šar šam-mu u {giš}GI la ba-šu-u₂ ina IGI A-MEŠ E₃ ina muh-hi-šu₂
+#lem: u; +murṣu[illness]N$&+napharu[all]N$; naphar[all]N; murṣu[illness]N; ašqulālu[(a marine plant)]N; kīma[like]PRP; hašhūri[(a fruit)]N; ina[in]PRP; nēreb[entrance]N; tâmti[sea]N; ašar[where]SBJ; šammu[plant(s)]N; u[and]CNJ; apu[reed-bed]N; lā[not]MOD; bašû[existing]AJ; ina[in]PRP; pān[front]N; mê[water]N; uṣṣi[go out]V; ina[in]PRP; muhhišu[skull]N
+
+#tr.en: [(it means) “…”.] “Panacea” (Sumerian) means “panacea” (Akkadian). “@i{Ašqulālu}-plant” means “(it is) like an apple-tree; it grows at the entrance to the sea where there is neither plant nor reed, in front of water; on it 
+#note: The reading of the damaged signs before @i{nap-har mur-ṣu} follows Parpola (1983: 28). The reading @i{ina né-reb} follows @i{CAD} N 2 s.v. @i{nērebu} and @i{nishu} mng. A7) rather than @i{CAD} A 2 s.v. @i{ašqulālu} mng. 3b), Geller (2010: 169) and Stadhouders (2011: Text 1 §31’ and Text II §19),  who read @i{ina ni-sih₂}. As noted by @i{CAD} A 2 s.v. @i{ašqulālu} mng. 3b) and Geller (2010: 199 n. 248), the description of the “@i{ašqulālu}-plant” in this line draws on a line in the botanical treatise @i{Šumma šikinšu} (Stadhouders 2011: Text 1 §31’ and Text II §19).
+>> A 18
+19. !zz [...] x# :?# {giš*#}AL#.LA#.AN sar-ri : !bs {u₂}A.ZAL.LA₂ !cm : ki-ma {u₂}ka-na-šu-u₂ u SA₅ : !bs {u₂}A.ZAL.LA₂ !cm : U₂ ni-is-sat ma-še-e : !bs {u₂}KUR.KUR !cm :
+#lem: u; u; +allānu[oak]N$; +sarru[false]AJ$sarri; azallâ[(a medicinal plant)]N; kīma[like]PRP; +kanašû[(a red flower)]N$; u[and]CNJ; sāmu[red]AJ; azallû[(a medicinal plant)]N; šammi[plant(s)]N; nissat[wailing]N; mašê[forgetting]'N; atāʾišu[white hellebore]N
+
+#tr.en: […] @i{means} “false oak”; the “@i{azallû}-plant” means “(it is) like the “@i{kanašû}-plant and is red”; the “@i{azallû}-plant” means “(it is) a plant for forgetting worries”. The “@i{ataʾīsu}-plant” means
+#note: As noted by Frahm (2011: 235 n. 1096), the first description of @i{azallû} as @i{kīma kanašî} is a quotation from @i{Šammu šikinšu} (Stadhouders 2011: Text II §8). The second explanation of @i{azallû}, as an U₂ @i{nissāt mašê}, “plant for forgetting worries,” is similar to its entry in @i{Uruanna} 2 2 – according to Köcher’s unpublished edition, as cited by Landsberger (1967: 51) – which describes it as @akk{U₂ šá-mi ni-is-sa-ti}.
+>> A 19
+20. !zz [...] !cm x# ze-e e-re-bi : !bs KU#.{+he#-he#}KU !cm : su#-pan#-du : !bs gul-gul NAM.LU₂.U₁₈.LU :# !cm ŠINIG : !bs UZU NAM.LU₂.U₁₈.LU !bs :
+#lem: u; u; zê[excrement]N; erēbi[rook]N; +subandu[(materia medica)]N$; +subandu[(materia medica)]N$; +gulgullu[skull]N$gulgul; amēlūti[people]N; bīnu[tamarisk]N; šīr[flesh]N; amēlūti[people]N
+
+#tr.en: […] “raven droppings” means “KU.KU (pronounced “@i{ḫeḫe}”)” (which) means “@i{powder}”; “human skull” means “tamarisk”; “human flesh” means
+#note: The equation of @akk{KU.KU} and @i{supandu} is also found in the ritual instructions in “Evil Demons”, Tablet 15: 214' and 242', (Geller, @i{SAACT} 5 2007: 175-76), as well as in another commentary, @i{CCP} 7.2.u132, 6′). On the gloss to @akk{KU.KU}, compare @i{Diri} I 99: @akk{e-eh-he KU.KU} (@i{MSL} 15 p. 108).
+>> A 20
+21. !zz [...] x# x# x# !bs ap?#-pa?#-ri?# !cm :?# ša₂ ap-pa-ri : !bs sik-kat !cm : pa-ʾ-ṣa!(A)-nu ša₂ {lu₂}LUNGA₃ sim-di ša₂ ŠE.BAR u GAZI{sar} 1{+niš} HI.HI-ma
+#lem: u; u; u; u; appāri[reed-bed]N; ša[of]DET; appāri[reed-bed]N; +sikkatu[yeast]N$sikkat; +paʾṣu[crushed]N$paʾṣānu; ša[of]DET; +sīrāšû[brewer]N$sīrāšî; +simdu[(a flour)]N$simdi; ša[of]DET; uṭṭati[barley]N; u[and]CNJ; kasâ[mustard]N; iltēniš[together]AV; taballalma[mix (up)]V
+
+#tr.en: […] “… @i{reedbed}” @i{means} “of the reedbed”; “@i{yeast}” means “the @i{crushings} of the brewer”; you mix (it) together with @i{simdu} of barley and @i{kasû}, and 
+#note: The emendation @i{pa-ʾa-ṣa!(A)-nu} follows @i{CAD} S s.v. @i{sikkatu} C, lexical section.
+>> A 21
+22. !bs [ka-mun ŠINIG !cm : UZU?].DIR# SUHUŠ ŠINIG E₃{+u₂} ša₂-niš !bs ka-mun ŠINIG !cm : {na₄}gab-u₂ : {na₄}gab-u₂
+#lem: kamūn[cumin]N; bīni[tamarisk]N; kamūnu[(a fungus)]N; šuruš[root]N; bīni[tamarisk]N; uṣṣû[emerge]V; šanîš[alternatively]AV; kamūn[cumin]N; bīni[tamarisk]N; gabû[alum]N; gabû[alum]N
+
+#tr.en: [“@i{kamūnu}-of-the-tamarisk” means “@i{kam}]@i{ūnu} (which) grows from the tamarisk root”; alternatively, “@i{kamūnu}-of-the-tamarisk” means “alum.” “Alum” (means)
+#note: As noted by Frahm (2011: 234) the explanations relating to @i{kamūn bīni} in this commentary are similar to those found in @i{SpTU} 1 52 (@i{CCP} 4.2.I o 11'-12'), another therapeutic commentary from Uruk, whence the restoration of @akk{UZU.DIR} (= @i{kamūnu} B). An equation similar to the second equation between @i{kamūn bīni} and @i{gabû} is found in @i{Uruanna} III 50 (cited @i{CAD} G 7a).
+>> A 22
+23. !zz [...]-u₂# !bs pa-gu-u₂ !cm : u₂-qu-pi ša₂ ap-pi-ta-šu₂ ana IGI-šu₂ qa-pa-at : !bs qa-pu !cm :
+#lem: u; +pagû[ape]N$; +uqūpu[ape]N$; ša[of]DET; +appītā[nostrils]N$appītašu; ana[according to]PRP; pānīšu[face]N; +qâpu[collapsed]AJ$qāpat; +qâpu[fall down//fallen down]V'N$
+
+#tr.en: […] … “ape” means “the @i{uqūpu}-monkey whose snout @i{collapses} (@i{qāpat}) towards its face”; “to collapse” means 
+#note: In its description, the commentator seems to pun on the monkey’s name, @i{uqūpu}. For semantic reasons, the verb in question is tentatively understood to be @i{qâpu}, “to collapse” (so @i{CAD} A 2 s.v. @i{appītu} and @i{CAD} P s.v. @i{pagû} A) rather than @i{qapû} B, “to turn upwards” (so @i{CAD} Q s.v. @i{qapû}). The noun @i{appītu} is a hapax legomenon.
+>> A 23
+24. !zz [...] !bs U₂# šu-ba-ri !cm : {u₂}HAR.HUM.BA.ŠIR šam-mu hi-niq₂-tu₄ : !bs {u₂}eli-kul-la
+#lem: u; šammi[plant(s)]N; Šubari[1]GN; harmuna[(a plant)]N; šammu[plant(s)]N; hiniqtu[constriction]N; elikulla[(a medicinal plant)]N
+
+#tr.en: […] “Subarean-plant” means “@i{harmunu}-plant” (which is) a drug (against) stricture. “@i{Elikulla}-plant” (means)
+>> A 24
+25. !zz [...] x# : !bs {u₂}ar-za-ni-ik-ka-tu₂ !cm : {u₂}ku-uk-ka-ni-tu₄
+#lem: u; u; +arzanikkatu[(a plant)]N$; +kukkānītu[(a garden plant)]N$
+
+#tr.en: […] … “@i{arzanikkatu}-plant” means “@i{kukkānītu}-plant.”
+#note: This seems to be the only attestation to date of the @i{arzanikkatu}-plant, and the @i{kukkānītu}-plant is attested only in one other text, CT 14 50, a Neo- or Late Babylonian copy of a list of “shoots of Marduk-apla-iddina” (see @i{CAD} K s.v. @i{kukkānītu}). Since both plants are poorly attestested, @i{arzanikkatu} may be the explanation for a plant in the preceding, broken away part of the line, while @i{kukkānītu} could be the base text whose explanation followed at the beginning of o 26.
+>> A 25
+26. !zz [...] lu#-lu-u₂ :# !bs {u₂}HA !cm :# šam-mu nu-u₂-nu ka-a-a-an
+#lem: u; X; +šimru[fennel]N$; šammu[plant(s)]N; +nūnu[fish]N$; kayyān[constantly present]AJ
+
+#tr.en: […] … ; “@i{urânu}-plant” (written with the signs for “plant” and “fish”) means “fish-plant” – literal (meaning).
+#note: As Gabbay (2016: 187) points out, the usual reading of @sup{u₂}@akk{HA} is @i{urânu}, “anise,” and so the technical term @i{kayyānu} cannot mean “regular” here.
+>> A 26
+27. !zz [...] !bs {u₂*#}|ZI&ZI|.LAGAB* !cm : {u₂}šu-up-pa-tu₄ : {u₂}ur-ba-nu
+#lem: u; +šuppatu[rush]N$; +šuppatu[rush]N$; +urbānu[papyrus]N$
+
+#tr.en: […] (the writing) @sup{u₂}ZI&ZI.LAGAB means “rush” (which) means “papyrus”;
+#note: The reading @akk{|ZI&ZI|.LAGAB} is courtesy of K. Wagensonner (personal communication), who observes that this sign appears in @i{Diri} 4 11-14 (@i{MSL} 15), where it is equated with @i{urbatu} and @i{šuppatu}.
+>> A 27
+28. !zz [... !bs bur]-ti#-šam#-hat# !cm : ar-ra-bi : {u₂}la-ku* ša₂ {kur}SU.BIR₄{ki}
+#lem: u; būrtī-šamḫat[caterpillar]N; +arrabu[dormouse]N$arrabi; +lagu[(a kind of legume)]N$laku; ša[of]DET; Subartu[1]GN
+
+#tr.en: […  “cater]pillar” means “dormouse”, which means “@i{lagu}-plant from Subartu”.
+#note: The collation of the sign previously read as @i{-lu} is that of E. Jiménez (personal communication). The @i{lagu}-plant is otherwise only attested in the plant-list Uruanna (2, 478) where it has the slightly different name of “@i{lagu}-legume” and is spelled differently as well; the entry in question runs as follows: @akk{Ú ab-šu la-gu} : @akk{Ú la-la-gu}. If the interpretation of the signs Ú LA KU as a plant name is correct, then both “caterpillar” and “dormouse” can be considered plant Decknamen. A similar explanation for “caterpillar” appears in @i{CCP} 4.2.R o 8.
+>> A 28
+29. !zz [...] !cm x# [x] !bs {u₂#}el#*-kul#*-la* !cm ki#-ma# zap*#-pi# ŠAH :
+#lem: u; u; u; elkulla[(a medicinal plant)]N; kīma[according to]PRP; zappu[tuft of hair]N; šahû[pig]N
+
+#tr.en: […] “@i{elkulla}-plant” (is) like the bristles of the pig.
+#note: The same entry appears in @i{CCP} 4.2.Q o 7.
+>> A 29
+30. !zz [...]
+#lem: u
+
+#tr.en: […]
+>> A 30
+@reverse
+
+$(reverse)
+
+1'. !zz [... !bs a]-ba?#-tu !cm U e#-pe#-šu₂#
+#lem: u; +abātu[destroy//destroying]V'N$; u; epēšu[doing]'N
+
+#tr.en: […] …
+#note: The interpretation of the final three signs as the G infinitive @i{epēšu} follows Gabbay & Jiménez (forthcoming), who propose that this and the preceding words represent either the end of the incipit of the base text or the catchline to a second tablet of a possible series. For a different interpretation of this line compare Geller (2010b: 170), who reads: @akk{[... uz-nu ra-pa]-aš₂-tu u E pi#-šu₂}, “[… who is] wise and whose speech.” At the beginning, the restoration of @i{abātu} (uncertain) is based on the fact that both verbs can be equated with @akk{GUL}. The tentative restoration of the word before “u” as @i{abātu} is courtesy of E. Jiménez (personal communication); it is based on the fact that both @i{abātu} and @i{epēšu} are readings of the logogram GUL. Collation of the sign following @akk{[a]-ba?#-tu} indicates that it is a U (so Geller) not a NU.
+
+>> A 1'
+2'. !zz [... {lu₂}]NU#.EŠ₃ {d}en-lil₂ A ša₂ {m}NUMUN-kit-ti-HE₂.GIŠ
+#lem: u; nêšak[(a priest)]N; Ellil[1]DN; aplu[son]N; ša[of]DET; +Zer-kitti-lišir[]PN$
+
+#tr.en: […] @i{nêšakku}-priest of Enlil, son of Zēr-kitti-līšir.
+#note: The reading of the signs before Enlil follows Frahm (2011: 235 n. 1097).
+
+>> A 2'
+3'. !zz [... A {m}gi-mil-{d}30 pa-lih {d}UMUN {d}]MAŠ# u {d}U.PA NU TUM₃-šu₂
+#lem: u; aplu[son]N; +Gimil-Sin[]PN$; pālih[reverent one]N; +Enlil[]DN$; Ninurta[1]DN; u[and]CNJ; Nuska[1]DN; lā[not]MOD; itabbalšu[carry off]V
+
+#tr.en: [… descendant of Gimil-Sîn. He who reveres @i{Enlil}, Ninu]rta and Nuska will not take it away! 
+#note: The restoration of the ancestor name Gimil-Sîn follows Gabbay & Jiménez (forthcoming). The restoration of the god names and the interpretation of @akk{{d}U.PA} as an unusual writing for Nuska follows Frahm (2011: 196 n. 921, 236 n.1102), who points out a) that the divine names parallel those found in a colophon of a commentary on @i{Šumma Ālu} from Uruk also written by a person of Nippur origin, and b) that @akk{U.PA} can be read as UMUN-GIDRU/MUDURU, “lord of the staff”, an epithet of Nuska attested in the Emesal Vocabulary.
+>> A 3'
+
+4'. !zz [x] di*#-ik*#-šu₂?# ha*#-bi*#-gal*-bat* x# (x#) IM# E₂# zu#-um*#-bu*# : !bs {u₂#}KA#.ZAL# !cm ip#-tu₂# uz#-na!(ZA)-ni-tu₄ U !bs u₂-lab-bak U i-nak-kis !cm GIM* GEŠTUG-MIN ar-ra-bi
+#lem: u; u; +Habigalbat[]GN$; u; u; ṭuppi[(clay) tablet]N; bīt[house]N; zumbu[fly]N; kazalli[(a plant)]N; +iptu[luxuriance]N$; +uznānātu[plantain]N$uznānītu; u; ulabbak[soften up]V; u; +nakāsu[cut]V$inakkis; kīma[according to]PRP; +uznu[ear]N$uznī; arrabi[dormouse]N
+
+#tr.en: … @i{habigalbat} for the ... of the @i{bīt zumbi}(-plant); “@i{kazallu}-plant” (means) “luxuriant(-plant)” (which means) “@i{uznānītu}(-plant)”; “he softens” means “he cuts” means “like the ears of a dormouse” 
+
+#note: The reading @i{habigalbat ana … bīt zumbu} and accompanying references are courtesy of E. Jiménez (personal communication). Note @akk{ha-bi-gal-[bat]} in VAT 8903 (@i{KADP} 36) iii 1 and @akk{{u₂}ha-bi-gal-bat} in @i{BAM} 267 l. 1. Note @i{bīt-zumbu} in @i{Muššuʾu} II 46b. The seed of the @i{kazallu}-plant is also attested in prescriptions against witchcraft: see CAD K 309b for references. The emendation of @akk{uz-za-ni-tu₄} follows @i{AHw} 1147b in thinking that the word is the plant name @i{uznānātu}, even though @i{CAD} U/W 361b considers this “unlikely.” Geller (2010b: 200 n.254) suggests analyzing @i{uṣ-ṣa-ni-tu}₄ as D-stem verbal adjective of @i{eṣēnu}, “to smell”. The reading @i{u₂-lab-bak} follows Geller (2010) and @i{CAD} U/W s.v. @i{uribhu}, but since the equation of @i{lubbuku} with @i{nakāsu} is otherwise unattested, the reading @i{u₂-rib-hu} (a type of tree, albeit one only attested in lexical lists) remains possible.
+>> A 4'
+
+5'. !bs {u₂#}šu#-hat-tu₄ !cm ha-muṭ U !bs {u₂}ka-kud U !cm kim-ma-an-ta !cm U ša₂ aš₂-tu₄ TUKU{+ši} : !bs {u₂}GIŠ!.GI.ZU₂.LUM.MA SUMUN !cm U uš-ša₂-aš₂ bu-ṣi-in ša₂-di-i
+#lem: +šuhattu[š. of the oven]N$; +hamṭu[quick]AJ$hamuṭ; u; +kamkadu[(a plant)]N$kakud; u; +kamantu[kamantu]N$kimmanta; u; ša[of]DET; +artu[branches]N$ašta; irši[acquire]V; +buṣinnu[mullein]N$; labiru[old]AJ; u; +ušaštu[bird’s nest]N$uššāšu; +buṣinnu[mullein]N$buṣin; šadî[mountain]N
+
+#tr.en: “@i{šuhattu}-plant” (@i{stems from}) @i{quick} (@i{ḫamuṭ}). “@i{kakud}-plant” means “@i{kimmanta}-plant,” it is the one that has branches; “old @i{buṣinnu}-plant” means “bird’s nest made from (lit. “of”) @i{buṣinnu}-of-the-mountain(-plant).”
+
+#note: The readings @akk{šu-hat-tu₄} and @akk{kim-ma-an-ta} plus accompanying references are courtesy of E. Jiménez (personal communication). Compare @akk{A.RA-2 DINGIR.RA KI : u₂-la!(PA)-pa / A.RA₂ DINGIR.RA KI A.RA₂ : šu-hat-tu₄} (preceded by @i{šipātu}, @i{širṭi} LU₂.SIG₂.UZ₃) in @i{Uruanna} III 547 f.; @akk{ZU₂.LUM.MA SA₅ : U₂ šu-hat-ta-a-ti ša}₂ @i{tinūri} Uruanna III 327 (cited @i{CAD} Š/3 205a). The word @i{kimmanta} is surely @i{kamantu} (also attested as @i{kamandu}, @i{kamâtu}, and @i{kammantu}, see @i{CAD} K 109-10). Note the frequent equation between @i{kamkadu} and @i{kammantu}, which suggest that @akk{{u₂}ka-kud} is a writing of the former. The reading @akk{{u₂}GIŠ!.GI ZU₂.LUM.MA} (already @i{CAD} B 348a) rather than @akk{U₂ PA GI ZU₂.LUM.MA} (Geller 2010: 170) is supported by the equation of @akk{{u₂}GIŠ.GI ZU₂.LUM.MA} with @i{buṣinnu} in the lexical list @i{Ura} 3 468ff (@i{MSL} 5 p. 136); this passage seems to be the only attestation of the @i{buṣinnu}-plant with the qualification “of the mountain.”
+
+>> A 5'
+
+
+&P348842 = CCP 4.2.M.b (http://ccp.yale.edu/P348842) = IM 135193
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+#link: def A = ccpo:Q005179 = CCP 4.2.M = Commentary M on Qutāru
+@tablet
+
+@obverse
+
+1. !zz [x x x x (x)] x GU₂ ša₂ [...]
+#lem: u; u; u; u; u; u; u; ša[of]DET; u
+
+#tr.en: […] … […]
+
+2. !zz [x x x (x)]-lu#-ru-ri : [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]
+
+3. !zz [x x (x)] x# x#-tin-ni di-i[l? ...]
+#lem: u; u; u; u; u; X; u
+
+#tr.en: […] … […]
+
+4. !zz [x (x)] !bs MUD₂ ka-mi-i !cm ga-ra-ba-nu [...] 
+#lem: u; u; dāmi[blood]N; kamî[prisoner]'N; garabānu[leprous]AJ; u
+
+#tr.en: […] “Blood of a prisoner” means “of a leper” […]
+
+>> A 7
+
+5. !bs {zi₃}ŠE.MUŠ₅ !cm qe₂-me up-pu-lu : !bs KUŠ {d?#}[ku-ši ...]
+#lem: šigūšu[(a type of barley)]N; qēme[flour]N; uppulu[dried]AJ; mašak[skin]N; Kušu[1]DN; u
+
+#tr.en: “@i{šigūšu}-flour” (Sumerian) means “dried @i{šeguššu}-flour”. “Hide of @i{K}[@i{ūšu}” means …] 
+
+>> A 8
+
+$(The rest of the tablet after line 5 is left blank)
+
+
+&P461217 = CCP 4.2.M.c (http://ccp.yale.edu/P461217) = BM 44243
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+#link: def A = ccpo:Q005179 = CCP 4.2.M = Commentary M on Qutāru
+@tablet
+
+1. !zz [... mar]-ṣu# ih#-ta-an-naq?# x# x# x# [...]
+#lem: u; marṣu[sick]AJ; +hanāqu[press]V$ihtannaq; u; u; u; u
+
+#tr.en: [… “with respect to the s]ick man, he suffocates … […]
+>> A 1
+2. !zz [...] !cm IGI#-MIN 15!-šu₂ u 150-šu₂ i-kap-pi-iṣ# [...]
+#lem: u; īnī[eye]N; imittišu[right]N; u[and]CNJ; šumēlīšu[the left]N; ikappiṣ[bend back]V; u
+
+#tr.en: […] “the right and his left eye @i{roll up}.” […]
+>> A 2
+3. !zz [...] i-ka-ri u₃ i-na-al* [...]
+#lem: u; +kâru[rub]V$ikâri; u[and]CNJ; inâl[lie down (sleep)]V; u
+
+#tr.en: […] he rubs […] and lies down […]
+>> A 2
+4. !zz [...] i-na-nu-su-u₂ DUG₄.DUG₄ ar₂-ki-šu₂?# x# [...]
+#lem: u; X; tadabbub[speak]V; arkišu[behind]PRP; u; u
+
+#tr.en: […] … @i{his back} … […]
+>> A 2
+5. !zz [...] DINGIR i-nam!-za-ar₂ šil-lat!# i-qab-bi ša₂# im#-[mar ...]
+#lem: u; ilu[god]N; +nazāru[revile]V$inamzar; šillat[impudence]N; iqabbi[speak]V; ša[of]DET; immar[see]V; u
+
+#tr.en: […] “he (i.e., the sick man) curses the gods, speaks blasphemy, (and) hits whatever he s[ees.” …] 
+>> A 2
+6. !zz [...] !cm hu#-uṣ-ṣa GAZ lib₃-bi TUK.TUK{+ši} INIM?#-[MEŠ-šu₂ ...]
+#lem: u; huṣṣa[pain]N; hīp[break(age)]N; libbi[concern]N; irtanašši[acquire]V; awâtušu[word]N; u
+
+#tr.en: […] “he (i.e., the sick man) will repeatedly contract @i{abdominal pain}, [keeps forgetting his] @i{w}[@i{ords} …]
+>> A 3
+7. !zz [...] x# x# u₃ GABA-šu₂ TAG-su# [...]
+#lem: u; u; u; u[and]CNJ; irtišu[chest]N; ilappassu[affect]V; u
+>> A 3
+#tr.en: […] … and (in) his chest, you touch him […]
+8. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+#tr.en: […] … […]

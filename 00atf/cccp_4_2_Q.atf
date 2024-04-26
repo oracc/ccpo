@@ -1,0 +1,164 @@
+&P461270 = CCP 4.2.Q (http://ccp.yale.edu/P461270) = BM 59607
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1. !zz [...]
+#lem: u
+
+#tr.en: […]
+2. !zz [...]
+#lem: u
+
+#tr.en: […]
+3. !zz x x x [...]
+#lem: u; u; u; u
+
+#tr.en: … […]	
+4. !zz tuk#-x x x x [...]
+#lem: u; u; u; u; u
+
+#tr.en: …
+5. ($___$) !zz šap-x# ma [(x)] ša₂ x# ṭu
+#lem: u; X; u; ša[of]DET; u; X
+
+#tr.en: …
+6. !bs {u₂}ZA.GIN₃.NA !cm : šam-mu qu-na#-a-tu₂
+#lem: +uqnû[lapis lazuli]N$; +šammu[plant(s)]N$; +uqnû[lapis lazuli]N$qunātū
+
+#tr.en: “Lapis lazuli plant (Sumerian)” means “@i{qunātu}-plant (Akkadian).”
+#note: See note on the word @i{qunātu} in the introduction.
+
+7. !bs {u₂}el-kul-la !cm : GIM zap-pi ŠAH
+#lem: elkulla[(a medicinal plant)]N; kīma[according to]PRP; +zappu[tuft of hair]N$; šahû[pig]N
+
+#tr.en: “Elkulla plant” is like a pig’s bristles.
+8. !bs {u₂}UGU-kul#-la !cm : GIM SI a-a-lu
+#lem: +elkulla[(a medicinal plant or plants)]N$; kīma[according to]PRP; qaran[horn]N; +ayyalu[stag]N$ayyali
+
+#tr.en: “Elkulla plant” is like hartshorn.
+9. !bs {u₂#}UGU#-kul-la {+sa-a}SA₅ !cm : e-si-it-tu₂
+#lem: elkulla[(a medicinal plant or plants)]N; +sāmu[red]AJ$; +esittu[pestle]N$
+
+#tr.en: “Red-brown elkulla plant” means “@i{pestle}.”
+#note: See @i{CAD} E 100b for other attestations of red-brown @i{elkulla}-plant.
+10. !bs ZAL !cm : la-za-zu : !bs ZAL# !cm : la ga-mar#
+#lem: +lazāzu[endure//enduring]V'N$; +lazāzu[endure//enduring]V'N$; +gamāru[bring conclusion//bringing conclusion]V'N$; lā[not]MOD; +gamāru[bring conclusion//bringing conclusion]V'N$gamār
+
+#tr.en: ZAL means “to persist,” ZAL (also) means “not to come [to an end].”
+#note: The equation of ZAL with @i{lazāzu} may be drawn from the plant list @i{Uruanna}, since a similar equation (using ZAL.ZAL rather than just ZAL) is attested in one of its manuscripts, @i{CT} 37 27 iii 13 (reference from @i{CAD} L 114b). The restoration of the final sign follows Frahm (2011: 69 with n. 327), who suggests that the use of an antonym may have been inspired by the “la” in @i{lazāzu}.
+11. !bs la-za-zu !cm : le-zu-u₂#
+#lem: lazāzu[enduring]'N; +lezû[continue//continuing]V'N$
+
+#tr.en: “To persist” means “to continue.”
+#note: This equation is also attested in a commentary on the lexical list Aa (@i{CCP} 6.1.9.B o 16').
+12. !cm ša₂-niš !bs la-za-zu !cm :# le#-gu#-[u₂?]
+#lem: šanîš[alternatively]AV; lazāzu[enduring]'N; +egû[be(come) lazy//be(com)ing lazy]V'N$lēgû
+
+#tr.en: Alternatively, “to persist” means “not to be lazy.”
+#note: The explanation is otherwise unattested; the restoration and translation follow Frahm (2011: 69 with n. 327), who suggests that @akk{le-gu-[u₂]} is a Sandhi writing of @i{lā egû}.
+13. !bs har{+ha-ar}-sa-ap-nu !cm :. bur-ti#-[šam-hat]
+#lem: +harsapnu[larva]N$; +būrtī-šamhat[caterpillar]N$
+
+#tr.en: “The ‘larva’ (plant)” is the same as “the ‘cater[pillar]’ (plant)”
+#note: As noted by Frahm (2011: 94), this entry seems to be drawn from the plant list @i{Uruanna} 3: 251-252, and the same entry appears in another therapeutic text commentary, @i{CCP} 4.2.R o 11. 
+14. !bs ta-ma-hi-ir GAZI{sar} !cm : me-e GAZI[{sar}]
+#lem: +tamhīru[presentation]N$tamahīr; +kasû[mustard]N$kasê; mê[water]N; kasê[mustard]N
+
+#tr.en: “@akk{ta-ma-hi-ir} of the @i{kasû}-plant” means “juice of the @i{kasû}-plant.”
+#note: The commentator seems to have used a known phrase to explain a @i{hapax legomenon}.
+15. !bs {u₂}tuh-lam !cm : maš-ta-[kal]
+#lem: +tuhlu[(a medicinal plant)]N$tuhlam; +maštakal[masztakal]N$
+
+#tr.en: “The @i{tuḫlu}-plant” is the “@i{maštakal}-plant.”
+#note: The @i{tuḫlu}-plant is equated with the @i{maštakal}-plant in @i{Uruanna} 1 3f (reference from @i{CAD} T 454b).
+16. !bs il#-lu-ur EDIN !cm : a-a-ar₂# [EDIN]
+#lem: +illūru[rouge]N$; ṣēri[open country]N; +ayyaru[flower]N$ayyar; ṣēri[open country]N
+
+#tr.en: “The @i{illūru} of the steppe” means “@i{ayyar} [of the steppe].”
+#note: In @i{Uruanna} I 388ff, both the @i{illūru}-plant and the @i{nuṣābu}-plant are equated with @i{ayyar hurāṣi}, “gold flower” (reference from @i{CAD} I/J 88a). The equation found here (@akk{[il-lu-ur] EDIN*# : a-a-ar₂ EDEN# : {ú}el-li-pu#} […]) can be found in CBS 562 r 7′ (cited in Jiménez & Adalı, @i{ZA} 105 (2015) p. 186 fn. 56). Another attestation for the rare @i{illūr-ṣēri} is found in @i{BAM} 115, rev 9′ [reference courtesy of Henry Stadhouders].
+17. !zz [(x x)] !bs {u₂}nu-ṣa-bu !zz : x# [...]
+#lem: u; u; nuṣābu[(a medicinal plant)]N; u; u
+
+#tr.en: “[(…)] The @i{nuṣābu}-plant” means … […]
+#note: The @i{nuṣābu}-plant is mentioned in the same passage of @i{Uruanna} that mentions the @i{illūru}-plant, the subject of the commentary in the line before (reference from @i{CAD} I 88a and N/2 353a). 
+18. !zz [...] x# x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+#tr.en: […] … […]
+@reverse 
+1'. !zz [...] x# [...]
+#lem: u; u; u
+
+#tr.en: […]
+2'. !bs u₂-li-in-na !cm : [...]
+#lem: +ulinnu[coloured twine]N$ulinna; u
+
+#tr.en: “Yarn” means […]
+3'. ($___$) !cm : ana UGU li#?-[...]
+#lem: ana[on]PRP; muhhi[top]N; u
+
+#tr.en: On account of … […]
+4'. !bs ŠU ŠU.DINGIR.RA !cm : x# [...]
+#lem: qāt[hand]N; +šudingirrakku[(a serious illness)]N$šudingirrakki; u; u
+
+#tr.en: “The @i{hand of} Hand-of-the-god-disease” means …
+#note: The traces of the first sign of the explanation fit a sign that begins with the element MUNUS. Although @akk{ŠU ŠU.DINGIR.RA} seems to be a formula otherwise unattested in the medical corpus, it could reflect the view that @akk{ŠU.DINGIR.RA} was a disease rather than a cause/sender of a disease. Such a view of @akk{ŠU.DINGIR.RA} – as a disease rather than a divinity – seems to have been typical of therapeutic texts (Heeßel 2007: 122). But cf. the spelling of the title of the base text in the rubric (r 9'), which suggests that @akk{ŠU GIDIM} was viewed as a divine punishment rather than a disease. Alternatively, the second @akk{ŠU} may be a scribal error (dittography).
+5'. !bs SAHAR?#{+šek?-nu}.URUDU !cm :# x# [x (x)] x#
+#lem: +šuhtu[verdigris]N$; u; u; u; u
+
+#tr.en: “SAḪAR.URUDU” (with gloss /@i{šinu}/) means …
+#note: The tentative reading of the gloss as @i{šek-nu} is courtesy of Henry Stadhouders.
+6'. !bs [URUDU.{+še]-en?#}SAHAR !cm : šu-uh-tu₂
+#lem: +šuhtu[verdigris]N$; +šuhtu[verdigris]N$
+
+#tr.en: “[urudu].SAḪAR” (with gloss /@i{šen}/) means “verdigris (Akkadian).”
+#note: The tentative restoration is based on an entry in the lexical list @i{Antagal} Fragment b i 1 f (reference from @i{CAD} Š/3 209a).
+7'. !bs GIG# {giš}MA.NU !cm :. ki-ṣir MA.NU
+#lem: +herṣu[fragment]N$hereṣ; ēri[(a tree)]N; kiṣir[knot]N; +ēru[(a tree)]N$ēri
+
+#tr.en: “Cut piece of @i{ēru}-wood” means “knot of @i{ēru}-wood.”
+#note: For attestations of the phrase @akk{GIG {giš}MA.NU} see @i{CAD} Ḫ 199b and Schuster-Brandis @i{AOAT} 46 (2008) pp. 410-411. The equation, which is otherwise unattested, may be due to the phonetic similarity of @i{hirṣu} with @i{kirṣu}. The colon that connects the base text with its explanation is written with three wedges instead of the more usual two. 
+$ single ruling
+8'. !zz ṣa-a-tu₂ šu#-ut# pi-i
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N
+
+#tr.en: Lemmata (and) oral explanations
+9'. !zz ša₂ * NA ŠU GIDIM# DAB{+su}
+#lem: ša[of]DET; amēlu[person]N; qāt[hand]N; eṭemmi[ghost]N; iṣbassu[seize]V
+
+#tr.en: relating to “If the hand of a ghost has seized a man,”
+10'. !zz bul-ṭu E₂ da-bi-bi
+#lem: bulṭu[treatment]N; bīt[house]N; dābibi[interlocutor]N
+
+#tr.en: (part of the series) “Cures of the House of Dābibu.”
+
+$ single ruling
+11'. !bs hi-biš-ti {giš}EREN !cm : {giš}EREN ra-an-qi₂
+#lem: +hibištu[crushed pieces (of aromatic wood)]N$hibišti; erēni[cedar]N; erēna[cedar]N; +raqqû[oil-perfumer]N$ranqi
+
+#tr.en: “Crushed pieces of cedar wood” means “cedar of the perfume maker.”
+#note: The TI is written over an erasure. According to Henry Stadhouders (@i{privatim}), “@i{ra-an-qí} represents the nasalized form of @i{raqqî}; since @i{ḫibištu} is known for being used in perfumes and unguents we here obviously have an unorthodox spelling for @i{raqqû} ‘oil presser, perfume maker’; so @i{ḫ. erēni} is explained as the ‘pine of the perfume maker’.”
+
+12'. !bs AL.ŠUB !cm : im-qu-ut
+#lem: +maqātu[fall]V$imqutū; +maqātu[fall]V$imqut
+
+#tr.en: “It is falling (Sumerian)” means “he/it fell (Akkadian).”
+@bottom
+13'. !bs KAŠ₃# HUŠ.A !cm : KAŠ₃ eš-še-e-tu₂
+#lem: šīnāti[urine]N; huššâ[red]AJ; šīnāti[urine]N; +eššu[new]AJ$eššētu
+
+#tr.en: “Red urine” means “fresh urine.”
+#note: The equation should be @akk{KÀŠ HUŠ.A} = @i{šīnātu ruššētu} (see @i{CAD} R 427-428). As noted by Henry Stadhouders (@i{privatim}), the scribe may have been led astray because @akk{HUŠ} can have the reading @i{ezzētu}. On “red urine” in therapeutic texts see @i{CAD} R 429a.
+@left
+14'. !bs URU#.HUL#.A{mušen} !cm : qa-du-u : !bs a-bat-ti ha-ru-bu !cm : GURUN U₂#.[GIR₂]
+#lem: +qadû[owl]N$; +qadû[owl]N$; +abattu[river-gravel//stone of carob]N'N$; harūbu[carob (tree)]N; inib[flower]N; +harūbu[carob (tree)]N$
+
+#tr.en: “Owl (Sumerian)” means “owl (Akkadian)”; “carob stone (Akkadian)” means “fruit of a carob (Sumerian)”
+#note: The first equation is attested in @i{Ura} 18 169f = @i{MSL} 8/2 124 (reference from @i{CAD} Q 51a); the second is attested in @i{Antagal} 8 97, albeit in reverse order (reference from @i{CAD} H 120b).

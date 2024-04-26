@@ -1,0 +1,64 @@
+&P394184 = CCP 3.4.8.C (http://ccp.yale.edu/P394184) = K.2089
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+@column 1
+
+1. !zz [BE šu-ta]-bul#-ta ša₂ {giš}HUR-MEŠ {giš}TUKUL-MEŠ u ši-bi ana IGI-ka
+#lem: šumma[if]MOD; X; ša[of]DET; +šutābultu[(omen) interpretation]N$šutābulta; kakkī[weapon]N; u[and]CNJ; šībī[textual witness]N; ana[according to]PRP; +pānu[front]V$pānīka
+
+#tr.en: [If the interp]retation of the signs of “weapons” and variants before you.
+#note: This line functions as the heading of the section o i 2-5.
+
+2. !bs BE kak-su*-u₂ {giš}TUKUL SUH₃ ša₂ {d}en-lil₂
+#lem: šumma[if]MOD; kaksû[(a deformation on the exta)]N; kakku[Weapon (on liver)]N; tēši[chaos]N; ša[of]DET; Ellil[1]DN
+
+#tr.en: If there is an arrow-head, it is a “weapon” of confusion of the god Enlil;
+#note: As pointed out by Frahm (2011: 85 n. 425), this entry also appears in @i{Multābiltu} 1: 114.
+3. !cm {giš}TUKUL 15 GIM {giš}GAG GAR₃.BA ga-ri-ir
+#lem: kakku[weapon]N; imitti[right]N; kīma[according to]PRP; sikkatu[peg]N; +karru[knob]N$karri; +qarru[groveled]AJ$garru
+
+#tr.en: (this refers to) a “weapon” on the right (that) is spherical like a knobbed nail;
+4. !cm MAN{+u₂} MU-NI {giš}TUKUL 15 GIM ka-mu-ni
+#lem: šanû[second]NU; šumšu[name]N; kakku[weapon]N; imitti[right]N; kīma[according to]PRP; +kamūnu[(a fungus)]N$kamūni
+
+#tr.en: alternatively, its entry (refers to) a “weapon” on the right (that) is like a @i{kamūnu}-fungus.
+5. !zz an-ni-tu₄ {giš}HUR-šu₂	
+#lem: annītu[this]DP; +uṣurtu[drawing]N$uṣurtašu
+
+#tr.en: This (i.e., the sketch to the left) is a drawing of it (i.e., the configuration at issue).
+
+$ single ruling
+
+6. !bs BE pal#-su#-u₂# {giš}TUKUL SUH₃ ša₂ {d}IŠKUR#
+#lem: šumma[if]MOD; +palsû[(a feature on the liver)]N$; kakku[weapon]N; tēši[chaos]N; ša[of]DET; Adad[1]DN
+
+#tr.en: If there is an arrow-head, it is a weapon of confusion of the god Adad;
+#note: Reading following CAD B 65a.
+7. !cm {giš#}[TUKUL 15 ša₂ GIM] SAG.DU# {giš}BAL sa₃-hi-ir#
+#lem: kakku[weapon]N; imitti[right]N; ša[who]REL; kīma[like]PRP; qaqqadu[head]N; pilaqqu[spindle]N; +sahru[turned]AJ$sahir
+
+#tr.en: (This refers to) [a weapon on the right which] is curved [@i{like}] a spindle whorl.
+#note: Reading following CAD B 65a. For comparisons in extispicy texts of other parts of the liver to a spindle whorl, see CAD 373a.
+8. !cm [...] MUNUS.HUL u₂?#-[...]
+#lem: u; lemutti[evil]N; u
+
+#tr.en: […] evil … […]
+9. !cm [MAN{+u₂} MU-NI {giš}]TUKUL# 15 GIM SAG.DU IG [...]
+#lem: šanû[second]NU; šumšu[name]N; kakku[weapon]N; imitti[right]N; kīma[according to]PRP; qaqqadu[head]N; X; u
+
+#tr.en: [alternatively, its entry (refers to)] a weapon on the right like the head … […]
+10. !cm [šal-šu₂ MU-NI {giš}TUKUL] 15# GIM eš-qa₂#-[ru-ur-ti (ga-ri-ir)]
+#lem: šalšu[third]NU; šumšu[name]N; kakku[weapon]N; imitti[right]N; kīma[according to]PRP; +išqarrurtu[iszqarrurtu]N$ešqarurti; garru[groveled]AJ
+
+#tr.en: [third, its entry (refers to) a “weapon”] on the right [(that is curved)] like an @i{ešqa[rrurtu}-tool]
+#note: Restoration following CAD B 65a.
+11. !zz [an-ni-tu₄] {giš#}[HUR-šu₂]
+#lem: annītu[this]DP; uṣurtašu[drawing]N
+
+#tr.en: [This (i.e., the sketch to the left) is] a dr[awing of it (i.e., the configuration at issue).]

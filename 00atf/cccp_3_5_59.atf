@@ -1,0 +1,201 @@
+&P286488 = CCP 3.5.59 (http://ccp.yale.edu/P286488) = NBC 7696
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !zz [...]
+#lem: u
+
+2. !zz [... !bs i?-har?]-ra?#-aṣ !cm :?# [x] x su?#-u₂?# :?# [x x]
+#lem: u; iharraṣ[break off]V; u; u; X; u; u
+
+3. !zz [... !bs ina {iti}še-bu-ti?] !cm ina {iti}APIN# [(: !bs ina)] {iti}ši-ir-i#-BURU₁₄# !cm :# [(ina) {iti}SIG₄?]
+#lem: u; ina[in]PRP; Šebūti[1]MN; ina[in]PRP; Arahsamnu[1]MN; ina[in]PRP; +Šeri-Ebūr[]MN$; ina[in]PRP; Simanu[1]MN
+
+#note: For the equations of the Elamite month names, see @i{HeBAI} 4/3, 338-39, §3 and 8.
+4. !zz [...] : !bs u₂-hi-nu !cm x [x] IGI? : !bs ŠA₃.SUD !cm ne₂-eb-ri?#-tu₂#
+#lem: u; +uhinnu[fresh date(s)]N$uhīnu; u; u; u; +nebrītu[hunger(-ration)]N$; +nebrītu[hunger(-ration)]N$
+
+#note: Perhaps @akk{{u₂#}[IGI]-lim}.
+$ double ruling
+5. !zz [... !bs UGU mi-na-ti-šu₂ iš-ši !cm : mi?-na?-tu₂? :] mi?#-ṣa-tu₄ ša₂#-niš# UGU?# mi-na-ti-šu₂ a-tar
+#lem: u; +eli[on]PRP$; minâtišu[calculation]N; +našû[lift]V$išši; +minītu[measure//calculation]N'N$minâtu; +wīṣum[few]AJ$mīṣātu; šanîš[alternatively]AV; muhhi[account]N; minâtišu[calculation]N; atar[huge]AJ
+
+#note: @i{Šumma Ālu} 59: 5?, cf. 4. Or: @akk{[i?]-mi?#-ṣa EGIR x} (cf. 59: 4) @akk{UGU?# mi-na-ti-šu₂ a-tar}. @akk{ša₂} possibly written over erased :. One would have expected the double horizontal ruling after this line and not before it. But perhaps the restoration is wrong and the line explains @akk{A.DIR} (line 6) instead. @akk{UGU} is uncertain.
+6. !zz [... !bs KI{+ti₃} in-neš]-ši : !cm KI{+ti₃#} id#-dal-lah₃
+#lem: u; +erṣetu[earth]N$; innešši[confuse]V; +erṣetu[earth]N$; +dalāhu[disturb]V$iddallah
+
+7. !cm e-šu-u₂# [: da?-la?-hu? !zz : x x x] x !bs ŠUB#{+ti₃} ERIM#[{+ni?} !cm (x x) :] !cm GIG-MEŠ i-man-du :
+#lem: ešû[confusing]'N; dalāhu[troubling]'N; u; u; u; u; miqitti[epidemic]N; +ummānu[army]N$ummāni; u; u; marṣūtu[sick person]N; +mâdu[be(come) many]V$imandu
+
+8. !bs {giš}GEŠTIN.KA₅.A !cm : x [x] x [x x x x] x DINGIR#-[šu₂/x] NU TE
+#lem: karān[wine]N&šēlebi[fox]N; u; u; u; u; u; u; u; u; ilišu[god]N; lā[not]MOD; iṭhe[approach]V
+
+#note: @i{Šumma Ālu} 59: 10 (@akk{{giš}GEŠTIN.KA₅.A}). At the end, perhaps @akk{an#-[x]-nu-te?}. For possible equations of the @i{karān-šēlibi}-plant (which can be written as here), see @i{CAD} K, 201f.
+9. !bs {u₂}x (x x) !cm : {u₂}HAŠHUR-{giš?}GI?# [x x] x x aš#-šum di-il-hu
+#lem: u; u; u; +hašhūru[apple (tree)]N$hašhūr&+apu[reed-bed]N$api; u; u; u; u; aššum[because of]'PRP; dilhu[confusion]N
+
+#note: Beginning resembles @akk{{u₂}giš-sa₄-x}; one would expect @akk{{u₂}UZ₃.SAR} (59: 12). @akk{{u₂}HAŠHUR} according to @i{CAD} M/2 in @i{Uruanna} III 429 identified with @i{me}/@i{ikû}, but the reading with attached @akk{{giš}GI} is more likely. The note at the end a reference to @i{diʾu} in 59: 12?
+10. !cm di#-il-hu ina KUR GAR{+an} : !bs {giš}ESI !cm : [x x x x x] ku? ki an x x x
+#lem: dilhu[confusion]N; ina[in]PRP; māti[land]N; iššakkan[take place]V; ušâ[ebony]N; u; u; u; u; u; X; u; u; u; u; u
+
+#note: @i{Šumma Ālu} 59: 19 (@akk{{giš}ESI}). At the end perhaps @akk{{d}IDIM :# x# GAL?}.
+11. !bs {d}IDIM# ina ABZU ia-a-dar !cm : A?#-MEŠ?# [x x (x)] hab?-me-ma
+#lem: Ea[1]DN; ina[in]PRP; Apsu[1]GN; +adāru[be dark]V$iyadar; mê[water]N; u; u; u; X
+
+#note: @i{Šumma Ālu} 59: 20 (@akk{{d}IDIM# ina ZU.AB ia-a-dar}). Perhaps the waters at the source?
+12. !cm A-MEŠ ID₂ SIG₇ u dal-ha AN.GE₆# [x x] x x KURUN# : !bs {giš}GEŠTIN
+#lem: mê[water]N; nāri[watercourse]N; +arqu[yellow]AJ$arqū; u[and]CNJ; dalhā[obscure]AJ; attallû[eclipse]N; u; u; u; u; X; karāni[wine]N
+
+#note: @i{Šumma Ālu} 59: 21 (@akk{DIŠ {giš}GEŠTIN A.DIR {d}nin-giš-zi-da di-iʾ-a ina KUR GAR{+an}}, “If grapevine @i{grows}, Ningišzida will put @i{diʾu}-disease in the land”). As noted by H. Stadhouders (email 7/2016), in lines 12ff the commentator refers to @i{Diri} V 233-237 (@i{MSL} 15, 176): @i{ku-ru-un} @akk{KAŠ.DIN} = @i{kurunnu}, @i{šikaru}, @i{sību}, @i{karānu}, @i{damu}. As further suggested by Stadhouders, “blood” is a nickname of wine because of its color; Stadhouders points to the “Bulls Blood” wine from Eger in Hungary.
+13. !cm KURUN : da-me aš-šum !qt %sux {d}nin-giš-zi-da a-ri# {d#}[a?]-nu?# :  %sb {d}MIN<({d}nin-giš-zi-da)> ša₂ ri-hu-ut {d}a-nu
+#lem: +kurunnu[(a kind of beer)]N$; dāmē[blood]N; aššum[because of]'PRP; X; X; X; +Ningišzida[]DN$; ša[of]DET; +rihûtu[progeny]N$rihût; Anu[1]DN
+
+#note: @i{Šumma Ālu} 59: 21 (@akk{{d}nin-giš-zi-da}). Possibly quotation from a bilingual text. One would rather expect the Sumerian version of the name of the sky god in the first half of the quotation. Note that Ningišzida is also referred to in the other DIR-utu commentary!
+14. !cm ša₂-niš MU.TIN : {giš}GEŠTIN : MU.TIN : ši-kar : mu₆(PA)-te-en mu-kil?# {+ni}NISAG{+ga} ni-sag-ga
+#lem: šanîš[alternatively]AV; +karānu[vine//wine]N'N$; karāni[wine]N; +šikaru[beer]N$; šikaru[beer]N; X; mukīl[holder]N; +nisannu[offering (of first fruits)]N$nisagga; +nisannu[offering (of first fruits)]N$nisagga
+
+#note: Difficult to understand; quotation? Apparently, @akk{MU.TIN} is read @akk{mu₆(PA)-te-en}, @akk{PA} is then explained as mukil (cf. @akk{UGULA(PA)} = @i{aklu} in the next line), and @i{te-en} is linked to @i{nisakku} “first fruits” (Ningišzida as provider of fertility?). Or should one read: @akk{mu-tinₓ(KIL)?-ni NISAG-ga?} In the next line, the word is associated with sacrifices.
+15. !cm mu₆(PA)-tin-ni ša₂ ni-qi₂-i : mu₆(PA)-tin-nu : {d}nin-giš-zi-da : UGULA(PA) : ak-lu
+#lem: X; ša[of]DET; niqî[offering]N; X; Ningišzida[1]DN; +aklu[overseer]N$; +aklu[overseer]N$
+
+#note: Note that there is also an Akkadian word @i{patinnu} (a headband), but this is probably not what is meant here. The commentator equates @akk{mu₆(PA)-tin-nu} with @akk{{d}nin-giš-zi-da} by arguing that @akk{PA} = @akk{UGULA} means “overseer” and @akk{TIN} “alcohol beverage,” and pointing out that Ningišzida is identical with the beer god, who is in charge of alcoholic beverages. [Alternatively, one might interpret @akk{ak-lu} as “food”; if this is the case, the commentary would interpret the name of “wine” as containing both “food and drink,” i.e., as the ultimate wholesome beverage, EJ].
+16. !cm TIN : ši-ka-ri : !qt %sux {d}siraš₂(|ŠIM×A|) kaš-kaš-bi-ir sig₅ : %sb si-ra-šu-u₂ ša₂ ši-kar-šu₂ dam-qa
+#lem: +šikaru[beer]N$; šikari[beer]N; X; X; X; X; ša[of]DET; +zikru[utterance]N$sikaršu; damqa[good]AJ
+
+#note: One BI-sign too many? Apparently another quotation
+17. ($___$) !cm a-na {d}nin-giš-zi-da iq-ta-bi
+#lem: ana[to]PRP; Ningišzida[1]DN; iqtabi[say]V
+
+$ single ruling
+18. !bs *# [UD] {u₂#}[ha]-ab#-bu-ru pe-ṣe#-e it-tab-ši !cm : UD šum-ma : !bs * UD {u₂}kas₃-si-bi i-te-bi :
+#lem: +šumma[if]MOD$; +habbūru[sprout]N$; +peṣû[white]AJ$peṣê; ittabši[occur]V; +šumma[if]MOD$; šumma[if]MOD; +šumma[if]MOD$; +kusīpu[(a plant)]N$kassībi; +ebû[be thick]V$ītebi
+
+#note: @i{Šumma Ālu} 59: 30 (⸢¶⸣ @akk{[UD] {u₂#}[ha]-ab#-bu-ru pe-ṣe#-e it-tab-ši}) and @i{Šumma Ālu} 59: 32 (¶ @akk{UD {u₂}kas₃-si-bi i-te-bi}).
+19. !cm [{u₂}ka]-si#-ia ik-te-ṣir : e-bu-u₂ : ka-ṣa-ri : ša₂ i-ti-ru-ma i-mi-du
+#lem: +kasû[mustard]N$kasīya; +kaṣāru[tie]V$ikteṣir; ebû[being thick]'N; +kaṣāru[tie//tying]V'N$kaṣāri; ša[of]DET; +atāru[be(come) outsize]V$ītirūma; imīdū[be(come) many]V
+
+#note: The equation between @i{kassibu} and @i{kasia} (NB for @i{kasû}), not attested elsewhere, is probably based on their phonetic similarity.
+20. !zz [x x x] x bi : in?#-de-ʾi-IZ : !bs A.ŠA₃ BI i-wa-bi-iʾ !cm : A#.ŠA₃# BI im-maš?#-ša₂-aʾ
+#lem: u; u; u; u; X; X; eqli[field]N; šū[that]IP; +abāʾu[weed]V$iwabiʾ; eqli[field]N; šū[that]IP; +mašāʾu[take away by force]V$immaššāʾ
+
+#note: @i{Šumma Ālu} 59: 33 (@akk{A.ŠA₃ BI i-wa-bi-iʾ}). Read at the beginning: @akk{[ša₂-niš i]-te#-bi}? Cf. line 24. Verb derived from @i{wiāṣu}?? The sign read as @akk{maš?} looks more like @akk{ša₂#}.
+21. !bs [{u₂}u₅-ra-nu !cm :] {u₂}a-ra-an-tu₂ : an-da-ma-tu₄ : !bs it-tab-ši !cm : in-de-ʾi-id :
+#lem: +uriyānu[fennel]N$urânu; arantu[(a kind of grass)]N; +adamatu[(a plant)]N$andamatu; ittabši[occur]V; +mâdu[be(come) many]V$indeʾid
+
+#note: @i{Šumma Ālu} 59: 34 (@akk{{u₂}u₅-ra-nu} and @akk{it-tab-ši}). The equation between @i{urânu} and @i{arantu} also attested in @i{Ḫg}; see @i{CAD} U/W, 207a. @akk{an-da-ma-tu₄} is a (so far unattested?) form of the plant name adamatu (for which see CAD A/1, 94). The verb at the end probably derived from @i{mâdu}; cf. NA @akk{in-ta-ʾi-id} in @i{ABL} 463: 13 (@i{CAD} M/1, 27a), as well as the equation @akk{it-tab-ši : im-te-du} in line 24.
+22. !bs [{u₂}sa-as-su !cm : {u₂}sa]-as#-sa-tu₄ : !bs {u₂}a₃(PI){+a}-mi-ra-nu !cm : {u₂}a-na-mi-ru
+#lem: +sassu[base//grass]N'N$; +sassatu[grass]N$; +awirānu[standing water//(a plant)]N'N$amirānu; anamiru[(a plant)]N
+
+#note: @i{Šumma Ālu} 59: 36 (@akk{{u₂}sa-as-su}). Cf. @i{Šumma Ālu} 59: 37 (@akk{{u₂}a₃(PI){+a}-mi-ra-nu}). See @i{CAD} S, 194-96. The plant name sassu attested only here. The base text has @akk{{u₂}a₃(PI)-mi-ra-nu} in line 37.
+23. !cm [x x x x x x] {+a?#}a₃(PI)-mi#-ra#-nu : {u₂}me₂-er-gi-re-e-nu ki-ma hu? x as-har?# du?#
+#lem: u; u; u; u; u; u; +awirānu[standing water//(a plant)]N'N$amirānu; +merginānu[(a medicinal plant)]N$mergirēnu; kīma[like]PRP; X; u; X; X
+
+#note: One could consider restoring @akk{{u₂}mur-ra-nu} at the beginning (59: 39), but perhaps it is more likely to assume this is the continuation of the explanation provided in the previous line. See @i{CAD} M/2, 106b s. v. @i{mirgirānu}; in @i{Uruanna} II 370 explained as @akk{{u₂}MIN<(as-har)>}.
+24. !bs [i]-te-bi !cm :# in#-de#-ʾi-IZ ša₂#-niš# ik#-te-ṣir : !bs it-tab-ši !cm : im-te-du
+#lem: +ebû[be thick]V$ītebi; X; šanîš[alternatively]AV; ikteṣir[tie]V; ittabši[occur]V; imteddû[be(come) numerous]V
+
+#note: @i{Šumma Ālu} 59: 37/38 (@akk{[i]-te-bi}) and @i{Šumma Ālu} 59: 39ff. (@akk{it-tab-ši})
+25. !bs [{u₂}]IM#.MAN.DU# : {u₂}su-ma#-[du : !bs {u₂}]ip#-tu₄ !cm : {u₂}an-da-ma-tu₄
+#lem: +suādu[sedge(-tubers)]N$; +suādu[sedge(-tubers)]N$sumādu; +iptu[luxuriance//(a plant)]N'N$; +adamatu[(a plant)]N$andamatu
+
+#note: @i{Šumma Ālu} 59: 41 (@akk{[{u₂}]IM#.MAN.DU#}) and  @i{Šumma Ālu} 59: 42 (@akk{[{u₂}]ip#-tu₄}). For the reading of @akk{{u₂}IM.MAN.DU} as @i{suādu}/@i{sumādu}, see @i{CAD} 338-39 and @i{MZL}, 404, no. 708. The second plant name probably not to be read as @akk{[{u₂}]ṭu#-ṭu₄(TUM)}, despite lines 32-33; the reading @akk{ip-tu₄} in the base text (K 2882) seems certain (collated from photo).
+
+$(reverse)
+26. !bs [EN-šu₂ NU] TE#-šu₂ !cm : EN-šu₂ ul i-qar-ru-ba-aš₂-šu₂ : !bs {u₂}a-la-pu-u₂ !cm : {u₂}ha-am-mu#
+#lem: bēlšu[owner]N; lā[not]MOD; iṭehhešu[approach]V; bēlšu[owner]N; ul[not]MOD; +qerēbu[be/come close]V$iqarrubaššu; +alapû[seaweed]N$; +hammu[pond//(a plant)]N'N$
+
+#note: @i{Šumma Ālu} 59: 42 (@akk{[EN-šu₂ NU] TE#-šu₂}) and @i{Šumma Ālu} 59: 45 (@akk{{u₂}a-la-pu-u₂}).
+27. !cm [{u₂}]a#-na-pa-a il-lab-ba-aš₂ : !bs i-ma-du !cm : i-ma-a-du : !bs iš#-bab#-tu₄# :
+#lem: +alapû[seaweed]N$anapâ; illabbaš[put on]V; +mâdu[be(come) many]V$imādū; imaʾʾadū[be(come) numerous]V; +išbabtu[(a grass or weed)]N$
+
+#note: @i{Šumma Ālu} 59: 45 (cf. @akk{i-ma-du}) and @i{Šumma Ālu} 59: 46 (@akk{iš#-bab#-tu₄#}). The commentator apparently misunderstand (or reinterpreted) the base text, where it seems one must read @akk{EN-šu i-ma-at} “its (the field’s) owner will die.”
+28. !cm mul-lah₃-tu₄ : {u₂}la-ar₂-du : !bs EN-šu₂ IGI-šu i-kat₇(ŠU)-tam(UD) : !cm i-šu-uṭ-ṭu
+#lem: +mallahtu[(a type of saline grass)]N$mullahtu; +lardu[(a grass)]N$; bēlšu[owner]N; +īnu[eye]N$īnšu; +katāmu[cover]V$ikattam; +šâṭu[pull]V$išuṭṭu
+
+#note: @i{Šumma Ālu} 59: 46 (@akk{EN-šu₂ IGI-šu i-kat₇(ŠU)-tam(UD)}). Var. of @i{mallaḫtu} (a type of saline grass). At the end of the line, the commentator seems to have misunderstood the sign sequence @akk{I ŠU UD} (actually: @akk{i-kat₇-tam}) as representing a (fictitious) verb išūṭ.
+29. !bs EN-šu₂ IGI-šu i-tal₂(PI){+tal}-li !cm : ta-la-lu : ša₂-qu-u₂ : !bs {u₂}a-ra-KI-ra-nu :
+#lem: bēlšu[owner]N; īnšu[eye]N; +talû[accoutre]V$italli; talālu[stretching]'N; šaqû[be(com)ing high]'N; +arariyānu[(a plant)]N$arakirānu
+
+#note: Misunderstanding of @i{ipette} in the base text (K 2882)? Note, however, that the reading of the last sign there as @i{te} is not completely certain; on the photo, it looks more like @akk{tu₂} (not @akk{la}, though). @akk{{u₂}a-ra-KI-ra-nu} apparently an otherwise unattested variant of @i{arariānu} (or another mistake?).
+30. !cm {u₂#}za?/a?#-lu/ur?-zi-lu-zu : !bs ŠU EN-šu₂ NU GUR{+ar₂} !cm : bil-tu₂ be-li-šu₂ ul u₂-ta-ri
+#lem: X; qātī[hand]N; bēlšu[owner]N; lā[not]MOD; itâr[return]V; +biltu[load]N$; +bēlu[lord]N$bēlīšu; ul[not]MOD; utarri[turn]V
+
+#note: The first word might be a form of the plant name @i{alluzu}. The apodosis in the base text (K 2882) is to be read as @akk{A#.ŠA₃# BI# ŠU#-MIN# EN#-šu NU GUR{+ar₂#}}.
+31. !cm [ŠU] :# bil-tu₄ ša₂ {giš}KIRI₆ ša₂-niš ŠU-MIN EN-šu₂ ul GUR{+ar₂} : {giš}KIRI₆ GU₂.UN-su
+#lem: qātī[hand]N; +biltu[load]N$; ša[which]REL; kiri[garden]N; šanîš[alternatively]AV; qāt[hand]N; bēlšu[owner]N; ul[not]MOD; itâr[return]V; kiri[garden]N; +biltu[load]N$bilassu
+
+#note: The equation @akk{ŠU} = @i{biltu} is attested in the lexical tradition, see @i{CAD} B, 229b.
+32. !cm [(x)] ul# i-kil-la-aš₂-šu₂ : !bs * UD {u₂}tu-ud-du-mu-um !cm : šum-ma ṭu-uṭ-ṭu-um
+#lem: u; ul[not]MOD; +kalû[hold (back)]V$ikillâššu; šumma[if]MOD; +tuddumu[(a plant)]N$tuddumum; šumma[if]MOD; +ṭuṭṭu[(a plant)]N$ṭuṭṭum
+
+#note: The plant names @akk{{u₂}tu-ud-du-mu-um} and @akk{{u₂}ṭu-uṭ-ṭu-um} are apparently not attested anywhere else.
+33. !cm [ṭu-uṭ]-ṭu-um : da-ad-da-ri : ṭu-uṭ-ṭu-um : mar-ru-tu
+#lem: ṭuṭṭum[(a plant)]N; daddari[centaury]N; ṭuṭṭum[(a plant)]N; +marrūtu[(a type of onion)]N$
+
+34. !bs A.ŠA₃ a#-{+pi?#}pu-um ina me₂-re-šu u U₂-HI.A i-ta-ri !cm : A.ŠA₃ me₂-re-šu₂
+#lem: eqli[field]N; +apu[reed-bed]N$apum; ina[in]PRP; +mērešu[cultivated land]N$; u[and]CNJ; šammī[plant(s)]N; itâri[return]V; eqli[field]N; mērešu[cultivated land]N
+
+#note: The assumption that this entry deals with 59: 49 is based on the possibility that K 2882, rev. 29 (= 49) is to be read as @akk{[... a?-{+pi?}]pu#-um}. The rest of the entry might have been included in the following line (perhaps to be read as @akk{[ina mi-ri-šu u U₂-HI.A i]-ta#-[ri]}).
+35. ($___$) !cm a-na ap-pa-ri i-tar-ma in-na-an-di
+#lem: ana[to]PRP; +appāru[reed-bed]N$appāri; +târu[turn]V$itâr-ma; +nadû[throw (down)]V$innandi
+
+$ double ruling
+
+36. !zz ṣa-a-tu₂ šu-ut pi-i u₃ maš-a-a-al-tu₂ ša₂ KA um-man-nu
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; u[and]CNJ; mašʾaltu[questioning]N; ša[of]DET; pî[accordance]N; ummannu[scholar]N
+
+37. !zz ša₂ ŠA₃ * KIRI₆ ma-du-u {giš}HAB ma-gal i-te-ši-ir
+#lem: ša[of]DET; libbi[concern]N; +kirû[(fruit) plantation]N$; +mādu[many]AJ$mādū; +hûratu[madder]N$; magal[greatly]AV; +ešēru[be/go well]V$ītešir
+
+38. !zz 59 mal₂-su-ut * URU ina SUKUD GAR{+in} NU AL.TIL : * KI KUR UŠ₂ i-hi-il
+#lem: n; malsût[reading out]N; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ; lā[not]MOD; qati[completed]AJ; +qaqqaru[ground]N$; mātu[land]N; +dāmu[blood]N$dāma; ihīl[exude]V
+
+39. !zz {im}GI₂.DA {m}I-{d}en-lil₂ A-šu₂ {m}{d}UTU-ŠEŠ-MEŠ-MU A {m}DIR-{d}UTU 
+#lem: +giṭṭu[oblong tablet]N$; +Naʾid-Enlil[]PN$; aplišu[son]N; Šamaš-ahhe-iddin[1]PN; aplu[son]N; +Dirutu[]PN$
+
+@translation parallel en project
+
+1. [……]
+2. [“The furrow] will decrease (?) [its yield]” (= @i{Šumma Ālu} LIX 2?): … means […].
+3. [… “(in) Šebuti (an Elamite month name)” (= @i{Šumma Ālu} LIX 3)] (means) “in the month of Araḫsamna (VIII)”; “[(in)] Šer’i-ebūri (another Elamite month name)” means “[(in) the month of Simānu (III)].”
+4. […]; “unripe date(s)” (= @i{Šumma Ālu} LIX 3) refers to the @i{imḫur-līm}-plant (?), (the logogram) ŠÀ.SUD (= @i{Šumma Ālu} LIX 4) denotes @i{nebrītu} (“hunger”).
+5. [(…) “it (the acacia) bears beyond measure” (?) (= @i{Šumma Ālu} LIX 5?): “measure (@i{minâtu})” (?) refers to] “few (@i{mīṣātu})” (?); alternatively, (it means): it is abundant beyond measure.
+6. […; “the ground] will become confused” (= @i{Šumma Ālu} LIX 6) means: the ground will be disturbed,
+7. (because) “to confuse” [means “to disturb.” …] …. “Fall of the army” (?) (= @i{Šumma Ālu} LIX 10) [(…) means that(?)] there will be many illnesses.
+8. “Fox-grape” (= @i{Šumma Ālu} LIX 10) means … […] … will not approach (?) [his(?)] god(?).
+9. The …-plant (= @i{Šumma Ālu} LIX 12?) corresponds to the “reed-apple-plant” […] … regarding a disturbance (@i{dilḫu}, perhaps explaining “@i{diʾu}-disease” in @i{Šumma Ālu} LIX 12); 
+10. (it means that) a disturbance will take place in the land. “@i{ušû}-tree (Dalbergia melanoxylon?)” (= @i{Šumma Ālu} LIX 19) refers to […] ….
+11. “The god Ea will become obscured in the Apsû” (= @i{Šumma Ālu} LIX 20) means that the waters(?) […] … and(?)
+12. the waters of the river will be yellowish and disturbed; an eclipse […] …. KURUN (“alcoholic beverage”) means “grapevine (giš.GEŠTIN)” (= @i{Šumma Ālu} LIX 21); 
+13. KURUN (also) means “blood,” because of the (Sumerian) line “d.nin-giš-zi-da a-ri d.[a-n]u(?),” (which) means (in Akkadian) “ditto (i.e., Ningizzida) (= @i{Šumma Ālu} LIX 21), engendered (lit., poured out) by Anu.” 
+14. Secondly, (Emesal) MU.TIN (“wine”) means “grapevine”; MU.TIN (also) means “alcoholic drink (@i{šikaru})”; (it can also be written) “@i{mu}₆(PA)-@i{te-en},” (which refers to (?)) the one who holds (@i{mukil}, cf. @i{aklu}) the first fruits (@i{nisakku}); 
+15. (regarding) the wine (@i{mu}₆(PA)-@i{tin-ni}) for the libation, @i{mu}₆(PA)-@i{tin-nu} refers to Ningizzida, because UGULA (= PA) means “overseer (@i{aklu})” 
+16. (and) TIN means “alcoholic drink” (and because, consequently, the Sumerian line) “d.siráš(ŠIM×A) kaš-kaš-bi-ir sig₅,” (which means in Akkadian) “the (divine) brewer whose alcoholic drink is good,” 
+17. is said with reference to Ningizzida.
+18. “If (DIŠ UD) a white shoot appears” (= @i{Šumma Ālu} LIX 30): UD (is to be read as) @i{šumma} (“if”). “If the @i{kassību}-plant becomes thick” (= @i{Šumma Ālu} LIX 32): (this) means,
+19. the @i{kasīya}-plant (mustard?) has gathered; for “to be thick” means “to gather” – (a plant) that is overly plentiful and abundant;
+20. [alternatively, (it means), it has become] thick (?); it has …. “That field will be full of weeds” (= @i{Šumma Ālu} LIX 33) means: that field will be plundered.
+21. [“@i{urânu}-plant” (= @i{Šumma Ālu} LIX 34) is (another name form of)] the @i{arantu}-plant, (which) is (identical with) the @i{a}(@i{n})@i{damatu}-plant. “It has appeared” (= @i{Šumma Ālu} LIX 34) means: it has become abundant.
+22. [“@i{sassu}-plant” (= @i{Šumma Ālu} LIX 36) is (another name form of) the] @i{sassatu}-plant. “@i{amiranu}-plant” is (another name form of) the @i{anamiru}-plant (= @i{Šumma Ālu} LIX 37);
+23. […] the @i{amiranu}-plant is (identical with?) the @i{mirgirēnu}-plant; like … @i{asḫar}-plant(?) ….
+24. “It has become thick” (= @i{Šumma Ālu} LIX 37/38) means: it has …; alternatively, (it means) it has gathered. “It has appeared” (= @i{Šumma Ālu} LIX 39ff.) means: it has become abundant.
+25. (The logogram) ú.IM.MAN.DU (= @i{Šumma Ālu} LIX 41) is (to be read as) @i{sumādu}/@i{suādu} (a plant name). The @i{iptu}-plant (= @i{Šumma Ālu} LIX 42) is (identical with) the @i{a}(@i{n})@i{damatu}-plant.
+26. “[Its owner] will not approach it (the field)” (= @i{Šumma Ālu} LIX 42) means: its owner will not come near to it. The @i{alapû}-plant (seaweed?)” (= @i{Šumma Ālu} LIX 45) is (identical with) the @i{ḫammu}-plant (algae?);
+27. (it means the field) is draped in @i{anapû} (= @i{alapû})-plants. @i{i-ma-du} (lit., “they will be abundant”) can (also) be (written) @i{i-ma-a-du} (apparently a commentarial misunderstanding of @i{bēlšu i-ma-at} “its owner will die” in @i{Šumma Ālu} LIX 45). @i{išbabtu-grass (= @i{Šumma Ālu} LIX 46) is (identical with)
+28. (salty) @i{ma}/@i{ullaḫtu}-grass (and with) @i{lardu}-grass. “Its (the field’s) owner will close (lit., “will cover,” @i{i-kat}₇(ŠU)-@i{tam}(UD), apparently misunderstood by the commentator as @i{i-šu-uṭ}) his eye(s)” (= @i{Šumma Ālu} LIX 46) means: “he(?) will pull(?) (them)” (@i{i-šu-uṭ-ṭu}).
+29. “Its owner will … (@i{i-tál}(PI)@i{tal-li}) his face” (cf. @i{Šumma Ālu} LIX 47, which has @i{bēlšu īn}(@i{ē})@i{šu i-pe-te}? “its owner will open his eye(s)”; the commentator seems to have misunderstood the last word, reading it as @i{i-tál}(PI)@i{-la}): @i{talālu} (“to stretch out”?) means “to be high” (or: “to irrigate”?). The @i{a-ra}-KI-@i{ra-nu}-plant (mistake for @i{arariyānu} in @i{Šumma Ālu} LIX 48) is (identical with) the
+30. @i{za}?/@i{a}?-@i{lu}/@i{ur}?-@i{zi-lu-zu}-plant. “The …(ŠU) of its (the field’s) owner will not turn back (?)” (= @i{Šumma Ālu} LIX 48) means: the yield (?) will not pay back (?) its owner,
+31. [(because) ŠU] means “yield,” of a garden; alternatively, (it means): the hand(s) of its owners will not turn back (?); that is (?), the garden will not hold back 
+32. [(…)] its yield from him. “If (DIŠ UD) the @i{tuddumum}-plant” (= @i{Šumma Ālu} LIX 49?) means: “If (@i{šumma}) the @i{ṭuṭṭum}(-plant)”;
+33. the @i{ṭuṭṭum}(-plant) is (identical with) the @i{daddaru}(-plant); the @i{ṭuṭṭum}(-plant) is a bitter (plant).
+34. “The field — there will be a reed-bed during cultivation (?) and plants will return (?)” (= @i{Šumma Ālu} LIX 49?) means: a cultivated field
+35. 	 will turn into a swamp and will be ruined.
+36. Lemmata, oral explanations, and (materials for) a “questioning” by a (master-)scholar
+37. relating to (the text with the incipit) “If vegetables are plentiful and the @i{ḫuratu}-tree grows very well” (= @i{Šumma Ālu} LIX 1).
+38. 59th “lecture” of “If a City is Set on a Height,” not finished. (Catchline:) “If the soil of the land exudes blood” (= @i{Šumma Ālu} LX).
+39. Single-column tablet of Naʾid-Enlil, son of Šamaš-aḫḫē-iddin, descendant of m.DIR-d.UTU.

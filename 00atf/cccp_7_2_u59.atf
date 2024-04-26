@@ -1,0 +1,40 @@
+&P461239 = CCP 7.2.u59 (http://ccp.yale.edu/P461239) = BM 48042
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x#-su# x# x# [...]
+#lem: u; u; u; u; u; u
+
+$ single ruling
+2'. [...] x#-ne ka?#-du# x# [...]
+#lem: u; u; X; u; u
+
+3'. !zz [...] !cm gu#-qa-nu ZI{+ha} : !bs IGI#.[GU.LA₂ (ZI?{+ha?}) !zz ...]
+#lem: u; +qūqānu[a worm//an eye-disease]N'N$; nashā[excerpted]AJ; +qūqānu[a worm//an eye-disease]N'N$; nashā[excerpted]AJ; u
+
+4'. !zz [...]-u₂ : !bs DUNGU GE₆ !cm : a-da#-[ru? !zz ...]
+#lem: u; erpeti[cloud]N; ṣalmu[black]AJ; +adāru[be dark//being dark]V'N$; u
+
+#note: Compare BM 66873 r 2′ (@i{CCP} 4.1.18): @akk{[MUD₂].GE₆# : a-da-ma-tu₄}. If this and the previous line belong to the same commentarial entry, the base text could have been @akk{30 ina IGI.LA₂-šú ina DUNGU GE₆ IGI-ma}, as in @i{Sîn ina tāmartīšu} I 69.
+5'. !zz [...] !cm aš₂#-šu₂ URUDU SUMUN $KAL?-ku ša₂ ina $AMBAR?# !zz [...]
+#lem: u; aššu[because of]'PRP; erâ[copper]N; labirtu[old]AJ; u; ša[that]REL; ina[in]PRP; u; u
+
+#note: Compare perhaps @akk{ni-pi-iṣ URUDU}, @akk{ep-ri URUDU}, @akk{SAHAR.URUDU.I₃.GU₇.E : URUDU SUMUN ša₂ qaq-qa-ru GU₇-šu₂}, “old copper which the soil has eaten up,” in @i{Uruanna} III 476-476b (@i{CAD} E 321b).
+6'. !zz [...] x#-LU-pa-a gu-x# IR₃?# [...]
+#lem: u; u; u; wardu[slave]PN; u
+
+7'. !zz [...] x# x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+@translation parallel en project
+
+1'. [...] ... [...]
+2'. [...] ... [...]
+3'. [... (means)] @i{uprooted guqānu}-disease. IGI.[GU.LÁ (means) ...] 
+4'. [...] ... a “dark cloud” (@i{is related to}) “@i{to be da}[@i{rk}” ...],
+5'. [...] since old, ... copper which in the @i{ma}[@i{rsh} ...].
+6'. [...] ... [...]
+7'. [...] ... [...]

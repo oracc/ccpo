@@ -1,0 +1,22 @@
+&P470051 = CCP 7.2.u171 (http://ccp.yale.edu/P470051) = BM 48728
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1. !zz [...]-mu#-u?# x#-mu?# la#-x# [...]
+#lem: u; u; u; u
+#tr.en: […] … […]
+2. !zz [...] ZU?#-hu : ZU-um-ka?# [...]
+#lem: u; X; X; u
+#tr.en: […] … […]
+3. !zz %sux [...] ba-ta-an-ku₄-ra : x# [...]
+#lem: u; X; u; u
+#tr.en: […] @i{batankura} … […]
+4. !zz [...] x MU? EN₂ DUG₄.DUG₄ ul# [...]
+#lem: u; u; X; šiptu[incantation]N; +dabābu[speak]V$tadabbub; ul[not]MOD; u
+#tr.en: […] … recite the incantation … […]
+5. !zz [...] x# a x# NE# x# x# x# [...]
+#lem: u; u; â[not]MOD; u; Abu[1]MN; u; u; u; u
+#tr.en: […] … […]

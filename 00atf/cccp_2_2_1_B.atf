@@ -1,0 +1,217 @@
+&P461231 = CCP 2.2.1.B (http://ccp.yale.edu/P461231) = BM 47529
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs [GE UMUN{+hi} UR.SAG DINGIR-MEŠ mu-ma-ʾ-er an-duru₂-na : !cm ru-bu-uṣ] an-zu-u₂ ša₂ ina ŠAR₂.ŠAR₂#[{ki}]
+#lem: +anāku[I]IP$; +Asalluhi[]DN$; qarrādi[hero]N; ilāni[god]N; +mumaʾʾeru[commander]N$; +Anduruna[]GN$; +rubṣu[litter]N$rubuṣ; Anzu[1]DN; ša[that]REL; ina[in]PRP; +Šaršar[]GN$
+
+#note: Geller restores @i{šu-bat}?] @i{an-zu-ú}; the restoration adopted here is based on SB @i{Anzû} I 34.
+2. ($___$) !cm [al]-du x [x x x x x x x x x] x u {d}nin-giš-zi-da : x [x (x)]
+#lem: aldu[born]AJ; u; u; u; u; u; u; u; u; u; u; u; u[and]CNJ; +Ningišzida[]DN$; u; u; u
+
+3. !bs [GE UMUN{+hi}] ša₂ nam-ri-ri# [lit-bu-šu ma-lu-u₂] pul#-ha-a-ti
+#lem: anāku[I]IP; Asalluhi[1]DN; ša[of]DET; +namrīru[awe-inspiring radiance]N$namrīri; +litbušu[clothed]AJ$; +malû[full]AJ$; pulhāti[fear(someness)]N
+
+4. ($___$) !cm lu-ba-ri ša₂ x [x x x x x x x x x x] x lu-u₂ UR.MAH
+#lem: +lubāru[garment]N$lubāri; ša[of]DET; u; u; u; u; u; u; u; u; u; u; u; u; +līʾum[bull]N$lû; nēša[lion]N
+#note: As noted by U. Gabbay, the use of lū is very uncommon in commentaries. He suggests taking it as @i{lû} (i.e. @i{līʾum}), and compares it with @i{Malku} V 58: @i{lû} = @i{nēšu}. He also points out that the @i{lû} may be come from a notarikon analysis of the name of Asalluḫi.
+5. !bs GE# UMUN#{+hi} a-pir AGA ša₂ [me-lam-mu-šu₂ ra]-šub-bat za-a-nu
+#lem: anāku[I]IP; Asalluhi[1]DN; apir[wearing]AJ; agâ[corona]N; ša[of]DET; +melemmu[fearsome radiance]N$melammūšu; rašubbat[terrifying appearance]N; +zaʾnu[adorned]AJ$zānu
+
+6. ($___$) !cm šu-ku-us {gada}TUN₃?# [x x x x x x pi-i iṣ]-ṣi# : ši-ir-mu ina ŠA₃ {mul₂}AB.SIN₂
+#lem: +šukūsu[(a divine headdress)]N$; X; u; u; u; u; u; u; pî[mouth]N; iṣṣi[tree]N; širmu[vessel]N; ina[in]PRP; libbi[interior]N; Šerʾu[Furrow]CN
+
+#note: Compare Ea III 2: [... GAD.TÙ]N : @i{ga-da tùn}-[@i{na-ku} : @i{šu-ku-su šá} GAD.TÙN]. Geller restores the lacuna as gada.@i{t}[@i{a-kil-ti šá} NA₄ @i{pi-i iṣ}]-@i{ṣi}, after l. 29. Since line 23 reads GURUN @i{pi-i iṣ-ṣi}, it seems possible that the present line contains yet another variation of the phrase. The exact meaning of the phrase is uncertain; U. Gabbay (personal communication) suggests understanding it as a technical term with the meaning "etc.," vel sim. The meaning of @i{širmu} in this context is unclear; in OB the phrase @i{širim qarni}, "@i{širmu} of the horn," is attested. Perhaps it could describe the horns of the headress? [EF]
+7. ($___$) !cm ša₂ me-lam-mu-šu₂ pi x [x x x x x x] x-u dib-ba-aʾ# NU?# SAR{+ar₂}
+#lem: ša[of]DET; melammūšu[fearsome radiance]N; pî[mouth]N; u; u; u; u; u; u; u; u; +dibbu[words]N$dibbāʾ; lā[not]MOD; +šaṭāru[write]V$iššaṭṭar
+
+#note: The meaning of the line remains obscure.
+8. !bs GE UMUN{+hi} ha-tin a-bi-ri-i# mu#-[še-zib en-ši :] !cm dun#-na-mu-u : en-šu₂ : dun-na-mu-u : u₂-la-la
+#lem: anāku[I]IP; Asalluhi[1]DN; +hātinu[protector]N$hātin; +ābirû[weak]N$ābirî; +mušēzibu[saviour]N$mušēzib; enši[weak one]N; +dunnamû[person of lowly status]N$; enšu[weak]AJ; dunnamû[person of lowly status]N; +ulālu[weak]N$
+
+#note: The equations of the second part of the line could come from Erimḫuš IV 168 (sig-ga = enšu, ulālu, dunnamû) or Malku IV 47 (dunnamû = enšu, ulālu).
+9. ($___$) !cm {mul₂}ERIN₂ SI {mul₂}GIR₂.TAB : x# [x x x]-MEŠ-šu₂ ana il₂#-me-šu₂ GUR* ni-ši i-na IGI NU.GIG.ME
+#lem: +Zibānītu[]CN$; qaran[horn]N; Zuqaqipu[Scorpion]CN; u; u; u; u; ana[according to]PRP; +elmēšu[amber]N$; +târu[turn]V$itūr; nišī[people]N; ina[in]PRP; pān[front]N; +qadištu[(a type of priestess)]N$qašdāti
+
+#note: mul.(giš.)ERÍN is @i{zibānītu}, "Libra," which is called "pincers of Scorpio," as in the present line, also in @i{Mulapin} I ii 11. It is uncertain how the end of the line should be interpreted.
+10. ($___$) !cm ina ŠA₃ GIR₂.TAB IGI-MEŠ šu₂-nu x [x (x) ina] ma#-har AGA ša₂ {d}ši-da-da NU IGI-MEŠ
+#lem: ina[in]PRP; libbi[interior]N; Zuqaqipu[Scorpion]CN; +amāru[see]V$ittanammarū; šunu[they]IP; u; u; u; ina[in]PRP; mahar[presence]N; agâ[corona]N; ša[of]DET; +Šidada[]DN$; lā[not]MOD; inaṭṭalū[face]V
+
+#note: On the goddess Šidada, see Krebernik RlA 12 p. 452. No astral counterparts of Šidada are known, and thus it is not clear how to interpret the present line. 
+11. ($___$) !cm lib₃-bu-u₂ {d}15-MEŠ SAG#.DU-šu₂-nu KUD MUL₂ MU gab-bi KI {mul₂}GIR₂.TAB
+#lem: libbū[meaning]PRP; +ištaru[goddess]N$ištarāti; qaqqadišunu[head]N; +nakāsu[cut]V$innakkisū; kakkabi[star]N; šatti[year]N; gabbi[all]N; +qaqqaru[ground//district]N'N$qaqqar; Zuqaqipu[Scorpion]CN
+
+12. !cm GE UMUN{+hi} mu-up-pir ID₂-MEŠ mu#-kin# na-piš-tu₂ KUR : !cm ID₂-ME KI {mul₂}GIR₂.TAB tam-ti₃
+#lem: anāku[I]IP; Asalluhi[1]DN; +muppiru[digger?]N$muppir; nārāti[river]N; mukīn[establisher]N; napištu[throat]N; mātu[land]N; nārātu[river]N; +qaqqaru[ground//district]N'N$qaqqar; Zuqaqipu[Scorpion]CN; tâmti[sea]N
+
+#note: On @i{zuqiqīpu tâmti}, compare the equation mul.GÍR.TAB (=) d.@i{iš-ḫa-ra} (=) @i{tam-tim} in 5R 46 31 (see Lambert @i{Babylonian Creation Myths}, 2013 p. 245)
+13. ($___$) !cm na-piš-tu₂ ma-a-tu₂ ša₂ DUG₄{+u} : {d}be-let da-ad₂-me
+#lem: napištu[throat]N; +mātu[land]N$; ša[of]DET; +qabû[said]AJ$; +bēltu[lady]N$bēlet; dadmē[inhabited world]N
+
+#note: @i{Bēlet dadmē} is identified with Zuqaqīpu and Išḫara in Mulapin I ii 29, whence the present equation.
+14. !bs GE UMUN{+hi} {lu₂}HAL EŠ.BAR pa-ri-is hal-hal-la : !cm KI {mul₂}PA.BIL.SAG
+#lem: anāku[I]IP; Asalluhi[1]DN; bārî[diviner]N; purussâ[decision]N; pāris[one who decides]N; +halhallu[flour]N$halhalla; +qaqqaru[ground//district]N'N$qaqqar; Pabilsag[1]CN
+
+#note: Geller's translation "who assigns lots" is free; the line probably refers to aleuromancy (for @i{ḫalḫallu} as "flour" see @i{AHw} 311b).
+15. ($___$) !cm {lu₂}HAL u {lu₂}ša₂-ʾ-i-lu : hal-hal-la : HAL : bi-ri : HAL : pi-riš-tu₂
+#lem: bārî[diviner]N; u[and]CNJ; +šāʾilu[asker]N$; halhalla[flour]N; +bīru[divination]N$; +bīru[divination]N$bīri; +pirištu[secret]N$; +pirištu[secret]N$
+#note: The diviner and the dream interpreter are usually associated in Akkadian literature: see CAD Š/1 111a.
+16. !bs GE UMUN{+hi} pe-tu-u₂ sat-tak-ku mu-hal-liq₂ ṣe-nu u rag-gu : !cm SUHUR!.MAŠ ina KI.KAL* ZU ina ad-ri KUR₂*
+#lem: anāku[I]IP; Asalluhi[1]DN; petû[opening]'N; +santakku[triangle//cuneiform wedge]N'N$; +muhalliqu[destroyer]N$muhalliq; +ṣēnu[evil]N$; u[and]CNJ; raggu[wicked]AJ; Suhurmašu[Goatfish]CN; ina[in]PRP; dannati[distress]N; īdû[know]V; ina[on]PRP; adri[dark]AJ; nakri[enemy]N
+
+#note: Geller transcribes the end of the line as: SUHUR.MAŠ @i{ina qí-bit-su ina-aṭ-ṭal} DÙ. The last sign is probably KÚR, rather than DÙ: KÚR at the end of the line sometimes indicates a corruption in the line, but it is unclear whether the present KÚR represents one such .
+17. ($___$) !cm šu-pul me-e mu-u₂-tu₂ [:] šu#-pul ša₂ AN{+e} šu₂-u* : E₂# ni-ṣir-tu₂ ša₂ {d}ṣal-bat-a-nu
+#lem: šupul[minimum latitude]N; mê[water]N; mūtu[death]N; šupul[minimum latitude]N; ša[of]DET; šamê[heaven]N; šū[that]IP; bīt[house]N; niṣirtu[secret]N; ša[of]DET; Ṣalbatanu[Mars]'DN
+
+#note: The phrase @i{šupul mê mūti} appears to be elsewhere unattested. According to Reynolds "Unpropitious Titles of Mars in Mesopotamian Scholarly Tradition" RAI 43 (1998) p. 347-358, here p. 352; the (@i{ašar niṣirti}) of Mars is the Open-Mouthed Storm Demon constellation [EF].
+18. ($___$) !cm MUL ṣar-hu :* ṣar-[x (x)]-hu?# : BUR₃ : ši-la :# BUR₃ : šu-pul : BUR₃ : {d}ṣal-bat*-a*-nu
+#lem: kakkabi[star]N; ṣarhu[hot]AJ; u; u; +šīlu[depression]N$; +šīlu[depression]N$šīla; +šuplu[depth]N$; +šuplu[depth]N$šupul; pilšu[perforation]N; Ṣalbatanu[Mars]'DN
+
+#note: Geller's restoration of the third word, ṣar-[rip-t]u-šú, seems unlikely. Note that, if the explanation is based on the polysemy of the sign BÙR, the equation BÙR = @i{ṣarḫu} would be unattested. The equation between Mars and the sign U also appears to be elsewhere unattested, it may derive from d.U.GUR, "Nergal" [EF].
+19. !bs GE# UMUN{+hi} ša₂ u₄-<mi>-šam-mu pi#-[i ni]-ši# i-hi-ṭu : !cm {mul₂}gu#-la# :# {d}BAD : {d}a-la-la : {d}BAD
+#lem: anāku[I]IP; Asalluhi[1]DN; ša[of]DET; +ūmišam[daily]N$ūmišamma; pî[mouth]N; nišī[people]N; +hiāṭu[supervise]V$ihiṭṭu; u; Ellil[1]DN; alāla[work song]N; Ellil[1]DN
+
+
+#note: The explanation relates the phrase @i{pī nišī}, "people's mouth," to the @i{alāla} song, which is in turn connected with Enlil pseudo-etymologically [EF]. The reading @akk{{mul₂}gu#-la#} is courtesy of Frances Reynolds.
+20. ($___$) !cm {d}a-la-la [ina pi-i] ni-ši li-in-na-bi : {d}BAD ša₂ ina pi-i ni-ši šak-nu
+#lem: alāla[work song]N; ina[in]PRP; pî[mouth]N; nišī[people]N; +nabû[name]V$linnabi; Ellil[1]DN; ša[of]DET; ina[in]PRP; pî[mouth]N; nišī[people]N; šaknu[provided with]AJ
+
+#note: The first half of the line appears to be a literary quotation.
+$(reverse)
+21. !bs GE# UMUN{+hi} ša₂ ša₂-ru-<ru>-šu₂ u₂-nam#-[ma-ru KUR].KUR-MEŠ : !cm KI {mul₂}KUN-MEŠ {iti}ŠE U₄ 20.KAM
+#lem: anāku[I]IP; Asalluhi[1]DN; ša[of]DET; šarūrūšu[brilliance]N; unammaru[shine]V; mātāti[land]N; +qaqqaru[ground//district]N'N$qaqqar; Zibbatu[Tails]CN; Addaru[1]MN; ūm[day]N; n
+
+#note: The connection between Pisces and Addaru is due to the fact that they are both the 12th (zodiac sign and month). The ritual described may be on the 20th because 20 is Šamaš's number [EF]. Note that the "Offering Bread Hemerology" prescribes an offering to Enlil and Ninlil on the 20th of Addaru (Livingstone, Hemerologies of Assyrian and Babylonian Scholars, CUSAS 25, 2013, p. 148).
+22. !cm ša₂ ni-ši ŠUK-MEŠ-ši-na ana {d}UTU [GAR-ma ma-aq]-qi₂-tu₂ ša₂ U₄ 20.KAM ša₂ {iti}ŠE ša₂ ni-ši IGI-MEŠ-ši-na
+#lem: ša[of]DET; nišī[people]N; +kurummatu[food allocation]N$kurummatīšina; ana[according to]PRP; Šamaš[1]DN; iššakkanma[take place]V; +maqqītu[libation]N$; ša[of]DET; ūm[day]N; n; ša[of]DET; Addaru[1]MN; ša[of]DET; nišī[people]N; +īnu[eye]N$īnīšina
+
+#note: The second and third lines of the reverse are not indented.
+23. !cm i-qa-a EN₂ {d}UTU U₄ 20.[KAM U₄-ka] nam#-ri GURUN pi-i iṣ-ṣi : ša₂-niš ana UGU ša₂-ru-ru ša₂ {d}UTU DUG₄
+#lem: +eqû[anoint]V$īqâ; šiptu[incantation]N; Šamaš[1]DN; ūm[day]N; n; ūmika[day]N; namri[bright]AJ; inib[flower]N; pî[mouth]N; iṣṣi[tree]N; šanîš[alternatively]AV; ana[according to]PRP; muhhi[account]N; šarūru[brilliance]N; ša[of]DET; Šamaš[1]DN; +qabû[said]AJ$
+
+#note: The collation of the signs at the end (DUG₄ rather than DUG₄-ú, as trasnliterated by Geller) is courtesy of U. Gabbay. The incantation whose incipit is cited here is attested in 83-1-18,237 (BWL p. 341 and pl. 57). The relationship of the phrase GURUN @i{pi-i iṣ-ṣi} (see also l. 29), with the rest of the line is uncertain. @i{iṣṣi} could be "weapon" or, as a verb, "it becomes smaller"; it could also be, as suggested by U. Gabbay (privatim), a technical term with the meaning "etc.," vel sim. (see above note on l. 6). 
+24. !bs GE UMUN{+hi} bir-bir-ru-šu₂ ub-[ba-tu₂ BAD₃ NA₄ :] !cm ana UGU {mul₂}HUN.GA₂ 5 $UŠ EGIR GIŠ.ŠU₂
+#lem: anāku[I]IP; Asalluhi[1]DN; +birbirrū[radiance]N$birbirrūšu; +abātu[destroy]V$ubbbatu; dūri[city wall]N; abnu[stone]N; ana[on]PRP; muhhi[top]N; Agru[Hireling]CN; n; u; arki[after]PRP; šīlān[at sunset]AV
+
+25. ($___$) !cm ša₂ {mul₂}{lu₂}HUN.GA₂# [x x x x] x ša₂ {d}30 {d}UTU ana UGU KUR{+du} ul-tu {d}UTU
+#lem: ša[of]DET; Agru[1]CN; u; u; u; u; u; ša[of]DET; Sin[1]DN; Šamaš[1]DN; ana[on]PRP; muhhi[top]N; ikaššadū[arrive]V; ultu[from]PRP; Šamaš[1]DN
+
+26. ($___$) !cm ina {giš}RIN₂ KUR{+ha#} [x x x (x)] ina IGI {d}UTU GUB BAD₃ NA₄ : AGA {d}30
+#lem: ina[in]PRP; gišrinna[scales]N; ippuha[rise]V; u; u; u; u; ina[in]PRP; pān[front]N; Šamaš[1]DN; izziz[stand]V; dūri[city wall]N; abnu[stone]N; agâ[corona]N; Sin[1]DN
+
+#note: Geller transliterates the first part of the line as @i{ina} giš.@i{gú-ḫ}[@i{a-áš-ši}.
+27. ($___$) !cm it-ti ni-[x x x (x)] GIN#{+na} : a-di {d}30 ub-ba-tu₂ BAD₃ NA₄
+#lem: itti[with]PRP; u; u; u; u; +kânu[be(come) permanent]V$ikūna; adi[until]PRP; Sin[1]DN; ubbbatu[destroy]V; dūri[city wall]N; abnu[stone]N
+
+28. ($___$) !cm ana UGU AGA [x x x x] x : {d}UTU ana KI NA₄ ša₂ {d}30 {na₄}A.SAG : SAG₃
+#lem: ana[on]PRP; muhhi[top]N; agâ[corona]N; u; u; u; u; u; Šamaš[1]DN; ana[towards]PRP; +ašru[place]N$ašar; abnu[stone]N; ša[of]DET; Sin[1]DN; +asakku[(a stone)]N$; +mahāṣu[beat//beating]V'N$
+
+29. ($___$) !cm {lu₂}HUN.GA₂ : x [x x x x] {mul₂#}KUŠU A₂.SAG₃ ša₂-niš ana UGU zi-mi ša₂ {d}UTU ša₂ KUR{+u₂} ša₂ NA₄ pi-i iṣ-ṣi
+#lem: +agru[hireling]N$; u; u; u; u; u; +Alluttu[crab]CN$; asakku[(a demon or illness)]N; šanîš[alternatively]AV; ana[according to]PRP; muhhi[account]N; zīmi[countenance]N; ša[of]DET; Šamaš[1]DN; ša[of]DET; šadû[mountain]N; ša[of]DET; abnu[stone]N; pî[mouth]N; iṣṣi[tree]N
+
+30. !bs GE UMUN{+hi} er-šu₂ it-pe-šu₂ ša₂ šu#-[tu-ru ha-si-sa :] !cm ŠA₃* AB₂.AB₂ AB₂.AB₂ {d}IDIM ha-si-si : {d}IDIM
+#lem: anāku[I]IP; Asalluhi[1]DN; +eršu[wise]N$; +itpēšu[expert]N$; ša[of]DET; šūturu[supreme]AJ; hasīsa[wisdom]N; libbu[heart]N; +Zappu[Plejades]CN$; +Zappu[Plejades]CN$; Ea[1]DN; hasīsi[wisdom]N; Ea[1]DN
+
+#note: Compare the writing @akk{reš-tu₂ ša₂ MUL₂.[MUL₂ MUL₂].MUL₂ ša₂ MUL₂.MUL₂}, “The first portion of Tau[rus (is called) ‘Tau]rus of Taurus,’ in @i{LBAT} 1499 r 32. Ea and Ayyāru, and Ayyāru and the Plejades, are linked in a number of texts, whence the present explanation. Frances Reynolds (private communication) suggests understanding the line as @akk{[ina] ŠA₃ AB₂.AB₂ AB₂.AB₂}, i.e. [@i{ina}] @i{libbi zappi zappu}, ‘[con]cerning the Bristle, the Bristle (is).’
+
+31. !bs GE UMUN{+hi} ša₂ {giš}TUKUL-šu₂ a-bu-bu# [ez-zu : !cm {mul₂}]ZUBI# kak-ku ša₂ ŠU-MIN {d}AMAR.UTU gam-lu
+#lem: anāku[I]IP; Asalluhi[1]DN; ša[of]DET; kakkišu[weapon]N; abūbu[flood]N; ezzu[violent]AJ; +Gamlu[bent stick]CN$; kakku[Weapon (on liver)]N; ša[of]DET; qātī[hand]N; Marduk[1]DN; +gamlu[bent stick]N$
+
+#note: The sobriquet of Auriga is also attested in 5R 46/1 l. 3, see Rochberg "Marduk in Heaven" Fs Hunger (2007) p. 433-442, here 435.
+32. ($___$) !cm šag-gi-šu₂ : qab-[lu? x x] šag#-ga-šu₂ MUŠ# im-tu₂ : mu-bal-li-ṭu
+#lem: šaggišu[murderous]AJ; qablu[battle]N; u; u; šaggāšu[murderer]N; ṣerru[snake]N; imtu[poison]N; muballiṭū[reviver]N
+
+#note: ZUBI = GÀM = PAP.NÁ is equated with @i{šagāšu} in a number of lexical lists (see CAD Š/3 66-67), hence the present equation. Geller restores @i{qab}-[@i{lu}] @i{šaggāšu}, but there seems to be room for several more signs.
+33. ($___$) !cm ZUR!(AMAR) ez-zu : ni-x [x x x x] ina lib₃-bi MU ša₂ {d}AMAR.UTU qa-bi!(TI)
+#lem: +ezzu[furious]AJ$; +ezzu[furious]AJ$; u; u; u; u; u; ina[in]PRP; libbi[interior]N; +šumu[name]N$šumi; ša[who]REL; Marduk[1]DN; qabi[said]AJ
+
+#note: The first sign is transliterated by Geller as BI (@akk{bi-iṣ-ṣu₂}), but it looks rather like AMAR [EF]. The emendation @akk{qa-bi!(TI)} is Lambert’s. ZUR = @i{ezzu} may be based on šúr = @i{ezzu}, a very common equation [EF]; the line may thus be an etymological analysis of the name of Marduk to demonstrate that his name means the same as the line from Marduk's Address. Alternatively, as proposed by U. Gabbay (private communication), the line might reflect a pseudo-etymology of the name of Marduk that was common in Antiquity, and is in fact attested elsewhere, as @akk{{d}MAR-URU₅-{giš}TUKUL}, “a flood of weapons,” which fits well with the line from “Marduk's Address.”
+34. !bs [GE] UMUN{+hi} ša₂ ina di-pa-ri-šu₂ i-qa-mu#-[u₂ a-a]-bi# u lem-nu : !cm {d}GIRA₃ nu-u₂-ri ša₂ IGI {d}en-me-šar₂-ra
+#lem: anāku[I]IP; Asalluhi[1]DN; ša[that]REL; ina[in]PRP; +dipāru[torch]N$dipārīšu; +qamû[burn (up)]V$iqammû; ayyābi[enemy]N; u[and]CNJ; lemnu[evil one]N; +gīru[fire(-god)]N$; +nūru[light]N$; ša[of]DET; +pānu[front]N$pān; +Enmešarra[]DN$
+
+#note: The constellation of Enmešarra is part of the ŠU.GI constellation (Hunger & Pingree MUL.APIN. An Astronomical Compendium in Cuneiform, AfO Beih 24, 1989, p. 125b).
+35. !bs [GE UMUN{+hi} {d}en-lil₂] DINGIR-MEŠ a-ši-ir [kib-rat : !cm KI?] {mul₂}{giš}GIGIR {d}en-me-šar₂-ra : {d}en-lil₂
+#lem: anāku[I]IP; Asalluhi[1]DN; Ellil[1]DN; ilāni[god]N; āšir[inspector]N; kibrāt[edge]N; +qaqqaru[ground//district]N'N$qaqqar; +Narkabtu[Auriga]CN$; Enmešarra[1]DN; Ellil[1]DN
+
+#note: Compare @akk{e₂ {giš}gigir {d}en-lil₂-la₂} = [MI]N @akk{{d}en-me-šar₂-ra}, "The chariot house of Enlil is Enmešarra's [abo]de," in CT 46 51 o 12 (Lambert, @i{Babylonian Creation Myths}, 2013, p. 284).
+36. !bs [GE UMUN{+hi} re-ʾ-u₂ kiš-šat ni]-ši ṣu#-[lul kal da]-ad₂#-me : !cm {mul₂}SIPA.ZI.AN.NA re-ʾ-um
+#lem: anāku[I]IP; Asalluhi[1]DN; +rēʾû[shepherd]N$; kiššat[all]N; nišī[people]N; ṣulūl[protection]N; kal[all]N; dadmē[inhabited world]N; Šitaddaru[Orion]CN; +rēʾû[shepherd]N$rēʾûm
+
+37. ($___$) !cm [x x x x x x x x x x] {d}i₃-li₂-ab-rat : DINGIR-MEŠ ab-ra-a-ti
+#lem: u; u; u; u; u; u; u; u; u; u; +Iliabrat[]DN$; ilāni[god]N; abrāti[populace]N
+
+#note: The line etymologizes the god name Iliabrat as ili abrāti. DINGIR-MEŠ is probably a singular, referring to Iliabrat. On the equation between Iliabrat and Sipazianna, cf. Wiggermann RlA 9 500a. The first half of the line could probably be restored as [múl.SIPA.ZI.AN.NA : d.Pap-sukkal : d.NIN.ŠUBUR :] d.ì-lí-ab-rat : DINGIR-MEŠ ab-ra-a-ti.
+$ single ruling
+38. !zz [x x x x x x x x x x x x x {m}]{d}ŠA₃.ZU-per-ʾu-uṣ-ru A {m}e-ṭi#-[ru]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; +Marduk-perʾu-uṣur[]PN$; aplu[son]N; +Eṭiru[]PN$
+
+@translation labeled en project
+
+@label 1 - 2
+
+["I am Asalluḫi, warrior of the gods, commander of Anduruna" (= @i{Marduk's Address} 60): (Andurunna is) @i{the lair}] of Anzû, who was born in Šaršar [...] and Ningišzida, [...].
+
+@label 3 - 4
+
+"I am Asalluḫi, [sheathed in] radiance, [full] of awe" (= @i{Marduk's Address} 61) (refers to the) dress of [...]. @i{lû} means "lion."
+
+@label 5 - 7
+
+"I am Asalluḫi, who wears the tiara [of glory], adorned with an aura" (= @i{Marduk's Address} 62) (refers to the) headdress of ... [...] @i{etc.} (@i{pî iṣṣi}); (refers to the) vessel in the center of the constellation Spica, whose glory [...] @i{words that are not} written.
+
+@label 8 - 11
+
+"I am Asalluḫi, the protector of the weak, the def[ender of the feeble]" (= @i{Marduk's Address} 63); "humble" means "feeble," "humble" means "helpless." (It refers to) Libra, the pincers of Scorpio. They are seen inside of Scorpio, [...] his ... are turned into amber, @i{the people in the presence of the hierodules}, they are not seen in front of Šidada's crown. It is as if the goddesses @i{cut} their heads. @i{A star (visible) throughout the whole year}. Region of Scorpio.
+
+@label 12 - 13
+
+"I am Asalluḫi, who @i{brings across} the canals and establishes the life of the country" (= @i{Marduk's Address} 64); the "canals" (are) the region of Scorpio, (since Scorpio is) the sea. What it said, "the life of the country," (means that Išḫara, i.e. Scorpio is) lady of all inhabited regions.
+
+@label 14 - 15
+
+"I am Asalluḫi, the diviner of the divine decision, the divider of flour (@i{ḫalḫalla})" (= @i{Marduk's Address} 65); region of Sagittarius. (It refers to) the diviner and the dream interpreter, (since) ḪAL means "extispicy" and ḪAL means "secret."
+
+@label 16 - 18
+
+"I am Asalluḫi, who reveals the cuneiform script, who destroys the evil and the foe" (= @i{Marduk's Address} 66); (it refers to) the Capricorn, @i{which is known in hardship, but it is strange durign threshing time}. The "depths of water of death" are the depths of heaven, (i.e.), the hypsoma of Mars, (i.e.), the flashing start, (i.e.) ... [...]. BÙR means "hole," BÙR means "depth," BÙR means "Mars."
+
+@label 19 - 20
+
+"I am Asalluḫi, who daily examines the mo[uth of the peo]ple" (= @i{Marduk's Address} 67); (refers to) the constellation ..., (i.e.), Enlil, (since) the @i{alāla}-song is Enlil('s). (Thus the line) "let the @i{alāla}-song be praised in the mouth of the people," means that Enlil is placed in the mouth of the people.
+
+@label 21 - 23
+
+"I am Asalluḫi, whose splendor illumina[tes all the la]nds" (= @i{Marduk's Address} 67); region of Pisces. (It refers to) the 20th of Addaru, when people [present] their offerings to Šamaš; [the liba]tion vessel of the 20th of Addaru, when people smear their eyes (and recite the) incantation, "Šamaš, the 20[th is your bri]ght day"  (= incipit of an incantation); fruit @i{etc.} (@i{pî iṣṣi}). Alternatively, (the line) is said on account of the rays of the sun.
+
+@label 24 - 29
+
+"I am Asalluḫi, whose radiance de[stroys stone walls]" (= @i{Marduk's Address} 70) (it is said) on account of Aries, 5° behind @i{west} of Aries [...] of the moon and the sun, on account of the @i{arrival}, since the sun rises in Libra [...] stands in front of the sun (is) a stone wall; the tiara of the moon is visible together with [...]; until the moon destroys it, (it is) a stone wall. On account of the tiara [...] ... The sun @i{to the place} of the stone of the moon is the @i{asakku}-stone, (i.e.,) SÀG (= "to smite"), Aries [...] Cancer (@i{is the}) @i{asakku}-demon. Alternatively, it refers to the face of Šamaš of the stone mountain, @i{etc.} (@i{pî iṣṣu}).
+
+@label 30
+
+"I am Asalluḫi, the wise and expert, whose [intelligence is surpassing]" (= @i{Marduk's Address} 71); (it refers to) the center of the Taurus of Taurus constellation, (i.e., to) Ea @i{of} wisdom, i.e., Ea (or, Enlil?).
+
+@label 31 - 33
+
+"I am Asalluḫi, whose weapon is the [fierce] flood" (= @i{Marduk's Address} 72); (it refers to) Auriga, the weapon in the hand of Marduk, the throwing-stick. Murderous [...] @i{combat}, poisonous snake – who brings back to life. AMAR means "fierce" [...]: it is @i{said} in the very name of Marduk.
+
+@label 34
+
+["I am Asallu]ḫi, who with his torch burns the enemy and the wicked" (= @i{Marduk's Address} 73); (it refers to) Girra, the light in front of Enmešarra.
+
+@label 35
+
+["I am Asalluḫi, Enlil of] the gods, the guardian [of the four quarters]" (= @i{Marduk's Address} 74); [region] of the Chariot of Enmešarra, i.e., Enlil.
+
+@label 36 - 37
+
+["I am Asalluḫi, shepherd of all the peopl]es, shel[ter of all the inha]bited lands" (= @i{Marduk's Address} 74); (it refers to) Sipazianna, the shepherd; [...] is Iliabrat, i.e., the god of humankind.
+
+@label 38
+
+[... of] Marduk-perʾu-uṣur, descendant of Ēṭiru. 

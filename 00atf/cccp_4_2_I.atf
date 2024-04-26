@@ -1,0 +1,134 @@
+&P348473 = CCP 4.2.I (http://ccp.yale.edu/P348473) = W 22307/38
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz [...] x-$TAB x#
+#lem: u; u; u
+
+2. !zz [...] GAZI?#{sar?#} [x x x x] : !bs GUR.GUR-ma !cm ša₂ E{+u}
+#lem: u; kasâ[mustard]N; u; u; u; u; +kapāru[wipe (clean)]V$tukapparma; ša[that]REL; +qabû[said]AJ$ +.
+
+3. !zz [...]-x#-su ina ŠA₃# x# $U₂# x# $NAM $AB $LU
+#lem: u; ina[in]PRP; libbi[interior]N; u; u; u; u; u; u
+
+4. !zz [...]-x#-šu !cm ta-zar-ru : !bs U₃.BU.BU.UL !cm : bu-bu-tu₄
+#lem: u; +zarû[winnow//scatter]V$tazarru +.; +bubuʾtu[boil]N$; +bubuʾtu[boil]N$
+
+5. !zz [... !bs nu]-pu#-ul !cm : na-pal : !bs e-ke-ka !cm : e-ge-gi
+#lem: u; +napālu[dig//digging]V'N$nuppul; napāl[digging]'N; +ekēku[scratch//scratching]V'N$ekēka; +ekēku[scratch//scratching]V'N$egēgi
+
+6. !bs [ek]-ke#-tu₄ ri-šu-tu₄ : !qt SU.GU₂ SA.GU₂ 
+#lem: +ekketu[itching]N$; +rišûtu[(a skin disease)//redness]N$; +kissatu[(action of) gnawing//(an illness)]N$; +ekketu[itching]N$
+
+
+7. !qt [SA].UMBIN#.AG.AG : ki-is-sa-tu₄ ek-ke-tu₂ ri-šu₂-tu₂
+#lem: +rišûtu[redness]N$; kissatu[(an illness)]N; +ekketu[itching]N$; rišûtu[redness]N
+
+#note: The sequence su.gú sa.gú sa.umbin.ag.ag || @i{kissatu ekketu rišûtu} is probably a quotation from @i{Muššuʾu} VI 12.
+
+8. !bs [ha-ah-hu] !cm : su-alu : !bs ŠA₃.NIGIN₂ !cm : HUR.BA.LUH : BAR.ZI.LUH
+#lem: hahhu[phlegm]N; +suʾālu[cough//phlegm]N$; u; u; +suʾālu[cough//phlegm]N$
+
+#note: The restoration at the beginning is Hunger's (see @i{SpTU} 1 [1976] p. 63a ad loc). For the word at the end, cf. @i{Šurpu} VII 29, bar.zi.ud || ḫu-ḫu-luḫ-ḫa
+
+9. !zz [x x x] x#-u₂-lu* !cm ša₂-niš su-a-a-lu ha-ah#-ha
+#lem: u; u; u; u; šanîš[alternatively]AV; +suʾālu[cough//phlegm]N$; +hahhu[phlegm]N$hahha
+
+10. !cm [BAR?.ZI?.LUH? :?] ha#-ah-hu : BAR.ZI : ka-bat-tu₂ : LUH : a-ba-[lu]
+#lem: suʾālu[phlegm]N; +hahhu[phlegm]N$ +.; +kabattu[liver//mood]N$; +kabattu[liver//mood]N$; salāhu[sprinkling]'N; abālu[drying (up)]'N
+
+#note: @i{Si vera lectio}, the equation @akk{LUH} = @i{abālu} would be elsewhere unattested, but compare @akk{UD} = @i{abālu}. Note that @akk{BAR.ZI} = @i{kabattu} is also elsewhere unattested, but cp. the common equation @akk{BAR} = @i{kabattu}.
+
+11. !zz [x x x x] !cm ša₂# tar-bu-ti : !bs ka-mun ŠINIG !cm : {na₄}ga-[bu-u]
+#lem: u; u; u; u; ša[of]DET; +tarbûtu[novice]N$; +kamūnu[cumin]N$kamūn; bīni[tamarisk]N; gabû[alum]N
+
+
+12. !zz [(x x) x x] x-u !cm UZU.DIR ša₂ ina SUHUŠ ŠINIG a-ṣu-[u₂]
+#lem: u; u; u; u; u; +kamūnu[(a fungus)]N$; ša[that]REL; ina[on]PRP; šuruš[root]N; bīni[tamarisk]N; +wāṣû[going out//appearing]AJ$āṣû
+
+#note: The equation @i{kamūn bīni} = @i{gabû} and subsequent explanation of the present line is also attested in the @i{Qutāru} commentary @i{BRM} 4 32 22 (CCP 4.2.M.a).
+
+13. !zz [(x x) x x]-ti₃ : !bs ka#-mu#-nu?# x#-ša₂ !cm : {u₂*}a-zu-pi*#-[ru]
+#lem: u; u; u; u; +kamūnu[cumin]N$; u; +azupīru[saffron]N$
+
+#note: Compare perhaps @akk{{ú}ŠUR.ŠUR} = @i{azupīru} in @i{CAD} A/2 530b.
+
+14. !zz [(x x) x x]-tas#-su : !bs ša₂-hur-[ra?-tu₄?] GIG#-ma !cm : ša₂-hur-ra-[tu₄?]
+#lem: u; u; u; u; +šahurratu[deathly hush]N$; maruṣma[sick]AJ; šahurratu[deathly hush]N
+
+15. !zz [(x x) x x]-x#-ṭi : lu-ba-ṭu : [x] $HU $A $A x [...]
+#lem: u; u; u; u; +lubādu[(a disease)]N$lubāṭu; u; u; u; u; u; u
+
+16. !zz [(x x) x x] x#-u₂-tu x# $TAB : ša₂ x# [(x)] x# $ŠA₃ x# [...]
+#lem: u; u; u; u; u; u; u; ša[of]DET; u; u; u; u; u; u
+
+17. !zz [(x x) x x] a#-na si?#-mat e-bu-ru [...]
+#lem: u; u; u; u; ana[to]PRP; +simtu[appropriate symbol]N$simat; +ebūru[summer]N$; u
+
+
+18. !zz [x x x] $KAM $A x# x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u
+
+19. !zz [x x x] x [...]
+#lem: u; u; u; u; u
+
+$ end of obverse missing
+
+@translation labeled en project
+
+@label o 1
+
+...
+
+@label o 2
+
+[...] @i{mustard} [...] What it says, GUR.GUR-@i{ma}, means [...].
+
+@label o 3
+
+...
+
+@label o 4
+
+[...] ... you scatter (it). @i{ù.bu.bu.ul} means "boil."
+
+@label o 5
+
+[...] @i{nuppul} derives from "to dig out." @i{ekēku} means "to scratch."
+
+@label o 6 - o 7
+["It]ching (and) redness," (it is as) @i{su.gú sa.gú sa.umbin.ag.ag} || 'gnawing'-disease, itching (and) redness" (quotation from @i{Muššuʾu} VI 12).
+
+@label o 8 - o 10
+
+[@i{ḫaḫḫu} (?)] means "phlegm." "@i{Instestines}" @i{means ḫur.ba.luḫ}. @i{bar.zi.luḫ} means [...] ... . Alternatively, "cough" means "phlegm," (because) [@i{bar.zi.luḫ}] means "phlegm," (because) @i{bar.zi} means "innards" and @i{luḫ} means "to dr[y up"].
+
+@label o 11 - 13
+[...] @i{said} of @i{seedling}. "Cumin (@i{kamūnu}) from tamarisk" means "alum," [...] (i.e.), a fungus (@i{kamūnu}) that appears in the roots of a tamarisk. [...] @i{cumin} @i{means} (?) "saffron."
+
+@label o 14
+
+[...] ... "He suffers from @i{šahurratu}" (?), @i{šahurratu} (?) @i{means} [...].
+@label o 15
+
+[...] ... @i{lubāṭu}-disease ... [...]
+
+@label o 16
+
+...
+
+@label o 17
+
+[...] @i{appropriate} for summer [...]
+
+@label o 18 - 19
+
+...
+
+$ end of obverse missing
+

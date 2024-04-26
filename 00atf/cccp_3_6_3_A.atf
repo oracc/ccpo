@@ -1,0 +1,234 @@
+&P415763 = CCP 3.6.3A (http://ccp.yale.edu/P415763) = Private Collection
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !zz BE iz-bu SAG.DU UR.MAH GAR NUN LUGAL{+tu₂} ŠU₂{+tu₂} DAB{+bat}
+#lem: šumma[if]MOD; izbu[anomaly]N; qaqqad[head]N; nēši[lion]N; šakin[provided with]AJ; rubû[prince]N; šarrūtu[kingship]N; kiššatu[world]N; iṣabbat[seize]V +.
+
+2. !bs meṭ-lu-tu₂ DU{+ak} !cm me₂-eṭ-lu-tu₂ : ši-bu-u₂-tu₂ : MIN : lit-tu-tu₂
+#lem: +meṭlūtu[manhood//mature age]N$; +alāku[go//reach]V$illak +.; +meṭlūtu[manhood//mature age]N$; +šībūtu[old age]N$; šanîš[alternatively]AV; +littūtu[(extreme) old age]N$ +.
+
+#note: As noted by Finkel (2006: 141), the spelling @akk{me₂-eṭ-lu-tu₂} enables the correction of Leichty’s interpretation of @akk{BAD-lu-tu} in the protasis of @i{Šumma Izbu} VII 3. The word @i{meṭlūtu} is also commented on in the commentary @i{CCP} 3.6.3.D (l. 14), on @i{Šumma Izbu} XIV (line unpreserved), where it is again equated with @i{littūtu} as well as with @i{itbarūtu}, “skill.”
+
+3. !bs KUR ina ṭe-em ra-ma-ni-šu₂ i-tak-kal !cm : it-ku-lu : ha-ra-ṣu
+#lem: mātu[land]N; ina[on]PRP; ṭēm[initiative]N; ramānišu[self]N; ītakkal[devastate]V +.; +akālu[eat//devastating]V'N$itkulu; +harāṣu[break off//breaking off]V'N$ +.
+
+#note: As Finkel (2006: 141) notes, this line comments on l. 32 of @i{Šumma izbu}, which is preserved only in @i{SpTU} 4 no. 142 l. 21. The Principal Commentary, l. 254b-c, comments on the same phrase. Finkel also suggests that, on the basis of its attestation here, the verb @i{harāṣu} may have the nuance “to diminish.”
+
+4. !bs KUR{+tu₂} DU !cm : KUR ṭar-du-tu : KUR : hub₂-tu : ṭar-du : ra-ad-du
+#lem: +ṭarīdūtu[condition of fugitive]N$ṭardūtu; illak[go]V +.; +ṭarīdūtu[condition of fugitive]N$ṭardūtu; +ṭarīdūtu[condition of fugitive]N$ṭardūtu +.; +hubtu[robbery//(human) captives]N$; +hubtu[robbery//(human) captives]N$; ṭardu[fugitive]N; +raddu[pursued one]N$ +.
+
+#note: The reading of the initial signs as KUR-@akk{tu₂} DU rather than as KUR E₃ (so Finkel 2006) follows Gabbay (NABU 2009/3 no. 53 p. 69). As Gabbay notes, with the help of the Principal Commentary to @i{Šumma Izbu} VII, line 257, the entire protasis can be reconstructed as “The ruler will go into exile in a land not his own,” which also occurs in an extispicy omen. The reading @akk{hub₂-tu} rather than @akk{kab-tu} (so Finkel) in the line's second equation also follows Gabbay.  With respect to the third equation, the same justification for equating “an exile” with “a pursued one” (i.e., @i{ṭardu} with @i{raddu}) is found in the Principal Commentary, l. 254d-e, as Finkel notes.
+
+5. !cm SAR : ṭa-ra-du : SAR : ra-da-du : !bs BE iz-bu SAG.DU-su NU GAL₂-ma
+#lem: ṭarādu[driving out]'N; ṭarādu[driving out]'N; +radādu[chase//chasing]V'N$; +radādu[chase//chasing]V'N$ +.; šumma[if]MOD; izbu[anomaly]N; qaqqassu[head]N; lā[not]MOD; ibaššima[exist]V
+
+6. !bs ina maš-kan₂ SAG.DU-šu₂ UZU ul-lu-ṣu GAR !cm : ul-lu-ṣu ra-bu-u₂
+#lem: ina[in]PRP; maškan[location]N; qaqqadišu[head]N; šīru[flesh]N; +ulluṣu[swollen]AJ$; šakin[located]AJ; ulluṣu[rejoicing]'N; rabû[great]AJ +.
+
+#note: As noted by Finkel (2006: 142), both the Principal Commentary (ll. 261-2) and Commentary V (l. 254f-g) also comment on this line, as does another commentary on @i{Šumma izbu}, CCP 3.6.2.A. The basis for the comment seems to be the different meanings of @i{ulluṣu}, which can mean both “to be (physically) swollen” and “to make joyful.”
+
+7. !bs eš-re-e-tu₂ !cm : E₂-MEŠ : !bs GIM as-suk-ku kup-pu-ut-ma GAR
+#lem: +ešertu[chapel//shrine]N$ešrētu; bītātu[temple]N +.; kīma[like]PRP; +assukku[sling-stone]N$; +kupputu[conglomerated//dense]AJ$kupputma; šakin[located]AJ +.
+
+#note: As noted by Finkel (2006: 142), the equation of @i{ešrētu} with @i{bītātu} is otherwise attested in the Principal Commentary (l. 89), with respect to @i{Šumma izbu} II 19.
+
+8. !cm as-suk-ku ze-er-pi : as-suk-ku : ṭi-id kup-pu-ut
+#lem: assukku[sling-stone]N; X +.; assukku[sling-stone]N; +ṭīdu[clay]N$ṭīd; +kupputu[conglomerated//dense]AJ$kupput +.
+
+#note: The word @i{zerpu} also appears in the Principal Commentary on @i{Šumma Izbu} 12, where it is equated with @i{imšukku}, an equation found elsewhere (see Gabbay, @i{NABU} 2009/3 no. 53 pp. 69-70). According to Finkel (1986: 142), the description of @i{assukku} as @i{ṭīdu kupputu} anticipates the equation of IM.DUGUD with @i{assukku} at the start of the following line.  
+
+9. !cm IM.DUGUD : as-suk-ku : IM : ṭi-id : <<ṭi-id :>> DUGUD : kab-tu₂
+#lem: +assukku[sling-stone]N$; assukku[sling-stone]N +.; ṭīd[clay]N; ṭīd[clay]N; kabtu[heavy]AJ; +kabtu[heavy]AJ$ +.
+
+#note: The equation of IM.DUGUD with @i{assukku} is attested in Hh X 504, Hg A II 132, and Igituh I 320. As noted by Finkel (2006: 142), the phonetic similarity between @i{kupputu} – mentioned in the omen's protasis and in the preceding line of the commentary – and @i{kabtu} (= DUGUD) may have been meaningful to the commentator. The second occurrence of @i{ṭīdu} in this line seems to be a dittography, as noted by M.-F. Besnier in her edition of the text for GKAB.
+
+10. !cm ša₂-niš as-suk-ku : kur-ban-nu : as-suk-ku : ab-nu aṣ-pi
+#lem: šanîš[alternatively]AV; assukku[sling-stone]N; +kirbānu[lump (of earth)]N$kurbannu +.; assukku[sling-stone]N; +abnu[stone]N$; +waṣpu[sling]N$aṣpi +.
+
+#note: Both IM.DUGUD and @i{assukku} are equated with @i{kurbannu} (wr. @i{kirbannu}) in @i{Hg} A, and so this text may have been the commentator’s source for the equation @i{assukku} = @i{kurbannu}in the present line and the equation IM.DUGUD = @i{assukku} in the preceding line.
+
+11. !cm lib₃-bu-u !qt i-kim-šu₂ aṣ-pa-šu₂ as-suk-ka-šu₂ u₂-sah-hi-ir
+#lem: +libbū[from out of]PRP$; +ekēmu[remove//take away]V$īkimšu; +waṣpu[sling]N$aṣpašu; +assukku[sling-stone]N$assukašu; +sahāru[go around//set aside]V$usahhir +.
+
+#note: This is an incomplete quotation of a line from @i{Ludlul Bēl Nēmeqi} III (@i{BWL} p. 56). As noted by Finkel (2006: 142), it is interesting that the commentator casually omits “Marduk” (the subject of both verbs) and “my destroyer” (the owner of the sling and sling-stone) in his quotation of the line.
+
+12. !bs UZU GIM {giš}ŠENNUR ZI{+ih} !cm : na-si-ih : ša₂-kin : MA : na-sa-hu MA ša₂-ka-nu
+#lem: šīru[flesh]N; kīma[like]PRP; +šallūru[plum]N$šallūri; +nashu[torn out]AJ$nasih +.; +nashu[torn out]AJ$nasih; šakin[located]AJ +.; +nasāhu[tear out//tearing out]V'N$; +nasāhu[tear out//tearing out]V'N$ +.; +šakānu[put//placing]V'N$; +šakānu[put//placing]V'N$ +.
+
+#note: For plum-related images in @i{Šumma Izbu} see the passages gathered by Finkel (2006: 142).
+
+13. !qt %sux al-ŋa₂-ŋa₂ al-ŋa₂-ŋa₂ %e ša₃-ba-ni %s nu-sed-da
+#lem: ŋar[place//remove]; ŋar[place]; šab[heart]N/ša₃-b·a#~,ani; sed[cold//rest]V/i'V/i/sed#nu:~;a
+
+14. !qt %sb i-na-as-sa-ah i-šak-kan lib₃-bi-šu₂ ul i-na-hu !cm ina {lu₂}UŠ.<KU>{+u₂-tu₂} qa-bi
+#lem: +nasāhu[tear out//remove]V$inassah; išakkan[place]V +.; libbišu[heart]N; ul[not]MOD; +nâhu[rest]V$inahhu +.; ina[in]PRP; +kalûtu[lamentation priesthood//textual corpus of kalû]N$; qabi[said]AJ +.
+
+#note: The equation of MA with @i{nasāhu} is not otherwise attested. The reading of the penultimate words of the line as @akk{ina! {lu₂!}UŠ.<KU>-u₂-tu₂}, “from the corpus of lamentation priests” (i.e., an Emesal prayer), follows Gabbay's suggestion (@i{NABU} 2006/4 no. 81 p. 81 and @i{NABU} 2009/3 no. 53 p. 70) rather than Finkel, who read @akk{<ina> LUGAL NITA+u₂-tu₂}, “King, heroism” - an otherwise unattested composition. It is unclear from which Emesal prayer the commentator is quoting in this instance.
+
+15. !bs da-kiš !cm : da-ka-šu₂ : du-uk-ku-uš : da-ga-šu₂ : ra-bu-u
+#lem: +dakšu[pressed down]AJ$dakiš +.; +dakāšu[press in//pressing in]V'N$ +.; +dukkušu[pressed down//pierced]AJ$dukkuš +.; +dakāšu[press in//pressing in]V'N$dakāšu +.; +rabû[be(come) big//be(com)ing big]V'N$ +.
+
+#note: The spelling of @i{dakāšu} as @i{dagāšu} is not otherwise attested. As noted by Finkel (2006: 143), the equation of @i{dak/gāšu} with @i{rabû} is also attested in another commentary on @i{Šumma izbu} (@i{CCP} 3.6.2.A, l. 269a). In light of this equation, @i{dakāšu} seems more likely to mean “to swell, bulge” (so @i{AHw} 151) than “to pierce, sting” (so @i{CAD} D 34-5).
+
+16. !bs ši-pir ṭuh-du DU !cm : ši-pi-ir ṭu-uh-du il-lak : šal-ṭiš
+#lem: šipir[message]N; ṭuhdu[abundance]N; illak[come]V; +šipru[sending//message]N$šipir; +ṭuhdu[plenty//abundance]N$; illak[come]V +.; +šalṭiš[imperiously//triumphantly]AV$ +.
+
+#note: Since the Principal Commentary (ll. 270-1) and another commentary on @i{Šumma izbu} (CCP 3.6.2.A) both explain @i{šipir} GABA as @i{šipir irti} (which they then equate with @i{habarattu}, "clamor"), Finkel (2006: 143) suggests that the otherwise unattested expression @i{šipir ṭuhdi} DU is a textual misunderstanding of the phrase @akk{ši-pir GABA DU.DU}. However, the phrase @i{šipir irti} is only attested in these commentaries; its meaning is thus uncertain, and it is not necessarily the correct interpretation of the phrase.
+
+17. !cm lib₃-bu-u !qt ša₂-ad-di-hu <a>-ha-a-a ku-ta-at-tu-mu i-ta-ha-az
+#lem: libbū[from out of]PRP; +šaddihu[far-reaching]AJ$šaddihū; ahaya[arm]N; +kutattumu[clothed//covered]AJ$kutattumū; +ahāzu[take//grasp]V$ītahaz +.
+
+18. !qt ša₂ e-ti-li-iš at-tal-la-ku ha-la-liš al-ma-du
+#lem: ša[who]REL; +etelliš[as a lord]AV$etilliš; +alāku[go]V$attallaku; +halāliš[stealthily]AV$; +lamādu[learn]V$almadu +.
+
+#note: The support provided by these two lines of @i{Ludlul bēl nēmeqi} for the equation made in l. 16 is not as strong as one would expect, and may therefore be further evidence that the author of the commentary did not understand the base text (Frahm 2011: 102 n. 527).
+
+19. !cm ina lud-lul EN <<E₂>> ne₂-me-qa qa-bi !bs ana bu-ul {(he-pi₂)} <({d}GIR₃)>
+#lem: ina[in]PRP; +dalālu[praise]V$ludlul; bēl[lord]N; +nēmequ[wisdom]N$nēmeqa; qabi[said]AJ +.; ana[for]PRP; būl[livestock]N; hepi[broken]AJ; X
+
+#note: As noted by Finkel (2006: 143), the erroneous writing of the sign @akk{E₂} or @akk{KID} after @akk{EN} may have been caused by the frequent sign combination @akk{en-lil₂}. The restoration of Šakkan after @i{būl} follows the suggestion of Finkel (2006: 143).
+
+20. !bs IM ŠEG₃ ana KUR re-še-e-ti LA₂{+a} !cm : KUR re-še-e-tu₂ {(he-pi₂)}
+#lem: šāru[wind]N; zunnu[rain]N; ana[on]PRP; māt[land]N; +rēštu[beginning//peak]N$rēšēti; +maṭû[be(come) little//decrease]V$imaṭṭâ +.; māt[land]N; +rēštu[beginning//peak]N$rēšētu; hepi[broken]AJ +.
+
+21. !cm ša₂-niš ina re-eš šat-ti ša₂-a-ri u zu-un-nu i-ma-aṭ-ṭu-u₂!#
+#lem: šanîš[alternatively]AV; ina[at]PRP; +rēšu[head//beginning]N$rēš; +šattu[year]N$šatti; šāri[wind]N; u[and]CNJ; +zunnu[rain]N$; +maṭû[be(come) little//decrease]V$imaṭṭû +.
+
+#note: As pointed out by Finkel (2006: 143), although this commentary understands the signs IM ŠEG₃ as two words (“wind” and “rain”), another commentary on @i{Šumma izbu} (@i{CCP} 3.6.2.A, l. 271a) understands them as a compound logogram for “rain.” However, as Finkel (2006: 143) also notes, the same commentary (l. 271b) agrees with the present commentary in understanding the phrase @akk{KUR re-še-e-ti} as @i{rēš šatti}, “new year/ beginning of the year.” The reading of the last sign is courtesy of Enrique Jimēnez; it was read by Finkel as @akk{i-ma-aṭ-ṭu E}.
+
+22. !bs na-mur-ra-as-su GABA.RI NU TUKU{+ši} !cm : na-mur-ra-as-su :
+#lem: +namurratu[awe-inspiring radiance]N$namurrassu; +gabarû[copy//rival]N$gabarâ; ul[not]MOD; irašši[acquire]V +.; namurrassu[awe-inspiring radiance]N
+
+$(reverse)
+
+23. !qt NI₂{+ni} : NI₂.GAL : SU.LIM me!-lam₂-ma : pu-luh-tu₂ nam-ri-ir-ri
+#lem: +puluhtu[fear(someness)]N$; +namrīru[awe-inspiring radiance]N$; +šalummatu[radiance]N$; +melemmu[fearsome radiance]N$melamma; +puluhtu[fear(someness)]N$; +namrīru[awe-inspiring radiance]N$namrirri
+
+24. !qt ša₂-lum-ma-tu₂ : me-lam-mu !cm ina ERIM.HUŠ qa-bi
+#lem: šalummatu[radiance]N; +melemmu[fearsome radiance]N$melammu +.; ina[in]PRP; +anantu[battle]N$ananti; qabi[said]AJ +.
+
+#note: As noted by Finkel (2006: 143), the section of @i{Erimhuš} cited by the commentator in ll. 22-24 is otherwise unplaced. For discussion of the “vertical” style of quotation used by the commentator here, see Finkel (@i{ad loc}.) and Frahm (2011: 88-89), both of whom cite Cavigneaux (1976: 151-152).
+
+25. !bs bur-ru-um !cm : bu-ur-ru-um : bur-ru-mu : ba₂-ri-im
+#lem: +burrumu[multicoloured]AJ$burrum; +burrumu[multicoloured]AJ$burrum; +barāmu[be(come) variegated//colouring]V'N$burrumu; +barmu[multicoloured//variegated]AJ$barim +.
+
+#note: It is unclear why the unusual value of the sign @akk{PA}, @akk{ba₂}, is used to write @i{barim}, nor why the otherwise uncommon G-stem of @i{barāmu} is invoked to explain the common D-stem.
+
+26. !bs pur-ru-ru!(MU) !cm : su-up-pu-hu : !bs mar-ši-it KUR {d}UTU{+ši} !cm : mar-ši-it : bu-šu-u
+#lem: +parāru[be(come) dissolved//dispersing]V'N$purruru; +sapāhu[scatter//squandering]V'N$suppuhu +.; maršīt[property]N; māt[land]N; šamši[sun]N +.; maršīt[property]N; +būšu[goods]N$būšū +.
+
+#note: As noted by Finkel (2006: 144), the writing @akk{BUR-ru-mu} is a mistake caused by the influence of the @i{burrumu}-forms in the previous line. The same equation appears in the Principal Commentary (l. 237), where @i{purruru} is spelt @akk{pur-ru₃-rum}. The Principal Commentary (l. 280) also comments on @i{maršīt šamši}, but equates the phrase instead with @i{būlum}, “cattle.”
+
+27. !cm NIG₂.GAL₂.LA : bu-šu-u₂ : NIG₂.GAL₂.LA : mar-ši-tu₄
+#lem: +būšu[goods]N$būšū; būšū[goods]N; +maršītu[property]N$; +maršītu[property]N$
+
+28. !bs qe₂-e-el !cm : he-pu-u₂ : KU₅.DU : qe₂-e-el : KU₅.DU : he-pu-u
+#lem: +qālu[fallen//crushed]AJ$qēl; hepû[broken]AJ; +qēlu[crushed]AJ$qēl; qēl[crushed]AJ; +hepû[broken]AJ$; +hepû[broken]AJ$
+
+#note: The interpretation of this line follows Gabbay (@i{NABU} 2009/3 no. 53 p. 70).
+
+29. !cm lib₃-bu-u₂ !qt ṣu-uh-hu-tu₂ kur-ban-ne₂-e su-un-šu₂ ma-li ša₂ i-qer-ru-ba-am-ma
+#lem: libbū[from out of]PRP; +ṣuhhutu[squeezed-eyed one]N$; +kirbānu[lump (of earth)]N$kurbannê; +sūnu[loin//lap]N$sūnšu; mali[full]AJ; ša[who]REL; +qerēbu[approach]V$iqerrubamma
+
+#note: The translation of @i{ṣuhhutu} follows Gabbay (@i{NABU} 2009/3 no. 53 p. 70).
+
+30. !qt i-ne₂-ši-qa-an-ni a-qe₂-el₂-šu₂ !cm ša₂ ina EŠ₂.GAR₃ {m}SI.DU₃ E{+u₂}
+#lem: +našāqu[kiss]V$ineššiqanni; +qiālu[fall//crush]V'V$aqêlšu +.; ša[that]REL; ina[in]PRP; iškār[series]N; Sidu[1]PN; qabû[said]AJ +.
+
+#note: As discussed by Jiménez @i{NABU} 2018/46, the line quoted is attested in the tablet of bilingual proverbs BM 38539, published by Lambert @i{BWL} (1960) pp. 266–267 and pl. 67. As discussed by Jiménez, whereas the original text uses the verb @i{sanāqu} (the Akkadian counterpart to Sumerian tèĝ), the line in the commentary uses @i{qerēbu}, a verb of similar meaning, but one that is never equated with tèĝ (the verb of the original Sumerian version) in lexical lists or bilingual texts. This suggests that the exegete quoted the line from memory, and that he knew only the Akkadian version of the proverb, and not the Sumerian.
+
+31. !bs ku-up-pu-ut !cm : li-ip-tu₂ nu-šur-ru-u₂ ki-ma PU₂-MEŠ hur-ru-šu₂
+#lem: +kupputu[(a kind of disease?)]N$; +liptu[undertaking//affliction]N$; +nušurrû[reduction]N$; kīma[like]PRP; +būrtu[cistern]N$būrāti; +hurrušu[(meaning unknown)]AJ$hurrušū +.
+
+#note: On the equation of @i{liptu} with @i{nušurrû} see Gabbay (@i{NABU} 2009/3 no. 53 p. 71 n. 16). The interpretation of this line follows Gabbay (@i{NABU} 2009/3 no. 53 p. 70).
+
+32. !bs BE iz-bu UZU GIM su-ru-um-mi am-ma-at ina SAG.KI-šu₂ GID₂.DA GAL₂
+#lem: šumma[if]MOD; izbu[anomaly]N; šīru[flesh]N; kīma[like]PRP; +surummu[bowels]N$surummi; +ammatu[unit//forearm]N$ammat; ina[on]PRP; pūtišu[forehead]N; arik[long]AJ; ibašši[exist]V +.
+
+#note: Finkel (2006: 145) tentatively translates the second part of this protasis as “and the elbow is stretched to the temple.”
+
+33. !cm SAG.GAR : su-ru-um-mi su-ru-um-mi er-ru : !bs KUR su-un-qam IGI-ma 
+#lem: +surummu[bowels]N$surummi; surummi[bowels]N +.; surummi[bowels]N; erru[intestines]N +.; mātu[land]N; +sunqu[famine]N$sunqam; immarma[experience]V
+
+#note: As noted by Finkel (2006: 145), the equation @i{surummu} = @i{erri riqītu} appears in the Principal Commentary (l. 282).
+
+34. !bs EGIR EN A₂.KAL DU{+ku} !cm : su-un-qam : su-un-qu ša₂-niš sun₇-qu : dan-na-tu₂ : ša₂-niš su-un-qa
+#lem: arki[after]PRP; bēl[lord]N; +emūqu[strength]N$emūqi; illaku[go]V +.; sunqam[famine]N +.; sunqu[famine]N; šanîš[alternatively]AV; +sunqu[famine]N$ +.; dannatu[distress]N; šanîš[alternatively]AV; sunqa[famine]N +.
+
+#note: As noted by Finkel (2006: 145), comparable omen apodoses to “the land will experience famine and follow a strong man” are noted in @i{CAD} E 161 s.v. @i{bēl emūqi}. As also noted by Finkel (2006: 146), sun₇ is a rarely attested value of @akk{KAL}. He suggests that the equation of @i{sunqu} with @i{dannatu} may be due to the equation @akk{KI.KAL} = @i{dannatu}.
+
+$ single ruling
+
+35. !zz UL.LA šu-ut KA u maš-a-a-al-ti ša₂ KA um-man-nu ša₂ ŠA₃
+#lem: +ṣiātu[distant time//commentary]N$ṣâtu; šūt[who(m)]DET; pî[mouth]N; u[and]CNJ; mašʾalti[questioning]N; ša[of]DET; pî[mouth]N; ummannu[expert]N; !ša[from]DET; libbi[interior]N
+
+36. !zz BE iz-bu SAG.DU UR.MAH GAR 8{+u₂} mal₂-su-ut BE iz-bu la₃ AL.TIL
+#lem: šumma[if]MOD; izbu[anomaly]N; qaqqad[head]N; nēši[lion]N; šakin[provided with]AJ +.; +samānû[eighth]NU$ +.; malsût[reading out]N; šumma[if]MOD; izbu[anomaly]N +.; lā[not]MOD; qati[completed]AJ +.
+
+#note: The protasis “If an Anomalous Birth has a Lion’s Head” is the beginning of the first line of (and thus the incipit for) the seventh tablet of @i{Šumma Izbu}.
+
+37. !zz BE iz-bu 2 SAG.DU-MEŠ-šu₂ GU₂-su 1-ma IGI.TAB
+#lem: šumma[if]MOD; izbu[anomaly]N; n; qaqqadātušu[head]N; kišāssu[neck]N; n +.; bari[checked]AJ +.
+
+38. !zz IM {m}BA{+ša₂-a} bu-kur₂ {m}{d}INANA-MU-KAM ŠA₃.BAL.BAL
+#lem: ṭuppi[tablet]N; Iqiša[1]PN; bukur[son]N; Ištar-šum-ereš[]PN; liblibbi[descendant]N
+
+39. !zz {m}E₂.KUR-za-kir {lu₂}MAŠ.MAŠ UNUG{ki}{+u₂}
+#lem: Ekur-zakir[1]LN; mašmašši[incantation priest]N; Urukayu[Urukean]EN +.
+
+@translation labeled en project
+
+@label 1
+"If an anomalous foetus has the head of a lion, a prince will seize kingship of the world”  (= Incipit of @i{Šumma Izbu} VII).
+@label 2
+In “He will reach mature age” (= @i{Šumma Izbu} VII 3), “mature age” means “old age"; the same word means “(extreme) old age.”
+@label 3
+In “The land will devastate itself of its own accord” (= @i{Šumma Izbu} VII 31), “to devastate” means “to break off.”
+@label 4 - 5
+In “He will go into exile” (= @i{Šumma Izbu} VII unknown), KUR (can mean) “exile”; KUR (also can mean) “captive”; “an exile” means “a pursued one”; (this equivalence, i.e. between “an exile” and “pursued one” is because) SAR (can mean) “to exile” (and) SAR (can also mean) “to pursue.”
+@label 5 - 6
+In “If an anomalous foetus has no head, but has swollen flesh instead of its head” (= @i{Šumma Izbu} VII unknown), “swollen” (means) “big.”
+@label 7 - 10
+The word “shrines” means “temples” (= @i{Šumma Izbu} VII unknown). In “(If the head of an anomalous foetus) is rolled into a ball like a sling-stone” (= @i{Šumma Izbu} VII unknown), “sling-stone” (means) “@i{lumpy swelling}”; “sling-stone” means “clay rolled into a ball”; (in) IM.DUGUD, (which) means “sling-stone,” IM means “clay” (and) DUGUD means “heavy”; alternatively, “sling-stone” means “lump (of earth)”; “sling-stone” means “stone for a sling,”
+@label 11
+as in “He took away his sling; he repelled his sling-stone” (partial quotation from @i{Ludlul Bēl Nēmeqi} – see note).
+@label 12 - 14
+In “(...) flesh is torn out like a @i{plum}” (= @i{Šumma Izbu} VII unknown), “torn out” means “placed” (because) MA (can mean) “to tear out” (and) MA (can also mean) “to place,” (as in) al-ŋá-ŋá al-ŋá-ŋá šà-ba-ni nu-sed-da (which means) “he tears out (and) places (it), (but) his heart does not rest” – it is said in the corpus of lamentation priests.
+@label 15
+The word “(it) is pressed in” (= @i{Šumma Izbu} VII unknown) (stems from) “to press in” (as does the word) “(it) is @i{swollen}.” (The word) “to press in” means “to become big.”
+@label 16
+The phrase “a message of abundance DU” (= @i{Šumma Izbu} VII unknown) means “a message of abundance comes,” which means “triumphantly,”
+@label 17 - 19
+as in “My arms (once) far-reaching are now tight by my side and grasping each other; I, who used to stride out as a lord, have learned to creep past inconspicuously” [said] in @i{Ludlul Bēl Nēmeqi} (I 76-77).”
+@label 19 - 21
+In “For the livestock of (it is broken), wind (and) rain will decrease in the @i{land of the peaks}” (= @i{Šumma Izbu} VII unknown), the phrase “@i{the land of the peaks}” (it is broken); alternatively (it means) “at the beginning of the year, wind and rain will decrease.”
+@label 22 - 24
+In “His awe-inspiring radiance will acquire no rival” (= @i{Šumma Izbu} VII unknown), the phrase “his awe-inspiring radiance” is said in @i{Erimḫuš} to mean NI₂ (to be pronounced) “NI,” NI₂.GAL, SU.LIM (and) ME.LEM₄.MA (which respectively mean) “fearsomeness,” “mind-blowing brilliance,” “breathtaking luminosity” (and) “astonishing resplendence.”
+@label 25
+The word @i{bur-ru-um} (= @i{Šumma Izbu} VII unknown) (can also be written) @i{bu-ur-ru-um}. (It is derived from) “to be multi-colored” (and) means “it is variegated.”
+@label 26 - 27
+The word “to disperse” (= @i{Šumma Izbu} VII 154′) means “to scatter”; in “goods from the east” (= @i{Šumma Izbu} VII 154'), “goods” means “property”; (because) NIG.GAL.LA means “property” (and) NIG.GAL.LA (also) means “goods.”
+@label 28 - 30
+The form “it is crushed” (= @i{Šumma Izbu} VII 156′) means “to smash.” KUD.DU means “it is crushed,” KUD.DU (also) means “to smash,” (as in) “The dripping-eyed’s lap is full of clods; (he says), ‘Whoever approaches me and kisses me, I shall @i{crush} him!’” — which is said in the Series of Sidu.
+@label 31
+The phrase “is compacted” (= @i{Šumma Izbu} VII unknown) means “an affliction of diminution (in the flesh): its (i.e., the affliction’s) holes are like pits.”
+@label 32 - 33
+In “If the flesh of an  anomalous foetus is like a @i{small colon} (and) there is a forearm on its forehead that is long” (= @i{Šumma Izbu} VII 164), SAG.GAR means “@i{small colon},” (and) “@i{small colon}” means “intestines.”
+@label 33 - 34
+In “The land will experience famine and follow a strong man” (= @i{Šumma Izbu} VII unknown) the word “famine” (@i{su-un-qam}) (is derived from) @i{sunqu}; alternatively, (it can be written) @i{sun₇-qu}. (It) means “distress”; alternatively, “famine.”
+
+$ single ruling
+
+@label 35 - 36
+Lemmata, oral explanations, and (materials for) a ‘questioning,’ following the sayings of a (master-)scholar (relating to entries) from (the Series) “If an Anomalous Birth Has a Lion's Head.” Eighth (tablet). 'Reading' (from the Series) “If an Anomalous Birth ... .” Incomplete.
+@label 37
+(The Series) “If an Anomalous Birth Has Two Heads, but Only One Neck.” Checked.
+@label 38 - 39
+Tablet of Iqīšāya, offspring of Ištar-šuma-īriš, scion of Ēkur-zākir, the incantation priest, an Urukean.
+

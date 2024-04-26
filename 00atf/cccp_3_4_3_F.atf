@@ -1,0 +1,188 @@
+&P348955 = CCP 3.4.3.F (http://ccp.yale.edu/P348955) = Ash.1924,492
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [BE] TA# ŠA₃ SAG NA GIŠ.HUR ana ME.NI eṣ-ret-ma {giš}TUKUL uš-te-lim
+#lem: šumma[if]MOD; ina[on]PRP; libbi[interior]N; +rēšu[head]N$rēš; +mazzāzu[position//(mark on the lobus sinister)]N'N$; uṣurtu[Design (on liver)]N; ana[according to]PRP; bāb[gate]N&ēkalli[palace]N; eṣretma[drawn]AJ; kakki[weapon]N; +elû[go up//be raised (as) high]V'V$uštēlim
+
+#note: Koch-Westenholz @i{CNIP} 25 (2000) p. 105 and fn. 297 believes that @i{uštēlim} is an emendation of UŠ-@i{ši} (the form attested in K.3846, the only manuscript that preserves the base text).
+
+2. !bs BE ina SAG 15 NA BAD-ma !cm is-si-ma
+#lem: šumma[if]MOD; ina[on]PRP; rēš[top]N; imitti[right]N; mazzāzu[(mark on the lobus sinister)]N; +nesû[be distant]V$issīma; +nesû[be distant]V$issīma
+
+3. ($___$) !cm ina SAG 15 NA ana ŠU.SI i-pat-tu-ma
+#lem: ina[at]PRP; rēš[beginning]N; imitti[right]N; mazzāzu[(mark on the lobus sinister)]N; ana[to]PRP; ubānu[unit]N; +petû[open]V$ipattûma
+
+$ 2 lines blank
+
+4. !zz ṣa-a-tu₂ šu-ut KA u maš-a-a-al-ti₃ ša₂ KA um-man-nu
+#lem: ṣâtu[commentary]N; šūt[who(m)]DET; pî[mouth]N; u[and]CNJ; +mašʾaltu[questioning]N$mašayyalti; ša[of]DET; pî[accordance]N; ummannu[scholar]N
+
+5. !zz ša₂ ŠA₃ BE TA ŠA₃ SAG NA GIŠ.HUR ana ME.NI eṣ-ret-ma
+#lem: ša[from]DET; libbi[interior]N; šumma[if]MOD; ina[on]PRP; libbi[interior]N; rēš[head]N; mazzāzu[(mark on the lobus sinister)]N; uṣurtu[Design (on liver)]N; ana[according to]PRP; bāb[gate]N&ēkalli[palace]N; eṣretma[drawn]AJ
+
+$ about 4 lines blank
+
+6. !bs BE GIR₂ GAR ki-bi-is GIR₃ LU₂ KI DINGIR šu-šur !cm : šu-šur : kun-nu
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; šakin[provided with]AJ; kibis[track]N; šēp[foot]N; amēli[man]N; itti[with]PRP; ili[god]N; šūšur[normal]AJ; šūšur[normal]AJ; +kunnu[fixed]AJ$
+
+7. !bs BE GIR₂ ka-bi-is-ma ina MAŠ.GAN₂-šu₂ kar₂-šu-u₂ GAR !cm : kar₂-šu-u* GIM*# GIR₂ {lu₂}AŠGAB
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; +kabāsu[tread]V$kabisma; ina[in]PRP; maškanišu[location]N; +karšû[(a deformation on the exta)]N$; šakin[provided with]AJ; +karšû[(a deformation on the exta)]N$; kīma[like]PRP; +patru[sword]N$patar; aškāpi[leatherworker]N
+
+8. !bs BE GIR₂ ka-bi-is-ma ina MAŠ.GAN₂-šu₂ kak-su-u₂ GAR{+in}
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; kabisma[tread]V; ina[in]PRP; maškanišu[location]N; +kaksû[(an arrow)//(a deformation on the exta)]N'N$; šakin[located]AJ
+
+9. ($___$) !cm kak#-su-u₂ : kak-ku ga-aṣ-ṣa
+#lem: kaksû[(a deformation on the exta)]N; kakku[Weapon (on liver)]N; +gaṣṣu[cruel]N$gaṣṣa
+
+#note: The equation is probably based on the phonetic similarity between kaksû and @i{kak}(@i{ku gaṣ})@i{ṣu}. Compare @i{Ludlul} I 34: @i{ana kī gaṣṣu kakkīšu}, "though his weapon is fierce."
+
+10. !bs [BE GIR₂] 15*# ana {giš}TUKUL uš-te-lim u PAP.HAL 15 DU₈*#
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; imitti[right]N; ana[according to]PRP; kakki[weapon]N; uštēlim[be raised (as) high]V; u[and]CNJ; +pušqu[narrowness//constriction (in liver)]N'N$pušuq; imitti[right]N; +paṭru[released]AJ$paṭir
+
+11. ($___$) !bs u₃?# NA i-lam-ma ZE₂ i-na-aṭ-ṭa-lu#
+#lem: u[and]CNJ; mazzāzu[(mark on the lobus sinister)]N; illâmma[rise]V; +martu[gall bladder]N$; +naṭālu[see]V$inaṭṭalū
+
+#note: Apparently lines 10-11 receive no explanation.
+12. !bs [BE GIR₂] ana 15 u 2.30 ma-qit !cm : GIR₂ si-ip-pi* 15 u [2.30 (x x)]
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; ana[according to]PRP; imitti[right]N; u[and]CNJ; šumēla[on the left]AV; +maqtu[fallen]AJ$maqit; padāni[Path (on liver)]N; +sippu[(door-)jamb]N$sippi; imitti[right]N; u[and]CNJ; šumēli[left]N; u; u
+
+13. ($___$) !zz [x x x x x] x x x [x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u
+
+$ rest of obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. !zz [x x x x] ša₂# a#-na# x x [x x x]
+#lem: u; u; u; u; ša[which]REL; ana[for]PRP; u; u; u; u; u
+
+2'. !zz [x x x x]-in# [x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u
+
+$ about 4 lines blank
+
+3'. !zz [x x x x x]-si?# u₂-šal?#-[x]-x# [x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u
+
+4'. !zz [x x x] x-ka?#-ti-ka [x x x x]
+#lem: u; u; u; u; u; u; u; u
+
+5'. !zz [x x x] x !cm ina pi-i-ka ta-šak-[kan]
+#lem: u; u; u; u; ina[in]PRP; pîka[mouth]N; tašakkan[put]V
+
+6'. !zz [x x x]-šu₂?# !cm ša₂-nin?# ina lib₃-bi-ia x# [x x x]
+#lem: u; u; u; X; ina[in]PRP; libbiya[heart]N; u; u; u; u
+
+7'. !zz [x x x x x x x] a?#-ha?#-at?# x#-x# [x x x]
+#lem: u; u; u; u; u; u; u; X; u; u; u; u
+
+8'. !zz [ṣa-a-tu₂ u₃] šu#-ut KA*# [ša₂] KA*# um-ma-nu
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[accordance]N; ummânu[expert]N
+
+#note: Collation reveals that the rubric belongs to the @i{ṣâtu} 6b type.
+9'. !zz [ša₂ BE TA ŠA₃ SAG NA]
+#lem: ša[from]DET; šumma[if]MOD; ina[in]PRP; libbi[interior]N; rēš[head]N; mazzāzu[(mark on the lobus sinister)]N
+
+@colophon
+
+10'. !zz im-gid₂#-[da] {m}{d}U?#.[DAR?-MU?-MU? {lu}]KA#.INIM.MA TUR.DIŠ
+#lem: +imgiddû[(a single-columned tablet)]N$imgidda; +Ištar-šuma-iddina[]PN$; +āšipu[sorcerer]N$; +ṣehru[small]AJ$
+
+#note: The reading and interpretation of the last two words of the line as @i{āšipu ṣeḫru} is courtesy of U. Gabbay (private communication).
+11'. !zz DUMU {d}30-na-din-[ŠEŠ-MEŠ LU₂ DINGIR]-šu# {d}NUSKA
+#lem: mār[son]N; +Sîn-nādin-ahhē[]PN$; amēla[man]N; ilišu[god]N; Nusku[1]DN
+
+#note: The first name is restored after the colophon in CCP 4.1.21 (courtesy U. Gabbay). The indication of the identity of personal god is restored after the same colophon.
+
+12'. !zz IR₃# {d}ZU₂.LUM.MA UR# ME#.ME# NUMUN# {m}ŠU-{d}30
+#lem: +wardu[slave]PN$; +Ninurta[]DN$; +awīlu[man]N$amēl; +Gula[]DN$; zēri[seed(s)]N; +Gimil-Sin[]PN$
+
+#note: @akk{{d}ZU₂.LUM.MA} is probably a learned writing of a god name, such as Ea (cf. Lambert @i{BWL} p. 310, courtesy U. Gabbay), Marduk (cf. @i{Ee} VII 87) or, more likely, Ninurta (@i{CT} 25 pl. 11 l. 22). The reading of the first sign of the line as @akk{IR₃#} is due to U. Gabbay, as is also the decipherment of the signs in @akk{UR# ME#.ME#}. The @akk{IR₃} of this tablet suggests understanding @akk{AMA.A.TU} in @i{CCP} 4.1.21, another colophon by the same scribe, as @i{arad} (cf. @akk{AMA.A.TU} = @i{ardu} in @i{CAD} A/2 243b). On the other hand, @akk{UR ME.ME} should be understood here and in the other two colophons by the same scribe (@i{CCP} 3.1.u5 and @i{CCP} 4.1.21) as an epithet of the scribe Sîn-nādin-aḫḫē, rather than as a family name.
+
+13'. !zz [pa-li]-ih# {d}ME.ME la i-tab-bal
+#lem: pālih[reverent one]N; Gula[1]DN; lā[not]MOD; itabbal[disappear]V
+
+14'. !zz [li-iṣ-ṣur] li#-ša-qe₂-er
+#lem: liṣṣur[guard]V; +waqāru[be(come) rare//esteem]V'V$lišāqer
+
+@translation labeled en project
+
+@label o 1
+
+"If a drawing is drawn from the centre of the top of the Position (a part of the liver) to the Palace Gate (a part of the liver) and it equals in height the Weapon (a part of the liver)." (= @i{Manzāzu} 6 1)
+
+@label o 2 - o 3
+
+"If in the right top the Position is removed (BAD-@ma)" (= @i{Manzāzu} 6 37); (BAD-@ma means) "it is removed," (i.e.), "in the right top the Position is it is opened towards the Finger (a part of the liver)."
+
+$ two lines blank
+
+@label o 4 - o 5
+
+Lemmata, oral explanations, and (materials for) a 'questioning' @by a (master-)scholar, relating to "If a drawing is drawn from the centre of the top of the Position (a part of the liver) to the Palace Gate (a part of the liver)" (= @i{Manzāzu} 6 1).
+
+$ about four lines blank
+
+@label o 6
+
+"If the Path (a part of the liver) is there, the steps of the man will be straight with regard to the gods" (= K.9186 [@i{BLO} no. 91] 7'), "to be straight" means "to be firm."
+
+@label o 7
+
+"If the Path is trodden and there is a @i{karšû}-mark in its place" (cf. @i{Padānu} 4 11), the @i{karšû}-mark is like the knife of a leatherworker.
+
+@label o 8 - o 9
+
+"If the Path is trodden and there is a @i{kaksû}-mark in its place" (cf. @i{Padānu} 4 12), @i{kaksû}-mark means "murderous weapon."
+
+@label o 10 - o 11
+
+"If the right Path equals in height the Weapon and the right Narrowness (a part of the liver) is split open @i{and} the Position is curved and points to the Gall Bladder" (= unknown base text).
+
+@label o 12
+
+"If the Path descends to right and left" (cf. e.g. @i{BLO} 35 ii 7') refers to the Path of the right [and left] Edges (of the Palace Gate, parts of the liver).
+
+@label o 13
+
+...
+
+$ rest of obverse missing
+
+@reverse
+
+@label r 1' - r 2'
+
+...
+
+$ about four lines blank
+
+@label r 3' - r 4'
+
+...
+
+@label r 5' - r 7'
+
+[...] put in your mouth [(these words) ...], in my heart [...].
+
+@label r 8' - r 9'
+
+[Lemmata and] oral explanations [following] the sayings of a (master-)scholar, [relating to "If a drawing is drawn from the centre of the top of the Position" (?)].
+
+@colophon
+
+@label r 10' - r 14'
+
+One-column tablet of [@i{Ištar-šum-iddina}], young exorcist, son of Sîn-nādin-[aḫḫē, whose personal god] is Nuska, servant of Ninurta and slave of Gula, descendant of Gimil-Sîn.
+
+@label r 14'
+
+[The reve]rer of Gula should not steal this tablet. He should protect it and esteem it.

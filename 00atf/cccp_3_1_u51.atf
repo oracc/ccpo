@@ -1,0 +1,80 @@
+&P399317 = CCP 3.1.u51 (http://ccp.yale.edu/P399317) = K.11560
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+
+@tablet
+
+@obverse
+
+1. !bs * AN.GE₆ [...]
+#lem: attallû[eclipse]N; u
+
+$ rest of obverse missing
+
+@reverse
+
+$ start of reverse missing
+
+1'. !bs [(x) x EN.NUN].AN.USAN₂ !zz [...]
+#lem: u; u; barārīti[evening watch]N; u
+
+2'. !bs [(x) x ul]-la#-nu-um-ma ana# !zz [...]
+#lem: u; u; ullânumma[immediately]AV; ana[to]PRP; u
+
+3'. !bs [(x) x x x] x#-šu₂ AN.GE₆# [GAR-ma !zz ...]
+#lem: u; u; u; u; u; attallû[eclipse]N; iššakkanma[take place]V; u
+
+4'. !bs [* x] x# ina {d}UTU.E₃ GUB-[ma !zz ...]
+#lem: u; u; ina[in]PRP; ṣīt[exit]N&šamši[sun]N; izzazma[stand]V; u
+
+5'. ($_____$) !bs LUGAL URI{ki} UŠ₂ : !cm ina {tu₁₅}[...]
+#lem: šar[king]N; Akkad[1]SN; +mâtu[die]V$imât; ina[in]PRP; u
+
+6'. ($_____$) !cm ina {tu₁₅}MAR.TU [...]
+#lem: ina[in]PRP; amurri[west]N; u
+
+$ single ruling
+
+@colophon
+
+7'. !zz 38 nis-hu mu-kal-lim-ti * U₄# [AN {d}EN.LIL₂ šu-ut KA]
+#lem: n; nishu[excerpt]N; +mukallimtu[scholarly commentary]N$mukallimti; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; šūt[those of]DET; pî[mouth]N
+
+8'. !zz ša₂ KA UM.ME.A ša₂ ŠA₃ * AN.GE₆# [x x x x x x x]
+#lem: ša[of]DET; pî[accordance]N; ummâni[expert]N; ša[of]DET; libbi[interior]N; attalli[eclipse]N; u; u; u; u; u; u; u
+
+9'. !zz E₂.GAL {m}AN.ŠAR₂-DU₃-A MAN GAL MAN dan#-[nu (MAN ŠU₂ MAN {kur}aš-šur{ki}) ša₂ {d}NA₃ u {d}taš-me-tu₄]
+#lem: ēkalli[palace]N; Assurbanipal[1]RN; šarru[king]N; rabû[great]AJ; šarru[king]N; dannu[mighty]AJ; šar[king]N; kiššati[universe]N; šar[king]N; Aššur[Assyria]GN; ša[of]DET; Nabu[1]DN; u[and]CNJ; Tašmetu[]DN$
+
+10'. !zz ARHUŠ TUKU-MEŠ-šu-ma ki-ma AD [u AMA u₂-šar-bu-u-šu₂]
+#lem: rēmu[mercy]N; +rašû[acquire]V$iršûma; kīma[like]PRP; abi[father]N; u[and]CNJ; ummi[mother]N; +rabû[be(come) big//make great]V'V$ušarbûšu
+
+@translation parallel en project
+
+@obverse
+
+1. If an eclipse [...]
+
+$ rest of obverse missing
+
+@reverse
+
+$ start of reverse missing
+
+1'. [...] the evening watch [...],
+2'. [...] from the beginning [...],
+3'. [... in] his [... there is] an eclipse [...],
+4'. [If ...] stands in the east [...]
+5'. The king of Akkad will die. (That means) in the [...],
+6'. in the west [...].
+
+$ single ruling
+
+@colophon
+
+7'. 38th section of the @i{mukallimtu}-commentary on @i{Enūma} [@i{Anu Enlil}, with oral explanations],
+8'. following the sayings of a scholar, (referring to entries) from "If an eclipse [...]".
+9'. Palace of Ashurbanipal, the great king, the mighty king, [(king of the universe), king of Aššur, on whom Nabû and Tašmētum]
+10'. have bestowed mercy [and whom they have raised] like a father [and a mother].

@@ -1,0 +1,45 @@
+&P461187 = CCP 7.2.u39 (http://ccp.yale.edu/P461187) = BM 40645
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# NIG₂#.SU₃.A# :# x# [...]
+#lem: u; u; X; u; u
+
+2'. !zz [...] !bs DUM#.DAM.ZA !cm : ha-ša₂-[šu₂ !zz ...]
+#lem: u; +hašāšu[swell//swelling]V'N$; +hašāšu[swell//swelling]V'N$; u
+
+#note: On DUM.DAM.ZA = @i{ḫašāḫu}, see Civil @i{JCS} 20 (1966) p. 120 2.4 and 121a.
+3'. !zz [...] !bs U₄# !cm : U₄{+mu} : !bs MUD !cm : [...]
+#lem: u; ūmu[day]N; ūmu[day]N; u; u
+
+$ single ruling
+4'. !zz [... !cm x]-x#-tu₂# : !bs SAG !cm : al-pu !zz : x#-[...]
+#lem: u; u; +alpu[bull]N$; +alpu[bull]N$; u
+
+#note: The equation SAG = @i{alpu} is seemingly elsewhere unattested, but compare ÁŠ.SAG = @i{alpu} in @i{Erimḫuš Boghazköy} i 43 (@i{MSL} 17 103). Cf. also SAG = @i{mīru} in @i{NBGT} V 1 (@i{MSL} 4 165 catchline). See also CCP 7.2.u147 (BM 43678).
+5'. !zz [... !bs SI?.SA₂?] !cm : iš-še-er : !bs KA ŠU{+du-bu-ul?}.BU# !cm [: e-le-pu ...]
+#lem: u; +ešēru[be/go well//being/going well]V'N$iššer; +ešēru[be/go well//being/going well]V'N$iššer; u; +elēpu[sprout]V$; +elēpu[sprout]V$; u
+
+#note: For the last equation, cp. @i{Diri} V 118 (@i{dubul} ŠU.BU = @i{elēpu}). The significance of the sign @akk{KA} remains uncertain.
+6'. !zz [...] : !bs SI.IL.LA₂ !cm : gap-ši !zz x# [...]
+#lem: u; +gapšu[arisen]N$; +gapšu[arisen]N$gapši; u; u
+
+7'. !zz [... !bs TUG₂.NIG₂].DARA₂#{+da-ra} : !cm u₂-la-pu !zz [...]
+#lem: u; +ulāpu[rag]N$; +ulāpu[rag]N$; u
+
+8'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] DUM.DAM.ZA means "to rejoice," [...],
+3'. [...] U₄ means "day," MUD means [...],
+4'. [...] SAG means "ox," [...],
+5'. [... SI.SÁ (?)] means "to go well." KA ŠU [means "to sprout" ...],
+6'. [...] SI.IL.LÁ means @i{huge}, [...],
+7'. [... TÚG.NÍG].DÁRA means "soiled rag" [...],
+8'. ...

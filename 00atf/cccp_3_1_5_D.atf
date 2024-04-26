@@ -1,0 +1,591 @@
+&P395431 = CCP 3.1.5.D (http://ccp.yale.edu/P395431) = K.4166
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+@column 1
+1'. !zz [(x x x)] x# x# [...] & !zz [...]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: [(…)] … […]
+2'. !zz [(x x x)] x# a# du x# [...] & !zz [...]
+#lem: u; u; u; u; â[not]MOD; X; u; u; u
+
+#tr.en: [(…)] … […] 
+#note: Instead of @akk{x# a# du}, possibly read @i{e du}.
+3'. &2 !bs [(x x)] LUGAL# a-ga-de₃ !cm : LUGAL.GIN : !bs GI !cm : ta-ra-ṣa#
+#lem: u; u; šar[king]N; +Agade[]GN$; +Šarru-ukin[]PN$; +tarāṣu[stretch out//stretching out]V'N$; tarāṣa[stretching out]'N
+
+#tr.en: [(…)] “the king of Akkad” means “Sargon”; “@akk{GI}” means “to stretch”,
+#note: The phrase @i{šar agade} is not present in the other currently known sources for @i{EAE} 5. The equation of GI with @i{tarāṣu} seems to be otherwise unattested.
+4'. !bs [(GI : x)] GI# !cm : GIN : !bs GAM !cm & !cm ka-pa-ṣu
+#lem: u; u; +kânu[be(come) permanent//be(com)ing permanent]V'N$; +kânu[be(come) permanent//be(com)ing permanent]V'N$; +kapāṣu[bend back//bending back]V'N$; +kapāṣu[bend back//bending back]V'N$
+
+#tr.en: [(“@akk{GI}” means “…” (and))] “@akk{GI}” means “@akk{GIN}”; “@akk{GAM}” means “to bend back”,
+#note: The equation of @akk{GI} with @akk{GIN} stems from the fact that both @akk{GI.NA} and @akk{GIN} can mean @i{kânu}, “to be firm”. The otherwise unattested equation of @akk{GAM} with @i{kapāṣu} may derive from @i{kepû} (also “to bend”) = @akk{GAM}.
+
+4b'. !bs U !cm & !cm ka-pa-ṣu
+#lem: +kapāṣu[bend back//bending back]V'N$; kapāṣu[bending back]'N
+#tr.en: “@akk{U}” means “to bend back”.
+
+5'. !bs [DIRI? !cm :] sap#-ha !bs DIRI & !cm sa-pi-ih
+#lem: +saphu[scattered]AJ$; saphā[scattered]AJ; +saphu[scattered]AJ$sapih; sapih[scattered]AJ
+
+#tr.en: [“@i{DIRI}” means] “scattered”, “@akk{DIRI}” means “it is scattered”,
+6'. !cm [DIRI :] x# DIRI : šu-par-ru-ru₃ & !cm DIRI : ha-la-pu
+#lem: u; u; +šuparruru[spread out//spreading out]V'N$; +šuparruru[spread out//spreading out]V'N$; +halāpu[slip into//slipping into]V'N$; halāpu[slipping into]'N
+
+#tr.en: [“@i{DIRI}” means “…”], “@akk{DIRI}” means “to spread out” (and) @akk{DIRI} means “to slip through”.
+#note: @i{Principal Izbu Commentary}, l. 273, equates @i{purruru} and @i{sapāhu}.
+7'. &2 !zz [(...)] x# U DIRI : !bs MUD !cm : da-a-mu : !bs MUD !cm : da-ʾ-mu
+#lem: u; u; u; u; +dāmu[blood]N$; +dāmu[blood]N$; daʾmu[dark]AJ; +daʾmu[dark]AJ$
+
+#tr.en: […] … “@akk{MUD}” means “blood” (and) “@akk{MUD}” means “dark”.
+#note: The equation of @akk{MUD} with @i{da’mu} and @i{damu}, presumably due to the phonetic similarity between the Sumerian and both Akkadian words, is well attested in lexical lists, e.g., @akk{A} = @i{naqû} II/3: 11'-12' (@i{MSL} 14, p. 277). Presumably this pair of explanations relates to the phrase from the base text cited in l. 9' (@i{CAD} D 76a).
+8'. [(x x)] !bs SI# !cm : ma-lu-u & !bs SI !cm : sa-a-mu
+#lem: u; u; +malû[be(come) full//be(com)ing full]V'N$; malû[be(com)ing full]'N; +siāmu[be red//being red]V'N$; sâmu[being red]'N
+
+#tr.en: [(…)] “@akk{SI} means “to be full” (and) “@akk{SI}” means “red-brown”,
+9'. &2 !cm ina DUNGU MUD IGI-ma
+#lem: ina[in]PRP; erpeti[cloud]N; +dāmu[blood]N$; īmurma[see]V
+
+#tr.en: (as in) “blood is visible in the cloud”.
+#note: This phrase, presumably from a omen protasis in @i{EAE} 5, is not otherwise attested. 
+10'. !bs [x x x] !cm pu-uh-hu-ru₃ : !bs NIGIN₂ !cm & !cm pu-uh-hu-ru₃
+#lem: u; u; u; +pahāru[gather//bringing together]V'N$puhhuru; +pahāru[gather//bringing together]V'N$puhhuru; +pahāru[gather//bringing together]V'N$puhhuru
+
+#tr.en: [… means] “to gather”, “to surround” means “to gather”,
+#note: The equation @akk{NIGIN₂} = @i{kubbutu}, though otherwise unattested, is based on the fact that the same sign (with the reading @akk{GUR₄}) = @i{kabtu} in the lexical tradition (see @i{CAD} K 25b for references).
+
+10b'. !bs NIGIN₂ & !cm kub-bu-tu₂
+#lem: +kabātu[be(come) heavy//making heavy]V'N$kubbutu; +kabātu[be(come) heavy//making heavy]V'N$kubbutu
+#tr.en: “to surround” means “to be very heavy”.
+
+11'. !zz [(x x x)] !bs AB₂.KU₆ !cm : da-du & !bs ed-da-ma !cm na-pal-ka-a
+#lem: u; u; u; +dādu[darling//fish]N'N$; +dādu[darling//fish]N'N$; eddāma[pointed]AJ; +napalkû[(having become) wide]AJ$napalkâ
+
+#tr.en: [(…)] AB₂#.KU₆ means “@i{dādu}-fish”; “they are pointed” means “they are wide”.
+#note: The moon’s horns are compared to the @i{dādu}-fish in @i{EAE} 5 source “d”, l. 9'. The second equation, of @i{edēdu} with @i{napalkû}, is unique and difficult to explain from the lexical tradition surrounding these two words.
+12'. [(x x x)] !bs *# SI-MEŠ-šu₂ he-sa-a & !cm LAL : !bs he-su-u
+#lem: u; u; u; qarnātušu[horn]N; hesâ[tense]AJ; +hesû[cover up//covering up]V'N$; +hesû[cover up//covering up]V'N$
+
+#tr.en: (In the phrase,) “@i{If} its horns are covered”, “@akk{LAL}” means “to cover”, 
+#note: This protasis is not attested in the currently known manuscripts of @i{EAE} 5.
+13'. [(x x x)] !cm LAL# : ma-lu-u & LAL : ša₂-pa-la
+#lem: u; u; u; +malû[be(come) full//be(com)ing full]V'N$; +malû[be(come) full//be(com)ing full]V'N$; +šapālu[be(come) deep//be(com)ing deep]V'N$; +šapālu[be(come) deep//be(com)ing deep]V'N$šapāla
+
+#tr.en: [(@i{“LAL” means “…”},) “[L]AL” means “to be full” (and) “@akk{LAL}” means “to be low”.
+14'. &2 ($___$) !bs SI SI i-ti-iq
+#lem: +qarnu[horn]N$; +qarnu[horn]N$qarna; ītiq[pass by]V
+
+#tr.en: “One horn extends beyond the other”
+#note: This phrase is the protasis of an omen in @i{EAE} 5 source “v”, l. 12. 
+15'. &2 ($___$) UD.14.KAM₂ DINGIR KI DINGIR NU IGI
+#lem: n; ili[god]N; itti[with]PRP; ili[god]N; lā[not]MOD; +amāru[see]V$innamir
+
+#tr.en: (means) “(on) the fourteenth day, divinity is not visible with divinity”.
+#note: The same protasis as l. 14' and accompanying commentary in this line can be found in (a) @i{Šumma Sîn ina tāmartīšu} 1, l. 34 (Koch Westenholz 1999: 155) and (b) cited in the letter @i{SAA} 8 295, o 4 and 6. 
+16'. [(x x x)] !bs pal#-lu-ur-tu₂ !cm & u₂-ṣur-tu₂
+#lem: u; u; u; +išpallurtu[cross]N$pallurtu; uṣurtu[drawing]N
+
+#tr.en: [(…)] “cross” means “drawn plan”,
+#note: The word @i{pallurtu} appears in three protases in source “E” of @i{EAE} 5 (r 16'-18'). The word is explained differently in @i{CCP} 3.1.5.E, l. 29, as meaning “Stars” (@akk{MUL-MEŠ}).
+17'. !bs [MUL.MUL !cm {d}U].DAR#-MUL-MEŠ & !cm {d}dil-bat
+#lem: u; u; Dilbat[Venus]CN
+
+#tr.en: [“Plejades” @i{refers to} “Išt]ar-of-the-Stars”, (i.e.) “Venus”,
+#note: “Stars” (i.e., the Pleiades) appear in @i{EAE} 5, source “e”, r 17'.
+18'. [x x x] x# !bs {mul}BAN & !cm {d}UDU.IDIM
+#lem: u; u; u; u; +qaštu[bow//bow star]N'N$; bibbu[planet]N
+
+#tr.en: […], “Bow Star” means “planet”,
+19'. [(x x x)] !bs {d#}šu!(LA)-ku-du & !cm {d}UDU.IDIM.GU₄.UD
+#lem: u; u; u; +šukudu[arrow//Sirius]N'N$; +muštarīlu[Mercury]N$
+
+#tr.en: [(…)] “Šukūdu” means “Mercury”,
+#note: The star Šukūdu (Sirius) features in the protases of @i{EAE} 6 (Verderame 2002: 169), but not in the known passages of @i{EAE} 5.
+20'. &2 !bs [...] !cm x# x : !bs A₂ {mul}GIR₂.TAB !cm : {d}dil-bat / SAG.UŠ
+#lem: u; u; u; idi[side]N; Zuqaqipu[Scorpion]CN; Dilbat[Venus]CN; +kayyāmanu[permanent//Saturn]AJ'N$
+
+#tr.en: […] …,  “the side of the Scorpion” means “Venus” | (or) “Saturn”,
+#note: The phrase “side of the Scorpion” seems to be attested only in this commentary.
+21'. [(x x x)] !bs {d}bi-ib-bu & !cm {d}UDU.IDIM
+#lem: u; u; u; +bibbu[planet]N$; bibbu[planet]N
+
+#tr.en: [(…)] “planet” (Akkadian) means “planet” (Sumerian),
+22'. [x x :] U₂ RU : !bs MAR & !cm ša₂-ka-nu
+#lem: u; u; u; u; +šakānu[put//putting]V'N$; +šakānu[put//putting]V'N$
+
+#tr.en: [“…” means] “…”; MAR means “to place”.
+#note: According to CCP 3.2.u7, l. 12, @akk{MAR} is Emesal for @i{šakānu}.
+23'. [...] !bs {mul#}AŠ.GAN₂ & !cm {d}ṣal-bat-a-nu
+#lem: u; Ikû[Pegasus]CN; Ṣalbatanu[Mars]CN
+
+#tr.en: […] “Pegasus” means “Mars”,
+24'. !bs [...] !cm {d}UDU.IDIM & !bs {d}MIN<({d}UDU.IDIM)> : !cm{d}dil-bat
+#lem: u; bibbu[planet]N; +bibbu[planet]N$; Dilbat[Venus]CN
+
+#tr.en: [“…” (means)] “planet”, “ditto” means “Venus”,
+25'. !bs [...] x# & !cm {d}SAG.ME.GAR
+#lem: u; u; nēberu[Jupiter]CN
+
+#tr.en: […] means “Jupiter”,
+26'. !bs [...] & !cm {d#}ṣal-bat-a-nu
+#lem: u; Ṣalbatanu[Mars]CN
+
+#tr.en: [… means] “Mars”,
+27'. !bs [...] & !cm ša₂#-qu-u
+#lem: u; šaqû[be(com)ing high]'N
+
+#tr.en: [… means] “high”,
+28'. !bs [...] & !cm {mul#}E₂.TUR₃
+#lem: u; +tarbaṣu[animal stall]N$
+
+#tr.en: [… means] “Cattle Pen”,
+#note: A star named @akk{{mul}TUR₃} is attested in source “z” of @i{EAE} 5, l. 9'. For @akk{{mul}É.TÙR} see @i{CAD} T 222 mng. 2c and Reiner & Pingree @i{BPO} 2, p. 11.
+29'. !bs [...] & !cm x# x# ma
+#lem: u; u; u; X
+
+#tr.en: [“…” means] “…”,
+30'. !bs [...] & !cm {d#}ṣal-bat-a-nu
+#lem: u; Ṣalbatanu[Mars]CN
+
+#tr.en: [“…” means ] “Mars”.
+31'. !bs [... & ina] IGI#.LA₂-šu₂ ina GE₆
+#lem: u; ina[at]PRP; tāmartišu[appearance]N; ina[in]PRP; mūši[night-time]N
+
+#tr.en: [“…” means “at] its appearance at night”
+32'. !bs [...] & !cm x# mu šu₂
+#lem: u; u; u; u
+
+#tr.en: [“…” means] “…”
+$ single ruling
+$ (Second section (? EAE 6? – no incipit))
+33'. &2 !zz [...] x# ta hu ku
+#lem: u; u; u; u; u
+
+#tr.en: […] …
+34'. &2 !bs [... EN.NUN].AN#.USAN GAR-ma
+#lem: u; barārīti[dusk]N; iššakinma[take place]V
+
+#tr.en: [“…] occurs [during the ev]ening watch”.
+#note: The phrase @akk{EN.NUN.AN.USAN GAR-ma} appears in source “l” of @i{EAE} 6, r 9' (Verderame 2002: 198).
+35'. &2 !zz [...] li hu
+#lem: u; u; u
+
+#tr.en: […] …
+36'. &2 !zz [...] x# mu
+#lem: u; u; X
+
+#tr.en: […] …
+37'. &2 !zz [...]-ma#?
+#lem: u
+
+#tr.en: […] …
+38'. &2 !zz [...]-nu#?
+#lem: u
+
+#tr.en: […] …
+39'. &2 !zz [...] 
+#lem: u
+
+40'. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+41'. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+42'. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+43'. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+44'. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+$ single ruling
+$ (Third section (EAE 17))
+45'. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+$ (Space for 4 more lines before the lower edge)
+@column 2
+1. &2 !zz [x] x# x# [...]
+#lem: u; u; u; u
+
+#tr.en: […] … […]
+2. &2 !zz x# zib?-ma ša₂ a# x#? [...]
+#lem: u; X; ša[of]DET; u; u; u
+
+#tr.en:  … […]
+$ single ruling
+3. &2 !bs * ina {iti}BARA₂ U₄.14.KAM AN.GE₆ EN.NUN.[AN.USAN GAR-ma]
+#lem: ina[in]PRP; Nisannu[]MN; n; attallû[eclipse]N; barārīti[evening watch]N; iššakinma[take place]V
+
+#tr.en: “If in the month of Nisannu (I) on the 14th day an eclipse [occurs] during the [evening] watch …”. 
+#note: The opening line of @i{EAE} 17, as preserved in the Uruk catalogue, with the only difference that @akk{AN.GE₆} precedes @akk{EN.NUN.(AN).USAN}.
+$ single ruling
+$ (Fourth section (EAE 18))
+4. !bs me-sir₃-tu₂ ina KUR GAL₂ !cm & BURU₁₄ [KUR ...]
+#lem: +mēsertu[confinement]N$; ina[in]PRP; māti[land]N; ibašši[exist]V; ebūr[harvest]N; māti[land]N; u
+
+#tr.en: “there will be confinement in the land” (possibly = @i{EAE} 18 source “a” § VIII 8') means “the harvest [of the land will …”]
+#note: For the possible base text see Rochberg (1988: 140) and CAD M/2 124b (mng. c 1').
+5. !bs {+su-ul}SUL & !cm er-ri#-[...]
+#lem: X; u
+
+#tr.en: (The sign) “ŠUL”, when read “SUL”, means “…”.
+#note: The sign @akk{ŠUL} does not occur in the currently known lines of @i{EAE} 18.
+6. &2 !bs RA.GABA !cm : GIR₃.SE₃.GA AŠ.TE DAB#[{+bat}]
+#lem: +rakbu[mounted messenger]N$; +gerseqqû[temple attendant]N$; kussâ[throne]N; iṣabbat[seize]V
+
+#tr.en: “A messenger (variant: palace attendant) [will] s[eize] the throne” (= @i{EAE} 18 § VII.3)
+#note: For three new manuscripts of @i{EAE} that contain the omen to which this apodosis belongs, including “source I” which contains the omen in full, see Fincke (2016: 101-105).
+7. !bs RA.GABA & !cm DUMU šip-ri#
+#lem: +rakbu[mounted messenger]N$; mār[son]N; šipri[work]N
+
+#tr.en: – “messenger” means “messeng[er]”,
+#note: The word @i{rakbû} is also equated with @i{mar šipri} in OB Proto-Lu 22 ff. (reference from @i{CAD} R 105a).
+8. !bs GIR₃.SE₃.GA !cm & man-za-az pa-ni
+#lem: gerseqqû[temple attendant]N; manzāz[position]N; pāni[front]N
+
+#tr.en: “palace attendant” means “courtier”,
+#note: The word @i{girseqû} seems to have been current in the Old Babylonian period but an archaism by the Neo-Babylonian period, when it appears only in Standard Babylonian literature and, once, in a royal inscription of Nabonidus (see @i{CAD} G 94a).
+9. !bs {lu₂}GU₃.DE₂!(MURUB₄) !cm & mun-nab-tu₂
+#lem: +munnabtu[fugitive]N$; +munnabtu[fugitive]N$
+
+#tr.en: “ @akk{{lu₂}GU₃.DE₂}” means “fugitive”,
+#note: This equation is well attested in the lexical tradition: see @i{CAD} M/2 204a (lexical section) for details.
+10. !bs ri-is-ba-tu₂ !cm & di-ik-tu₂
+#lem: +risbatu[brawl]N$; +dīktu[fighting]N$
+
+#tr.en: “brawl” means “fighting”,
+#note: The word @i{risbatu} does not occur in the currently known lines of @i{EAE} 18, and is otherwise attested in the lexical list @akk{SIG₇.ALAN} = @i{Nabnītu} and the Law Codes of Ešnunna and Hammurabi (@i{CAD} R 375a). 
+11. !bs ša₂ {giš}TUKUL UR₂ !cm & nap-ṭa-ru
+#lem: ša[of]DET; kakki[weapon]N; +sūnu[loin]N$sūni; +napṭaru[(type of) acquaintance]N$
+
+#tr.en: “The one of the @akk{GIŠ.TUKUL.ÚR}” means “@i{napṭāru-person}”,
+#note: The phrase @akk{GIŠ.TUKUL.ÚR} is equated with @i{kak-ki su-ú-ni} in Ura 7 and Hargud (see @i{CAD} S 386b for details). Without knowing the omen in which the phrase occurs, it is difficult to know whether the commentary intended the meaning of @i{napṭaru} A or B (a type of person versus a guesthouse); both words are mostly attested in Old Babylonian texts.
+$ single ruling
+12. &2 !bs * ina {iti}DU₆ AN.GE₆ EN.NUN.AN.USAN₂ GAR
+#lem: ina[in]PRP; Tašritu[]MN; attallû[eclipse]N; barārīti[evening watch]N; +bašû[be (at hand]V$ibašši
+
+#tr.en: “If in the month of Tašrītu (VII) an eclipse occurs during the evening watch …”.
+#note: This is the opening line of @i{EAE} 18, according to Uruk catalogue.
+$ single ruling
+$ (Fifth Section (EAE 19))
+13. &2 !bs * AN.GE₆ ina {d}UTU.E₃ ih-mu-ṭa ina {d}UTU.ŠU₂ a-pir
+#lem: attallû[eclipse]N; ina[on]PRP; ṣīt[exit]N&šamši[sun]N; +hamāṭu[hasten]V$ihmuṭa; ina[in]PRP; ereb[entrance]N&šamši[sun]N; apir[wearing]AJ
+
+#tr.en: “If an eclipse is (lit. “was”) early in the east, it will be decked in the west …”
+#note: This omen is not attested in the known mss of @i{EAE} 19.
+14. !cm TAB !bs : ha-ma-ṭu !cm & !cm TAB : šur-ru-u
+#lem: +hamāṭu[hasten//hastening]V'N$; +hamāṭu[hasten//hastening]V'N$; +šurrû[begin//beginning]V'N$; +šurrû[begin//beginning]V'N$
+
+#tr.en: – “@akk{TAB}” means “to be early”, “@akk{TAB}” means “to begin”.
+15. !bs * AN.GE₆ ina {d}UTU.E₃ & ih-mu-ma
+#lem: attallû[eclipse]N; ina[on]PRP; ṣīt[exit]N&šamši[sun]N; +hamāmu[gather]V$ihmuma
+
+#tr.en: “If an eclipse forms (lit. “gathered”) in the east …”
+#note: This omen is not attested in the known mss of @i{EAE} 19.
+16. &2 !bs ih-mu-ma !cm : šur-ru-u : !bs MIN<(ih-mu-ma)> !cm : ša₂-ka-nu
+#lem: ihmuma[gather]V; šurrû[beginning]'N; ihmuma[gather]V; šakānu[placing]'N
+
+#tr.en: – “forms” means “to begin,” ditto means “to place”, 
+17. !bs ih-mu-ma !cm & !cm šur-ru-u
+#lem: ihmuma[gather]V; šurrû[beginning]'N
+
+#tr.en: “forms” means “to begin.”
+$ single ruling
+18. &2 !bs * ina {iti}ZIZ₂ AN.GE₆ EN.NUN.AN.USAN₂ GAR
+#lem: ina[in]PRP; Šabaṭu[]MN; attallû[eclipse]N; barārīti[evening watch]N; šakin[displayed]AJ
+
+#tr.en: “If in the month of Šabāṭu (XI) an eclipse occurs during the evening-watch …”.
+#note: = Incipit of @i{EAE} 19
+$ single ruling
+$ (Sixth Section (EAE 20))
+19. !bs EŠ₃.NUN.NA{ki} !cm & KUR ṭup-li-ia₂-aš₃
+#lem: Ešnuna[1]SN; mātu[land]N; +Ṭupliaš[]PN$
+
+#tr.en: “Ešnunna” (= @i{EAE} 20 §V recension A 4 = Rochberg 1988: 197) means “the land of Ṭupliaš.”
+#note: Since this section probably deals with @i{EAE} 20, it seems probable that this entry refers to the reference to Ešnunna in this Tablet rather than the one in @i{EAE} 21 (cf. Roaf in A. Bartelmus and K. Sternitzke (eds.) @i{Karduniaš: Babylonian Under the Kassites} 2017, p. 174).
+20. &2 !bs KUR GAL ana KUR TUR ana ši-la-a-te i-ha-aq-ma
+#lem: mātu[land]N; +rabû[great]AJ$rabītu; ana[towards]PRP; erṣetu[earth]N; +ṣehru[small]AJ$ṣeherti; ana[according to]PRP; +šillatu[booty]N$šillati; ihâq-ma[go]V
+
+#tr.en:  “A great country will @i{go against} a small country for booty”
+#note: Possibly = @i{EAE} 20 §I.2 recension A 7 = Rochberg 1988: 165. @i{CAD} H 87a books this occurrence of @akk{i-ha-aq-ma} under @i{hâqu} A, “to mix”, but @i{hâqu} B, “a verb of motion”, seems more likely in light of the fact that @akk{i-ha-aq-ma} in a similar context (@i{EAE} 21 §6, 4) is explained as @i{alāku} in CCP 3.1.21, l. 16'.
+21. !bs ha-a-qu !cm & !cm la*-ka#?-du#?
+#lem: hâqu[going]'N; lakādu[running]'N
+
+#tr.en: – “to @i{go}” means “@i{to run}”,
+#note: @i{CAD} H 86b and 87a reads the second subcolumn as @akk{šu-ta#-hu#-[qu]}, “to be mixed together”, but the first sign is clearly a @akk{LA}. Since @i{hâqu} is equated with @i{alāku}, “to go”, in CCP 3.1.u.19 i 14, the restoration of the second word in this line is based on the equation of @i{alāku} with @i{lakādu}, in An 9 49-68 (reference from @i{CAD} A/1 302b). Since LA is mistakenly written for ŠU in i 19', could this be another case of the same mistake?
+22. &2 !bs di ud ki !zz x# x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+#tr.en: … […]
+23. di-pa-[ri? ...]
+#lem: dipārī[torch]N; u
+
+#tr.en: “tor[ch” …]
+24. GAL₂ : ba?-šu#?-u#? & [...]
+#lem: bašû[being (at hand)]'N; bašû[being (at hand)]'N; u
+
+#tr.en: “@akk{GAL₂}” means “@i{to be}” […]
+#note: Alternatively, the sign following the colon could be the first part of a @akk{KA}.
+25. URU MU x# [...]
+#lem: u; u; u; u
+
+#tr.en: … […]
+26. LU₂ LU₂#? [...]
+#lem: amēlu[man]N; amēla[man]N; u
+
+#tr.en: … […]
+#note: @akk{LU₂ LU₂} appears in Source “l” of @i{EAE} 20, l. 2', (Rochberg 1988: 195).
+$ single ruling
+27. &2 !bs * ina {iti}BARA₂# [AN.GE₆ EN.NUN.AN.USAN₂ GAR]
+#lem: ina[in]PRP; Nisannu[1]MN; attallû[eclipse]N; barārīti[evening watch]N; šakin[displayed]AJ
+
+#tr.en: “If in the month of Ad[dāru (1) an eclipse occurs during the evening watch …”]
+#note: = Incipit of @i{EAE} 20, Recension A
+$ single ruling
+$ (Seventh Section (“If the Yoke of the Sea grows dark”))
+28. &2 !zz u₂-[...]
+#lem: u
+
+#tr.en: … […]
+29. &2 !zz la x# [...]
+#lem: u; u; u
+
+#tr.en: … […]
+30. &2 !zz ina# x# [...]
+#lem: ina[in]PRP; u; u
+
+#tr.en: … […]
+31. &2 !zz GIŠ x# [...]
+#lem: u; u; u
+
+#tr.en: … […]
+#note: The traces of the second sign are consistent with DU, among other signs.
+32. &2 !zz KUR ME x x# [...]
+#lem: mātu[land]N; u; u; u; u
+
+#tr.en: … […]
+33. &2 !zz la-ʾ-[...]
+#lem: u
+
+#tr.en: … […]
+34. &2 !zz ina DU {d}[...]
+#lem: ina[in]PRP; u; u
+
+#tr.en: … […]
+$ single ruling
+35. &2 !bs * {mul}ŠUDUN# ša₂ A#.[AB.BA a]-dir#
+#lem: Niru[Yoke]CN; ša[of]DET; tâmti[sea]N; adir[dark]AJ
+
+#tr.en: “If the Yoke of the S[ea] grows dark.”
+#note: Rochberg (1988: 272) proposes that this incipit, which is also cited in @i{EAE} 20 text b (BM 34528) r. 14' and text k (VAT 7825) r. 8 (Rochberg 1988: 220 and 227) and @i{ACh Ištar} 21, l. 41, is the incipit to another astrological commentary.
+$ single ruling
+$ (Eighth Section (EAE 22 – no incipit))
+36. !bs u₂-ru-ba-tu₂ !cm & !cm bi-ka#-tu₂
+#lem: urubātu[lamentation]N; +bikītu[weeping]N$bikâtu
+
+#tr.en: “Wailing” (= @i{EAE} 22 part I § I: 1) means “weeping”.
+#note: @i{Urubātu} occurs in apodoses of other omens in @i{EAE} 22, namely: I § VIII 1 and 3 and possibly I § VII 1 (Rochberg 1988: 258-9).
+37. !bs IŠŠEBU !cm : šar-ru₃ & !bs KUR !cm : te-bu-u
+#lem: +šarru[king]N$; +šarru[king]N$; +tebû[get up//getting up]V'N$; +tebû[get up//getting up]V'N$
+
+#tr.en: “@akk{IŠŠEBU}” (= @i{EAE} 22: part I § I: 1) means “king”, “@akk{KUR}” (= @i{EAE} 22: part I § I: 3) means “to rise”.
+#note: “IŠSEBU” (i.e., 3(diš) 2(u)) is attested multiple times in @i{EAE} 22 – part I § II: 1-4, part I § III: 2-4, part I § IV: 4, part I § V: 1, part I § VI: 3-4, part I § VII: 3, part I § VIII: 1, 5, part I § XI: 1, 4, part I § XII: 5 and 7 (Rochberg 1988: 253-262). However, since @akk{KUR} with the meaning “to rise” is attested only in part I § I: 3, the @akk{IŠŠEBU} referred to here must be the @akk{IŠŠEBU} in part I § I: 1.
+38. aš ša₂ x/šur man : pu!-su-tu₂ & pu-su-tu₂ !cm : kul-lul-tu₂
+#lem: u; X; u; u; +pussumu[covered up]AJ$pussuttu; pussuttu[covered up]AJ; +kullulu[veiled]AJ$kullultu
+
+#tr.en: “…” means “veiled”, “veiled” means “covered”.
+#note: šur.mìn (cypress)? The reading of the second equation follows @i{AHw s.v. kullulu} and @i{CAD} P 537a.
+39. !bs {+eš}ŠE₃!(KI) !cm : a-na & !bs DAB₂ !cm : ṣa-ba-tu₂
+#lem: +ana[to]PRP$; ana[to]PRP; +ṣabātu[seize//seizing]V'N$; ṣabātu[seizing]'N
+
+#tr.en: (When pronounced) “eš”, (the sign) “ŠE₃” (= @i{EAE} 22: ?) means “to”, “DAB” (= @i{EAE} 22: part I § III: 3) means “to seize”.
+#note: The gloss indicates that @akk{ŠE₃} should be read with its value “eš₂”. When the scribe wrote @akk{KI} instead of @akk{ŠE₃}, he may have been thinking of the sign @akk{KU}. The equation of @akk{EŠ₂} with @i{ana} is attested in the lexical series Ea A = @i{naqû} 1 180 (@i{MSL} 14 p. 186) (reference: @i{CAD} A/2 100b).
+40. !bs GAL?# !cm : ma-a-du & !bs GIŠ !cm : rig₂-mu
+#lem: +mâdu[be(come) many//be(com)ing many]V'N$; mâdu[be(com)ing numerous]'N; +rigmu[voice]N$; +rigmu[voice]N$
+
+#tr.en: @i{GAL} (= @i{EAE} 22: ?) means “many”, “@akk{GIŠ}” (= @i{EAE} 22: part I § IV: 5) means “cry”.
+#note: Rochberg (1988: 272) suggests restoring @akk{DIRI} on the basis of the parallel in @i{ACh Ištar} 30:46, but the traces better resemble a vertical followed by a horizontal wedge than a broken vertical wedge. Could a reading MAŠ be possible? Fits the traces better, but unattested; MEŠ and MA are attested, though. The reading of @akk{GIŠ} as @i{rigmu} is elsewhere attested only as a gloss, in CCP 6.1.16.A.a, l. 32.
+41. !bs BAR#* !cm : pa-ra-su & !cm GAL₂* :*  !bs GUR !cm : iz-bu
+#lem: +parāsu[cut (off)//cutting (off)]V'N$; parāsu[cutting (off)]'N; bašû[being (at hand))]'N; +izbu[misbirth]N$; izbu[anomaly]N
+
+#tr.en: The sign “[BA]R” (= @i{EAE} 22: part I § V: 4) means “to block” (or) “to be”, “GUR” (= {EAE} 22 ?) means “anomalous birth”.
+#note: If @akk{BAR} is the correct reading of the damaged first sign of this line, it may refer to part I § V: 4 (MS A) (Rochberg 1988: 257). Although Rochberg (1988: 272 with textual note 7) prefers to restore TAR, BAR not only better fits the traces but is also attested meaning both @i{parāsu} (@i{Principal Izbu Commentary}, ll. 252, 367 and 459) and @i{bašû} (i.e., GAL₂) in A I/6: 312 and 317 (@i{MSL} 14 234). The sign @akk{TAR} is, admittedly, attested more often in the currently known lines of @i{EAE} 22. After @akk{pa-ra-su}, Rochberg (1988: 272) reads @akk{GAL₂ :} as NAM, but @akk{NAM.GUR} : @akk{iz-bu} makes little sense. On the other hand, the equation of @akk{GUR} with @i{izbu}, though not otherwise attested, probably stems from the fact that @akk{LAGAB}, the usual logographic writing of @i{izbu}, also has the reading @akk{GUR₄}. Apart from as part of the logographic writing of the name of the god Nergal, the sign @akk{GUR} is not attested in the currently known lines of @i{EAE} 22.
+
+42.  !bs [x (x)] !bs : qa₂-ra-bu & !bs li₆-bu !cm : li-ʾ-bu
+#lem: u; u; +qerēbu[be/come close//be/coming close]V'N$; +liʾbu[(a serious disease with associated fever)]N$; +liʾbu[(a serious disease with associated fever)]N$
+
+#tr.en: [“…”] means “@i{to be near}”, “@i{li’bu}-disease” (= {EAE} 22 ?) means “@i{li’bu}-disease”.
+#note: Alternatively “x# x : ra-bu”.
+
+@reverse
+@column 3
+1. !zz [...] !bs A?# !cm : a-na
+#lem: u; u; ana[according to]PRP
+
+#tr.en: […] “A(?)” means “to”
+$ single ruling
+$ (Ninth Section (incipit unidentified so far))
+2. !bs [KUR] !cm x# nu?# & !bs MIN<(KUR?)> !cm : sa-pa-nu 
+#lem: u; u; X; +sapānu[flatten//flattening]V'N$; sapānu[flattening]'N
+
+#tr.en: […] …, “ditto” means “to flatten” (possibly = @i{EAE} 22 Part I § VIII.5),
+#note: The tentative restoration of @akk{KUR} follows the suggestion of Rochberg (1988: 259 n. 14), who points out that the writing @akk{KUR.KUR{+in}} in the omen ¶ @akk{U₄.21.KAM ERIN₂ IŠŠEBU ha-am-mi-e-šú KUR.KUR{+in}} could well stand for @i{sapānu}.
+3. &2 !zz [...]-ta*#-tu₂ & ša₂ me-re-ši 
+#lem: u; ša[of]DET; +mērešu[cultivated land]N$mēreši
+
+#tr.en: […] … of the cultivated land (possibly = @i{EAE} 22 Part II § V.2),
+#note: Rochberg (1988: 272 n. 10) points out that @i{mērišu} is attested in the apodosis @akk{ŠÈG u ILLU TAR-MEŠ me-ri-šú NU SI.SÁ}, “rain and flood will cease; the cultivated land will not flourish” = @i{EAE} 22 Part II § V.2 (Rochberg 1988: 265).
+4. !zz [...] x# & !bs GENNA !cm : ka-a-a-nu#
+#lem: u; u; Kayyamanu[Saturn]CN; kayyānu[steady]AJ
+
+#tr.en: […] “Saturn” means “regular”,
+#note: Traces inconsistent with either DINGIR or MUL.
+5. !zz [(...) !bs {d}KUR.GAL] & !cm {d}en-lil₂
+#lem: u; Ellil[1]DN; Ellil[1]DN
+
+#tr.en: [… “@akk{{d}KUR.GAL}” (= @i{EAE} 22 Part I § XI: 5) means] “Enlil”,
+#note: The restoration follows Rochberg (1988: 261 n. 16).
+6. !zz [(...) !bs ...] & !cm ma#-a-du
+#lem: u; u; mâdu[be(com)ing numerous]'N
+
+#tr.en: [“…” means] “many”,
+7. !zz [...] & !cm x# lu ud
+#lem: u; u; u; u
+
+#tr.en: […] …
+8. !bs [...] & !cm {d#}U.GUR
+#lem: u; Nergal[1]DN
+
+#tr.en: [“…” means] “Nergal”,
+9. !bs [...] & !cm :# ha-ra-ṣu#*,
+#lem: u; harāṣu[breaking off]'N
+
+#tr.en: [“…”] means “to break off”
+10. &2 !zz [...] x#
+#lem: u; u
+
+#tr.en: […] …
+$ single ruling
+11. &2 !bs [...] ha# la₂? HAL/DIDLI sa x ri erim/pir₂-tu₂
+#lem: u; X; X; u; X; u; u; X
+
+#tr.en: …
+$ single ruling
+$ (Tenth Section (EAE 23 (24)))
+12. &2 !zz [...] me#? še ur-ru-BU
+#lem: u; u; X; X
+
+#tr.en: […] …
+13. &2 !zz [...] nu# : ME-se-e-tu₂
+#lem: u; X; X
+
+#tr.en: […] …
+14. &2 !zz [...] :# u₂ šal?/TAR?-lu
+#lem: u; u; u
+
+#tr.en: […] …
+15. &2 !zz [...] :?# UD TU
+#lem: u; u; X
+
+#tr.en: […] …
+16. &2 !zz [...] pa?# qa MIN
+#lem: u; X; u; u
+
+#tr.en: […] …
+17. &2 !zz [...] TU
+#lem: u; X
+
+#tr.en: […] …
+18. &2 !zz [...] x# KUR₂ DIŠ x#
+#lem: u; u; u; u; u
+
+#tr.en: […] …
+$ single ruling
+19. &2 !bs [* MAN ina {iti}BARA₂ U₄.1.KAM ina IGI.LA₂-šu₂] GIM# di-pa-ri# [SA₅]
+#lem: šar[king]N; ina[in]PRP; Nisannu[]MN; n; ina[at]PRP; tāmartišu[appearance]N; kīma[according to]PRP; dipāri[torch]N; sāmū[red]AJ
+
+#tr.en: [“If the sun at its appearance on day 1 of the month of Addāru (I) is red] like a torch …”
+#note: Incipit of @i{EAE} 23 (24). 
+$ single ruling
+$ (Eleventh Section (meagre remains only))
+20. &2 !zz [...] x# x#
+#lem: u; u; u
+
+#tr.en: […] …
+#note: If this section of the commentary, the eleventh preserved, follows the previous section in sequence, it should comment on @i{EAE} Tablet 24 (25). Several commentaries on @i{EAE} 24 (25) are known and available in editions by Van Soldt (1995: 40-50), but no overlaps between them and the few preserved signs of this section have been identified.
+$ (Gap of approximately 8 lines)
+29'. &2 !zz [...] x# x# x# x#
+#lem: u; u; u; u; u
+
+#tr.en: […] …
+30'. &2 !zz [...] x# u
+#lem: u; u; u
+
+#tr.en: […] …
+31'. &2 !zz [...] x# qu
+#lem: u; u; X
+
+#tr.en: […] …
+32'. &2 !zz [...] x#-pa-ku
+#lem: u; u
+
+#tr.en: […] …
+33'. &2 !zz [...] ṣu
+#lem: u; X
+
+#tr.en: […] …
+34'. &2 !zz [...] nu
+#lem: u; u
+
+#tr.en: […] …
+35. &2 !zz [...] en ud
+#lem: u; u; u
+
+#tr.en: […] …
+36'. &2 !zz [...] x# ur pa ni
+#lem: u; u; u; X; X
+
+#tr.en: […] …
+37'. &2 !zz [...] ma#?-ṣu-u
+#lem: u; maṣû[corresponding]AJ
+
+#tr.en: […] …
+38'. &2 !zz [...]-ma#?-ah
+#lem: u
+
+#tr.en: […] …
+39'. &2 !zz [...] !cm ha#-ma-ṭu
+#lem: u; hamāṭu[hastening]'N
+
+#tr.en: [… (means)] “to be quick”,
+40'. &2 !zz [...]-ra#-ru
+#lem: u
+
+#tr.en: […] …
+41'. &2 !zz [...] x#-tu₄
+#lem: u; u
+
+#tr.en: […] …
+42'. &2 !zz [...] x# ri#? bu
+#lem: u; u; X; u
+
+#tr.en: […] …

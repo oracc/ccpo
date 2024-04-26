@@ -1,0 +1,61 @@
+&P461307 = CCP 3.1.53 (http://ccp.yale.edu/P461307) = AO 10319
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs * {mul}e-tu-ram-mi
+#lem: +Eturamu[]CN$Ēturammi
+
+2. ($___$) !bs SUKKAL {d}a-nu-um
+#lem: šukkal[minister]N; Anum[1]DN
+
+3. !bs : SUKKAL {d}a-nu-ni-tu₄
+#lem: šukkal[minister]N; +Annunitu[]DN$
+
+4. !bs : SUKKAL {d}NINNU.DI
+#lem: šukkal[minister]N; +Ninnudu[]GN$Ninnudi
+
+#note: The god @i{Ninnudi} is probably to be identified with the rare god Ninnudu.
+5. !bs ana {mul}ŠU.GI
+#lem: ana[according to]PRP; Šibu[Old Man]CN
+
+6. !bs :# ana# {mul}ŠU.PA! TE
+#lem: ana[to]PRP; +Šupa[]CN$; +ṭehû[approach]V$iṭehhi
+
+7. !bs ina MU BI LUGAL# UŠ₂-ma
+#lem: ina[in]PRP; šatti[year]N; šiāti[that]IP; šar[king]N; imâtma[die]V
+
+@reverse
+
+8. !bs KI.LAM nap-ša₂ KUR GU₇
+#lem: +mahīru[exchange rate]N$mahīra; napša[plentiful]AJ; mātu[land]N; ikkal[eat]V
+
+9. !bs u₃?# BURU₁₄ <ŠE> u ŠE!.GIŠ!.I₃!
+#lem: u[and]CNJ; ebūr[harvest]N; šeʾi[barley]N; u[and]CNJ; šamaššammī[sesame]N
+
+10. ($___$) !bs [ina] KUR# GAL₂{+ši}
+#lem: ina[in]PRP; māti[land]N; ibašši[exist]V
+
+11. !cm [x x x x x] x#
+#lem: u; u; u; u; u; u
+
+$ rest of reverse broken
+
+@left
+
+1. !cm x [x x (x x)]
+#lem: u; u; u; u; u
+
+@translation labeled en project
+
+@label o 1 - r 10
+
+“If the Eturammi-star, the vizier of Anu (variant: the vizier of Anunītu; variant: the vizier of @i{Ninnudi}) comes close to the Šugi-star (variant: comes close to the Šupa-star) the king will die within that year and the land will enjoy an abundant market, @i{and} there will be a harvest of barley and sesame in the country” (= @i{ACh} 2 @i{Suppl}. 78 i 8'-9').
+
+@label r 11 - l.e. 1
+
+...

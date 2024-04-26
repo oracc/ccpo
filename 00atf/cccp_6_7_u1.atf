@@ -1,0 +1,99 @@
+&P348739 = CCP 6.7.u1 (http://ccp.yale.edu/P348739) = W 22712/1a
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] !bs DIŠ !cm : MU iš-ten₂ : !bs DIŠ !cm : ZIB₂{+ib} [(x)] 
+#lem: u; ištēn[one]NU; +ašša[because]PRP$; +ištēn[one]NU$; ištēn[one]NU; X; u
+
+#tr.en: […] DIŠ because “one” (@i{ištēn}) is “one” (DIŠ); ? [means …]
+
+#note: DIŠ can also be read GÉŠ “60,” as it is in l. 3′, a reference to Anu’s god number. Here, its alternate reading as the number one is used instead as part of the explanation of something that is lost. While not part of the preserved text here, the similar AN.ZÍB means @i{teleʾû} “able, experienced,” an epithet attested with Enlil as @i{ilu teleʾû} but much more commonly used in the feminine form @i{telītu} as an attribute of Ištar (@i{CAD} T: 327-28). This is possibly related to Anu’s usurpation of Ištar’s primacy in Uruk, though it is rare that the god (rather than Antu) is given Ištar’s epithets directly.
+
+2'. !zz [... !bs DIŠ?] !cm {d}a-nu-um !zz : DIŠ DINGIR.GUB : ba an aš eš ri?#
+#lem: u; ištēn[one]NU; Anum[1]DN; ištēn[one]NU; X; X; u; X; X; X
+
+#tr.en: [… DIŠ means(?)] Anu; …
+
+#note: The syllabic writing @akk{{d}a-nu-um} is consistent with @i{An = Anum}. @akk{BA DINGIR} could be @akk{ba-an} “creator.” The colon between @akk{GUB} and @akk{BA} is possibly a mistake (based on errors in 3' and 5'), leading to a reading @akk{DINGIR.GUB.BA}. For @akk{DINGIR.GUB.BA} as a type of divine attendant to other gods, see Litke 1998: 7, including fn. 50. It is nonetheless not clear what is meant in this part of the line. 
+
+3'. !zz [...] !bs {d#}GEŠ₂ !cm : LUGAL <<:>> kiš-šat : !bs GEŠ₂ !cm : {d}a-nu-um
+#lem: u; +Anu[]DN$; šar[king]N; kiššat[all]N; +Anu[]DN$; Anum[1]DN
+
+#tr.en: […] Anu (@sup{d}60) means “king of totality”; 60 means Anu
+
+#note: This equation may come from ŠÁR meaning @i{šarru} and @i{kiššatu}. As mentioned, writing Anu’s name as @akk{{d}60} is the standard for this period and is meant to indicate totality, providing another wordplay with the title “king of totality.”
+
+4'. !zz [... !bs DINGIR] !cm : i-lu₄ : !bs DINGIR !cm : be-el :: !bs DINGIR !cm : šar-ri
+#lem: u; ilu[god]N; +ilu[god]N$; +bēlu[lord]N$; bēl[lord]N; +šarru[king]N$; šarri[king]N
+
+#tr.en: [… “DINGIR”] means “god”; “DINGIR” means “lord”; “DINGIR” means “king”
+
+#note: This line explains the equation in line 3′ between @akk{{d}GEŠ₂} and @i{šar kiššati} via explanations of @i{šarru}.
+
+5'. !zz [...]-MEŠ# : !bs NU !cm <:> ALAN : !bs NU !cm : a!-me-lu-tu₄
+#lem: u; +ṣalmu[effigy]N$; +ṣalmu[effigy]N$; +awīlūtu[humanity]N$amēlūtu; +awīlūtu[humanity]N$amēlūtu
+
+#tr.en: […] (plural); NU (means) “image”; NU means “humanity”
+
+#note: As mentioned in the introduction above, this may be a subtle nod to the lexical list @i{An = Anu ša amēli}, which was a source for Anu theology and may have been influential in this text. The equation between @akk{NU} and @i{amēlūtu} is also attested in @i{Proto-Ea} (see @i{CAD} A II: 49, lexical section).
+
+6'. !zz [...] !cm :# ba-nu-u₂ : DINGIR-MEŠ : ṣal-mat <<:>> SAG.DU
+#lem: u; bānû[creator]N; ilāni[god]N; ṣalmāt[black]AJ; qaqqadi[head]N
+
+#tr.en: [… Anu] (is) creator of the gods (and) black-headed (people)
+
+#note: The colons in this line are still seemingly random. Epithets for Anu as @i{abu ṣalmāt qaqqadi} and @i{abu ša ilānī bānû kalāma} can be found in Tallqvist 1938: 1-2.
+
+7'. !zz [...] : !bs DINGIR !cm : ba-nu-u₂ : ṣal-lam : !bs A !cm : ba-nu-u₂
+#lem: u; ilu[god]N; bānû[creator]N; +ṣalmu[effigy]N$ṣallam; +banû[create//creating]V'N$; banû[creating]'N
+
+#tr.en: […] “god” means creator of @i{ṣallam}; A means “to create” 
+
+#note: The final equation in this line, @akk{A : ba-nu-u₂}, is also attested in BM 38121 (@i{CCP} 7.2.u24) and @i{MSL} 14: 128, 204. This line may be referencing “black” (as in “black headed” people) and “statue” as a word play.
+
+8'. !zz [...] LUH KA DINGIR-MEŠ
+#lem: u; +mīsu[washing]N$mīs; pî[accordance]N; ilāni[god]N
+
+#tr.en: […] “washing of the mouth” of the gods
+
+#note: Four texts relating to @i{mīs pî} (“washing of the mouth”), a ritual primarily but not exclusively used for divine cult images (Walker and Dick 2001), are known from Uruk (Linssen 2004: 153).
+
+9'. !zz [...]-MEŠ# AN{+e} u KI{+ti₃}
+	
+#lem: u; šamê[heaven]N; u[and]CNJ; erṣeti[earth]N
+
+#tr.en: […] of heaven and earth
+
+#note: An.ki is attested as a name of Anu in @i{An = Anu} (line 3). Titles such as “king of heaven and earth” or “lord of heaven and earth” are common epithets of the highest gods of a pantheon. 
+
+10'. !zz [...] x# : !bs URAŠ !cm : ša₂-mu-u : !bs URAŠ !cm : KI{+ti₃}
+#lem: u; u; X; X; X; erṣeti[earth]N
+
+#tr.en: […] Uraš means “heaven” (and) Uraš means “earth”
+
+#note: Uraš is @i{Anu ša milki} in @i{An = Anu ša amēli} (line 1) and is mentioned in @i{An = Anum} as a gloss for @akk{{d}IB} = @akk{{d}a-nu-um u an-tum} and likely as the reading for @akk{IB} in the next line; i.e. @akk{{d}nin-uraš} = @akk{{d}a-nu-um u an-tum} (lines 4-5), see Litke 1998: 21 fn 5. Uraš’s association with earth and, secondarily, heaven is explained in the introduction above.
+
+11'. !zz [...] !cm KI#{+tim} ša₂-niš be-lu kiš-šat EDIN
+#lem: u; erṣetim[earth]N; šanîš[alternatively]AV; bēlu[lord]N; kiššat[all]N; ṣēri[open country]N
+
+#tr.en: […] of earth; secondarily “lord (of) all of the steppe(?)” 
+
+#note: Anu is not traditionally associated with the steppe, but a number of gods are: Bēlet-ṣēri “lady of the steppe,” Lugal-edinna “king of the steppe,” Latarak (who is called @i{šar ṣēri} “king of the steppe), and Sumuqan (who is called @i{bēl ṣēri} “lord of the steppe”), among others (see @i{CAD} Ṣ: 147). In addition, the goddess @akk{A.EDIN} = Zarpanītum, Marduk’s consort, in @i{An = Anum} (Litke 1998: 106). 
+
+12'. !zz [...] x# : !bs ŠAR₂ !cm : ra-bu-u₂ : !bs ŠAR₂ !cm : ma-a-ti
+#lem: u; u; rabû[be(com)ing big]'N; rabû[be(com)ing big]'N; rabû[be(com)ing big]'N; māti[land]N
+
+#tr.en: […] … ŠÁR means “to be big;” ŠÁR means “land”
+
+#note: The equation is possibly due to ŠÁR = @i{kiššatu} (see previous line). Moreover, ŠÁR is the second element in several of Anu's bynames in @i{An = Anum} (lines 6-11) and so this may meant to explain that element, especially if this continues a discussion of Ki.šar or Ki.šar.gal that begins in the lines previously. Similarly, a god called ŠÁR.GAL is the @i{Anu ša kiššat šamê} in @i{An = Anu ša amēli} (line 11), possibly also playing on GAL = @i{rabû} and the epithets in previous lines. Furthermore, a commentary on @i{Enūma Anu Enlil} includes the line @akk{{+šar}ŠAR₂ ra-bu-u₂} (82-5-2,572 = @i{CCP} 3.1.47, line 29’).
+
+
+13'. !zz [...]
+#lem: u
+
+#tr.en: …

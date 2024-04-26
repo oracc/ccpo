@@ -1,0 +1,48 @@
+&P469990 = CCP 6.1.12 (http://ccp.yale.edu/P469990) = BM 38525
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [(...) x] & !zz [x] x# x# [...]
+#lem: u; u; u; u; u; u
+
+#tr.en: [(…)] … […]
+2'. !zz [(...)] x# & !bs mi-iš-lu₄ !cm : UD#-x# [...]
+#lem: u; u; +mišlu[half]N$; u; u
+
+#tr.en: [(…)] … “Half” (@i{Ea} II 167 = @i{Aa} II/4 171) … […]
+#note: Compare perhaps @akk{BAR U₄{+mu} : mi-šil ta-am-mu} in @i{CCP} 4.2.B ll. 22-23 (courtesy U. Gabbay).
+3'. !zz [(...)] x# & !cm meš-lu : !bs {+ba-a}EŠ gi-[gu-ru-u eš-še-ku !zz ...]
+#lem: u; u; +mišlu[half]N$mešlu; X; X; X; u
+
+#tr.en: [(…)] … “Half.” EŠ, read /@i{ba}/, is the @i{gi}[@i{guru eššeku}-sign (?) …]
+
+#note: The restoration at the end of the line, based on @i{Aa} II/4 169ff., was suggested by Niek Veldhuis.
+
+4'. !zz [(...)] x# & !bs su-u₂-tu₄ !cm : ba-x# [...]
+#lem: u; u; +sūtu[seah]N$; u; u
+
+#tr.en: [(…)] … “@i{sūtu}”-vessel (@i{Aa} II/4 176) … […]. 
+5'. !zz [(...)] x# & !bs u₂-ṭu₂{+ṭu}-um !cm : u₂-tu#{+ṭu#} [...]
+#lem: u; u; +ūṭu[span//half-cubit]N'N$ūṭum; +ūṭu[span//half-cubit]N'N$; u
+
+#tr.en: [(…)] … “Half cubit” — “half cubit” […].
+#note: Note the archaizing writing of @i{ú-ṭú-um} 
+6'. !zz [(...)] x# & !zz da# x# (x#) A.ŠA₃ : x# [...]
+#lem: u; u; X; u; u; eqli[field]N; u; u
+
+#tr.en: [(…)] … of the field … […]
+7'. !zz [(...)] & !zz IG/KAB#{+x#} x# [...]
+#lem: u; u; u; u
+
+#tr.en: [(…)] … […]
+8'. !zz [(...)] & !zz gi [...]
+#lem: u; X; u
+
+#tr.en: [(…)] … […]
+9'. !zz [(...)] & !zz za?-[...]
+#lem: u; u
+
+#tr.en: [(…)] … […]

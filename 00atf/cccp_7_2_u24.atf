@@ -1,0 +1,101 @@
+&P461162 = CCP 7.2.u24 (http://ccp.yale.edu/P461162) = BM 38121
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs %sux ta?# & !cm %sb a-za-ru₃
+#lem: M; +azāru[help//helping]V'N$
+
+2. &2 !bs %sux a !cm : %sb ba-nu-u₂ : !bs %sux si-a !cm : %sb ma-lu-u
+#lem: a[water]; +banû[create//creating]V'N$; si[fill]; +malû[be(come) full//be(com)ing full]V'N$
+
+#note: Cp. @i{Aa} I/1 104 (@i{MSL} 14 204): a-a A = @i{banû}.
+
+#NV I have replaced diri by si-a because of the association with malû. Replaced malû V by malû AJ - also in translation.
+#EJ I think it would be better to take it as an infinitive: commentaries usually cite the infinitive, rather than the adjective, and in Akkadian DIRI is often used to represent the verb malû.
+3. &2 !bs %sux kud !cm : %sb na-ka-su
+#lem: kud[break]; nakāsu[cutting]'N
+
+4. !bs %sux sar & !cm %sb ha-ba-tu₄ ša₂ a-la-ku
+#lem: sar[run]; +habātu[wander//wandering]V'N$; ša[of]DET; alāku[going]'N
+
+#note: @i{CAD} A/1 300b understands the equation as @akk{SAR} = @i{ḫa-ma-ṭum šá a-la-ku}, but @i{CAD} Ḫ 12a reads the verb as @i{ḫa-ba-tum}. The sign on the tablet looks rather @akk{BA} than @akk{MA}. Moreover the equation @akk{SAR} = @i{ḫa-ba-tum šá a-la}-[@i{ki}] is attested in @i{Antagal} A 114 (@i{MSL} 17 185 [in Assyrian script]) and in the @i{Aa} commentary AO 3555 (@i{CCP} 6.1.39) rev 19 (@i{MSL} 14 504).
+
+#NV note that Antagal is an Assyrian composition. The sentence is missing an opening bracket.
+
+5. !bs %sux lil₂-la₂ & !cm %sb ša₂-a-ri
+#lem: lil[ghost]N; šāri[wind]N
+
+6. &2 !bs %sux a !cm : %sb me-e : !bs %sux sar !cm : %sb ha-ba-tu₄
+#lem: a[water]N; mê[water]N; sar[run]; +habātu[wander//wandering]V'N$
+
+#note: @akk{A} and @akk{SAR} are perhaps not part of the base text, but a speculative etymology of @i{šāru}, "wind."
+7. !bs %sux dur₂-bi eš₂-ŋar & !cm %sb ki-is-kir-ru₃ e-lu-u
+#lem: +dur[board]N/dur₂#~,bi; +ešŋar[part of a loom]N/eš₂-ŋar#~; +kiskirru[(a wooden board)]N$; +elû[high]AJ$
+
+#note: The equation is apparently taken from @i{Nabnītu} XXV (L) 166 (@i{MSL} 16 228): @akk{{giš}DÚR.BI.ÉŠ.GAR} : @i{ki-is-kir-rum} MIN<(@i{e-lu-u})> [EJ]. {ŋeš}dur₂-bi eš-ŋar and {ŋeš}bar-bi eš-ŋar appear in OB Nippur Ura 1 513-514. The words are also attested in @i{CUSAS} 3, 635 (Ur III Garšana), where they clearly refer to parts of the loom (or necessities for weaving) and are spelled dur₂-bi eš₂-ŋar and bar-bi eš₂-ŋar. The Emar lexical tradition has replaced these two items by dur₂ an-ta and dur₂ ki-ta: upper board and lower board (compare the Nabnitu entry). This is confusing, dur₂-bi meaning "(the cloth's) bottom" and bar-bi "(the cloth's) outside." That this becomes "upper and lower board" may be related to the change from a horizontal to a vertical loom - but what these words mean is still unclear to me. The expression eš₂ ŋar means "to set out with a rope" as in preparations for building - and may have something to do with attaching the warp to something. That Nippur Ura 1 spells this with eš (rather than eš₂) is, again, quite confusing (but I believe there is only one source). Waetzoldt in @i{CUSAS} 6, 411 reads {ŋiš}KU-bi in his discussion of @i{CUSAS} 3, 635, but in the light of the OB Ea version JCS 4, 75-76 (dcclt/P292604) @i{du-ur} KU @i{ki-is-ki-ir-rum} the reading dur₂ is certain (Waetzoldt does not consider the lexical material in this article) [NV].
+
+8. &2 !cm %sb sim-mil-tu₄ ša₂ nam-ṣa-bi
+#lem: +simmiltu[stair(case)]N$; ša[that]REL; +naṣṣabu[drain pipe]N$namṣabi
+
+9. !bs %sux eš₂! & !cm %sb e-lu-u
+#lem: eš[rope]; elû[high]AJ
+
+#note: The first sign looks rather like @akk{ŠU} (see Landsberger's comments in @i{MSL} 6 100 fn), but cp. @i{e-eš} @akk{EŠ} = @i{e-li-um} in @i{Aa} II/4 184 (@i{MSL} 14 285).
+
+10. !bs %sux igi !cm : %sb ma-har & !bs %sux ab-ba !cm : %sb ši-i-bi
+#lem: igi[front]N; mahar[presence]N; abba[elder]; +šību[elder//witness]N'N$šībi
+
+11. !bs %sux igi gid₂ & !cm %sb a-ma-ru₃
+#lem: igi[eye]; gid[long]; +amāru[see//seeing]V'N$
+
+#note: @akk{IGI.GÍD} = @i{amāru} is attested in @i{Izi} B i 9. See also DT 47 10' (@i{CCP} 3.1.58.F.c): @akk{GÍD} @i{na-ma-ru} @akk{GÍD} @i{a-ma-ru}. It probably represents an attempt at etymologizing on the word "witness" (@i{š̄ībi}) from the previous line (@akk{IGI.GÍD} = @i{ši-bu}), rather than an explanation of the base text.
+12. !bs %sux munus? lil₂ & !cm %sb ša₂-a-ru₃
+#lem: munus[woman]N; lil[ghost]N; +šāru[wind]N$
+
+#note: The reading of the first word was proposed by E. Frahm (privatim).
+
+$(reverse)
+
+13. &2 !qt %sux lil₂ {d}inana-ta e₃ : <<x>>
+#lem: lil[ghost]N; +Inana[]DN/{d}inana#~,ta; e[leave]
+
+#note: The first sign could also be read as É.
+14. &2 !bs {d}ki*-li*-li
+#lem: Kilili[1]DN
+
+15. &2 !cm %sb {d}INNIN ša₂ ul-tu LIL₂ u₂-še-eṣ-ṣu-u
+#lem: +Ištar[]DN; ša[that]REL; ultu[after]PRP; u; +aṣû[go out//let go out]V'V$ušeṣṣû
+
+$ 5 lines blank
+
+16. &2 !qt a-na be-lu₄ ša₂ DINGIR-MEŠ a-ša₂-red er*#-red*-du
+#lem: ana[to]PRP; bēlu[lord]N; ša[that]REL; ilī[god]N; ašarēd[first and foremost]AJ; +redû[accompany//be led away]V'V$erreddu
+
+#note: Quotation from the @i{Great Gula Hymn}: see the introduction.
+17. &2 !qt e-ma i-red-du re-ša₂-a-šu₂ ša₂-qa-a
+#lem: ēma[each]XP; +redû[accompany]V$ireddû; +rēšu[head]N$rēšāšu; šaqâ[high]AJ
+
+@translation parallel en project
+
+1. @i{ta} (?) means “to help.”
+2. a means “to create;” si-a means “to fill.”
+3. kud means “to cut.”
+4. sar means “to wander,” said of walking.
+5. líl-la means “wind” (@i{šāru}).
+6. (In @i{šāru}) (?), a means “water;” sar means “to wander,” said of walking.
+7. dúr-bi éš-gar means “top board of a brick mold.”
+8. (alternatively, it means) “staircase,” of a drain pipe.
+9. éš means “high.”
+10. igi means “in front of;” abba means “witness” (@i{šību})
+11. (because the signs @i{ši-bu}, read as) igi-gíd, mean “to see.”
+12. munus-líl (i.e., a demoness) means “wind.”
+13. (As in?) líl d.innin-ta è,
+14. (i.e.), Kilīli,
+15. (which means) “Ištar, who saves from the @i{ghost}.”
+16. “I have been led to the lord of the gods, the foremost.”
+17. “Wherever he goes, his head is exalted.”

@@ -1,0 +1,145 @@
+&P348468 = CCP 4.2.D (http://ccp.yale.edu/P348468) = W 22307/35
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+
+@tablet
+
+@obverse
+1. !bs * NA EME-šu₂ eb-ṭe-et-ma !cm : e-be₂-ṭu : na-pa-hu
+#lem: amēlu[man]N; lišānšu[tongue]N; ebṭetma[swollen]AJ; ebēṭu[swelling up]'N; +napāhu[blow//be(com)ing swollen]V'N$
+#note: obv. 1: DIŠ amīlu lišānšu ebṭetma, the incipit of the base text, serves as a kind of headline of the commentary. The equation ebēṭu = napāḫu is also attested in the Sa-gig 4 commentary CT 51, 136: 9-10 (CCP 4.1.4.B) and the botanical commentary CT 41, 45: 17 (CCP 6.5).
+
+2. !cm e-be₂-ṭu : ra-bu-u₂ : !bs MAŠKIM mu-sa-a-ti !cm : {d}ŠU.LAK
+#lem: ebēṭu[swelling up]'N; +rabû[be(come) big//growing]V'N$ +.; rābiṣ[(a demon)]N; +musâtu[(used) washing water//lavatory]N$musâti; +Šulak[]DN$ +.
+#note: 2: For more information on the rābiṣu-demon, see RlA 7, 454-55.
+3. !qt a-na E₂ mu-sa-a-tu₂ la₃ KU₄{+ub} : {d}ŠU.LAK SIG₃-su
+#lem: ana[into]PRP; bīt[house]N; +musâtu[(used) washing water]N$; lā[not]MOD; +erēbu[enter]V$irrub; Šulak[1]DN; +mahāṣu[beat]V$imahhassu +.
+#note: 3: In this line, the commentator provides an unmarked quotation derived from the hemerological text KAR 177 (and duplicates). His goal, it seems, is to demonstrate that the equation of the “demon of the lavatory” with Šulak is based on the authority of an established text. Some thoughts on the connection between demons, lavatories, and strokes (mišittu, explained later in the commentary) have been contributed by Stol (1993, 76), who points to a widely held belief, known also from Jewish, Islamic, and Christian sources, that “exposed as he is in the bathroom, man can easily fall victim to demons.” A prominent example is the story of San Gimignano, the patron saint of the Italian city of the same name, whose fame came from having managed to overcome the devil when he encountered him on the way to the toilet.
+4. !cm {d}ŠU.LAK ša₂ E{+u₂} : ŠU : qa-tu₄ : la : la-a : KU₃ : el-lu
+#lem: Šulak[1]DN; +ša[that//whom]REL$; qabû[said]AJ; +qātu[hand]N$; qātu[hand]N; lā[not]MOD; +lā[not]MOD$; +ellu[pure]AJ$; ellu[pure]AJ +.
+#note: 4: A (pseudo-)etymological analysis of the name Šulak, based on Sumerian words (šu, kù) as well as on Akkadian (lā). See Parpola 1998, 319.
+5. !cm ana E₂ mu-sa-a-tu₂ KU₄{+ub} ŠU₂-šu₂ NU KU₃ ana UGU qa-bi
+#lem: ana[into]PRP; bīt[house]N; musâtu[(used) washing water]N; irrub[enter]V; +qātu[hand]N$qātšu; lā[not]MOD; +ellu[pure]AJ$ellatu; ana[on]PRP; muhhi[account]N; qabi[said]AJ +.
+
+6. !bs lu-ur-pa-ni !cm ki-i {na₄}ZA.GIN₃-ma ZALAG₂ ta-kip ša₂-niš lu-ur-pa-ni : IM.GA₂.LU
+#lem: +lurpiānu[(a mineral?)]N$lurpâni; kī[like]PRP; +uqnû[lapis lazuli]N$uqnîma; +nūru[light]N$nūra; takip[spotted (with)]AJ +.; šanîš[alternatively]AV; lurpâni[(a mineral?)]N; +kalû[orpiment?]N$ +.
+#note: 6: The first statement about the lurpânu-mineral is reminiscent of similar descriptions of stones in the compendium Abnu šikinšu (Schuster-Brandis 2008, 17-47), but is not attested in the preserved portions of that series. The equation of lurpânu with kalû-paste is probably inspired by lexical entries (in ḪAR-ra and ḪAR-gud) that equate kalû-paste with illur-pāni “rouge (for facial makeup)(?).”1881 The commentary entry thus associates lurpânu, somewhat confusingly, with three different colors: blue (uqnû “lapislazuli”), red (illurpā ni), and yellow (kalû-paste).
+7. !bs mi-šit-tu₂ !cm : ma-ša₂-du : ma-ha-ṣu : mi-šit-tu₂ : ša₂ in-šu-u₂
+#lem: +mišittu[(medical) stroke]N$; +mašādu[beat//striking (with disease)]V'N$; +mahāṣu[beat//inflicting]V'N$; +mišītu[confusion]N$; ša[that]REL; +mašû[forget]V$inšû +.
+#note: 7-8: The noun mišittu “stroke” is explained through a reference to the infinitive of its verbal root, which is, in turn, equated with a synonym. The following commentary entry is difficult. Hunger transliterates šá in-šu-ú / šá TAR-šú, apparently taking the TAR-sign as a logogram. My own reading and interpretation, provided above, are tentative, but seem, on the whole, to make better sense, especially when we consider the importance of writing in the world of first millennium Mesopotamian exorcists. Yet, while the loss of one’s ability to write can certainly be the symptom of a stroke, it must be admitted that the Mesopotamian medical texts known so far mention forgetfulness only in connection with spoken words, never with regard to writing skills. Note that the verbal form inšû is derived from mašû, which is phonetically similar to mišittu and mašādu.
+8. !cm ša₂-ṭar-šu₂ im-ta-šid mi-šit-tu₂ : !bs IGI-šu₂ i-ṣa-par !cm : BAR : ṣa-pa-ru
+#lem: +šaṭāru[write (down)//writing (down)]V'N$šaṭāršu; +mašādu[beat//strike (with disease)]V$imtašid; mišittu[(medical) stroke]N +.; īnšu[eye]N; iṣappar[wink]V; +ṣapāru[press down//winking]V'N$; +ṣapāru[press down//winking]V'N$
+#note: 8-9: The equations provided here seem to derive from a Sumero-Akkadian word list, but are so far not attested in any.
+9. !cm BAR : za-a-ru : !bs ur-GA-at-tu₂ la it-ta-na-a-a-al
+#lem: +zâru[twist//twisting]V'N$; +zâru[twist//twisting]V'N$ +.; +retû[drive in//stare]V$urtattu; lā[not]MOD; +nâlu[lie down//sleep]V$ittanaʾʾal
+#note: 9-10: The commentator abstains from correcting the erroneous ur-GA-at-tú of his base text and, quoting the incorrect form, provides an explanation that makes no sense whatsoever in the context in which the word appears there. For a more detailed discussion of this entry and the philological manipulations informing it, see the pertinent remarks in 9.2.
+10. !cm ur-{+ga}GA-at-tu₂ : bu-uš-qi₂-it-tu₂ : !bs muš-šu-da !cm : muš-šu-ʾu
+#lem: +retû[drive in//stare]V$urtattu; +bušqittu[(meaning unknown)]N$ +.; +mašādu[beat//rubbing]V'N$muššuda; +muššuʾu[rub//rubbing]V'N$ +.
+#note: 10-11: The commentator, basing himself again on phonetic similarities, claims that the terms muššudu (“to rub”), muššuʾu (“to massage”), and mašmaššūtu (“the exorcist’s craft”) are also semantically related. The goal of the entry is to establish a link between a specific symptom from which the patient suffered, and the exorcist as the professional who was able cure it.
+11. !cm aš₂-šu₂ maš-maš-u₂-tu ki-i qa-bu-u₂ : !bs I₃.UDU {šim}GIG ša₂ I₃.GIŠ u₂-kal-lu
+#lem: aššu[concerning]'PRP; +mašmaššūtu[conjuration//exorcism]N$; kī[as]PRP; +qabû[said]AJ$; lip[pith]N; kanakti[(an incense-bearing tree)]N; ša[that]REL; šamna[oil]N; +kullu[hold//contain]V$ukallu
+#note: 11-13: The passage beginning with ì-udu šim-gig and ending with ṭu-up-pu is not attested in SBTU 1, 46, the commentary’s apparent base text. Its key elements are, however, known from BAM 523, iii 3’-8’ (and the duplicate passage BAM 174, obv. 1’-4’), a short recipe against the immobilization of a man’s mouth and lips and the aphasia that derives from this condition (DIŠ na ka-šú nundum-su ana zag kub-bu-ul-ma da-ba-ba la ªi¬-[le-ʾe]).1884 The recipe mentions “tallow of the kanaktu-tree, which holds oil,” the Tallow-of-the-erištuplant, and a “goat’s šipku-hide.” That it is the subject of the commentary passage at hand has already been recognized by Köcher, BAM 6, XV. BAM 523 joins with AMT 76/5 + 77/1 + 77/5 + 79/4 + 82/2, forming with these other pieces a large tablet that has a number of additional parallels with SBTU 1, 46. It is possible that Anu-ik‚ur knew the passage commented on in this section from a tablet comparable to BAM 523+, but we cannot be certain. As already pointed out by Hunger, ì-udu = lipû, lit., “tallow,” seems to be the first element of the names of a number of trees and plants; ì-udu e-riš-ti, for instance, is elsewhere equated with the aššultu-plant.1885 The explanatory remarks seem to indicate, however, that the commentator took ì-udu šim-gig as a term for the sap of the wood of the kanaktu-tree, and not as a plant name.
+12. !cm {šim}GIG SUD₂ EN I₃.GIŠ E₃{+a} : !bs I₃.UDU e-riš-ti !cm : I₃.UDU ku-ri-tu₄
+#lem: kanakti[aromatic resin]N; tasâk[pound]V; adi[until]PRP; šamnu[oil]N; +waṣû[go out]V$uṣṣâ +.; lip[pith]N; +erištu[(a plant?)]N$erišti; lip[pith]N; +kurītu[shin//(a plant?)]N$kurīti +.
+
+13. !bs ina KUŠ UZ₃ šip-ki !cm : šip-ki : ṭu-ub-bu : !bs MAŠKIM KA LU₂ uṣ-ṣab-bit#
+#lem: ina[in]PRP; mašak[skin]N; +enzu[goat]N$enzi; +šipku[(a type of leather)]N$šipki; šipki[(a type of leather)]N; +ṭūbu[goodness//physical well-being]N$ṭubbu +.; rābiṣu[(a demon)]N; pî[mouth]N; amēli[man]N; +ṣabātu[seize//bind]V$uṣṣabbit
+#note: 13: Hunger read ME KI instead of šip-ki and declared he did not understand this entry. The correct reading of ME KI was established by Farber (1979, 303), who pointed to the writing kuš.ši-ip-ki in BAM 398, rev. 35. As demonstrated in CAD Š/3, 71, šipku designates a type of leather − yet whether the commentator was actually aware of this seems highly questionable. Perhaps, he rather took the word as a non-grammatical imperative of šapāku, in the sense of “to pour.” Such an understanding is suggested by the commentarial equation of šip-ki with ṭu-uB- Bu. Hunger transliterated the latter as ṭu-ub-bu, in which he is followed by CAD Ṭ, 35a (s. v. ṭâbu). But a translation “to make pleasing” or “to repair” makes little sense in the context at hand. It is more likely that ṭu-uB-Bu represents an infinitive D of ṭepû, which means “to assign, attach, apply.” The word is attested in several medical texts, among them Šamaš-iddin’s copy of the ninth section of Šumma amīlu muḫḫašu ummu ukâl (SBTU 1, 44: 79). The entry may, then, provide yet another example of the commentator’s limited philological competence.
+14. !cm MAŠKIM : pa-ni UZ₃ ša₂-kin : !bs A PU₂ !cm ša₂ E{+u₂} : ina ŠA₃-ša₂ MAŠKIM mu-sa-a#-[ti]
+#lem: rābiṣu[(a demon)]N; pāni[front]N; -enzi[goat]N; šakin[placed]AJ +.; mê[water]N; +būru[cistern//well]N$būri; ša[that]REL; qabû[said]AJ; ina[in]PRP; +libbu[interior]N$libbiša; rābiṣ[(a demon)]N; musâti[lavatory]N +.
+#note: 14: The commentator was probably prompted to his statement that the rābiṣu has a goat-like face by the reference to the “goat’s hide” in obv. 13. Elsewhere, the rābiṣu-demon is credited with lion-like features instead (see RlA 7, 455). 14-15: Being the demon of the lavatory, Šulak was associated with water, a link that may explain why the commentator mentions him again after quoting the base text’s reference to well water. 16: As already pointed out by Farber (1979, 303), Hunger’s suggestion that the ŠI shortly before the break serves as a logogram for šapû seems unlikely; it is preferable to restore ši-p[i and to assume that the commentator’s goal was to elucidate the difficult writing ši-pí(BI). The passage commented on in this entry is probably not SBTU 1, 46: 15, since this would violate the sequence of the text; moreover, ina kuš ta-šap-pi seems to be an explanation (of ina kuš šipí) and not a quotation from the base text. At the end of the line, a possible restoration is: ši-p[i : tašappi] “‘wrap’ (ipt.) [(corresponds to) ‘you shall wrap].’
+15. !cm {d}ŠU.LAK : lu-u₂ {d}ŠU.LAK ša₂ mu-sa-a-[ti]
+#lem: Šulak[1]DN; lū[or]CNJ; Šulak[1]DN; ša[of]DET; musâti[lavatory]N +.
+
+16. !bs ina KUŠ ši#-pi₂ !cm : ina KUŠ ta-šap-pi : ši-pi?# [(x)] x# [x]
+#lem: ina[in]PRP; maški[skin]N; +šapû[wrap up]V$šipi; ina[in]PRP; maški[skin]N; +šapû[wrap up]V$tašappi; +šapû[wrap up]V$šipi; u; u; u
+
+17. !bs AL.US₂.SA !cm : ši-iq : ṭa-ba-a-tu₂ [x x x x]
+#lem: +šiqqu[(a fish condiment)]N$šīq; +šiqqu[(a fish condiment)]N$šīq; +ṭābātu[vinegar]N$; u; u; u; u
+#note: 17: The logogram al-ús-a (= šiqqu) is not attested in SBTU 1, 46.
+18. !cm GURUN !bs {u₂}KUR.RA !cm : NUMUN {u₂}KUR.RA : !bs SAG.DU [x x x x x]
+#lem: +inbu[fruit//flower]N$inib; +nīnû[(a medicinal plant)]N$nīnî; zēr[seed(s)]N; nīnî[(a medicinal plant)]N; qaqqadu[head]N; u; u; u; u; u +.
+
+19. !cm ša₂ {mul}SIM.MAH : {d}dele-bat₂ : SIM : si#-[nu-un-tu₂]
+#lem: ša[of]DET; Šinunutu[Swallow]CN; +Delebat[Venus]'DN$; +sinuntu[swallow]N$; +sinuntu[swallow]N$
+#note: 19: The equation @akk{SIM{mušen}} = @i{sinuntu} is attested in various lexical lists, among them @i{Ea} (II 299c) and ḪAR-@i{ra} (XVIII 246); see @i{CAD} S, 295a. Why the constellation “Swallow” (the western fish of Pisces with some of the western part of Pegasus) is mentioned here remains unclear, but it should be noted that astral medicine had become quite popular in the Late Babylonian period.
+20. !zz [x x x x] x# !bs NUNDUN : !cm {d}NIN-x# [x x x x (x)]
+#note: 20: nundum (= šaptu “lip”) might have been adduced here to open up additional etymological dimensions of the word sinuntu “swallow,” which would have been segmented, in this case, as si-nuntu. But this is not certain; it is likewise possible that the commentary refers to an immobilization of the lips as described in BAM 523, iii 3’ (see the note above on obv. 11-13). The theonym after nundum could be read as d.⸢nin⸣-[t]u (the name of the birth goddess), which sounds similar to nundum.
+21. !zz [x x x x x] x# x# x# x# (x#) [x x x x x (x)]
+
+$ rest of obverse missing
+
+@reverse
+
+1'. !zz x# [...]
+#lem: u; u
+
+2'. !zz [...]
+#lem: u
+
+@colophon
+
+3'. !zz ṣa?#-[a?-tu₂? u₃? šu?-ut? KA? ša₂? * NA? EME?]-šu₂?#
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[who(m)]DET; pî[mouth]N; ša[of]DET; amēlu[man]N; lišānšu[tongue]N
+#note: rev. 3’-5’: The restoration of the badly damaged subscript and colophon follows SBTU 1, 49, another medical commentary written by Anu-ikṣur. Whether it is correct cannot be established with absolute certainty, but the traces support it.
+
+4'. !zz eb?#-ṭe?#-[et?-ma? mal₂?-sutₓ(BAN₂)? {m}{d}60-ik]-ṣu-ur
+#lem:  ebṭetma[swollen]AJ; malsût[reading out]N; +Anu-ikṣur[]PN$
+5'. !zz MAŠ.MAŠ [TUR? A {lu₂}E₂].MAŠ#-{d}NIN#.URTA#
+#lem: mašmaššu[incantation priest]N; +ṣehru[small]N$; +aplu[son]N$apal; +Šangi-Ninurta[]LN$
+
+6'. !zz pa-lih {d}ME.ME li₆-ša₁₈(DI)-qirₓ(KA)
+#lem: pālih[reverent one]N; Gula[1]DN; +waqāru[be(come) rare//value]V$lišāqir
+#note: 6’: Gula is the patron goddess of medicine, so the reference to her comes as no surprise. Note the cryptographic writing of the last word, which is based on the values DI = sá and KA = kir₄.
+
+@translation labeled en project
+
+@label o 1 - o 2
+If a man’s tongue is cramped (= @i{SpTU} 1 46 1): “to cramp” (actually means) “to swell”; “to cramp” (means) “to get large.”
+
+@label o 2 - o 5
+The demon of the lavatory (= @i{SpTU} 1 46 8) (is) Šulak. “He should not enter the lavatory, (or) Šulak will strike him.” Šulak − (this is) what is said (about him): šu (means) “hand,” la (means) “not,” and kù (means) “clean.” (Thus), if he enters the lavatory, his hands will not be clean − this is said about (him).
+
+@label o 6
+The @i{lurpânu}-mineral (= @i{SpTU} 1 46 10) is like lapis lazuli, but dotted with bright spots; second: @i{lurpânu} (refers to) (yellow) @i{kalû}-paste.
+
+@label o 7 - o 8
+Stroke (= @i{SpTU} 1 46 16) − “to strike” (means) “to beat.” “Stroke” − someone who forgot his @i{writing skills} has been affected by a stroke.
+
+@label o 8 - o 10
+He winks his eye (= @i{SpTU} 1 46 16) − bar (means) “to wink” (and) bar (means) “to twist.” 9-10 @i{ur}-GA-@i{at-tú} (instead of @i{ur-ta-at-tú} “He @i{stares}”) and cannot sleep (= @i{SpTU} 1 46 17) − @i{urqattu} (means) “vegetation” (@i{bušqittu}).
+
+@label o 10 - o 11
+
+To rub (@i{muššudu}) (= @i{SpTU} 1 46 18) (means) “to massage” (@i{muššuʾu}) − (this is) with regard to the craft of the exorcist (@i{mašmaššūtu}), as one says.
+
+@label o 11 - o 13
+“Tallow” of the @i{kanaktu}-tree, which holds oil − you pound (the wood of) the @i{kanaktu-tree until the oil comes out. The Tallow-of-the-@i{erištu}-plant (is identical with/equivalent to?) the Tallow-of the @i{kurītu}-plant. In a goat’s @i{šipku}-hide − @i{šip-ki} (means) “@i{to attach}.”
+
+@label o 13 - o 14
+A @i{rābiṣu}-demon has seized a man’s mouth (= @i{SpTU} 1 46 27) − the @i{rābiṣu}-demon has the face of a goat.
+
+@label o 14 - o 15
+
+Well water (= @i{SpTU} 1 46 28, 32) − (this is) what is said about it: The @i{rābiṣu}-demon of the lavatory is Šulak, Šulak @i{is truly associated} with the lavatory.
+
+@label o 16
+“Wrap (it) in a hide” (is equivalent to?) You shall wrap (it) in a hide (cf. @i{SpTU} 1 46 15); @i{wrap} (ipt.) [...].
+
+@label o 17 - o 18
+al-ús-sa (means) “garum,” (which is equivalent to?) vinegar [......].
+
+@label o 18 - o 21
+Fruit of the @i{nīnû}-plant (cf. @i{SpTU} 1 46 30) − seed of the @i{nīnû}-plant. The head [......] of the constellation “Swallow” (@i{sim-maḫ}, lit., “large swallow”) ((which) is equivalent to) Venus. @i{sim} (means) “swallow” [...] ... @i{nundum} − Nin... [...] ... [... ...].
+
+@label r 1' - r 2'
+... [...] ... [...]
+
+@label r 3' - r 5'
+Lemmata (@i{ṣâtu}) [@i{and oral explanations relating to} (@i{the tablet}) “@i{If a man’s tongue}] @i{is cramped}.” [@i{Lecture} (@i{malsûtu}) of Anu]-ikṣur, [@i{junior}]-exorcist, [descendant of Šangî]-Ninurta.
+
+@label r 6'
+
+May he who respects Gula hold (this tablet) in esteem.

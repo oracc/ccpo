@@ -1,0 +1,53 @@
+&P399217 = CCP 3.2.2.C (http://ccp.yale.edu/P399217) = K.11309
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@reverse
+
+1'. !cm :# GE₆# ana# x# [...]
+#lem: mūšu[night-time]N; ana[to]PRP; u; u
+
+2'. !cm : GE₆ ana GE₆# [...]
+#lem: mūšu[night-time]N; ana[to]PRP; mūši[night-time]N; u
+
+#note: Si vera lectio, compare @i{Enūma Anu Enlil} XIV Tablet C 6, 20 and 27 (Al Rawi & George @i{AfO} 39 [1991/1992] p. 57-58): @i{mūšu ana urri inappal}, "night is giving way to day."
+
+$ single ruling
+
+@colophon
+
+3'. !zz * 30 TAB-ma ba#-[ra-ri it-ta-aʾ-dar AN.GE₆ LUGAL URI{ki}]
+#lem: Sin[1]DN; ihmiṭma[be (too) early]V; barāri[at dusk]AV; ittaʾdar[be(come) eclipsed]V; attallê[eclipse]N; šar[king]N; Akkad[1]SN
+
+#note: This line is identical with the incipit of @i{EAE} XV.
+4'. ($___$) !zz DUB 2-KAM * 30# [ina IGI.LA₂-šu₂ NIG₂.PA₃.DA * U₄ AN {d}EN.LIL₂]
+#lem: ṭuppu[tablet]N; n; Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; +mukallimtu[scholarly commentary]N$; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN
+
+5'. ($___$) !zz ki-i pi {giš}le-u₅*#-[um GABA.RI KA₂?.DINGIR?.RA?{ki?} AB.SAR.AM₃ BA.AN.E₃]
+#lem: kī[as]PRP; +pû[mouth]N$pî; +lēʾu[board]N$lēʾum; gabari[duplicate]N; Babilu[Babylon]SN; +šaṭru[written]N$šaṭirma; bari[checked]AJ
+
+6'. ($_____$) !zz DUB {m}{d}AG-zu-qu-up-GI.NA [DUMU {m}{d}AMAR.UTU-MU-BA{+ša₂} {lu₂}A.BA]
+#lem: ṭuppi[tablet]N; +Nabu-zuqup-kenu[]PN$; mār[son]N; +Marduk-šuma-iqiš[]PN$Marduk-šuma-iqiša; ṭupšarri[scribe]N
+
+7'. ($_____$) !zz ŠA₃*#.BAL*#.BAL*# [{m}]gab#-[bi-DINGIR-MEŠ]-ni*#-KAM*{+eš*} [{lu₂}GAL DUB.SAR-MEŠ]
+#lem: liblibbi[descendant]N; +Gabbi-ilani-ereš[]PN$; rab[overseer]N; +ṭupšarru[scribe]N$ṭupšarrē
+
+@translation parallel en project
+
+@reverse
+
+1'. "Night to [...]" (@i{Enūma Anu Enlil} XIV Table (?))
+2'. means "night to night" [...].
+
+$ single ruling
+
+@colophon
+
+3'. "If the moon is early [and is eclipsed in the evening watch, the eclipse (concerns) the king of Akkad"].
+4'. Second tablet of [@i{Sîn ina tāmartīšu}, the @i{mukallimtu}-commentary on the series @i{Enūma Anu Enlil}.]
+5'. [Written and collated] according to a writting board, [a @i{Babylonian} original.]
+6'. Tablet of Nabû-zuqup-kēnu, [son of Marduk-šuma-iqīš, the scribe],
+7'. descendant of Gabbi-ilāni-ēreš, [the chief scribe].

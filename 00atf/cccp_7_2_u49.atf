@@ -1,0 +1,228 @@
+&P461204 = CCP 7.2.u49 (http://ccp.yale.edu/P461204) = BM 41481(+) BM 41635
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(BM 41635 a)
+
+@obverse
+
+1. !zz [... !bs LUGAL? u? DUMU?]-MEŠ?#-šu₂ in-ne₂#-[bi?-tu₄?]
+#lem: u; šarru[king]N; u[and]CNJ; mārūšu[son]N; +abātu[destroy]V$innebitū
+
+#note: Compare Šumma Izbu XVIII 94': @akk{LUGAL u DUMU-MEŠ-šu₂ in-ne₂-bi-tu₄}. 
+
+2. !zz [...] !bs DAB#{+bat} !zz : !bs DAB !cm : ṣa-ba-tu₂ : !bs DAB# !zz [x x x]
+#lem: u; iṣabbat[seize]V; ṣabātu[seizing]'N; ṣabātu[seizing]'N; ṣabātu[seizing]'N; u; u; u
+
+3. !zz [...] : !bs ZAG !cm : pa-aṭ : !bs ZAG !cm : i-[mit-tu₂ !zz (x x)]
+#lem: u; +pāṭu[border]N$; +pāṭu[border]N$pāṭ; +imittu[right]N$; imittu[right]N; u; u
+
+4. !zz [...] x# : MIN : !cm ina a-ka-lu ig-gam#-[mar? x x]
+#lem: u; u; šanîš[alternatively]AV; ina[in]PRP; akalu[bread]N; +gamāru[bring conclusion]V$iggammar; u; u
+
+5. !zz [...]-ma-ri : !bs lil-lu !cm : li?#-[il?-lu?]
+#lem: u; lillū[idiot]N; +lillu[idiot]N$
+
+6. !zz [...] x# : !bs TI{+qi₂} !cm : le-qu-[u₂]
+#lem: u; u; +leqû[take//taking]V'N$; +leqû[take//taking]V'N$
+
+7. !zz [...] :# !bs i-šar-šu₂-nu-tu₂ !cm : a-ša₂-ri : sa-na#-[qu]
+#lem: u; +ašāru[muster]V$iššaršunūtu; +ašāru[muster//mustering]V'N$ašāri; +sanāqu[check//checking]V'N$
+
+8. !zz [...] x# !cm : LUGAL i-šaq-qa : !bs UGU !cm : mu-uh-hu# [...]
+#lem: u; u; šar[king]N; +šaqû[be(come) high]V$išaqqa; muhhi[top]N; +muhhu[top]N$; u
+
+9. !zz [...] x# !cm : muš-ke-nu-tu₂ DU{+ak} : !bs E₂ A-NI !cm : E₂ AD-šu₂
+#lem: u; u; muškēnūtu[poverty]N; illak[flow]V; bīt[house]N; +abu[father]N$abīšu; bīt[house]N; +abu[father]N$abīšu
+
+10. !zz [...]-MEŠ# !cm DUMU-MEŠ-šu₂ i-la-ku : !bs AŠ{+aš₂} !cm : it-ti :
+#lem: u; mārūšu[son]N; +alāku[go]V$illakū; +itti[with]PRP$; itti[with]PRP
+
+#note: The last equation of the line was hitherto unattested: it is probably an ad hoc creation to explain a difficult use of @akk{ina}. 
+
+11. !zz [...]-ri# !bs ri-kis !cm KEŠ₂ SIB{+si-bi} :
+#lem: u; +riksu[binding]N$rikis; +riksu[binding]N$; X
+
+#note: The gist of this entry escapes us.
+12. !zz [...] !bs IBILA?#-šu₂ !cm : DUMU-šu₂ GAL{+u₂} !zz : ni-sik-tu₂?# x# x# x#
+#lem: u; apilšu[heir]N; māršu[son]N; rabû[be(com)ing big]'N; X; u; u; u
+
+13. !zz [...]-x#-um/ra GABA : ana DUMU x# [x x]
+#lem: u; irat[chest]N; ana[according to]PRP; māru[son]N; u; u; u
+
+$(Uncertain number of lines missing between the end of BM 41635 and the beginning of BM 41481)
+
+$(BM 41481 a)
+
+14'. !zz [...]-ra-ri : la [x x]
+#lem: u; lā[not]MOD; u; u
+
+15'. !zz [...] x#-ni-ma dul-lu ša₂ [x x (x)]
+#lem: u; u; dullu[misery]N; ša[of]DET; u; u; u
+
+16'. !zz [...] x# muh-hi-šu₂ pi-šu₂ [x x]
+#lem: u; u; muhhišu[account]N; pîšu[mouth]N; u; u
+
+#note: Alternatively, it would be possible to read : @akk{ME-šu₂} instead of @akk{pi-šu₂}, but in this tablet the MEs look different.
+#lem: X; X
+
+17'. !zz [... {lu₂?}KUR].GAR#.RA{+u₂-tu₂} ša₂ U₄{+um} x# x# [(x x)]
+#lem: u; +kurgarrûtu[function of the kurgarrû]N$; ša[of]DET; +ūmu[day]N$ūm; u; u; u; u
+
+18'. !zz [...] ta?#-kul-tu₂ ana nap-pa-x# [...]
+#lem: u; +tākultu[(cultic) meal]N$; ana[according to]PRP; u; u
+
+19'. !zz [...]-ka# : !bs ni-ši !cm : ma-mit :
+#lem: u; +nīšu[(oath on the) life]N$nīši; māmīt[curse]N
+
+#note: The last equation is also attested in BM 38137 l. 8 (MSL 14 329 = CCP 6.1.16.A.b).
+20'. !zz [...] x# !bs ŠAM{+ša₂-am} !cm i-hi-iṭ : a-mi-ʾi-du ša₂ ku-ra-ra
+#lem: u; u; X; +hiāṭu[supervise]V$ihīṭ; +mâdu[be(come) many]V$amiʾʾdu; ša[of]DET; kurāra[(a boil)]N
+
+#note: The interpretation of this line remains uncertain, it may be a quotation from an unknown text.
+21'. !zz [...] !cm na#-piš-tu₂ : !bs su-ga !cm : ana sa-ge-e
+#lem: u; napištu[throat]N; +sugû[famine]N$sugâ; ana[according to]PRP; +sagû[cause distress to//causing distress to]V'N$sagê
+#note: The rare word @i{sugû}, "famine," is attested in four Neo-Babylonian and Neo-Assyrian royal inscriptions (CAD S 344-345). Outside of them, only one occurrence of the word is booked in the dictionaries: CT 39 22 4, a manuscript of Šumma Ālu LXI. 
+22'. !zz [...] x# !cm : ha-ša₂-hu : !bs ni-ši qat{+qa-at}
+#lem: u; u; +hašāhu[need//needing]V'N$; +nīšu[(oath on the) life]N$nīši; +qātu[hand]N$qāt
+
+23'. !zz [...]-da#/šim# !bs sad-rat-su !cm {(he-pi₂)} U₄-BI na#-ša
+#lem: u; sadratsu[regular]AJ; hepi[broken]AJ; ūmišu[day]N; X
+
+24'. !zz [...] x# : !bs šum₃{+šu-um} !cm LA₂-šu₂ : !bs MU !cm šu-u
+#lem: u; u; +šumu[name]N$šum; +maṭû[be(come) little]V$imiṭṭīšu; +šumu[name]N$; +šumu[name]N$šû
+
+25'. !zz [... !bs e]-ki-im !cm : DUMU NU TUKU :
+#lem: u; +ekmu[taken away]AJ$ekim; māru[son]N; lā[not]MOD; +išû[have]V$īši
+
+26'. !zz [... !bs {uzu}]SA#.GU₂ !cm : da-da-nu :
+#lem: u; +dâdānū[tendon of the neck]N$; +dâdānū[tendon of the neck]N$
+
+#note: The equation is quoted from @i{Ḫḫ} XV 53.
+27'. !zz [...] !cm ana?# sa-pa-hu : !bs iš-ša₂-ṣu !cm : iš-ša₂-ṭu :
+#lem: u; ana[according to]PRP; +sapāhu[scatter//scattering]V'N$; X; X
+
+#note: It is uncertain how the last two words should be parsed.
+28'. !zz [...] !cm ERIN₂# GAL# iš-šal-lal : !bs IGI !cm pa-ni :#
+#lem: u; uqu[people]N; rabâ[great]AJ; iššallal[plunder]V; pānu[front]N; pāni[front]N
+
+#note: The apodosis is attested in @i{Enūma Anu Enlil}: BM 35045+ r 11' and 13' (BPO 4 pp. 40-43). The protasis of BM 35045+ r 11' includes the logogram IGI (¶ @akk{[MUL SAG.ME].GAR# ana IGI MUL ṣal-bat-a-nu DU}).
+
+29'. !zz [...] x# x# x#
+#lem: u; u; u; u
+
+$(Side b of BM 41635 is lost)
+
+@reverse
+
+$(BM 41481 b)
+
+1'. !zz [...] x# : i-x#-[x x]
+#lem: u; u; u; u
+
+2'. !zz [...] x# : 13 : !cm ša₂-niš
+#lem: u; u; n; šanîš[alternatively]AV
+
+3'. !zz [...] !cm ra-da-da
+#lem: u; +radādu[chase//chasing]V'N$radāda
+
+4'. !zz [...] !cm ih-mid-ma :
+#lem: u; +hamādu[hide away]V$ihmidma
+
+5'. !zz [...] x#-ME NU DU₃
+#lem: u; u; lā[not]MOD; ibni[be(come) beautiful]V
+
+6'. !zz [...] !bs IGI !cm : ma-har
+#lem: u; +mahru[front]N$; +mahru[front]N$
+
+7'. !zz [...]-ti DUG₃ ŠA₃ DAB-su-nu-ti!?
+#lem: u; +ṭūbu[goodness]N$ṭūb; libbi[interior]N; +ṣabātu[seize]V$iṣabbassunūti
+
+8'. !zz [...] :# !bs nab-lu !cm : i-ša₂-tu₂
+#lem: u; +nablu[flash of fire]N$; išātu[fire]N
+
+9'. !zz [...] !bs su#-uh-hu-mu !cm : sa-ka-pu
+#lem: u; +sahāmu[trouble//oppressing]V'N$suhhumu; +sakāpu[push down//pushing down]V'N$
+
+#note: The line contains a vertical quotation from @i{Erimḫuš} II 202-203.
+10'. !zz [... !bs SI !cm :] še-bu-u : !bs SI !cm : na-ma-ri
+#lem: u; +šebû[be full//being full]V'N$; +šebû[be full//being full]V'N$; +nawāru[be(come) bright//be(com)ing bright]V'N$namāru; +nawāru[be(come) bright//be(com)ing bright]V'N$namāri
+
+11'. !zz [...] : ṣur-ru-pu#
+#lem: u; +ṣarāpu[burn//burning]V'N$ṣurrupu
+
+12'. !zz [...] : x#-nu-[x (x)]
+#lem: u; u; u
+
+13'. !zz [...] x# MA₂?# x# x# [x (x)]
+#lem: u; u; banû[creating]'N; u; u; u; u
+
+14'. !zz [...] x# hi# [...]
+#lem: u; u; X; u
+
+15'. !zz [...] x# [...]
+#lem: u; u; u
+
+16'. !zz [...] ina lib₃#-[bi x x x]
+#lem: u; ina[in]PRP; libbi[interior]N; u; u; u
+
+17'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+@obverse
+
+1. [... @i{the king and his ch}]@i{ildren will be des}[@i{troyed}].
+2. “[...] DAB-@i{bat},” DAB means “to seize,” DAB [means ...]
+3. [...] ZAG means “border,” ZAG means “ri[ght” ...],
+4. [...] ..., ditto means “he @i{will be anni}[@i{hilated}] while eating” [...].
+5. [...] ... @i{lil-lu} means “@i{id}[@i{iot} [@i{l}[@i{i-il-lu}],
+6. [...] ... TI-@i{qí} means “to take,"
+7. [...] “he will inspect them” stems from “to inspect,” which means “to check.”
+8. [...] ... means “the king is high.” UGU means “skull.”
+9. [...] ... means “he will become poor.” É A-NI means “his father's house.”
+10. [...] “... his sons will go,” AŠ, read /aš/, means “with.”
+11. [...] ... “totality” (can be written as) KÉŠ, SIB, read /si-bi/.
+12. [...] “his heir” means “his oldest son.” “Selection” ...
+13. [...] ... to the son ... [...]
+14'. [...] ... [...]
+15'. [...] ... or any ritual which [...],
+16'. [...] ... his skull, his mouth [...]
+17'. [... @i{kurg}]@i{arrûtu} which on the day [...],
+18'. [...] @i{meal} ... [...]
+19'. [...] ... “vow” means “oath.”
+20'. [...] ... ŠAM, read /šam/, “it weighs” @i{means} “I am great,” @i{said of} a pustule.
+21'. [...] means “life.” “Famine” (@i{sugû}) stems from “to cause trouble” (@i{sagû}).
+22'. [...] ... means “to need.” “Hand-lifting"
+23'. [means ...] ... will be numerous for him. Broken. That day ...
+24'. [...] ... “@i{the name} (MU, read /šum/) @i{will be small for him},” MU means “@i{name}” (@i{šû}).
+25'. [... “ch]ildless means “(a person who) has no child.”
+26'. [...] uzu.S]A.GÚ means “tendon of the neck.”
+#note: The equation is quoted from Ḫḫ XV 53.
+27'. [...] @i{derives from} “to scatter.” @i{iššāṣu} means @i{iššāṭu}.
+28'. [...] a great army will be taken prisoner,” IGI means “in front of.”
+29'. [...] ...
+
+@reverse
+
+1'. [...] ...
+2'. [...] ... 13, alternatively
+3'. [... means] “to chase.”
+4'. [...] “@i{he hoarded}.”
+5'. [...] ... did not do ...
+6'. [...] IGI means “in front of.”
+7'. [...] ... @i{happiness} will seize @i{them}.
+8'. [...] “flame” means “fire.”
+9'. [...] “to oppress” means “to push down.”
+10'. [... SI] means “to be full,” SI means “to be bright.”
+11'. [...] means “to burn.”
+12'. ...
+13'. ...
+14'.  ...
+15'. ...
+16'. [...] in the cen[ter ...]
+17'. ...

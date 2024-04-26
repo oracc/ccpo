@@ -1,0 +1,43 @@
+&P447968 = CCP 7.2.u178 (http://ccp.yale.edu/P447968) = Rm.929
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# DU?#-šu₂?# x# x# [...]
+#lem: u; u; u; u; u; u
+
+#note: Probably not @akk{[ina] SAG#.DU-šu₂}.
+
+2'. !zz [...] KA#-šu₂ u₂-x#-[...]
+#lem: u; rigimšu[voice]N; u
+
+3'. !zz [...] x# x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+4'. !zz [...] x# x# x# x# [x x] x# [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+5'. !zz [...] x# x# x# DUG₄.DUG₄ at# [...]
+#lem: u; u; u; u; X; X; u
+
+6'. !zz [...] x# BI# x# ku?#-tal#-li-šu₂ u₂-x#-[...]
+#lem: u; u; šū[that]IP; u; kutallišu[back]N; u
+
+7'. !zz [... !bs ina] SAG.DU-šu₂ !cm : ina SAG.x# [...]
+#lem: u; ina[in]PRP; qaqqadišu[head]N; ina[in]PRP; u; u
+
+8'. !zz [...]-al?#-li?# x#-at# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] ... his mouth [...]
+3'. ...
+4'. ...
+5'. [...] ... @i{speaks} ... [...]
+6'. [...] ... @i{his back} ... [...]
+7'. [... “@i{in}] his head” means in the head ... [...]
+8'. ...

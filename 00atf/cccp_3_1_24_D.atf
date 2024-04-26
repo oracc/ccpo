@@ -1,0 +1,72 @@
+&P397660 = CCP 3.1.24.D (http://ccp.yale.edu/P397660) = K.8510
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+$ lacuna
+1'. !zz (x#) {d#}ṣal#-bat#-[a?-nu? ...]
+#lem: u; Ṣalbatanu[Mars]CN; u
+
+@reverse
+
+1. !bs * AŠ.ME ina KUR-šu₂ MUL GUB !cm {d}ṣal-bat-a-nu [GUB?]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; kakkabi[star]N; izziz[stand]V; Ṣalbatanu[Mars]CN; izziz[stand]V
+
+#note: The restoration is speculative. Compare the Neo-Assyrian commentary @i{CCP} 3.1.24.B.a: ii 3, which contains the interpretation ina @akk{{d}UTU.E₃.A UDU.IDIM hi-pi₂ eš-šu₂ <GUB?>}, “(means:) A planet new break <stands(?)> at sunrise.” Unfortunately the interpretation is not preserved in the Late Babylonian commentary CCP 3.1.24.E: r. 8, which also uses the masculine pronoun.
+2. !bs * AŠ.ME ina KUR-šu₂ ina A₂ 30 GUB u ana IGI-šu₂ {d#}[kab-ta GUB]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; ina[in]PRP; idi[side]N; Sin[1]DN; izziz[stand]V; u[and]CNJ; ana[according to]PRP; pānīšu[face]N; Kabta[1]DN; izziz[stand]V
+
+#note: Compare the Late Babylonian commentary CCP 3.1.24.E: r. 2–4.
+3. ($___$) !cm {d}kab-ta {d}e₂-a EN šib-ṭi {d#}[ṣal-bat-a-nu]
+#lem: Kabta[1]DN; Ea[1]DN; +bēlu[lord]N$; +šibṭu[blow]N$šibṭi; Ṣalbatanu[Mars]CN
+
+#note: The restoration at the end of the line is based on line r. 4. The obscure astral deity Kabta is often paired with Ištar/Venus, and a different Neo-Assyrian commentary (Babylonian script) contains the entry: @akk{{d}kab-ta} | @akk{{d}ṣal-bat-a-ni : {d}dil-bat}, “Kabta (means) Mars : (or) Venus” (@i{CCP} 3.1.24.A: 31′). [In the present text, it is probably associated with Ea because the latter’s name can be written as @akk{{d}IDIM}, EJ] The epithet @i{bēl šibṭi}, “lord/master of plague,” is typical for Nergal (who was commonly associated with Mars, see Reynolds 1998: 353–54) but peculiar for Ea, for whom a more expected epithet would be the near-homonym @i{bēl šipti}, “lord/master of the incantation.” The star list in the lexical text Murgud contains the entry @akk{MUL GIG} | @akk{MUL šib-ṭi NAM.UŠ-MEŠ} | @akk{MIN} (= @akk{{d}ṣal-bat-a-nu}), “sickening star = star of deadly plague = ditto (= Mars)” (@i{MSL} 11, 40, K 260+: 14′; Reynolds 1998: 353; Veldhuis 2014: 364).
+4. ($___$) !cm 30 u {d}ṣal-bat-a-nu kal u₄-mu [GUB-MEŠ?]
+#lem: Sin[1]DN; u[and]CNJ; Ṣalbatanu[Mars]CN; kal[all]N; ūmu[day]N; izzizzū[stand]V
+
+#note: The restoration at the end of the line is speculative.
+5. !bs * AŠ.ME ina KUR-šu₂ MUL-MEŠ GUB-MEŠ ina AN.GE₆ [UDU.IDIM-MEŠ GUB-MEŠ-ma?]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; kakkabū[star]N; izzizzū[stand]V; ina[in]PRP; attallê[eclipse]N; bibbū[planet]N; izzazzūma[stand]V
+
+#note: The restoration is based on a similar entry in the Neo-Assyrian commentary @i{CCP} 3.1.24.B.a: ii 2, which adds ina @akk{ŠA₃-šu₂} in the quotation of the protasis. Unfortunately the interpretation is not preserved in the Late Babylonian commentary @i{CCP} 3.1.24.E: r. 8.
+6. !bs * AŠ.ME ina KUR-šu₂ MUL-MEŠ SAG.UŠ-MEŠ [E₃-MEŠ]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; kakkabū[star]N; +kayyamānû[reliable]AJ$kayyamānûtu; +aṣû[go out]V$uṣṣû
+
+7. ($___$) !cm MUL-MEŠ KASKAL-MEŠ [E₃-MEŠ?]
+#lem: kakkabū[star]N; +harrānu[way]N$harrānāti; uṣṣû[go out]V
+
+#note: The restoration at the end of the line is speculative.
+$ single ruling
+8. !zz 13 MU-MEŠ ša₂ ŠA₃ * AŠ.ME ša gi-na-a IGI?#-[MEŠ-šu₂ MURU₄ kat₃-mu?]
+#lem: n; šumātu[line of text]N; ša[of]DET; libbi[interior]N; šamšatu[(sun-)disc]N; ša[of]DET; ginâ[constantly]AV; īnūšu[eye]N; qabla[hips]N; katmū[covered]AJ
+#note: The translation of the line is courtesy of J. C. Fincke. See BM 38359+ (@i{Kaskal} 11 [2004] pp. 109 and 111 = @i{CCP} 3.1.24.E ll. 1ff and comments on ll. 1, 2, and 1—10).
+9. !zz GIBIL NU LIBIR.RA GIM SUMUN-šu₂ SAR#-[ma ba-ri?]
+#lem: +eššu[new]AJ$; lā[not]MOD; +labīru[old]AJ$; kīma[according to]PRP; labīrišu[original]N; šaṭirma[written]AJ; bari[checked]AJ
+
+10. !zz u₂-il₃-ti {m}aš-šur-{+mu}SIG₅ ša {d#}[NA₃ tuk-lat-su?]
+#lem: uʾilti[(a literary excerpt tablet)]N; +Aššur-mudammiq[]PN$; ša[of]DET; Nabu[1]DN; tuklatsu[trust]N
+
+11. !zz DUMU {m}{d}NA₃-mu-še-ṣi {lu₂}A.BA E₂?# [AN.ŠAR₂?]
+#lem: māru[son]N; Nabu-mušeṣi[1]PN; ṭupšarri[scribe]N; bīt[house]N; Anšar[1]DN
+
+@translation parallel en project
+
+@obverse
+
+1'. (…) Ma[rs …]
+@reverse
+
+1. If a star stands when a solar disk rises (= @i{Enūma Anu Enlil} 24(25) III 15) (means:) Mars [stands(?).]
+2. If when a solar disk rises it stands beside the moon, and [Kabta stands] in front of it (= @i{Enūma Anu Enlil} 24(25) III 10)
+3. 	Kabta (means) Ea, the lord of plague, (or?) M[ars(?);]
+4. 	(the protasis means:) the moon and Mars [stand(?)] all day.
+5. If stars stand when the solar disk rises (= @i{Enūma Anu Enlil} 24(25) III 16) (means:) [The planets stand(?)] during an eclipse.
+6. If the regular stars [come forth] when a solar disk rises (= @i{Enūma Anu Enlil} 24(25) III 18)
+7. 	(means:) The stars of the paths (of Ea, Anu, and Enlil) [come forth(?).]
+8. 13 entries from “If the face of the normal solar disk [is covered in the middle” (= @i{Enūma Anu Enlil} 24(25) I 1).]
+9. New, not old. Written(?) [and checked(?)] according to its original.
+10. uʾiltu-tablet of Aššur-mudammiq, whose [mainstay is Nabû(?),]
+11. son of Nabû-mušēṣi, scribe of [the Aššur] temple(?).

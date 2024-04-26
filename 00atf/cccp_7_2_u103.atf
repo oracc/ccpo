@@ -1,0 +1,173 @@
+&P469985 = CCP 7.2.u103 (http://ccp.yale.edu/P469985) = BM 36595
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !zz [x x x x x x x x x x x x] !bs {d}30 !cm : DIB : AN : ma-[x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; Sin[1]DN; u; u; u; u; u; u
+
+2. !zz [x x x x x x x x x x] x# x#-tu di-ib-bi ul-te-ra-[x (x x)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; +dibbu[words]N$dibbī; u; u; u
+
+#note: The line may contain a quotation, or else arise from the reading @i{dib} of @akk{LU}.
+3. !zz [x x x x x x x x x] ul?#-tu? U₄ 16.KAM {d}30 NIGIN-rat ih-te-si-[ma]
+#lem: u; u; u; u; u; u; u; u; u; ultu[from]PRP; ūmu[day]N$ūmi; n; Sin[1]DN; +haprātu[visible surface]N$haprāt; +hesû[cover up]V$ihtesīma
+
+#note: @akk{NIGIN-rat} could be read as either @i{saḫrat} or @i{ḫap-rat}. At the end, the verb could also be reconstructed as @i{iḫ-te-si-ir}, "it is trimmed."
+4. !zz [x x x x (x)] ITI#{+hu#-us#-su} !qt %sux e₂ tur₃-<gin₇> niŋin-na-a šag₄-bi %e a-še-er-[ra]
+#lem: u; u; u; u; u; +arhussu[every month]N$; e[house]; tur[stall]N/tur₃; niŋin[encircle]V/t/niŋin+-na=n.a#~;a; šag[inside]; ašer[lament]N/a-še-er
+
+#note: Incipit of an Enki Balag, see @i{CLAM}, 73ff. Note that this Balag was perfored monthly on the 15th day in Seleucid Uruk (@i{TCL} 6, 48:11-12).
+5. !zz [x x (x)] x x (x) !qt %sux abzu pe-el#-la₂-am₃ !zz %sb ša₂ U₄ 1.KAM  GAR{+nu} bu-ub-bu-lu šu-[u₂?]
+#lem: u; u; u; u; u; u; abzu[water]; pel[defile]V/t/pe-el; ša[of]DET; ūmu[day]N$ūm; n; šaknū[displayed]AJ; +bibbulu[flood//day of the disappearance of the moon]N'N$bubbulu; šû[belonging to him]PP
+
+#note: Incipit of an Enki Balag, see @i{CLAM}, 47ff. The Balag is known to have been perfomed on the first of each month in Seleucid Uruk (@i{TCL} 6, 48:1-2) and on the first of Addaru in Maul, @i{Fs Lambert}, 405: 27'-28' (perhaps on the first of Nisannu in Maul, @i{Fs Renger}, 292:1').
+6. !zz [{iti}x U₄] 3.KAM ṣal-mu ša₂ it#-[ti?-i? {d}]30 ul ib-ba-ni ina lib₃-bi iq-ta-bi?#
+#lem: u; +ūmu[day]N$ūm; n; ṣalmū[black]AJ; ša[of]DET; +iṭṭû[bitumen]N$ittî; Sin[1]DN; ul[not]MOD; +banû[create]V$ibbani; ina[in]PRP; libbi[interior]N; iqtabi[say]V
+
+#note: @i{ina libbi} may refer to a text mentioned earlier.
+7. !bs [ul?]-tu in-<ne₂>-ep-šu₂ !cm : ul?#-[tu ib]-ba?#-nu-u₂ :? !zz bi-kit it-taš-kan : KI#-[x (x)]
+#lem: ultu[from]PRP; +epēšu[do]V$innepšu; ultu[from]PRP; ibbanû[create]V; +bikītu[weeping]N$; +šakānu[put]V$ittaškan; u; u
+
+8. !zz ta-qab-bu-u₂ um-ma mi?-nu?-u₂?# [x x]-KAL-lu-man-ni ša₂ U₄ 18.KAM URU₄ e₂#-[sag-gil na-di]
+#lem: taqabbû[say]V; umma[saying]PRP; mīnû[what?]QP; u; u; ša[of]DET; +ūmu[day]N$̆ūm; n; mērešti[intention]N; X; nadi[abandoned]AJ
+
+#note:  The same entry can be found in the cultic commentary BM 47458 l. 13 (@i{CCP} 7.1.6.A.b).
+
+9. !qt {iti}SIG₄ ša₂ {d}30 DUMU reš-tu-u₂ ša# {d}en#-lil₂# !zz : !bs {d}SIG₄ !cm : {d}30 : {d}SIG₄ EN# [UŠ₈]
+#lem: Simanu[1]MN; ša[of]DET; Sin[1]DN; māru[son]N; rēštû[first-born]'AJ; ša[of]DET; Ellil[1]DN; Kulla[1]DN; Sin[1]DN; Kulla[1]DN; +bēlu[lord]N#bēl; +uššu[foundation(s)]N$uššī
+
+#note: The first half of the line quotes the last section of @i{Iqqur īpuš} (§105).
+10. !bs 4? !cm : er?#-bet-tu₄ : 4? : {d}30 : U₄ 18.KAM ša₂ {iti#}SIG₄ ša₂ {d}AG  [u] {d#}DI#.[KU₅]
+#lem: n; +erbe[four]NU$erbettu; n; Sin[1]DN; ūm[day]N; n; ša[of]DET; Simanu[1]MN; ša[of]DET; Nabu[1]DN; u[and]CNJ; Madanu[]DN
+
+#note: For the equation between Sîn and the number four, see @i{CCP} 4.2.A.a ll. 18-20. The last signs correspond perhaps to a second god name [ILF]. @i{Inbu bēl arḫi} states that the 18th of Simānu belongs to Šamaš and Sîn (Livingstone @i{Hemerologies of Assyrian and Babylonian Scholars}, CUSAS 25, 2013, p. 208).
+11. !qt ana {giš}KIRI₆ ma-suk-kan-nu il-la-ku-ʾ !cm ša₂ E#{+u} uš-šu₂ [(x x) x x]
+#lem: ana[according to]PRP; kiri[garden]N; +musukkannu[Magan-tree]N$masukkannu; +alāku[go]V$illakūʾ; ša[whom]REL; qabû[said]AJ; +uššu[foundation(s)]N$; u; u; u; u
+
+#note: The line may be a quotation from the @i{Love Lyrics}. Compare Lambert, W.G. "The Problem of the Love Lyrics" @i{Unity and diversity} (1975a) p. 104 ii 15: @i{ana kirî ma}-@i{s}[@akk{uk?-kan-ni} ...]. The same entry can be found in the cultic commentary BM 47458 ll. 8-9 (@i{CCP} 7.1.6.A.b).
+
+12. !bs ma-suk-kan-nu !zz : !bs MA !cm : ba-nu-u₂ : !bs SUK# !cm : bi-tu₄# :# !bs EN !cm : be#-lu₄#
+#lem: masukkannu[Magan-tree]N; +banû[create//creating]V'N$; banû[creating]'N; +bītu[house]N$; bītu[house]N; bēlu[lord]N; bēlu[lord]N
+
+#note: Compare @akk{SUK} = @i{bītu} in @i{Aa} I/2 211.
+13. !bs si-ma-nu !zz : !bs SI# !cm : re-tu-u₂ ša₂# te-me-en#-ni# : !bs MA !cm : E₂ : !bs EN# !cm [: be]-lu₄#
+#lem: +Simānu[]MN$; +retû[drive in//driving in]V'N$; +retû[drive in//driving in]V'N$; ša[of]DET; +temmēnu[foundation]N$temmēni; +bītu[house]N$; bītu[house]N; +bēlu[lord]N$; bēlu[lord]N
+
+#note: The same commentarial entry can be found in the cultic commentary BM 47458 l. 11 (@i{CCP} 7.1.6.A.b).
+14. !zz i#/ra#-[x x (x)] {d}30 u {d}UTU ki-nu AN KI?# [x (x)] UR#/HUL# GAL₂{+ši} : x [(x)] x
+#lem: u; u; u; Sin[1]DN; u[and]CNJ; Šamaš[1]DN; kīnu[faithful]AJ; u; u; u; u; X; ibašši[exist]V; u; u; u
+
+15. !zz [lib₃-bu-u {d}]EN#.KI {d}UTU# u {d#}ŠA₃#.ZU?# ba?#-bi?#-[lu] x x x x
+#lem: libbū[from out of]PRP; Enki[1]DN; Šamaš[1]DN; u[and]CNJ; Šazu[1]DN; X; u; u; u; u
+
+#note: The same commentarial entry can be found in the cultic commentary BM 47458 l. 11 (@i{CCP} 7.1.6.A.b).
+16. !zz [U₄ 18.KAM UDU.NITA₂ ina muh-hi uh]-tat#-ta-pu : !bs UR₂ !zz : iš-[di]
+#lem: ūm[day]N; n; immeri[ram]N; ina[in]PRP; muhhi[top]N; +hatāpu[slaughter]V$uhtattapu; išdu[base]N; išid[root]N
+
+#note: The same commentarial entry can be found in the cultic commentary BM 47458 l. 10 (@i{CCP} 7.1.6.A.b).
+17. !zz [x x x x x x x x x x x x x x]-ud 19 ŠU.SI IGI[{+mar}]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; n; ubānu[unit]N; +amāru[see]V$innammar
+
+18. !zz [x x x x x x x x x x x x x x] x IKU ma-da-as-[(su?)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; +ikû[field]N$; maddassu[size]N
+
+$(reverse)
+19. !zz [x x x x x x x] 3.20 : 3.20 : !bs E₂.SAG.GIL !zz : x ($___$) x [x]
+#lem: u; u; u; u; u; u; u; n; n; +Esagil[]TN$; u; u; u
+
+#note: The sign after GIL might be erased [ILF]. Does the number 3.20 derive from 20th Simānu (III)? Note earlier 18th Simānu. [EJ]
+20. !zz [x x x x KA₂.DINGIR.RA]{ki} šu-bat {d}AMAR.UTU : 3.20 :  EŠ₃ : bi-[tu₄]
+#lem: u; u; u; u; Babilu[Babylon]SN; šubat[residence]N; Marduk[1]DN; u; +bītu[house]N$; bītu[house]N
+
+#note: ÈŠ may stand for E(sagil) [ILF].
+21. !zz [x x x x x x x] EGIR?# SIG₄ ina KISAL? BAN₃.DA lu-uṭ-ṭu ina KI.TA-ši-na?#
+#lem: u; u; u; u; u; u; u; arki[after]PRP; libitta[mudbrick]N; ina[in]PRP; kisal[court]N; ṣehru[small]AJ; +luṭṭu[(a cup or bowl)]N$; ina[in]PRP; +šaplu[underside]N$šaplīšina
+
+22. !zz kin ITI# [x x] x x x !bs [ITI?].ITI# !cm : ar₂-ha-a-tu₂ : !bs ar₂-hi !cm : ITI : !bs SIG₄
+#lem: +kīnu[permanent]N$kīn; arhi[month]N; u; u; u; u; u; +arhu[half-brick]N$arhātu; +arhu[half-brick]N$arhātu; +arhu[month]N$; +arhu[month]N$; libitta[mudbrick]N
+
+#note: @i{kīn} may be a stative belonging to the previous line [ILF], or perhaps a logogram for @i{šipru} ("the duty of the month") [UG].
+23. !cm li-bit-tu₂ !bs lu-uṭ-ṭu ša₂ ina ŠU# ma#-[še]-en?#-nu !cm kak-ku sak-ku šu-u : SIG₄ šu-u-ma?#
+#lem: +libittu[mudbrick]N$; luṭṭu[(a cup or bowl)]N; ša[that]REL; ina[in]PRP; +qātu[hand]N$qāti; +mašennu[(an administrator)]N$mašenni; +kanku[sealed]AJ$; +sakku[blocked]AJ$; šū[that]IP; libitta[mudbrick]N; šūma[he]IP
+
+#note: Compare BM 34035 (@i{ZA} 6 241f = Livingstone @i{Mystical and Mythological Explanatory Works}, 1986, p. 61) @akk{mul-ṭu u mu-šá-lu šá ina ŠU-MIN-šú kak-ku sak-ku šu-ú muš-šu-lu šá mul.ADDA}, "The comb and mirror in her hands - it is obstuse and obscure - is a representation of the corpse star." On the technical term @i{kakku sakku} see Lambert @i{JNES} 48 (1989) p. 220-221. The equation @i{luṭṭu} = @i{nalpattu}, ‘small bowl or ladle’ is in the background, with overlap with nalbattu, ‘brick mould,’ from SIG₄ month and @i{libittu}, ‘brick.’ [ILF]
+24. !bs KUR MAR.TU{ki} !zz : !qt %sux {d}mar-tu %e mu-lu# %s hur-saŋ-ŋa₂-ke₄# !cm %sb {iti}SIG₄ ša₂ UŠ₈ E₂ ŠUB[{+u}]
+#lem: mātu[land]N; Amurru[1]GN; Martu[1]DN; mulu[person//who(m)]N'N/mu-lu; hursaŋ[mountain]N/hur-saŋ+-ŋa₂=ŋ.a#~,ak.e; Simanu[1]MN; ša[of]DET; uššī[foundation(s)]N; bīt[house]N; +nadû[throw (down)//laying down]V'N$
+
+#note: The line is attested in several Balags, see @i{CLAM}, 299:32, 301:82
+25. !zz {d}30 ina E₂ {<iti?>}ZIZ₂ u {d}UTU ina E₂ {iti}SIG₄ DUR ša₂ a-ha-a-meš [x x x] x x x [(x)]
+#lem: Sin[1]DN; ina[at]PRP; bīt[house]N; Šabaṭu[1]MN; ū[or]CNJ; Šamaš[1]DN; ina[in]PRP; bīt[house]N; Simanu[1]MN; riksi[ritual assemblage]N; ša[of]DET; ahāmeš[one another]AV; u; u; u; u; u; u; u
+
+26. !qt be-lu₄ {d}DI.KU₅ a-ši-ir {d}a-nun-na-ki !cm : MA : E₂ [x x x x x] DA₃? A? [(x)]
+#lem: bēlu[lord]N; +Madānu[]DN$; +āširu[inspector]N$āšir; Anunnakkū[1]DN; +bītu[house]N$; +bītu[house]N$; u; u; u; u; u; +banû[create//creating]V'N$; u; u
+
+#note: The line is a quotation from the bilingual @i{šuʾila} Marduk 1 l. 25 (VAT 8411 and dupls., Maul @i{Fs Borger} 1998 pp. 165f). Note that BM 47458 ll. 23-24 (@i{CCP} 7.1.6.A.b) cite l. 18 of the same text. In the present commentary, only the Akkadian version of the line is cited. Lines 26-28 of the present commentary seem to explain the godname Madānu by means of a notarikon operation as "the god who builds the house." The last DÙ is perhaps derived from the syllable /da/ of Madānu's name (i.e., DÀ), and may have been equated with @i{banû}. 
+27. !bs EN !cm : be-lu : !bs DINGIR !cm : i-lu : ina lib₃-bi ki-i SIG₄-HI.A ša₂?# [x x x x x] x#
+#lem: bēlu[lord]N; bēlu[lord]N; ilu[god]N; ilu[god]N; ina[in]PRP; libbi[interior]N; kī[as]PRP; libnāti[mudbrick]N; ša[of]DET; u; u; u; u; u; u
+
+#note: @akk{EN} may correspond to the syllable /@i{an}/ in Madānu's name. On the meaning "therefore" of @i{ina libbi kī}, see AHw 551a s.v. @i{libbu} D4.
+28. ($___$) ($___$) ($___$) !cm {d}DI.KU₅ iš?-[x x x (x x)]
+#lem: Madānu[1]DN; u; u; u; u; u
+
+$single ruling
+29. !zz dib-bi ša₂ x x (x) pa#-lih {d}AMAR.UTU ma-ʾ#-diš URI₃-ma  ana la DUMU TIN?.TIR?#[{ki?} NU u₂-kal-lam?] 
+#lem: dibbī[matter]N; ša[of]DET; u; u; u; pālih[reverent one]N; Marduk[1]DN; +mādiš[greatly]N$maʾdiš; +naṣāru[guard]V$liṣṣur; ana[according to]PRP; lā[not]MOD; māru[son]N; Babilu[Babylon]SN; lā[not]MOD; ukallam[show]V
+
+#note: Perhaps @i{dibbi ša} @akk{é#-sag#-íl#} (squashed), "Esagil(?) words" vel sim. [ILF]
+30. !zz {im}GID₂.DA {m}{d}BE-MAN-DINGIR#-[MEŠ A {m}mi]-nu#-ú?#-[ana]-{d#}EN#-da-nu DUMU {m}A₂.GAL₂-{d}[AMAR.UTU]
+#lem: giṭṭi[oblong tablet]N; +Marduk-šar-ili[]PN$; aplu[son]N; +Minu-ana-Bel-dan[]PN$; māru[son]N; +Ileʾʾi-Marduk[]PN$
+
+31. !zz GIM# SUMUN?-šu₂ SAR-ma# [ba-ri] u up#-pu-uš ($___$)
+#lem: kīma[according to]PRP; labīrišu[original]N; šaṭirma[written]AJ; bari[checked]AJ; u[and]CNJ; +uppušu[made]AJ$
+
+32. !zz [(x x x x) pa]-lih?# {d}AMAR.UTU?# NU TUM₃-šu₂ ina me-reš-tu₄ la# lib₃-bi NU u₂-[šel-liš] 
+#lem: u; u; u; u; pālih[reverent one]N; Marduk[1]DN; lā[not]MOD; itabbalšu[carry off]V; ina[in]PRP; +mēreštu[wish//intent]N'N$; +la[from]PRP$; libbi[heart]N; lā[not]MOD; +elû[go up//remove]V'V$ušēlīš
+
+33. !zz [{iti}x U₄ x.KAM MU x.KAM ša₂ ši-i MU 7/8?].KAM {m}an-ti-gu-nu-us-su {lu₂}GAL ERIN₂
+#lem: u; ūmu[day]N$; u; šatti[year]N; u; ša[of]DET; šī[she]IP; šatti[year]N; n; +Antigonus[]KN$; +rabû[big//overseer]AJ'N$rab; +uqu[people]N$
+
+@translation parallel en project
+
+$(obverse)
+1. [...] Sîn @i{means} DIB, (@i{since}) @i{AN means} [...]
+2. [...] words ... [...],
+3. [...] from the 16th day the visible area of the moon is covered,
+4. [...] monthly the (lamentation) "The House Is Encircled Like A Cattle Pen; Inside Of It There Are Laments."
+5. [...] the lamentation "The Apsû is Defiled," which is recited on the 1st day, is the day of the new moon.
+6. On the 3rd of [@i{the month} ...], statues of @i{bit}[@i{umen} ...] and Sîn should not made, it is said @i{there}.
+7. "@i{After} it is done" means "@i{after} it is made." A mourning-ritual is performed [...]
+8. You should say thus: who [...] of the 18th day, the foundations of the E[sagil are laid].
+9. Simānu (iti.SIG₄) belongs to Sîn, the first-born son of Enlil. Kulla (d.SIG₄) means Sîn; Kulla is the lord [of the foundations],
+10. 4 means "four" and 4 means Sîn. The 18th day of Simānu belongs to Nabû and Madānu.
+11. What it said, "they go to the rosewood garden," @i{means} ["@i{they build}] the foundations [@i{of the house}],
+12. (since, in) @i{masukkannu}, @i{ma} means "to build," @i{suk} means "house," and @i{en} means "lord."
+13. (In the word) @i{simānu}, @i{si} means "to fix," said of the foundations; @i{ma} means "house," and @i{en} means "lord."
+14. [...] Sîn and Šamaš ... [...] there is [...],
+15. [As in "E]nki, Šamaš, and Šazu @i{to} Babylon [...] ...,
+16. [On the 18th day a sheep is sl]aughtered [on it] — @i{úr} means "base,"
+17. [...] 19 fingers are visible,
+18. [...] ... n @i{ikû} is its measurement.
+
+$(reverse)
+
+19. [...] 3.20 means Esagila, ...,
+20. [... @i{Babylon}], the abode of Marduk; 3.20 means @i{èš}, i.e., "tem[ple"].
+21. [...] @i{back}; a brick in the @i{small courtyard}, a vessel that is set up beneath them,
+22. the month [...]. [ITI]. ⸢ITI⸣ means "half bricks" (@i{arḫātu}); @i{arḫu} means "month" and SIG₄ means "brick."
+23. The vessel that is in the hand of the @i{steward} - it is "sealed and shut" (i.e. "implicit"?) - it is a brick.
+24. The land of Amurru - "Amurru, the man of the mountains." Simānu (iti.SIG₄) is the month for laying the foundations of a house.
+25. Sîn in the "house" of Šabāṭu (XI) and Šamaš in the house of Simānu (III); the band that [...] with each other [...].
+26. In "Lord Madānu, the inspector of the Annunaki," @i{ma} means "house," [...] @i{dù} means [...],
+27. @i{en} means "lord," @i{dingir} means "god"; therefore the bricks of [...]
+28. 	   Madānu ... [...].
+$single ruling
+29. Words of @i{the Esagila}. The reverer of Marduk should respect them greatly, [he should not show them] to a non-Babylonian.
+30. One-colum tablet of Marduk-šar-i[lī, son] of Minû-ana-Bēl-dan, descendant of Ileʾʾi-[Marduk].
+31. Written, collated, and checked according to its original.
+32. [(...)] The reverer of Marduk shall not steal it, nor deliberately remove it from [it].
+33. [nth of x month of the nth year ..., i.e., 7th/8th] year of Antigonus the General (i.e. 312/311 BCE).

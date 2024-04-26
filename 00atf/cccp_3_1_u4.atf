@@ -1,0 +1,45 @@
+&P363340 = CCP 3.1.u4 (http://ccp.yale.edu/P363340) = W 20030/126
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$ start of tablet missing
+1'. !zz [...] x# la# x# x# [...]
+#lem: u; u; lā[not]MOD; u; u; u
+
+2'. !zz [...] x# id#-[...]
+#lem: u; u; u
+
+3'. !zz [... !bs {mul}]UDU?#.IDIM? KUR{+ha} [...]
+#lem: u; bibbu[planet]N; ippuha[rise]V; u
+
+4'. !bs [... AN.GE₆ EN.NUN.MURU₂].BA GAR{+un} !cm ZI{+hi} [...]
+#lem: u; attallû[eclipse]N; +qablītu[middle//middle watch]N$qablīti; +šakānu[put//undergo]V$iškun; +nishu[extract(ion)]N$nishi; u
+
+5'. !bs [* ina] {iti?#}KIN! AN.GE₆ EN.NUN.MURU₂.BA GAR ZI{+hi} !zz [...]
+#lem: ina[in]PRP; Ululu[1]MN; attallû[eclipse]N; qablītu[middle watch]N; šakin[displayed]AJ; nishi[extract(ion)]N; u
+
+#note: Compare @i{EAE} XVII §VI (Rochberg @i{AfO Bei} 22 [1988] p. 133). 
+
+6'. !bs [... AN.GE₆ ...] GAR !cm ZI{+hi} [...]
+#lem: u; attallû[eclipse]N; u; iškun[undergo]V; nishi[extract(ion)]N; u
+
+7'. !zz [...] $ZA $ZA a-na 14 15 16 21 [...]
+#lem: u; u; u; ana[to]PRP; n; n; n; n; u
+
+$ rest of tablet blank
+
+@translation parallel en project
+
+$ start of tablet missing
+1'. ...
+2'. ...
+3'. [...] @i{a planet rises} [...]
+4'. [... an eclipse] occurs [in the middle w]atch, the @i{extraction} of [...].
+5'. [If in the mo]nth of Elūlu an eclipse occurs in the middle watch, the @i{extraction} of [...].
+6'. [@i{If in the month of} ... @i{an eclipse}] occurs [in ...], the @i{extraction} of [...].
+7'. [...] ... the 14th, 15th, 16th, 21st [... days].
+
+$ rest of tablet blank

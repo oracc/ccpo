@@ -1,0 +1,301 @@
+&P461177 = CCP 3.1.24.E (http://ccp.yale.edu/P461177) = BM 38359
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+@tablet
+
+@obverse
+
+1. !bs * AŠ.ME ša₂ gi#-na#-a# IGI#-[MEŠ MURU₄ kat₃-mu !zz ...]
+#lem: šamšatu[(sun-)disc]N; ša[of]DET; ginâ[constantly]AV; +īnu[eye]N#īnū; +qablu[hips]N$qabla; katmū[covered]AJ; u
+
+#note: @akk{IGI.MEŠ} is the regular logogram for @i{pānū}, “the face”, but it could also be used for @i{īnā}, “eyes” (normally @akk{IGI-MIN}). This is the interpretation of van Soldt 1995, 17-19 for the protasis, in contrast to text Cc = Sm. 2074 obv. ii (= Weidner 1912, 98-105) 10’, where he translates “face”, see van Soldt 1995, 47. Both options would require a plural verb. In the first millennium BCE, both could be combined with the normal plural in -@i{ū} (@i{katmū}), while the dual in -@i{ā} (@i{katmā}) would refer exclusively to īnā. The verb @i{katāmu} is attested with both the face and the eyes, see CAD K 299.
+2. ($___$) !cm {d}UTU ana |KA×MI| E₃-ma x !zz [...]
+#lem: Šamaš[1]DN; ana[on]PRP; +adāru[be dark//being dark]V'N$adāri; uṣṣima[leave]V; u; u
+
+#note: This commentary confirms David Pingree’s interpretation of this protasis as referring to the darkening of the sun, i.e. the various types of solar eclipses (see van Soldt 1995, 17-18 note 3). The darkening of the sun would have been described with a form of @i{adāru} (KA×MI), from which the noun @i{nanduru} (KA×MI), “something eclipsed or darkened; eclipse” is derived.
+3. !bs * AŠ#.ME# ša₂# gi-na-a IGI-MEŠ-ša₂ MURU₄# [kat₃-mu !zz ...]
+#lem: šamšatu[(sun-)disc]N; ša[of]DET; ginâ[constantly]AV; +īnu[eye]N#īnūšu; +qablu[hips]N$qabla; katmū[covered]AJ; u
+
+#note: This omen, which must be a variant of the first one, seems to be exclusively part of the Babylonian tradition, since the only other source for this omen is also from Babylonia (van Soldt 1995, text G = BM 36319). 
+4. !bs [* KI.MIN] {im}U₁₉.LU ana ZI# !zz [...]
+#lem: u; +šūtu[south]N$; ana[according to]PRP; +tebû[get up//rising]V'N$tebî; u
+
+#note: The protasis explained here runs as follows: @akk{DIŠ AŠ.ME ša₂ gi-na-a IGI-MEŠ-šu₂ kat₃-mu-ma IM.U₁₈.LU rak-bat}, “If the face of a normal solar disk is covered and he (i.e. the eclipsed sun) rides the south wind” (see van Soldt 1995, 18 omen I 2), which refers to a movement from south to north. If the vertical wedge, here read as ana, were a mistake, one could restore the line as follows: @akk{[DIŠ KI.MIN] IM.U₁₉.LU Z[I-a ...]}, “[If ditto] and the south wind ris[es (and blows)? ...], which would be in accordance with the wording of obv. 9. One could think of the combination of tebû, “rising”, and alāku, “going, blowing”, which is attested in a terrestrial omen text (CT 39, 38  [K. 4057] rev. 3-6: ... @akk{IM.2/1/4/3 ZI-ma DU-ak}, “... the north/south/west/east wind rises and blows”), to explain the rakābu, “riding”, of the wind by the sun.
+
+5. !bs [* KI.MIN] {im#}SI.SA₂ rak-bat !cm : ina su₂#-[u₂-ti ...]
+#lem: u; iltāni[north]N; +rakbu[ridden]AJ$rakbat; ina[in]PRP; X; u
+
+#note: The “riding of the north wind” by the sun is explained by something happening “in the south”, e.g. in the direction in which the wind is blowing. The “riding” of the other wind directions are also explained with reference to the respective opposite direction, i.e. the directions the wind blow (obv. 4-7). This means that when someone or something “rides” a particular wind the movement corresponds to the direction in which the wind is blowing and not to the point from which the wind takes its name. This meaning was not clear from the report @i{SAA} 8 104 (82-5-22, 87 = @i{RMA} 277R), in which the astronomer Akkulānu quotes the omen “If the day is dark and r[ides] the north wind, ...” (obv. 9: @akk{DIŠ UD a-dir-ma {im}SI.SÁ r[a-kib ...]}) for a solar eclipse on the 28th day while “the north wind ble[w...]” (obv. 6: @akk{{im}SI.SÁ it-ta-[lak ...]}), which indicates that the expression “riding a  particular wind” is synonymous to “a particular wind is blowing”. Instead, the expression “someone or something rides a particular wind” means that the actor is blown away from the wind’s original source. These omens prove that observing the wind is crucial to any description of a solar eclipse, as is the case with the lunar eclipses on EAE tablets 15 §§ 6’–8’ and 16 omens 13–16 (sometimes already in 10–13 and later) that include wind movement (@akk{DU}, @i{alāku}) (see Rochberg-Halton 1988, 57-60, 74-76, 86-110). The choice of the phrase the sun “rides” (@i{rakābu}) the wind rather than the simple expression that the wind blows (@akk{DU}, @i{alāku}) reflects a specific tradition rather than some perception that the wind direction could have had a direct effect on the sun. Although one would expect these solar omens to refer to a partial solar eclipse (see commentary on obv. 1-10), these omens do not describe the eclipse including the direction in which the eclipse shadow moves across the heavenly body; all four cardinal points or quadrants of the disk could be considered the possible area of first and last impact (see, e.g., Rochberg-Halton 1988: 51-55 for lunar eclipses). These omens are dealt with on the fifth tablet of the EAE solar eclipse omens. Alternatively the “riding” of a wind that is explained by something happening in the direction opposite to the name of the wind may perhaps be understood as a metaphorical expression for a partial eclipse (see also above commentary on obv. 1-10)
+
+6. !bs [* KI].MIN# {im}KUR.RA rak-bat !cm : ina E₃-šu₂ <ina> {d}UTU#.[ŠU₂.A ...]
+#lem: u; +šadû[east]N$; +rakbu[ridden]AJ$rakbat; ina[in]PRP; aṣîšu[going out]'N; ina[at]PRP; ereb[entrance]N; u
+
+#note: In EAE 20 the wind that is mentioned next to a lunar eclipse refers to the “geographical area affected by that eclipse”, but this “does not correlate with the geographical names in the text according to any schema known elsewhere” (Rochberg-Halton 1988, 59b). The solar omens in question only give geographical predictions for the sun riding the west and east wind: the east wind is positive for Gutium and Elam (I 4), while the west wind is bad for Gutium (I 5) (see van Soldt 1995, 18). Gutium and Elam are also named together in EAE 15 in connection with the south quadrant of the moon being the first contact with the eclipse shadow (see Rochberg-Halton 1988, 55 tables 4-5).
+7. !bs [* KI].MIN# {im}MAR rak-bat !cm : ina {d}UTU.È# [...]
+#lem: u; +amurru[est wind]N$; rakbat[ridden]AJ; ina[at]PRP; ṣīt[exit]N&šamši[sun]N; u
+
+8. !bs *# [KI].MIN# ina ša-aʾ-da#-a-tu₄ DUB#.DU₆#-sa# !zz [...]
+#lem: u; ina[in]PRP; +šadû[east]N$šaʾdâtu; X; u
+
+#note: The recension from Nineveh (van Soldt 1995, 19 text B = K. 2131+) writes @akk{šad-da-tum DUB.DU₆-sa}. It is possible that the scribe of this commentary meant to write @akk{ša-ád-da-a-tu₄}, the regular fem. plural of the variant of @i{šadû} with reduplication of the “@i{d}” (@i{šaddâtu}), instead of @akk{ša-aʾ-da-a-tu₄}; the feminine would refer to the wind, @i{šāru} (@akk{IM}), that is indicated although not explicitly written. A @i{ṣâtu} commentary explains the protasis with @akk{IM.KUR.RA U₅# [...]}, “he rides the east wind [...]”, see van Soldt 1995, 40 text Ca (= K. 12068+) obv. 9 (with reading of @akk{TÙ[R]} instead). The logogram @akk{DUB.DU₆-sa}, therefore, would be a synonym for @i{rakbat}. If this omen refers to a partial solar eclipse (see above obv. 1-10) it would describe one that begins in the west and clears in the west, with no other cardinal point of the solar disk affected at all.
+
+9. !bs * KI.MIN IM LIMMU₂.BA ZI{+a} ŠE.ER.ZI# ud-du-um#-[mat ...]
+#lem: u; +šāru[wind]N$šārū; +erbe[four]NU$erbettu; itebbâ[get up]V; šarūra[brilliance]N; +duʾʾumu[very dark]AJ$uddummat; u
+
+#note: The other texts write @akk{ud-du-(uʾ)-mat} (CAD Š II 142a transliterates @akk{UD-DU-KUR} and @akk{UD-DU-ʾ-KUR}). The form seems to be a misinterpretation of @i{uddu}(@i{ʾ})@i{m} for the stative D-stem of @i{daʾāmu}, “to be(come) dark, dim”,  @i{duʾʾum}, or for the adjective @i{duʾummu}. The same writing (@akk{ud-du-mat}) occurs also in the recension A of EAE 27 (28), source A obv. 7’ (see 4.a.). This omen refers to the chill or cold (@akk{EN.TE.NA}, @i{kūṣu}) people feel when the moon covers the solar disk and the sun’s rays are prevented from reaching the ground. The reference to all four winds might indicate a total solar eclipse, when all (or almost all) the rays are blocked.
+
+10. ($___$) !cm ina EN.TE.NA IM{+e} u x [...]
+#lem: ina[in]PRP; kūṣi[winter]N; +šāru[wind]N$šārē; u[and]CNJ; u; u
+
+#note: The reference to middle (omens I 1 and 1a [obv. 1-3]) and to the four winds, i.e. cardinal points (omens I 2–7 and 9 [obv. 4-10]), in connection with the darkening of the sun, means that the first two omens (obv. 1-3) refer to an annular solar eclipse, i.e. when the moon is smaller than the sun and the sun appears as a very bright ring around the dark disk of the moon in the middle (MURUB₄). Omen I 9 depicts a total solar eclipse, by which nearly all of the sun’s rays are blocked from reaching the ground and people feel the cold (EN.TE.NA). Next to these two spectacular types of eclipses one would expect the description of partial solar eclipses in this sequence of omens. But in fact, omens I 2–7 describe an eclipsed sun in connection with a particular wind the sun is “riding”, without indicating any partial eclipse. However, the “riding” of a certain wind in this context could also have a metaphorical meaning as has been suggested by David Pingree (see van Soldt 1995, 17-18 footnote 3). See also below the note to obv. 5-7 (I 3–5).
+11. !bs * KI.MIN ina IZI.GAR-ša₂ i-še-ra!? !cm : ina?# [...]
+#lem: u; ina[in]PRP; +niphu[(the act of) lighting]N$niphīša; išera[straight]AJ; ina[in]PRP; u
+
+#note: Following a suggestion of David Pingree, who interpreted this protasis as indicating the eclipse was shorter than expected, van Soldt 1995, 20 translates “... and it is early in its shining forth”. 
+12. !bs * KI.MIN ina AN.UR₂ KUR{+ha} !cm : ina ZI?# [...]
+#lem: u; ina[in]PRP; išid[base]N&šamê[heaven]N; ippuha[rise]V; ina[in]PRP; imittu[right]N; u
+
+#note: This protasis refers to an eclipse that began before sunrise and is complete (or nearly complete) while the sun is rising.
+13. !bs * KI.MIN ŠE.ER.ZI-ša₂ ma-aq-tu₄# !zz [...]
+#lem: u; +šarūru[brilliance]N$šarūrša; +maqtu[fallen]AJ$; u
+
+#note: Two of the other recensions of this EAE tablet add a paragraph line before this omen in order to separate the subsequent omens from the preceding ones (van Soldt 1995, 20 texts B = K. 2131+ and I = Sm. 432). Two recensions (texts A = K. 213+ and B = K. 2131+) introduce a new protasis for this new sequence of omens with @akk{DIŠ AŠ.ME šá gi-na-a ŠE.ER.ZI-šá ma-aq-tu₄}, “If the radiance of a normal solar disk is diminished”. The recension from Babylonia (text G) omits the paragraph line and so corresponds with this commentary from Babylonia. Thus, the Babylonian recension seems to understand this omen as a solar eclipse, on in which the sun’s rays are impaired but still visible.
+
+14. !bs * KI.MIN me-hu-u₂ DU{+ak!?#} !cm :# [...]
+#lem: u; mehû[storm wind]N; illak[flow]V; u
+
+15. !bs * KI.MIN-ma ina AN.BAR₇ {d}TIR#.[AN.NA KUR{+ha} !cm ...]
+#lem: u; ina[in]PRP; +muṣlālu[siesta(-time)]N$muṣlāli; Manzat[Rainbow]DN; ippuha[rise]V; u
+
+#note: In the subsequent omen this scribe adds -@i{ma} to @akk{KI.MIN} to indicate an apodosis is following. Thus, this omen cannot be identical with I 13, where the arching rainbow is part of the protasis. Still, an arching rainbow could equally well be a prediction. For this reason this line has been restored according to the other EAE tablet from Babylonia, see van Soldt 1995, 20 text G = BM 36319; one recension from Nineveh writes GIL (text A = K. 213+).
+16. !bs * KI.MIN-ma ZAG HUL{+pat₂#} !zz [...]
+#lem: u; imni[right (side)]N; +lapātu[touch]V$ušalpat; u
+
+17. ($___$) !bs GIL-ma : !cm {d}IDIM IGI!#-šu₂# [...]
+#lem: +egru[transverse]AJ$egir-ma; Ea[1]DN; pānīšu[face]N; u
+
+#note: @akk{{d}IDIM}, Ea, corresponds to the part of the apodosis preserved in the other EAE 24 (25) tablet from Babylonia, BM 36319 obv. 20: @akk{[...] x {d}é-a IGI-šú x [...]}, see van Soldt 1995, 21 text G omen I 20. The other commentary on this omen of EAE 24 (25), which is from Nineveh, uses the logogram IDIM in various meanings, see K. 12086+Rm.II 38+340 obv. 16-17: @akk{[IDIM IDI]M-ma ZAG{+u} ú-áb-bat / DUGUD iš-še-eg-gi-ma eš-re-tu₄ ú-[šal-pát]} (17)  [0] @akk{{+i-dim}IDIM / nag-bi}, “[an important person will start ravi]ng and completely destroy the shrines (with other words) an important one will start raving and de[stroy] the shrines; (17) @i{idim} (is the reading for the logogram) @akk{IDIM} (which means also) underground water, headwaters (of a river)”, see van Soldt 1995, 40 text Ca (with a different reading).
+
+18. !bs * AŠ.ME AN.TA 30 u KI#.[TA 30 GUB !zz ...]
+#lem: šamšatu[(sun-)disc]N; eliš[above]AV; Sin[1]DN; u[and]CNJ; šapliš[below]AV; Sin[1]DN; izziz[stand]V; u
+
+19. ($___$) !cm KI 30 GUB-ma ša₂-niš# [...]
+#lem: qaqqar[district]N; Sin[1]DN; izzazma[stand]V; šanîš[alternatively]AV; u
+
+20. !bs * AŠ.ME KUR-ma GIM IZI# [TAB !zz ...]
+#lem: šamšatu[(sun-)disc]N; ippuhma[rise]V; kīma[according to]PRP; išāta[fire]N; +hamāṭu[burn (up)]V$ihammaṭ; u
+
+21. !bs * AŠ.ME u 30 šu-ta-tu#-[u₂ !zz ...]
+#lem: šamšatu[(sun-)disc]N; u[and]CNJ; Sin[1]DN; +šutātû[positioned opposite one another]AJ$; u
+
+22. !bs * AŠ.ME ina la si-ma-ni-[ša₂ KUR-ma !zz ...]
+#lem: šamšatu[(sun-)disc]N; ina[at]PRP; lā[not]MOD; +simānu[(right) occasion]N$simāni; ippuhma[rise]V; u
+
+23. !bs * AŠ.ME KUR-ma ina {d}UTU#.[E₃/ŠU₂.A !zz ...]
+#lem: šamšatu[(sun-)disc]N; ippuhma[rise]V; ina[at]PRP; ṣīt[exit]N&šamši[sun]N; u
+
+24. ($___$) !cm ša₂-niš ina MURU₄# [...]
+#lem: šanîš[alternatively]AV; ina[in]PRP; +qablu[hips]N$qabli; u
+
+25. !bs * AŠ.ME ša₂# !zz [...]
+#lem: šamšatu[(sun-)disc]N; ša[of]DET; u
+
+26. !bs *# [AŠ.ME x x x ina] EN#.NUN.USAN# !zz [...]
+#lem: šamšatu[(sun-)disc]N; u; u; u; ina[in]PRP; +barārītu[dusk]N$barārīti; u
+
+#note: Compare the commentary K. 12068+Rm.II 38+340 from Nineveh (van Soldt 1995, 40-44 text Ca) obv. 23-28. Van Soldt 1995, 43 understands lines 23-24 as commentary to omen II g, while lines 25-28 should be from another omen. If this is true, the omen under consideration corresponds with lines 25-28 of the Nineveh commentary. Since omen II g treats the early rising of the sun disk during the morning watch (@akk{EN.NUN.UD.ZAL.LE}, @i{šāt urri}), the treatment of the rising during the evening watch (@akk{EN.NUN.AN.USAN}, @i{barārītu}) should have followed in the next omen or in the one after that. Considering the fact that the third omen in the sequence most probably corresponds with entry III 3-4, this omen could be III 1. This means that part III of the edition could either follow directly on part II, or there is a gap of just one omen between them. However, since the commentary does not treat each single omen of the series, but skips a few, this restoration of the sequence of omens remains tentative. For the peculiar form of @akk{USAN} compare rev. 17.
+27. !bs [...] x x#-RI/TA?# : !zz x [...]
+#lem: u; u; u; u; u
+
+28. !zz [...] MUL#.EN.TE.NA.BAR.HUM ina IGI?# [...]
+#lem: u; +habaṣīrānu[(a constellation)]CN$; ina[in]PRP; pān[front]N; u
+
+29. !bs [* AŠ.ME] ina# KUR#-šu₂# ana IGI-šu₂ {d}dil-bat GUB# !zz [...] x [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; ana[according to]PRP; pānīšu[face]N; +Dilbat[Venus]CN$; izziz[stand]V; u; u; u
+
+#note: The identification of this entry with omen III 2 remains provisional, see the comment on obv. 26-28 (III 1 ?).
+30. !bs [* AŠ].ME# ina KUR-šu₂ ana EGIR#-šu₂ {d}dil-bat GUB# !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; ana[according to]PRP; arkišu[after]PRP;  Dilbat[Venus]CN; izziz[stand]V; u
+
+#note: The apodosis in line 32 has been restored according to the traces in K. 2131+ (van Soldt 1995, 16-40 text B) entry III 4, which reads after collation: @akk{[Ì]R.[MEŠ]-šú ina [... K]ÚR LUGAL GAZ-ME#}; for the first part of the apodosis compare omen III 7 (see van Soldt 1995, 23). Since entry III 4 of the edition has part of the apodosis, the corresponding protasis must have been written in III 3. 
+
+31. !bs ki#-i <{d}>dil-bat ša₂-ru-ru ŠUB# :# !cm [...]
+#lem: kī[as]PRP;  Dilbat[Venus]CN; šarūru[brilliance]N; inaddi[utter]V; u
+
+$(lower edge)
+32. !bs ki#-i DUMU LUGAL IR₃-MEŠ#-[šu₂ ina SA₂.SA₂{+ni} GAZ-ME-šu₂ KI.MIN KUR₂-ME LUGAL GAZ-ME]
+#lem: kī[as]PRP; māru[son]N; +šarru[king]N$šarri; +ardu[slave]N$ardīšu; ina[in]PRP; +šanānu[equal]V$šitnuni; idukkūšu[kill]V; šanîš[alternatively]AV; +nakru[strange]N$nakrū; +šarru[king]N$šarra; idukkū[kill]V
+
+@reverse
+
+1. !bs [*] AŠ#.ME ina KUR-šu₂ ina ŠA₃-šu₂ {d}dil-bat GUB# !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; ina[in]PRP; libbišu[interior]N; Dilbat[Venus]CN; izziz[stand]V; u
+
+2. !bs [*] AŠ#.ME ina KUR-šu₂ ina A₂ 30 GUB u ana IGI-šu₂ AN.BAR₇ !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphišu[rising]N; ina[in]PRP; idi[side]N; Sin[1]DN; izziz[stand]V; u[and]CNJ; ana[according to]PRP; pānīšu[face]N; muṣlāli[siesta(-time)]N; u
+#note: Compare the commentary K. 12068+Rm.II 38+340 from Nineveh (van Soldt 1995, 40-44 text Ca) obv. 30-31, where @akk{{d}kab-ta} is also mentioned.
+3. !zz [...]  !cm u <{d}>dil-bat TUR# IGI-ma AN.BAR₇ [...]
+#lem: u; u[and]CNJ; Dilbat[Venus]CN; iṣehher[be(come) small]V; innamirma[appear]V; muṣlāli[siesta(-time)]N; u
+
+4. !bs [* AŠ].ME# ina# ŠA₃-ša₂! : ana IGI-ša₂ {d}kab-ta <:> {d}dil#-[bat !zz ...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; libbiša[interior]N; ana[according to]PRP; pāniša[front]N; +Kabta[]DN$; Dilbat[Venus]CN; u
+
+5. !bs [...] SILIM#{+mu} GAR{+an} !cm : lib₃-bu x [...]
+#lem: u; +šalāmu[peace]N$; iššakkan[take place]V; +libbu[heart]N$; u; u
+
+6. !bs *# AŠ#.ME# ina# AN#.UR₂# :# [ina] AN.BAR₇ KUR-ma 1?# !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[on]PRP; išid[base]N&šamê[heaven]N; ina[in]PRP; muṣlāli[siesta(-time)]N; ippuhma[rise]V; n; u
+
+7. ($___$) !cm lu# 2# lu 3 [MUL-MEŠ GUB-MEŠ !zz ...]
+#lem: lū[or]CNJ; n; lū[or]CNJ; n; kakkabū[star]N; izzizzū[stand]V; u
+
+8. !bs * AŠ.ME ina KUR-ša₂ MUL GUB# : !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphiša[(the act of) lighting]N; kakkabi[star]N; izziz[stand]V; u
+
+9. !bs * AŠ.ME ina KUR-ša₂ MUL-ME GUB#-[ME !zz ...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; niphiša[(the act of) lighting]N; kakkabū[star]N; izzizzū[stand]V; u
+
+10. ($___$) !cm KUR BAD.DU : KUR ru-qu#-[ti₃ !zz ...]
+#lem: mātu[land]N; +rūqu[distant]AJ$rūqūti; mātu[land]N; +rūqu[distant]AJ$rūqūti; u
+
+11. !bs * AŠ.ME KI-ša₂ : ana IGI-ša₂ MUL#-[ME GUB-ME !zz ...]
+#lem: šamšatu[(sun-)disc]N; ašriša[condition]N; ana[according to]PRP; pāniša[front]N; kakkabū[star]N; izzizzū[stand]V; u
+
+12. ($___$) !cm ša₂-niš ana IGI-ša₂ :# IGI#.DU# : KUD-ta#-[ba-nu ...]
+#lem: šanîš[alternatively]AV; ana[according to]PRP; pāniša[front]N; +ālik-pāni[going in front]N$; X; u
+#note: This commentary explains why stars that stand @akk{ana IGI-šá}, “before her”, have been interpreted with reference to the @akk{TAR}-@i{tabānu}: The link is the signs @akk{IGI DU} that can be read either (@i{ina}) @akk{IGI GUB}, “standing before someone or something”, or @akk{IGI.DU}, the logogram for @i{ašarēdu}, “first and foremost”, @i{ālik maḫrû}, “the one going before (someone)”, and @i{ālik pāni}, “the one going in front”; ašarēdu is a synonym for TAR-@i{tabānu}. The other commentary on the same passage of this EAE tablet from Nineveh (K. 12068+Rm.II 38+340 [van Soldt 1995, 40-44 text Ca] obv. 35) @akk{[TAR-ta-b]a-nu a-šá-ri-d[u]} has obv. 35-36: @akk{[TAR-ta-b]a-nu a-šá-re-d[u-t]i} (36) @akk{[TAR-ta-b]a-nu# NÍTA# šá# ma#-la be-lí-šú x [...]}.
+13. !bs * AŠ.ME ina GE₆ KUR-ma# GUB# !zz : AŠ.ME ka-a-a-ma#-[nu ...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; mūši[night-time]N; ikšudma[reach]V; izziz[stand]V; šamšatu[(sun-)disc]N; +kayyamānu[permanent]AJ$; u
+
+14. ($___$) !cm KUR i-KI-du : na-ka-du : pa-la#-hu !zz [...]
+#lem: mātu[land]N; +nakādu[beat]V$ikidu; nakādu[be(com)ing frightened]'N; palāhu[fearing]'N; u
+#note: The correct form would be @akk{i-ku-du} for @i{ikkudū}, “(the people of) the country are frightened”.
+15. ($___$) !cm i-zi-im-tu ana LUGAL# TE# u x !zz [...]
+#lem: +izzimtu[desire]N$; ana[according to]PRP; šarri[king]N; iṭhe[approach]V; u[and]CNJ; u; u
+
+#note: The signs LUGAL TE are written over an erasure.
+16. ($___$) !cm bi-šim-tu₄ : bu-šu-u₂ : x !zz [...]
+#lem: +bišimtu[formation]N$; būšū[goods]N; u; u
+
+17. !bs * AŠ.ME ina EN.NUN.ÚSAN! KUR{+ha} !cm : AŠ.ME ka#-[a-a-ma-nu? !zz ...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; +barārītu[dusk]N$barārīti; ippuha[rise]V; šamšatu[(sun-)disc]N; kayyamānu[permanent]AJ; u
+
+18. !bs * AŠ.ME ina EN.NUN.MURU₄.BA KUR-ma GUB !cm : ina !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; +qablītu[centre//middle (watch)]N'N$qablīti; ikšudma[reach]V; izziz[stand]V; ina[in]PRP; u
+
+19. ($___$) !cm iq-bu-u₂ ina EN.TE.NA# !zz [...]
+#lem: iqbû[say]V; ina[in]PRP; kūṣi[winter]N; u
+
+20. !bs * KI.MIN ina MURU₄{+ti} gi-ra KUR{+ha} !cm : ina# !zz [...]
+#lem: u; ina[in]PRP;  +qablītu[centre//middle (watch)]N'N$qablīti; +gīru[fire(-god)]N$gīra; ippuha[rise]V; ina[in]PRP; u
+
+21. ($___$) !cm EN.NUN.MURU₄ : mu-uṣ#-la-lu : ša₂-niš# !zz [...]
+#lem: +qablītu[centre//middle (watch)]N'N$qablīti; +muṣlālu[siesta(-time)]N$; šanîš[alternatively]AV; u
+
+22. ($___$) !cm {+gi-ra-a}|U.MAŠ.KAB| : ša₂-mu-u₂ !zz [...]
+#lem: +gīru[fire(-god)]N$gīrâ; šamû[rain]N; u
+
+23. ($___$) !cm di!-il-hu GAL₂{+ši} : AN.GE₆# !zz [...]
+#lem: dilhu[confusion]N; ibašši[exist]V; attallû[eclipse]N; u
+
+24. !bs * AŠ#.ME ina EN.NUN.U₄.ZAL.LI GUB !cm :# AŠ.ME x !zz [...]
+#lem: šamšatu[(sun-)disc]N; ina[in]PRP; +šāt-urri[third watch of the night]N$; izziz[stand]V; šamšatu[(sun-)disc]N; u; u
+
+25. !bs * AŠ.ME ina AN.UR₂ : ina EN.NUN.U₄.ZAL#.[LI !zz ...]
+#lem: šamšatu[(sun-)disc]N; ina[on]PRP; išid[base]N&šamê[heaven]N; ina[in]PRP; šāt-urri[third watch of the night]N; u
+
+26. ($___$) !cm ina U₄ AN.GE₆ {d}UTU lu AŠ.ME !zz [...]
+#lem: ina[on]PRP; ūmi[day]N; attallû[eclipse]N; Šamaš[1]DN; lū[or]CNJ; šamšatu[(sun-)disc]N; u
+
+27. !bs * AŠ.ME raq-qi₂-iš : AN.TA.LU₃?# !zz [...]
+#lem: šamšatu[(sun-)disc]N; +raqqiš[thinly]AV$; antallâ[eclipse]N; u
+#note: This omen might correspond with III 28a, where reference is given to a darkened solar eclipse (@i{duʾʾum}) of which the brightness or luminosity is said to be “dirty” (@akk{ŠE.ER.ZI-šú ur-ru-šú}).
+28. !bs *# [AŠ].ME# SAG#.UŠ# KUR-ma GUB# !zz [...]
+#lem: šamšatu[(sun-)disc]N; kayyamānu[normal]AJ; ikšudma[reach]V; izziz[stand]V; u
+$single ruling
+$(upper edge)
+29. ($___$) !zz AN [...]
+#lem: Anu[1]DN; u
+
+30. !cm * AŠ.ME# !zz [...]
+#lem: šamšatu[(sun-)disc]N; u
+
+31. !zz x [...]
+#lem: u; u
+
+@translation parallel en project
+
+@obverse
+
+1. If the fa[ce] of a normal solar disk [is covered in the middle (= @i{EAE} 24(25) I 1) ...]
+2. the sun rises for an eclipse and .[...].
+3. If the face of a normal solar disk [is covered] in the mid[dle (= @i{EAE} 24(25) I 1a) ...].
+4. [If ditto (sc. the face of a normal solar disk is covered)] (and) the south wind to(wards) the ris[ing (= @i{EAE} 24(25) I 2) ...].
+5. [If ditto] (and) it rides the north [wi]nd (= @i{EAE} 24(25) I 3) (means): in the sou[th...].
+6. [If dit]to (and) it rides the east wind (= @i{EAE} 24(25) I 4) (means): in its (i.e. the solar disk’s) rising <in the> (direction of) sun[set (i.e. the west)...].
+7. [If dit]to (and) it rides the west wind (= @i{EAE} 24(25) I 5) (means): in the (direction of) sunrise (i.e. the east) [...].
+8. If [di]tto (and) it rides any (of the possible) western wind(s) (= @i{EAE} 24(25) I 7), [...].
+9. If ditto, the four winds rise (and) the radiance of the sun, at the time of rising, is darken[ed (= @i{EAE} 24(25) I 9) ...]
+10. 	 in the frost of the winds and .[...].
+11. If ditto (and) in (i.e. with regard to) its light it prospers (= @i{EAE} 24(25) I 11) (means): i[n ...].
+12. If ditto (and) it rises at the horizon (lit. base of the sky) (= @i{EAE} 24(25) I 12) (means): in the ari[sing? ...].
+13. If ditto (and) its radiance is diminish[ed (= @i{EAE} 24(25) I 14) : ...].
+14. If ditto (and) a storm blows (= @i{EAE} 24(25) I unknown) .[...].
+15. If ditto, at noon a ra[inbow will rise (= @i{EAE} 24(25) I 13) ...].
+16. If ditto, shrine(s) will be destroyed (= @i{EAE} 24(25) I 19 = II a) [...]
+17. 	 it lies across and... (= @i{EAE} 24(25) I 20 = II a) (means): Ea [will ...] his face [...].
+18. If a solar disk [stands] above the moon and be[low the moon (= @i{EAE} 24(25) II b) ...]
+19. 	 it stands at the moon’s position – second (variant), [...].
+20. If a solar disk rises and like @i{fire} (= @i{EAE} 24(25) II c) [...].
+21. If a solar disk and the moon are in opposi[tion (= @i{EAE} 24(25) II d) ...].
+22. If a solar disk [rises] at an unexpected time (= @i{EAE} 24(25) II e) [...].
+23. If a solar disk rises and in the (direction of) su[nrise (i.e. an eastern direction) / su[nset (i.e. an western direction) (= @i{EAE} 24(25) II f) ...];
+24. 	 or else: in the mid[dle ....].
+25. If a solar disk that (= @i{EAE} 24(25) II h) [...].
+26. If [a solar disk... in] the even[ing] watch (= @i{EAE} 24(25) III 1?) [...]
+27. [... .]... (means): .[...]
+28. [... MU]L.EN.TE.NA.BAR.ḪUM in @i{fr}[@i{ont} ...].
+29. [If a solar disk], when it rises, stan[ds] in front of Venus  (= @i{EAE} 24(25) III 2?) .[...].
+30. [If a solar di]sk, when it rises, stan[ds] behind Venus (= @i{EAE} 24(25) III 3?-4?) [...];
+31. [just l]ike Venus the brightness is diminished (means): [...];
+
+$(lower edge)
+32. [just l]ike the son of the king, [his] subject[ts will kill him (i.e. the king)  in a struggle; ditto, enemies will kill the king].
+
+@reverse
+
+1. [If a so]lar disk, when it rises, stan[ds] in the middle of Venus (= @i{EAE} 24(25) III 5) [...].
+2. [If a so]lar disk, when it rises, stands at the side of the moon, and in front of it at noo[n (= @i{EAE} 24(25) III 8) ...],
+3. 	 and Venus is seen small, and noon [...].
+4. [If] in the middle (or): in front of a [solar] disk (the star) Kabta <(or):> V[enus (= @i{EAE} 24(25) III 11) ...],
+5. 	 there will be [p]eace (means): the heart(s) .[...].
+6. If a solar di[sk] rises on the horizon (var.): [at] noon and one (= @i{EAE} 24(25) III 14) [...]
+7. 	 or tw[o] or three [stars stand (at the sky) ...].
+8. If stars stand (at the sky) when a solar disk is rising (= @i{EAE} 24(25) III 15) (means): [...].
+9. If stars stan[d (at the sky)] when a solar disk is rising (= @i{EAE} 24(25) III 16) [...]; 
+10. 	 KUR BAD.DU (means): a far a[way] country; [...].
+11. If star[s are moving] with (var.): in front of a solar disk, (= @i{EAE} 24(25) III 17) [...]
+12. 	 secondly (:) at its front (means):  going in front (:) TAR-@i{t}[@i{abānu} (means):  ...].
+13. If a solar disk rises at night and stands (still) (= @i{EAE} 24(25) III 19) (means): a norma[l] solar disk, [...]
+14. 	 the country @i{i}-KI-@i{du} (derives from): @i{nakādu} “to be frightened (which means): @i{pal}[@i{āḫu} “to fear”, ...]
+15. 	 the king will develop desire and .[...];
+16. 	 @i{bišimtu} “product” (means): @i{būšu} “goods” (which means): .[...].
+17. If a solar disk rises during the evening watch (= @i{EAE} 24(25) III 20?/21?) (means): n[ormal?] solar disk, [...].
+18. If a solar disk rises in the middle night watch and stands (still) (= @i{EAE} 24(25) III 24) (means): in [...],
+19. 	 they said, (it means) in the winte[r ...].
+20. If ditto (and) a fire rises in the middle (= @i{EAE} 24(25) III 25) (means): i[n ...];
+21. 	 middle night watch (means): @i{muṣlālu} “midday”, secon[dly (:) ...];
+22. 	 @i{girâ} “fire” (is the reading of) U.MAŠ.KAB (which means): @i{šamû} “to become roasted” [...];
+23. 	 there will be disruption (means): eclipse [...].
+24. If the solar disk stands in the morning watch (= @i{EAE} 24(25) III 26) (means): the solar disk .[...].
+25. If the solar disk [rises?] at the horizon (var.): during the morn[ing] watch (= @i{EAE} 24(25) III 27) [...]
+26. 	 at the day of a solar eclipse [...] either the solar disk [...].
+27. If the solar disk [rises?] very thin (or): eclips[ed  (= @i{EAE} 24(25) III unknown) ...].
+28. If a normal [solar] disk rises and stan[ds (= @i{EAE} 24(25) III 29?) ...]
+29. 	 .[...].
+$single ruling
+30. If a solar di[sk ...]
+31. .[...].

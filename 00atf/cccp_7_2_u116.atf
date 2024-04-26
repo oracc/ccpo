@@ -1,0 +1,57 @@
+&P469999 = CCP 7.2.u116 (http://ccp.yale.edu/P469999) = BM 39005
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x [...]
+#lem: u; u; u
+
+2'. !zz [...] x-ka-du?# [...]
+#lem: u; u; u
+
+3'. !zz [x x x] !cm : pa-la-su !zz : a?#-[...]
+#lem: u; u; u; palāsu[looking (at)]'N; u
+
+#note: Perhaps @i{palāsu} = @i{amāru}.
+4'. !zz [x x (x)]-am !cm : ha-ta-ri !zz : x#-[...]
+#lem: u; u; u; +hatāru[flutter//fluttering]V'N$hatāri; u
+
+#note: The verb @i{ḫatāru} is only attested in K.4110 60 (@i{CT} 39 30), a manuscript of @i{Šumma Ālu} 79
+5'. !zz [x] x# !cm ana za-ap-pi : be#-x#-nu lib₃-bu-u₂# [...]
+#lem: u; u; ana[according to]PRP; zappi[tuft of hair]N; u; libbū[meaning]PRP; u
+
+6'. !cm lib₃#-bu#-u₂ !qt NU ta-pa-x#-kab lum-x# !zz [...]
+#lem: libbū[meaning]PRP; lā[not]MOD; u; u; u
+#note: This line may contain a literary quotation.
+7'. !bs šu-ke-nu !cm : la-ban ap-pi !zz : it-ti# [...]
+#lem: +šukênu[prostrate//prostrating]V'N$; labān[spreading]'N; appi[tip]N; itti[with]PRP; u
+
+#note: The equation @i{šukēnu} = @i{labān appi} is elsewhere known only in the hemerological compilation BM 34584+ l. 121-122 (Jiménez @i{JCS} 68 [2016] p. 210).
+8'. !bs BAD/NU ut-tu-u !cm : a-ma-ru₃ : !bs nu-uk-ku?-du# !cm [: ...]
+#lem: u; +watû[find]V$uttû; amāru[seeing]'N; +naqādu[be in danger(ous condition)//being anxious]V'N$nukkudu; u
+
+#note: Note that @i{nukkudu} is followed by @i{ṣaʾādu} in Ea II 93-94 (@i{MSL} 14 p. 251), as in lines 8'-9' here.
+9'. !bs ṣa-i?#-du !cm : ṣa-a-du : a-la-ku !zz : x# x# [...]
+#lem: ṣāʾidu[roving]AJ; +ṣâdu[prowl//prowling]V'N$; alāku[blow]V; u; u; u
+
+10'. !bs a-lik mah-ri !cm :# pe#-tu-u ša₂ piš-ri# !zz [...]
+#lem: ālik[goer]N; mahri[front]N; +pētû[opener]N$; ša[of]DET; pišri[release]N; u
+
+11'. !zz [x] x# x# [x x x] x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] means "to look;" [...]
+4'. [...] means "to wag" (the tail) [...]
+5'. [...] said of a tuft of hair (or, of the Plejades), ... as in [...]. 
+6'. as in "do not ..." [...]
+7'. "To prostrate oneself" means "to stroke one's nose;" ... [...]
+8'. In "... he will discover," ("to discover" means) "to see." "To be anxious," [...]
+9'. "Roaming" stems from "to roam," which means "to go;" [...]
+10'. "Leader" means "@i{he who reveals the interpretation}" [...]
+11'. ...

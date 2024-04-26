@@ -1,0 +1,41 @@
+&P470055 = CCP 7.2.u175 (http://ccp.yale.edu/P470055) = BM 49018
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] !cm x#-SAR : ša₂-niš# sar# mar# x# (x#) [...]
+#lem: u; u; šanîš[alternatively]AV; u; u; u; u; u
+
+2'. !zz [...]-ib/nik#/šap#-tu₂ : !bs PAD !cm : ku#-sa-pi :# !zz [...]
+#lem: u; +kusāpu[crumb]N$; +kusāpu[crumb]N$kusāpi; u
+
+3'. !zz [...] :# !cm na-ta-ri : ša₂?#-niš?# x# (x#) !zz [...]
+#lem: u; +natāru[split open//splitting open]V'N$natāri; šanîš[alternatively]AV; u; u; u
+
+#note: The rare verb @i{natāru} is attested almost exclusively in lexical lists, in which it is equated with either @akk{{+ta-ár}KUR} or @akk{{+da-ár}DAR}.
+4'. !zz [...] !qt {+el#-lu}ILLU i-na# !zz [...]
+#lem: u; +īnu[eye]N$; +īnu[eye]N$; u
+
+#note: Quotation from @i{Diri} III 130 (the phonetic complement is written @i{il-lu} in most manuscripts of @i{Diri}, but @i{el-lu} in MS D)
+5'. !zz [...] !cm ni?#-qu-u : !bs bu-un-na?#-[nu-u₂ !zz ...]
+#lem: u; nīqū[sacrifice]N; bunnannu[physiognomy]N; u
+
+6'. !zz [...] x# kar zu x# x# [...]
+#lem: u; u; u; u; u; u; u
+
+7'. !zz [...] x#-šu₂?#-u?# : x# [...]
+#lem: u; u; u; u
+
+@translation parallel en project
+
+1'. [...] ... alternatively, ... [...]
+2'. [...] ... PAD means “breadcrumb,” [...]
+3'. [...] means “to break up,” @i{alternatively}, ... [...]
+4'. [...] “A.KAL, read @i{ellu}, means ‘eye’” (@i{Diri} III 130), [...]
+5'. [... @i{means}] “offering,” “@i{feat}[@i{ures}” @i{means} ...]
+6'. [...] ... [...]
+7'. [...] ... [...]

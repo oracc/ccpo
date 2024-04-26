@@ -1,0 +1,56 @@
+&P400512 = CCP 1.6 (http://ccp.yale.edu/P400512) = K.13866
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1. !zz [...] ma?#-an?#-[x x x x]
+#lem: u; u; u; u; u
+
+2. !zz [...] ha-an-[x x x x]
+#lem: u; u; u; u; u
+
+3. !zz [...] di-mat-[su?]
+#lem: u; +dimtu[tear]N$dimassu
+
+4. !bs [... {d}ZI.SI] !cm ZI# na-piš-tu₂ SI {d}BAD
+#lem: u; Zisi[1]DN; +napištu[throat]N$; +napištu[throat]N$; +Ellil[]DN$Ellil; Ellil[1]DN
+
+#note: The god name d.Zisi is explained in a different way in the commentary to @i{Enūma eliš} VII 41-42. As pointed out by U. Gabbay (privatim), @akk{{d}BE} stands probably for Enlil here rather than Ea, since SI is elsewhere equated with Enlil, as in @akk{{m}SI.DU₃} = Enlil-bani.
+5. !zz [... !cm x]-x#-ra ME ku-bu
+#lem: u; u; +kūbu[foetus]N$; +kūbu[foetus]N$
+#note: Si vera lectio, the equation ME = @i{kūbu} would be otherwise unattested.
+6. !zz [...]-ak# !cm iṣ-ra-tu₄ ta-mir-tu₂
+#lem: u; +iṣratu[plan]N$; +tawwertu[(a type of) meadow]N$tamirtu
+
+7. !zz [...] !cm {d}ŠE.GIG
+#lem: u; +kibtu[wheat]N$
+
+#note: Or [...]-@i{an} ŠE.GIG.
+8. !zz [... !cm ša₂] DUG₄.GA{+u₂}
+#lem: u; ša[which]REL; iqbû[say]V
+
+#note: Or perhaps @i{kīma iqbû}.
+9. !zz [...] !cm MAŠ₂ bi-i-ru
+#lem: u; +bīru[divination]N$; +bīru[divination]N$
+
+10. !zz [...] !cm x# x# KA₂.DINGIR.RA{ki#}
+#lem: u; u; u; Babilu[Babylon]SN
+
+11. !zz [...] x# x# [x x (x)]
+#lem: u; u; u; u; u; u
+
+@translation parallel en project
+
+1. ...
+2. ...
+3. [...] @i{his tears}.
+4. [... (@i{in the divine name}) @i{Zisi}], ZI (means) “life” and SI (means) Enlil.
+5. [...] ... ME (means) “foetus.”
+6. [...] “land” (means) “meadow.”
+7. [...] divine Wheat.
+8. [... what] it is said.
+9. [...] MÁŠ means “divination.”
+10. [...] ... Babylon.
+11. ...

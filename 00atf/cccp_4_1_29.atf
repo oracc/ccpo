@@ -1,0 +1,102 @@
+&P461169 = CCP 4.1.29 (http://ccp.yale.edu/P461169) = BM 38375
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [* {d}LUGAL].UR₃#.RA KI.BI U₃.[TU]
+#lem: +Lugalurra[]DN$; +itti[with]PRP$ittīšu; ūlid[give birth (to)]V
+
+2. !cm [KI].BI# U₃.TU it-ti-šu₂# a-lid#
+#lem: ittīšu[with]PRP; ūlid[give birth (to)]V; ittišu[with]PRP; alid[born]AJ
+
+3. !zz [x (x)]-ri !bs {u₂}ŠAKIR !cm : ša₂-ki-ru-u₂
+#lem: u; u; šakirâ[henbane?]N; +šakirû[henbane?]N$šakirâ
+
+4. !bs [ZI !cm : na]-sa?#-hu : !bs SUD₂ !cm : sa-a-ku
+#lem: +nasāhu[tear out//tearing out]V'N$; nasāhu[tearing out]'N; +sâku[pound//pounding]V'N$; +sâku[pound//pounding]V'N$
+
+5. !zz [x x] !bs DE₃ !cm : ṭi-ik#-me-ni
+#lem: u; u; +ṭikmēnu[ashes]N$; +ṭikmēnu[ashes]N$ṭikmēni
+
+6. !bs [GAG].GAG# !cm : ša₂-pu-u₂ : !bs IM#.SA₅
+#lem: +šapû[wrap up//wrapping up]V'N$; +šapû[wrap up//wrapping up]V'N$; +šaršerru[red paste]N$
+
+7. !cm [šar]-šer₂-u₂ !zz : MU₄?-šu₂ : x# x#-ša₂ : ba/ma-ni-x#
+#lem: +šaršerru[red paste]N$; X; u; u; u
+
+#note: The writing @i{šar-šér-ú} of @i{šaršerru} is mystifying. One wonders whether the line should not be restored @akk{[sa-har-šub]-bu-ú} (cp. SAḪAR.ŠUB.BA in @i{Sagig} 29 16). The damaged signs after the supposititious MU₄-@i{šú} are not @i{l}[@i{a-b}]@i{a-šá}. The last signs are read by Heeßel as @akk{ba-ni#-ú#}.
+
+8. !zz [x x (x)] NAM#.LU₂.U₁₈.LU TUR
+#lem: u; u; u; amēlūtu[people]N; +ṣehru[small]N$
+
+#note: Compare perhaps @i{Sagig} 29 25 (lú.TUR BI @i{ina} MU BI UG₇).
+9. !zz [x x x !bs GIBIL₂? !cm :] ta-šar-rap
+#lem: u; u; u; +šarāpu[ignite]V$tašarrap; tašarrap[ignite]V
+
+10. !zz [x x x DU₁₀]{+ub?#} ŠA₃?#-šu
+#lem: u; u; u; ṭūb[goodness]N; libbišu[interior]N
+
+@reverse
+
+1'. !zz [...] x#
+#lem: u; u
+
+2'. !zz [...] x# [x x]-šu₂
+#lem: u; u; u; u
+
+3'. !zz [...] x# [x x] x#
+#lem: u; u; u; u; u
+
+$ single ruling
+4'. !zz [ṣa-a-tu₂ u šu]-ut pi-[i ...]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; u
+
+#note: The restoration follows Frahm @i{GMTR} 5 (2011) p. 227.
+5'. !zz [x x x x x x] x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+@translation labeled en project
+
+@label o 1 - o 2
+
+"If Lugalurra KI.BI Ù.TU" (= @i{Sagig} 29 1), KI.BI Ù.TU means "is born with him."
+
+@label o 3 - o 4
+
+ŠAKIR (= @i{Sagig} 29 5) means "@i{šakirû}-plant." ZI (@i{ibid}.) means "to tear out." SÚD (@i{ibid}.) means "to grind."
+
+@label o 5
+
+DÈ (= @i{Sagig} 29 6) means "ashes."
+
+@label o 6 - o 7
+
+GAG.GAG (= @i{Sagig} 29 12 (?) and 16) means "to seal up." IM.SA₅ (@i{ibid}.) means "red paste"
+
+@label o 8
+
+[...] men, young.
+
+@label o 9
+
+[... GÍBIL (?) (= @i{Sagig} 29 unknown)] means "you will burn."
+
+@label o 10
+
+[...] @i{happiness}.
+
+@label r 1' - r 3'
+
+...
+
+@label r 4'
+
+[Lemmata and or]al exp[lanations ...].
+
+@label r 5'
+
+...

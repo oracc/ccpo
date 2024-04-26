@@ -1,0 +1,41 @@
+&P403778 = CCP 3.9.u8 (http://ccp.yale.edu/P403778) = K.18585
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+@tablet
+
+1'. !zz [...] !bs mit-ha-riš & !cm g[a₂ ...]
+#lem: u; mithāriš[in the same manner]AV; X; u
+
+#tr.en: […] “similarly” means … […]
+2'. !zz [...] !bs ma-ri-šu₂ & !cm ki x [...]
+#lem: u; +māru[son]N$mārīšu; u; u; u
+
+#tr.en: […] “his son” means … […]
+3'. !bs [GI.GU]R !cm pa-nu & !bs pa-nu !cm qu-pu
+#lem: +pānu[bushel]N$; +pānu[bushel]N$; +pānu[bushel]N$; +quppu[box]N$
+
+#tr.en: [@i{gi.gu}]@i{r} means @i{pānu}, @i{pānu} means “basket”
+4'. !bs [A.KAL] HUN.GA₂ & !cm A.KAL ana K[UR in-neš-ša₂-a]
+#lem: +mīlu[high water]N$; +nâšu[rock]V$ineššâ; mīlu[high water]N; ana[towards]PRP; erṣetu[earth]N; +nâšu[rock]V$ineššâ
+
+#tr.en: [@i{akal}] @i{ḫunga} means “the flood will become loose towards the land.”
+5'. !bs [A].ZI.GA BA.AB.DU₈ & !cm A.KAL D[U₈-MEŠ]
+#lem: +mīlu[high water]N$; +paṭāru[loosen]V$ippaṭṭar; mīlu[high water]N; +paṭāru[loosen]V$ippaṭṭar
+
+#tr.en: [@i{a}]@i{ziga babdudu}₈ means “the flood will relent.”
+#note: Restored with 2R 47 K.4387 r. ii 51f. (@i{CCP} 3.1.u72).
+6'. !zz [...] x x di x & !zz kal x [...]
+#lem: u; u; u; X; u; kal[all]N; u; u
+
+#tr.en: […] … […]
+7'. !zz [...] x & !zz al s[i₄ ...]
+#lem: u; u; X; X; u
+
+#tr.en: […] … […]
+8'. !zz [...] x & !zz x x [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]

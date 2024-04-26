@@ -1,0 +1,254 @@
+&P395480 = CCP 2.1.B (http://ccp.yale.edu/P395480) = K.4320
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+@column 1
+
+1. !bs [{d}ia-ab-ru] & !cm {d#}a#-nu# NIM#{ki#}
+#lem: +Iabru[]DN$; Anu[1]DN; +Elam[]GN$
+
+#tr.en: “[The god Iabru]” (@i{Šurpu} II 163) means “[A]nu of Elam”.
+#note: For the Elamite god see @i{RlA} 5 229 s.v. “Jabnu”.
+2. !bs {d#}[hum-ba-(an)] & !cm [{d}en]-lil₂ MIN<(NIM.KI)>
+#lem: +Humban[]DN$; Ellil[1]DN; +Elam[]GN$
+
+#tr.en: “The god [Humba(n)]” (@i{Šurpu} II 163) means “[En]lil of ditto”.
+3. !bs nap#-ru#-[ša] & !cm {d#}e₂#-a MIN<(NIM.KI)>
+#lem: +Napruša[]DN$; Ea[1]DN; Elam[1]GN
+
+#tr.en: “Napru[ša]” (@i{Šurpu} II 163) means “[the god] Ea of ditto”.
+4. !bs {d}la#-[hu]-ra#-til & !cm {d}MAŠ MIN<(NIM.KI)>
+#lem: Lahuratil[1]DN; Ninurta[1]DN; Elam[1]GN
+
+#tr.en: “The god La[hu]ratil” (@i{Šurpu} II 162) means “Ninurta of ditto”.
+5. !bs en#-ne₂-tu₄ & !cm hi-ṭu
+#lem: +ennettu[sin]N$ennetu; +hīṭu[error]N$
+
+#tr.en: “Fault” (@i{Šurpu} II 32) means “sin”.
+6. !cm eʾ#-il-ti & !cm MIN<(hi-ṭu)>
+#lem: +eʾiltu[bond]N$; +hīṭu[error]N$
+
+#tr.en: “Debt” means “ditto”.
+7. !bs ma#-šu₂ & !cm a-mat la i-du-u
+#lem: +mašû[forget//forgetting]V'N$; amāt[command]N; lā[not]MOD; +edû[know]V$īdû
+
+#tr.en: “To forget” (@i{Šurpu} II 33) means “not to know words”.
+8. !bs la na-ṭa-a-tu₄ & !cm la a-ma-ra-a-tu₂
+#lem: lā[not]MOD; +naṭû[suitable]AJ$naṭâtu; lā[not]MOD; +amru[seen]N$amarātu
+
+#tr.en: “Improprieties” (@i{Šurpu} II 15 or 64?) means “unseemly things”.
+9. !bs da-ṣa-a-tu₄ & !cm ṣal-ti
+#lem: dāṣātu[treachery]N; ṣālti[quarrel]N
+
+#tr.en: “Treachery” (@i{Šurpu} II 35) means “strife”.
+10. !bs ši-pa-ri & !cm pu-uh-ru
+#lem: +šipāru[regulations//assembly]N'N$; puhru[assembly]N
+
+#tr.en: “Gathering” (@i{Šurpu} II 81) means “assembly”.
+
+$ single ruling
+
+11. !bs dar-ka-tu₄ & !cm ah-ra-a-tu₂
+#lem: +darku[following]AJ$; +ahrītu[later time]N$ahrâtu
+
+#tr.en: “Posterity” (@i{Šurpu} III 9) means “future”.
+12. !bs te#-ni-qa & !cm li-pi-li-pi
+#lem: +tēnīqu[suckling]N$; +līpu[descendant]N$līpilīpi
+
+#tr.en: “Suckling” (@i{Šurpu} III 9) means “descendant”.
+13. !bs za-ma-nu & !cm lem-nu
+#lem: +zāwiānum[enemy]N$zāmânu; lemnu[evil one]N
+
+#tr.en: “Enemy” (@i{Šurpu} III 59) means “evil”.
+14. !bs suk#-ku & !cm pa-rak-ku
+#lem: sukku[shrine]N; parakku[cult dais]N
+
+#tr.en: “Shrine” (@i{Šurpu} III 73) means “dais”.
+#note: This line is also the subject of @i{CCP} 2.1.C l. 53′.
+15. !bs pa#-an-pa-an & !cm MIN<(pa-rak-ku)>
+#lem: +panpānu[(a shrine or cultic installation)]N$panpān; +parakku[cult dais]N$
+
+#tr.en: “Shrine” (@i{Šurpu} III 73) means “ditto”.
+#note: This line is also the subject of @i{CCP} 2.1.C l. 53′.
+16. !bs di#-ʾu & !cm MIN<(pa-rak-ku)>
+#lem: +diʾu[(deity’s) throne-platform]N$; parakku[cult dais]N
+
+#tr.en: “Deity’s platform” (@i{Šurpu} III 74) means “ditto”.
+#note: This line is also the subject of @i{CCP} 2.1.C l. 57′.
+17. !bs šat-pi & !cm tub-qin*#-ni*# :* hi*-ri?#-tu₂*#
+#lem: šatpi[pit]N; tubqinni[hole]N; +hirītu[ditch]N$
+
+#tr.en: “Excavation” (@i{Šurpu} III 92) means “hole”, (which) means “ditch”.
+
+$ single ruling
+
+18. !bs {d}MUŠ₂ & !cm {d}INNIN UNUG{ki#}
+#lem: Tišpak[1]DN; Ištar[1]DN; Uruk[1]SN
+
+#tr.en: “The god Tišpak” (@i{Šurpu} IV 64 and 95) means “Ištar of Uruk”.
+#note: @i{CCP} 2.1.C (l. 49') instead explains Tišpak as the Babylonian god Nabû, an equation discussed by Frahm in his edition of that commentary.
+19. !bs DUMU.MUNUS DINGIR-šu₂ & !cm a-has-su
+#lem: mārat[daughter]N; ilišu[god]N; +ahātu[sister]N$ahāssu
+
+#tr.en: “His divine daughter” (@i{Šurpu} IV 7) means “his daughter”.
+#note: See @i{RlA} 5 150a.
+20. !bs ha#-aš₂#-ti & !cm šu-ut-ta-tu₂
+#lem: +haštu[hole]N$hašti; +šuttatu[(hunter’s) pitfall]N$
+
+#tr.en: “Pit” (@i{Šurpu} IV 43) means “trap”.
+21. !cm [MIN<(ha-aš₂-ti)>] & !cm qu-bu-ri
+#lem: +haštu[hole]N$hašti; +qubūru[grave]N$qubūri
+
+#tr.en: [“ditto”] means “grave”.
+#note: Reiner restores the word being explained as @akk{ka-ra-šu-u}, but her reason for this is unclear. Note the entry @akk{[é]-ùr-ri É.KI.SÌ.GA} = @i{qú-bu-rum}, @i{šu-ut-ta-tum} in @i{Diri} V 301f.
+
+$ single ruling
+
+22. !bs [...] & !cm x#-ut-tin-ni
+#lem: u; u
+
+#tr.en: […] …
+#note: Perhaps [@i{m}]@i{u-ut-tin-ni}, “wine”?
+23. !bs [...] & !cm U₂#-IGI-LIM
+#lem: u; X
+
+#tr.en: […] means “‘It-confronts-1000’-plant”.
+24. !bs [...] & !cm U₂#-IGI#-LIM
+#lem: u; +imhur-līm[(a medicinal plant)]N$
+
+#tr.en: […] means “‘It-confronts-1000’-plant”.
+25. !bs [...] & !cm [U₂?]-IGI?#-LIM#
+#lem: u; imhur-līm[(a medicinal plant)]N
+
+#tr.en: […] means “‘It-confronts-1000’-plant”.
+26. !bs [... & !cm x x] x#
+#lem: u; u; u; u
+
+#tr.en: […] …
+
+@column 2
+
+1. !bs U₂# {d}UTU & !cm ša₂-gi-ru?#
+#lem: šammi[plant(s)]N; Šamaš[1]DN; +šakirû[henbane]N$šagiru
+
+#tr.en: “Plant of Šamaš” means @i{šagirû}-plant
+#note: @i{CAD} U/W 51a reads here @i{ú-ìl-tú} = @akk{NÍG.GI.NA#}. But note the equation @akk{[Ú šá]-mi {d}šá-maš} = Ú @i{šakirû} in @i{Uruanna} I 27 (@i{CAD} Š/1 314b). I thank E.Frahm and E. Jiménez for this new reading of the line.
+2. !bs ak#-kul*-lak-ki & !cm ṣip-pa-[tu₂]
+#lem: +akkullakku[(a vegetable)]N$; ṣippatu[fruit orchard]N
+
+#tr.en: “@i{akkullakku}-vegetable” means “@i{ṣippa}[@i{tu}]-vegetable”.
+#note: The equation is attested in @i{Ḫargud} and @i{Uruanna}: See @i{CAD} A/1 275b.
+3. !bs mu-ša₂-ru*-u* !cm : ki-ru*-u* & !bs mu-har-ri !cm : x# [(x)]
+#lem: +mūšaru[(flower]N$mušarû; +kirû[(fruit) plantation]N$; X; u; u
+
+#tr.en: @i{mušarû} means “garden”. “...” means “.[..]”.
+#note: Reading follows @i{CAD} M/2 234a.
+4. !bs {+x}ŠEŠ & !cm an-nu-ti#
+#lem: u; annûti[these]DP
+
+#tr.en: ŠEŠ, pronounced …, means “these”.
+5. !bs tuš-tab-bal & !cm ta-bal-lal
+#lem: tuštabbal[calculate]V; taballal[mix (up)]V
+
+#tr.en: “You stir” means “you mix”.
+6. !bs {id₂}ir-ha-an & !cm pu-rat-tu₂
+#lem: Irhan[Euphrates]RN; Purattu[Euphrates]WN
+
+#tr.en: “River Irhan” means “Euphrates”.
+#note: “Ir-ha-an” appears in a manuscript of Erimhuš from Assur as a pronunciation gloss for the archaic writing for the Euphrates, @akk{ID₂.AN.MUŠ.DIN.TIR.BALAG} (@i{Erimhuš} VI 48).
+
+$ single ruling
+
+7. !bs DU₁₀.GAM & !cm ka-ma-a-šu₂
+#lem: +kamāsu[kneel//kneeling]V'N$; +kamāsu[kneel//kneeling]V'N$kamāšu
+
+#tr.en: “DU₁₀.GAM” means “to kneel”.
+8. !bs MUNUS uš-NA₂ & !cm šu#-u₂#-lu#
+#lem: u; X; X
+
+#tr.en: “MUNUS @i{uš}-NÁ” means “…”.
+#note: @i{CAD} Š/3 304a reads the second column as @i{šu-un-ni}. This line was inserted between two previously written ones.
+9. !bs HULUH & !cm pa-la-hu
+#lem: +palāhu[fear//fearing]V'N$; palāhu[fearing]'N
+
+#tr.en: “ḪULUḪ” means “to fear”.
+10. !bs HULUH# & !cm ga-la-du
+#lem: +galātu[tremble//trembling]V'N$; +galātu[tremble//trembling]V'N$galādu
+
+#tr.en: “ḪULUḪ” means “to tremble”.
+11. !bs DUG₄#.DUG₄# & !cm da-ba#-ba#
+#lem: +dabābu[speak//speaking]V'N$; +dabābu[speak//speaking]V'N$dabāba
+
+#tr.en: “DUG₄.DUG₄” means “to speak”.
+12. !bs UMUN & !cm be-[lu]
+#lem: +bēlu[lord]N$; bēlu[lord]N
+
+#tr.en: “UMUN” means “lo[rd].”
+13. !bs ŠUB & !cm na-[du-u₂]
+#lem: nadû[throwing]'N; nadû[throwing]'N
+
+#tr.en: “ŠUB” means “to th[row].”
+14. !bs DUB & !cm ša₂-pa?#-[ku?]
+#lem: +šapāku[heap up//heaping up]V'N$; +šapāku[heap up//heaping up]V'N$
+
+#tr.en: “DUB” means “to @i{he[ap up}”]
+15. !bs ina-eš# & !cm i-bal#-[lu-uṭ]
+#lem: inaʾʾeš[recover]V; +balāṭu[live]V$iballuṭ
+
+#tr.en: “He will live” means “he will rec[over].”
+16. !bs EŠ & !cm pa-ša₂-[šu]
+#lem: +pašāšu[anoint//anointing]V'N$; +pašāšu[anoint//anointing]V'N$
+
+#tr.en: “EŠ” means “to anoi[nt.”]
+17. !bs GAZ?# & !cm ha-ša₂-[lu?]
+#lem: +hašālu[crush//crushing]V'N$; +hašālu[crush//crushing]V'N$
+
+#tr.en: “@i{GAZ}” means “to crush”.
+18. !bs SUD₂# & !cm sa-a-[ku]
+#lem: sâku[pounding]'N; sâku[pounding]'N
+
+#tr.en: “SÚD” means “to pulv[erize]”.
+19. !bs HUN.GA₂# & !cm na-a#-[hu]
+#lem: +nâhu[rest//resting]V'N$; nâhu[resting]'N
+
+#tr.en: “HUN.GÁ” means “to ca[lm].”
+
+20. !bs UŠ# & !cm x# [...]
+#lem: u; u; u
+
+#tr.en: UŠ means […]
+21. !bs UŠ# & !cm [...]
+#lem: u; u
+
+#tr.en: UŠ means […]
+22. !bs ŠU GU₄ & !cm [...]
+#lem: qāt[hand]N; +eṭemmu[ghost]N$eṭemmi; u
+
+#tr.en: “ŠU.GU₄” means [“Hand of the ghost”].
+23. !bs KU.LI# & !cm [ib-ru]
+#lem: +ibru[friend]N$; +ibru[friend]N$
+
+#tr.en: “KU.LI” [means “friend”].
+24. !bs NI BU BU# & !cm [...]
+#lem: X; u; uN; u
+
+#tr.en: … […]
+25. !bs x# ME x# & !cm [...]
+#lem: u; u; u; u
+
+#tr.en: … […]
+26. !bs x# x# [(x) & !cm ...]
+#lem: u; u; u; u
+
+#tr.en: … […]
+27. !bs x# [(x x) & !cm ...]
+#lem: u; u; u; u
+
+#tr.en: … […]

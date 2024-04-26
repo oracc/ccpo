@@ -1,0 +1,223 @@
+&P393723 = CCP 3.5.57 (http://ccp.yale.edu/P393723) = K.36
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1'. !bs E₂.GI₄.A-šu₂ AL#-[x x & !zz x x] x# [x x x]
+	
+#lem: +kallātu[daughter-in-law]N$kallātašu; u; u; u; u; u; u; u; u
+
+2'. !bs GI.BULUG₃.[GA] & !cm tar-bu-[tu₄]
+#lem: +tarbûtu[novice]N$; +tarbûtu[novice]N$
+
+#note: Cited in @i{CAD} T 225 under @i{tarbûtu}, “status of foster child” (or foster child), “uncert.”
+$single ruling
+3'. !bs * uz-zi DINGIR mi-i-x# x# x# : & KA.ŠU.I !cm : ina ṭup-pi ul ša₂-lim
+#lem: uzzi[anger]N; ili[god]N; u; u; u; X; ina[in]PRP; ṭuppi[tablet]N; ul[not]MOD; šalim[intact]AJ
+
+4'. ($___$) & !cm ul al-si-eš
+#lem: ul[not]MOD; +šasû[shout]V$alsīš
+
+$single ruling
+5'. !bs KIR₄.ZAL & !cm ta-šil-ti hi-du-ti
+#lem: +tašīltu[(ceremony of) celebration]N$; tašīlti[(ceremony of) celebration]N; hidûtī[joy]N
+
+$single ruling
+6'. !bs BURU₅.MUŠEN & !cm e-ri-bu
+#lem: +erbû[locust]N$; +erbû[locust]N$ēribu
+
+$single ruling
+7'. !bs TI.LA ŠA₃ AL!(AN).SI.SI & !cm ba-la-ṭu iš-te-ni-ib-bi
+#lem: balāṭ[good health]N; libbi[interior]N; +šebû[be full (of = acc.)]V$ištenebbi; balāṭu[life]N; +šebû[be full (of = acc.)]V$ištenebbi
+
+#note: Reading AL with CAD B 46 and Š/2 252.
+$single ruling
+8'. !bs U₄.HUB & !cm tah-tu-u₂
+#lem: +tahtû[defeat]N$; +tahtû[defeat]N$
+
+9'. !bs tah-tu-u₂ & !cm dab-du-u₂
+#lem: +tahtû[defeat]N$; +dabdû[defeat]N$
+
+$single ruling
+10'. !bs ša₂# ŠUB# UR₃ & !cm ša₂ mi-qit u₂-ri
+#lem: ša[of]DET; +miqtu[fall]N$miqit; ūri[roof]N; ša[of]DET; +miqtu[fall]N$miqit; ūri[roof]N
+
+#note: Or perhaps šá as technical term.
+$single ruling
+11'. !bs A.KU₅ & !cm bu-tuq-tu₄
+#lem: +butuqtu[breach]N$; +butuqtu[breach]N$
+
+$single ruling
+12'. !bs NIG₂.SIG₅ !cm : da-me-eq-ti & !bs NIG₂.HUL !cm : le-mut-tu₄
+#lem: +damiqtu[damiqtu]N$; +damiqtu[damiqtu]N$dameqti; +lemuttu[evil]N$; +lemuttu[evil]N$
+
+$single ruling
+13'. &2 !zz ṣa-a-tu₄ ša₂ DUB 45.KAM₂ * URU ina SUKUD{+e} GAR{+in}
+#lem: ṣâtu[commentary]N; ša[of]DET; ṭuppi[tablet]N; n; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$single ruling	
+14'. !bs ZALAG₂{+ri} & !cm nu-u₂-ri
+#lem: +nūru[light]N$; nūru[light]N
+
+15'. !bs at-hu-u₂ i-ṭib-bu & !cm ŠEŠ-MEŠ i-ṭi-ib-bu
+#lem: athû[brothers]N; +ṭiābu[be(come) good]V$iṭibbū; ahhī[brother]N; +ṭiābu[be(come) good]V$iṭibbū
+
+16'. !bs GIG.HAB.BA  & !cm mar-ru
+#lem: +marru[bitter]AJ$; +marru[bitter]AJ$
+
+$single ruling
+17'. !bs * KIMIN {giš}GIŠIMMAR maš-ki ku-nu-u₂ & !cm : maš-ki ma-du-ma ul mur-ru-uq
+	
+#lem: šanîš[otherwise]N; gišimmari[date palm]N; +mašku[skin]N$; X; +mašku[skin]N$; +mādu[many]AJ$; ul[not]MOD; +murruqu[refined//clear]AJ'AJ$murruq
+
+$single ruling
+18'. !bs {+im-ma}|KA×UD| & !cm ṣu-u₂-mu#
+#lem: +ṣūmu[thirst]N$; +ṣūmu[thirst]N$
+
+$single ruling
+19'. !bs * KIMIN {giš}GIŠIMMAR ina GU₂.UN & !cm i-lu-ud
+#lem: šanîš[otherwise]N; gišimmari[date palm]N; ina[in]PRP; +biltu[load]N$bilti; +lâdu[bend down]V$ilūd
+
+20'. !bs aš₂-ṭa & !cm dan-nu
+#lem: +ašṭu[stiff]AJ$ašṭa; dannu[strong]AJ
+
+$single ruling
+21'. !bs ir-ta-nu-u₂ & !cm iš-ta-nu-u₂
+#lem: +ištânû[]AJ$only; +ištânû[]AJ$only
+
+22'. ($___$) !bs <(ir-ta-nu-u₂)> !cm : ša₂ GABA.MEŠ šak-nu &
+#lem: +irtānû[with breasts]AJ$; ša[of]DET; +irtu[breast]N$irāti; šaknu[provided with]AJ
+
+#note: @i{CAD} I seems to understand line 21 as “@i{irtānû}” means “unique” and line 22 as “one who has a (big) chest,” an alternative explanation for irtānû (see p.183 sub @i{irtānû} and p. 278 sub @i{ištēn}). Alternatively, one could explain @i{ištanû} as @i{šanû} Gt.
+$single ruling
+$(reverse)
+23'. !bs ki-tu₂ u₂-kal-lim & !cm im-bu-u₂ u₂-kal-lam-ma šu-ut pi-i
+#lem: +kitû[flax]N$kītu; ukallim[show]V; +imbû[fibre]N$; +kullumu[show]V$ukallamma; šūt[those of]DET; pî[mouth]N
+
+#note: Perhaps from @i{kitû}, “linen”? [EJ]
+$single ruling
+24'. !bs * la-am {giš}GIŠIMMAR ša-ra-mi & !cm a-di!(KI) la {giš}GIŠIMMAR un-dar-ru-u₂
+#lem: lām[before]SBJ; gišimmari[date palm]N; +šarāmu[trim//trimming]V'N$šarāmi; adi[until]PRP; lā[not]MOD; gišimmari[date palm]N; +arû[cut off]V$umdarrû
+
+$single ruling
+25'. !bs me-eṭ-ra-tu₄ & !cm {giš}KIRI₆
+#lem: +miṭirtu[watercourse]N$meṭrātu; kiri[garden]N
+
+$single ruling
+26'. !bs {giš}PA.KUD GIŠIMMAR & !cm u₂-ru-u₂ e-ru₃
+#lem: +urû[cut branch]N$; gišimmari[date palm]N; +urû[cut branch]N$; +aru[branch]N$eru
+
+#note: According to CAD A/2 311 and 317 and U/W 260a, @i{eru} stands for for @i{arû} A, “to cut branches.” This, however, seems unlikely.
+$single ruling
+27'. !bs A₂.DAM & !cm na-maš-šu-u₂ bu-lu₄
+#lem: +nammaštû[moving things]N$nammaššû; +nammaštû[moving things]N$nammaššû; būlu[livestock]N
+
+$single ruling
+28'. !bs KI BI ŠUB & !cm KUR BI ŠUB{+di}
+#lem: +qaqqaru[ground]N$; šū[that]IP; +nadû[throw (down)]V$innaddi; nakāsu[cutting]'N; šū[that]IP; +nadû[throw (down)]V$innaddi
+
+$single ruling
+29'. !bs GAM.GAM{+ud} & !cm iq-ta-na-ad-du-ud
+#lem: +qadādu[bow down]V$iqtanaddud; +qadādu[bow down]V$iqtanaddud
+
+$single ruling
+30'. !bs ta-ri-tu₄ & !cm DUMU.MUNUS up-pi
+#lem: +tārītu[stripping]N$; mārat[daughter]N; +uppu[tube]N$uppi
+
+#note: Quotation from Ḫg A 29 to Ḫḫ III [EJ].
+$single ruling
+31'. !bs I₃.BA & !cm i-zu-<uz> {(he-pi₂ eš-šu₂)}
+#lem: +zâzu[divide]V$izūz; +zâzu[divide]V$izūz; hepi[broken]AJ; eššu[new]AJ
+
+#note: CAD  Z 76 has other examples of the spelling Ì.BA for @i{izūz}.
+$single ruling
+32'. !bs ni-ziq₂-tu₂ & !cm ni-ziq-ti#
+#lem: +niziqtu[grief]N$; niziqti[grief]N
+
+$single ruling
+33'. !bs ni-ši-ti₃ & !cm maš-ši-ti
+#lem: +nišītu[lifting]N$nišīti; +maššītu[delivery]N$maššīti
+
+#note: @i{CAD} N/2 281 s.v. @i{nišitu}, 1. installation in office; 2. glance (of a god, usually fav.); 3. “(unkn. mng.)” cites this passage. @i{CAD} M/1 389 s.v. @i{maššitu} means “delivery, ingredients.”
+$single ruling
+34'. !bs ut-tu-ku & !cm ku-up-pu-pi
+#lem: +uttuku[bent]AJ$; +kuppupu[very bent]AJ$kuppupi
+
+$single ruling
+35'. !bs is-suh₄ & !cm in-na-as-sih₂-ma
+#lem: +nasāhu[tear out]V$issuh; +nasāhu[tear out]V$innassihma
+
+$single ruling
+36'. !bs is-sa-na-pi-du & !cm ša₂ zi-ni-šu₂-nu ina la IM ih*#-x-x#
+#lem: +sapādu[mourn]V$issanapidū; ša[of]DET; +zinû[rib of palm-frond]N$zinīšunu; ina[at]PRP; lā[not]MOD; +šāru[wind]N$šāri; u
+
+#note: The end of the line needs collation. The phrase is usually @i{ša ina lā šāri inazzuzu}, see @i{CAD} N/2 141a and Landsberger @i{Date Palm} (@i{Afo Beih} 17), 1967, p. 13 fn. 34 [EJ].
+$single ruling
+37'. !bs hu{+u₂}-qa & !cm hu-uʾ-[qa]
+#lem: +hūqu[step]N$hūqa; +hūqu[step]N$huʾqa
+
+#note: See CAD Ḫ 244 s.v. @i{hūqu} D (mng. unknown) for discussion.
+$single ruling
+38'. !bs mut-qa & !cm kal-ma-tu₄#
+#lem: +mutqu[head louse]N$; kalmatu[vermin]N
+$single ruling
+39'. !bs šu-ta-hu-tu₄ & !cm a-hu-[u₂]
+#lem: +šutāhû[paired (off)]AJ$; +ahû[fraternize]V$
+$single ruling
+40'. !bs [x (x)] x# ka#-lu-u₂ & !cm GURUN-šu₂ i-kal-la-ma# [x x x]
+#lem: u; u; u; kalû[held (back)]AJ; +inbu[fruit]N$inibšu; +kalû[hold (back)]V$ikallāma; u; u; u
+$single ruling
+41'. !zz [...] & !cm x#-ha-ra-[...]
+#lem: u; u
+$single ruling
+42'. !zz [...] & [x (x)] x# [...]
+#lem: u; u; u; u; u
+
+@translation parallel en project
+
+1'. É.GI₄.A ... [...]
+2'. GI.BÙLUG.[GA] means “foster child.”
+3'. “If the wrath of a god ...” ... – it was not complete on the tablet;
+4'. I could not read it.
+5'. KIR₄.ZAL means “delight,” (i.e.,) “joy.”
+6'. BURU₅.MUŠEN means “crow.”
+7'. TI.LA ŠÀ AL!(AN).SI.SI means “life will continually be satisfying.”
+8'. U₄ means “defeat.”
+9'. “Defeat” means “vanquish.”
+10'. @i{šá} ŠUB ÙR means “of the collapse of a roof.”
+11'. A.KU₅ means “flood.”
+12'. NÍG.SIG₅ means “good fortune,” NÍG.ḪUL means “evil.”
+13'. Lemmata from tablet 45 (i.e., 57) of “If a City is Set on a Height.”
+14'. ZÁLAG-@i{ri} means “light.”
+15'. @i{at-hu-ú i-ṭib-bu} means “brothers will be on good terms.”
+16'. GIG.ḪAB.BA (= @i{Šumma Ālu} 58 rel = K.6760 l. 11) means “bitter.”
+17'. If ditto (in a city grove) the date palm’s ... are ...” means “@i{maški} are many and (...)” — (this) is not clear
+18'. (The sign) KA×UD, (pronounced) /imma/, means “thirst.”
+19'. “If ditto a date palm is bent over by produce” (= @i{Šumma Ālu} 58 16′, see @i{CT} 40 44 = 80-7-19,22 l. 3).
+20'. @i{ašṭu} means “strong.”
+21'. @i{irtānû} (is a variant writing of) @i{ištānû} (= “unique”).
+22'. (alternatively, it refers to a person) who has breasts (i.e., @i{irtānû).
+23'. “It shows @i{kitu}” means “it shows fiber,” (according to) an oral (explanation).
+24'.  “If, before a date palm’s pruning” (= @i{Šumma Ālu} 58 22′) means “when they have not (yet) cut the branches of a date palm.”
+25'. @i{miṭrātu} (lit., “irrigated groves”) means “grove.”
+26'. giš.PA.KUD GIŠIMMAR (= @i{Šumma Ālu} 58 24′) means “palm frond,” (i.e.,) “frond.”
+27'. Á.DAM means “beasts,” (i.e.,) “herds.”
+28'. KI BI ŠUB (lit. “that place will be abandoned,” = @i{Šumma Ālu} 58 36′) means “that land will be abandoned.”
+29'. GAM.GAM-@i{ud} (= @i{Šumma Ālu} 58 36′) means “is repeatedly bending.”
+30'. “Offshoot” (@i{sc}., of a date palm) (= @i{Šumma Ālu} 58 37′) means “daughter of the axil” (@i{sc}., of the palm).
+31'. Ì.BA (= @i{Šumma Ālu} 58 39′) means “it is divi<ded>” (new break)
+32'. @i{ni-zíq-tú} (= @i{Šumma Ālu} 58 42′) (can be spelled as) @i{ni-ziq-ti} (lit., “trouble”).
+33'. “Lifting” (@i{nišītu}, = @i{Šumma Ālu} 58 43′) means “carrying” (@i{maššītu}).
+34'. “Bent” (= @i{Šumma Ālu} 58 47′) means “bowed.”
+35'. “It uproots” (= @i{Šumma Ālu} 58 53′) means “it is uprooted.”
+36'. (The leaves of the date palm) “keep mourning” (= @i{Šumma Ālu} 58 54′) (refers to date palms) whose fronds [...] without wind.“
+37'. @i{ḫu-qa} (with phonetic complement /u/) means @i{ḫuʾ}[@i{qa}].
+38'. “Vermin” (= @i{Šumma Ālu} 58 58′, cf. @i{CT} 41 16:30, KUR @i{mut-qa} DIB) means “louse.”
+39'. “Paired” (@i{šutāḫûtu}, pl.) (stems from) “to pair” (@i{aḫ}[@i{û}]).
+40'. [...] “to hold back” (= @i{Šumma Ālu} 58 uncertain) means “it holds back its fruit and [...].”
+41'. ...
+42'. ...

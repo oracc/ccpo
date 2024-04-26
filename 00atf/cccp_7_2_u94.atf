@@ -1,0 +1,44 @@
+&P469977 = CCP 7.2.u94 (http://ccp.yale.edu/P469977) = BM 34475
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# [...]
+#lem: u; u; u
+
+2'. !zz [...] sa-ṣa-at# [...]
+#lem: u; X; u
+
+3'. !zz [...] x#-ri-ik mas-ka ri#-[...]
+#lem: u; u; X; u
+
+4'. !zz [...]-ti !bs iṣ-ṣab-bat !cm : GID₂.DA : [...]
+#lem: u; +ṣabātu[seize]V$iṣṣabbat; +arāku[be long]V$irrik; u
+
+#note: Perhaps @i{ina me-ku-ti iṣṣabbat}, as in the commentary @i{CCP} 3.1.u72 i 20.
+5'. !zz [... !bs ma]-ar#-sa-at !cm : mar-ṣa-at !zz : x# [...]
+#lem: u; +marṣu[sick]N$marsat; +marṣu[sick]N$marṣat; u; u
+
+#note: Compare the writing @i{mar-sa-at} (sic) in @i{Lugale} 89.
+6'. !bs [...]-ru# !cm : da-ma-ma !zz : ṣa-di#-[...]
+#lem: u; damāma[wailing]'N; u
+
+#note: ŠUB = @i{damāma}, if that is the correct reading, would be otherwise unattested.
+7'. !zz [...]-x#-is e-raš : ina x# [...]
+#lem: u; X; ina[in]PRP; u; u
+
+8'. !zz [...] x# [x x x] x# [...]
+#lem: u; u; u; u; u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. ...
+4'. [...] "will be taken." GÍD.DA means ["to be long" ...]
+5'. [...] @i{ma-ar-sa-at} means "she is sick"; [...],
+6'. [...] means "to moan," [...]
+7'. ...
+8'. ...

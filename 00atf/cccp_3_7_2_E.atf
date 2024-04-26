@@ -1,0 +1,77 @@
+&P394084 = CCP 3.7.2.E (http://ccp.yale.edu/P394084) = K.1814
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@column 3
+
+1'. !bs * GIR₃ qa?#-[an-ni GIR₂.TAB GAR ina-an-ziq UŠ₂ a-ga-nu-til-la UG₇]
+#lem: šēp[foot]N; +qannu[fringe]N$qanni; +zuqiqīpu[scorpion]N$; šakin[displayed]AJ; inanziq[be(come) annoyed]V; imât[die]V; +agannutillû[dropsy]N$agannutillâ; imât[die]N
+
+2'. ($___$) !cm ša₂ ana KA₂-a-ni ZUKUM# [GIR₃-MIN-šu₂ BAL-MEŠ]
+#lem: ša[which]REL; ana[for]PRP; bābāni[outside]'N; +kabāsu[tread]V$ikabbasu; šēpāšu[foot]N; ibbalakkat[cross over]V
+
+#note: Compare Böck @i{Morphoskopie} (2000) p. 266 l. 32.
+3'. !bs * GIR₃ BAL.GI{+ku₆} GAR [NIG₂.TUKU HA.LA DINGIR u LUGAL GU₇]
+#lem: šēp[foot]N; +raqqu[tortoise]N$raqqi; šakin[displayed]AJ; +šarû[be(come) rich]V$išarri; zitta[share]N; ilu[god]N; u[and]CNJ; šar[king]N; ikkal[eat]V
+
+4'. ($___$) !cm GIR₃-MIN*-šu₂ ana KA₂-a-ni GAR U#-[MEŠ GIR₃-šu₂ ...]
+#lem: šēpāšu[foot]N; ana[according to]PRP; bābāni[outside]'N; šakin[displayed]AJ; ubānāt[finger]N; šēpētušu[foot]N; u
+
+5'. ($___$) !cm : ŠU.SI-MEŠ GIR₃-MIN-šu₂ na-[par-qu-da kaṣ₃-ba-ma ki-ṣir ŠU.SI-ME NU TUKU{+u₂}]
+#lem: ubānāt[finger]N; šēpāšu[foot]N; +naparqudu[flat]AJ$naparqudā; +kaṣbu[stunted]AJ$kaṣpāma; kiṣir[knot]N; ubānāt[finger]N; lā[not]MOD; iršû[acquire]V
+
+6'. !bs * GIR₃-MIN-šu₂ kup-pu-pa lu-[...]
+#lem: šēpāšu[foot]N; +kuppupu[very bent]AJ$kuppupā; u
+
+7'. !bs * pa-ša₂-ra-an dul-x# !zz [...]
+#lem: +pašarānu[meaning unclear]AJ$pašarān; u; u
+
+#note: See @i{CAD} P 236a.
+8'. !bs * GIR₃ UR.GI₇ GAR ṣa-a-a-ad UKU₂{+in#} [EN NU GAL₂{+e} GIN]
+#lem: šēp[foot]N; kalbu[dog]N; šakin[displayed]AJ; +ṣayyādu[vagrant]AJ$sayyād; ilappin[be(come) poor]V; adi[until]PRP; lā[not]MOD; bašê[existing]AJ; izzizu[stand]V
+
+#note: Compare Böck @i{Morphoskopie} (2000) p. 266 l. 34.
+9'. ($___$) !cm nak-kap GIR₃-MIN-šu₂ GAL-ma ŠU.SI-MEŠ-šu₂*# [ina ...]
+#lem: +nakkapu[tip]N$nakkap; šēpāšu[foot]N; +rabû[big]AJ$rabīma; ubānātišu[finger]N; ina[in]PRP; u
+
+1O'. !bs * GIR₃ UR.GI₇ GAR ina UR₂-MEŠ-šu₂ ban#-[dil-la-an UR₂-MEŠ SIG-MEŠ !zz ...]
+#lem: šēp[foot]N; kalbu[dog]N; iššakkan[take place]V; ina[in]PRP; +išdu[foundation]N$išdāti; +bandillānu[paunchy]AJ$bandillān; +išdu[foundation]N$išdāti; ēdûti[prominent]AJ; u
+
+#note: Compare Böck @i{Morphoskopie} (2000) p. 266 l. 34.
+11'. ($___$) !cm KIMIN DU-MEŠ NU x# x# [...]
+#lem: X; illakū[flow]V; lā[not]MOD; u; u; u
+
+@column 4
+@colophon
+
+1'. !zz [...] alam#-dim₂-me-e
+#lem: u; +alandimmû[physique]N$
+
+#note: The line is reconstructed as [@i{ṣâtu ala}]@i{mdimmê} by Böck @i{Morphoskopie} (2000) p. 252. It could also read [@i{ṭuppi} n-kam @i{mukallimtu ala}]@i{mdimmê} or [n im.@i{gíd-da ala}]@i{mdimmê}, as proposed by Frahm @i{GMTR} 5 (2011) p. 46 and 213.
+2'. !zz [KUR {m}AN.ŠAR₂-DU₃-A MAN ŠU₂ MAN] KUR aš-šur{ki}
+#lem: +ēkallu[palace]N$ēkal; Assurbanipal[1]RN; šarru[king]N; kiššati[universe]N; šar[king]N; mātu[land]N; +Assur[]GN$
+
+@translation parallel en project
+
+@column 3
+
+1'. "If he has a foot like a [scorpion's pincers, he will be worried, he will die of @i{aganutillû} (= @i{TBP} 22 l. 36, Böck @i{Morphoskopie} p. 266)]
+2'. 	    (it refers to a man) who treads outwards, [his feet are always slipping].
+3'. "If he has turtle feet, [he will become rich and enjoy the share of god and king" (= @i{TBP} 22 l. 38, Böck @i{Morphoskopie} p. 268)],
+4'. 	    means that is feet are turned outwards, and the t[oes of his feet ...].
+5'. 	    (Alternatively), (it means that) the toes of his feet are are fl[at, they are @i{stunted} and have no phalanges].
+6'. "If his feet are bent" (= Physiognomic unknown) [...]
+7'. "If he is ..." (= Physiognomic unknown) [...]
+8'. "If he has dog feet, he is a vagrant, he will become poor, [he will become nonexistent" (= @i{TBP} 22 l. 34, Böck @i{Morphoskopie} p. 266)],
+9'. 	    means that the tip of his feet is big, and his toes [in ...].
+1O'. "If he has dog feet, and is fat in his belly, [(or else) is thin in his belly ...],
+11'. 	    ditto, when he walks [...].
+
+@column 4
+@colophon
+
+1'. [...] @i{Alamdimmû}.
+2'. [Palace of Ashurbanipal, king of the Universe, king] of Assyria.

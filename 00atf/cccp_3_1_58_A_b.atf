@@ -1,0 +1,287 @@
+&P393722 = CCP 3.1.58.A.b (http://ccp.yale.edu/P393722) = K.35
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+@tablet
+
+$(obverse)
+
+1. !bs * {mul}dil-bat ṣer-ha TUKU NU SIG₅
+#lem: Dilbat[1]CN; ṣerha[flash]N; +rašû[acquire]V$irši; lā[not]MOD; +damqu[good]AJ$damiq
+
+#tr.en: “If Venus has a sudden luminosity, unfavorable.” [= omen 1]
+#note: Reiner & Pingree (1998: 14) note that the the commentary’s explanations of this and the following omen in ll. 2 and 4 “seem without basis.”
+2. ($__$) !cm ina ta-lu-ki-ša₂ ha-an-tiš il-ta-na-qa-a
+#lem: ina[in]PRP; +tāluku[gait]N$tālukīša; +hamṭiš[quickly]N$; +šaqû[be(come) high]V$iltanaqqâ
+
+#tr.en: – She will @i{keep ascending} quickly in her progression.
+3. !bs * {mul}dil-bat ṣer-ha NU TUKU SIG₅
+#lem: Dilbat[1]CN; ṣerha[flash]N; lā[not]MOD; irši[acquire]V; damiq[good]AJ
+
+#tr.en: “If Venus does not have a sudden luminosity, favorable.” [= omen 2]
+4. ($__$) !cm ni-hi-iš KI.GUB-su u₂-šal-lam-ma DU-ma
+#lem: X; mazzāssu[position]N; +šalāmu[be(come) healthy]V$ušallama; illakma[flow]V
+
+#tr.en: – She will complete the full period of her (lit. its) position (in the sky) … and move off.
+#note: Reiner & Pingree (1998: 100) translate: “she completely reaches her position slowly and stands there.” Instead of the puzzling @i{ni-hi-iš}, @i{ACh Ištar} 5 reads the scarcely less puzzling @i{ahiš}, which @i{CAD} A/1 189a does not translate and which @i{AHw} 20b tentatively translates “für sich allein(?).” 
+5. !bs * {mul}dil-bat SUR-ma {mul}ŠUDUN NIGIN# da-gi-lu
+#lem: Dilbat[1]CN; iṣruhma[flare]V; Niru[Yoke]CN; lami[surrounded]AJ; +dāgilu[one who sees]N$
+
+#tr.en: “If Venus scintillates and goes around the Yoke, (and) an observer
+6. ($__$) !bs id-gul a-mi-ru e-mu-ru KUR BIR{+ah}
+#lem: +dagālu[see]V$idgul; āmiru[observer]N; +amāru[see]V$ēmuru; mātu[land]N; issappah[scatter]V
+
+#tr.en: observes (her) (and) someone sees (it), the land will be scattered,
+7. ($__$) !bs BALA KUR₂{+ir} MUNUS-MEŠ ina {giš}TUKUL ŠUB-MEŠ
+#lem: palâ[period of office]N; inakkir[change]V; sinnišātu[woman]N; ina[in]PRP; kakku[weapon]N; imaqqatū[fall]V
+
+#tr.en: the reign will change (and) women will die violently (lit. fall by means of the weapon).” [= omen 3]
+#note: Reiner & Pingree (1998: 100) include a @akk{MEŠ} after @akk{{giš}TUKUL} which is not in the manuscript.
+8. ($__$) !cm {d}dil-bat {d}SAG.ME.GAR NIGIN-MEŠ-ma
+#lem: Dilbat[Venus]CN; nēberu[Jupiter]CN; +lawûm[surround]V$iltammī-ma
+
+#tr.en: – Venus will go around Jupiter.
+#note: Equation of the Yoke with Jupiter.
+9. !bs * {mul}dil-bat SUR-ma ina IGI {mul}MAR.GID₂.DA GUB-ma
+#lem: Dilbat[1]CN; iṣruhma[flare]V; ina[in]PRP; pān[front]N; Ereqqu[Wagon]CN; izzazma[stand]V
+
+#tr.en: “If Venus scintillates and stands before the Plough,
+10. ($__$) !bs a-me-ru IGI SUH₃ ana U₄.3.KAM₂ ZI-ma KUR ir-ri-im
+#lem: +āmiru[observer]N$āmeru; +amāru[see]V$īmur; tēšû[chaos]N; ana[according to]PRP; X; itebbema[arise]V; māt[land]N; +arāmu[cover]V$irrim
+
+#tr.en: (and) someone sees (her), a storm will arise on the third day and cover the land.” [= omen 4]
+11. ($__$) !cm {d}dil-bat ana IGI {mul}ŠU.GI GUB#-ma
+#lem: Dilbat[Venus]CN; ana[according to]PRP; pān[front]N; Šibu[Old Man]CN; izzazma[stand]V
+
+#tr.en: – Venus will stand before the Old Man.
+#note: Equation of the Plough with Venus.
+12. !bs *# {mul#}dil#-bat# ina# ŠA₃ {mul#}GU₄#.AN.NA is#-sa₃#-hu?#-ur?#
+#lem: Dilbat[1]CN; ina[in]PRP; libbi[concern]N; Alu[Bull of Heaven]'CN; +sahāru[go around]V$issahur
+
+#tr.en: “If Venus @i{turns back} within the Bull of Heaven 
+#note: According to Reiner & Pingree (1998: 9), this is a reference to the retrogression of Venus.
+13. !bs ($__$) [...] x#-ba KUR₂*
+#lem: u; u; nakri[enemy]N
+
+#tr.en: […] changes. [= omen 5]
+14. [* {mul}dil-bat ...] x# x# x# SILIM-ma ŠU₂{+bi}-ma
+#lem: Dilbat[1]CN; u; u; u; u; šalimma[healthy]AJ; +rabû[set]V$irbima
+
+#tr.en: [“If Venus …] … sets
+15. ($__$) !bs [...]-ba KUR₂* : ṭe-em KUR i-ša₂-an-ni 
+#lem: u; +nakāru[be(come) different]V$inakkir; ṭēm[initiative]N; mātu[land]N; išanni[be(come) changed]V
+
+#tr.en: […] … changes (variant:  the mind of the land will be different).” [= omen 6]
+16. !bs [* {mul}dil-bat ina] še#-re-e-ti ka-a-a-na-at
+#lem: Dilbat[1]CN; ina[in]PRP; šērēti[morning hours]N; +kayyānu[constant]AJ$kayyānat
+
+#tr.en: “[If Venus] is stable [in] the morning,
+17. ($__$) !bs [LUGAL]-MEŠ# KUR₂-MEŠ SILIM-MEŠ
+#lem: šarrū[king]N; inakkirū[be(come) hostile]V; isallimū[be(come) at peace]V
+
+#tr.en: hostile [kings] will be at peace.” [= omen 7]
+$ single ruling
+18. !bs [* {mul}dil-bat] x# 3 ITI KUR{+ha} {munus}KUR₂-MEŠ GAL₂-MEŠ BURU₁₄ KUR SI.SA₂
+#lem: Dilbat[1]CN; u; n; arhi[month]N; ippuha[rise]V; +nukurtu[enmity]N$nukrātu; ibaššû[exist]V; ebūr[harvest]N; māti[land]N; iššir[thrive]V
+
+#tr.en: [“If Venus …] rises @i{for 3 months}, there will be hostilities; the harvest of the land will prosper.” [= omen 8]
+19. ($__$) !cm [... lu] {mul#}GU₄.AN.NA lu {mul}SIPA.ZI.AN.NA GUB-ma 
+#lem: u; lū[or]CNJ; Alu[Bull of Heaven]'CN; lū[or]CNJ; Šitaddaru[Orion]CN; izzazma[stand]V
+
+#tr.en: – She will stand (in) [either] the Bull of Heaven or the True Shepherd of Anu.  
+20. !bs [* {mul}]dil#-bat ina EN.NUN.U₄.ZAL.LI KUR{+ha} su-ga-ga-ti
+#lem: Dilbat[1]CN; ina[in]PRP; šāt-urri[third watch of the night]N; ippuha[rise]V; +sugagātu[unknown]N$sugagāti
+
+#tr.en: “If Venus rises in the morning watch, there will be @i{sugagāti}”
+21. ($__$) !bs [: sag]-ga-ša₂-a-ti ina KUR GAL₂-MEŠ
+#lem: +šaggaštu[slaughter]N$šaggašāti; ina[in]PRP; māti[land]N; ibaššû[exist]V
+
+#tr.en: [(variant: mur]ders) in the land.” [= omen 9]
+22. ($__$) !bs [EN].NUN#.U₄.ZAL.LA !cm : EN.NUN uh-hur-tu₄
+#lem: šāt[who(m)]DET&urri[daytime]N; maṣṣarti[watch]N; +uhhuru[late]AJ$uhhurtu
+
+#tr.en: “[– M]orning watch” means “late watch”;
+23. ($__$) !cm [ina] AN{+e} a-dan{+an}-šu₂ u₂-še-tiq-ma
+#lem: ina[from]PRP; šamê[heaven]N; adānšu[fixed date]N; +etēqu[go past]V$ušētiqma
+
+#tr.en: she will exceed her (lit. its) appointed time [in] the sky.
+$ single ruling
+24. !bs *# {mul}dil-bat ina ITI ši-ir-ʾi-BURU₁₄ ina GUB₃-ša₂ MUL.MUL GUB{+iz}
+#lem: Dilbat[1]CN; ina[in]PRP; arhi[month]N; +Širʾi-ebūri[]MN$; ina[in]PRP; šumēliša[left]N; Zappu[Bristle]CN; izziz[stand out]V
+
+#tr.en: “If Venus, in the Month of the Harvest Furrow, on her left stands the Stars,
+25. ($__$) !bs SU.GU₇# : SUH₃ ina KUR GAL₂{+ši}
+#lem: bubūt[hunger]N; tēšû[chaos]N; ina[in]PRP; māti[land]N; ibašši[exist]V
+
+#tr.en: there will be famine (variant: confusion) in the land.” [= omen 10]
+26. ($__$) !cm {d}ṣal-bat-a-nu ina 150-ša₂ GUB-ma
+#lem: Ṣalbatanu[Mars]CN; ina[in]PRP; n; izzazma[stand]V
+
+#tr.en: – Mars will stand on her left.
+#note: Association of the Stars with Mars.
+27. !bs * {mul}dil-bat ina UD.NA₂.AM₃ ša₂ ITI tam-hi-ri ŠU₂-ma
+#lem: Dilbat[1]CN; ina[in]PRP; +bibbulu[day of moon's disappearance]N$bibbuli; ša[of]DET; arhi[month]N; +Tamhīru[]MN$Tamhīri; irbima[disappear]V
+
+#tr.en: “If Venus sets at the neomenia of Month of Presentation (@i{Tamhīru}) and
+28. ($__$) !bs ina {iti}ŠE KUR{+ha} SU.GU₇ ina KUR GAL₂{+ši}
+#lem: ina[in]PRP; Addaru[1]MN; ippuha[rise]V; bubūtu[hunger]N; ina[in]PRP; māti[land]N; ibašši[exist]V
+
+#tr.en: rises in Month 12, there will be famine in the land.” [= omen 11]
+29. ($__$) !cm ina AN{+e} a-dan{+an}-šu₂ u₂-še-tiq#-ma
+#lem: ina[from]PRP; šamê[heaven]N; adānšu[fixed date]N; ušētiqma[go past]V
+
+#tr.en: – She will exceed her (lit. its) appointed time in the sky.
+30. !bs * {mul}dil-bat GIM# KUR#{+ha} ir-ta-naq-qi₂ ŠEG₃-MEŠ ina AN{+e}
+#lem: Dilbat[1]CN; kīma[according to]PRP; ippuha[rise]V; +šaqû[be(come) high]V$irtanaqqi; zunnū[rain]N; ina[from]PRP; šamê[heaven]N
+
+#tr.en: “If Venus, as soon as she rises, keeps going upwards, rain in the sky
+31. ($__$) !bs ILLU-MEŠ ina IDIM KU₅-MEŠ
+#lem: mīlū[flood]N; ina[in]PRP; nagbi[source]N; ipparrasū[cut (off)]V
+
+#tr.en: (and) floods in the source will cease.” [= omen 12]
+32. ($__$) !cm GIM# {d}ṣal-bat-a-nu ma-ʾ-diš i-šaq#-[qam-ma]
+#lem: kīma[according to]PRP; Ṣalbatanu[Mars]CN; maʾdiš[greatly]N; +šaqû[be(come) high]V$išaqqamma
+
+#tr.en:  – Like Mars she will go very hi[gh.]
+#note: Comparison of Venus with Mars.
+
+$(reverse)
+
+36. !bs * {mul}dil-bat ina IGI-ša₂ AN.TA GAR{+an#*} [...]
+#lem: Dilbat[1]CN; ina[in]PRP; pāniša[front]N; eliš[above]AV; iššakkan[take place]V; u
+
+#tr.en: “If Venus when she appears is high … […]
+#note: Reiner & Pingree (1998: 100) read @akk{AN.TA šá-q[u]}, but the traces and parallels make @akk{GAR{+an}} more likely.
+37. ($__$) !bs : MUL-MEŠ GAL-MEŠ x# [...]
+#lem: kakkabū[star]N; rabûti[great]AJ; u; u
+
+#tr.en: (variant: the Great Stars) … […]
+38. ($__$) !bs DINGIR-MEŠ ze-nu-tu₄ ana KUR GUR#-[MEŠ?]
+#lem: ilū[god]N; zenûtu[angry]AJ; ana[towards]PRP; erṣetu[earth]N; iturrā[turn]V
+
+#tr.en: the angry gods will return to the land.” [= omen 13]
+39. ($__$) !bs MUL-MEŠ GAL-MEŠ !cm : {d}SAG.ME.GAR u {d#}[...]
+#lem: kakkabū[star]N; rabûti[great]AJ; nēberu[Jupiter]CN; u[and]CNJ; u
+
+#tr.en: – “Great Stars” means “Jupiter and […].”
+$ single ruling
+40. !bs [*] {mul#}dil-bat# KUR-ma KI.GUB-sa₃ KUR₂.KUR₂ : GUR.GUR# LUGAL# IR₃-MEŠ#-šu₂#
+#lem: Dilbat[1]CN; ippuhma[rise]V; manzāssa[position]N; ittanakkir[change]V; +târu[turn]V$ittanâr; šarru[king]N; ardīšu[slave]N
+
+#tr.en: [“If] Venus rises and her position changes (variant: retrogrades(?)), the king’s servants
+#note: According to Reiner & Pingree (1998: 9), @akk{GUR} means “to retrograde” in the @i{ACT} material, but they omit translating @akk{GUR.GUR} in this context.
+41. ($__$) !bs [HI].GAR-šu₂-ma ina KI.GUB-šu₂ MAN-ma GUB{+az#} 
+#lem: +bâru[revolt]V$ibâršuma; ina[in]PRP; mazzāzišu[position]N; šanûmma[(an)other]AJ; +izuzzum[stand]V$izzaz
+
+#tr.en: [will ri]se against him, and another one will stand in his position.” [= omen 14]
+42. !bs [* {mul}dil]-bat KUR-ma KI.GUB-sa₃ gu-um-mu-ra DINGIR-MEŠ ana KUR
+#lem: Dilbat[1]CN; ippuhma[rise]V; manzāssa[position]N; +gummuru[completed]AJ$gummurā; ilū[god]N; ana[according to]PRP; mātu[land]N
+
+#tr.en: [“If] Venus rises and her position is complete, the gods 
+43. ($__$) !bs [ARHUŠ TUKU-MEŠ] !cm U₄-MEŠ-ša₂ u₂-šal-lam-ma GUB#-ma
+#lem: rēmu[mercy]N; iraššû[experience]V; +ūmu[day]N$ūmīša; ušallama[be(come) healthy]V; izzazma[stand]V
+
+#tr.en: [will have mercy] on the land.” [= omen 15] – She will complete her days and stand (there). 
+44. !bs [* {mul}dil-bat] KI#.GUB#-sa₃ SA₅ ŠUB{+ti₃} ANŠE.KUR.RA-ME*
+#lem: Dilbat[1]CN; manzāssa[position]N; sāmū[red]AJ; miqitti[epidemic]N; +sisû[horse]N$sisê
+
+#tr.en: [“If Venus]’s position is red, downfall of horses;
+45. ($__$) !bs [...] ina KUR GAL₂-MEŠ
+#lem: u; ina[in]PRP; māti[land]N; ibaššû[exist]V
+
+#tr.en: there will be […] in the land.” [= omen 16]
+46. ($__$) !cm [{d}ṣal-bat-a]-nu# KI-ša₂ GUB-ma
+#lem: Ṣalbatanu[Mars]CN; ašriša[condition]N; izzazma[stand]V
+
+#tr.en: [ – Mar]s will stand with her.
+#note: Association of Venus’s red position with Mars.
+47. !bs [* {mul}dil-bat KI.GUB-sa₃] SIG₇# {munus}PEŠ₄-MEŠ EN ša₃ ŠA₃-ši-na US₂-ME
+#lem: Dilbat[1]CN; manzāssa[position]N; aruq[yellow-green]AJ; +arītu[pregnant (woman)]N$arâtu; bēlu[lord]N; ša[whom]REL; libbašina[belly]N; +mâtu[die]V$imuttū
+
+#tr.en: [“If Venus’s position] is green, pregnant women will die (with) the “lord(s) of their wombs” (i.e., with their babies inside them).” [= omen 17]
+#note: The unusual choice of @i{šà} to write the determinative pronoun seems to be traditional to this apodosis, which appears with the same spelling in, e.g., an omen relating to Jupiter (Reiner & Pingree 2005: 68 l. 11').
+48. ($__$) !cm [{mul}UDU.IDIM].SAG#.UŠ KI-ša₂ GUB-ma
+#lem: Kayyamanu[Saturn]CN; ašriša[condition]N; izzazma[stand]V
+
+#tr.en: [ – Sat]urn will stand with her.
+#note: Association of Venus’s green position with Saturn.
+49. !bs [* {mul}dil-bat ...] x# i-nam-bu-uṭ
+#lem: Dilbat[1]CN; u; u; inambuṭ[be(come) bright]V
+
+#tr.en: [“If Venus …] shines
+50. ($__$) !bs [...] x# IGI{+mar}
+#lem: u; u; innammar[see]V
+
+#tr.en: […] is visible.” [= omen “18”]
+51. !zz [...] !bs ŠUB?# !cm : na-du-u
+#lem: u; nadû[throwing]'N; nadû[throwing]'N
+
+#tr.en: [… “ŠU]B(?)” means “to throw”.
+52. !bs [{mul}dil-bat ... un]-nu-ut ŠA₃.HUL
+#lem: Dilbat[1]CN; u; unnut[faint]AJ; lumun[evil]N&libbi[interior]N
+
+#tr.en: [“If Venus …] is [fa]int, misfortune.” [= omen “19”]
+53. !bs [* {mul}dil-bat ...] SIG₅{+tu₂}
+#lem: Dilbat[1]CN; u; damiqtu[good fortune]N
+
+#tr.en: [If Venus …] good fortune”. [= omen “20”]
+54. !bs [* {mul}dil-bat ...] x# UN-MEŠ iq-qe₂-ri-ša₂
+#lem: Dilbat[1]CN; u; u; nišū[people]N; +garāšu[move towards]V$iqqerišā
+
+#tr.en: [“If Venus …] … the women will copulate.” [= omen “21”]
+#note: For the interpretation of @akk{UN-MEŠ} as “women” and the verb as @i{garāšu} in this context, see Reiner 1975a.
+
+55. ($__$) !cm [...]-nu u KI.TA-ma GUB-ma#
+#lem: u; u[and]CNJ; +šapālu[be(come) deep]V$išpilma; izzazma[stand]V
+
+#tr.en: [– …] … is low and will stand (there).
+#note: Perhaps restore @akk{[... AN.TA]{+nu} u KI.TA-ma}.
+56. !bs *# {mul#}dil-bat ana# MUL#.MUL# TE# NU# x# x# x# [x] x# x# x# x# x#
+#lem: Dilbat[1]CN; ana[according to]PRP; Zappu[Bristle]CN; iṭhe[approach]V; lā[not]MOD; u; u; u; u; u; u; u; u; u
+
+#tr.en: “If Venus draws near to the Stars …” [= omen “22”]
+#note: See Reiner & Pingree (1998: 13) for a discussion of the possible technical meaning of the logogram TE in this and subsequent lines.
+57. ($__$) !cm {d}dil-bat ana {mul}AB.SIN₂ [TE-ma]
+#lem: Dilbat[Venus]CN; ana[according to]PRP; Šerʾu[Furrow]CN; iṭhī-ma[be(come) near to]V
+
+#tr.en: – Venus [will draw near] to the Furrow.
+#note: Equation of Stars with the Furrow. See Reiner & Pingree (1998: 8) for the astronomical rationale behind this equation.
+58. !bs * {mul}dil-bat ana {mul#}KU₆ TE DAB₅.DAB₅ ina KUR# GAR{+an}
+#lem: Dilbat[1]CN; ana[according to]PRP; Nunu[Fish]CN; iṭhe[approach]V; +dabdû[defeat]N$; ina[in]PRP; māti[land]N; iššakkan[take place]V
+
+#tr.en: “If Venus draws near to the Fish, a defeat will occur in the land.” [= omen “23”]
+59. ($__$) !cm {d}dil-bat ana {mul}SUHUR#.MAŠ₂.KU₆ TE-ma
+#lem: Dilbat[Venus]CN; ana[according to]PRP; +Suhurmāšu[Capricorn]CN$; iṭhī-ma[be(come) near to]V
+
+#tr.en: – Venus will draw near to the Goat-Fish.
+#note: Equation of the Fish with the Goat-Fish. Reiner & Pingree (1998: 8) present an argument for the astronomical rationale behind this equation.
+60. !bs * {mul}dil-bat ana {mul}APIN TE DAB₅.DAB₅ GAR{+an}
+#lem: Dilbat[1]CN; ana[according to]PRP; Epinnu[Plough]CN; iṭhe[approach]V; dabdû[defeat]N; iššakkan[take place]V
+
+#tr.en: “If Venus draws near to the Plough, a defeat will occur.” [= omen “24”]
+61. ($__$) !cm ana {d}ṣal-bat-a-nu TE-ma 
+#lem: ana[according to]PRP; Ṣalbatanu[Mars]CN; iṭhī-ma[be(come) near to]V
+
+#tr.en: – She will draw near to Mars.
+#note: Equation of the Plough with Mars. See Reiner & Pingree (1998: 8) for some discussion of the rationale behind this equation.
+$ single ruling
+62. !zz mu-kal-lim-ti * U₄ AN {d}en-lil₂ šu-ut KA ša KA UM.ME.A
+#lem: mukallimti[scholarly commentary]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[accordance]N; ummâni[expert]N
+
+#tr.en: @i{Mukallimtu}-commentary on @i{Enūma Anu Enlil}, (with) oral explanations following the sayings of a (master-)scholar,
+#note: The rubric in ll. 62-63 is rubric “@i{mukallimtu} 2a”. See Frahm 2011: 43-45 for a detailed discussion of the meaning of the phrases “oral explanations” and the “sayings of a (master-)scholar.”
+63. !zz ša₂ ŠA₃ * {mul}dil-bat ṣer-ha im-šuh E₂.GAL {m}AN.ŠAR₂-DU₃-IBILA
+#lem: ša[of]DET; libbi[concern]N; Dilbat[1]CN; ṣerha[flash]N; imšuh[flash]V; ēkalli[palace]N; Assurbanipal[1]RN
+
+#tr.en: (referring to entries) from “If Venus flashes with a sudden luminosity”. (Property) of the palace of Ashurbanipal,
+#note: The colophon in ll. 63-65 is an abbreviated form of the “type k” Ashurbanipal-colophon (Hunger 1969: 100).
+64. !zz LUGAL GAL u LUGAL dan-nu LUGAL ŠU₂{+ti} LUGAL KUR AN.ŠAR₂{ki}
+#lem: šarru[king]N; rabâ[great]AJ; u[and]CNJ; šar[king]N; dannu[mighty]AJ; šar[king]N; +kiššatu[totality]N$kiššati; šar[king]N; mātu[land]N; Assur[1]GN
+
+#tr.en: great king, might king, king of the universe, king of Assyria
+65. !zz ša₂ {d}MUATI {d}PAPNUN ARHUŠ TUKU-MEŠ-šu-ma ki-ma AD u AMA u₂-rab-bu-u-šu₂
+#lem: ša[of]DET; Nabu[1]DN; Tašmetu[1]DN; rēmu[mercy]N; iršûma[acquire]V; kīma[like]PRP; abi[father]N; u[and]CNJ; ummi[mother]N; +rabû[be big]V$urabbûšuma
+
+#tr.en: on whom the gods Nabû and Tašmētu took pity and reared like a father and mother.

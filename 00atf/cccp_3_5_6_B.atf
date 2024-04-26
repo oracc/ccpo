@@ -1,0 +1,114 @@
+&P470048 = CCP 3.5.6.B (http://ccp.yale.edu/P470048) = BM 48575
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x# : x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...] x#-tu₄ : i-[...]
+#lem: u; u; u
+
+3'. !zz [...] x#-le-e : hi-[...]
+#lem: u; u; u
+
+4'. !zz [...]-ma?# [...]
+#lem: u; u
+
+5'. !zz [...] !cm kim#-tu₄ : [(x x)] x# [...] 
+#lem: u; kimtu[family]N; u; u; u; u
+
+6'. !zz [...] !bs ri#-ib-qu !cm :# (x#) he-pi₂ [...]
+#lem: u; +ribqu[hoed]AJ$; u; hepi[broken]AJ; u
+
+#note: @i{ḫepi} could also be taken as a paratextual note.
+
+7'. !zz [... !qt %sux x]-gin₇# na-an-gul-la?# :# ama ér#-[bi-e na-an-gul-e (...)]
+#lem: u; u; gul[destroy]V/t/gul#na.n:~;a; ama[chamber]N/ama#~; er[tears]N/er₂#~,bi.e; gul[destroy]V/t; u
+
+#note: The line contains a quotation from the @i{eršemma uru ašera} (which also existed as the first section of a @i{balaĝ} of the same title). In that text the line appears, with small variations, as ll. 20-23 (see the editions in @i{CLAM} pp. 66-67 and Gabbay @i{HES} 2 [2015] p. 171).
+
+8'. !zz [...] !qt ina# : ri-ib-qu ṣab-ta [ina maš]-tak bi#-[ki-tu₄ ...]
+#lem: u; ina[in]PRP; ribqu[hoed]AJ; +ṣabtu[captured]AJ$; ina[in]PRP; maštak[chamber]N; bikītu[sorrow]N; u
+
+#note: The present line probably contains the Akkadian translation of the Sumerian line. The parallels BM 42658 and @i{LKU} 10 translate the line as @i{kīma} ... @akk{ṣa-ab-tu₄ ina maš-ta-ki-šá ba-ka-a ul i?#-kal?#-la?#} (see Gabbay @i{HES} 2 [2015] p. 306). Note also @akk{AMA₅} = @i{maštaku}.
+
+9'. !zz [...] :# !cm aš₂#-šu-tu₂ ze-nu-tu₄ !zz [...]
+#lem: u; +aššūtu[marriage]N$; zenûtu[angry]AJ; u
+
+#note: See line r 8′.
+10'. !zz [...] ul i-[...]
+#lem: u; ul[not]MOD; u
+
+11'. !zz [...] u₂# x# [...]
+#lem: u; u[and]CNJ; u; u
+
+@reverse
+
+1'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+2'. !zz [...] !qt x# in-na-bi-tu₄ !zz x# [...]
+#lem: u; u; +abātu[run away]V$innabitū; u; u
+
+#note: The line probably contains a quotation from a literary text.
+3'. !zz [...] !bs KU₆ !cm : nu-u₂-ni : na-bu-tu₄ :# {+x#}[...]
+#lem: u; nūna[fish]N; nūni[fish]N; +abātu[run away//running away]V'N$nābutu; u
+
+#note: Compare @i{Ea} IV 111 and 114 (@i{MSL} 14 p. 359): @i{ku-ú } @akk{HA} = @i{nu-ú-nu}, @i{za-aḫ } @akk{HA.A} = @i{na-bu-tu}.
+4'. !zz [...] x# !cm : ma-ša-lu : !bs ṭub-bu-u !cm :# ra#-ha-[ṣu ...]
+#lem: u; u; +mašālu[equal//equalling]V'N$; +ṭebû[sink//sinking]V'N$ṭubbû; rahāṣu[flooding]'N; u
+
+#note: Compare @i{Ea} IV 124 (@i{MSL} 14 p. 360): @i{se-e } SUM @i{su-nu} = @i{mašālu}. On @i{ṭubbû}, see @i{Aa} II/7 iv 6a′ (@i{MSL} 14 p. 298). Note the very relevant entry from @i{Diri}: @i{sa-ah } ḪA.A = @i{ṭú-ub-bu-ú} (@i{Diri} VI B 5 = @i{MSL} 15 p. 188). The restoration of the last verb is based on @i{Diri} VI B 8.
+5'. !zz [...] x#-ma : !bs ṭe-bu-u₂ !cm : na?#-pu#-u₂ : x# [...]
+#lem: u; u; +ṭebû[sink//sinking]V'N$; napû[sieving]'N; u; u
+
+6'. !zz [...] !bs sa#-na-pu !cm : ra-ha-ṣu ša₂ !zz UR#-[...]
+#lem: u; +sanāpu[tie on//tying on]V'N$; rahāṣu[flooding]'N; ša[of]DET; u
+
+#note: The rare verb @i{sanāpu} is attested in two rituals (see @i{CAD} S 132a) and in @i{Šumma Ālu} VI 80 and VII 15.
+7'. !zz[...] !bs UR#.KI !cm : kal-bi  ur-ṣu : !bs he-su#-[u₂? !zz ...]
+#lem: u; kalab[dog]N&urṣi[dog of the earth?]N; kalbi[dog]N; +urṣu[badger]N$; hesû[battering]'N; u
+
+#note: @i{kalab urṣi}, “badger” (?), is attested in @i{Ḫarra} XIV 86. It appears in @i{Izbu} V 91, XVII 61, and in the list of prodigies @i{CT} 29 48 l. 12. Compare also @i{Šumma Ālu} VI 82 and 84 (@akk{UR.A} and @akk{UR.GI₇}).
+8'. !zz [...] :# !cm aš₂-šu-tu₂ qe₂-re-tu₄ ša₂ !zz [...]
+#lem: u; aššūtu[marriage]N; +qerû[called]AJ$qerûtu; ša[of]DET; u
+
+9'. !zz [...] x# : gu-uz?#-x# [...]
+#lem: u; u; u; u
+
+10'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+@obverse
+
+1'. [...] ... [...]
+2'. [...] ... [...]
+3'. [...] ... [...]
+4'. [...] ... [...]
+5'. [...] (@i{means}) @i{family} ... [...]
+6'. [...] “@i{ripqu}” (lit., “hoed”) (means) ... “broken” [...]
+7'. [... (@i{as in})] like a [...] is destroyed, so the abode is [destroyed by its] weeping,”
+8'. [...] (in Akkadian) “in the @i{stall} is seized, in the abode @i{the w}[@i{eeping} ...]
+9'. [...] angry @i{marriage} [...]
+10'. [...] not ... [...]
+11'. [...] ... [...]
+
+@reverse
+
+1'. [...] ... [...]
+2'. [...] ... fled ... [...]
+3'. [...] KU₆ (i.e., ḪA) means “fish,” “to flee” (ZÁḪ, i.e., ḪA.A) means ... [...]
+4'. [...] ... means “to equal.” “To sink” means “@i{to flo}[@i{od} ...].
+5'. [...] ... “to sink” means ... [...]
+6'. [...] “to tie” means “to trample,” said of ... [...]
+7'. [... U]R.KI means “badger,” ... [...]
+8'. [...] @i{invited marriage} [...]
+9'. [...] ... [...]
+10'. [...] ... [...]

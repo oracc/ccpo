@@ -1,0 +1,92 @@
+&P470042 = CCP 6.1.13.C (http://ccp.yale.edu/P470042) = BM 48261+ BM 48380
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@face a
+
+$(obverse (?))
+
+1'. !zz ($___$) & !zz [...] x#-a# :# KU#-bi# : x# [...]
+#lem: u; u; X; u; u
+
+#tr.en: […] … […]
+2'. !zz ($___$) & !zz [...] ba?#-nu-u NU DU₃ [...]
+#lem: u; banû[creating]'N; u; u; u
+
+#tr.en: […] “@i{to build}” … […]
+
+#note: Compare perhaps @i{Ea} II 1 @akk{[du-u] KAK# ga-[ak-ku]} = @akk{[ba-nu-u]}. As suggested by U. Gabbay (personal communication), @akk{NU DU₃} might represent the technical term @i{ul ēpuš} (normalization uncertain), discussed by U. Gabbay, @i{Exegetical Terminology} (@i{CHANE} 82) pp. 26-27.
+3'. !zz ($___$) & !zz [...] x# šuk-ku-tu₂ : šuk-ku-tu₂ [...]
+#lem: u; u; X; X; u
+
+#tr.en: […] … […]
+4'. !zz ($___$) & !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]
+
+@face b
+
+$(reverse (?))
+
+1'. !zz ($___$) & !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+#tr.en: […] … […]
+2'. !zz ($___$) & !zz [...] x#-bi-tu₄ ki?#-[...]
+#lem: u; u; u
+
+
+#tr.en: […] … […]
+3'. !zz ($___$) & !zz [...] x# [(x)]-šu?#-ma : nu-[...]
+#lem: u; u; u; u
+
+
+#tr.en: […] … […]
+4'. !zz [(x)] & !zz [x x x x x x] x# : LUGAL# : !bs KUR !cm : KI{+ti₃} : {d}NUSKA?# [...]
+#lem: u; u; u; u; u; u; u; u; šarru[king]N; erṣetu[earth]N; erṣeti[earth]N; Nusku[1]DN; u
+
+#tr.en: […] … “king.” @i{kur} means “land,” @i{Nus}[@i{ka} …]
+5'. !zz [(x)] & !zz [x x] x# x# (x#) !bs [KUR?] !cm :# be-lu : DINGIR : LUGAL : !bs KUR !zz : x# [...]
+#lem: u; u; u; u; u; u; u; bēlu[lord]N; ilu[god]N; šarru[king]N; u; u; u
+
+#tr.en: […] … [@i{kur} (?)] means “lord,” “god,” (and) “king”; @i{kur} … […]
+6'. !zz [(x)] & !bs [KUR !cm :] {d#}ŠU-ma.KUR : {d?#}EN KUR{+i} : !bs * {+zi-za-nu}KUR !cm : x# [...]
+#lem: u; u; X; +bēl[lord]N$; šadî[mountain]N; X; u; u
+
+#tr.en: [(…)] The sign @i{kur}, (as in) “(the god) @sup{d}ŠU-@i{ma}.KUR,” (which means) “lord of the montain.” @i{kur}, read @i{zizānu}, means … […].
+#note: Cf. @i{Ea} II 195 @akk{zi-za-nu KUR} = @akk{ŠU} (= @i{šadû}). Compare @i{An = Anu} VI 248: @akk{{d}{+zi-za-nu}KUR#} = Amurru.
+7'. !zz [(x)] & !bs KUR# !cm : {d}ŠU-ma.KUR : {d#}ŠU-ma.KUR : {d}30 [...]
+#lem: u; u; X; +Sin[]DN$; Sin[1]DN; u
+
+#tr.en: [(…)] The sign @i{kur}, (as in) “(the god) @sup{d}ŠU-@i{ma}.KUR” — “(the god) @sup{d}ŠU-@i{ma}.KUR” means Sîn, […]
+
+8'. !bs [lam]-hu# & !bs |KUR@KUR| !cm : ša₂ GEME₂{+u₂-tu₂#} : ša₂ GEME₂ am-tu₄ : sin-niš-tu₄# [...]
+#lem: X; X; ša[of]DET; +amūtu[status of a maid]N$; ša[of]DET; amtu[maid]N; amtu[maid]N; sinništu[woman]N; u
+
+#tr.en: The sign KUR.KUR, read [@i{lamḫ}]@i{u}, @i{means šá amūtu} — @i{šá amti} (means) “a female slave,” (i.e.), “a woman,” […]
+#note: Compare @i{Ea} II 199 @akk{gu-di-bir} |KUR.KUR| = @akk{nu-kúr-tu}. See also VAT 9541 (@i{MSL} 14 p. 261): @akk{lam-hu} |KUR.KUR| @akk{ir-kal-la}.
+
+9'. !zz ($___$) & !bs GU₂ !cm : ma-a-tu₂ : da-x# [:] !bs |KUR#@KUR| !cm : ma-at?# x# [...]
+#lem: +mātu[land]N$; mātu[land]N; u; X; X; u; u
+
+#tr.en: @i{gú} means “land” … The sign KUR.KUR … […]
+10'. !zz x# & !bs AŠ@t{+di-li-te-nu-u} !cm : x#-[x x]-šu₂#-nu# [...]
+#lem: u; X; u; u; u
+
+#tr.en: […] … the sign AŠ@sup{t}, (whose name is) @i{dili tenû}, means … […] … […]
+11'. !bs [ta]-al# & !bs AŠ@t !cm : ṣi-ru₃ : x# [x x x x] x# [...]
+#lem: X; +ṣīru[exalted]AJ$; +ṣīru[exalted]AJ$; u; u; u; u; u; u; u
+
+#tr.en: The sign AŠ@sup{t}, read [@i{ta}]@i{l}, means “exalted” … […] … […]
+
+12'. !bs [x x x]-ak?# & !bs AŠ@k aš an-ta-bal [...]
+#lem: u; u; u; X; X; X; u
+#tr.en: […] … […]
+
+13'. !bs [x x x]-lal# & !bs AŠ@k# !cm [...]
+#lem: u; u; u; X; u
+#tr.en: […] … […]

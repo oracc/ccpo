@@ -1,0 +1,177 @@
+&P461175 = CCP 7.2.u32 (http://ccp.yale.edu/P461175) = BM 38681
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x# AN# x# [...]
+#lem: u; u; Anu[1]DN; u; u
+
+2'. !zz [x x x]-ša?# NU ip-pu-uš ši-i?# [x x x x x x x]
+#lem: u; u; u; lā[not]MOD; ippuš[do]V; šī[she]IP; u; u; u; u; u; u; u
+
+3'. !bs [GE₆ !cm : ṣa]-la#-mu :. !bs GE₆ !cm :. ta-ra-ku :. !bs GE₆ !cm :.# [e?-ṭu?-u₂?]
+#lem: +ṣalāmu[be(come) black//be(com)ing black]V'N$; ṣalāmu[be(com)ing black]'N; +tarāku[be(come) dark//be(com)ing dark]V'N$; tarāku[be(com)ing dark]'N; +eṭû[be(come) dark//be(com)ing dark]V'N$; +eṭû[be(come) dark//be(com)ing dark]V'N$
+
+#note: The restoration at the end is uncertain. The lines may quote from Aa, but the section that deals with the MI sign has not yet been recovered (@i{MSL} 14 p. 466).
+4'. !zz [(x x)] ($___$) :. !bs e-ṭu-tu₄ !cm :. mu-uš-x# [x x x x]
+#lem: u; u; +eṭûtu[darkness]N$; u; u; u; u; u
+
+#note: @akk{mu-uš} may contain a quotation from a literary text. Compare @i{Great Hymn to Šamaš} 176, @i{mušpardû eṭûti}.
+
+5'. !zz MU# an-ni-i GIŠKIM-šu₂-nu SUM{+at} {d}UTU EN di-i-ni {d#}IŠKUR# EN# bi#-ri#
+#lem: šatti[year]N; annî[this]DP; ittašunu[sign]N; +nadnu[given]AJ$nadnat; Šamaš[1]DN; +bēlu[lord]N$bēl; dīni[trial]N; Adad[1]DN; +bēlu[lord]N$bēl; +bīru[divination]N$bīri
+
+#note: On the first half of the verse, see Koch @i{BLO} p. 148 no. 19 l. 115.
+6'. !zz [i]-na# IL₂ ŠU DUMU {lu₂}HAL NU DU-MEŠ{+zu}-ma DI-šu₂ NU SI.SA₂
+#lem: ina[in]PRP; nīš[lifting]N; qātī[hand]N; māru[son]N; bārî[diviner]N; lā[not]MOD; +izuzzum[stand]V$izzazūma; dīnšu[sentence]N; lā[not]MOD; iššir[thrive]V
+
+$ single ruling
+7'. !zz [x x (x)] ša?# DU₃ meš-re-tu-šu₂ SILIM-ME SI UMBIN GIR₃.PAD.DU ŠU.DU₇
+#lem: u; u; u; ša[that]REL; +kalû[all]AJ$kal; +mešrêtu[limbs]N$mešrêtūšu; +šalmu[intact]AJ$šalmū; +qarnu[horn]N$; ṣupur[nail]N; eṣmet[bone]N; šuklula[ungelded]AJ
+
+#note: Compare @akk{UDU BABBAR ša SI UMBIN ŠU.DU₇} and parallels in @i{CAD} Š/3 224b.
+
+8'. !zz [x x x (x)] x DINGIR-ME# šum?#-ma GIŠKIM BI x x $NI? x-ma tam-mar
+#lem: u; u; u; u; u; ilū[god]N; šumma[if]MOD; +ittu[sign]N$; šū[that]IP; u; u; u; u; tammar[see]V
+
+9'. !zz [x x x x x]-x-lu?# :. !bs U₄ !zz :. x MI? u [x x] x#
+#lem: u; u; u; u; u; u; u; X; u[and]CNJ; u; u; u
+
+10'. !zz [x x x x x x] x# :. !bs U₄ !zz :. {d}x# [x x x] x# :. a-[x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#note: Compare U₄ = Enlil, Adad, Sîn, and Ištar in Aa III/3 ll. 10-13 (@i{MSL} 14 p. 332).
+11'. !zz [x x x x x x] x# :. !bs U₄ !zz :. mu-šal-lim x# (x#) [x x x x]
+#lem: u; u; u; u; u; u; u; u; mušallim[that delivers safely]AJ; u; u; u; u; u; u
+
+12'. !zz [x x x x x x] GAL?#.GAL aš₂-šu₂ IZI i-ši-x# [x x x x] 
+#lem: u; u; u; u; u; u; rabûtu[big]AJ; aššu[because of]'PRP; išāta[fire]N; u; u; u; u; u
+
+13'. !zz [x x x x x x]-hu# MAŠ₂ a-na IL₂ ŠU?# [x x x x]
+#lem: u; u; u; u; u; u; bīru[divination]N; ana[to]PRP; nīš[lifting]N; qātī[hand]N; u; u; u; u
+
+
+@reverse
+
+1. !zz [x x x x x x x] x#-nam x# [x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+$ single ruling
+2. !zz [x x x x x x] x x la x# an#-[x x x x x x]
+#lem: u; u; u; u; u; u; u; u; lā[not]MOD; u; u; u; u; u; u; u
+
+3. !zz [x x x x] x# DU₃ AN{+e} u [KI{+ti₃} x x x x x]
+#lem: u; u; u; u; u; +kalû[all]AJ$kal; šamê[heaven]N; u[and]CNJ; Erṣeti[Underworld]GN; u; u; u; u; u
+
+$ single ruling
+4. !zz [x x x x]-an?# !bs NIG₂?#.AK#{+ku} !zz lib₃-ba-[x x] mu#-um-mu?#
+#lem: u; u; u; u; X; u; u; mummu[life-giving force?]N
+
+$ single ruling
+5. !zz [x x x x] !bs NIG₂#.AK{+ku} !cm qa-an-ṭup-pu {lu₂}šu-ul-hu-u₂
+#lem: u; u; u; u; X; +qanṭuppu[writing reed]N$qanṭuppu; +šulhû[(a scribe)]N$
+
+#note: The word @i{šulḫû} is otherwise attested only in @i{Malku} IV 10 (see @i{CAD} Š/3 240a). See also Mayer @i{OrNS} 61 (1992) p. 40.
+6. !zz [x x x] !bs MAŠ₂?# NIG₂.AK{+ku} !cm qa-an-ṭup-pu {lu₂}HAL
+#lem: u; u; u; bīru[divination]N; X; qanṭuppu[writing reed]N; bārî[diviner]N
+
+7. !zz [x x] !bs TU₆.TU₆ NIG₂.AK{+ku} !cm qa-an-ṭup-pu {lu₂}MAŠ.MAŠ
+#lem: u; u; tê[incantation(-formula)]N; X; qanṭuppu[writing reed]N; mašmaš[incantation priest]N
+
+8. !zz [x x] x# !bs ER₂ NIG₂.AK{+ku} !cm qa-an-ṭup-pu {lu₂#}GALA
+#lem: u; u; u; taqribta[lament]N; X; qanṭuppu[writing reed]N; kalê[lamentation priest]N
+
+#note: The sign before ÉR does not look like another ÉR.
+9. !zz [x x] x# !bs A.ZU NIG₂.AK{+ku} !cm qa-an-ṭup-pu {lu₂#}ZU?#.SI#.[x]
+#lem: u; u; u; asû[physician]N; X; qanṭuppu[writing reed]N; u
+
+#note: The sign before SI is not A.
+10. !zz [x x x] !bs GIR₃.NITA₂ NIG₂#.AK#{+ku#} !cm qa#-an#-ṭup#-pu# [{lu₂}(x)] $NU# x# [(x)]
+#lem: u; u; u; šakkanak[(military) governor]N; X; qanṭuppu[writing reed]N; u; u; u; u
+
+11. !zz [x x x x] x# !bs NIG₂#.[AK{+ku} !cm qa-an-ṭup-pu x x x]
+#lem: u; u; u; u; u; X; qanṭuppu[writing reed]N; u; u; u
+
+$ single ruling
+
+@translation labeled en project
+
+@label o 1'
+
+...
+
+@label o 2'
+
+[...] does not do [...]
+
+@label o 3' - o 4'
+
+[GE₆ means] “to be black,” GE₆ means “to be dark,” GE₆ [means “@i{to dim}”], “darkness,” (@i{as in}) “@i{illu}[@i{minator of darkness}”].
+
+@label o 5' - o 6'
+
+On account of this their feature is given. Šamaš, the lord of the (oracular) decision, and Adad, the lord of divination, will not stand by diviner's prayer, and they will not give him a reliable oracle.
+
+@label o 7'
+
+[@i{A sheep}], whose entire limbs are perfect, whose horns, hoofs and bones are flawless.
+
+@label o 8'
+
+[...] ... gods, and @i{if} the portent is ..., you will see ...
+
+@label o 9' - o 11'
+
+[...] ... U₄ means ... [...] U₄ means ... [...] ... [...] U₄ means “guard of ..."
+
+@label o 12'
+
+[...] @i{great}, on account of the fire ... [...]
+
+@label o 13'
+
+[...] ... divination, at the pra[yer ...].
+
+@label r 1 - r 2
+
+...
+
+@label r 3
+
+[...] all of heaven and [earth ...],
+
+@label r 4
+
+[...] the @i{nigakku}, the heart of [...] ...
+
+@label r 5
+
+[...] @i{nigakku} @i{for} ... (is) the stylus of the scribe.
+
+@label r 6
+
+[...] @i{nigakku} @i{for} @i{divination} (is) the stylus of the diviner.
+
+@label r 7
+
+[...] @i{nigakku} @i{for} incantations (is) the stylus of the exorcist.
+
+@label r 8
+
+[...] @i{nigakku} @i{for} lamentations (is) the stylus of the lamentation priest.
+
+@label r 9
+
+[...] @i{nigakku} @i{for} @i{medicine} (is) the stylus of ...
+
+@label r 10
+
+[...] @i{nigakku} @i{for} the governor (is) the stylus of [...].
+
+@label r 11
+
+[...] the @i{nigakku}, the stylus of [...].

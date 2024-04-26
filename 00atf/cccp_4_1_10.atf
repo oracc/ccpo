@@ -1,0 +1,178 @@
+&P461113 = CCP 4.1.10 (http://ccp.yale.edu/P461113) = DT 87
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [* GIG GU₂]-su# ana* 15 NIGIN-ME !cm il-ta-nam-ma ša₂-niš suh₄-hur# [x x x x x]
+#lem: marṣu[patient]N; kišāssu[neck]N; ana[towards]PRP; imitti[right]N; +lawû[surround]V$iltanammâ; +lawû[surround]V$iltanammâ; šanîš[alternatively]AV; +suhhuru[curved]V$suhhur; u; u; u; u; u
+
+#NV changed GW lamû to lawû
+
+2. !zz [x x x] !cm ma#-še-e : !bs DUL-ma !cm u₂-ka-at-tam-ma : !bs BAL-MEŠ !cm : ib*#-[ba-lak-kat₃ (x x)]
+#lem: u; u; u; mašê[forgetting]'N; +katāmu[cover]V$ukattamma; +katāmu[cover]V$ukattamma; +nabalkutu[cross over]V$ibbalakkat; +nabalkutu[cross over]V$ibbalakkat; u; u
+
+#note: The first word is perhaps an alternative interpretation of @i{Sagig} 10 1 @i{amšā} (from @i{amāšu}) as derived from @i{mašû}, "to forget."
+3. !cm [BAL : na-bal-ku]-x# : BAL : pa-la-su : !bs i-har*-ru-ur !cm : i-gar-ru#-[ur x x x x]
+#lem: +nabalkutu[cross over//crossing over]V'N$; u; +nabalkutu[cross over//crossing over]V'N$; +palāsu[look (at)//looking (at)]V'N$; +arāru[be convulsed]V$iharrur; +qarāru[writhe]V$igarrur; u; u; u; u
+
+#note: The line before BAL ends in two verticals and is neither TU nor TA. KIT is a possibility.
+
+#NV this is a little problematic, because the glossary will now store na-bal-ku-x as an attested writing for nabalkutu. I would suggest writing [na-bal]-kit#? and lemmatize accordingly. For now I have changed the lemmatization from +nabalkutu[cross over//crossing over]V'N$ to u (which is also a fine solution)
+
+4. !bs [na-pal-ku-u₂ !cm :] ra#-pa-šu₂ : MIN<(na-pal-ku-u₂)> : pe-tu-u₂ : !bs ina taq-<<x>>-ti-it# [x x x x]
+#lem: napalkû[opening wide]'N; rapāšu[widening]'N; napalkû[opening wide]'N; +petû[open//opening]V'N$; ina[in]PRP; taqtīt[end]N; u; u; u; u
+
+#NV MIN is here a repetition mark and what is repeated should be added (or else MIN becomes a logogram for petû). Changed +petû[open//opening]V'N$ to u.
+#NV perhaps : MIN<(na-pal-ku-u₂)> : pe-tu-u₂ with lemm. .... napalkû[opening wide]'N; rapāšu[widening]'N; napalkû[opening wide]'N; +petû[open//opening]V'N$; etc.
+
+
+5. !bs [ih-ta-niṭ-ṭa-aš₂]-šu₂ !cm :* LAL : ha-a-ṭu : LAL : na-ha-su : !bs i-ne₂#-[x x x x x]
+#lem: +hiāṭu[supervise]V$ihtaniṭṭaššu; +hiāṭu[supervise//supervising]V'N$hâṭu; +hiāṭu[supervise//supervising]V'N$hâṭu; +nahāsu[(re)cede//(re)ceding]V'N$; +nahāsu[(re)cede//(re)ceding]V'N$; u; u; u; u; u
+
+#note: At the end @i{ineḫḫis} (?) should perhaps be restored.
+
+#NV changed CF hâṭu to hiāṭu
+
+6. !zz [x x x x !bs SA].DUGUD !cm : ša₂-aš₂-ša₂-ṭu : !bs pi-qam{+qa} MUD{+ut} !zz x# [x x x x x]
+#lem: u; u; u; u; +šaššaṭu[(a disease of the joints)]N$; šaššaṭu[(a disease of the joints)]N; +pīqa[on (one) occasion]N$pīqam; +galātu[tremble]V$igallut; u; u; u; u; u; u
+
+#NV lemmatization and translation of pīqam seem to contradict each other. Use another sense?
+
+7. !zz [(x x) !bs ut-ta-nar :] !cm GUR* : ta*-a*-ri* : GUR : sa-ha-ri !zz [x x x x x]
+#lem: u; u; +târu[turn]V$uttanār; +târu[turn//turning]V'N$; +târu[turn//turning]V'N$târi; +sahāru[go around//going around]V'N$; +sahāru[go around//going around]V'N$sahāri; u; u; u; u; u
+
+8. !zz [x x x x x x] x#-la# : !bs {na₄}NUNUZ !cm : e-rim-ma#-[tu₂ !zz x x x x]
+#lem: u; u; u; u; u; u; u; +erimmatu[(egg-shaped) bead]N$; +erimmatu[(egg-shaped) bead]N$; u; u; u; u
+
+9. !zz [x x x x x x] !bs KAR# !cm : e-ke-mu : !bs du-us#-[su !zz x x x x x]
+#lem: u; u; u; u; u; u; +ekēmu[take away//taking away]V'N$; +ekēmu[take away//taking away]V'N$; +dūtu[virility]N$dūssu; u; u; u; u; u
+
+10. !zz [x x x !bs PA.AN-BI !cm :]  na#-pi-is-su : !bs * pur-qi₂#-[dam ŠUB-ma !zz x x x]
+#lem: u; u; u; +napīšu[breath(ing)]N$napīssu; napīssu[breath(ing)]N; +purqidam[on(to) the back]AV$; +nadû[throw]V$inaddīma; u; u; u
+
+11. !zz [x x x x x x x x] x# x# : šu#-x#-x#-su# [x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+@reverse
+
+1'. !zz [x x x x x x x x x x x x x] x [x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !zz [x x x x x x x] x x x ra# x x x [x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; X; u; u; u; u; u; u; u; u; u
+
+3'. !zz [x x x x x x x] x x : eš-ret GAL-MEŠ [x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; ešrēt[shrine]N; rabûti[great]AJ; u; u; u; u; u; u
+
+#note: The @i{explanandum} of this line is uncertain.
+4'. !zz [x x x x x x x] !bs IGI?#-MEŠ#-šu₂ it*-ta*-na*-aṣ-bar* !cm : SUG?# : x# [x x x x x]
+#lem: u; u; u; u; u; u; u; īnūšu[eye]N; +ṣabāru[twinkle]V$ittanaṣbar; +ṣabāru[twinkle//twinkling]V'N$; u; u; u; u; u; u
+
+#note: Restore accordingly the line of Sagig 11 r 51. The reading of SUG, based on @i{Ea} I 62b (a-a SUG = @i{ṣabāru ša mê}, @i{MSL} 14 199) is uncertain.
+ 
+5'. !zz [x x x !bs u-ba]-na#-tu*#-šu₂ i-lam-ma-am !cm la-ma-ma [x x x x x]
+#lem: u; u; u; +ubānu[finger]N$ubānātušu; ilammam[chew]V; lamāma[chewing]'N; u; u; u; u; u
+
+#NV changed ub̄ānātūšu to ubānātušu (no secondary length)
+
+6'. !zz [x x x x] !cm x#-x-tu₂ : !bs sa-am-ta !cm : ana* su*-mu : !zz x# x# [x x x]
+#lem: u; u; u; u; u; +sāmtu[redness]N$sāmta; ana[to]PRP; +sūmu[redness]N$; u; u; u; u; u
+
+7'. !zz [x x x x] x#-ši : !bs te-eh-si*-ma !cm : ana ka-ba-su :# [x x x x]
+#lem: u; u; u; u; u; +kabāsu[tread]V$tehsima; ana[to]PRP; +kabāsu[tread//treading]V'N$; u; u; u; u
+
+#note: The rationale behind the derivation of the obscure form @i{teḫsi-ma} from @i{kabāsu} is unknown: it was perhaps explained at the end of the line, now missing.
+
+$ single ruling
+
+8'. !zz [ṣa-a-tu₂ u šu]-ut# KA ša₂ * GIG rit-ta-šu₂ ša₂# 15 GU₇-šu₂ x# [x x x x]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; marṣu[patient]N; rittašu[hand]N; ša[of]DET; imitti[right]N; ikkalšu[hurt]V; u; u; u; u; u
+
+@colophon
+
+9'. !zz [{im}DUB {m}{d}]AG#-TIN-su-E A ša₂ {m}{d}AMAR.UTU-NUMUN-DU₃ A {m}{d}[e₄-gi₇-ba-ti-la]
+#lem: ṭuppi[tablet]N; +Nabu-balassu-iqbi[]PN$; aplu[son]N; ša[of]DET; Marduk-zer-ibni[1]PN; aplu[son]N; Egibatila[]PN$
+
+10'. !zz [ŠU-MIN {m}{d}]AMAR#.UTU-NUMUN-DU₃ A-šu₂ pa-lih [{d}UTU u {d}AMAR.UTU]
+#lem: qātī[hand]N; Marduk-zer-ibni[1]PN; aplišu[son]N; pālih[reverent one]N; Šamaš[1]DN; u[and]CNJ; Marduk[1]DN
+
+11'. !zz [GIM SUMUN-šu₂ SAR-ma IGI.TAB] IGI.KAR₂# [(x x x)]
+#lem: kīma[according to]PRP; labīrišu[original]N; šaṭirma[written]AJ; bari[checked]AJ; bari[checked]AJ; u; u; u
+
+@translation labeled en project
+
+@label o 1 - o 2
+
+"[If the sick man's] neck keeps looping (NIGIN.ME) to the right" (= @i{Sagig} 10 1); NIGIN.ME means "it keeps looping;" alternatively, it can mean "it is turned;" [... @i{amšā} (= @i{Sagig} 10 1) ... (can derive from)] "to forget" (@i{mašû}). DUL-@ma (= @i{Sagig} 10 1) means "he closes (his eyes);" BAL-MEŠ (= @i{Sagig} 10 1) means "he rolls (his eyes);" [BAL means "to roll,"] BAL also means "to see."
+
+@label o 3
+
+"It is convulsed" (@i{iḫarrur}) (= @i{Sagig} 10 2) means "it writhes" (@i{igarrur}); [...].
+
+@label o 4 - o 5
+
+["To be wide open" (@i{napalkû})] (= @i{Sagig} 10 4) means "to be wide" (@i{rapāšu}), the same can also mean "to be open" (@i{petû}). "At the end of [...]" (= @i{Sagig} 10 5) [means ...]. "It will beset him" (= @i{Sagig} 10 6); LAL means "to beset," LAL also means "to recede," [...].
+
+@label o 6
+
+[...] SA.DUGUD (= @i{Sagig} 10 10) means @i{šaššaṭu}-disease. "On (repeated) occasions he trembles" (= @i{Sagig} 10 11) means [...].
+
+@label o 7
+
+"He turns back (his neck)" (= @i{Sagig} 10 14) GUR means "to turn back," it also means "to turn towards."
+
+@label o 8
+
+[...]. "na₄.NUNUZ-stone" (= @i{Sagig} 10 17) means @i{erimmatu}-bead.
+
+@label o 9
+
+[...] KAR (= @i{Sagig} 10 18) means "to deprive;" "his virility" (= @i{Sagig} 10 18) [means ...].
+
+@label o 10
+
+PA.AN-BI (= @i{Sagig} 10 24) means "his breath." "If he falls on his back" (= @i{Sagig} 10 26) means [...].
+
+@label o 11
+
+...
+
+@reverse
+
+@label r 1' - r 2'
+
+...
+
+@label r 3'
+
+[...] great sanctuaries [...].
+
+@label r 4'
+
+[...] In "Continually rolls his eyes" (= @i{Sagig} 11 r 51), @SUG means [...].
+
+@label r 5'
+
+[...] "he chews his fingers" (@i{ilammam}) (= @i{Sagig} 11 r 52) derives from "to chew (@i{lamāmu}). [...]
+
+@label r 6'
+
+[...] "redness" (@i{sāmta}) (= @i{Sagig} 11 r 58-59) derives from "redness" (@i{sūmu}); [...].
+
+@label r 7'
+
+[...] @i{teḫsī-ma} (= @i{Sagig} 11 r 60) derives from "to tread upon something" (@i{kabāsu}), [@since ...].
+
+$ single ruling
+
+@label r 8'
+
+Lemmata and oral explanations relating to (the tablet) "If the sick man's right hand hurts him [...]" (= @i{Sagig} 11).
+
+@label r 9 - r 11
+
+Tablet of Nabû-balāssu-iqbi son of Marduk-zēru-ibni, descendant of Egibatila. Copied by Marduk-zēru-ibni, his son. He who reveres [Šamaš and Marduk (should not take it away)!]. Copied, collated and check against its original.

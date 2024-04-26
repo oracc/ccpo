@@ -1,0 +1,36 @@
+&P398793 = CCP 3.4.u13 (http://ccp.yale.edu/P398793) = K.10635
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [x x x x x x x x] !bs i#-dir-ti [x x]
+#lem: u; u; u; u; u; u; u; u; idirti[darkening]N; u; u
+
+2'. !bs [x x x x x x x x]-ma-mi ša₂ ERIN₂-MU
+#lem: u; u; u; u; u; u; u; u; ša[of]DET; +ṣābu[people]N$ṣābīya
+
+3'. !bs [x x x x x x x x] x DU₈ a-rad URU LUGAL ana IDIM-MEŠ-šu₂ ŠUR₂{+iz}
+#lem: u; u; u; u; u; u; u; u; u; paṭer[released]AJ; +warādu[go down//going down]V'N$arād; +ālu[village]N$āli; šarru[king]N; ana[according to]PRP; kabtūtušu[nobleman]N; +ezēzu[be(come) angry]V$izziz
+
+$ single ruling
+4'. !cm [x x x x x x x x]-ša#-at ana IGI-ka ši-bu-ša₂
+#lem: u; u; u; u; u; u; u; u; ana[according to]PRP; +pānu[front]N$pānīka; +šību[old (person)//witness]AJ'N$šībūša
+
+#note: Note the strange fem. possessive suffix in @akk{ši-bu-šá}.
+
+5'. !cm [x x x x x x x x] x# ru-uš-šu-kat₃ 
+#lem: u; u; u; u; u; u; u; u; u; +ruššukum[dried out]AJ$ruššukat
+
+6'. !cm [x x x x x x x x] x#-id-ma u TE{+at}
+#lem: u; u; u; u; u; u; u; u; u; u[and]CNJ; +ṭehû[near]AJ$ṭehât
+$ single ruling
+@translation labeled en project
+
+@label 1' - 3'
+[...] trouble ..., [...] ... of my army, [...] @i{will become loose}, downfal of the city, the king will become angry with his nobles.
+
+@label 4' - 6'
+
+[If ...] ... is before you, its (textual) witness (is as follows): "[...] is dried out [...] ... and it is near."

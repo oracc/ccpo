@@ -1,0 +1,120 @@
+&P461278 = CCP 4.1.18 (http://ccp.yale.edu/P461278) = BM 66873
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+$ beginning of obverse broken
+1'. !zz [...] x-bi
+#lem: u; u
+
+$ 3 lines broken
+5'. !zz [...]-tu₂
+#lem: u
+
+$ 1 line broken
+7'. !zz [...]-x#
+#lem: u
+
+8'. !zz [...]-u₂#
+#lem: u
+
+9'. !zz [...]-u₂#
+#lem: u
+
+$ rest of obverse broken
+
+@reverse
+
+$ beginning of reverse broken
+1'. !zz [... !bs MUD₂?] ṣal#-mu-tu₄
+#lem: u; dāmi[blood]N; +ṣalmu[black]AJ$ṣalmūtu
+
+#note: Reading courtesy of I. Finkel.
+2'. !zz [... !bs MUD₂].GE₆# !cm : a-da-ma-tu₄
+#lem: u; +adamatu[dark blood]N$; adamatu[dark blood]N
+
+3'. !zz [...] x#-šu₂ !cm a-na UGU ra-bi-ti-šu₂
+#lem: u; u; ana[on]PRP; muhhi[top]N; +rabītu[capital city]N$rabītīšu
+
+4'. !zz [...] !cm bi?#-i-šu : !bs GAL !cm : ra-bu-u₂
+#lem: u; X; +rabû[big]AJ$; +rabû[big]AJ$
+
+5'. !zz [... !bs GID₂.GID₂ !cm : im-ta-na]-ag#-ga-ag : GID₂.GID₂ : u₂-te-du-lu
+#lem: u; +magāgu[spread//have repeated cramps]V'V$imtanaggag; +magāgu[spread//have repeated cramps]V'V$imtanaggag; +uteddulu[shut]AJ$uteddulu; +uteddulu[shut]AJ$uteddulu
+
+#note: Reading courtesy of I. Finkel. On @i{mitangugu} in diagnostic texts, see CAD M/1 28b.
+6'. !zz [...] : !bs ba-mat !cm : mi-šil : !bs DIŠ-at₂ !cm : eš?-ta-at
+#lem: u; +bāmtu[half]N$bāmat; mišil[half]NU; +ištēn[one]NU$ištât; +ištēn[one]NU$eštât
+
+7'. !zz [...] !cm ša₂?# lib₃-bu-u₂ ki-is-sat i-ša₂-tu₂
+#lem: u; ša[of]DET; libbū[meaning]PRP; kissatu[(an illness)]N; išātu[fire]N
+
+#note: On @i{kissat išāti} see CAD K 429a.
+8'. !zz [...] !cm {d}EREŠ.KI.GAL kur IGI-šu₂ KUR₂#{+ru}
+#lem: u; Ereškigal[1]DN; +kūru[depression]N$kūr; +īnu[eye]N$īn̄šu; uttakkaru[change]V
+
+9'. !zz [... !bs it-ta-na-as-la-ʾ !cm : i]-nak-kud : !bs ri-mu-tu₂ !cm ša₂ i-ram?#-mu-u₂
+#lem: u; +salāʾu[to be ill]V$ittanaslaʾ; inakkud[have palpitations]V; rimûtu[(kind of paralysis)]N; ša[of]DET; +ramû[slacken]V$irammû
+
+#note: @i{it-ta-na-as-la-ʾ} is restored with the @i{Sagig} commentary @i{SpTU} 1 41 l. 10 (@i{CCP} 4.1.40.A). At the end, Lambert's transliteration reads @i{i-šem?-mu-ú}. The reading @akk{ram?#} is courtesy of E. Frahm.
+10'. !zz [...]-tu₂ !cm aš₂-šu₂ ki-iš-pi : !bs DAB?#{+tu₄} !cm ša₂ ka-mu-u₂
+#lem: u; aššu[because of]'PRP; +kišpu[sorcery]N$kišpi; +ṣabtu[captured]AJ$; ša[of]DET; kamû[defeated]AJ
+
+11'. !zz [...]-sis#-su : !bs zu-u₂-šu₂ !cm : lib₃-bu-u₂ šit-ta-šu₂
+#lem: u; zûšu[excrement]N; libbū[meaning]PRP; šittāšu[excrement]N
+
+#note: The first sign could also be [...] ⸢x⸣ : [ILF]. Compare @i{šittu} = @i{zû} in the @i{Sagig} commentary @i{GCCI} 2 406 16 (CCP 4.1.13.B).
+12'. !zz [...]-ta?#-šu-ma : !bs GIM U-MEŠ-šu₂ !cm : ri-kis? u₂-ba-na-tu
+#lem: u; kīma[according to]PRP; ubānāti[finger]N; rikis[cosmic bond]N; ubānātu[finger]N
+
+13'. !zz [... !cm {d}]EREŠ#.KI.GAL : !bs DUL.DUL-ma !cm : it-ta-nak#-tam#-ma#
+#lem: u; Ereškigal[1]DN; +katāmu[cover]V$ittanaktam-ma; +katāmu[cover]V$ittanaktam-ma
+
+14'. !zz [...] x# !cm ša₂ pi-i-šu₂ ($___$)
+#lem: u; u; ša[of]DET; pîšu[command]N
+
+#note: It is uncertain to which line of the base text the present entry refers.
+$ single ruling
+15'. !zz [ṣa-a-tu₂ u šu-ut] KA# ša₂ * GIG SU-šu₂ KUM₂{+im} SED# [u DAB-su KUR₂.KUR₂{+ir}]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; marṣu[patient]N; zumuršu[body]N; immim[be(come) feverish]V; ikaṣṣa[be(come) cold]V; u[and]CNJ; +ṣibtu[seizure]N$̌ṣibissu; ittanakkir[change]V
+
+$(end of reverse)
+
+@translation parallel en project
+
+@obverse
+
+$ beginning of obverse broken
+1'. ...
+$ 4 lines broken
+5'. ...
+$ 1 line broken
+7'. ...
+8'. ...
+9'. ...
+$ rest of obverse broken
+
+@reverse
+
+$ beginning of reverse broken
+1'. [...] black [@i{blood}].
+2'. [... MÚD.G]E₆ (= @i{Sagig} unknown) means "red blood."
+3'. [...] ... concerning his @i{greatness}.
+4'. [(since) (...) GAL means] ... (and) GAL means "big."
+5'. [... GÍD.GÍD (= @i{Sagig} unknown) "it is continually s]tiff," GÍD.GÍD also means "it is shut."
+6'. [...] @i{bāmat} (= @i{Sagig} unknown) means "half." DIŠ-@i{át} (= @i{Sagig} unknown) means "one."
+7'. [...] ... as in @i{kissatu}-disease provoked by fever.
+8'. [...] Ereškigal shall alter his @i{weak-sightedness}.
+9'. [... "@i{He is ill}" (= @i{Sagig} unknown) means "he] is worried." "Paralysis" (@i{rimûtu}) (= @i{Sagig} unknown) (refers to the person) who becomes paralyzed.
+10'. [...] ... on account of sorcery. "@i{Prisoner}" (@i{̌ṣabtu}) (= @i{Sagig} unknown) (is said) of a captive.
+11'. [...] ... "his excrement" (= @i{Sagig} unknown) is as in his faeces.
+12'. [...] ... GIM U-MEŠ-@i{šú} (= @i{Sagig} unknown) means "@i{band} of the fingers."
+13'. [... means] Ereškigal. DUL.DUL-@i{ma} (= @i{Sagig} 18 38') means "it is constantly covered."
+14'. [...] ... of his mouth.
+$ single ruling
+15'. [Lemmata and oral] explanations relating to "If the body (temperature) of the patient rises and falls, [and his seizure changes"] (= @i{Sagig} 18 incipit).
+$ end of reverse

@@ -1,0 +1,212 @@
+﻿&P461274 = CCP 6.7.A
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use lexical
+#atf: use mylines
+#atf: use unicode
+@obverse
+$ n lines broken
+1'. !bs [{d}AMAR].RA#.HE₂.E₃#.A# :# !cm DINGIR# [: be-let? : ...] x# u₂# :# [...]
+#lem: Amaraheʾea[1]DN; ilu[god]N; bēlet[mistress]N; u; u; u; u
+
+#tr.en: "Amara-he'a" (WGL 15): DINGIR [means "mistress"(?) ...] ... [...].
+
+2'. !bs [{d}AMAR].RA#.A.ZU : !cm bu-ra-ti : ša₂-as#-si# : kat₃?# x [... DUMU?].MUNUS#? {d#}30 : AMAR : bu-ur#-[tu₂]
+#lem: Amarazu[1]DN; +burtu[heifer calf]N$burātu; u; u; u; u; mārat[daughter]N; Sin[1]DN; atam[hatchling]N; +burtu[heifer calf]N$burtu
+
+#tr.en: "Amara-azu" (WGL 16); "heifer calves"; … ; total?: two [daughters] of Sîn; AMAR means "heifer calf." 
+
+#note: The reconstruction of the signs before Sîn is very tentative. According to AN : @i{Anum} the goddesses Amara-he'a and Amara-azu are daugthers of the moon god (III, 41-43; see Litke 1996: 122). The same information can be gleaned from @i{CCP} 6.7.B, lines 15-16. 
+
+3'. !bs [E₃ !cm :] a-ṣu-u₂ : a-ṣu-u₂ : ša-su-u₂ : !qt ki-ma [bu-ur]-tu₄# iš-ta-na-as-su lu-ṣu# [...]
+#lem: +aṣû[go out//going out]V'N$; +aṣû[go out//going out]V'N$; +aṣû[go out//going out]V'N$; +šasû[shout//shouting]V'N$shouting; kīma[like]PRP; +burtu[heifer calf]N$burti; +šasû[shout]V$ištanassu; +aṣû[go out]V$lūṣû; u
+
+#tr.en: E₃ means "to go out", "to go out" means "to call out" (as in) "when a cow (s)he continues to shout: 'I want to go out'; 
+
+#note: It is tempting to expect @akk{A.ZU} for "physician" in the break instead. But the Akkadian should read @i{a-su-u₂} then. The quotation @i{kī}
+
+4'. !bs [{d}INANA : !cm be]-let# zi-i-mu : DINGIR : be-let : {mu-uš#}MUŠ₃# [:] zi#-i-mu : !qu {d}in-nin-na ša₂ ki-ma?# [...]
+#lem: Ištar[1]DN; bēlet[lady]N; +zīmu[face]N$zīmi; ilu[god]N; bēlet[mistress]N; X; zīmu[face]N; +Innina[1]DN$Innina; ša[who]REL; kīma[like]PRP; u
+
+#tr.en: [Inana (WGL 17) means "lady of the appearance" because DINGIR means "lady" and INANA read /muš/ means "appearance" as in "Inana who like […] 
+
+#note: There are ample attestations for @akk{MUŠ₃} = @i{zīmu}.
+
+5'. !zz [...]-di-šu₂# : !cm ša₂-ru-ru i-ša₂-ad-di-hu : !qt ki-ma# {d#}UTU ta-li-mi-šu₂ ni-pi-ih nu-ri-šu₂ ma-a#-[ta ...]
+#lem: u; +šarūru[brilliance]N$šarūrū; +šadāhu[walk]V$išaddihū; kīma[like]PRP; Šamaš[1]DN; X; X; X; māta[land]N; u
+
+#tr.en: [...] ... him" (Unid.) means "radiance proceeds" (regarding) "Like his brother Šamaš with the disk of his light [makes radiant(?)] the country" (Unid.) 
+
+#note: The beginning of the line probably contains the end of the comment of the preceding line, but too little is preserved in order to reconstruct sufficiently. The word @i{šarūru} is used in astronomical texts for celestial bodies (@i{CAD} Š/I, 34a). The subsequent quotation that remains unidentified explains the brilliance or luminosity of the Venus star. Probably in the break one expects a verb such as @i{ušanmer}. 
+
+6'. !cm [ša₂-niš? be]-let ma-a-ti : DINGIR : be-el-tu₄# : {ni-in}MUŠ₃ : ma-a-ti 
+#lem: šanîš[alternatively]AV; bēlet[mistress]N; māti[land]N; ilu[god]N; bēltu[lady]N; X; māti[land]N
+
+#tr.en: Alternatively she is the "Mistress of the Land" because DINGIR means "mistress" and INANA read /muš/ means "land". 
+
+#note: The reconstruction of @i{šanîš}, "alternatively," at the beginning of the line seems likely, since the explanations for Ištar are continuing on. Lambert Folio 9828 reads "@akk{AN} : @i{be-el} : @akk{AN} : @i{ni-in}," but this is not supported by the sign remains. For @akk{MUŠ₃} = @i{mātu} see @i{Nabnītu} IV, 62 and @i{S@sup{b}} I, 17 (with pronunciation @i{ni-in}). 
+ 
+7'. !bs [{d}DUMU].ZI# : !cm ma-ru na-as-hu : re-e₂#-um na-as-hu : MU : re-e₂-um : ZI# [: na-as-hu]
+#lem: Dumuzi[1]DN; māru[son]N; +nashu[torn out]AJ$nashu; +rēʾû[shepherd]N$; nashu[torn out]AJ; u; +rēʾû[shepherd]N$; u; nashu[torn out]AJ
+
+
+#tr.en: "Dumuzi" (WGL 18) means "torn out son" or "torn out shepherd" because MU means "shepherd" and ZI means "torn out." 
+
+#note: Wiggermann (2010: 329 ) notes that this etymology of Dumuzi combines two aspects of this god, namely his function as divine shepherd and his connection to the underworld with him dying, which is well-known from literary sources. 
+
+8'. !cm [MUL?-šu₂?] {mul#}SIPA.ZI.AN.NA : re-e₂#-um# na-as-hu {d}a-nu
+#lem: kakkabšu[star]N; Šitaddaru[Orion]CN; +rēʾû[shepherd]N$; nashu[torn out]AJ; Anu[1]DN
+
+#tr.en: [His star (?) is] SIPA.ZI.AN.NA, which means "Torn out Shepherd of Anu."
+
+#note: The reconstruction of the gap before the first broken sign, which is definitely @akk{MUL} and not @akk{MUL₂} (cp. l. r,8-9) is tentative. According to @i{Astrolabe} B the star conventionally translated "True Shepherd of Heaven" (i.e., Orion) is the star of the fourth month Duʾūzu and the "month when the shepherd Dumuzi was captured" (@i{KAV} 218 i,50: ITI SIPA {d}DUMU.ZI @i{ik-ka-mu-u₂}); see Horowitz 2014: 64-68. In astronomical texts the Akkadian rendering is either @i{šitadallu} or @i{šitaddaru} (Horowitz 2014: 65). The commentary, in contrast, transposes the elements of the logographic spelling and translates them accordingly: @i{rēʾum nashu Ani}.  The uranographical text MLC 1866 deals with this star as well: "SIPA.ZI.AN.NA, Papsukkal, the vizier of Anu and Antu. He is a human figure, clothed, bearded, set with a @i{kurkurru}, grasping a lock and key. 'The Twins' which in front of SIPA.ZI.AN.NA stand, Lulal and Latarak of the gates. Two human figures, clothed. The front human figure is bearded. The back human figure has the face of Latarak; they carry a large jug in their right hands. The star which below SIPA.ZI.AN.NA stands is 'The Rooster'" (ii,10-17) (see Beaulieu et al. 2018: 40). 
+
+9'. !bs [{d}NIN].ŠUBUR# : !cm NIN : be-lu₄ : ŠUBUR# : pa-aš₂-šu-ru : {d}PAP.SUKKAL :? pa-aš₂-šu-ru {d}a#-[nu : ...]
+#lem: Ili-abrat[1]DN; ahāti[sister]N; bēlu[lord]N; X; X; Papsukkal[1]DN; X; Anu[1]DN; u
+
+#tr.en: "Ninšubur" (WGL 19) (is composed) of NIN meaning "lord" and ŠUBUR meaning "table" and Papsukkal (i.e., another name of Ninšubur) means "table of Anu."
+
+#note: For this line see @i{CAD} P, 260b. According to line 9' Anu should be written @sup{d}a-nu instead of @sup{d}a-nim. The equation @akk{ŠUBUR} = @i{paššūru} might be influenced by @akk{BUR} = @i{paššūru} in syllabaries. While manuscripts of @i{WGL} do not contain a separate entry for Papsukkal, the list commentary @i{CCP} 6.7.B, however, might mention Papsukkal in a separate line and both entries are equated with Ilabrat. 
+
+10'. !zz [...] er ti-ma/ba-a : !cm ša₂-niš be-el er-ṣe-tu₄ : NIN : be-li : ŠUBUR# [: er-ṣe-tu₄]
+#lem: u; X; X; šanîš[alternatively]AV; bēl[lord]N; +erṣetu[earth]N$erṣeti; u; +bēlu[lord]N$bēli; u; erṣetu[earth]N
+
+#tr.en: ...; alternatively "lord of the underworld" because NIN means "lord" and ŠUBUR [means "underworld"].
+
+#note: @i{CCP} 6.7.B identifies both Ninazu (l. 27) and Nirah (l. ii,25) as "lords of the underworld." The beginning of the line is rather elusive. It might have been a quotation that already started at the end of the preceding line. 
+
+11'. !bs [LA].BA#.AR !cm : suk#-kal-lu₄ : LA.BAR :# ar-du : !qt ana la si-ma-ti-šu₂ ta-aš₂-ku#-[ni-iš i-na pa-ra-aṣ {d}e-nu-ti]
+#lem: u; sukkallu[minister]N; u; +ardu[servant]N$ardu; ana[according to]PRP; lā[not]MOD; +simtu[appropriate symbol]N$simātišu; +šakānu[put]V$taškuniš; ina[in]PRP; paraṣ[divine powers]N; +anūtu[position of An]N$enūti
+
+#tr.en: [Thirdly(?),] LA.BA.AR means "minister"; LA.BAR (also) means "servant"; "You have improperly appointed [him to the rank of Anuship/Enship]" (Ee IV, 82) 
+
+#note: The first half of this line (quoted @i{CAD} S, 355b) can be compared to the medical commentary @i{CCP} 4.2.F, 25: @i{la-ab-rat ša₂} E-@i{u₂} : LA.BAR @i{at-ta} : LA.BAR : @i{suk#-[kal-lu]} with the mention of Papsukkal in line 27. The quotation in the second half of the line is from @i{Enūma elîš} IV, 82 (Lambert 2013: 90. 94). This line is quoted here because of the word @i{enūtu}. This association happened in light of LAGAR as equivalent of @i{sukkallu} instead: See @i{Lu} 84 (@i{la-bar} = @i{sukkallu} @akk{EME.SAL}) and 85 (@sup{la-ga-ar}@akk{lagar} = @i{sukkallu} @akk{MIN}). Lexical texts equate the logogram group @akk{SAL.LAGAR} conventionally with @i{ēnu} (@i{ša} DN). For the interchangability of /g/ and /b/ compare @i{Lu} 186: [@i{i}]-@i{bi₂} : igi : [@i{pa-nu}]. For the Emesal form @akk{la-bar} see also Wiggermann 1988: 231, note 31. 
+
+12'. !zz [... !bs {d}]na#-na-a !cm : NA : na-bu-u₂ : A : ši-i# šap#-lu-u₂ : ša₂-niš qa-ba-a-ti na?# [...]
+#lem: u; Nanaya[1]DN; u; +nabû[name//naming]V'N$; u; šī[she]IP; šaplû[lower]AJ; šanîš[alternatively]AV; X; X; u
+
+#tr.en: "Nanaya" (WGL 20) (is composed of) NA meaning "to speak" and A being the feminine possessive pronoun used as suffix. Alternatively ...
+
+#note: Beaulieu (2003: 182) notes that the hermeneutic purpuse of this comment is to provide an etiology underlining the close ties between Nanaya and Nabû. Black (1991: 80) discusses the grammatical term @i{šaplû} in light of this passage. The Neo-Babylonian Grammatical Texts (@i{NBGT}) use logographic spellings such as @akk{AN.TA}, @akk{KI.TA}, and @akk{MURU₄.TA}, in order to mark the position of a grammatical element (see Black 1991: 79-98). In discussing a famous line of @i{Examenstext} A, which incorporates the first two terms, George (2009: 106-107) emphasizes their translation: "at the front" and "at the rear" pertaining to the position of Sumerian and Akkadian versions in bilingual compositions presented in tabular layout. 
+
+13'. !cm NA : an-na : NA : ul-la :# [NA :] na#-bu-u₂ : it-ti bi-ri : be-let bi-[ri ...]
+#lem: u; anna[yes]AV; u; ulla[no!]AV; u; +nabû[name//naming]V'N$; +ittu[sign]N$itti; bīri[divination]N; bēlet[mistress]N; bīri[divination]N; u
+
+#tr.en: NA means "yes"; NA also means "no". NA also means "to call". "The sign of divination" means "Mistress of divination" [...], 
+
+#note: See also CCP 4.2.A.a, lines 30-31: @i{ul-la} : @i{an-na} / @i{an-na} : @i{qi₂-bi-ti ša₂-niš ul-la} : @i{ul-la} @akk{i₃}@sup{i-ʾu-u}, "'No' (is the opposite of) 'yes', 'yes' means a 'command'; alternatively, ulla, when said of the sign I, reas as /iʾu/, means 'oil'." See also @i{CAD} U/W, 75a. 
+
+14'. !bs E₂.UR₅.ŠA₃.BA !cm : E₂ ba-ru-[u₂] te?#-re-e-ti : E₂ : bi-ti : UR₅ : [ter-tu₂] : ŠAB# [: ba-ru-u₂]
+#lem: +Euršaba[1]TN$Euršaba; bīt[house]N; +barû[see//seeing]V'N$; têrēti[omen]N; u; bītī[house]N; u; têrtu[omen]N; u; bārû[one who scrutinises]N
+
+#tr.en: as in (the temple name) E'uršaba, which means the "House (for) observing the oracles", since E₂ means "house", UR₅ means ["oracle"] and ŠAB means ["to observe"]. 
+
+#note: For the reconstruction at the line end see CAD T, 358a. According to George (1992: 157) there are three temples or shrines called @akk{E₂.UR₅.ŠA₃.BA}. The temple's name was translated by George as "House, Oracle(?) of the Heart" (Nos. 1195-97), but our commentary helps to modify this interpretation: "House, the one who inspects the extas" Since this line still comments on Nanāya, it can be interpreted as either the goddess' seat in the Esagil at Babylon or the temple of Ištar in her aspect as Nanāya at Borsippa. The sign @akk{UR₅} (or @akk{HAR} or @akk{MUR}) with the equivalent @i{têrtu} is also attested in @i{Izi} and @i{Aa}. It must remain unanswered whether this line starts with a phrase such as "her temple (is)." 
+
+@reverse
+
+1. !bs [{d}BI₂.ZIL.LA₂ !cm : qa]-i-da#-at nu#-u₂-ru ru-be₂-e : LA₂ : qa-a-du [: BI₂ : nu-u₂-ru : ZIL : ru-bu-u₂] 
+#lem: +Bizila[1]DN$Bizila; +qâdu[ignite]V$qāʾidat; nūru[light]N; rubê[prince]N; u; +qâdu[ignite//igniting]V'N$; u; nūru[light]N; u; rubû[prince]N
+
+#tr.en: Bizila (WGL 21) means "the one, who sets afire the princely light" because LA₂ means "to set afire", [BI₂ means "light," and ZIL means "prince"]. 
+
+#note: Cited according to @i{CAD} R, 398b and @i{CAD} Q, 52a. The sequence of comments follows the Akkadian version @i{qā'idat nūri rubê} and not the Sumerian elements of the divine name. Westenholz (1997: 58–59) interprets the name – written {d}bi-ze₂-la in Ur III documents and associated with Nanaya already there – as a frozen verbal form: "she who is pleasing." 
+
+2. !cm [ša₂-niš? MUL].SA₅?# ma-ak-ru-u₂ : {d}ṣal-bat-a-nu : SI! : ma-ša₂-lu :# [...]
+#lem: šanîš[alternatively]AV; u; Makru[Red]CN; Ṣalbatanu[Mars]CN; u; mašālu[equalling]'N; u
+
+#tr.en: [Alternatively(?), MUL].SA₅ means "the red one", also Ṣalbatānu, since SI(!) means "to be(come) equal" [...].
+
+#note: The reconstruction of MUL.SA₅ is based on Hg. B VI 28: @akk{MUL.SA₅} = @i{ma-ak-ru-u₂} = {d}ṣal-[bat-a-nu] (cited according to @i{CAD} M/I, 138b). Lambert (1996: No. 123) notes that Ṣalbatānu might be a variant spelling to the adjective @i{ṣarbû}, but one wonders whether this should not rather be @i{ṣarpû}, "fired," which would fit better in the overall context. Quite a few signs in this line are written over erasure. Whereas Akk. @i{bašālu}, "to roast," fits better into the context, a reading of the verb @i{mašalu} seems to fit better what is present on the tablet. In CCP 1.4, line 13, this verb is equated to the logogram @akk{SI}, which itself would provide etymographical explanation to the first part of @akk{SA₅} or @akk{SI.A}. The logogram as basis for @i{mašālu}, however, resembles @akk{MA}.  
+
+
+3. !zz [...] x# !cm lu#-u₂ : {zi-il}ZIL : qa-la-pu : LA₂ : ša₂-ha-ṭu ša₂ zu-um-ri : x [...]
+#lem: u; u; u; u; +qalāpu[peel//peeling]V'N$; +qalāpu[peel//peeling]V'N$; +šahāṭu[jump//jumping]V'N$; ša[of]DET; +zumru[body]N$zumri; u; u
+
+#tr.en: [...] ...; the sign NUN read /zil/ means "to peel"; LA₂ means "to strip off said of the body"; [...].
+
+#note: For @akk{ZIL} = @i{rubbû} see the creation myth @i{KAR} 4, he₂-ĝal₂ kalam-ma zil-zil-e-de₃ = @i{hegalla ina māti ana rubbê} (l. r,7), "That prosperity may be multiplied in the land" (Lambert 2013: 356-57). The parallel l. r,14 has in its Akkadian version @i{ana duššê} instead. For this line see also Bartelmus 2016: 528. 
+
+4. !bs [{d}KA.NI.SUR].RA?# !cm : {d}be-let DINGIR-MEŠ : ba-na-at bu-un-na-an-ni-i UN-MEŠ : GAN :# [...]
+#lem: Kanisura[1]DN; bēlet[lady]N; ilī[god]N; +bānû[creator]N$bānât; +bunnannu[physiognomy]N$bunnannê; nišī[people]; u; u
+
+#tr.en: Kanisurra is "the mistress of the gods"; "the one who produces the likeness of the people" …
+
+#note: The etymology of the name of the goddess Kanisurra, who appears in the circle of Nanāya, is connected to the Sumerian term for the Netherworld, @akk{GA.AN.ZE₂.ER}; see Beaulieu 2003: 316-317. OB @i{Diri} Nippur, 138–140 equates the compound logogram @akk{IGI.KUR.ZA} read @i{ga-an-ze₂-er} with @i{dannina}, "Netherworld," Kanisurra, and @i{bāb erṣetim}, the "gate to the Netherworld." The epithet @i{bēlet ilāni}, "lady of the gods," for this goddess appears surprising. According to Maqlû V, 60 she is @i{bēlet kaššapāti}, "lady of the witches." Similar to the Akkadian "translation" @i{qā'idat nūri rubê} for her sister Bizilla, the commentary first translates the divine name into Akkadian and then expounds on the various elements. @akk{GAN} before the break is certainly a phonetic variant to the initial signs in the goddess' name and also hints towards afore-mentioned @akk{GA.AN.ZE₂.ER}.
+
+
+5. !zz [... : !cm RA :] ba-nu-u₂ : SUR : ba-ša₂-mu : bi-šim-tu₄ : ba-ša₂-mu : ba-nu-u₂ : !qu bi#-šim?#-[tu₄ ...]
+#lem: u; zaqātu[stinging]'N; bānû[creator]N; u; bašāmu[forming]'N; bišimtu[formation]N; bašāmu[forming]'N; banû[creating]'N; bišimtu[formation]N; u
+
+#tr.en: [...] means "to build"; SUR means "to create"; "Shape" comes from "to create", meaning "to build", as in "the shape …[…]"
+
+#note: @i{banû} should explain @akk{RA}, which might be a phonetic variant to @akk{RU₂} for @i{banû} B, "to be pleasant," and also occurs in CCP 2.2.1.A.a, line 24 (@i{CAD} B, 91a).  For @akk{SUR} als equivalent to @i{bašāmu} see Antagal E, i26' [(...)] sur = (ba-ša₂-mu) ša₂ bu-uš-šu-mi. 
+
+6. !zz [...] x na# : !cm {ka-a}KA : pa-ni : NI : ni-ši : šal-ši-iš# : KA : pa-ni : NI : ba?# [...]
+#lem: u; u; X; X; pāni[front]N; X; nišī[people]N; X; pî[mouth]N; pāni[front]N; X; X; u
+
+#tr.en: [...] ...; KA read /ka/ means "face," NI means "people". Thirdly, KA means "face", NI means …[…]. 
+
+7. !zz [...] x : !cm rap-pu : !bs {d}LU₂#.LAL₃ !cm : {d}30 !zz : x x
+#lem: u; u; rappu[hoop]N; Lulal[1]DN; Sin[1]DN; u; u
+
+#tr.en: [...] ... means "hoop". Lulal (WGL 23) is Sîn.
+
+#note: In @i{CCP} 6.7.B Lulal is equated with Latarak (l. 23).  There is a colon followed by erased sign traces after Sîn. These do not appear to be the beginning of the next entry on Latarak, but rather an attempt to add another comment. 
+
+8. !bs [{d}la]-ta#-ra-ak : !cm la ta-ri#-qu : rap-pu : rab-bu : MUL₂.UR.A : UR : x [...]
+#lem: La-tarak[1]DN; lā[not]MOD; X; rappu[hoop]N; rabbu[soft]AJ; X; amēl[man]N; u; u
+
+#tr.en: Lā-tarāk (WGL 24) means "the one, who does not beat"; 
+
+#note: George 2003 (888 @i{ad} ll. 130-31) offers the translation "to relent" for @i{tarāqu} based on this commentary. This was viewed critically by Streck (2007: 420), who does not exclude a possible archaizing reading @i{ta-ri-kum}. This meaning would certainly fit into the semantic field of @i{rappu}, "neck stock."  
+
+9. !zz [...] :# !cm ka-lu#-u₂ : e-tu-ra-am-ma : MUL₂.UR.A : e-tu-ra-am-ma : la-tu?# [...]
+#lem: u; kalû[held (back)]AJ; X; X; X; X; u
+
+#tr.en: [...] means "to detain". The cattle pen is Leo. The cattle pen 
+
+#note: The term for horizon in cuneiform astronomy is the "cattle pen", @akk{E₂.TUR₃} in Sumerian and @i{tarbāṣu} in Akkadian. The commentary preserves a pseudo-loanword, which is also attested elsewhere. See, for instance, @i{EAE} 70, ###: @akk{MUL} @i{e-tu-ra-am-mi} @akk{SUKKAL} @sup{d}@i{a-nu-ni-tu₄ ana} @akk{MUL.ŠU.PA TE}, "If the Cattle Pen, the messenger of the goddess Annunitu, comes close to Boötes" (Reiner 2006: 319). 
+
+10. !zz [...] x !cm la-a : rap-pu : mar-ka-su : rap-pu : ni-i-ri : ud iš ri : ša₂-a-ri : x [...]
+#lem: u; u; lā[not]MOD; rappu[hoop]N; X; rappu[hoop]N; Niru[Yoke]CN; X; X; X; šāri[wind]N; u; u
+
+#tr.en: … "hoop" means "bond"; "hoop" means (also) "yoke"
+
+11. !bs [{d}]la#-ta-rak : !cm la : la-a : ta-ra-ku : na-ṭu₃-u₂ : !bs {d}ŠARA₂ : !cm EN šub-tu₂ : DINGIR :# [be-lu₄? : BARA₇(ŠARA₂) : šub-tu₂ (...)]
+#lem: La-tarak[1]DN; lā[not]MOD; lā[not]MOD; tarāku[be(com)ing dark]'N; +naṭû[be suitable//being suitable]V'N$; X; bēlu[lord]N; +šubtu[seat]N$; bēlu[lord]N; bēlu[lord]N; +šubtu[seat]N$; +šubtu[seat]N$; u
+
+#tr.en: Lātarāk (WGL 24) consists of LA meaning "not" and "to switch a whip" (tarāku) meaning "to hit." Šara (WGL 25) is the "lord of the seat," (because) DINGIR means ["lord"(?) and ŠARA₂ (read as @i{bara}₇) means "seat" …]
+
+#note: The first half of the line is written over erasure. The reading at the end of the line follows a suggestion by T. Mitto.
+
+12. !bs [{d}]MUŠ₃@g : !cm {mu-uš}MUŠ₃ : zi-i-mu : ZIB : ba-nu-u₂ : ša₂ zi-mu-šu₂ bu-un-nu-u₂ : x# [...]
+#lem: +Tišpak[]DN$Tišpak; u; zīmu[face]N; u; +banû[beautiful]AJ$banû; ša[of]DET; zīmūšu[appearance]N; bunnû[beautified]AJ; u; u
+
+#tr.en: Tišpak (WGL 26) consists of MUŠ₃ meaning "appearance" and gunification meaning "beautiful" as in "the one who makes beautiful his appearance". ... [...].
+
+#note: The commentator uses notariqon in order to explain the grapheme for the god Tišpak, a gunified version of the sign @akk{INANA} or @akk{MUŠ₃}. Particularly interesting is the fact that the gunification is separated and equated by Akk. @i{banû}, "beautiful." Among the Sumerian equivalents of the adjective @i{banû} is the sign @akk{DAR} with the reading @akk{gun₃}; see @i{Ea} II, 289: @i{gu-nu} : DAR : @i{banû} (see also @i{CAD} B, 81a). Even more noteworthy is the verb @i{banû} B, "to grow, to be pleasant, etc.," which offers the Sumerograms @akk{|U+GUN₃|} with the reading @akk{ugunu} and again @akk{DAR} or @akk{SI₄}, for which @i{Aa} III/4, 230 provides a reading @i{gu-nu} as well. Furthermore, @i{S}@sup{b} I, 361 provides the Sumerogram @akk{SIG₇}, read @akk{sa₇} (@i{CAD} B, 90b). All these logograms have in common that they are gunified versions of base signs (@akk{DAR} = SI@g with the attested sign name @i{si-i gu-nu-u₂} [Gong 2000: 108]; @akk{SIG₇} = IGI@g with the attested sign name @i{i-gi gu-nu-u₂} [Gong 2000: 138]). The commentator therefore separated the gunifying element -- in the transliteration indicated as @akk{ZIB} – and explained it based on its homophony with other logograms representing @i{banû}. 
+
+13. !zz [... :] !cm na#-šu#-u₂ : KI : ša₂-a : ša₂ bal#-tu₄ na-šu-u₂ : TEŠ₂ : bal-tu₂# [: ...]
+#lem: u; našû[imbued]AJ; qaqqar[district]N; X; ša[of]DET; bāltu[dignity]N; našû[imbued]AJ; ibêš[be ashamed]V; X; u
+
+#tr.en: [...] means to "carry"; KI means "who"; 
+
+14. !zz [...] x u₂ : !qt {d}MUŠ₃@g na-ši {giš}BAN-su tak x# x# [...]
+#lem: u; u; u; +Tišpak[1]DN$Tišpak; +našû[carry]V$nāši; +sūtu[seah]N$sūssu; u; u; u; u
+
+#tr.en: [...] ...; Tišpak is "the one who carries his sūtu-measure ...". [...]
+
+#note: Tišpak being @i{nāši sūssu} is also attested in Rm 294 o,9', a manuscript belonging to zi-pa₃ incantations; see Borger 1969: 2 (ms. J). 
+ 
+15. !zz [... !bs {d}NIN.A].ZU !cm :# NIN# : be-li : A.ZU :# [a-su-u₂ ...]
+#lem: u; Ninazu[1]DN; u; +bēlu[lord]N$bēli; u; +asû[physician]N$; u
+
+#tr.en: [... Nina]zu (WGL 27) consists of NIN meaning "lord" and A.ZU meaning ["physician" ...]
+
+16. !zz [...] x x x [...]
+#lem: u; u; u; u; u
+
+$ n lines broken

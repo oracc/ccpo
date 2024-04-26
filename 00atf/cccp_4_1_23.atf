@@ -1,0 +1,90 @@
+&P270807 = CCP 4.1.23 (http://ccp.yale.edu/P270807) = RMC 193
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1. !zz * GIG ZE₂ ip-ru : !bs UH₂ ina ŠUB-šu₂ i-ṣar-riš*#
+#lem: marṣu[patient]N; martu[gall bladder]N; ipru[vomiting]'N; +ruʾtu[spittle]N$ruʾta; ina[from]PRP; +nadû[throw//throwing]V'N$nadîšu; +ṣarāšu[dribble]V$iṣarriš
+
+#note: Both readings @i{r}[@i{aḫ}] (Heeßel) and @i{r}[@i{a}] (Wee) seem epigraphically impossible. @i{ri}[@i{š} is epigraphically very likely, and it fits well with the verb in the next line. The verb @i{ṣarāšu} G is very poorly attested (the only lexical attestation is @i{MSL} SS 1 p. 97 l. 6 and note ad loc., [giš.x]-zé-àm-bar = @i{i-ṣu ṣa-ri-iš}).
+2. !cm it-ta-na-at-tuk : ŠUR : ša₂-ra-šu₂* : ŠUR : na-ta#-[ku]
+#lem: +natāku[drip]V$ittnattuk; +ṣarāšu[dribble//dribbling]V'N$; +ṣarāšu[dribble//dribbling]V'N$; +natāku[drip//dripping]V'N$; +natāku[drip//dripping]V'N$
+
+#note: The readings @akk{šá-ra-hu?} (Heeßel) and @akk{šá-ra+ri} (Wee) should be discarded. The last sign is a clear @akk{ŠÚ}.
+3. !bs MUD₂ MUD ŠUB.ŠUB{+a} !cm : MUD₂ : da-mu : MUD : da-mu :# [x x x]
+#lem: dāmi[blood]N; +daʾmu[dark]AJ$; ittanadda[flow]V; dāmi[blood]N; dāmu[blood]N; +daʾmu[dark]AJ$; +daʾmu[dark]AJ$dāmu; u; u; u
+
+4. !bs pe-la-a !cm : !qt %sux igi su₃ : igi su₃-a : su₃-a : [su₃-su₃-a]
+#lem: pelâ[(light) red]AJ; igi[eye]N; su[red]V/i/su₃; igi[eye]N; su[red]; su[red]; su[red]
+
+
+#note: Lines 4-5 contain a previously unrecognized vertical quotation from @i{Erimḫuš} II 310-313 (@i{MSL} 17 43): igi-su₄ = @i{zarriqu}; igi-su₄-su₄ = @i{zarriqtu}; su₄ = @i{pelû}; su₄-su₄-a = @i{pelītu}. In the lexical tradition @i{pelû} is equated with SU₄, but the equation SÙ = @i{pelû} is attested in the commentary @i{TCL} 6 17 r 17 (@i{CCP} 3.1.8.A.a).
+5. !qt za-ar-ri-iq : za-ar-riq-tu₂ :# pe*#-[lu-u pe-li-tu]
+#lem: +zarriqu[iridescent]AJ$zarriq; +zarriqu[iridescent]AJ$zarriqtu; +pelû[(light) red]AJ$; +pelû[(light) red]AJ$pelītu
+#note: As kindly pointed out by N. Veldhuis, in this entry @i{Erimhuš} quotes from Sª A. @akk{SÙ} is not unknown for Sum "red" ("iridescent" when used for eyes): in OB and Ur III the spelling of that word is very unstable (or rather, regional) and it appears as @akk{SU₄} (hardly ever Ur III), @akk{SU₃}, @akk{SU₁₃} - and later @akk{SA₅} [information courtesy of N. Veldhuis].
+6. !bs NINDA*# URU₄{+iš} !cm : ša₂ ina la ṭe₃-mi-šu₂# !zz [x x x x x x] 
+#lem: akala[bread]N; irriš[request]V; ša[that]REL; ina[in]PRP; lā[not]MOD; +ṭēmu[(fore)thought]N$ṭēmīšu; u; u; u; u; u; u
+
+#note: Compare NINDA URU₄ in Sagig XVI 100'. Wee assumes that the first sign is erased, but the traces suggest otherwise.
+7. !bs u₂-hab-ba-at !cm : ša₂ ina ŠU eš-[x x x x x x x]
+#lem: +habātu[wander]V$uhabbat; ša[that]REL; ina[in]PRP; +qātu[hand]N$qāti; u; u; u; u; u; u; u
+
+#note: The only attestadtion of @i{uḫabbat} in @i{Sagig} is @i{Sagig} XV 16': @akk{ŠU-MIN-šú ana KA-šú ú-hab-bat}, translated by Heeßel @i{AOAT} 43 (2000) p. 156 as "Wenn dito und er seine Hände zu seinem Mund bewegt?" (see also the commentary ibid. p. 164).
+8. !cm ša₂ a-kal ina ŠU-MIN-šu₂ : !bs u₂-hab#-[ba-at !zz x x x x x]
+#lem: ša[of]DET; akal[bread]N; ina[in]PRP; qātāšu[hand]N; uhabbat[wander]V; u; u; u; u; u
+
+#note: The reading @i{ú-ḫ}[@i{ab-bat}] is proposed in Frahm @i{GMTR} 5 (2011) p. 227 fn. 1058. @i{ḫ}[@i{ab}] is epigraphically very likely.
+9. !cm ina pi-i-šu₂ ma-ar₂#-[x !zz x x x x x x x x]
+#lem: ina[in]PRP; pîšu[command]N; u; u; u; u; u; u; u; u; u
+
+10. !cm ša₂ ina la ṭe₃-[mi-šu₂ !zz x x x x x x x x x]
+#lem: ša[that]REL; ina[in]PRP; lā[not]MOD; ṭēmīšu[(fore)thought]N; u; u; u; u; u; u; u; u; u
+
+11. !zz ka-x# [...]
+#lem: u; u
+
+12. !zz x# [...]
+#lem: u; u
+
+@translation labeled en project
+
+@label o 1 - o 2
+(Tablet) "If the patient vomits gall" (= @i{Sagig} 23 1). "When he spits, @i{he keeps dribbling}" (@i{iṣarriš}) (= @i{Sagig} 23 unknown) means "he keeps dripping," since ŠUR means "to dribble" and ŠUR means "to drip."
+
+@label o 3
+
+"He continuously vomits dark blood (MÚD MUD)" (= @i{Sagig} 23 unknown) MÚD means "blood" and MUD means "dark" [...]
+
+@label o 4 - o 5
+
+"Light red" (= @i{Sagig} 23 9) - (as in) IGI SÙ, IGI SÙ.A, SÙ.A, [SÙ.SÙ.A] (equal) "iridescent," "iridescent" (fem.), "light red," and "light red" (fem.) (quotation from @i{Erimḫuš} II 310-313).
+
+@label o 6
+
+"If he craves bread" (= @i{Sagig} 23 unknown) refers to (the person) who without consideration [@i{demands bread}].
+
+@label o 7
+
+"@i{He moves}" (= @i{Sagig} 23 unknown) refers to (the person) who in (his) hand [...]
+
+@label o 8
+
+[...] refers to (the person) who (has) bread in his hands. "@i{He m}][@i{oves}" ...].
+
+@label o 9
+
+[...] in his mouth [...].
+
+@label o 10
+
+[...] refers to (the person) who without co[nsideration ...].
+
+@label o 11 - o 12
+
+...

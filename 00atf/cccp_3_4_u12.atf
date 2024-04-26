@@ -1,0 +1,38 @@
+&P426248 = CCP 3.4.u12 (http://ccp.yale.edu/P426248) = Sm.2055
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !cm BE MAN{+u₂} MU-NI [{giš}TUKUL 15 3-ma re-diš GAR-MEŠ]
+#lem: šumma[if]MOD; šanû[second]NU; šumšu[name]N; kakku[weapon]N; imitti[right]N; n; redîš[in succession]AV; šaknū[located]AJ
+
+#note: Lines 1'-3' are restored with K.2092 iv 8-11 (CCP 3.4.8.F) // SpTU 2 45(+) r 13 (CCP 3.4.8.L). See RA 68 (1974) 65. The translation of the apodosis follows CAD S 370b.
+2'. ($___$) !cm a-li-ku su-le#-[e DUMU-MEŠ mam-ma-na-ma]
+#lem: ālikū[goer]N; sulê[street]N; mārū[son]N; mammanāma[somebody]XP
+
+3'. ($___$) !cm li-ter-ru [gim-la ...]
+#lem: +târu[turn]V$literrū; +gimillu[requital]N$gimla; u
+
+4'. !cm BE šal-šu₂ MU-NI UGU{+nu} SAG [...]
+#lem: šumma[if]MOD; šalšu[third]NU; šumšu[name]N; elēnu[above]'PRP; rēš[top]N; u
+
+5'. ($___$) !cm UGU{+nu} SUR EDIN ZE₂# [x x x x x x x x]
+#lem: elēnu[above]'PRP; +maṣrāhu[socle]N$maṣrāh; ṣēri[open country]N; +martu[gall bladder]N$marti; u; u; u; u; u; u; u; u
+
+6'. ($___$) !cm BA₃{+ut} LUGAL-GI.NA# [x x x x x x x x]
+#lem: amūt[omen]N; Sargon[1]RN; u; u; u; u; u; u; u; u
+
+7'. ($___$) !cm ana IGI-šu₂ URU [x x x x x x x x]
+#lem: ana[according to]PRP; pānīšu[face]N; ālu[village]N; u; u; u; u; u; u; u; u
+
+@translation labeled en project
+
+@label 1' - 3'
+
+Its second 'If': [(If) there are three right "Weapons" and they lie consecutively,] let travelers on the roads, [whoever they are], take [vengeance ...].
+
+@label 4' - 7'
+
+Its third 'If': (If) above the top of the [...] above the socle of the "plain" of the gall bla[dder ...] - omen of Sargon [...] at its front the city [...].

@@ -1,0 +1,430 @@
+﻿&P461268 = 3.1.1.C (http://ccp.yale.edu/P461268) = BM 59595
+
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+
+@tablet
+
+
+
+$ (obverse)
+
+
+
+1. &3 !bs %s ud an-na {d}en-lil₂-la₂ {d}en-ki diŋir [gal-gal-la]
+
+#lem: ud[day]N; An[1]DN; Enlil[1]DN; Enki[1]DN; diŋir[deity, god, goddess]N; gal[(to be) big, great]V/i
+
+
+
+2. &3 !bs %s ŋalga-ne-ne gin₆-na-ta me gal-gal-la#
+
+#lem: +ŋalga[forethought//plan]N/ŋalga#~,nene; +gin[firm]V/i/gin₆#~;a,ta; me[(cultic) ordinance]N; gal[(to be) big, great]V/i
+
+
+
+3. &3 !bs %s ma₂-gur₈ {d}suen-na mu-un-gin₆-ne-eš#
+
+#lem: magur[barge]N; Suen[1]DN; +gin[firm//establish]V/i'V/t/gin₆#mu.n:~;eš
+
+
+
+4. &3 !bs %s u₄-sakar mu₂-mu₂-da itud u₃-tu-ud-da
+
+#lem: usakar[crescent moon]N; mu[to grow]V/t; itud[month]; utud[to give birth (to), bear a child]V/t
+
+
+
+5. &3 !bs %s u₃ ŋiškim an ki-a mu-un-gin₆-ne-eš
+
+#lem: u[and]CNJ; ŋeškim[sign, omen]N; an[heaven]; ki[ground, earth, land]N; +gin[firm//establish]V/i'V/t/gin₆#mu.n:~;eš
+
+
+
+6. &3 !bs %s ma₂-gur₈ an-na ni₂ pa e₃ ak-a-de₃
+
+#lem: magur[barge]; an[heaven]; ni[aura]N; pa[branch]; e[leave]; +ak[do]V/t/ak#~;ed,e
+
+
+
+#note: The construction ní ... pa è ... aka is otherwise attested in some manuscripts of the Hymn @i{Enlil} A (@i{ETCSL} 4.05.1) ll. 12 = 95, a text that was still copied in the MB period (Peterson @i{UF} 42 [2010] pp. 574-575); and in @i{Winter and Summer} (ETCSL 5.3.3) l. 292. Most importantly, it is said of the "crescent moon" (u₄-sakar) and the "month" (iti) in a hymn to Nanna (@i{Nanna} L = ETCSL 4.13.12) l. 4. These parallels are of relevance for dating the composition of the present text.
+
+
+
+7. &3 !bs %s šag₄ an-na igi bar-ra-ta ed₃
+
+#lem: šag[belly]N; An[1]DN; igi[eye]N; +bar[cvve]V/t/bar#~;a,ta; ed[ascend]
+
+
+
+$ single ruling
+
+
+
+8. &3 !cm %sb ša₂-ni-iš !bs e-nu-ma {d}a-num {d}en-lil₂ {d}e₂-a
+
+#lem: šanîš[alternatively]AV; enūma[when]SBJ; +An[]DN$Anum; +Enlil[]DN$; Ea[1]DN
+
+
+
+9. &3 !bs DINGIR-MEŠ GAL-MEŠ ina mil-ki-šu₂-nu ki-i-nu
+
+#lem: +ilu[god]N$ilāni; rabûti[great]AJ; ina[in]PRP; +milku[advice]N$milkišunu; kīnu[permanent]AJ
+
+
+
+10. &3 !bs GIŠ.HUR-MEŠ AN{+e} u KI{+tim} iš-ku-nu
+
+#lem: uṣurāt[plan]N; šamê[heaven]N; u[and]CNJ; +erṣetu[earth]N$erṣetim; iškunū[put//establish]'V
+
+
+
+11. &3 !bs a-na ŠU-MIN DINGIR-MEŠ GAL-MEŠ u₂-kin-nu
+
+#lem: ana[according to]PRP; qāt[hand]N; +ilu[god]N$ilāni; rabûti[great]AJ; ukinnū[set up correctly]V
+
+
+
+12. &3 u₄-mu ba-na-a ITI ud-du-šu₂ ša₂ IGI.DU₈-MEŠ
+
+#lem: ūmu[day]; +banû[create//creating]V'N$banâ; arhi[month]N; +edēšu[be(come) new//renewing]V'N$uddušu; ša[of]DET; +tāmartu[view(ing)]N$tāmarāti
+
+
+
+13. &3 !bs a-me-lut-tu₄ {d}UTU ina ŠA₃ KA₂ E₃-šu₂ i-mu-ru
+
+#lem: +awīlūtu[humanity]N$amēluttu; Šamaš[1]DN; ina[in]PRP; libbi[interior]N; bābi[gate]N; aṣîšu[going out]'N; īmurū[see]V
+
+
+
+14. &3 !bs qe₂-reb AN{+e} u KI{+tim} ki-niš uš-ta-mu*-u₂
+
+#lem: qereb[centre]N; šamê[heaven]N; u[and]CNJ; +erṣetu[earth]N$erṣetim; kīniš[righteously]AV; +awû[speak//discuss]V'V$uštāmû
+
+
+
+$ single ruling
+
+
+
+15. !bs %s ud !cm %sb e-nu-ma & e-nu-ma & ul-tu šu-ta-mu-u₂ mal₂-ma-liš
+
+#lem: ud[day]N; enūma[when]SBJ; enūma[when]SBJ; ultu[after]PRP; +awû[speak//discussing]V'N$šutāmû; +malmališ[correspondingly//with one another]AV'AV$
+
+
+
+16. !bs %s ta !cm %sb i-nu & !bs %s ta & !cm %sb ul-tu
+
+#lem: M; +inu[when]SBJ$; M; ultu[after]PRP
+
+
+
+17. !bs %s ma₂-gur₈ & !cm %sb {d}NANNA{+ru} & RU e-de-šu₂
+
+#lem: magur[barge]N; +Nannaru[]DN; +edēšu[be(come) new//be(com)ing new]V'N$; +edēšu[be(come) new//be(com)ing new]V'N$
+
+
+
+#note: ru = @i{edēšu} is an otherwise unattested equation. It is probably based on řu(DÙ) = @i{edēšu}. The latter equation, which is likewise unattested as such, was probably to be found in some lexical list now lost: it underlies in all likelihood the equation TU = @i{edēšu} in the Commentary on the Names of Marduk (CCP 1.1.B) l. 9.
+
+18. !bs %s u₄-sakar & !cm %sb ar₂-ha & SAKAR šu*-x-[(x)]
+
+#lem: usakar[crescent moon]N; +warhu[month]N$arha; X; u
+
+
+
+19. !bs ar₂#-ha & !cm {d}30 & [x x x x]
+
+#lem: +warhu[month]N$arha; Sin[1]DN; u; u; u; u
+
+
+
+20. !bs %s mu₂#-mu₂ & !cm %sb ud!-du!-šu# & [x x x x]
+
+#lem: mu[to grow]V/t; +edēšu[be(come) new//renewing]V'N$uddušu; u; u; u; u
+
+
+
+#note: For the reading of the second word of the line, see Frahm @i{GMTR} 5 (2011) p. 92 fn. 460. The equation mú = @i{uddušu} is attested in @i{CT} 18 pl. 29 ii 33' (series @i{Šarru}).
+
+$ (reverse)
+
+
+21. &3 !bs mu-mu !cm ni-si-gu min-[na-bi] 
+
+#lem: S; +nisigû[the sign SAR]N$nisigu; +minnabu[sign two times]AJ$minnabi
+
+
+
+#note: For the reading of the second part of the line, see Frahm @i{GMTR} 5 (2011) p. 92 fn. 460. For the sign name @i{nisigu minnabi}, see Gong @i{AOAT} 268 (2000) p. 174.
+
+22. &3 !bs DU₃ !cm {+ga-ag-gu}gag-gu*#
+
+#lem: u; +gaqqu[the sign KAK]N$gaggu
+
+
+
+#note: The sign DÙ is not to be found in the text commented upon. It is probably a step in the commentator's line of reasoning, probably depending on the equation RU = @i{edēšu} in l. 17.
+
+
+
+23. &3 !bs DU₃ !cm na-pa-hi ša₂ i-šat*
+
+#lem: u; +napāhu[blow//igniting]V'N$napāhi; ša[of]DET; +išātu[fire]N$išāt
+
+
+
+#note: The sign MÚ was probably equated with @i{napāḫu} in one of the previous lines of the commentary. The present line would then be an attempt at equating MÚ and DÙ. The equation DÙ = @i{napāḫu ša išāti} is, however, otherwise unattested. However, cf. @i{Nabnītu} XXII 7' (@i{MSL} 16 206).
+
+
+
+24. &3 !cm {mul}SAG.<(ME.GAR)> !zz {(he-pi₂)} x šu?# x na-an-šu?#-x
+
+#lem: +Neberu[Jupiter]CN$; hepi[broken]AJ; u; X; u; u
+
+
+
+25. &3 !cm ul-tu KUN {mul}UR.MAH IGI.DU₈
+
+#lem: ultu[from]PRP; zibbat[tail]N; Nešu[Lion]CN; +amru[visible]AJ$amir
+
+
+
+26. &3 !cm ina IGI {mul}zi-ba-ni-tu₄
+
+#lem: ina[in]PRP; pān[front]N; Zibanitu[Scales]CN
+
+
+
+27. &3 !cm KUN {mul}UR.A?# kip-pa-tu₄
+
+#lem: zibbat[tail]N; Nešu[Lion]CN; +kippatu[circle]N$
+
+
+
+28. &3 !cm ina {iti}ŠU# {d#}UTU# x [x x] ŠU₂
+
+#lem: ina[in]PRP; Duʾuzu[1]MN; Šamaš[1]DN; u; u; u; +rabû[set]V$irbi
+
+
+
+29. &3 !cm u ina {iti}KIN?# [x] x x x KUR{+ha}
+
+#lem: u[and]CNJ; ina[in]PRP; Ululu[1]MN; u; u; u; u; ippuha[rise]V
+
+
+
+30. &3 !zz ina [x x x x x x] MAN
+
+#lem: ina[in]PRP; u; u; u; u; u; u; šarru[king]N
+
+
+
+31. &3 !zz [...]
+
+#lem: u
+
+
+32. &3 !zz [...]
+
+#lem: u
+
+
+
+33. &3 !zz [...]
+
+#lem: u
+
+34. &3 !zz [...]
+
+#lem: u
+
+
+35. &3 !zz * ina [x x x] x
+
+#lem: ina[in]PRP; u; u; u; u
+
+
+
+36. &3 !zz * ina [x x x IGI].TAB?# IGI#.KAR₂
+
+#lem: ina[in]PRP; u; u; u; bari[checked]AJ; bari[checked]AJ
+
+
+
+#note: Lines 36-37 contain perhaps a short colophon.
+
+37. &3 !zz x# x# [x x x {m?}ša₂?]-{d}UTU-šu-u₂
+
+#lem: u; u; u; u; u; +Ša-Šamaš-šu[]PN$
+
+
+
+#note: @i{Si vera lectio}, the name at the end would be otherwise unattested. Ša-Nabû-šū is, however, a common name in the NA and Achaemenid period (see e.g. @i{PNA} 3 1227, ref. courtesy of E.E. Payne).
+
+@translation labeled en project
+
+
+
+@label 1 - 3
+
+
+
+When Anu, Enlil and Enki, the [great] gods had established in their firm plans the great cosmic structures and the barge of Sîn,
+
+
+
+@label 4 - 5
+
+
+
+when they had established that the crescent moon should grow and give birth to the month, and (had established this) as the omen-bearer of heaven and earth,
+
+
+
+@label 6 - 7
+
+
+
+that "the barge of heaven" (sc. the moon) should come forth radiantly, and that it should be seen in the middle of the sky, it (sc. the moon) came out.
+
+
+
+$ single ruling
+
+
+
+@label 8 - 10
+
+
+
+Or, alternatively: When Anu, Enlil and Ea, the great gods, established the designs of Heaven and Earth with their firm decision,
+
+
+
+@label 11 - 12
+
+
+
+and entrusted in the hands of the great gods the creation of the day and the renewal of the month - things which are to be observed (for omens),
+
+
+
+@label 13
+
+
+
+so that humankind could see the sun in the gate from which it sets out,
+
+
+
+@label 14
+
+
+
+(the great gods) firmly took counsel in the middle of heaven and earth, (saying what follows).
+
+
+
+$ single ruling
+
+
+
+@label 15
+
+
+
+UD (l. 1) means "when;" "when" (l. 8) means "after they took counsel with one another."
+
+
+
+@label 16
+
+
+
+TA (l. 7) means "when;" TA (l. 7) also means "after" (from the previous line in the commentary).
+
+
+
+@label 17
+
+
+
+The "barge" (l. 7) means "the crescent moon" (@nannāru), where the sign RU means "to renew."
+
+
+
+@label 18
+
+
+
+The "crescent" (l. 4) means "the month" (l. 12), where SAKAR means [...].
+
+
+
+@label 19
+
+
+
+The "month" (l. 12) means "the moon," which means [...].
+
+
+
+@label 20
+
+
+
+MÚ.MÚ (l. 4) means "to renew" (l. 12), which means [...].
+
+
+
+@label 21
+
+
+
+(The sign read as) /mumu/ (l. 4) (is called) @i{nisigu minnabi} (i.e., "reduplicated SAR-sign").
+
+
+
+@label 22 - 23
+
+
+
+(The sign) DÙ (is called) @gaggu. DÙ means "to light, said of fire."
+
+
+
+@label 24 - 27
+
+
+
+Jupiter [...] from the "tail" of Leo is visible, in the "forehead" of Libra the tail of @i{Leo is a circle}.
+
+
+
+@label 28 - 29
+
+
+
+In the month of Duʾūzu @i{the sun} [...] @i{sets} and in the month of @i{Elūlu} [...] rises.
+
+
+
+@label 30 - 35
+
+
+
+[...] If in [...]. If in [...].
+
+
+
+@label 36 - 37
+
+
+
+[...] @i{collated and checked}. [... of] @i{Ša-Šamaš-šū}.
+
+
+

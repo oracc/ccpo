@@ -1,0 +1,56 @@
+&P237394 = CCP 7.2.u6 (http://ccp.yale.edu/P237394) = 83-1-18,722
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x# [...]
+#lem: u; u; u
+
+2'. !zz [...] x# x# hu#-du?# x# x# [...]
+#lem: u; u; u; X; u; u; u
+
+3'. !zz [...] x# {d}MAŠ a-ha [x] x# x# [...]
+#lem: u; u; Ninurta[1]DN; X; u; u; u; u
+
+4'. !zz [...] x# x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+5'. !zz [...]-ti#-ka# ana# x# x# x# [...]
+#lem: u; ana[according to]PRP; u; u; u; u
+
+@reverse
+
+1. !zz [...] x#-piš E₂ : !bs ŠA₃ !cm : qe₂-reb# : ŠA₃ : lib#-bi# [...]
+#lem: u; u; bīt[house]N; libbi[interior]N; qereb[centre]N; libbi[interior]N; libbi[interior]N; u
+
+2. !zz [...]-ri#-in-nu : !bs e-bi-hu !zz [...]
+#lem: u; +ebīhu[(a rope or girdle)]N$; u
+
+3. !zz [... !bs KAR !cm : e]-ṭe#-ru : KAR : e-ke-mu !zz [...]
+#lem: u; eṭēru[taking away]'N; eṭēru[saving]'N; ekēmu[taking away]'N; ekēmu[taking away]'N; u
+
+4. !zz [... :] !cm e#-se-pi : ša₂-niš es-pa : x# x# !zz [...]
+#lem: u; +esēpu[gather together//gathering together]V'N$esēpi; šanîš[alternatively]AV; +espu[gathered together]AJ$espa; u; u; u
+
+#note: The signs after @i{šanîš} could be read as @akk{{giš}PA}.
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+2'. ...
+3'. ...
+4'. ...
+5'. ...
+
+@reverse
+
+1. [...] ... house. @i{šà} means "center", @i{šà} means "hea[rt" ...]
+2. [...] means ...; @i{ebīḫu} means [...]
+3. [... @i{kar}] means "to take away", @i{kar} means "to deprive" [...].
+4. [... "@i{collected}" (@i{espa} (?)) @i{derived from}] "to colect," alternatively @i{espa} can mean [...].

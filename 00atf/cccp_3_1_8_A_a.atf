@@ -1,0 +1,511 @@
+&P363690 = CCP 3.1.8.A.a (http://ccp.yale.edu/P363690) = AO 6464
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+
+@tablet
+@obverse
+1. !bs *# SI 15-šu₂ ana {im}1 GID₂.DA !cm : GU₄.U₄ ana {im}U₁₈.LU ina SI 15-šu₂ GUB-ma ki-i ina {iti}DU₆#
+#lem: qaran[horn]N; imittišu[right]N; ana[to]PRP; +šūtu[south]N$šūti; arik[long]AJ; +Šihṭu[Mercury]CN$; ana[to]PRP; šūti[south]N; ina[in]PRP; qaran[horn]N; imittišu[right]N; izzazma[stand]V +.; +kī[like//if]PRP'MOD$kī; ina[in]PRP; Tašritu[1]MN
+
+#note: As noted by Hunger (1995: 113), the basis for the comparison made in these two lines is that when Mercury is close to the Moon, the Moon appears darker, i.e. the proximity of Mercury to the moon has a similar effect to that of a lunar eclipse. The precise meaning of @i{kī} in this line is uncertain: the absence of a subordinate marker on @i{iltakan} suggests that it means "if," but it is also possible that it means "when" and that the subordinate marker was omitted for some reason.
+
+2. !cm [U₄] 14-KAM₂ AN.GE₆ il-ta-kan ina {im}U₁₈.LU SAR-ma ina {im}SI.SA₂ ZALAG₂-ma
+#lem: ūm[day]N; n; attallû[eclipse]N; +šakānu[put//take place]V$iltakan; ina[in]PRP; šūti[south]N; +šurrû[begin]V$ušarrima; ina[in]PRP; iltāni[north]N; +nawāru[be(come) bright//clear]V$immirma +.
+
+3. !bs * SI 15-šu₂ ana {im}3 GUB !cm : U₄ 1-KAM ana {im}KUR.RA NIM-ma : ša₂-niš {d}UDU.IDIM TE-šu₂-ma
+#lem: qaran[horn]N; imittišu[right]N; ana[to]PRP; +šadû[east]N$šadî; izziz[stand]V; ūm[day]N; n; ana[to]PRP; +šadû[east]N$šadî; +elû[go up//rise]V$ellima; šanîš[alternatively]AV; bibbu[planet]N; +ṭehû[approach]V$iṭehhešuma +.
+
+#note: As noted by Hunger (1995: 113), the citation at the beginning of the line deviates from @i{ACh Sîn} 6 l. 7 in that GID₂.DA is replaced here (probably erroneously) by GUB. 
+
+4. !bs SIG₅ u lum-nu ša₂ ina AN.GE₆ iq-bu-u₂ !cm : ina {im}KUR.RA ZALAG₂ SAR-ma SIG₅ : lap-tu
+#lem: +dumqu[goodness]N$; ū[or]CNJ; +lumnu[evil]N$; ša[that]REL; ina[in]PRP; attallê[eclipse]N; +qabû[say//predict]V$iqbû; ina[in]PRP; šadî[east]N; +nūru[light]N$; ušarrima[begin]V; dumqu[goodness]N +.; +laptu[touched//affected]AJ$
+
+#note: As noted by Hunger (1995: 113), when said of the Moon the word @i{laptu}, literally "affected," means "eclipsed," but such a translation does not make sense in this context. The discussion of whether an eclipse portends good or evil seems to have been triggered by the fact that the east is a significant factor for understanding both the omen cited in l. 3 and the meaning of the eclipse. 
+
+5. !cm SAR-ma lum-nu : !bs * 30 U₄ 30-KAM IGI <:> !cm ina tur-ru u₄-mu IGI-ma : !bs * 30 ina {iti}APIN U₄ 1-KAM
+#lem: ušarrima[begin]V; lumnu[evil]N; Sin[1]DN; ūm[day]N; n; innamir[appear]V; ina[at]PRP; +târu[turn//turning]V'N$turru; ūmu[daytime]N; innammarma[appear]V +.; Sin[1]DN; ina[in]PRP; Arahsamnu[1]MN; ūm[day]N; n
+
+#note: As noted by Hunger (1995: 113), @i{turri ūmi}, (lit.) "turning of the day," refers to the appearance of a new moon in the evening of the 29th day (rather than in the evening of the 30th day). Thus, the explanation in this line can be summarized as follows: if the moon is visible on the 29th day of the month then it will still be visible on the 30th day of the month.
+
+6. !cm ina IGI.LA₂-šu₂ ina SI 15-šu₂ {mul}ELLAG₂ GUB : U₄ 1-KAM GU₄.U₄ ina {mul₃}GIR₂.TAB ina SI 15-šu₂ GUB-ma :
+#lem: ina[at]PRP; tāmartišu[appearance]N; ina[in]PRP; qaran[horn]N; imittišu[right]N; +Kalitu[Kidney]CN$; izziz[stand]V; ūm[day]N; n; Šihṭu[Mercury]CN; ina[in]PRP; +Zuqaqipu[Scorpion]CN$; ina[in]PRP; qaran[horn]N; imittišu[right]N; izzazma[stand]V
+
+#note: The Kidney = the constellation Canopus. The Scorpion = Scorpio. 
+
+7. ša₂-niš {d}LI₉.SI₄ TE-šu₂-ma : !bs {mul}ELLAG₂ <:> !cm GU₄.U₄ : !bs ina {mul₃}GIR₂.TAB !cm : ina-pu-uh
+#lem: šanîš[alternatively]AV; Lisi[1]DN; iṭehhešuma[approach]V; Kalitu[Kidney]CN; Šihṭu[Mercury]CN +.; ina[in]PRP; +Zuqaqipu[Scorpion]CN$; +napāhu[blow//rise]V$inappuh +.
+
+#note: Lisi (wr. @akk{{d}LI₉.SI₄}) = Antares, a star located in the heart of the constellation Scorpio. As noted by Brown (2000: 59), the constellation Kidney is also equated with the planet Mercury in an astrological report to the Neo-Assyrian king (SAA 8: 325 r 5). 
+
+8. !bs i-na-bu-uʾ !cm : ib-bal : na-ba-ʾu : a-ba-lu : !bs * SI 15-šu₂ SA₅ !cm AN TE#-šu₂-ma
+#lem: +nabāʾu[rise]V$inabbuʾ; +abālu[dry (up)]V$ibbal; +nabāʾu[rise//rising]V'N$; +abālu[dry (up)//drying (up)]V'N$ +.; qaran[horn]N; imittišu[right]N; sām[red]AJ; +Ṣalbatanu[Mars]CN$; iṭehhešuma[approach]V +.
+
+#note: The explanation in the second part of the line, namely that a red horn of the moon is due to the proximity of Mars, is doubtless due to Mars's red-brown color, which led to it being called "the red star" (see Reynolds 1998 for discussion of Mars's many titles).
+
+9. !bs E₂ DINGIR SIG IZI GU₇ !cm : AN.GE₆ ina {mul₃}SIPA.ZI.AN.NA ana tar-ṣi DAR.LUGAL ina ŠA₃ IZI iq-bi
+#lem: bīt[temple]N; ili[god]N; +wēdû[prominent]AJ$ēdâ; +išātu[fire]N$; +akālu[eat//consume]V$ikkal +.; attallû[eclipse]N; ina[in]PRP; +Šitaddaru[Orion]CN$; ana[to+=opposite]PRP; tarṣi[extent]N; +Tarlugallu[Rooster]CN$; ina[in]PRP; libbi[middle]N; išāti[fire]N; iqbi[predict]V
+
+#note: @i{Šitaddaru} = the constellation Orion. Rooster = Lepus. The remark at the end of the line, @akk{ina ŠA₃ IZI iq-bi}, "it is said with respect to fire," appears to explain the explanation, but precisely how it does so is unclear. The remark could, for example, reflect the fact that the "fire" (IZI) mentioned in the passage cited at the beginning of the line led the commentator to assume an eclipse in Orion because of the phonetic similarity between the name of the IZI-sign and the ZI-sign, which is a component of the writing of Orion, @akk{{mul₃}SIPA.ZI.AN.NA}. Alternatively, the other constellation mentioned in the explanation, Rooster, may be the connection: the Rooster may have been regarded as particularly bright in a manner that seemed similar to fire. The ancient association of Mars with fire (due to its red appearance) might suggest that apodosis cited in this line is, in the base text, the apodosis that followed the protasis cited and explained in l. 8. However, the fact that the two passages appear several lines appart in @i{ACh Suppl} 1, 9 means that the connection between the two passages is uncertain.
+
+10. !bs * SI 15-šu₂ GE₆ !cm : {d}GENNA TE-šu₂-ma : !bs SIG₇ !cm : dele-bat TE-šu₂-ma : !bs KIN-MEŠ-šu₂ !cm te-re-tu-šu₂
+#lem: qaran[horn]N; n; ṣalim[black]AJ; Kayyamanu[Saturn]CN; iṭehhešuma[approach]V +.; +warqu[yellow-green]AJ$ariq +.; +Delebat[Venus]CN$; iṭehhešuma[approach]V +.; +têrtu[instruction//omen]N$têrētušu; +têrtu[instruction//omen]N$têrētušu
+
+#note: The explanation provided for the moon's right horn being black, namely that "Saturn approaches it," is based on the association of Saturn with blackness (compare also the explanation of the protasis cited in o 25). For the rationale behind this association see Brown (2000: 69). The explanation provided for the moon's right horn being yellow-green, namely that "Venus approaches it," is due to the association of Venus with this color. As noted by Brown (2000: 66), Venus is called the "yellow-green star" in K 2346+ r 26'.
+
+11. !cm KIN : ter-tu₄ : !bs DAG !cm : šu-ub-tu₄ : DAG <<:>> KAM : dak-kan : šu-ub-tu₄
+#lem: +têrtu[instruction//omen]N$; +têrtu[instruction//omen]N$; +šubtu[dwelling]N$; +šubtu[dwelling]N$; šubtu[dwelling]N; X; X; šubtu[dwelling]N
+
+#note: As noted by Hunger (1995: 118), the equation of KIN with @i{tertu} is otherwise attested in the lexical text Izi H App. 49 (MSL 13 211), and the equation of DAG with @i{šubtu} is found in, for example, Erimhuš III 1.
+
+12. !cm mu-ša₂-bu : dak-kan-na : !bs * 30 ina {iti}GAN U₄ 1-KAM ina IGI.LA₂-šu₂ SI-MEŠ-šu₂ ud-du-da-ma
+#lem: mūšabu[dwelling]N; +dakkannu[doorway?]N$dakkanna +.; Sin[1]DN; ina[in]PRP; Kislimu[1]MN; ūm[day]N; n; ina[at]PRP; tāmartišu[appearance]N; qarnātušu[horn]N; +uddudu[very pointed]AJ$uddudāma
+
+#note: As noted by Hunger (1995: 114), the purpose of the equations "DAG (followed by) KAM means @i{dakkannu}" and "@i{mūšabu} means @i{dakkannu}" in ll. 11-12 is to explain why DAG can be equated with @i{šubtu} in l. 11. The sign DAG may have appeared in the apodosis of the omen cited in l. 10, as may @akk{KIN-MEŠ-šu}. 
+
+13. !bs ZALAG₂-MEŠ !cm : ša₂ U₄ 1-KAM IGI-ma ša₂-ru-ru na-šu-u₂ : U₄ 14-KAM ina IGI {d}UTU GUB :
+#lem: +nawru[bright]AJ$namrā; ša[that]REL; ūm[day]N; n; +amāru[see//appear]V$innammaruma; šarūru[brilliance]N; +našû[lifted//imbued]AJ$ +.; ūm[day]N; n; ina[in]PRP; pān[front]N; Šamaš[1]DN; izzaz[stand]V +.
+
+14. !cm ša₂-niš U₄ 1-KAM dele-bat KI-šu₂ LAL₂-ma : !bs * SI-MEŠ-šu₂ DAR₄-MEŠ-ma {mul₃}is le-e ana IGI-šu₂ GUB <:>
+#lem: šanîš[alternatively]AV; ūm[day]N; n; Delebat[Venus]CN; ittišu[with]PRP; +šaqālu[weigh//have the same longitude]V$ištaqqalma +.; qarnātušu[horn]N; +daʾmu[dark]AJ$daʾmāma; +Isu[Jaw]CN$Is; lê[bull]N; ana[to]PRP; pānišu[front]N; izzaz[stand]V +.
+
+#note: As noted by Hunger (1995: 114), the second and third explanations offered for the passage cited focus on possible causes of the Moon's unusual brightness, namely its relationship to the Sun or to Venus. The reading of LAL₂ in this context is uncertain; it appears in similar contexts in the "astronomical diaries" and Hunger (1995: 114) suggests interpreting it as @i{šitqulu}, "equinox." The Bull's Jaw = the constellation Hyades.
+
+15. !cm U₄ 1-KAM GU₄.U₄ ṭe-hi-šu₂-ma : U₄ 14-KAM {mul}is le-e ana IGI-šu₂ GUB-ma
+#lem: ūm[day]N; n; Šihṭu[Mercury]CN; +ṭehû[near]AJ$ṭehišuma; ūm[day]N; n; Is[Jaw]CN; lê[bull]N; ana[to]PRP; pānišu[front]N; izzazma[stand]V +.
+
+#note: Similarly to Saturn (see note ad o 10) and Mars, the planet Mercury can also turn stars, constellations and planets black or dark by its proximity: see Brown (2000: 91 n. 228). 
+
+16. !bs * SI-MEŠ-šu₂ kap-ṣa !cm : U₄ 1-KAM {d}SAG₃.ME.GAR u dele-bat ina SI 15-šu₂ u 2.30-šu₂ GUB-ME-ma
+#lem: qarnātušu[horn]N; +kapṣu[bent up]AJ$kapṣā +.; ūm[day]N; n; X; u[and]CNJ; Delebat[Venus]CN; ina[in]PRP; qaran[horn]N; imittišu[right]N; u[and]CNJ; šumēlišu[left]N; +izuzzu[stand]V$izzazzūma +.
+
+17. !bs SU !cm : kib-su : SU : na-ba-ṭu : !bs {+ina}GUL-ma !cm : i-na-qar-ma : GUL : na-qa-ri
+#lem: X; +kibsu[track//step]N$ +.; X; +nabāṭu[be(come) bright//shining]V'N$ +.; +naqāru[demolish]V$inaqqarma; +naqāru[demolish]V$inaqqarma +.; +naqāru[demolish//demolishing]V'N$; +naqāru[demolish//demolishing]V'N$naqāri +.
+
+#note: The purpose of the two otherwise unattested equations of SU is to explain the lunar phenomenon described in the protasis of the basis text, which is cited in the previous line, as meaning "of the Moon's horns are shining." The protasis's description of the Moon's horns as "bent" may have been problematic for the commentator because the Moon's horns are always curved, to a greater or lesser extent, although of course the same could be said of the Moon shining! The writing of @i{kibsu} as @akk{kib-su} mitigates against interpreting it as the little attested word @i{kipṣu}, "curved shape," but the commentator obviously nevertheless thought that @i{kibsu} could be connected with the verbal root k-p-ṣ. The words @i{kabāsu} and @i{nabāṭu} are well attested in the lexical tradition, and so it is surprising that this commentary is the only place where the equation of these words with SU is found. Perhaps the commentator made the equation of SU with @i{kibsu} himself, on the basis that SU can be read KUŠ, which resembles the logogram for @i{kibsu}, KI.UŠ. The subsequent equations in this line seem to refer to the words @i{ina}-GUL-@i{ma} and IR.PAG in the omen's apodosis, which, unlike the protasis, is not cited in full. As noted by Hunger (1995: 114), the commentary interprets @i{ina}-GUL-@i{ma} as a mixed syllabo-lographic writing; the verb @i{nagālu}, "to glisten," seems incongruous in this context, which speaks against interpreting the word as wholly syllabically written. As also noted by Hunger (1995: 118), the equation of GUL with @i{naqāru} is elsewhere found in the lexical list Antagal III 199.
+
+18. !cm GUL : a-ba-tu₄ : !bs IR.PAG :  !cm ik-pu-du : IR.PAG : ka-pa-du : IR.PAG
+#lem: +abātu[destroy//destroying]V'N$; +abātu[destroy//destroying]V'N$ +.; X; ikpudū[plot]V +.; X; +kapādu[plan//plotting]V'N$ +.; X
+
+#note: As noted by Hunger (1995: 118), the equation of GUL with @i{abātu} is frequently attested elsewhere, for example in the lexical list Sb II 336. As also noted by Hunger (1995: 118), the logogram IR.PAG is also equated with @i{kapādu} in the lexical list Nabnitu IV 112. In the following line (l. 19), the logogram is treated as though it has an Akkadian root. 
+
+19. !cm e-me-e-ri : ir-hu : ha-an-ṭu : aš-šum ur-ru-hu : ha-ma-ṭu
+#lem: +emēru[swell//swelling]V$Nemēri +.; X; +hamṭu[quick//hasty]AJ$hanṭu; aššum[because]SBJ; +arāhu[hasten//speeding up]V'N$urruhu; +hamāṭu[hasten//hastening]V'N$ +.
+
+20. !bs * SI-MEŠ-šu₂ nen-mu-du !cm : AN u dele-bat ina SI-MEŠ-šu₂ GUB-MEŠ-ma : !bs ILLAT-MEŠ !cm : pu-uh-ri
+#lem: qarnātušu[horn]N; +nenmudu[touching]AJ$nenmudū; Ṣalbatanu[Mars]CN; u[and]CNJ; Delebat[Venus]CN; ina[in]PRP; qarnātišu[horn]N; izzazzūma[stand]V +.; +illatu[band//group]N$illātu; puhri[assembly]N +.
+
+21. !bs mas-su₃-u !cm : a-ša₂-re-du : MIN<(mas-su₃-u)> : a-lik mah-ri : !bs * SI-MEŠ-šu₂ ke-pa-a 2 GIŠ.HUR NIGIN-MEŠ <<:>>
+#lem: +massû[leader]N$; +ašarēdu[pre-eminent one]N$ +.; massû[leader]N; ālik[goer]N; mahri[front]N +.; qarnātušu[horn]N; +kepû[bent back]AJ$kepâ; n; +uṣurtu[(cruciform halo)]N$uṣurāti; +lawû[surrounded]AJ$lawâ +.
+
+22.  !cm U₄ 1-KAM ša₂-ru-ru IL₂-ma u 2 GIŠ.HUR NIGIN₂-ma : !bs * SI-MEŠ-šu₂ GIŠ.HUR NIGIN-MEŠ <<:>>
+#lem: ūm[day]N; n; šarūru[brilliance]N; +našû[lifted//imbued]AJ$našima; u[and]CNJ; n; uṣurāti[(cruciform halo)]N; +lawû[surrounded]AJ$lamâma +.; qarnātušu[horn]N; uṣurta[(cruciform halo)]N; lawâ[surrounded]AJ
+
+23.  !cm U₄ 1-KAM U₄ 14-KAM GIŠ.HUR NIGIN₂-ma : ša₂-niš a-di la AN.GE₆ GIŠ.HUR NIGIN₂-ma : la₃ DU₃ 
+#lem: ūm[day]N; n; ūm[day]N; n; uṣurta[(cruciform halo)]N; lamima[surrounded]AJ +.; šanîš[alternatively]AV; adi[until]PRP; lā[not]MOD; attallê[eclipse]N; uṣurta[(cruciform halo)]N; lamima[surrounded]AJ +.; lā[not]MOD; +banû[built?//created?]AJ$bani +.
+
+#note: The implication of !akk{la₃ DU₃}, if this is the correct reading of these two signs, is unclear in this context. 
+
+24. !cm {d}UDU.IDIM-MEŠ KI.TA 30 GUB-MEŠ-ma SIG₅ : MUL₃ GAL KI.TA 30 GUB-ma lum-nu
+#lem: +bibbu[planet]N$bibbū; +šaplu[underside//below]N'PRP$šapal; Sin[1]DN; izzazzūma[stand]V; dumqu[goodness]N +.; +kakkabu[star]N$; rabû[great]AJ; šapal[below]'PRP; Sin[1]DN; izzazma[stand]V; lumnu[evil]N +.
+
+#note: As noted by Hunger (1995: 24), "large star" probably means "Jupiter" in this context because a meteor (also called "large star" in Akkadian) would probably not be said to "stand."
+
+25. !bs * SI-MEŠ-šu₂ DAR₄-MEŠ {mul}SIPA.ZI.AN.NA ana IGI-šu₂ GUB !cm : U₄ 1-KAM GENNA ina DUNGU
+#lem: qarnātušu[horn]N; +daʾmu[dark]AJ$daʾmā; Šitaddaru[Orion]CN; ana[at]PRP; pānišu[front]N; izziz[stand]V; ūm[day]N; n; Kayyamanu[Saturn]CN; ina[in]PRP; +erpetu[cloud]N$erpeti
+
+#note: For the association of Saturn with darkness see above ad o 10.
+
+26. !cm KI-[šu₂] GUB-ma !cm : {mul₃}SIPA.ZI.AN.NA ana tar-ṣi-šu₂ ana u₄-me E₁₁-ma : !bs * dele-bat
+#lem: ittišu[with]PRP; izzazma[stand]V +.; Šitaddaru[Orion]CN; ana[to+=opposite]PRP; +tarṣu[extent]N$tarṣišu; ana[to+=rise acronychally]PRP; ūme[day]N; +elû[go up]V$illima +.; Delebat[Venus]CN
+
+#note: Is this an instance of a second explanation that is for some reason not introduced by @i{šanîš}? For discussion of the meaning of the phrase @i{ana ūmi elû}, "to rise acronychally," see Hunger (1995: 115).
+
+27. !bs ina# SI# 15-šu₂ ŠUR-ma a-mi-ru IGI !cm : U₄ 1-KAM dele-bat ŠU₂-ma : !bs a-mi-ru IGI !cm ša₂ iq-bu-u
+#lem: ina[in]PRP; qaran[horn]N; imittišu[right]N; iṣrurma[flash]V; +āmiru[seer//observer]N$; īmur[see]V +.; ūm[day]N; n; Delebat[Venus]CN; irbima[set]V +.; āmiru[observer]N; immar[see]V; ša[that]REL; iqbû[say]V
+
+28. !cm aš-šum 30 ina u₄-me IGI : !bs la₃ GEŠTU₂{+su} !cm : la ha-as-su : !bs KUR-su ša₂ HUL{+ti₃} TUŠ{+ab}
+#lem: aššum[because]SBJ; Sin[1]DN; ina[in]PRP; ūme[day]N; +amāru[see//be(come) visible]V$innammar +.; lā[not]MOD; +hassu[clever//wise]AJ$; lā[not]MOD; +hassu[clever//wise]AJ$ +.; +mātu[land]N$māssu; ša[of]DET; +šalputtu[ruination]N$šulputti; uššab[dwell]V
+
+#note: As noted by Hunger (1995: 118), the equation of GEŠTU₂ with @i{hassu} is elsewhere attested in the lexical list Antagal C 44. From this equation on, the commentarial entry seems to be concerned with the apodosis of the omen, which is not quoted here in full.
+
+29. !cm KUR-su ša₂ šu-ul-pu-ta-at uš-ša₂-ab : !bs * U₄.DA-su ek-let !cm : U₄ 1-<KAM> TUR-ma
+#lem: māssu[land]N; ša[of]DET; +šulputu[defiled//ruined]AJ$šulputat; +wašābu[sit (down)//dwell]V$uššab +.; ṣēssu[light]N; +eklu[dark//dim]AJ$eklet; ūm[day]N; n; +ṣehru[small]AJ$ṣehirma +.
+
+30. !bs * U₄.DA ITI-šu₂ ma-gal i-nam-bu-uṭ !cm : U₄ 1-KAM dele-bat ina ITI EN.NUN IGI-ma
+#lem: +ṣētu[light]N$ṣēt; +warhu[month//first day of month]N$arhišu; magal[greatly]AV; +nabāṭu[be(come) bright//shine]V$innambuṭ +.; ūm[day]N; n; Delebat[Venus]CN; ina[in]PRP; arah[month]N; maṣṣarti[watch]N; innamirma[appear]V +.
+
+#note: For discussion of Venus's radiance-inducing properties when it nears constellations, see Brown (2000: 92 n. 229). 
+
+31. !cm ša₂-niš ar₂-ki ni-di-i-tu₄ KUR : AN u dele-bat TE-šu₂-ma : !bs LUGAL KUR ŠUB{+ta} TUŠ{+eb}
+#lem: šanîš[alternatively]AV; arki[after]PRP; +nidītu[waste plot//(an astronomical term)]N$; +napāhu[blow//rise]V$ippuh; Ṣalbatanu[Mars]CN; u[and]CNJ; Delebat[Venus]CN; iṭehhešuma[approach]V +.; šarru[king]N; māta[land]N; +nadû[placed//abandoned]AJ$nadīta; +wašābu[sit (down)//settle]V$ušeššeb
+
+#note: Elsewhere @i{nidītu} means "un-built up land," and so Hunger (1995: 110) translates it here as "a place empty of stars" (eine sternleere Stelle). The phrase LUGAL KUR ŠUB-@i{ta} TUŠ-@i{eb} probably comes from the omen's apodosis.
+
+32. !cm LUGAL KUR na-di-tu₄ u₂-še-eš-šeb : !bs * a-dir <<:>> ina EN.TE.NA ina DUNGU IGI-ma
+#lem: šarru[king]N; māta[land]N; +nadû[placed//abandoned]AJ$nadītu; +wašābu[sit (down)//settle]V$ušeššeb +.; adir[dark]AJ; ina[in]PRP; kūṣi[winter]N; ina[in]PRP; erpeti[cloud]N; innammarma[appear]V +.
+
+#note: As Hunger (1995: 115) notes, his emendation of @i{a-dir} is supported by @i{ACh 2 Suppl 1a} 3: 27. 
+
+33. !bs EME BAR{+tu₄} !cm : li-ša₂-nu a-hi-tu₄ : !bs * U₄.DA-su gal-ta-at !cm : U₄ 1-KAM GENNA
+#lem: +lišānu[tongue//language]N$; +ahû[outside//foreign]AJ$ahītu; +lišānu[tongue//language]N$; +ahû[outside//foreign]AJ$ahītu +.; ṣēssu[light]N; +galtu[fearful//fearsome]AJ$galtat; ūm[day]N; n; Kayyamanu[Saturn]CN
+
+34. !bs [u] GU₄#.U₄ TE-šu₂-ma E₃ !bs IRI KUR₂ KUR{+ad} !cm : {d}ṣal-bat-a-nu TE-šu₂-ma : ša₂-niš
+#lem: u[and]CNJ; Šihṭu[Mercury]CN; iṭehhešuma[approach]V; +wāṣītu[that which goes out//expeditionary force]N$āṣītu; āla[city]N; +nakru[strange//hostile]AJ$nakra; +kašādu[reach//conquer]V$ikaššad +.; Ṣalbatanu[Mars]CN; iṭehhešuma[approach]V; šanîš[alternatively]AV
+
+#note: The basis for the explanation "on the first day Saturn [and] Mercury approach it" may be the (observational) association of darkness with the proximity of these two planets (Brown 2000: 68); dimness of a celestial body's light is usually a bad ominous sign, and for this reason the phrase U₄.DA-@i{su} @i{galtat} could well have been interpreted as a way of saying that the Moon shone dimly. As Hunger (1995: 115) notes, E₃ IRI KUR₂ KUR-@i{ad} can also be translated as "an expeditionary force which exits a city will conquer the enemy." 
+
+35. !cm [ina] {mul₃#}UR.GU.LA AN.GE₆ GAR-ma !cm : e-tel-lu {d}la-ta-ra-ak# ša₂ ṣi-i-tu₄
+#lem: ina[in]PRP; +Urgulu[Lion]CN$; attallû[eclipse]N; iššakkanma[take place]V; etellu[lord]N; La-tarak[1]DN; ša[of]DET; +ṣītu[exit]N$ṣītū +.
+
+#note: See Hunger (1995: 115) for secondary literature discussing  La-tarak, a protective spirit in the form of a lion. It is unclear how the phrase "the lord La-tarak of the @i{exits}" should be understood in this context; the epithet "of the exits" is not otherwise attested with La-tarak, but it may be mentioned here because of a perceived connection with E₃ (@i{āsītu}), "expeditionary force," which appears in the apodosis cited in the previous line.
+
+36. !bs [*] TUR₃ NIGIN₂-ma MUL₃ !cm <<:>> {d}AMAR.UTU ina ŠA₃-šu₂ GUB !cm : du-un-qu u lum-nu ša₂# [E?]{+u}
+#lem: tarbaṣa[lunar halo]N; lamima[surrounded]AJ; +kakkabu[star]N$kakkab; Marduk[1]DN; ina[in]PRP; libbišu[interior]N; izzaz[stand]V +.; +dumqu[goodness]N$dunqu; ū[or]CNJ; lumnu[evil]N; ša[that]REL; +qabû[say//predict]V$iqbû
+
+#note: "Star of Marduk" = Jupiter? (Brown 2000: 64-65).
+
+37. !cm MUL₃ {d}AMAR.UTU i-ba-ʾi-il₃ AN.TA 30 GUB-ma : SIG₅ : un-nu#-[ut]
+#lem: kakkab[star]N; Marduk[1]DN; +baʾālu[be(come) dominant//be(come) abnormally bright]V$ibaʾʾil; +eli[on//above]PRP$; Sin[1]DN; izzazma[stand]V; dumqu[goodness]N +.; +unnutu[faint]AJ$unnut
+
+38. !cm KI.TA# 30 GUB-ma lum-nu : ša₂-niš an UGU ša₂ EN.TE.NA u AMA-MEŠ [...]
+#lem: šapal[below]N'PRP; Sin[1]DN; izzazma[stand]V; lumnu[evil]N +.; šanîš[alternatively]AV; an[to+=concerning]PRP; muhhi[skull]N; ša[of]DET; kūṣi[winter]N; u[and]CNJ; +ummu[heat//summer]N$ummāti; u +.
+
+#note: As noted by Hunger (1995: 116), it is possible that the last word in the line is broken away; the tentative restoration of @i{qa-bi} as the now lost word follows Hunger.
+
+@reverse
+1. !bs * TUR₃ NIGIN₂-ma {mul}GU.LA ina ŠA₃-šu₂ GUB !cm : MUL₃ GAL ina {mul₃}GU.LA [GUB?]
+#lem: tarbaṣa[lunar halo]N; lamima[surrounded]AJ; X; ina[in]PRP; libbišu[interior]N; izziz[stand]V +.; kakkabu[star]N; rabû[great]AJ; ina[in]PRP; X; u +.
+
+#note: The restoration of GUB at the end of the line follows Hunger (1995: 111). "Great One" (@akk{{mul₃}GU.LA}) = the constellatio Aquarius (the Akkadian reading is unknown). "A large star" = Jupiter or a meteor (Hunger 1995: 116; Brown 2000: 59).
+
+2. !bs si-ip-hi !cm : li-la-a-tu₄ : ŠU₂ : si-ip-hi : ŠU₂ : e-re-bi ša₂ {d#}[UTU{ši}]
+#lem: +siphu[dusk?]N$siphi; +līliātu[evening]N$līlâtu +.; +rību[setting//sunset]N$; siphi[dusk?]N +.; rību[sunset]N; +erēbu[enter//setting]V'N$erēbi; ša[of]DET; +šamšu[sun]N$šamši +.
+
+#note: Hunger (1995: 116) supports the proposal, first made by Weidner (1941: 315 n. 136) and advanced by CAD S ad siphu B, that the word @akk{si-ip-hi} may represent - or have been understood by the commentator as representing - a metathesis of @i{sihpu}, "extent, cover" (?), since the equation of ŠU₂ with @i{sahāpu} is attested in the lexical tradition.
+
+3. !bs BAD₅.BAD₅ SIG₃{+aṣ} !cm : di-ik-tu₄  id-da-a-ka : !bs * TUR₃ NIGIN₂-ma MUL GAL#
+#lem: dabdû[defeat]N; +mahāṣu[beat//inflict]V$immahhaṣ; +dīktu[fighting//massacre]N$; +dâku[kill//massacre]V$iddâkka +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; kakkabu[star]N; rabû[great]AJ
+
+4. !bs ina ŠA₃-šu₂ GUB !cm : MUL₃ GAL ina {mul₃}LU₂.HUN.GA₂ ina TUR₃ 30 GUB-ma : !bs * TUR₃ [NIGIN₂]-ma
+#lem: ina[in]PRP; libbišu[interior]N; izziz[stand]V +.; kakkabu[star]N; rabû[great]AJ; ina[in]PRP; +Agru[Hireling]CN$; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ
+
+#note: "Hired Man" = the constellation Aries.
+
+5. !bs {mul}U₄.KA.DU₈.A ina ŠA₃-šu₂ GUB !cm : AN ina {mul₃}GU.LA ina TUR₃ 30 GUB-ma#
+#lem: Nimru[Leopard]CN; ina[in]PRP; libbišu[interior]N; izziz[stand]V; Ṣalbatanu[Mars]CN; ina[in]PRP; X; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V +.
+
+#note: "Panther" = the constellation Cygnus. As noted by Hunger (1995: 116), the planet Mars is equated with the Panther in ŠL 4/2 no. 144 III.
+
+6. !bs a-na 1 DANNA₂ ŠEG₃ i-har-ru-up !cm : a-na ru-u₂-qu ŠEG₃ ib-bat-taq
+#lem: ana[by]PRP; n; +bēru[unit]N$; zunnu[rain]N; +harāpu[be(come) early]V$iharrup +.; ana[at]PRP; rūqu[distance]N; zunnu[rain]N; +batāqu[cut off]V$ibbattaq +.
+
+7. !cm ha-ra-pu : na-ka-su : ha-ra-pu : ba-ta-qu : !bs * 30 ina {iti}ŠE U₄ 1-KAM
+#lem: +harāpu[be(come) early//be(com)ing early]V'N$; +nakāsu[cut//cutting]V'N$; harāpu[be(com)ing early]V'N; +batāqu[cut off//cutting off]V'N$ +.; Sin[1]DN; ina[in]PRP; Addaru[1]MN; ūm[day]N; n
+
+#note:  As noted by Hunger (1995: 116), the commentary's explanation of the phrase "the rain will be early by one double-hour" is based on the fact that @i{harāpu} I (u/u) means "to be early" whereas @i{harāpu} II (i/i) means "to cut off."
+
+8. !bs ina IGI.LA₂-šu₂ TUR₃ NIGIN₂-ma dele-bat ina ŠA₃-šu₂ GUB !cm : U₄ 1-KAM 30 ina KI {mul₃}HUN.GA₂ / TUR₃ NIGIN₂-ma
+#lem: ina[in]PRP; tāmartišu[appearance]N; tarbaṣa[lunar halo]N; lamâma[surrounded]AJ; Delebat[Venus]CN; ina[in]PRP; libbišu[interior]N; izziz[stand]V; ūm[day]N; n; Sin[1]DN; ina[in]PRP; +ašru[place//region]N$ašar; +Agru[Hireling]CN$; tarbaṣa[lunar halo]N; lamâma[surrounded]AJ
+
+9. !cm u dele-bat ina ŠA₃ TUR₃ GUB-ma : ina ŠA₃ ter-tu₄ iq-bi : !bs * TUR₃ NIGIN₂-ma
+#lem: u[and]CNJ; Delebat[Venus]CN; ina[in]PRP; libbi[interior]N; tarbaṣi[lunar halo]N; izzazma[stand]V +.; ina[in]PRP; +libbu[interior//concern]N$libbi; têrtu[omen]N; iqbi[say]V +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ
+
+10. !bs {mul₃}zi-ba-ni-tu₄ ŠUR-ma ina ŠA₃-šu₂ GUB !cm : GENNA i-ba-ʾi-il₃ ina TUR₃ 30 GUB
+#lem: +Zibanitu[Scales]CN$; iṣrurma[flash]V; ina[in]PRP; libbišu[interior]N; izziz[stand]V; Kayyamanu[Saturn]CN; ibaʾʾil[be(come) abnormally bright]V; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzaz[stand]V +.
+
+#note: As noted by Hunger (1995: 116), Saturn ("Regular One" in Akkadian) is also equated with the constellation Libra ("Scales" in Akkadian) elsewhere. For the rational behind the association of Saturn and Libra, see Brown (2000: 70).
+
+11. !cm ṣa-ra-ri : ra-bu-u ša₂ ba-a-lu : !bs * TUR₃ NIGIN₂-ma ka-bar u šu-par-ru-ru
+#lem: +ṣarāru[flash//flashing]V'N$ṣarāri; +rabû[be(come) big//increasing]V'N$; ša[of]DET; +baʾālu[be(come) dominant//be(com)ing abnormally bright]V'N$ +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; kabar[thick]AJ; u[and]CNJ; šuparruru[spread out]AJ
+
+#note: As noted by Hunger (1995: 116), the protasis "If it is surrounded by a lunar halo, and it is thick and spread out" is also the incipit of Tablet IX of @i{Enūma Anu Enlil}.
+
+12. !bs U₄ 1-KAM TUR₃ NIGIN₂-ma ka-bar u rab-ṣu# !cm : DIRI : na-par-ru₃-ru₃ : DIRI : še-ṭu-u₂
+#lem: ūm[day]N; n; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; kabar[thick]AJ; u[and]CNJ; +rabṣu[recumbent]AJ$ +.; +parāru[be(come) dissolved//be(com)ing scattered]V'N$naparruru; +parāru[be(come) dissolved//be(com)ing scattered]V'N$naparruru +.; +šeṭû[spread out//spreading out]V'N$; +šeṭû[spread out//spreading out]V'N$ +.
+
+#note: The first explanation seems to be a long-winded means of equating @i{šuparruru}, "to spread out," with @i{rabṣu}, "recumbent."
+
+13. !bs * TUR₃ NIGIN₂-ma {mul₃}GIR₂.TAB ina ŠA₃-šu₂ GUB !cm : U₄ 1-KAM TUR₃ NIGIN₂-ma {mul₃}GIR₂.TAB ana tar-ṣi-šu₂
+#lem: tarbaṣa[lunar halo]N; lamima[surrounded]AJ; Zuqaqipu[Scorpion]CN; ina[in]PRP; libbišu[interior]N; izziz[stand]V +.; ūm[day]N; n; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; Zuqaqipu[Scorpion]CN; ana[to+=opposite]PRP; tarṣišu[extent]N
+
+#note: "Scorpion" = the constellation Scorpio.
+
+14. !cm ana u₄-me E₁₁-ma : !bs * TUR₃ NIGIN₂-ma {mul₃}ŠUDUN u MUL.MUL ina ŠA₃-šu₂ GUB-MEŠ
+#lem: ana[to+=rise acronychally]PRP; ūme[day]N; illima[go up]V +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; +Niru[Yoke]CN$; u[and]CNJ; Zappu[Bristle]CN; ina[in]PRP; libbišu[interior]N; izzizzū[stand]V +.
+
+#note: "Yoke" = the constellation Booetes. "Stars" = the constellation Pleiades. As noted by Hunger (1995: 116), both constellations in this protasis are treated separately in @i{ACh 2 Suppl} 1a, in IV 18 and IV 26.
+
+15. !cm U₄ 1-KAM 30 ina MUL₃.MUL₃ {mul₃}GU₄.AN.NA TUR₃ NIGIN₂-ma u {d}SAG₃.ME.GAR ina ŠA₃ TUR₃# GUB-ma
+#lem: ūm[day]N; n; Sin[1]DN; ina[in]PRP; +Zappu[Bristle]CN$; X; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; u[and]CNJ; X; ina[in]PRP; libbi[interior]N; tarbaṣa[lunar halo]N; izzazma[stand]V +.
+
+#note: "Bull of Heaven" = the constellation Taurus.
+
+16. !cm {d}SAG₃.ME.GAR ina {mul₃}GU₄.AN.NA : {mul₃}ŠUDUN MU-šu₂ : !bs * SI-MEŠ-šu₂ ud-du-da#-ma# SU₃-MEŠ
+#lem: X; ina[in]PRP; X; Niru[Yoke]CN; šumšu[name]N +.; qarnātušu[horn]N; uddudāma[very pointed]AJ; +pelû[(light) red]AJ$pelâ +.
+
+#note: As noted by Hunger (1995: 116), the constellation "Yoke" is equated with Jupiter in ŠL 4/2 no. 379. As also noted by Hunger (1995: 116), the protasis at the end of the line appears in @i{LBAT} 1530 r 8, albeit with @akk{ed-du} instead of @akk{ud-du-da}.
+
+17. !cm U₄ 1-KAM U₄ 14-KAM ina DUNGU pe-li-tu₄ IGI-ma : SU₃ : pe-lu-u₂
+#lem: ūm[day]N; n; ūm[day]N; n; ina[in]PRP; erpeti[cloud]N; +pelû[(light) red]AJ$pelītu; innammarma[appear]V +.; +pelû[(light) red]AJ$; +pelû[(light) red]AJ$ +.
+
+#note: To date, this seems to be the only attested equation of SU₃ with @i{pelû}.
+
+18. !bs * 1 MUL MU₂{+uh} !cm : U₄ 1-KAM ina ŠA₃ <<ina ŠA₃>> {d}UDU.IDIM-MEŠ IGI-ma : ša₂-niš MUL₂ <ana> ŠA₃-šu₂
+#lem: n; kakkabu[star]N; +napāhu[blow//rise]V$ippuh +.; ūm[day]N; n; ina[in]PRP; libbi[interior]N; bibbī[planet]N; innammarma[appear]V +.; šanîš[alternatively]AV; +kakkabu[star]N$; ana[into]PRP; libbišu[interior]N
+
+19. !cm KU₄-ma : {mul₂}LU₂.HUN.GA₂ : {d}30 : ina ŠA₃ ŠEŠ.UNUG{ki} iq-bi : !bs * 30 ina IGI.LA₂-šu₂
+#lem: irrubma[enter]V +.; +Agru[Hireling]CN$; Sin[1]DN +.; ina[in]PRP; libbi[interior]N; Ur[1]SN; iqbi[say]V +.; Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N
+
+20. !bs TUR₃ NIGIN₂ !cm : lu ina U₄ 1-KAM lu ina U₄ 14-KAM ina E₁₁ u₄-me ša₂ AMA-MEŠ TUR₃
+#lem: tarbaṣa[lunar halo]N; lami[surrounded]AJ +.; lū[either]CNJ; ina[on]PRP; ūm[day]N; n; lū[or]CNJ; ina[on]PRP; ūm[day]N; n; ina[at]PRP; +elû[go up]V$elē; ūme[day]N; ša[of]DET; ummāti[summer]N; tarbaṣa[lunar halo]N
+
+21. !cm NIGIN₂-ma : !bs * TUR₃ MUL-MEŠ NIGIN !cm : lu ina 1(IKU){gana₂} : lu ina KUN-ME MUL x $NU NIGIN₂-ma
+#lem: lamima[surrounded]AJ +.; tarbaṣ[lunar halo]N; kakkabī[star]N; ilmi[surround]V +.; lū[either]CNJ; ina[in]PRP; +Iku[Field]CN$; lū[or]CNJ; ina[in]PRP; +Zibbatu[Tails]CN$; kakkab[star]N; u; X; lamima[surrounded]AJ +.
+
+#note: "Field" = parts of the constellations Pegasus and Andromeda. 
+
+22. !bs * TUR₃ {d}TIR.AN.NA NIGIN₂ !cm : ana UGU AMA-MEŠ u EN.TE.NA qa-bi
+#lem: tarbaṣ[lunar halo]N; Manzat[Rainbow]DN; lami[surrounded]AJ +.; ana[on]PRP; muhhi[account]N; ummāti[summer]N; ū[or]CNJ; kūṣi[winter]N; +qabû[said]AJ$qabi +.
+
+#note: As pointed out by S. Thavapalan (pers. comm.), the phrase "lunar halo of a rainbow" could refer to an arc-shaped lunar halo, i.e. a "circumscribed" lunar halo.
+
+23. !bs * TUR₃ MURU₉ NIGIN₂ !cm : ina MURU₉ TUR₃ NIGIN₂-ma : BI₂.ZA.ZA : mu-ṣa-ʾi-ir-ra-nu
+#lem: tarbaṣ[lunar halo]N; +imbaru[fog]N$imbari; lami[surrounded]AJ +.; ina[in]PRP; imbari[fog]N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ +.; +muṣaʾʾirānu[frog]N$; +muṣaʾʾirānu[frog]N$muṣaʾʾirrānu +.
+
+#note: In addition to a parallel with @i{LBAT} 1530 r 10, Hunger (1995: 117) notes that the protasis in this line may also be paralleled in @i{ACh 2 Suppl} 1a IV 3: see Hunger ad loc for further literature. The phenomenon of frogs falling from the sky also appears in an omen of @i{Šumma ālu} (CT 38 8: 39).
+
+24. !bs * TUR₃ me-he-e NIGIN₂ !cm : U₄ 1-KAM TUR₃ NIGIN₂-ma u me-he-e GUB-ma
+#lem: tarbaṣ[lunar halo]N; mehê[storm wind]N; lami[surrounded]AJ +.; ūm[day]N; n; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; u[and]CNJ; mehê[storm wind]N; izzazma[stand]V +.
+
+25. !bs * TUR₃ tal-lak-tu₃ DINGIR NIGIN₂ !cm : U₄ 1-KAM TUR₃ NIGIN₂-ma {d}IŠKUR GU₃-šu₂ ŠUB-ma
+#lem: tarbaṣ[lunar halo]N; +tallaktu[walkway//path]N$; ili[god]N; lami[surrounded]AJ +.; ūm[day]N; n; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; Adad[1]DN; rigimšu[voice]N; inaddima[raise]V +.
+
+#note:  "Adad will raise his voice," i.e. there will be thunder. As noted by @i{CAD} T 98b, the two texts @i{ACh Supp} 2 1 iv 11 and @i{LBAT} 1530 r 12 both offer parallels to this protasis. The @i{ACh} text contains @akk{tal₂-lak-ti} DINGIR-MEŠ, "course of the gods" rather than "course of the god." As noted by Hunger (1995: 217), @i{LBAT} 1530 r 12 offers a similar explanation for the same omen, namely that "Adad will thunder during an eclipse."
+
+26. !cm : ša₂-niš MUL har-ra-nu ša₂ {d}UDU.IDIM-MEŠ KI-šu₂ la₃ GUB-MEŠ ina ŠA₃ TUR₃ NIGIN₂-ma
+#lem: šanîš[alternatively]AV; kakkabu[star]N; +harrānu[path]N$; ša[which]REL; bibbū[planet]N; ittišu[with]PRP; lā[not]MOD; izzazzū[stand]V; ina[in]PRP; libbi[interior]N; tarbaṣi[lunar halo]N; lamima[surrounded]AJ +.
+
+#note: Hunger (1995: 217) considers NIGIN₂, "will be surrounded (by)," at the end of the line to be a mistake for GUB, "will stand (inside)."
+
+27. !bs * TUR₃ NIGIN₂-ma {d}ŠUL.PA.E₃.A ina ŠA₃-šu₂ GUB !cm : {d}SAG₃.ME.GAR ina {mul₃}ALLA lu
+#lem: tarbaṣa[lunar halo]N; lamima[surrounded]AJ; Šulpae[1]DN; ina[in]PRP; libbišu[interior]N; izziz[stand]V +.; X; ina[in]PRP; +Alluttu[Crab]CN$; lū[or]CNJ
+
+#note: "Šulpae" (lit. "Lord of the Bright Rising") = the name of Jupiter at its heliacal rising in the east (Koch-Westenholz 1995: 120). "Crab" = the constellation Cancer.
+
+28. !cm ina {mul₃}ŠU.GI ina TUR₃ 30 GUB-ma : !bs MUNUS-MEŠ GURUŠ TUKU-MEŠ !cm : dele-bat ina {mul₃}UR.A#
+#lem: ina[in]PRP; +Šibu[Old Man]CN$; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V +.; +sinništu[woman]N$sinnišātu; +eṭlu[young man]N$eṭla; +rašû[acquire]V$iraššā +.; Delebat[Venus]CN; ina[in]PRP; +Nešu[Lion]CN$
+
+#note: "Old Man" = the constellation Perseus, "Lion" = Leo.
+
+29. !cm lu ina {mul₃}AB.SIN₂ lu ina {mul₃}GIR₂.TAB ina TUR₃ 30 GUB-ma : GURUŠ : ga-ra-šu₂
+#lem: lū[or]CNJ; ina[in]PRP; +Šerʾu[Furrow]CN$; lū[or]CNJ; ina[in]PRP; Zuqaqipu[Scorpion]CN; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V; eṭlu[young man]N; +garāšu[move towards//copulating]V'N$
+
+#note: "Furrow" = the constellation Virgo, "Scorpion" = Scorpio.
+
+30. !cm na-a-ku : !bs * TUR₃ NIGIN₂-ma 1(IKU){gana₂} ina ŠA₃-šu₂ GUB !cm : AN ša₂-niš GU₄.U₄ ina {mul₃}HUN.GA₂
+#lem: +niāku[have sexual intercourse with//having sexual intercourse with]V'N$nâku +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; n; ina[in]PRP; libbišu[interior]N; izziz[stand]V; Ṣalbatanu[Mars]CN; šanîš[alternatively]AV; Šihṭu[Mercury]CN; ina[in]PRP; +Agru[Hireling]CN$
+
+#note: "Field" = parts of the constellations Pegasus and Andromeda. "Hired Man" = the constellation Aries.
+
+31. !cm ina TUR₃ 30 GUB-MEŠ-ma : !bs ŠU.ZI !cm : na-ad-ri : MIN<(ŠU.ZI)> : še-gu-u₂
+#lem: ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazzūma[stand]V +.; +nadru[wild]AJ$; +nadru[wild]AJ$nadri +.; +šegû[wild//aggressive]AJ$; +šegû[wild//aggressive]AJ$ +.
+
+32. !bs NIM-MEŠ !cm : har-pa-a-tu₄ : NIM : har-pu : !bs uš-tah-ha-a !cm : aš-šum re-hu-u₂
+#lem: +harpu[early]AJ$harpātu; +harpu[early]AJ$harpātu +.; harpu[early]AJ; harpu[early]AJ +.; +šuhhû[have (illicit) sexual intercourse//be raped]V$uštahhâ; aššum[because]SBJ; +rehû[pour out//having sexual intercourse with]V'N$
+
+33. !cm na-a-ku : !bs * TUR₃ NIGIN₂-ma šu-ku-du ina ŠA₃-šu₂ GUB !cm : šil-ta-hu PA.BIL.SAG
+#lem: nâku[having sexual intercourse with]V'N +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; +Šukudu[Arrow]CN$; ina[in]PRP; libbišu[interior]N; izziz[stand]V +.; šiltāhu[arrow]N; +Pabilsag[]CN$
+
+#note: As noted by Hunger (1995: 117), the commentary erroneously derives @i{uštahhû} from @i{rehû}, presumably because of the change r > š before t in NB and LB (see GAG para. 35 c). "Pabilsag" = the constellation Sagittarius.
+
+34. !cm ina TUR₃ 30 GUB-ma : !bs * TUR₃ NIGIN₂-ma {d}UDU.IDIM ina ŠA₃-šu₂ GUB !cm : AN ina {mul₃}UR.A
+#lem: ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; bibbu[planet]N; ina[in]PRP; libbišu[interior]N; izziz[stand]V; Ṣalbatanu[Mars]CN; ina[in]PRP; Nešu[Lion]CN
+
+35. !cm lu ina {mul₃}GU₄.AN.NA ina TUR₃ 30 GUB-ma : !bs SUG.ZI !cm : aš-šum GANA₂{+na} ZI :
+#lem: lū[or]CNJ; ina[in]PRP; X; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V +.; +appāru[reed-bed]N$appār; aššum[because]SBJ; +eqlu[field]N$eqel; X
+
+#note: "Bull of Heaven" = the constellation Taurus.
+
+36. !cm me-re-šu₂ : !bs * bi-ib-bu ina ŠA₃-šu₂ GUB !cm : AN ša₂-niš GU₄.U₄ ina {mul₃}UR.A ina TUR₃
+#lem: +mērešu[cultivated land]N$ +.; bibbu[planet]N; ina[in]PRP; libbišu[interior]N; izziz[stand]V; +Ṣalbatanu[Mars]CN$; šanîš[alternatively]AV; Šihṭu[Mercury]CN; ina[in]PRP; Nešu[Lion]CN; ina[in]PRP; tarbaṣ[lunar halo]N
+
+37. !cm 30 GUB-ma : !bs * {mul}ELLAG₂ KI.MIN {mul₃}KU₆ ina ŠA₃-šu₂ GUB !cm : AN ina {mul₃}GU.LA 
+#lem: Sin[1]DN; izzazma[stand]V +.; Kalitu[Kidney]CN; šanîš[alternatively]AV; +Nunu[Fish]CN$; ina[in]PRP; libbišu[interior]N; izziz[stand]V; Ṣalbatanu[Mars]CN; ina[in]PRP; X +.
+
+#note: "Kidney" = the constellation Canopus. "Fish" = the constellation Piscis Austrinis. "Great One" = the constellation Aquarius.
+
+38. !cm ša₂-niš ina {mul₃}SUHUR.MAŠ ina TUR₃ 30 GUB-ma : ša₂-niš ka-a-a-nu : !bs * TUR₃ NIGIN₂-ma
+#lem: šanîš[alternatively]AV; ina[in]PRP; +Suhurmašu[Goatfish]CN$; ina[in]PRP; tarbaṣ[lunar halo]N; Sin[1]DN; izzazma[stand]V; +šanîš[alternatively]AV; +kayyānu[constant//normal]AJ$ +.; tarbaṣa[lunar halo]N; lamima[surrounded]AJ
+
+#note: "Goat-Fish" = the constellation Capricorn. For references to other examples of @i{kayyānu} with the meaning "literal meaning," see Hunger (1995: 117 ad loc).
+
+39. !bs MUL-MEŠ $KUN $ŠID {d}<UTU>.E₃.A GUB !cm : U₄ 1-KAM {d}SAG₃.ME.GAR u GU₄.U₄
+#lem: kakkabū[star]N; u; u; ṣīt[exit]N&šamši[sun]; izziz[stand]V +.; ūm[day]N; n; X; u[and]CNJ; Šihṭu[Mercury]CN
+
+40. !cm ina UGU ṭur-ri TUR₃ ana {d}<UTU>.E₃.A GUB-MEŠ
+#lem: ina[on]PRP; muhhi[top]N; +ṭurru[binding//knot]N$ṭurri; tarbaṣi[lunar halo]N; ana[to]PRP; ṣīt[exit]N&šamši[sun]; izzazzū[stand]V +.
+
+$ single ruling
+41.  !zz up-puš₄
+#lem: uppuš[properly executed]AJ
+
+#note: The precise meaning of @i{uppuš} in the context of colophons is unclear: see the brief discussion of the word by Frahm (2011: 395 n. 1595) with further literature.
+
+$ single ruling
+@catchline
+42.  !zz [*] 30 ina IGI.LA₂-šu₂ TUR₃ NIGIN₂-ma ka-bar u šu-par-ru-ru : U₄ 1-KAM TUR₃ NIGIN₂-ma : $KA [...]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; kabar[thick]AJ; u[and]CNJ; šuparruru[spread out]AJ; ūm[day]N; n; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; u; u
+@colophon
+
+43.  !zz [ṣa]-a-tu₂ u šu-ut KA mal₂-su-tu EŠ₂.GAR₃ ša₂ U₄ AN {d}EN.LIL₂.LA₂ ša₂ ŠA₃ * 30 ina {iti}DU₆ TUR₃ NIGIN₂#
+#lem: +ṣiātu[distant time//commentary]N$ṣâtu; u[and]CNJ; šūt[those of]DET; pî[mouth]N +.; +massûtu[reading out]N$malsūtu; iškāri[series]N; ša[of]DET; enūma[when]SBJ; Anu[]DN; Ellil[1]DN; !ša[of]DET; libbi[middle]N; Sin[1]DN; ina[in]PRP; Tašritu[1]MN; tarbaṣa[lunar halo]N; lami[surrounded]AJ +.
+
+#note: As noted by Frahm (2011: 52 with n. 225), this subscript type (ṣatu-type 4b) is attested on four other commentaries from Uruk, all of which are on tablets of @i{Enūma Anu Enlil}. The catchline is the incipit of EAE 9, which indicates that the present commentary on EAE 8 was part of a commentary-series on  several tablets of EAE, including tablets 8 and 9.
+
+44. !zz IM {m}BA{+ša₂-a} bu-kur₂ {m}{d}INANA-MU-KAM A {m}E₂.KUR-za-kir
+#lem: ṭuppi[tablet]N; Iqiša[]PN; bukur[son]N; +Ištar-šum-ereš[]PN$; apil[descendant]N; Ekur-zakir[1]LN +.
+
+@translation labeled en project
+
+@label o 1 - o 2
+"If its (i.e., the Moon's) right horn is long to the south" (= @i{Enūma Anu Enlil} VIII = @i{ACh Sîn} 6 ll. 3-4) means that Mercury stands to the south in its (i.e., the moon's) right horn; @i{if} on the 14th of Tašritu (month VII) an eclipse has taken place, it (i.e., the eclipse) begins in the south and clears in the north.
+
+@label o 3 - o 5
+"If its (i.e., the Moon's) right horn stands to the east" (= @i{Enūma Anu Enlil} VIII = @i{ACh Sîn} 6 ll. 7-8) means that on the first day it (i.e., the Moon) rises in the east; alternatively (it means that) a planet approaches it. The goodness or evil, which they predict in an eclipse: if light begins in the east, it (i.e., the prediction) is good; if it (i.e. the light) is affected (in some way) and begins (in the east), it (i.e., the prediction) is evil.
+
+@label o 5
+"If the Moon is visible on the 30th day" (= @i{Enūma Anu Enlil} VIII unknown) (means) it is visible on the 'rejection of the day' (i.e., the 29th day).
+
+@label+ o 5 - o 8
+"If, when the Moon appears on the first day of Arahsamnu (Month VIII), the Kidney stands in its (i.e., the Moon's) right horn" (= @i{Enūma Anu Enlil} VIII = @i{ACh Suppl} 1, 9 ll. 2-3) means that on the first day Mercury's right horn stands in the Scorpion; alternatively (it means that) Lisi approaches it (i.e., the Moon). "The Kidney" (means) "Mercury." "In the Scorpion" means "it lights up"; "it rises" means "it dries up"; "to rise" means "to dry up."
+
+@label+ o 8 - o 9
+"If its (i.e., the Moon's) right horn is red" (= @i{Enūma Anu Enlil} VIII = @i{ACh Suppl} 1, 9 ll. 6-7) means that Mars approaches it (i.e., the Moon's right horn). "Fire will consume a prominent temple" means that an eclipse (i.e., of the moon) (takes place) in @i{Šitaddaru} opposite the Rooster; it (i.e., the text) says (lit. "said") it with respect to "fire."
+
+@label o 10
+"If its (i.e., the Moon's) right horn is black" means that Saturn approaches it.
+
+@label+ o 10 - o 12
+"(If) it (i.e., the Moon's right horn) is yellow-green" (= @i{Enūma Anu Enlil} VIII = @i{ACh Suppl} 1, 9 ll. 8-9) means that Venus approaches it. KIN-MEŠ-@i{šu} (means) "its omens"; KIN means "omen." "DAG" means "dwelling"(@i{šubtu}); (because) DAG (followed by) KAM corresponds to @i{dak-kan} (which means) "dwelling"; (and) "abode" (@i{mūšabu}) means @i{dakkannu}.
+
+@label+ o 12 - o 14
+"If, when the Moon appears on the first day of Kislimu (Month IX), its horns are pointed and bright" (refers to the Moon) that appears on the first day imbued with brilliance; on the 14th day it stands in front of the Sun; alternatively (it means that) on the first day Venus has the same longitude as it.
+
+@label+ o 14 - o 15
+"If its (i.e., the Moon's) horns are dark and the Bull's Jaw stands in front of it" (means that) on the first day Mercury is near it; on the 14th day the Bull's Jaw stands to the front of it.
+
+@label o 16 - o 19
+"If its (i.e., the Moon's) horns are bent (@i{kapṣā})" means that on the first day Jupiter and Venus stand in its right and left horns. SU means "step" (@i{kibsu}); SU means "to shine." (The writing) @i{ina}-GUL-@i{ma} means "it will demolish" (@i{inaqqarma}); GUL means "to demolish"; GUL means "to destroy." IR.PAG means "they plotted"; IR.PAG means "to plot"; IR.PAG means "to swell"; @i{ir-hu} means hasty, because "to speed up" means "to hasten."
+
+@label o 20 - o 21
+"If its (i.e., the Moon's) horns are touching" means that Mars and Venus stand in its (i.e., the Moon's) horns. "Groups" means "assembly." "Leader" means "pre-eminent one"; ditto ("leader") means "he who goes at the front."
+
+@label+ o 21 - o 22
+"If its (i.e., the Moon's) horns are curved (and) are surrounded by two cruciform halos" (means that) on the first day they are imbued with brilliance and are surrounded by two cruciform halos. 
+
+@label+ o 22 - o 24
+"If its (i.e., the Moon's) horns are surrounded by a cruciform halo" (means that) on the first day (and) on the 14th day it is surrounded by a cruciform halo; alternatively (it means that) as long as no eclipse (occurs), it is surrounded by a cruciform halo; @i{I did not do (it)}. (If) the planets stand below the Moon, it is (a) good (sign); (if) a large star stands below the Moon, it is (an) evil (sign).
+
+@label o 25 - o 26
+"If its (i.e., the Moon's) horns are dark (and) @i{Šitaddaru} stands in front of it" means that on the first day Saturn stands with it in cloud; (or it means that) @i{Šitaddaru} rises acronychally opposite it.
+
+@label+ o 26 - o 29
+"If Venus flashes in its (i.e., the Moon's) right horn so that it (i.e., Venus) can be seen" means that Venus sets on the first day; (with respect to) "it can be seen" (lit. "an observer sees") this is what it says (lit. said), because the Moon is visible during daytime. (The phrase) "@i{la₃} GEŠTU₂-@i{su}" means "unwise." "He will dwell in his land of ruination" (means) "he will dwell in his land that was ruined."
+
+@label+ o 29
+"If its (i.e., the Moon's) light is dim" means that on the first day it (i.e., the Moon) is small.
+
+@label o 30 - o 32
+"If the light of (the first day of) its (i.e., the Moon's) month gains radiance greatly" means that Venus appears on the first day in the month of observation; alternatively (it means that) it (i.e., the Moon) rises after a @i{nidītu}; it means that Mars and Venus approach it. (The phrase) LUGAL KUR ŠUB-!i{ta} TUŠ-!i{eb} means "a king will settle an abandoned land."
+
+@label o 32 - o 33
+"If it (i.e., the Moon) is dark" (means that) in winter it (i.e., the Moon) appears in cloud. (The phrase) EME BAR-@i{tu}" means "foreign language."
+
+@label+ o 33 - o 35
+"If its (i.e., the Moon's) light is frightening" (means that) on the first day Saturn [and] Mercury approach it (i.e., the Moon). (The phrase) "an expeditionary force will conquer a hostile city" means that Mars will approach it (i.e., the Moon); alternatively (it means that) "an eclipse will take place in the Lion." The lord La-tarak of the @i{exit}.
+
+@label o 36 - o 38
+"[If] it (i.e., the Moon) is surrounded by a lunar halo" (means that) the Star of Marduk stands inside it. (With respect to) good or evil, [@i{they say that}] (if) the Star of Marduk becomes abnormally bright (and) stands above the Moon: it (i.e., the prediction) is good; if it is faint (and) stands below the Moon: it (i.e., the prediction) is evil; alternatively [it is said] with respect to winter and summer.
+
+@label r 1 - r 3
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Great One stands inside it (i.e., the lunar halo)" (= @i{ACh 2 Suppl} 1a iii 34-35 // @i{LBAT} 1529: 20-21) means that a large star [@i{stands}] in the Great One. (The word) "@i{siphu}" means "evening"; (because) ŠU₂ means "@i{siphu}"; (and) ŠU₂ means "setting of the sun." "A defeat will be inflicted" means "a massacre will take place."
+
+@label+ r 3 - r 4
+"If it (i.e., the Moon) is surrounded by a lunar halo, and a large star stands inside it" (= @i{ACh 2 Suppl} 1a iii 35 // @i{LBAT} 1529: 21) means that a large star stands in the Hired Man in a halo of the Moon.
+
+@label r 4 - r 7
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Panther stands inside it" means that Mars stands in the Great One in a halo of the Moon. "The rain will be early by one double-hour" means that the rain will be cut off at a distance; "to be early" means "to cut;" "to be early" means "to cut off."
+
+@label r 7 - r 9
+"If the Moon, when it appears on the first day in Addaru (XII), is surrounded by a lunar halo, and Venus stands inside it" (= @i{LBAT} 1530 r 4) means that on the first day the Moon is surrounded by a halo in the region of the Hired Man, and Venus stands inside the halo of the Moon; it (i.e., the text) says (lit. said) (this) concerning an omen.
+
+@label r 9 - r 11
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Scales light up and stand inside it" means that Saturn becomes abnormally bright (and) stands inside the halo of the Moon; "to light up" means "to become big," of "to be abnormally bright."
+
+@label r 11 - r 12
+"If it (i.e., the Moon) is surrounded by a lunar halo, and (if) it (i.e., the lunar halo) is thick and recumbent" means that on the first day it (i.e., the Moon) is surrounded by a halo, and it (i.e., the lunar halo) is thick and @i{recumbent}. (The sign) DIRI means "to become scattered"; DIRI means "to spread out."
+
+@label r 13 - r 14
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Scorpion stands inside it (i.e., the lunar halo)" means that on the first day it (i.e., the Moon) is surrounded by a lunar halo and the Scorpion rises acronychally opposite it.
+
+@label r 14 - r 16
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Yoke and the Stars stand inside it (i.e., the lunar halo)" (means) that on the first day the Moon is surrounded by a halo in the Stars (and) the Bull of Heaven, and Jupiter stands inside the halo; (when) Jupiter (is) in the Bull of Heaven, its name is the Yoke.
+
+@label r 16 - r 17
+"If its (i.e., the Moon's) horns are pointed and SU₃" (= @i{LBAT} 1530 r 8) (means) that on the first day (and/or) on the 14th day it (i.e., the Moon) appears in a light red cloud; SU₃ means "light red."
+
+@label r 18 - r 19
+"If one star rises" (= @i{LBAT} 1530 r 9) means that it appears among «among» the planets; alternatively (it means that) a star enters inside it; "Hired Man" means "the Moon"; it (i.e., the text) says (lit. he said) (this) with respect to Ur.
+
+@label r 19 - r 21
+"If when the Moon appears it is surrounded by a lunar halo" means that either on the first day or on the 14th day, at the summer acronychal rising, it is surrounded by a halo.
+
+@label r 21
+"If it (i.e., the Moon) is surrounded by a lunar halo of stars" means that either in the Field or in the Tails it is surrounded by ... star(s). 
+
+@label r 22
+"If it (i.e., the Moon) is surrounded by a lunar halo of a rainbow" means that it is said in connection with summer or winter.
+
+@label r 23
+"If it (i.e., the Moon) is surrounded by a lunar halo of fog" (= @i{LBAT} 1530 r 10) means that it (i.e., the Moon) is surrounded by a lunar halo in fog; "BI₂.ZA.ZA" means "frog."
+
+@label r 24
+"If it (i.e., the Moon) is surrounded by a lunar halo of storm-wind" means that on the first day it (i.e., the Moon) is surrounded by a lunar halo and a storm-wind is blowing.
+
+@label r 25 - r 26
+"If it (i.e., the Moon) is surrounded by a lunar halo of the course of a god" means that on the first day it (i.e., the Moon) is surrounded by a lunar halo and Adad will raise his voice; alternatively (it means that) a star with whose path the planets do not stand will @i{be surrounded by} the lunar halo. 
+
+@label r 27 - r 30
+"If it (i.e., the Moon) is surrounded by a lunar halo, and Šulpae stands inside it (i.e., the lunar halo)" means that Jupiter stands in the Crab or in the Old Man, in a lunar halo of the Moon; "women will acquire young men" means that Venus stands in the Lion or in the Furrow or in the Scorpion, in a halo of the Moon; "GURUŠ" (young man) (relates to) @i{garāšu} (to copulate) (which means) "to have sexual intercourse with."
+
+@label r 30 - r 33
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Field stands inside it (i.e., the lunar halo)" means that Mars or alternatively Mercury stands in the Hired One, in the halo of the Moon. ŠU.ZI means "wild"; ditto (i.e., ŠU.ZI) means "aggressive." NIM-MEŠ means "early" (plural); NIM means "early" (singular); "they will have illicit sexual intercourse" (@i{uštahhû}) stems from @i{rehû} in the sense of "to have sexual intercourse."
+
+@label r 33 - r 34
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the Arrow stands inside it (i.e., the lunar halo)" means that Pabilsag's Arrow stands in the halo of the Moon.
+
+@label r 34 - r 36
+"If it (i.e., the Moon) is surrounded by a lunar halo, and a planet stands inside it (i.e., the lunar halo)" means that Mars stands in the Lion or in the Bull of Heaven, in the halo of the Moon. SUG.ZI (in the sense of) GANA₂.ZI ("field"), (which) means "cultivated land." 
+
+@label r 36 - r 37
+"If a planet stands inside it (i.e., the lunar halo)" means that Mars or  alternatively Mercury stands in the Lion, in the halo of the Moon. 
+
+@label r 37 - r 38
+"If the Kidney or alternatively the Fish stands inside it (i.e., the lunar halo)" means that Mars stands in the Great One; alternatively (it means that Mars stands) in the Goat-Fish, in the halo of the Moon; alternatively (it has its) literal meaning.
+
+@label r 38 - r 40
+"If it (i.e., the Moon) is surrounded by a lunar halo, and the ... stars stand at sunset" means that on the first day Jupiter and Mercury stand on top of the @i{knot} of the lunar halo at sunrise.
+
+@label r 41
+@i{Properly executed}.
+
+@label r 42
+"If when the Moon appears it is surrounded by a lunar halo and it (i.e., the lunar halo) is thick and spread out" means that on the first day it is surrounded by a lunar halo; ... [...].
+
+@label r 43
+Lemmata and oral explanations (relating to) a 'reading' of the series of @i{Enūma Anu Enlil} (and referring to entries) from "If in Tašritu (Month VII) the Moon is surrounded by a lunar halo."
+
+@label r 44
+Tablet of Iqīšāya, son of Ištar-šumu-īriš, descendant of Ekur-zakir.

@@ -1,0 +1,108 @@
+&P348499 = CCP 3.5.42 (http://ccp.yale.edu/P348499) = W 22226/1
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+ 
+@obverse
+
+$ start of obverse broken
+
+1'. !zz [...] x#
+#lem: u; u
+
+2'. !zz [...] x-ru#-u# 
+#lem: u; u
+
+3'. !zz [...] x# ZI.GA 
+#lem: u; u; ṣītu[exit]N
+
+4'. !zz [...] qu-be₂-e 
+#lem: u; +qubû[lamentation]N$qubê
+
+5'. !zz [...] še#-ha-an
+#lem: u; +šēhānu[(an ecstatic)]N$šēhān
+
+6'. !zz [...]-ME 
+#lem: u
+
+7'. !zz [...] ta# x# x# x# 
+#lem: u; u; u; u; u
+
+8'. !zz [...]-x#-u₂ !cm GAZ{+u₂} : 
+#lem: u; +hepû[break]V$
+
+9'. !zz [...]-na# GU₄-MEŠ# 
+#lem: u; alpū[ox]N
+
+10'. !zz [...] x# x# 
+#lem: u; u; u
+
+$ rest of obverse broken
+
+@reverse
+
+$ start of reverse broken
+
+1'. !zz [...] x# x# x# x# [x]
+#lem: u; u; u; u; u; u
+
+2'. !zz [...]-x# !cm : {d}ME.ME : ša₂ da#-a#-ru# la#-ku#
+#lem: u; Gula[1]DN; ša[of]DET; u; u
+
+3'. !zz [...] {d}EN.LIL₂ : 
+#lem: u; Ellil[1]DN
+
+4'. !zz [...] BIR{+ah} : !bs * ina E₂ NA
+#lem: u; issappah[scatter]V; ina[in]PRP; bīt[house]N; amēli[man]N
+
+5'. !zz [...]-x# !cm : še-gu-u₂
+#lem: u; šegû[aggressive]AJ
+
+6'. !zz [...] !cm : LU₂ BI ina BUN₂ $UŠ# 
+#lem: u; amēlu[man]N; šū[that]IP; ina[in]PRP; u; u
+
+7'. !zz [...]-e# : !bs GU₃.GU₃{+si}
+#lem: u; ištanassi[shout]V
+
+8'. !zz [...] x# [(x)] x# :
+#lem: u; u; u; u
+
+9'. !zz [...]-tu₄# 
+#lem: u
+
+$ rest of reverse broken
+
+@translation parallel en project
+
+@obverse
+
+$ start of obverse broken
+
+1'. [...] ...
+2'. [...] ...
+3'. [...] ... exit
+4'. [...] ... lamentation
+5'. [...] ... @i{ecstatic}
+6'. [...] ...
+7'. [...] ...
+8'. [...] ... @i{means} “to break.”
+9'. [...] ... oxen
+10'. [...] ...
+
+$ rest of obverse broken
+
+@reverse
+
+$ start of reverse broken
+
+1'. [...] ...
+2'. [...] means Gula, ...
+3'. [...] Enlil.
+4'. [...] will be scattered. If in a man’s house
+5'. [...] ... means “wild.”
+6'. [...], that man in ... 
+7'. [...] a house. “He will continuously cry” [...] 
+8'. [...] ...
+9'. [...] ...

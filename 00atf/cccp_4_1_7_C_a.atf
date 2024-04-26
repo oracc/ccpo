@@ -1,0 +1,76 @@
+&P461244 = CCP 4.1.7.C.a (http://ccp.yale.edu/P461244) = BM 48727
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [x (x) !bs * GIG EME]-šu₂# SA₅#?{+at₂} DIN !cm : [...]
+#lem: u; u; marṣu[patient]N; lišānšu[tongue]N; sāmat[red]AJ; +balāṭu[live]V$iballuṭ; u
+
+#note: As noted by N. P. Heeßel (private communication), the reading of the sign @akk{SA₅} is far from certain and, in any case, there is room for at least one or two more signs before ¶ @akk{[GIG EME]}. This suggests that the entry might not correspond to the first line of @i{Sagig} VII, but rather to a different line. There may be some lines missing before the present one.
+ 
+2'. !bs EME#-šu₂ i#-bi# !cm : e-bu-u₂ : !bs EME#-[šu₂] (x#) x# !zz [...]
+#lem: lišānšu[tongue]N; +ebû[thick]AJ$ibi; +ebû[be thick//being thick]V'N$ebû; lišānšu[tongue]N; u; u; u
+
+3'. !cm ana UGU ba-ta-qu : !bs ir-te-ne₂-et-ti !cm : ta#-x#-[x x : DU₃ : re-tu-u₂]
+#lem: ana[on]PRP; muhhi[top]N; batāqu[cutting off]'N; +retû[drive in]V$irtenetti; u; u; retû[driving in]'N; retû[driving in]'N
+
+4'. !cm DU₃ : za-qap : !bs NA BI AMA-šu₂ i-nik !cm : EME#-šu₂# [...]
+#lem: +zaqāpu[fix upright//fixing upright]V'N$; +zaqāpu[fix upright//fixing upright]V'N$zaqāp; amēla[man]N; šu[that]IP; +ummu[mother]N$ummašu; +niāku[have sexual intercourse with]V$inīk; lišānšu[tongue]N; u
+
+#note: The equations DÙ = @i{retû}, DÙ = @i{zaqāpu} are also attested in @i{CCP} 4.1.21 o 9 (commentary on @i{Sagig} 21). Alternatively, the text could be emended to @akk{<ana> AMA-šu₂ i-<sa>-niq}, “he approaches his mother,” as suggested by I. L. Finkel, which would turn the line into a prognosis, rather than a diagnosis.
+5'. !cm it?#-ti iš-tik-ku-ni : !bs uš-te-pu#-u₂# !zz [...]
+#lem: itti[with]PRP; X; X; u
+
+#note: It is uncertain how the first part of the line should be parsed. Perhaps @i{ištikkūni} < @i{irtikkūni}, @i{râku} Gtn (hitherto unattested)? The reading @akk{uš-te-pu#-ú#} was suggested by I. L. Finkel after collation.
+6'. !bs [ana] AMA-šu₂ TE{+he} !cm : EME : {d}uraš : {d}uraš : ha-[ra-šu₂ x x (x x)]
+#lem: ana[according to]PRP; ummišu[mother]N; iṭehhe[approach]V; lišānu[tongue]N; +Uraš[]DN$; Uraš[1]DN; +harāšu[bind//binding]V'N$; u; u; u; u
+
+#note: It is possible that the first half of this line explains the text cited in l. 4′ (“That man had illicit sex with his own mother”), in which case the verb @akk{TE{+hi}} should be rendered as a preterite. The restoration of @akk{ha-[ra-šú]} at the end of the line was suggested by I. L. Finkel (private communication). Since the goal of the entry seems to be to demonstrate that the “tongue” (from the protasis) and the god Uraš (from the apodosis) are somehow related, it is possible that the explanation is based on a lexical or literary passage in which both appear together, @i{mutatis mutandis}. One might therefore consider a restoration @i{ḫa}[@i{rāšu ša lišāni}], “@i{harāšu} (‘to bind’), said of the tongue,” although this entry is so far unattested in lexical lists (note that it does not appear, for instance, in the long section devoted to @i{ḫarāšu} in @i{Nabnītu} XX 205-231 [@i{MSL} 16 p. 183]).
+7'. !bs na-gu-u₂ !cm : ha-du-u₂ : !bs tas-lim-ti !cm : ta-[as-li-im-ti (x x)]
+#lem: +nagû[sing joyfully//singing joyfully]V'N$; hadû[being joyful]'N; +taslimtu[(re)conciliation]N$taslimti; +taslimtu[(re)conciliation]N$taslimti; u; u
+
+#note: Compare @i{Sagig} XIX/XX l. 42′: @akk{[...] x# tas-li-ma-ti DUG₄.DUG₄{+ub}}, explained as @akk{[tas]-li#-a-ti DUG₄.DUG₄{+ub} / [lib₃]-bu#-u₂ ta-as-li-ma-a-<:>-ti / [tas-lim]-ti : nu-ul-lat ina ṣa-a-tu₂ E} in @i{SpTU} 1 38 o 15-17 (@i{CCP} 4.1.19).
+8'. !cm KA# E₂.GAL : šil-la-tu₄ :  !bs * EME-šu₂ u₂?#-na?#-[aš₂?-šak? ...]
+#lem: pî[accordance]N; ēkalli[palace]N; +šillatu[impudence]N$; lišānšu[tongue]N; X; u
+
+#note: For the restorations, note @akk{LU₂ KA É.GAL.LA} = @akk{ša ta-às-lim-tim} (OB @i{Lú} A 123 = @i{MSL} 12 p. 161) and @akk{KA É.GAL} = @i{šillatu} (@i{Erimḫuš} I 282 = @i{MSL} 17 p. 20).
+9'. !zz [...] a#-x# [x x] x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+@translation labeled en project
+
+@label o 1'
+
+[... “If the patient’s tongu]e is red, he will get well” (= @i{Sagig} VII 1) [...].
+
+@label o 2' - o 3'
+
+[“If] his tongue is thick” (= @i{Sagig} VII 2, 3, or 4 (?)) (stems from) “to be thick.” “[His] tongue ...” (= @i{Sagig} VII unknown) [...] (= @i{Sagig} VII unknown) stems from “to cut.”
+
+@label o 3' - o 4'
+
+“(His tongue) is continuously fixed” (= @i{Sagig} VII 7 (?)) – [... DÙ means “to fix”]; DÙ means “to erect.”
+
+@label o 4' - o 5'
+
+“That man had illicit sex with his own mother” (= @i{Sagig} VII 7 unknown) ... [...] means ... “@i{he continuously poured out}.” ... [...]
+
+@label o 6'
+
+“[@i{If his tongue} ... @i{hand of Uraš} –] will approach his mother” (= @i{Sagig} VII unknown) – “tongue” (from the protasis) (is related to) Uraš (from the apodosis), (since) Uraš @i{means} ... [...]
+
+@label o 7' - o 8'
+
+“To sing joyfully” (= @i{Sagig} VII unknown) means “to be happy.” “Slander” (@i{tas-lim-ti}) (= @i{Sagig} VII unknown), (written) @i{ta}-[@i{as-li-im-ti} – KA É.GAL (lit. “word of the palace”) means “slander,”] KA É.GAL means “impudence.” 
+
+@label o 8'
+
+“If @i{he bites} his tongue” (= @i{Sagig} VII 16 (?)) [...].
+
+@label o 9'
+
+[...] ... [...]

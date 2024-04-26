@@ -1,0 +1,128 @@
+&P461303 = CCP 6.2.1 (http://ccp.yale.edu/P461303) = MLC 326
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use lexical
+#atf: use unicode
+@obverse
+$ n lines broken
+
+1'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq x [...]
+#lem: u; u; u; u; u
+
+2'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ba#?-ta-qu : ba-[...]
+#lem: u; u; u; batāqu[cutting off]'N; u
+
+#note: Due to lack of any parallels the reconstruction of the verb @i{batāqu} ist tentative. This verb is usually equated with @akk{KUD}, but fits semantically the meanings of @akk{e₃}. Another possibility is @i{patāqu}, "to shape." 
+
+3'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ba?#-qa-šu : ba-ʾ-u : za-qa-pu#
+#lem: u; u; u; +baqāšu[to be broad]N$baqāšu; X; +zaqāpu[to fix upright]N$zaqāpu
+
+#note: For @i{baqāšu} as equivalent to @akk{e₃} see @i{CAD} B, 99a, cited as entry @i{Diri} I, 169–170. These entries are not preserved on any extant manuscripts of the first tablet of @i{Diri} edited in @i{MSL} 15. @i{Diri} I, 223 equates @akk{e₁₁} with @i{baqāšu}. Whether its preceding entry @i{baʾālu}, "to supplicate," help to reconstruct the final verb in line 2' must remain uncertain. 
+
+4'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ka#-a-a-nu : ha-a-ṭu : ha-a-ru?#
+#lem: u; u; u; kayyānu[steady]AJ; hâṭu[supervising]'N; +hiāru[to choose]N$hâru
+
+#note: The last entry in the line is partially preserved in @i{Aa} III/3, 160: @akk{[ha]-a-rum}. 
+
+5'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq [ša₂]-a#-hu# ša₂ GIŠ : ša₂-ka-ku ša₂ šik-ka#-ti
+#lem: u; u; u; šâhu[growing (tall)]'N; ša[of]DET; iṣ[tree]N; X; ša[of]DET; X
+
+#note: These two Akkadian equivalents are partially preserved in @i{Aa} III/3, 161-162.
+
+6'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq le#-e-u : LAGAB an?# x x ri? x [x] ti#
+#lem: u; u; u; X; X; an[people]N; u; u; X; u; u; X
+
+#note: The first Akkadian equivalent appears to correspond to @i{Aa} III/3, 163. The sign remains afterwards are too inconclusive to be read with confidence. @i{Aa} III/3, 164-165 has [x]-@i{ik-rum} and @akk{la#-mu#-u ša GIG} and is then followed by @i{ullulu ša išāti} (see line 8'). 
+
+7'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq e#-de#-du : e-de-pu
+#lem: u; u; u; edēdu[be(com)ing pointed]'N; X
+
+#note: This appears to be the first preserved entry on the reverse of ms. A. Its scribe repeated the first three subcolumns including the sign name: @akk{e-de#}-[...]. There is ample space in the break that this line could have contained at least one more Akkadian equivalent. Also note that the logogram @akk{DU₆.DU} read @akk{e₁₁} has the Akkadian equivalents @i{edēdu} (220) and @i{edēpu} (222) as well. 
+
+8'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ul-lu-lu ša₂ IZI : pe-tu-u₂ ša₂# KA₂#
+#lem: u; u; u; X; ša[of]DET; išātu[fire]N; petû[opening]'N; ša[of]DET; bāb[gate]N
+
+9'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ru-um-mu-u₂ : ša₂ x x nu-u
+#lem: u; u; u; X; ša[of]DET; u; u; X
+
+#note: The second line on the reverse of ms. A starts in the Akkadian subcolumn with the sign @akk{RU}. This would mean that ms. A omitted two equivalents.  
+
+10'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ha-la-lu : ha-la-pu# :# x x [...]
+#lem: u; u; u; +halālu[to creep]N$halālu; halāpu[slipping into]'N; u; u; u
+
+#note: The third line on the reverse of ms. A appers to start with the sign @akk{HA}. 
+
+11'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq šur#-ru-u : šur-ta?# x [...]
+#lem: u; u; u; +šurrû[to begin]N$šurrû; u; u; u
+
+12'. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq me-e [...]
+#lem: u; u; u; mê[water]N; u
+
+@reverse
+
+1. !pr [a-ra] & ,!sg [UD.DU] & ,!sn [u₂-tu a]-ra#-gub-bu-u & ,!eq el-lu : eb-bu# [:] nam?#-[ru]
+#lem: u; u; +utu[the sign UD]N$utu; +aragubbû[the sign DU]N$aragubbû; ellu[pure]AJ; ebbu[bright]AJ; namru[bright]AJ
+
+#note: Ms. A also combines all three Akkadian equivalents in one line. 
+
+2. !pr [sag-uš] & ,!sg [UD.DU] & ,!sn [MIN<(u₂-tu)>] MIN<(a-ra-gub-bu-u)> & ,!eq ka-a-a-ma-nu : mu#-kil₂ re-e#-[ši]
+#lem: X; X; utu[the sign UD]N; aragubbû[the sign DU]N; kayyamānu[permanent]AJ; +mukillu[holder]N$mukīl; +rēšu[head]N$rēši
+
+
+#note: In contrast to @i{kayyamānu}, "permanent," in our text, ms. A appears to only read @i{kayyānu}, "constant." Also ms. J has @akk{[ka]-ia#-ma-nu} followed by @i{mukīl rēši} in the same line. 
+
+3. !pr [pe-eš-pe-eš] & ,!sg [UD.UD] & ,!sn [MIN<(u₂-tu)> MIN].NA#.BI & ,!eq na-ba-ṭu#
+#lem: u; u; utu[the sign UD]N; +minnabi[sign two times]AJ$minnabi; nabāṭu[shining]'N
+
+
+#note: Ms. A provides the Akkadian equivalent @i{nābalu}, "arid land." See, for instance, @i{Antagal} VIII, 149: @akk{UD} = @akk{MIN<(ma-šá-du)> šá PA.KAS₄}. The verb @i{nabāṭu}, however, makes more sense for a reduplicated @akk{UD.UD}, and is probably also confirmed by Aa III/3, 134: @akk{pe-eš-pe-[eš]} = @akk{[UD.UD]} = @akk{[na-ba]-ṭu}. 
+
+4. !pr [a-ra-bu] & ,!sg [UD.DU.BU.HU] & ,!sn [MIN<(u₂-tu)> a]-ra#-gub [si-ir] mu#-še-en-nu-u & ,!eq a-ra-bu-u₂{mušen#}
+#lem: X; X; utu[the sign UD]N; +aragub[the sign DU]N$aragub; +sir[the sign BU]N$sir; +mušennû[the sign MUŠEN]N$mušennû; +arabû[a water-fowl]N$arabû
+
+
+5. !pr [ni-gi-in] & ,!sg [U.UD.KID] & ,!sn [geš-pu u₂]-tu# ki-ta-ku & ,!eq ku-bu : ku-um-mu#
+#lem: u; u; +gešpu[the sign U]N$gešpu; utu[the sign UD]N; +kitaku[the sign KID]N$kitaku; kūbu[foetus]N; +kummu[cella]N$kummu
+
+6. !pr [...] & ,!sg [UD.U.KID] & ,!sn [u₂-tu] geš#-pu# MIN<(ki-ta-ku)> & ,!eq MIN<(ku-bu)> MIN<(ku-um-mu)>
+#lem: u; X; utu[the sign UD]N; gešpu[the sign U]N; kitaku[the sign KID]N; kūbu[foetus]N; kummu[cella]N
+
+
+7. !pr [e] & ,!sg [DU₆.DU] & ,!sn [du-u a-ra-gub-bu]-u# & ,!eq e#-lu-u₂ <:> a-ra-du
+#lem: u; u; +dû[the sign DU₆]N$dû; aragubbû[the sign DU]N; +elû[to go up]N$elû; +arādu[to go down]N$arādu
+
+8. !pr [...] & ,!sg [...] & ,!sn [...] & ,!eq ra#-ka#-bu# :# ša₂#-ha?#-[ṭu] ša₂?# [GIR₃.PAD].DU#
+#lem: u; u; u; +rakābu[to ride]N$rakābu; šahāṭu[jumping]'N; ša[of]DET; eṣemti[bone]N
+
+$ n lines broken
+
+
+
+@translation parallel en project
+
+@label o 1' - o 12'
+[(The logogram group) @akk{UD.DU} read @i{e} (written with the signs) @akk{UD} and @akk{DU} (means) ... [...], "to cut off" (?), "...," "to walk along," "to fix upright," "constant," "to supervise," "to choose," "to grow said of wood," "to string said of a necklace," "to be able," "...," "to become pointed," "to blow (away)," "to purify said of fire," "to open said of a door," "released," "to creep"(?), "to slip in or through," ..., "to begin"(?), ... [...], "water" [...]
+
+@label r 1
+[(The logogram group) @akk{UD.DU} read @i{ara} (written with the signs) [@akk{UD}] (and) @akk{DU} (means) "pure," "bright," "shining." 
+
+@label r 2
+[(The logogram group) @akk{UD.DU} read @i{saĝuš} (written with the signs) @akk{UD}] (and) @akk{DU} (means) "constantly," "someone who is at someone's disposal."
+
+@label r 3
+[(The logogram group) @akk{UD.UD} read @i{pešpeš} (written with the signs) @akk{UD}] twice (means) "to shine brightly."
+
+@label r 4
+[(The logogram group) UD.DU.BU.HU read @i{arabu} (written with the signs) @akk{UD}, @akk{DU}, @akk{SIR} and @akk{MUŠEN} (means) "a water-fowl." 
+
+@label r 5
+[(The logogram group) U.UD.KID read @i{nigin} (written with the signs) @akk{U}], @akk{UD}, (and) @akk{KID} (means) "foetus," "cella." 
+
+@label r 6
+[(The logogram group) UD.U.KID read @i{nigin} (written with the signs) @akk{UD}], @akk{U}, (and) @akk{KID} (means also) "foetus," "cella." 
+
+@label r 7 - r 8
+[(The logogram group) DU₆.DU read @i{e} (written with the signs) @akk{DU₆} (and)] @akk{DU} (means) "to go up," "to go down," "to ride," "to move jerkily said of bones," [...].
+

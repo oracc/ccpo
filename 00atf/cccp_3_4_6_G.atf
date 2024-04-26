@@ -1,0 +1,66 @@
+&P498322 = CCP 3.4.5.Q (http://ccp.yale.edu/P498322) = BM 54969
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+
+1'. !zz [x x x x x] x [...]
+#lem: u; u; u; u; u; u; u
+
+2'. !bs [BE GIR₂] 150# ZE₂ GID₂{+ud#}-[ma ...]
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; išdudma[stretch]V; u
+
+3'. !bs [BE] DAG-šu₂ NU i-x-[...]
+#lem: šumma[if]MOD; +šubtu[seat]N$šubtašu; lā[not]MOD; u
+
+4'. !cm [BE MAN]{+u₂} MU-NI GIR₂ 150 ZE₂ [...]
+#lem: šumma[if]MOD; šanû[second]NU; šumšu[name]N; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; u
+
+5'. !cm [BE šal]-šu₂ MU-NI GIR₂ 150 ZE₂ [...]
+#lem: šumma[if]MOD; šalšu[third]NU; šumšu[name]N; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; u
+
+6'. !bs [BE] GIR₂# 150 ZE₂ GID₂{+ud}-ma ana ma-[...]
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; išdudma[stretch]V; ana[according to]PRP; u
+
+7'. !cm [BE] MAN#{+u₂} MU-NI GIR₂ 150 ZE₂# [...]
+#lem: šumma[if]MOD; šanû[second]NU; šumšu[name]N; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; u
+
+8'. !bs [BE] GIR₂ 150 ZE₂ GID₂{+ud}-ma [...]
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; išdudma[stretch]V; u
+
+9'. !bs [BE] GIR₂ 150 ZE₂ GID₂{+ud}-ma [...]
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; išdudma[stretch]V; u
+
+10'. !cm [BE] MAN#{+u₂} MU-NI GIR₂ 150 ZE₂# [...]
+#lem: šumma[if]MOD; šanû[second]NU; šumšu[name]N; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; u
+
+11'. !bs [BE] GIR₂ 150 ZE₂ GID₂{+ud}-ma# [...]
+#lem: šumma[if]MOD; padāni[Path (on liver)]N; šumēlu[left]N; martu[gall bladder]N; išdudma[stretch]V; u
+
+12'. !cm [BE] MAN{+u₂} MU-NI GIR₂# [...]
+#lem: šumma[if]MOD; šanû[second]NU; šumšu[name]N; padāni[Path (on liver)]N; u
+
+13'. !cm BE#{+ma} šum-x [...]
+#lem: šumma[if]MOD; u; u
+#note: Or perhaps @akk{LUGAL URU#} [EJ]
+14'. !cm [BE šal]-šu₂# MU-NI GIR₂# [...]
+#lem: šumma[if]MOD; šalšu[third]NU; šumšu[name]N; padāni[Path (on liver)]N; u
+
+@translation parallel en project
+
+1'. ...
+2'. [If the Path] to the Left of the Gall Bladder stretches [and ...]
+3'. [If] its seat is not ... [...]
+4'. Its [second] [“if”]: the Path to the Left of the Gall Bladder [...],
+5'. Its [thi]rd [“if”]: the Path to the Left of the Gall Bladder [...]
+6'. [If] the Path to the Left of the Gall Bladder stretches and [...] towards [...],
+7'. Its second [“if”]: the Path to the Left of the Gall Bladder [...],
+8'. [If] the Path to the Left of the Gall Bladder stretches and [...]
+9'. [If] the Path to the Left of the Gall Bladder stretches and [...]
+10'. Its second [“if”]: the Path to the Left of the Gall Bladder [...],
+11'. [If] the Path to the Left of the Gall Bladder stretches [and ...],
+12'. Its second [“if”]: the Path [...],
+13'. If ... [...]
+14'. Its third [“if”]: the Path [...],

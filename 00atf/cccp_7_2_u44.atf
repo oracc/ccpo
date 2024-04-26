@@ -1,0 +1,37 @@
+&P461196 = CCP 7.2.u44 (http://ccp.yale.edu/P461196) = BM 40978
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1. !bs [*] al-lu-ut-tu₄ & !cm x#-[x x & !zz ...]
+#lem: +alluttu[crab]N$; u; u; u
+
+2. !bs kul#-ba#-bu & !cm ak?#-[x x & !zz ...]
+#lem: +kulbābu[ant]N$; u; u; u
+
+#note: The reading of the first word is courtesy of H. Stadhouders.
+3. !bs ak-ba-ri & !cm ar-ra#-[bu & !zz ...]
+#lem: +akbaru[jerboa]N$akbari; +arrabu[dormouse]N$; u
+#note: According to Henry Stadhouders (private communication), “the identification of the @i{arrabu} as (edible) dormouse (Glis glis), German “Siebenschlafer” (entirely Landsberger’s: Fauna des alten Mesopotamiens, p. 107) should be critically re-evaluated, since the mere two species in the subfamily of Glirinae have their arboreal habitat in the temperate regions of the Paleo-arctic zone, with its cold winters, which is why it hibernates for its eponymous seven months. So if it indeed is a kind of dormice, it might rather have to be sought in another genus of the Gliridae family of rodents. The Asian garden dormouse (Eliomys melanurus) could be a candidate; a species in yet another family of dormice endemic to Anatolia is the Woolley dormouse (Dryomys laniger).” According to Stadhouders, statistically the most likely candidate for the identification of the @i{arrabu} would be the Euphrates jerboa (Allactaga euphratica).
+
+4. !bs hu-lu-u₂ & !cm MIN<(ar-ra-bu)> za-x#-x# & !zz [...]
+#lem: +hulû[shrew]N$; arrabu[dormouse]N; u; u
+
+#note: Perhaps @akk{ṣa-al#-mu?#}. H. Stadhouders (private communication) suggests reading @akk{ṣa-ah#-ru₃#}.
+
+5. !bs pe#-ru-ru-tu₄ & !cm hu-si-ri & !zz x# [...]
+#lem: +pērūrūtu[mouse]N$; husīri[mouse]N; u; u
+
+6. !bs [x x x]-tu₄ & !cm a-me-lu# & !zz [...]
+#lem: u; u; u; amēlu[man]N; u
+
+@translation parallel en project
+
+1. “Crab” means ... [...].
+2. “Ant” means ... [...].
+3. “Jerboa” means “dormou[se,” ...].
+4. “Shrew” means ditto ... [...].
+5. “@i{pērūrūtu}-mouse” means “mouse,” ... [...].
+6.  .... means “man,” [...].

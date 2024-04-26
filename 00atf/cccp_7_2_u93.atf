@@ -1,0 +1,144 @@
+&P469976 = CCP 7.2.u93 (http://ccp.yale.edu/P469976) = BM 32574
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+0. ($___$) !zz [ina a-mat {d}]AMAR#.UTU u {d}zar-pa-ni-tu₄ liš-lim
+#lem: ina[by]PRP; amāt[command]N; Marduk[1]DN; u[and]CNJ; Zarpanitu[1]DN; lišlim[go well]V
+
+1. !qt [GE UMUN{+hi} {d}en-lil₂ DINGIR]-MEŠ# a-ši-ir kib-rat GE UMUN{+hi} IBILA# DUMU?#.SAG?# eri-[du₁₀]
+#lem: anāku[I]IP; Asalluhi[1]DN; Ellil[1]DN; ilāni[god]N; āšir[inspector]N; kibrāt[edge]N; anāku[I]IP; Asalluhi[1]DN; aplu[son]N; X; Eridu[1]SN
+
+2. !bs [(x) {d}ASAR].ALIM#.NUN.NA !cm : nu-ur₂ ša₂ {d}60 {d}50 u {d}40# : ASAR : nu?#-[ur₂? (DINGIR-MEŠ)]
+#lem: u; Asaralimnuna[1]DN; nūr[light]N; ša[of]DET; Anu[1]DN; Ellil[1]DN; u[and]CNJ; Ea[1]DN; +nūru[light]N$; nūr[light]N; ilāni[god]N
+
+#note: Note @i{Aa} IV/4 106 (@i{MSL} 14 p. 442): @akk{nu-úr-ì-lí URU}×@akk{IGI# [šá {d}ASAR(|URU×IGI|) {d}AMAR.UTU]}. As noted by Uri Gabbay (private communication), the elements @akk{ASAR}, @akk{ALIM}, and @akk{NUN} are elsewhere interpreted several times as Anu, Enlil, and Ea: see Gabbay @i{HES} 1 (2014) pp. 46-47 fn. 192: this suggests that there is a word missing before @akk{[(x) {d}ASAR].ALIM#.NUN.NA}, which would have been interpreted as @i{nūru}.
+3. !qt [{d}ASAR].ALIM#.NUN.NA ka-ru-ba nu-ur₂ a-bi a-li-di-šu₂
+#lem: Asaralimnuna[1]DN; +karūbu[reverently greeted]AJ$; nūr[light]N; abi[father]N; +ālidu[one who begets/begot]N$ālidīšu
+
+4. !zz {d}a-num SIPA nap-har KI{+ti₃} {d}AMAR.UTU ina $E₂ $KAL {d}en-lil₂ x# [x x]
+#lem: Anum[1]DN; rēʾû[shepherd]N; naphar[all]N; erṣeti[earth]N; Marduk[1]DN; ina[from]PRP; X; X; Ellil[1]DN; u; u; u
+
+#note: Quotation from unknown text?
+5. !qt ina i₃-nu-um {d}a-num ṣi-i-ri : ina?# x# [(x)]
+#lem: ina[in]PRP; +inu[when]CNJ$; Anum[1]DN; ṣīri[exalted]AJ; u; u; u
+
+#note: According to @i{CAD} I/J 153a and Lambert @i{Fs Finet} 1989 (1989) p. 97b, the present line is a quotation from the first line of the @i{Code of Ḫammurapi}. The signs after @akk{ṣi-i-ri} appear to be erased.
+6. !cm aš-šum! {d}UTU : {d}UTU ša₂ KUR{+ha} NU ša₂ {d}AMAR.UTU ina lib₃-bi-šu₂ šu?#-u₂?#-[ma]
+#lem: aššum[because of]'PRP; Šamaš[1]DN; Šamaš[1]DN; ša[of]DET; ippuha[rise]V; ṣalma[effigy]N; ša[of]DET; Marduk[1]DN; ina[from]PRP; libbišu[heart]N; šūma[he]IP
+
+#note: Note @i{KAR} 307 r 5: @akk{ša ŠA₃ {d}UTU# [{d}]AMAR#.UTU}, “that which is inside of the sun is Marduk”: see Beaulieu @i{JCS} 51 (1999) p. 93b. Note also A 163(+) (@i{CCP} 2.2.1.A.a) l. 41: @akk{MU ṣu-lum ša₂ lib₃-bi {d}UTU {d}MES iq-ta-bi} (the latter reference is courtesy of Uri Gabbay).
+7. !bs {d}SAG.ME.GAR !cm ina MU-šu₂ na-din it-ti ana KUR.KUR ša₂-niš na-[din (x x x)]
+#lem: nēberu[Jupiter]CN; ina[in]PRP; +šumu[name]N$šumīšu; nādin[seller]N; +ittu[sign]N$itti; ana[on]PRP; mātāti[land]N; šanîš[alternatively]AV; nādin[seller]N; u; u; u
+
+#note: Note, in the notarikon analysis, probably @akk{GAR} = @i{nadānu} (@i{Aa} III/6 31 = @i{MSL} 14 p. 350). Note the alternative etymology of @akk{{mul}SAG.ME.GAR} as @i{nāš ṣaddī ana dadmī}, “bearer of signals for the villages,” in the star list BM 42262 (5@i{R} 46/1) r 3 and K.6151 l. 1 (@i{CCP} 7.2.u83). On the term @i{ina šumīšu}, “according to its name,” see Lambert @i{MC} 16 (2013) p. 482.
+8. !cm ša₂-niš ṣa-ad-du nu-ur₂ : SAG* : ma-ta-a-ti : ina {d}x# [x x (x)]
+#lem: šanîš[alternatively]AV; ṣaddu[(wooden) signal]N; nūr[light]N; +mātu[land]N$; +mātu[land]N$mātāti; X; u; u; u; u
+
+9. !qt im-bi MU-ka a-bi DINGIR-MEŠ {d}nu-nam-nir# [x x x (x x)]
+#lem: imbi[name]V; +šumu[name]N$šumka; abi[father]N; ilāni[god]N; +Nunamnir[]DN$; u; u; u; u; u
+
+10. !bs GAR?# !cm :?# ša₂-kan* !bs TUR !cm ša₂-la-la !zz ki x# [(x)]-ti# :# x# [x x x x (x x)]
+#lem: X; X; X; X; X; u; u; u; u; u; u; u; u; u
+
+#note: It is uncertain whether this line still comments on Sagmegar’s name.
+11. !zz [x x x] x# !cm ta-ba-lu !zz nu#-[...]
+#lem: u; u; u; u; +tabālu[take away//taking away]V'N$; u
+
+12. !zz [x x x x] x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+@reverse
+
+1'. !zz [x x x] x# x# x# x# x# x# x#-na# [x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !bs LAL₃* !cm : ṭa-a-bi : !bs UR₂ : !cm ut!(ERIM)-lu₄ : !bs ALIM# !cm [: {d}BAD x x (x)]
+#lem: +ṭābu[good]AJ$; +ṭābu[good]AJ$ṭābi; +utlu[lap]N$; +utlu[lap]N$; +Ellil[]DN$; Ellil[1]DN; u; u; u
+
+#note: Laluralimma, the name of a Kassite officer in Nippur during the reign of Nazi-Maruttaš, is known from @i{Ludlul} III 25. The same etymology given here appears in l. r 5 of the Ludlul commentary (@i{CCP} 1.3), and also in the Name List 5@i{R} 44 ii 17.
+3'. !cm mu-ṣu-u₂ ša₂-niš !bs NIBRU{ki} !cm : dun-nu* !zz :*# :# [x x x x x (x)]
+#lem: mūṣû[direction]N; šanîš[alternatively]AV; Nippur[1]SN; +dunnu[power]N$; u; u; u; u; u; u
+
+#note: The sign after @i{dun} was formerly read as @i{mu}, e.g. Lambert @i{BWL} (1960) p. 296. It is uncertain why Nippur is said to mean @i{dunnu} and (apparently) @i{mūṣû}; note that both words can be rendered by means of a Sumerian word that includes @akk{ZAG} (@akk{ZAG.{šá}DU} = @i{dunnu} [@i{CAD} D 184a] and @akk{ZAG.È} = @i{mūṣû} [@i{CAD} M/2 247b]), compare perhaps the name of Nippur @akk{URU.SAG{ki}}, in George @i{BTT} (1992) p. 442.
+4'. !bs {giš}MES.KI.IN.GI.RA !cm : hu-la-me-su# [x x x x x (x)]
+#lem: +hulamīsu[a tree]N$; +hulamīsu[a tree]N$hulamēsu; u; u; u; u; u; u
+
+#note: Quotation from @i{Ḫḫ} III 206 (@i{MSL} 5 p. 109). At the end, perhaps @akk{{giš}MES : me-e-su}.
+5'. !bs KI.IN.GI !cm : NIBRU{ki} : !bs IR !cm : ša₂-la-la# [: !bs RA !cm : ma-ha-ṣu?]
+#lem: +Nippur[]SN$; Nippur[1]SN; +šalālu[carry off//carrying off]V'N$; +šalālu[carry off//carrying off]V'N$šalāla; +mahāṣu[beat//beating]V'N$; +mahāṣu[beat//beating]V'N$
+
+6'. !qt an-zu-u₂ im-haṣ kap-pa-šu₂ iš-bir !zz : !bs MES# !zz [x x x x (x)]
+#lem: Anzu[1]DN; imhaṣ[beat]V; +kappu[wing]N$kappāša; išbir[smash]V; X; u; u; u; u; u
+
+#note: As noted by Lambert @i{Fs Finet} 1989 (1989) p. 97b, “[the present line] is not, it seems, from Tablet III of the @i{Anzû} Myth, where Ninurta “cut off his pinions” (@akk{ú-nak-kis ab-re-e-šú}), but since it is a perfect metrical line it is no doubt cited from some text.
+7'. !cm ša₂ ana EN-šu₂ qar-nu ṣap-ru u mu-ša₂-kil-šu₂ [x x x (x)]
+#lem: ša[which]REL; ana[for]PRP; bēlšu[owner]N; qarnu[horn]N; ṣaprū[twitchy]AJ; u[and]CNJ; +mušākilu[supplier of food]N$mušākilšu; u; u; u; u
+
+#note: The line has been interpreted as a commentarial explanation, but it might well be a quotation from a literary text. Note @i{ṣapāru ša qarni} in K.17826 l. 8′ (@i{CCP} 7.2.u77).
+8'. !cm {d}qin-gu u {iti}BARA₂ ša₂ {d}60 u {d}50 !qt U₄ 1#.[KAM {mul}{lu₂}HUN.GA₂ IGI.LA₂]
+#lem: Qingu[1]DN; u[and]CNJ; Nisannu[1]MN; ša[which]REL; Anu[1]DN; u[and]CNJ; Ellil[1]DN; ūmu[day]N; n; Agru[1]CN; innammar[appear]V
+
+#note: The end has been restored after @i{Mulapin} I ii 36: see Lambert @i{MC} 16 (2013) p. 224.
+9'. !bs {mul}{lu₂}HUN.GA₂ !cm : {d}DUMU.ZI : {d}qin-gu# [: {d}DUMU.ZI (x)]
+#lem: Agru[1]CN; Dumuzi[1]DN; Qingu[1]DN; Dumuzi[1]DN; u
+
+#note: The identification of Aries and Dumuzi was current in Babylonian astrology. See e.g. @i{Mulapin} I i 43.
+10'. !zz MUNUS (x#) x#{+ti₃} DINGIR al-ma-nu-tu₂ DU{+ak} :# x# [x x x (x)]
+#lem: X; u; u; ilu[god]N; almanūtu[widow(er)hood]N; illak[go]V; u; u; u; u; u
+
+#note: Almānu is a god identified in @i{Hg} B VI 52 (@i{MSL} 11 p. 41) and @i{An = Anu} IV 283 as Išḫara’s spouse.
+11'. !cm ri#-ig-mu šak-na-at : !bs E₂.KUR !cm : E₂# x# [x x x x (x)]
+#lem: rigmu[voice]N; šaknat[placed]AJ; Ekur[1]TN; X; u; u; u; u; u; u
+
+12'. !zz [(x)] x# KU₃.GI DAM.GAR₃ ša₂ a-na {d}nin-lil₂# [x x x x (x)]
+#lem: u; u; hurāṣu[gold]N; +tamkāru[merchant]N$tamkāri; ša[which]REL; ana[for]PRP; +Ninlil[]DN$; u; u; u; u; u
+
+13'. ($___$) !zz pa-lih {d}UTU ana la DUMU TIN.TIR{ki} la i-nam#-din# NIG₂#.GIG# x# x# [x (x)]
+#lem: pālih[reverent one]N; Šamaš[1]DN; ana[according to]PRP; lā[not]MOD; māru[son]N; Babilu[Babylon]SN; lā[not]MOD; inamdin[give]V; ikkib[anathema]N; u; u; u; u
+
+14'. ($___$) !zz {im}GI₃ {d}BAD-tab-tan-URI₃ A-šu₂ ša₂ {d}EN-A-URI₃ DUMU {m}{lu₂}AD#.[KID]
+#lem: +giṭṭu[oblong tablet]N$; +Ea-tabtanni-uṣur[]PN$Ea-tabtan-uṣur; apalšu[son]N; ša[of]DET; +Bel-aplu-uṣur[]PN$; mār[son]N; +Atkuppu[]PN$
+
+15'. ($___$) ($___$) ($___$) ($___$) ($___$) ($___$) !zz {(IGI.KAR₂)}
+#lem: bari[checked]AJ
+
+@translation parallel en project
+
+@obverse
+
+0. By the command of Marduk and Zarpanītu, may (this work) suceed!
+1. “[I am Asalluḫi, the Enlil of the god]s, the guardian of the universe” (@i{Marduk’s Address} l. 73); “I am Asalluḫi, the first born of Eri[du]” (@i{Marduk’s Address} l. 100),
+2. [Asar]alimnunna (means) “light of Anu, Enlil, and Ea” — Asar means @i{li}[@i{ght}],
+3. (as in) “[Asaral]imnunna, the noble, the light of his father, his begetter” (= @i{Enūma eliš} VII 5)
+4. Anu, the shepherd of all the land, Marduk in the ... of Enlil ... [...]
+5. In “When the splendid Anu” (= @i{Code of Ḫammurapi} 1) — ... [...]
+6. on account of Šamaš — Šamaš of the sunrise, the image of Marduk @i{i}[@i{s}] inside of it.
+7. Sagmegar (i.e., Jupiter, Marduk’s planet), according to (lit., “in”) its name, (means) “provider of sign(s) to the lands”; alternatively, (it means) pro[vider of ...],
+8. alternatively, (it means) “signal of light” — (since) @i{sag} means “lands,” ... [...] 
+9. “Nunammir, the father of the gods, created you” (= @i{Prayer to Marduk} II l. 37) [...]
+10. @i{gar} (?) means “to place,” @i{tur means “to plunder”} ... [...]
+11. [... means] “to carry off,” ... [...]
+12. [...] ... [...]
+
+@reverse
+
+1'. [...] ... [...]
+2'. (in Laluralimma’s name,) @i{lal} means “good,” @i{ur} means “lap,” @i{alim} [means “Enlil.” @i{“Nippur” means}]
+3'. “exit,” alternatively, “Nippur” means “foundation, ... [...].
+4'. @i{giš.mes-kingira} (lit., “the Sumerian @i{mes}-tree”) means “the @i{ḫulamēsu}-tree,” [@i{since} ...]
+5'.  @i{kingi} (i.e., “Sumer”) means “Nippur,” @i{ir} means “to plunder,” [and @i{ra means “to beat”}],
+6'. (as in) “he beat Anzû and broke its wings” (= quotation from a version of the @i{Anzû} Myth); @i{mes} [@i{means} ...]
+7'. (refers to someone) who presses down the horns for his lord, and his supplier [...]
+8'. Qingu and (the month) Nisannu (belong) to Anu and Enlil. On the first day [Aries is visible] —
+9'. Aries equals Dumuzi, Qingu [equals Dumuzi (...)]
+10'. a woman ... will be widowed ... [...] 
+11'. means “the noise is loud.” @i{ekur} means “house ... [...].
+12'. The golden [...] ... of the merchant, who to Ninlil [...]
+13'. 	   He who reveres Šamaš should not show it to a non-Babylonian — it is a taboo of ... [...]
+14'. 	   One-column tablet of Ea-tabtan(ni)-uṣur son of Bel-aplu-uṣur, descendant of A[tkuppu].
+15'. 	     	      			  	    Collated

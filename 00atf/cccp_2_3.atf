@@ -1,0 +1,138 @@
+&P461166 = CCP 2.3 (http://ccp.yale.edu/P461166) = BM 38271
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs ri-ig-mu : !cm ši-si-ti
+#lem: rigmu[voice]N; šisīti[(hand/foot) joint]N
+
+2. !cm GU₃.DE₂ : ri-ig-mu : GU₃.DE₂ : ša₂-su-u₂
+#lem: +rigmu[voice]N$; rigmu[voice]N; +šasû[shout//shouting]V'N$; šasû[shouting]'N
+
+3. !bs i-da-al : !cm DU.DU : da-li ša₂ i-dal-lu?#
+#lem: idâl[roam around]V; +dâlu[roam around//roaming around]V'N$; dâli[roaming around]'N; ša[of]DET; +dâlu[roam around]V$idallu
+
+#note: Compare BUL.DU.@i{šá-šá}.DU = @i{dâlu} in Erimḫuš I 187 (MSL 17 17) and du-du BÚR.BÚR = @i{dubbubu ša dâlu} in Antagal E iv 13' (MSL 17 212).
+4. !bs ni-iš-šu-la-a-ti : !cm bi-na-a-ti
+#lem: +nimšulu[fish spawn]N$niššulāti; +binītu[creation]N$binâti
+
+5. !cm ZIZNA(|TUR&TUR.ZA&ZA|) : nim-šu-lu₄ : ZIZNA(|TUR&TUR.ZA&ZA|) : bi-ni-ti
+#lem: +nimšulu[fish spawn]N$; +nimšulu[fish spawn]N$; +binītu[creation]N$; +binītu[creation]N$
+
+#note: Compare Ḫḫ XVIII 44-48 (MSL 8/2).
+6. !bs ši-i-qu : !cm MUL : {mul}MU.BU.KEŠ₂.DA
+#lem: +šiqqu[(a fish condiment)]N$; kakkabi[star]N; +Nīru[Yoke]CN$
+
+#note: The line is cited in CAD Š/3 s.v. @i{šīqu}, "irrigation." Perhaps @i{šīqu} = @i{šiqqu}, "garum," and hence related to the previous line? (on the latter see Stol, M. "An Old Babylonian List of Objects" @i{Gs Hruška} (2011) p. 247-252, here p. 248).
+7. !cm {d}a-num ra-bu-u₂ ša₂ AN{+e} {d}ni-i-ri
+#lem: Anum[1]DN; rabû[great]AJ; ša[that]REL; šamê[heaven]N; +Nīru[Yoke]CN$
+
+#note: Quotation from Mulapin I i 19: ¶ @akk{{mul}MU.BU.KEŠ₂.DA {d}a-num GAL{+u₂} ša₂ AN{+e}}.
+
+8. !bs {mul}SUG₂(LAH₄).GE : !cm {mul}{lu₂}HUN.GA₂ : {d}DUMU.ZI
+#lem: X; +Agru[]CN$; Dumuzi[1]DN
+
+#note: The star name mul.LAḪ₄.GI (s.v.l.) is unattested. The last equation is a quotation from @i{Mulapin} I i 43: @akk{{mul}{lu₂}HUN.GA₂ : {d}DUMU.ZI}.
+9. !bs lu-u₂ : !cm la-a : li-i : !bs {mul}BIR : !cm MUL e-ri-du
+#lem: lū[or]CNJ; laʾa[small child]N; +līʾum[bull]N$lê; +Kalītu[Kidney]CN$; kakkabi[star]N; Eridu[1]SN
+
+#note: Compare @akk{{mul}BIR {mul}NUN{ki}}, "Kidney is the star of Eridu," in Reiner & Pingree @i{BPO} 2 (1985), p. 42 III 27a.
+10. !bs {dug#}SILA₃.GAZ : !cm ši-ir-mu : !bs ša₂ IM : !cm la ba-šal
+#lem: +širmu[vessel]N$; +širmu[vessel]N$; ša[of]DET; +ṭīdu[clay]N$ṭīdi; lā[not]MOD; bašāl[be(com)ing cooked]'N
+
+11. !bs NU IM : !cm NU {lu₂}UŠ₁₁.ZU u {munus}UŠ₁₁.ZU
+#lem: +ṣalmu[effigy]N$ṣalam; +ṭīdu[clay]N$ṭīdi; +ṣalmu[effigy]N$ṣalam; kaššāpi[sorceror]N; u[and]CNJ; kaššapta[sorceress]N
+
+12. !bs {d}i-šum : !cm ṭa-bi-hu na-ʾ-du
+#lem: Išum[1]DN; ṭābihu[butcher]N; +naʾdu[attentive]AJ$
+
+#note: Compare @i{Erra and Išum} I 4.
+13. !cm I# : na-ʾa-du : ŠUM : ṭa#-ba#-hu#
+#lem: +naʾādu[be attentive//being attentive]V'N$; +naʾādu[be attentive//being attentive]V'N$; +ṭabāhu[slaughter//slaughtering]V'N$; ṭabāhu[slaughtering]'N
+
+$(reverse)
+
+14. !bs [TAB].BA?# :?# !cm ša₂ it-ti a-me-lu ku-un-nu
+#lem: +tappû[companion]N$; ša[that]REL; itti[with]PRP; amēlu[man]N; +kunnu[fixed]AJ$
+
+15. !cm [A] :# ma-a-ri : DAB : ṣa-ba-ti
+#lem: +māru[son]N$; +māru[son]N$; +ṣabātu[seize//seizing]V'N$; +ṣabātu[seize//seizing]V'N$
+
+#note: Si vera lectio, this line would contain a notarikon analysis of the previous line (DAB.BA > DAB+A).
+16. !cm [tap]-pu#-u₂ : a-me-lu ša₂-nu-u₂ : TAB : e-ṣe-pa
+#lem: tappû[companion]N; amēlu[man]N; šanû[second]NU; +eṣēpu[double//doubling]V'N$; +eṣēpu[double//doubling]V'N$eṣēpa
+
+#note: Compare TAB = @i{eṣēpu} in SbB II 66 (MSL 3 135).
+17. !cm [LU₂?] ša₂-nu-u₂ : ki-na-a-ti : ki-ia-a-ti
+#lem: amēlu[man]N; šanû[second]NU; kinātī[employee]N; +kinattu[employee]N$kiyyāti
+
+#note: As suggested by I. Finkel, the successive comments on @i{kinattu} may have been triggered by the reference to @i{kunnu} above, in l. 14, where it is used in a paraphrastic definition of the word "friend" (TAB.BA).
+18. !bs IGI{+et} : !cm ki-na-at-ti : MIN : IGI ba-bi
+#lem: +mehertu[produce]N$mehret; +kinattu[employee]N$kinatti; šanîš[alternatively]AV; +pānu[front]N$pān; +bābu[gate]N$bābi
+
+#note: The interpretation of the line offered here, which follows suggestions by I. Finkel and U. Gabbay, takes IGI-@i{et} as writing of a synonym of @i{kinattu}, probably @i{meḫertu} (in its meaning "equal"). The translation of IGI @i{ba-bi} as "porter" was suggested by I.L. Finkel; it could also be interpreted as "the front part of the door," vel sim., corresponding to @i{miḫirtu}. Alternatively, the first equation may be based on e.g. še₂₅(KA×ŠID)-gi-na = @i{kīnūtim} (Sag B viii 345, MSL SS 1 p. 35), 
+19. !bs NIR : !cm ta-ra-ṣi :
+#lem: +tarāṣu[stretch out//stretching out]V'N$; +tarāṣu[stretch out//stretching out]V'N$tarāṣi
+
+#note: NIR need not be in the main text: cp. NIR.GÁL = @i{kinattu} (CAD K 381a).
+
+$ 1 line blank
+20. !zz maš-al-ti ša₂ BE{+ma} GISKIM-MEŠ HUL-ME
+#lem: +mašʾaltu[questioning]N$mašʾalti; ša[of]DET; šumma[if]MOD; ittāti[sign]N; lemnēti[bad]AJ
+
+21. !zz ana LU₂ u E₂-šu₂ it-ta-na-an-ma-ri
+#lem: ana[for]PRP; amēli[man]N; u[and]CNJ; bītišu[household]N; +amāru[see]V$ittananmari
+
+@translation labeled en project
+
+@label 1 - 2
+
+"Noise" (= @i{LKA} 115 unknown) means "cry," since GÙ.DÉ means "noise" and GÙ.DÉ means "cry."
+
+@label 3
+
+"He moves around" (@i{idâl}) (= @i{LKA} 115 unknown), (can be written) DU.DU, (it derives from) @i{dâlu}, (it refers to a person) who moves around.
+
+@label 4 - 5
+
+"(Fish) roe" (= @i{LKA} 115 unknown) means "spawn," since ZIZNA means "roe" and ZIZNA means "spawn."
+
+@label 6 - 7
+
+"@i{šīqu}" (= @i{LKA} 115 unknown) means "star." The star mul.MU.BU.KÉŠ.DA is the great Anu of Heaven, (i.e.), the Yoke constellation. 
+
+@label 8
+
+"The LAḪ₄.GI star" (= @i{LKA} 115 unknown) is Aries, i.e., Dumuzi.
+
+@label 9
+
+"@i{lū}" (= @i{LKA} 115 unknown) means @i{lā}, i.e., "Bull" (@i{lê}). The "Kidney star" is the star of Eridu.
+
+@label 10
+
+dug.SÌLA.GAZ (= @i{LKA} 115 o 5) means @i{širmu}-vessel. "(Made) of clay" (@i{šá} IM) (= @i{LKA} 115 o 6) means "unfired."
+
+@label 11
+
+"A figurine of clay" (= @i{LKA} 115 o 6) means "a figurine of the sorcerer and sorceress."
+
+@label 12 - 13
+
+Išum (= @i{LKA} 115 o 9) means "attentive slaughterer," since I means "attentive" and ŠUM means "to slaughter."
+
+@label 14 - 16
+
+[TAB].BA (i.e., "friend") (= @i{LKA} 115 o 14) is "he who is loyal to a man." [A] means "son" and DAB means "to seize." [Com]panion (@i{tappû}) means "another (lit. second) man," since TAB means "to double."
+
+@label 17 - 19
+
+"A second [@i{man}]" is a @i{kināti} or @i{kiyyāti}. IGI-@i{it} @i{means} "colleague" (@i{kinattu}); the same (also) means "@i{porter}" (lit., "@i{in front of the gate}"). NIR means "to reach."
+
+@label 20 - 21
+
+Questioning for "If evil signs against a man and his house are seen" (= @i{LKA} 115 incipit).

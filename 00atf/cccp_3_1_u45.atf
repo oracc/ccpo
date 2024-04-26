@@ -1,0 +1,84 @@
+&P461291 = CCP 3.1.u45 (http://ccp.yale.edu/P461291) = BM 76985
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+1'. !zz [...] x# : ul?#-[...]
+#lem: u; u; u
+
+2'. !zz [...] : še-ʾ-i# [...]
+#lem: u; +šeʾû[seek (out)//seeking out]V'N$šeʾi; u
+
+3'. !zz [... !bs e]-gu?#-u₂ !cm : ha-ṭu-[u₂ ...]
+#lem: u; +egû[be(come) lazy//be(com)ing lazy]V'N$; +haṭû[do wrong//doing wrong]V'N$; u
+
+4'. !zz [...] ša₂?# ma-le-e IGI pad?#-[...]
+#lem: u; ša[of]DET; +malû[be(come) full//be(com)ing full]V'N$; +īnu[eye]N$; u
+
+5'. !zz [...]-x#-na-ad !cm : ṭi-id IDIM !zz : [...]
+#lem: u; ṭīd[clay]N; nagbi[source]N; u
+
+#note: The first sign is the right end of a low oblique [ILF].
+6'. !zz [...] !cm : MIN !bs GIR₃ !cm : še-e-pi !zz : x# [...]
+#lem: u; šanîš[alternatively]AV; šēp[foot]N; šēpi[foot]N; u; u
+
+7'. !zz [...] x# $ŠU/di# $IŠ : !cm sa-pa-nu !zz : an-na-[...]
+#lem: u; u; u; u; +sapānu[flatten//flattening]V'N$; u
+
+8'. !zz [...]-x# !cm : ap-pi : !bs TUN₃ !cm sa-ap-na#-[...]
+#lem: u; appi[tip]N; u; u
+
+#note: The well-attested equation @akk{TÙN.BAR} = @i{sapsapu} suggests reading @akk{sa-ap-sa!#-[ap]} at the end, but the last sign looks like @akk{NA}, and @akk{SA} seems impossible [ILF].
+9'. !zz [...] x# {d}GAŠAN-ia₂ GU₃?#{+si} : {d}BAD [...]
+#lem: u; u; Beletiya[1]DN; išassi[shout]V; Ellil[1]DN; u
+
+10'. !zz [...] !cm {iti#}ŠU u {iti}AB qa-ba-a !zz : {d#}[...]
+#lem: u; Duʾuzu[1]MN; u[and]CNJ; Ṭebetu[1]MN; qabâ[speech]N; u
+
+11'. !zz [...]-ha# GUB{+az} : !bs {d}a-tu-gu-la !cm : !qt [%sux ni₂-te an-na tuš-a !zz ...]
+#lem: u; ittazzaz[triumph]V; +Atugula[]DN$; mete[one's own]RP; an[sky]; tuš[dwell]; u
+
+#note: The end has been reconstructed after An = Anu II 104. 
+12'. !zz [... !bs {d}a-tu-ban₃]-da# !cm : !qt %sux ama si-ik-la₂-a-ke₄ !cm : %sb {d}a-tu#-[ban₃-da !zz ...]
+#lem: u; +Atubanda[]DN$; ama[mother]N; X; Atubanda[1]DN; u
+
+#note: The line contains a quotation from @i{An} = @i{Anu} II 104-105, @akk{{d}a-tu-gu-la} = ní-te an-na tuš-a / @akk{{d}a-tu-bàn-da} = ama-síki-lá-ke₄ (for the reading of the latter entry, see Lambert apud Volk CTMMA 2 (2005) p. 8 ad 17, there the line is @i{An} = @i{Anu} II 100). See also @i{PSD} A/3 16b.
+13'. !zz [...] !cm {mul₂}SUHUR.MAŠ₂{ku₆} : ina {iti}AB# !zz [...]
+#lem: u; +suhurmāšu[]CN$; ina[in]PRP; Ṭebetu[1]MN; u
+
+14'. !zz [...] : !cm ina lib₃-bi ša₂ ina {iti}ŠU !zz : še#-[...]
+#lem: u; ina[in]PRP; libbi[interior]N; ša[that]REL; ina[in]PRP; Duʾuzu[1]MN; u
+
+15'. !zz [...] x# : !cm u a-ga-an-ni-ta !zz : MIN?# [...]
+#lem: u; u; u; +agannû[these]N$agannīta; šanîš[alternatively]AV; u
+
+16'. !zz [...] x si?#-ti-šu₂# : hi-it?#-[...]
+#lem: u; u; X; u
+
+17'. !zz [...] x# : $MAŠ u?#-uš#/ta# [...]
+#lem: u; u; u; X; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] "@i{to be negligent}" means "to do wrong" [...]
+4'. [...] ... full ... [...]
+5'. [...] ... means "clay of the @i{water spring}" (sc. of the Apsû?) [...]
+6'. [...] ... ditto, GÌR means "feet," ... [...]
+7'. [...] ... "to flatten" ... [...]
+8'. [...] ... TÙN means @i{mous}[@i{tache} ...]
+9'. [...] ... Bēltīya @i{shouts}. Enlil [...]
+10'. [...] it is said in Duʾūzu (IV) and Ṭebētu (X) [...]
+11'. [...] stands. Atugula is ["the fearful, who dwells in the sky" ...]
+#note: The end has been reconstructed after An = Anu II 104. 
+12'. [... Atuband]a is "the old woman ..." Atu[banda is ...]
+13'. [...] Capricorn. In Ṭebētu (X) [...]
+14'. [...] ... on account of (the fact that) in Duʾūzu (IV) ... [...]
+15'. [...] ... means "these" ... [...]
+16'. ...
+17'. ...

@@ -1,0 +1,66 @@
+&P348560 = CCP 7.2.u2 (http://ccp.yale.edu/P348560) = W 22307/52
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+2'. !zz [...]-ku?# qa?#-[...]
+#lem: u; u
+
+3'. !zz [...]-ra-ah : x#-[...]
+#lem: u; u
+
+4'. !zz [...]-ni [...]
+#lem: u; u
+
+5'. !zz [...]-x#-u₂ ul*#-x#-[...]
+#lem: u; u
+
+6'. !zz [...] !cm ina ŠA₃ ša₂ SUD : sa-[la?-hu? !zz ...]
+#lem: u; ina[in]PRP; libbi[interior]N; ša[that]REL; +salāhu[sprinkle//sprinkling]V'N$; +salāhu[sprinkle//sprinkling]V'N$; u
+
+#note: Tentative restoration and interpretation.
+7'. !zz [...] ib-bu-[...]
+#lem: u; u
+
+8'. !zz [...]-li?#-ti₃ ina ul-x#-[...]
+#lem: u; ina[in]PRP; u
+
+9'. !zz [...]-le-e [...]
+#lem: u; u
+
+10'. !zz [...]-x# : !cm ina EŠ₂.GAR₃ {d?#}[...]
+#lem: u; ina[in]PRP; iškār[series]N; u
+
+11'. !zz [... !bs ALAN? !cm :] la-a-an : [...]
+#lem: u; +lānu[form]N$; +lānu[form]N$lān; u
+
+12'. !zz [...]-a-me-et x#-[...]
+#lem: u; u
+
+13'. !zz [...] ul?#-tu₄ : x#-[...]
+#lem: u; ultu[about]PRP; u
+
+14'. !zz [...]-ni# [...]
+#lem: u; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. ...
+4'. ...
+5'. ...
+6'. [...] as in SUD = @i{sa}[@i{lāḫu} ...]
+7'. ...
+8'. ...
+9'. ...
+10'. [...] in the series [...]
+11'. [... ALAN (?)] means “figure” [...]
+12'. ...
+13'. [...] @i{from} [...]
+14'. ...

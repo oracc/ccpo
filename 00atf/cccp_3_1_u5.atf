@@ -1,0 +1,367 @@
+&P348705 = CCP 3.1.u5 (http://ccp.yale.edu/P348705) = W 22730/5
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+@obverse
+$ about 1-2 lines missing
+
+1'. !bs * {mul#}[...]
+#lem: u
+
+2'. ($___$) !bs KA ID₂ [...]
+#lem: pî[mouth]N; nāri[river]N; u
+
+3'. ($___$) !cm ID₂ [...]
+#lem: nāri[river]N; u +.
+
+4'. !bs * {d}UDU.IDIM ana {mul#}x#-x# x# x# x# x# x# MIN# ZIMBIR{ki} [...]
+#lem: bibbu[planet]N; ana[according to]PRP; u; u; u; u; u; u; u; Sippar[1]SN; u
+
+
+5'. ($___$) !cm {mul}AL.LUL ID₂ {d}NIN.GIR₂.SU {mul}ṣal-bat-a-nu [...]
+#lem: Alluttu[Crab]CN; +nāru[river]N$nār; Ningirsu[1]DN; Ṣalbatanu[Mars]CN; u +.
+
+#note: For the Crab star as the "River of Ningirsu," see Weidner AfO 20 (1963) p. 117 fn. 9 and id. @i{Gestirn-Darstellungen} p. 22 and 88 fn. 88.
+6'. !bs * {mul}ṣal-bat-a-nu {mul}AL.LUL TE ELAM.MA ZI URU DAB{+bat} ši#-[...]
+#lem: Ṣalbatanu[Mars]CN; Alluttu[Crab]CN; iṭhe[approach]V; Elam[1]GN; +tebû[arise]V$itebbe +.; +ālu[city]N$; +ṣabātu[seize]V$iṣṣabbat +.; u
+
+7'. !bs * {mul}MAN-ma <ana> {mul}AL.LUL TE NUN UŠ₂ ($___$) !cm {mul}MAN-ma {mul#}[...]
+#lem: Šanu[Strange]CN; ana[according to]PRP; Alluttu[Crab]CN; iṭhe[approach]V; rubû[prince]N; imât[die]V; Šanu[Strange]CN; u
+
+8'. !bs * {mul}U₄.KA.DU₈.A ana {mul}KU₆ TE {d}IDIM ina ABZU KU₆* ID₂ RA[{+iṣ} ...]
+#lem: Nimru[Leopard]CN; ana[to]PRP; Nunu[Fish]CN; iṭhe[approach]V; Ea[1]DN; ina[in]PRP; Apsu[1]GN; nūna[fish]N; nāri[river]N; irahhiṣ[devastate]V; u
+
+#note: Compare perhaps @i{Lugale} 93: ku₆-bi engur-ra ud mi-ni-íb-ra-aḫ | @i{nūnšu ina apsî Adad irḫiṣ-ma}, "Adad smote its fish in the apsû."
+9'. ($___$) !bs i-šal-li !cm ti-amat bu-un-na-an-ni-šu₂ UN-ME u₂-kal-lam# [...]
+#lem: +šalû[submerge oneself]V$išalli +.; Tiamat[1]DN; +bunnannu[physiognomy//(facial) features]N$bunnannišu; nišī[people]N; +kullumu[show]V$ukallam; u +.
+
+10'. !bs * {mul}UR.BAR.RA {mul}U₄.KA.DU₈.A! TE UR.MAH u UR.BAR.RA-MEŠ [...]
+#lem: Barbaru[Wolf]CN; Nimru[Leopard]CN; iṭhe[approach]V; +nēšu[lion]N$nēšū; u[and]CNJ; barbarū[wolf]N; u
+
+11'. ($___$) !bs GU₇-ME $LU $NIM pi-si-ri SI.SA₂ !cm {d}60 {mul#}[...]
+#lem: +akālu[eat//devour]V$ikkalū +.; u; u; u; iššir[thrive]V +.; Anu[1]DN; u +.
+
+12'. !bs * MUL.MUL {mul}ŠUDUN# KUR{+ud} ina MU BI GAN₂.BA TUR{+er} x# !zz [...]
+#lem: Zappu[Bristle]CN; Niru[Yoke]CN; ikšud[reach]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; mahīru[business]N; iṣehher[be(come) small]V; u; u +.
+
+13'. !bs * MUL.MUL {mul}KA.MUŠ.I₃.GU₇.E KUR{+ud} ina MU BI !zz [...]
+#lem: Zappu[Bristle]CN; Pašittu[Obliterator]CN; ikšud[reach]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; u +.
+
+14'. !bs * MUL.MUL {mul}AMAR.UTU KUR{+ud} ina MU BI um-mu u um-ši# [GAL₂{+ši} !zz ...]
+#lem: Zappu[Bristle]CN; +Marduk[]DN'CN$; ikšud[reach]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; ummu[heat]N; u[and]CNJ; +umšu[summer]N$umši; ibašši[exist]V; u +.
+
+15'. !bs  * MUL.MUL {mul}ELLAG₂ KUR{+ud} ina MU BI um-mu x# !zz [...]
+#lem: Zappu[Bristle]CN; Kalitu[Kidney]CN; ikšud[reach]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; ummu[heat]N; u; u +.
+
+16'. !bs * MUL.MUL {mul}AŠ.IKU KUR{+ud} a-ki-lu GAL₂{+ši} {d}IŠKUR [RA{+iṣ} !zz ...]
+#lem: Zappu[Bristle]CN; +Iku[Field]CN$; ikšud[reach]V; +ākilu[eater//caterpillar]N$ākilū; ibašši[exist]V +.; Adad[1]DN; irahhiṣ[devastate]V; u +.
+
+#note: The line is also attested in LB 1321 r 4' (CCP 3.2.2.A).
+17'. !bs * MUL.MUL {mul}AŠ.IKU KUR{+ud} GUN {giš}GIŠIMMAR LA₂ {d}[x !zz ...]
+#lem: Zappu[Bristle]CN; Iku[Field]CN; ikšud[reach]V; +biltu[load//yield]N$bilat; gišimmari[date palm]N; imaṭṭi[diminish]V +.; u; u
+
+18'. !bs * {mul}a-ru₆ ana MUL.MUL KUR{+ud} {d}IŠKUR [RA{+iṣ} !zz ...]
+#lem: Aru[Frond]CN; ana[to]PRP; Zappu[Bristle]CN; ikšud[reach]V; Adad[1]DN; irahhiṣ[devastate]V; u +.
+
+#note: The line is also attested in LB 1321 r 5' (CCP 3.2.2.A).
+19'. !bs * {mul}a-ru₆ ana {mul}UG₅ KUR{+ud} ŠE.GIŠ.I₃ NIM SIG₅! !cm {mul}[UDU.IDIM.SAG.UŠ {mul}za-ap-pa KUR{+ud} ...]
+#lem: Aru[Frond]CN; ana[to]PRP; +Erebu[Raven]CN$; ikšud[reach]V; +šamaššammū[sesame]N$; harpu[early]AJ; idammiq[be(come) good]V +.; Kayyamanu[Saturn]CN; +Zappu[Bristle]CN$; ikšud[reach]V; u +.
+
+#note: The line is also attested in LB 1321 r 20' (@i{CCP} 3.2.2.A).
+20'. !bs * {mul}LU.LIM MUL.MUL KUR{+ud} GU₇{+ti} [{d}IMIN.BI !zz ...]
+#lem: Lulimu[Stag]CN; Zappu[Bristle]CN; ikšud[reach]V; +ukultu[food//devouring]N$ukulti; Sebettu[Seven]DN; u +.
+
+#note: The line is also attested in LB 1321 r 6' (@i{CCP} 3.2.2.A).
+21'. !bs * {mul}TI₈{mušen} ana MUL.MUL TE {d}IŠKUR [RA{+iṣ} !zz ...]
+#lem: Eru[Eagle]CN; ana[to]PRP; Zappu[Bristle]CN; iṭhe[approach]V; Adad[1]DN; irahhiṣ[devastate]V; u +.
+
+#note: The line is also attested in LB 1321 r 9' (@i{CCP} 3.2.2.A).
+22'. !bs * {mul}PAN ana {mul}TI₈{mušen} KUR{+ud} ŠE.GIŠ.I₃ SIG₅ !zz [...]
+#lem: Qaštu[Bow]CN; ana[to]PRP; Eru[Eagle]CN; ikšud[reach]V; šamaššammū[sesame]N; idammiq[be(come) good]V +.; u +.
+
+#note: The line is also attested in LB 1321 r 12' (@i{CCP} 3.2.2.A).
+23'. !bs * {mul}PAN ana {mul}ŠUL.PA.E₃ KUR{+ud} ELAM.MA{ki} NINDA GU₇# !zz [...]
+#lem: Qaštu[Bow]CN; ana[to]PRP; +Šulpae[]DN'CN$; ikšud[reach]V; Elam[1]GN; akala[food]N; ikkal[eat]V; u +.
+
+#note: The line is also attested in LB 1321 r 14' (@i{CCP} 3.2.2.A).
+
+24'. !bs * {mul}PAN ana {mul}KAK.SI.SA₂ KUR{+ud} BURU₁₄ SI.SA₂ [KI.LAM GI.NA !zz ...]
+#lem: Qaštu[Bow]CN; ana[to]PRP; Šukudu[Arrow]CN; ikšud[reach]V; ebūru[harvest]N; iššir[go well]V +.; mahīra[exchange rate]N; kūn[firm]AJ; u +.
+
+#note: The line is also attested in LB 1321 r 13' (@i{CCP} 3.2.2.A).
+25'. !bs * {mul}UZ₃ {mul}AŠ.IKU KUR-ma GUB{+iz} ina MU BI A₂#.[SAG₃ GAL₂ !zz ...]
+#lem: Enzu[Goat]CN; Iku[Field]CN; ikšudma[reach]V; izziz[stand]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; asakku[(a demon or illness)]N; ibašši[exist]V; u +.
+
+#note: The line is also attested in LB 1321 r 15' (@i{CCP} 3.2.2.A).
+26'. !bs * {mul}UZ₃ {mul}UR.BAR.RA KUR{+ud} ina MU BI [ŠUB{+ti₃} bu-li₃ !zz ...]
+#lem: Enzu[Goat]CN; Barbaru[Wolf]CN; ikšud[reach]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; miqitti[epidemic]N; būli[livestock]N; u +.
+
+#note: The line is also attested in LB 1321 r 16' (@i{CCP} 3.2.2.A).
+27'. !bs * {mul}UZ₃ {mul}{giš}GANA₂.UR₃! KUR{+ud} ina MU BI [GABA.RI {d}MIN {d}MIN !zz ...]
+#lem: Enzu[Goat]CN; Maškakatu[Harrow]CN; ikšud[reach]V; ina[in]PRP; šatti[year]N; šuāti[that]IP; gabari[duplicate]N; u; u; u +.
+
+#note: The line is also attested in LB 1321 r 17' (@i{CCP} 3.2.2.A).
+28'. !bs * {mul}UZ₃ {d}UTU KUR{+ud} SU.GU₇ bu-li₃ U₂.GUG GAL₂{+ši} !cm {d}dele-bat {d}ŠUL.PA.E₃# [KUR-ma !zz ...]
+#lem: Enzu[Goat]CN; Šamaš[1]DN; ikšud[reach]V; +bubūtu[hunger]N$bubūt; būli[livestock]N; sunqu[famine]N; ibašši[exist]V +.; Delebat[Venus]CN; +Šulpae[]DN$; ippuhma[rise]V; u +.
+
+#note: This line is written on the left edge of the tablet. The line is also attested in LB 1321 r 18' (@i{CCP} 3.2.2.A).
+29'. !bs * {mul}UG₅.GA KASKAL# {d}UTU KUR{+ud} KI#.LAM# TUR# !zz [...]
+#lem: +Erebu[Raven]CN$; harrān[path]N; Šamaš[1]DN; ikšud[reach]V; mahīra[exchange rate]N; iṣehher[be(come) small]V; u +.
+
+#note: The line is also attested in LB 1321 r 23' (@i{CCP} 3.2.2.A).
+30'. !bs * {mul}UG₅.GA ana {d}ŠUL.PA.E₃ KUR{+ud} x !zz [...]
+#lem: Erebu[Raven]CN; ana[to]PRP; Šulpae[1]DN; ikšud[reach]V; u; u +.
+
+31'. !bs * {mul}AMAR*.UTU* ana {mul}AL.LUL# KUR{+ud} ŠE*#.GIŠ*#.[I₃ SIG₅ !zz ...]
+#lem: Marduk[1]'CN; ana[to]PRP; Alluttu[Crab]CN; ikšud[reach]V; šamaššammū[sesame]N; idammiq[prosper]V; u
+
+#note: The line is also attested in LB 1321 r 24' (@i{CCP} 3.2.2.A).
+32'. ($___$) !cm {d}SAG.ME.GAR [...]
+#lem: X; u +.
+
+33'. !bs * {mul}ELLAG₂ ana {mul}UGA{mušen} i-mid# [ŠE.GIŠ.I₃ SIG₅ AN.GE₆ !zz ...]
+#lem: Kalitu[Kidney]CN; ana[at]PRP; Erebu[Raven]CN; īmid[touch]V; šamaššammū[sesame]N; idammiq[prosper]V; attallû[eclipse]N; u +.
+
+#note: The line is also attested in LB 1321 r 25' (@i{CCP} 3.2.2.A).
+34'. !bs [* {mul}PAN (ana)] {mul}UG₅.GA i-mid KU₆-ME u*# [MUŠEN-ME ud-daš-šu₂-u₂ !zz ...]
+#lem: Qaštu[Bow]CN; ana[according to]PRP; Erebu[Raven]CN; īmid[touch]V; X; u[and]CNJ; X; +dešû[sprout]V$uddaššû; u +.
+
+#note: The line is also attested in LB 1321 r 27' (@i{CCP} 3.2.2.A).
+35'. !bs [x x x] x#-il#-lu {mul}a-nu-ni-tu₄# !zz [...]
+#lem: u; u; u; u; Annunitu[1]'CN; u +.
+
+36'. !bs [* {mul}UR.BAR].RA# {mul}UR.MAH KUR{+ud} x# !zz [...]
+#lem: Barbaru[Wolf]CN; Nešu[Lion]CN; ikšud[reach]V; u; u
+
+#note: The line is also attested in LB 1321 r 29' (@i{CCP} 3.2.2.A).
+37'. !bs [* {mul}UZ₃ KASKAL] {d}UTU KUR{+ud} SU.GU₇ bu#-[li₃ U₂.GUG GAL₂{+ši} !zz ...]
+#lem: Enzu[Goat]CN; harrān[path]N; Šamaš[1]DN; ikšud[reach]V; bubūtu[hunger]N; būli[livestock]N; sunqu[famine]N; ibašši[exist]V; u
+
+#note: The line is also attested in LB 1321 r 18' (@i{CCP} 3.2.2.A).
+$ rest of obverse broken
+
+@reverse
+$ start of reverse broken
+1'. !zz [x] x# x# x# [...]
+#lem: u; u; u; u; u
+
+2'. !bs * {mul}UG₅.GA !zz x x x x x x x [...]
+#lem: Erebu[Raven]CN; u; u; u; u; u; u; u; u +.
+
+3'. !bs * {mul}UDU.IDIM 6 ITI ina AN{+e} uš!(E₂)-tab-ri-ma [la ir-bi ...]
+#lem: bibbu[planet]N; n; arhī[month]N; ina[in]PRP; šamê[heaven]N; uštabrima[remain visible]V; lā[not]MOD; irbi[set]V; u
+
+4'. ($___$) !bs EN {d}UTU.ŠU₂.A !zz [...]
+#lem: adi[until]PRP; ereb[entrance]N&šamši[sun]N; u +.
+
+5'. !bs * {mul}UR.MAH MUL-MEŠ-šu₂ il-tap-pu-u₂ [3.20 KI DU{+ku} NIG₂.E₃ !zz (...)]
+#lem: Nešu[Lion]CN; kakkabūšu[star]N; +šapû[be(come) dense//flare up]V$iltappû; +šarru[king]N$; erṣetu[earth]N; illaku[go]V; +lītu[power//victory]N'N$; u +.
+
+#note: The line is identical with that of @i{Mulapin} II iii 30. It also commented upon in the letter @i{SAA} 10 160 o 21. See Hunger @i{Fs Reiner} (1987) p. 160 ad 21.
+
+6'. !bs * {mul}IM.ŠU.RIN.NA x# x# x#-ta#-la₂/ša₂#-a# !zz [...]
+#lem: +Tinuru[Oven]CN$; u; u; u; u +.
+
+7'. !bs * {mul}KU₆ MUL-MEŠ!-šu₂ GE₆! !zz [...]
+#lem: Nunu[Fish]CN; kakkabūšu[star]N; mūši[night-time]N; u
+
+#note: The interpretation of the line adopte here deviates from von Weiher's.
+8'. ($___$) !cm {d}SAG.UŠ x# !zz [...]
+#lem: +Kayyamanu[Saturn]CN$; u; u +.
+
+9'. !bs * {mul}ŠU.GI kur-kur-ru-šu₂ i-nam!-bu#-[uṭ !zz ...]
+#lem: Šibu[Old Man]CN; +kurkurru[(a bird)//(an astral phenomenon)]N$kurkurrušu; inambuṭ[be(come) bright]V; u
+
+10'. ($___$) !cm {d}dele-bat KI GIR₃ [{mul}ŠU.GI GUB !zz (...)]
+#lem: Delebat[Venus]CN; ašar[where]SBJ; +šēpu[foot]N$; Šibu[Old Man]CN; izziz[stand]V; u +.
+
+11'. !bs * {mul}ŠU.GI GABA-su du-ʾu-mat !zz [...]
+#lem: Šibu[Old Man]CN; +irtu[chest]N$irassu; +duʾʾumu[very dark]AJ$duʾʾumat; u
+
+12'. ($___$) !cm {d}SAG.UŠ ina {mul}[...]
+#lem: Kayyamanu[Saturn]CN; ina[in]PRP; u +.
+
+13'. !bs * {mul}{d}dele-bat KI ni-ṣir-tu₂ KUR{+ud} SIG₅ !cm [ana {mul}UR.GU.A KUR-ma !zz (...)]
+#lem: +Delebat[Venus]CN$; ašar[place]N; +niṣirtu[treasure//secret]N$; ikšud[reach]V; dumuq[best]N; ana[according to]PRP; X; ippuhma[rise]V; u +.
+
+#note: Restored with DT 47 13 (@i{CCP} 3.1.58.F.c, Reiner & Pingree @i{BPO} 3 [1998] p. 232).
+
+14'. !bs * {d}iš₈-tar₂ ina {d}UTU.E₃ ina {mul}UR.GU#.[LA !zz ...]
+#lem: Ištar[1]'CN; ina[at]PRP; ṣīt[exit]N&šamši[sun]N; ina[in]PRP; Urgulu[Lion]CN; u +.
+
+15'. !bs * {d}iš₈-tar₂ ina {d}UTU.ŠU₂.A ina {mul}UR.GU.[LA !zz ...]
+#lem: Ištar[1]DN; ina[at]PRP; ereb[entrance]N&šamši[sun]N; ina[in]PRP; Urgulu[Lion]CN; u +.
+
+16'. !bs * {mul}UDU.IDIM !zz [...]
+#lem: bibbu[planet]N; u +.
+
+$ single ruling
+@colophon
+17'. !zz TA ŠA₃ {giš}DA mu-kal-<lim>-ti₃ * U₄ AN {d}EN.LIL₂.LA₂# [...]
+#lem: !ištu[from]PRP; !libbi[interior]N; lēʾi[writing board]N +.; +mukallimtu[scholarly commentary]N$mukallimti; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; u +.
+
+18'. !zz LIBIR.RA.BI.GIM AB.SAR BA.AN.E₃ {im}GI₃*.DA*# [{m}{d}EN.LIL₂-MU-SUM DUMU {m}{d}30-na-din-ŠEŠ-MEŠ]
+#lem: +kīma[like]PRP$&+labīru[original]N$labīri; šaṭir[written]AJ; bari[checked]AJ +.; giṭṭi[oblong tablet]N; +Enlil-šum-iddin[]PN$; māru[son]N; +Sin-nādin-aḫḫe[]PN$
+
+19'. !zz LU₂ DINGIR-BI {d}NUSKA.KE₄ AMA.{d}INNIN-BI DUMU.ZI#-[AB.ZU.KE₄ AMA.A.TU {d}ZU₂.LUM.MA (...)]
+#lem: +ša[who(m)]CNJ$; +ilu[god]N$ilišu; +Nusku[]DN$; +ištaru[goddess]N$ištaršu; +Dumuzi-Abzu[]DN$; +ardu[slave]N$arad; +Ninurta[]DN$; u
+
+20'. !zz UR {d}ME.ME mu-sa₇-pu₂*-u₂ ZA.GIN₃.NA.KA E₂.[(KUR).BI ...]
+#lem: amēl[man]N; Gula[1]DN; +museppû[supplicant]N$musappû; X; X; u
+
+21'. !zz A {m}{d}EN.LIL₂-EN-šu₂-nu {lu₂}NU.EŠ₃ {d}EN.LIL₂ DUMU# [{m}ŠU-{d}30]
+#lem: apil[descendant]N; +Ellil-belšunu[]LN$; +nêšakku[(a priest)]N$nêšak; Ellil[1]DN +.; māru[son]N; Gimil-Sin[1]PN
+
+22'. !qt %s lugal-ŋu₁₀ ši-mah nam-mah-zu me-teš₂ i-i {d}MAŠ [ši-mah nam-mah-zu me-teš₂ i-i]
+#lem: lugal[king]N; mah[great]V/i/mah#ši:~; nammah[greatness]N; meteš[praise]N; e[leave]V/i; Ninurta[1]DN; mah[great]; nammah[greatness]N; meteš[praise]N; e[leave]V/i
+
+#note: Quotation from @i{Angim} 5-6.
+$ end of reverse broken
+
+
+@translation labeled en project
+@label o 1' - o 3'
+"If the [...] star [...] the mouth of the river" [...] river [...].
+
+@label o 4' - o 5'
+"If a planet [approaches the ...] star [...]; Sippar [...]" the Crab is the river of Ningirsu, Mars [...].
+
+@label o 6'
+"If Mars approaches the Crab: Elam will arise. A city will be seized." [...]
+
+@label o 7'
+"If the Strange star approaches the Crab: a prince will die." The Strange star is the [...] star [...].
+
+@label o 8' - o 9'
+"If the Leopard approaches the Fish, Ea will @i{flood} a river fish in the Apsû [...] and submerge (it)" means that Tiāmat will show her features to the people [...].
+
+@label o 10' - o 11'
+"If the Wolf approaches the Leopard: lions and wolves will devour [...]. ... will thrive." Anu [...] star.
+
+@label o 12'
+"If the Plejades reach the Yoke: that year [...] business will diminish." [...].
+
+@label o 13'
+"If the Plejads reach the Obliterator: that year [...]" [...].
+
+@label o 14'
+"If the Plejades reach the Marduk-star: that year there will be heat @i{during} the summer" [...].
+
+@label o 15'
+"If the Plejades reach the Kidney: in that year heat ..." [...].
+
+@label o 16'
+"If the Plejades reach the Field: there will be (a plague of) caterpillars. Adad [will flood ..." ...].
+
+@label o 17'
+"If the Plejades reach the Field: the yield of the date palm will diminish [..." ...].
+
+@label o 18'
+"If the Frond reaches the Plejades: Adad [will flood ..." ...].
+
+@label o 19'
+"If the Frond reaches the Raven: the early flax will be fine" means that Saturn approaches the Plejades [...].
+
+@label o 20'
+"If the Stag reaches the Plejades: plague of [the Sebetti" ...].
+
+@label o 21'
+"If the Eagle approaches the Plejades: Adad [will flood" ...].
+
+@label o 22'
+"If the Bow reaches the Eagle: the sesame will be good." [...].
+
+@label o 23'
+"If the Bow reaches Šulpae: Elam will eat (good) bread" [...].
+
+@label o 24'
+"If the Bow reaches the Arrow: the harvest will go well. [The market will prosper" ...].
+
+@label o 25'
+"If the Goat reaches the Field and stands (there): in that year [there will be] an @i{asakku}-demon" [...].
+
+@label o 26'
+"If the Goat reaches the Wolf: in that year [there will be loss of livestock" ...].
+
+@label o 27'
+"If the Goat reaches the Harrow: in that year [..." ...].
+
+@label o 28'
+"If the Goat reaches the Sun: hunger of livestock. There will be famine" means that Venus [reaches] Šulpae [(...)].
+
+@label o 29'
+"If the Raven reaches the path of the Sun: trade will diminish" [...].
+
+@label o 30'
+"If the Raven reaches Šulpae, [..." ...].
+
+@label o 31' - o 32'
+"If Marduk's star reaches the Crab: the flax will be fine" [...] Jupiter [...].
+
+@label o 33'
+"If the Kidney leans on the Raven: [the flax will be fine; there will be an eclipse" ...].
+
+@label o 34'
+["If the Bow] leans [(on)] the Raven: fish [and birds will flourish" ...].
+
+@label o 35'
+["...] ... Annunitu [..." ...].
+
+@label o 36'
+["If the Wolf] reaches the Lion: ..." [...].
+
+@label o 37'
+["If the Goat] reaches the [path] of the Sun: hunger in [the livestock, there will be famine" ...].
+
+@label r 1'
+[...] ... [...].
+
+@label r 2'
+"If the Raven ..." [...].
+
+@label r 3' - r 4'
+"If a planet remains visible in the sky for 6 months and [does not set ...] until sunset [..." ...].
+
+@label r 5'
+"If the Lion's stars repeatedly flare up [the king will be victorious wherever he goes" (...)].
+
+@label r 6'
+"If the Oven ..." [...].
+
+@label r 7' - r 8'
+"If the Fish's stars are dark [..."] Saturn [...].
+
+@label r 9' - r 10'
+"If the Old Man's @i{kurkurru} becomes bright [..." means that] Venus [stands at the @i{Old Man's}] foot [(...)].
+
+@label r 11' - r 12'
+"If the Old Man's chest is very dark [..."] Saturn [...] in the star [...].
+
+@label r 13'
+"If Venus approaches its hypsoma, it is favorable" [means that she approaches the Lion, ...].
+
+@label r 14'
+"If Ištar [...] at sunrise in the Lion" [...].
+
+@label r 15'
+"If Ištar [...] at sunset in the Lion" [...].
+
+@label r 16'
+"If a planet [..." ...].
+
+@label r 17'
+[Copied] from a wooden writing board (containing) a @i{mukallimtu}-commentary on @i{Enūma Anu Enlil} [...].
+
+@label r 18' - r 21'
+Written and collated according to its original. Long-tablet [of ...], whose god is Nuska (and) whose goddess is Sadar[nuna (?), servant of Ninurta (?) (...)], servant of Gula, who prays to Enlil (?), Ea/Bēl (?) [and (?) ... Hand of ...], son of Enlil-bēlšunu, the @i{nêšakku}-priest of Enlil, de[scendant (?) of Gimil-Sîn (?)].
+
+@label r 22'
+My king, you are magnificent – let your magnificence be praised! Ninurta, [you are magnificent – let your magnificence be praised!]
+
+
+
+
+
+

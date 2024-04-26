@@ -1,0 +1,154 @@
+&P461206 = CCP 3.7.2.K (http://ccp.yale.edu/P461206) = BM 41623
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1'. !zz [...] x#-ib-tu₂ x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...] : pi-riš-tu₂ : ip-[...]
+#lem: u; pirištu[secret]N; u
+
+3'. !zz [...] ga-ṣi-ṣi : {d}ALAD [x] kin-ne₂-e {d?}IŠKUR : x# [...]
+#lem: u; +gāṣiṣu[gnashing]AJ$; šēdi[protective deity]N; u; kinnê[mountain]N; Adad[1]DN; u; u
+
+4'. !qt %sux [...]-ka# ki-bala-a-še₃ zu₂ ba-ab-sud₂-sud₂ : %sb DINGIR mu-x#-[...]
+#lem: u; kibala[rebel land]; zu[tooth]N; sudsud[grind]V/t/sud₂-sud₂; ila[god]N; u
+
+#note: The line is a quotation from a Sumerian literary text. See Antagal A 166 (MSL 17 p. 186): @akk{KA{+zu-su-ud}.RAD{+MIN}.RAD} = @i{gaṣāṣu šá šin-ni}. Although the text quoted here cannot be identified as yet, U. Gabbay (privatim) points to the use of the same verb in Lugale 258 (šita lipiš diri-ga-ke₄ zú ì-súd-súd // @i{kakku nasiḫ libbi šinna igaṣṣaṣ}, “The weapon that pierces the heart grinds its teeth”), as well as in two Eršaḫungas (Maul, @i{Herzberuhigungsklagen}, p. 98 nos. 5-6:12, and p. 143, no. 18:15 (both in context of battle against enemies).
+5'. !zz [... !bs ri]-qit#-tu₂ !cm : ri-qi₂-it-tu₂ šin-ni : !bs * ra-x# !zz [...]
+#lem: u; +riqītu[(ruminant’s third) stomach]N$; +riqītu[(ruminant’s third) stomach]N$; šinnī[tooth]N; u; u
+
+#note: Compare @i{riqittu} = @i{šinnu} in @i{Ḫargud} B IV 4 (@i{MSL} 9 p. 34) and BM 34584+ l. 63 (Jiménez @i{JCS} 68 [2016] p. 203).
+6'. !zz [...] x#-bi-bi : ZAG.GA : !bs ti-iṣ-bur !cm : da#-[ba-bu !zz ...]
+#lem: u; u; X; +ṣabāru[twinkle//speaking]V'N$tiṣburu; dabābu[speaking]'N; u
+
+#note: The restoration of @i{dabābu} follows @i{Malku} IV 103: @i{tiṣburu} = @i{dabābu}.
+7'. !zz [...] x# : !bs {d}30 !cm : {d}LUGAL.KI.SUR.RA !zz :# x# [...]
+#lem: u; u; Sin[1]DN; +Lugal-kisurra[]DN$; u; u
+
+8'. !zz [...] x# :# 15# 15# x# x# [...]
+#lem: u; u; imitti[right]N; imitti[right]N; u; u; u
+
+@reverse
+
+1'. !zz [x x x x x x x x x x x] x# : x# [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !zz [x x x x x x x x x x] x#-su : * x# [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u
+
+3'. !zz [x x x x x x x x x]-la#-a-tu₄ : * U₄ x# [...]
+#lem: u; u; u; u; u; u; u; u; u; enūma[when]SBJ; u; u
+
+4'. !zz [x x x x x x x x] x#-u₂-tu₂ : !bs 15 IGI-šu₂ a-ri#-[ik !zz ...]
+#lem: u; u; u; u; u; u; u; u; u; imitti[right]N; +īnu[eye]N$īnīšu; +arku[long]AJ$arik; u
+
+#note: Compare Böck @i{Die babylonisch-assyrische Morphoskopie} (2000) pp. 110-111 ll. 61-68 (omens beginning with @akk{DIŠ 15 IGI-šú}). Ibid. l. 69 reads @akk{DIŠ 15 IGI-šú GÍD i-šár-rù}. The sign @i{ú} seems to be written in a smaller script; it may be a gloss (perhaps [@i{pe-ṣ}]@akk{u!?-u₂.BABBAR}).
+5'. !zz [x x x x x x x x] !bs x#-a-pi-is GE₆ GAR !cm : i-na-a-šu₂ !zz [...]
+#lem: u; u; u; u; u; u; u; u; u; +ṣalmu[black]AJ$; šakin[displayed]AJ; +īnu[eye]N$īnāšu; u
+#note: As I.L. Finkel suggests (privatim), it would be possible to interpret the signs as @akk{[...]-x#-a pi-is-mi}. Although @i{pismu} (a bovine disease) is elsewhere attested only in lexical lists, the present of @i{riqittu} in the obverse of the tablet makes this possibility attractive.
+6'. !zz [x x x x x x x] !bs x#-sil/kut-ti GAR !cm : pa-ni ki-nu-tu : !bs * NUNUZ?# [...]
+#lem: u; u; u; u; u; u; u; u; šakin[displayed]AJ; pāni[front]N; +kīnu[permanent]AJ$kīnūtu; peli[egg]N; u
+
+#note: The explanation seems to be based on the phonetic similarity between ⸢x⸣-@i{kutti} and @i{pānū kīnūtu}.
+7'. !zz [x x x x x x !bs x]-ri/ar#-ṣa-a-ni !cm : {d}DUMU.ZI : !bs SAG !cm : qaq-qa-du# !zz [...]
+#lem: u; u; u; u; u; u; u; Dumuzi[1]DN; qaqqadu[head]N; qaqqadu[head]N; u
+#note: I.L. Finkel suggests that the association of [...@i{a}]@i{r}/@i{ri-ṣa-a-ni} with Dumuzi may have been triggered by an analysis of the first word as @i{reʾî ṣēni}, "shepherd of cattle."
+8'. !zz [x x x x x x] !bs x#-šu₂?# LUGUD₂.DA 150 UGU mi-na-ti-šu₂ GID₂.DA BA.UG₇?# !zz [...]
+#lem: u; u; u; u; u; u; u; kuri[short]AJ; +šumēlu[left]N$; muhhi[account]N; minâtišu[calculation]N; arku[long]AJ; imât[die]V; u
+
+9'. !zz [x x x x x x !bs {d}]ALAD?# NU?# sam-kat₂ !cm : aš₂-šu₂ {mul₂}GU₄.AN.NA u {mul₂}{lu₂}HUN.GA₂ ša₂ !zz x# [...]
+#lem: u; u; u; u; u; u; u; X; +samku[buried]AJ$samkat; aššu[because of]'PRP; Alu[Bull of Heaven]'CN; u[and]CNJ; Agru[1]CN; ša[of]DET; u; u
+#note: The reading [... d.KA]L×BAD? at the beginning is courtesy of I.L. Finkel.
+10'. !zz [x x x x x !bs ig]-ri# ul i-šet-su !cm : ana i-di-šu₂ in-nam-gar : ig-ri !zz [...]
+#lem: u; u; u; u; u; +igru[hire]N$; ul[not]MOD; +šêtu[be/leave remaining]V$išêtsu; ana[according to]PRP; idišu[side]N; +agāru[hire]V$innamgar; igru[hire]N; u
+
+#note: This explanation also appears in @i{SpTU} 1 83 r 12 (= Böck @i{Morphoskopie} (2000) pp. 256 l. 48): @i{igru ul i-šet-su áš-šú a-na i-di-šú in-na-ag-ga-ru} (= @i{CCP} 3.7.2.C).
+11'. !zz [x x x x x x] !cm {mul₂#}GU₄.AN.NA u {mul₂}{lu₂}HUN.GA₂ KA₂ {d}LAMMA-šu₂-nu : !bs * kin-ṣi-šu₂# !zz [...]
+#lem: u; u; u; u; u; u; Alu[Bull of Heaven]'CN; u[and]CNJ; Agru[1]CN; bāb[gate]N; +lamassu[(female) tutelary deity]N$lamassašunu; +kinṣu[shin]N$kinṣīšu; u
+
+#note: The correct understanding of @akk{KÁ {d}KAL-šú-nu} escapes us. Compare Böck @i{Die babylonisch-assyrische Morphoskopie} (2000) pp. 264-265 ll. 12-18 (omens beginning with @i{šumma kinṣu}).
+12'. !zz [x x x x x x] !cm : ka-a-nu ša₂ GIR₃-MIN : !bs * GIR₃-MIN 15-šu₂ ik-ru IBILA-šu₂ UG₇ !cm : la/si#-[...]
+#lem: u; u; u; u; u; u; +kânu[be(come) permanent//be(com)ing permanent]V'N$; ša[of]DET; šēpī[foot]N; šēpī[foot]N; imittišu[right]N; +karû[be(come) short]V$ikru; apilšu[heir]N; imât[die]N; u
+
+#note: Compare @i{Sagig} XIV iv 6' (@i{TDP} p. 142): @i{šumma šēpšu ša imitti ik-te-ner-ru qāt ištar}, "If his right foot is short - Hand of Ištar."
+13'. !zz [x x x x x x] !bs x#-MEŠ-šu₂ KAR-ma SIG₅ !cm : KAR : pu-uh-hu-ru : ip-hur?# [...]
+#lem: u; u; u; u; u; u; u; ekmākuma[remove]V; idammiq[be(come) good]V; +pahāru[gather//gathering]V'N$puhhuru; puhhuru[gathering]'N; iphur[assemble]V; u
+
+#note: @akk{KAR} = @i{puḫḫuru} is elsewhere unattested, but compare @akk{GÚ.GAR} + @i{puḫḫuru} in several lexical lists (@i{CAD} P 23b). The reading @i{ḫu}[@i{r}?] at the end is courtesy of I.L. Finkel, who also suggests that the passage may be a quotation from a text. 
+14'. !zz [x x x x x] !bs DAB?# !cm : ṣa-ba-tu₂ : !bs * U-MEŠ-šu₂ GIR₃-MEŠ-šu₂ kup-pu-pa ul !zz x#-[...]
+#lem: u; u; u; u; u; ṣabātu[seizing]'N; ṣabātu[seizing]'N; ubānāti[finger]N; šēpētušu[foot]N; kuppupā[very bent]AJ; ul[not]MOD; u
+
+#note: Compare Böck @i{Die babylonisch-assyrische Morphoskopie} (2000) pp. 252 l. 3 (= @i{CCP} 3.7.2.E): @akk{DIŠ GIR₃-MEŠ-šu₂ kup-pu-pa lu [...]}.
+15'. !zz [x x x x x x] x# : !cm ša₂-qu-u₂ : !bs kib-si i-ša₂-ru !cm : SI : i-ša₂-ri# !zz [...]
+#lem: u; u; u; u; u; u; u; šaqû[be(com)ing high]'N; kibsī[track]N; +išaru[straight]AJ$; +išaru[straight]AJ$; +išaru[straight]AJ$išari; u
+
+#note: @i{kibsu išaru} is attested in Böck @i{Die babylonisch-assyrische Morphoskopie} (2000) p. 278 l. 11 (@i{amēlu kibsa išara ikabbas}). The apodosis is elsewhere uncommon.
+16'. !zz [x x x x x x] !bs gi#-mir ALAM{+la-ni}-šu₂ ut-ta-nam-ba !zz : x#-[...]
+#lem: u; u; u; u; u; u; gimir[all]N; +lānu[form]N$lānīšu; +nebû[shine]V$uttanamba; u
+
+#note: The form @i{ut-ta-nam-ba}, which seems to be explained in l. 18' as @i{ut-ta-nab-ba}, is difficult to explain.
+17'. !zz [x x x x x x] !bs ALAM# !cm : la-a-nu : ALAM : bu-un-na#-nu#-[u₂ !zz ...]
+#lem: u; u; u; u; u; u; +lānu[form]N$; lānu[form]N; +bunnannu[physiognomy]N$; +bunnannu[physiognomy]N$; u
+
+18'. !zz [x x x x x x] !cm gi#-mir ALAM-šu₂ ut-ta-nab-ba x# !zz [...]
+#lem: u; u; u; u; u; u; gimir[all]N; +lānu[form]N$lānīšu; +nebû[shine]V$uttanamba; u; u
+
+19'. !zz [x x x x x x] UGU# la-ni-šu₂ tu-x#-[...]
+#lem: u; u; u; u; u; u; muhhi[account]N; lānišu[body]N; u
+
+20'. !zz [x x x x x x] x# u₂-šab-ba-ri# [...]
+#lem: u; u; u; u; u; u; u; +šebēru[break]V$ušabbari; u
+
+$ single ruling
+21'. !zz [ṣa-a-tu₂ u šu-ut] KA# maš-a-[a-al-ti {lu₂}UM.ME.A ša₂ ...]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; mašʾalti[questioning]N; ummânu[expert]N; ša[of]DET; u
+
+22'. !zz [x x x x x x x] x# [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+$ rest of reverse broken
+ 
+@translation parallel en project
+@obverse
+1'. ...
+2'. [...] secret ... [...],
+3'. [...] grinding. The protective spirit [...] @i{mountain of Adad} [...]
+4'. [...] "grinds his teeth against the enemy land" (= quotation from unknown Sumerian text) ... [...]
+5'. [... "stom]ach," written @i{ri-qí-it-tú}, means "tooth." If ... [...]
+6'. [...] ... "to prattle" means "to sp[eak" ...]
+7'. [...] Sîn is Lugalkisurra [...]
+8'. ...
+
+@reverse
+
+1'. ...
+2'. ...
+3'. ...
+4'. [...] ... If the right (side) of his eyes is lo[ng ...].
+5'. [...] ... has a black ... @i{means} "his eyes [..." ...]
+6'. [...] ... "If he has ...@i{kuttu}" means "if he has a righteous face" (@i{pānu kīnūtu}). "If ... [...]
+7'. [...] ... means "Dumuzi"; SAG means "hea[d ...]
+8'. [... his right ...] is short and its left one is extraordinarily long, @i{he will die} [...]
+9'. [... @i{the protective sp}]@i{irit is not removed}, (it is said) on account of the constellations Taurus and Aries, which [...].
+10'. [...] "There will be no wage remaining for him" means that he will be hired for a pay. "Wage" (@i{igru}) [@i{refers to the constellation Aries} (@i{agru}) ...].
+11'. [...] Taurus and Aries, @i{the gate of their good fortune}. If his shin [...]
+12'. [...] means to be firm, said of feet. "If his right foot is short, his heir will die," [...]
+13'. [... (In) "if] his ... KAR-@i{ma} and there will be good fortune," KAR means "to assemble" ... [...].
+14'. [... @i{DAB} (?)] means "to seize." "His fingers (and) feet are bent, and do not [..." ...],
+15'. [...] means "to raise." (In) "righteous path" (@i{kibsu išaru}), SI means "righteous" (@i{išaru}) [...],
+16'. [...] the whole of his figure (ALAM, with gloss @i{lānu}) @i{constantly shines} [...]
+17'. [...] ALAM means "figure," ALAM means "featur[es" ...]
+18'. [...] the whole of his figure turns 
+19'. [...] @i{upon} his figure ... [...].
+20'. [...] breaks up [...].
+$ single ruling
+21'. [Lemmata and oral expla]nations, (materials for) a ‘que[stioning’ by a (master-)scholar, relating to ... (tablet incipit)].
+22'. ...

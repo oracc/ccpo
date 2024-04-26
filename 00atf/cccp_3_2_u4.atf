@@ -1,0 +1,31 @@
+&P401036 = CCP 3.2.u4 (http://ccp.yale.edu/P401036) = K.14854
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@colophon
+
+1'. !zz [DUB x-KAM * 30 ina IGI.LA₂-šu₂ NIG₂.PA₃].DA# * U₄ AN {d}EN#.[LIL₂]
+#lem: ṭuppu[tablet]N; u; Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; mukallimtu[scholarly commentary]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN
+
+2'. !zz [ki-i pi-i {giš}le-u₅]-um# GABA.RI KA₂.DINGIR.RA{ki#}
+#lem: kī[in accordance with]PRP; pî[wording]N; lēʾum[board]N; gabari[duplicate]N; Babilu[Babylon]SN
+
+3'. !zz [DUB{+pi} {aš}{d}AG-zu-qu-up]-GI#.NA A {aš}{d}AMAR.UTU-MU-BA{+ša₂} {lu₂}A#.[BA]
+#lem: +ṭuppu[(clay) tablet]N$ṭuppi; +Nabu-zuqup-kenu[]PN$; +māru[son]N$mār; +Marduk-šuma-iqiš[]PN$Marduk-šuma-iqiša; ṭupšarri[scribe]N
+
+4'. !zz [x x x x x x x x] x# x# [x x] x# [x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#note: This line contains probably the name of Nabû-zuqup-kēnu’s ancestor, Gabbi-ilāni-ēreš.
+
+@translation parallel en project
+
+@colophon
+
+1'. [x tablet of @i{Sîn ina tāmartīšu}], the @i{mukallimtu}-commentary on the series @i{Enūma Anu Enlil}.
+2'. [According to a writting board], a Babylonian original.
+3'. [Tablet of] Nabû-zuqup-kēnu, son of Marduk-šuma-iqīš, [the scribe],
+4'. ...

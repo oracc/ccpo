@@ -1,0 +1,110 @@
+&P461207 = CCP 7.2.u51 (http://ccp.yale.edu/P461207) = BM 41637
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !bs {d}LAMMA !cm : {d}15 !zz : x# (x) x#-na-tu₄?# [...]
+#lem: lamassi[(female) tutelary deity]N; Ištar[1]DN; u; u; u; u
+
+2'. !zz {d}30 ana MIN-ba/giš?# la i-ṣal-lal : {u₂}[...]
+#lem: Sin[1]DN; u; u; lā[not]MOD; iṣallal[sleep]V; u
+#note: H. Stadhouders (private communication) suggests reading ¶ @akk{MIN-ma!}, and points out that the line might refer to a patient suffering from insomnia at the time of some lunar phenomenon.
+3'. !bs I.{d}UTU !cm : ta-zi-im-tu₄ : MIN !zz [...]
+#lem: +tazzimtu[complaint]N$; +tazzimtu[complaint]N$; šanîš[alternatively]AV; u
+
+4'. !bs x MIN !cm : ba-ku-u : !bs I !cm : na-a-qu# !zz [...]
+#lem: u; šanîš[alternatively]AV; bakû[weeping]'N; +nâqu[cry out//crying (out)]V'N$; nâqu[crying (out)]'N; u
+
+#note: The reading of the first sign is uncertain. The equation @akk{I} = @i{nâqu} is attested, albeit rarely (@i{CAD} N/1 341). The line probably contains a notariqon analysis of the logogram @akk{I.{d}UTU}.
+
+5'. !bs {d}ALAD ša₂-ne-e {d}AMAR.UTU !cm : {u₂}[gaṣ-ṣu !zz ...]
+#lem: +šēdu[protective deity]N$; +šanû[second//deputy]N'N$šanê; Marduk[]DN; +gaṣṣu[cruel]AJ$; u
+
+#note: @akk{{d}ALAD ša₂-ne-e {d}AMAR.UTU} is attested in @i{BAM} 379 iv 4 // K.14081 ll. 4'-5' (@i{CT} 14 38). Also, as pointed out by H. Stadhouders (privatim), in @i{STT} 93 l. 50. 
+
+6'. !bs na-ad-ru₃ !cm : še-gu-u₂ : na#-[ad?-ru₃? !zz ...]
+#lem: +nadru[wild]AJ$; +šegû[wild]AJ$; +nadru[wild]AJ$; u
+
+#note: The line probably refers to either the plant “against the ‘cruel one’ (@i{gaṣṣu}) or ‘the wild one’ (@i{nadru}),” see K.14081 l. 2′ (@i{CT} 14 38): @akk{U₂ na-ad-ri MIN<({d}ALAD)> MIN<(ša₂-ne-e)> {d}mes-lam-ta-e₃-[a]}. See also H. Stadhouders @i{JMC} 18 (2001) p. 34 fn. 179, 37ff, and 40 §6 l. 3.
+
+7'. !bs KU.KU.ALAM !cm un-ni-ni# !zz [...]
+#lem: X; unnīni[supplication]N; u
+
+#note: The sequence of signs at the beginning of the line seems to be KU.KU.ALAM, but it is uncertain how this should be interpreted.
+8'. !bs ŠE₃.ŠE₃{+še-še} !zz su-x#-[...]
+#lem: X; u
+
+9'. !bs da-ri !cm : id#-[...]
+#lem: dāri[era]N; u
+
+10'. !bs DU₇.DU₇ !zz [...]
+#lem: X; u
+
+11'. !zz li#-[...]
+#lem: u
+
+@reverse
+
+1'. !zz x [...]
+#lem: u; u
+
+2'. !zz IGI ša₂# [...]
+#lem: +pānu[front]N$; ša[from]DET; u
+
+3'. !bs I₃.GIŠ ŠEŠ₂#-[su !zz ...]
+#lem: šamna[oil]N; tapaššassu[anoint]V; u
+
+4'. !bs ina {iti}BARA₂ U₄# [x.KAM !zz ...]
+#lem: ina[in]PRP; Nisannu[1]MN; ūmu[day]N; u; u
+
+5'. !bs ina-an-ziq₂ !cm : ša₂ x# !zz [...]
+#lem: +nazāqu[creak]V$inanziq; ša[of]DET; u; u
+
+6'. !bs I₃.UDU a-me-lu-tu₂ !zz : [...]
+#lem: lip[pith]N; amēlūtu[mankind]N; u
+
+7'. !bs {u₂}an-ki-nu-te !zz x# [...]
+#lem: ankinūte[(a plant)]N; u; u
+
+8'. !bs ki-i {d}EN.KI x# [...]
+#lem: u; Enki[1]DN; u; u
+
+#note: H. Stadhouders ingeniously proposes that this line might contain an “etymographic” analysis of the plant name @i{ankinūtu}, in which the element /ki/ would be associated with Enki (private communication).
+9'. !cm KUN# ša₂ GIR₂.TAB# [...]
+#lem: +zibbatu[tail]N$; ša[of]DET; +zuqiqīpu[scorpion]N$zuqiqīpi; u
+#note: The reading of the line is courtesy of H. Stadhouders.
+10'. !zz [(x)] x# x# x# [...] 
+#lem: u; u; u; u; u
+
+@translation parallel en project
+
+@obverse
+
+1'. “The protective angel” is Ištar, ... [...]
+2'. Sîn should not fall sleep to ... The ...-plant [...]
+3'. I.d.UTU means “complaint,” ditto means [...]
+4'. ... ditto means “to cry,” I means “to cry” [...]
+5'. “The protective deity, emissary of Marduk.” The plant [@i{nadru} (?)...]
+6'. “wild” (@i{nadru}) means “aggressive,” “@i{w}[@i{ild}” (@i{nadru}) ...]
+7'. KU.KU.ALAM (@i{means}) “praye[r” ...]
+8'. KU.KU, read /šeše/, (means) ... [...]
+9'. “@i{eternity}” means ... [...]
+10'. DU₇.DU₇ [means ...]
+11'. ... [...]
+
+@reverse
+
+1'. ... [...]
+2'. @i{Face of} [...]
+3'. “you will ru[b him] with oil [...]
+4'. In the month of Nisannu, on the [xth] day [x.KAM ...]
+5'. “He worries” refers to (the man) who ... [...]
+6'. “Human fat” means [...]
+7'. The @i{ankinūtu}-plant [...]
+8'. @i{ki} (@i{means}) Enki ... [...]
+9'. “Scorpion’s ta[il” ...]
+10'. ... [...] 

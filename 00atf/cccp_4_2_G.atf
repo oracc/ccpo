@@ -1,0 +1,136 @@
+&P348472 = CCP 4.2.G (http://ccp.yale.edu/P348472) = W 22307/15
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+$obverse missing
+
+@reverse
+1. !bs kal-ma-tu ma-tuq-ta SA₅ !cm : UH SAG.DU I₃.GU₇.E : !bs mut-qu#
+#lem: +kalmatu[insect(s)]N$; +matqu[sweet]AJ$matuqta; +malû[full]AJ$mali; +kalmatu[insect(s)]N$; qaqqada[head]N; +akālu[eat//hurt]V$ikkal +.; +mutqu[sweet thing//sweetness]N$
+
+#note: As noted by Hunger SpTU 1 (1976) p. 62, UH SAG.DU Ì.GU₇.E, i.e., @i{kalmatu qaqqada ikkal}, "insects will bite his head," seems to explain @i{kalmatu matuqta mali}, although expanations are usually not written logographically. For the parasite @i{kalmatu matuqtu}, see Fincke "Spezialisierung und Differenzierung im Bereich der altorientalischen Medizin" (@i{WOO} 6, 2011) pp. 184-187.
+
+2. !cm u₂-pul : ša₂ SAG.DU-su kal-ma-tu u₂-naq-qi₂-[ir-šu₂]  
+#lem: +uplu[head-louse]N$upul +.; ša[that]REL; qaqqassu[head]N; kalmatu[insect(s)]N; +naqāru[demolish//scratch]V'V$inaqqiršu
+
+3. !bs gi-iṣ-ṣa-tu₂ !cm : ana UGU ga-za-az ša₂ SIG₂ UZ₃ : !bs I₃.KUR.RA !cm : [nap-ṭu]
+#lem: +kiṣṣatu[(an illness)]N$giṣṣatu; ana[on]PRP; muhhi[account]N; +gazāzu[shear//shearing]V'N$gazāz; ša[of]DET; +šīpātu[wool]N$šīpāt; enzi[goat]N +.; napṭu[naphtha]N; +napṭu[naphtha]N$ +.
+
+4. !bs kib-ša₂ !cm : qu-um-ma-nu : !bs ek-ke-tu₂ !cm EME ša₂ e-ge-[gi]
+#lem: +kibšu[(a fungal mould)//(an illness)]N$kibša; +qummānu[leprous one]N$; ekketu[itching]N; +lišānu[tongue]N$lišāni; ša[that]REL; +ekēku[scratch//itching]V'N$egēgi +.
+
+#note: @i{lišānu ša}, lit. "language of," is a technical term that is only rarely attested.
+5. !qt SU.GU₂ SA.GU₂ SA.UMBIN.AG.AG : ki-is-sat ek-ke-tu₂ ri-[šu-tu]
+#lem: kissatu[(an illness)]N; ekketu[itching]N; +rišûtu[(a skin disease)]N$; kissatu[(an illness)]N; ekketu[itching]N; +rišûtu[(a skin disease)]N$ +.
+
+#note: Quotation from @i{Muššuʾu} VI 12, as in @i{CCP} 4.2.I o 7.
+6. !bs PIŠ₁₀.{d}ID₂ GE₆ !cm : kib-rit zi-kar : !bs ŠE₁₀ AMAR MUŠEN-MEŠ !cm ša₂ iq#-[bu-u₂]
+#lem: +kibrītu[sulphur]N$; +ṣalmu[black]AJ$; kibrīt[sulphur]N; +zikaru[male]AJ$zikar +.; zê[excrement]N; +watmu[hatchling]N$atmī; iṣṣūrāti[bird]N; ša[which]REL; iqbû[say]V +.
+
+7. !cm AMAR : a-tam : li-da-nu : !bs SIG₂ SUMUN ŠUB-ma SIG₂ GIBIL E₃?#
+#lem: +watmu[hatchling]N$atam; +watmu[hatchling]N$atam +.; +līdānu[chick]N$ +.; šārtu[hair]N; +labīru[old]AJ$labirtu; +maqātu[fall]V$imaqqutma; šārtu[hair]; +eššu[new]AJ$eššetu; uṣṣi[go out]V
+
+8. !cm šar₂-tu₄ la-bir-tu₄ i-ma-aq-qut-ma šar₂-tu₄ eš-še-tu₄ il#-[la?-a?]
+#lem: +šārtu[hair]N$; +labīru[old]AJ$labirtu; +maqātu[fall]V$imaqqutma; +šārtu[hair]$; +eššu[new]AJ$eššetu; +elû[go up//grow]V$illâ +.
+
+#note: As noted by Hunger @i{SpTU} 1 (1976) p. 62, at the end one could also restore @i{illak} (see however the reading at the end of previous line adopted here).
+
+9. !bs {u₂}qul-qul-la-nu !cm ki-ma kir₃-kir₃-ra-nu u i-ṣi [(x x)]
+#lem: +qulqulliānu[cassia?]N$qulqullânu; kīma[like]PRP; +kikkirânu[pine or juniper seeds]N$kirkirrânu; u[and]CNJ; +iṣu[tree//wood]N$iṣi; u; u +.
+
+10. !bs I₃ {šim}GIR₂ !cm ša₂ DUG₄{+u₂} : {šim}GIR₂ GAZ SIM ina A tu-[bal?-lal?]
+#lem: šaman[oil]N; asi[myrtle]N; ša[which]REL; +qabû[say]V$iqbû +.; asa[myrtle]N; tahaššal[crush]V; tanappi[sieve]V +.; ina[in]PRP; mê[water]N; +balālu[mix (up)]V$tuballal +.
+
+11. !cm IZI ina KI.TA{+nu} ta-šar-rap I₃ ana UGU ŠUB-ma ta-[x x]
+#lem: išāta[fire]N; ina[in]PRP; šaplānu[below]'N; +šarāpu[burn//ignite]V$tašarrap +.; šamna[oil]N; ana[on]PRP; muhhi[top]N; tanaddima[pour]V; u; u +.
+
+12. !bs I₃ {šim}LI !cm ša₂ E{+u₂} KI.MIN-ma!(GIŠ) : !bs {munus}U₂.ZUG₂ !cm : u₂-suk#-[ka-tu]
+#lem: šaman[oil]N; burāši[(species of) juniper]N; ša[which]REL; iqbû[say]V; u; +musukkatu[ritually unclean one//impure one]N$usukkatu; +musukkatu[ritually unclean one//impure one]N$usukkatu +.
+
+13. !bs NUMUN U₂-HI.A !cm ma-la iq-bu-u₂ : GAZI{sar} : ina ŠA₃ ša₂ U₂ x# [x x (x)]
+#lem: zēr[seed(s)]N; šammī[plant(s)]N; mala[as much as]'REL; iqbû[say]V +.; kasû[mustard]N; ina[in]PRP; libbi[interior]N; ša[of]DET; šammi[plant(s)]N; u; u; u; u
+
+14. !cm ša₂-niš NUMUN U₂-HI.A ma-la ina ZU₂.KEŠDA ana mur-ṣi-šu₂ [x x (x)]
+#lem: šanîš[alternatively]AV; zēr[seed(s)]N; šammī[plant(s)]N; mala[as much as]PRP; ina[in]PRP; +kiṣru[knot]N$kiṣri; ana[for]PRP; +murṣu[illness]N$murṣišu; u; u; u +.
+
+15. !bs hu-ru-gu !cm : ha-ah-hu-ru : !bs ŠE₁₀ {lu₂}TUR {munus}TUR ša₂ NAM.TUR#-[šu₂ x x (x)]
+#lem: +hurūgu[goose?]N$; hahhūru[raven]N +.; zê[excrement]N; +ṣehru[small one//boy]N$ṣehri; +ṣehru[small one//girl]N$ṣeherti; ša[of]DET; +mārūtu[status of son//youth]N$mārūtišu; u; u; u
+
+#note: The word @i{ḫurūgu} was previously only attested lexically and in a Namburbi: see @i{CAD} Ḫ 256b. It is apparently a by-form of the bird name @i{kurukku}.
+
+16. !cm ze-e ṣa-har u ṣa-hir-ti ša₂ ma-ru-ti-šu₂ ša₂-niš ša₂*# [x x (x)]
+#lem: zê[excrement]N; +ṣehru[small one//boy]N$ṣahar; u[and]CNJ; +ṣehru[small one//girl]N$ṣahirti; ša[of]DET; +mārūtu[status of son//youth]N$mārūtišu; šanîš[alternatively]AV; ša[of]DET; u; u; u +.
+
+$ single ruling
+
+@colophon
+
+17. !zz NIG₂.ZI.GAL₂.EDIN.NA u šu-ut KA ša₂ * NA SAG.DU-su GU₇*#.[GU₇-šu₂]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; amēlu[person]N; qaqqassu[head]N; +akālu[eat]V$ītanakkal
+
+#note: The reading at the end of the line seems epigraphically possible. For more instances of this protasis, see Mayer @i{OrNS} 62 (1993) p. 323 l. 121 and Abusch & Schwemer @i{AMD} 8/1 (2010) p. 319 l. 1.
+
+18. !zz ša₂ KA UM.ME.A bul-ṭu E₂ {m}DA₃-BIₓ(DU₃)-BIₓ(DU₃) 2{u₂} [pir-su]
+#lem: ša[from]DET; pî[mouth]N; ummâni[expert]N +.; bulṭu[treatment]N; bīt[house]N; +Dābibi[]PN$; n; pirsu[divison]N +.
+
+19. !zz mal₂-su-ut {m}{d}KUR.GAL-ik-ṣur DUMU ša₂ {m}{d}UTU-[MU]
+#lem: malsût[reading out]N; +Anu-ikṣur[]PN$; māri[son]N; ša[of]DET; Šamaš-iddin[1]PN
+
+20. !zz {lu₂}MAŠ.MAŠ DUMU {lu₂}SANGA-{d}NIN.URTA pa-lih [{d}ME.ME]
+#lem: mašmašši[incantation priest]N; mār[descendant]N; Šangi-Ninurta[1]LN +.; pālih[reverent one]N; Gula[1]DN
+
+21. !zz li-ša₂-qir * NA SAG.DU-su GU₇#-[šu₂]
+#lem: +aqāru[be(come) rare//value]V$lišāqir +.; amēlu[person]N; qaqqassu[head]N; ikkalšu[hurt]V +.
+
+
+@translation labeled en project
+
+
+@obverse
+$ obverse missing
+
+@reverse
+@label r 1 - r 2
+"(He) is full of the 'sweet insect'" (@i{kalmatu matuqtu}) means "an insect bites his head," (since) "sweetness" (@i{mutqu}) means "louse." It refers (to the man) whose head is scrat[ched] by an insect.
+
+@label r 3
+"@giṣṣatu-disease" is said on account of the shearing (@i{gazāz}) of goat hair. "@i{kurra}" means [naphta].
+
+@label r 4
+
+"@i{kibšu}-disease" means @i{qummānu}-disease. "Itch" (@i{ekketu}) is @i{derived from} (or, @i{said of}) "itching" (@i{egēgu}), (as in) "@i{sugu sagu saʾumbinagag} (i.e.,) '@i{kissatu}-illness, itching, and @i{rišûtu}-disease.'" (quotation from @i{Muššuʾu})
+
+@label r 6 - r 7
+Black sulphur: means "male sulphur." What it says, "excrements of atchlings' excrement - @i{amar} means "hatchling," (in the sense of) "chick."
+
+@label r 7 - r 8
+"@i{síg sumun šub-ma síg gibil è} means means "old hair will fall and new hair will grow."
+
+@label r 9
+The @i{qulqullânu}-plant is like pine seeds (@i{kikkirânu}) (or juniper) seeds and wood [...].
+
+@label r 10 - r 12
+What it says, "oil of myrtle," means that you crush and sieve myrtle, and then mix it in water, you put fire beneath, pour oil on top, and [...]. What it says, "oil of juniper," is the same.
+
+@label r 12
+
+"@i{munus.ú.zúg}" means "ritually unclean" (fem.).
+
+@label r 13 - r 14
+
+"Seeds of plants," every time it appears, means "mustard," as in "plant [...]." Alternatively, seeds of plants as many as (there are) in the (medical) preparation, [...] for his illness.
+
+@label r 15 - r 16
+
+"@i{hurūgu}" means "raven." "@i{še₁₀ lú.tur munus.tur šá namtur}-[@i{šú}]" means "excrement of a boy or a young girl while in their youth, alternatively [...].
+
+@label r 17 - 18
+Lemmata and oral explanations (relating to) "If a person's head cau[ses him pain]," following the sayings of a (master-)scholar. (From the series) @i{Bulṭu bīt Dābibi}, 2nd [@i{pirsu}].
+@label r 19 - 20
+Lecture of Anu-ikṣur, son of Šamaš-iddina the incantation priest, descendant of Šangû-Ninurta. 
+@label r 20 - 21
+The reverer of Gula shall value (this tablet)! "If a man, his head hurts him" (= catchline).

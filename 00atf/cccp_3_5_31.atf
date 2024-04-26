@@ -1,0 +1,150 @@
+&P461205 = CCP 3.5.31 (http://ccp.yale.edu/P461205) = BM 41586
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [* GIR₂.TAB ina] MURU₂*# SAG*.DU*-šu₂ RA-su !cm : ša₂ da-mu u₂-še-eṣ-ṣa-a
+#lem: Zuqaqipu[Scorpion]CN; ina[in]PRP; qabal[middle]N; qaqqadišu[head]N; +zaqātu[sting]V$izaqqassu; ša[of]DET; dāmu[blood]N; +waṣû[go out//make go out]V'V$ušeṣṣâ
+
+#NV changed aṣû to waṣû
+
+2. !zz [x x x x] x# x# ha#-tu₂# :* !bs RA !cm : da-a-ku
+#lem: u; u; u; u; u; u; X; +zaqātu[sting//stinging]V'N$; dâku[killing]'N
+
+3. !bs [x x x]-x#-šu₂ ša₂ 2.30* RA*-su* ŠU-MIN {d}15 URU BI :
+#lem: u; u; u; ša[of]DET; šumēli[left hand]N; izaqqassu[sting]V; qāt[hand]N; Ištar[1]DN; +ālu[village]N$āli; +šuāti[him//that]IP'DP$
+
+#note: Apparently the commentator understood URU BI as part of the first sentence of the apodosis, "hand of the goddess of that city." The commentary probably equated Ištar with one of the words from the protasis. Unfortunately the traces before @i{šú} in both this line and the next one could not be deciphered.
+
+4. !bs [x x x] x-x-šu₂?# !cm : {d}iš-tar : !bs tur-ra tara-kas :
+#lem: u; u; u; u; Ištar[1]DN; +ṭurru[binding]N$turra; +rakāsu[bind]V$tarakkas
+
+#note: @i{ṭurra tarakkas} (collated) probably appeared as a ritual indication in one of the now only partially preserved omens ŠĀ 31 75'-80'. This is proved by the fact that this same expression is commented upon in the commentary K.1 (CCP 3.5.30) l. 30', which preserves comentaries on omens from this section, and in which @i{ṭurra tarakkas} is explained as DUR @i{ta-rak-kas}.
+
+5. !cm [ṭu-ur]-ra# ta*#-ra*-ak-ka-as : aš₂-šu₂ x# [(x)]-du :
+#lem: +ṭurru[binding]N$ṭurra; +rakāsu[bind]V$tarakkas; aššu[because]SBJ; u; u
+
+
+#note: The @i{aššu} clause refers probably to one of the words either in the protasis or in the apodosis. The commentary would then try to prove that the apotropaic action prescribed is 
+
+#NV changed aššu[if]'MOD to aššu[because]SBJ
+
+6. !zz [x x x x x x] !bs x#-lam?# ana ŠA₃ A-MEŠ# [ŠUB{+di} :]
+#lem: u; u; u; u; u; u; u; ana[in]PRP; libbi[interior]N; mê[water]N; tanaddi[throw]V
+
+#NV changed ana[according to]PRP to ana[in]PRP
+
+7. !zz [x x x x x !bs NAG-ma] u₂*#-zaq*# !cm : RI : za*-a-qu# [ša₂ ša₂]-a#-ri
+#lem: u; u; u; u; u; +šaqû[give to drink]V$tašaqqīma; +ziāqu[blow//belch]V'V$uzāq; +ziāqu[blow//blowing]V'N$zâqu; +ziāqu[blow//blowing]V'N$zâqu; ša[of]DET; šāri[flatulence]N
+
+#note: Cf. The commentary K.1 (CCP 3.5.30) l. 32', @i{tašaqqī-ma ú-zaq}, which is there commented as @i{tašaqqī-ma iparri}, "make him drink until he vomits.
+
+8. !zz [x x x x x x x]-x# !cm ša₂-niš ti-tu : zu#-[x (x x)]
+#lem: u; u; u; u; u; u; u; šanîš[alternatively]AV; u; u; u; u
+
+9. !zz [x x x x x x x x x] x# nu#-ub# x !cm aš₂#-šu₂# x# [(x x)]
+#lem: u; u; u; u; u; u; u; u; u; u; X; u; aššu[because]SBJ; u; u; u
+
+$ rest of obverse missing
+
+@reverse
+
+$ beginning of reverse missing
+
+1'. !zz [x x x x x x x x x x x] x x [(x)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !bs [ina iš-te-en-še]-ri#-i* ITI !cm : 11 ITI : {iti}ZIZ₂-A-AN#
+#lem: ina[in]PRP; +ištēnšerû[eleventh]AJ$ištēnšerî; arhi[month]N; n; arhi[month]N; +Šabaṭu[1//(11th Babylonian month)]MN'MN$
+
+#note: Collated. For the restoration of the first word, cf. @i{ŠĀ} 30 11': @i{iš-te-en-še-ri-i ar-ḫi}. Perhaps the reconstruction of ŠĀ 30 and 31 should be revised in the light of this new evidence.
+
+#NV for compatability with cams/gkab I have adjusted the lemmatization of Šabaṭu. GW = 1 (= dummy guide word); and thus (11th Babylonian month) becomes a SENSE. No length marks in CF and no abbreviation in SENSE.
+#NV changed ištenšerî to ištēnšerî
+
+$ single ruling
+
+3'. !zz [ṣa-a-tu₂ u] šu#-ut# KA ša₂ * GIR₂.TAB ina MURU₂! SAG.DU-šu₂ RA-su
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; Zuqaqipu[Scorpion]CN; ina[in]PRP; qabal[middle]N; qaqqadišu[head]N; izaqqassu[sting]V
+
+4'. !zz DUB 29-KAM * URU ina SUKUD{+e} GAR{+in}
+#lem: ṭuppu[tablet]N; n; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$ single ruling
+
+@colophon
+
+5'. !zz DUB ša₂ EGIR-šu₂ * EME.ŠID ša₂ 2 KUN-MEŠ-šu₂ ina E₂ NA ina*-mir?#
+#lem: ṭuppi[tablet]N; ša[who]REL; arkišu[after]PRP; ṣurārû[lizard]N; ša[of]DET; n; zibbātušu[tail]N; ina[in]PRP; bīt[house]N; amēli[man]N; +amāru[see//be seen]V'V$innamir
+
+#NV changed amēlu to amēli
+
+6'. !zz EGIR#-šu₂ ina {kuš}ma-gal-la-tu₄ GABA.RI E{ki} SAR
+#lem: arkišu[after]PRP; ina[in]PRP; +magallatu[parchment scroll]N$; gabari[duplicate]N; Babilu[Babylon]SN; +šaṭru[written]N$šaṭir
+
+7'. !zz {im*}DUB {m}{d}AG-DIN-su-E A* ša₂* {m}{d}AMAR.UTU-NUMUN-DU₃
+#lem: ṭuppi[tablet]N; +Nabu-balassu-iqbi[]PN$; aplu[son]N; ša[of]DET; Marduk-zer-ibni[1]PN
+
+8'. !zz A {m}{d}a₄-gi₇-ba-ti-la ŠU-MIN {m}{d}AMAR.UTU-NUMUN-DU₃ A-šu₂
+#lem: aplu[son]N; +Egibatila[]PN$; qātī[hand]N; Marduk-zer-ibni[1]PN; aplišu[son]N
+
+9'. !zz pa#-lih {d}UTU u {d}AMAR.UTU
+#lem: pālih[reverent one]N; Šamaš[1]DN; u[and]CNJ; Marduk[1]DN
+
+@translation labeled en project
+
+@obverse
+
+@label o 1 - o 2
+"If a scorpion bites (RA-@i{su}) a man in the middle of his head," (= @i{Šumma Ālu} 31 1) refers to (the scorpion) which makes blood come out [and ...]. RA means "to kill."
+
+@label o 3 - o 4
+
+["If] it stings his left [...], hand of Ištar, that city (...)" (= @i{Šumma Ālu} 31 74' (?)). "His [...]" (from the protasis) is related to Ištar (in the apodosis).
+
+@label o 4 - o 5
+"@tur-@ra @tara-@kas" (= @i{Šumma Ālu} 31 ca. 73'-80') means "you knot a tie," (and appears) on account of the [...] (word from the omen).
+
+@label o 6
+
+"[... @throw] in the water" (@i{Šumma Ālu} 31 ca. 73'-80') means [...].
+
+@label o 7 - o 8
+
+"[... make him drink] so that he belches" (@i{Šumma Ālu} 31 ca. 73'-80'), RI means "to blow, said of the wind." [...] alternativey, ...  [...].
+
+@label o 9
+
+[...] on account of [...].
+
+@reverse
+
+@label r 1'
+
+...
+
+@label r 2'
+
+[...] "in the eleventh month" (@i{Šumma Ālu} 31 unknown) means the 11th month, i.e., the month of Šabāṭu.
+
+$ single ruling
+
+@label r 3' - r 4'
+
+Lemmata and oral explanations relating to (the tablet) "If a scorpion bites a man in the middle of his head," the 29th (@sic) tablet of "If a City is Set on a Height."
+
+$ single ruling
+
+@colophon
+
+@label r 5' - r 6'
+
+The tablet with the continuation (of the present tablet) is entitled "If a lizard with two tails is seen in a man's house" (incipit of ŠĀ 32). Its continuation is written on a parchment scroll, (copied) from a Babylonian original.
+
+@label r 7' - r 9'
+
+Tablet of Nabû-balāssu-iqbi son of Marduk-zēru-ibni, descendant of Egibatila. Copied by Marduk-zēru-ibni, his son. He who reveres Šamaš and Marduk (should not take it away)!

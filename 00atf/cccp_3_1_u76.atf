@@ -1,0 +1,74 @@
+&P396249 = CCP 3.1.u76 (http://ccp.yale.edu/P396249) = K.5908
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$ beginning missing
+
+1'. !zz [...] x#-šu₂ a#-na?# [...]
+#lem: u; u; ana[to]PRP; u
+
+2'. !zz [...] $SI [...]
+#lem: u; u; u
+
+$ single ruling
+
+3'. !zz [... !bs {d}]e₂-a DU₃ DINGIR-MEŠ AD !zz x# [...]
+#lem: u; Ea[1]DN; +kalû[all]AJ$kal; ilāni[god]N; abi[father]N; u; u
+
+4'. !zz [...] !cm A.RA₂ mil-ku ŠU mil-ku ŠU ṭe₃-e-mu !zz [...]
+#lem: u; +milku[advice]N$; milku[advice]N; +milku[advice]N$; milku[advice]N; +ṭēmu[(fore)thought]N$; ṭēmu[(fore)thought]N; u
+
+$ single ruling
+
+5'. !zz [...] !bs DU#-ma ki-niš ŠU₂-ma ina GE₆ NU IGI{+ir} ša MUL# !zz [...]
+#lem: u; illakma[flow]V; kīniš[righteously]AV; irbima[disappear]V; ina[in]PRP; mūši[night-time]N; lā[not]MOD; innamir[appear]V; ša[that]REL; kakkabi[star]N; u
+
+6'. !zz [...] !bs IGI#{+ru} :. !cm ud-da-zal-lu-u₂ UD.DA U₄{+mu#} !zz [...]
+#lem: u; innamrū[appear]V; +uddazallû[date]N$; +ūmu[day]N$; ūmu[day]N; u
+
+$ single ruling
+
+7'. !bs [* 30 a-dir-ma GIM ṭe₃]-em# AN{+e} GAR AN.GE₆-šu₂ ma-diš GE₆ !zz x# [...]
+#lem: Sin[1]DN; adirma[dark]AJ; kīma[according to]PRP; ṭēm[decision]N; šamê[heaven]N; šakin[displayed]AJ; attallašu[eclipse]N; mādiš[greatly]AV; +ṣalmu[black]AJ$ṣalim; u; u
+
+#note: For the restoration, see Rochberg @i{AfO Beih} 22 (1988) p. 282 @i{ad} 7.
+8'. !bs [* 30 ... qim-mat]-su# AN{+e} dal-hat ina {iti}ŠU AN.GE₆ GAR-ma x# !zz [...]
+#lem: Sin[1]DN; u; qimmatsu[(a feature of the moon)]N; šamê[heaven]N; dalhat[disturbed]AJ; ina[in]PRP; Duʾuzu[1]MN; attallû[eclipse]N; iššakinma[take place]V; u; u
+
+#note: For parallels, see @i{CAD} Q 254a.
+9'. !bs [* 30 ... qim-mat]-su# AN{+e} dal-hat ina {iti}DU₆ AN.GE₆# [GAR-ma !zz ...]
+#lem: Sin[1]DN; u; qimmatsu[(a feature of the moon)]N; šamê[heaven]N; dalhat[disturbed]AJ; ina[in]PRP; Tašritu[1]MN; attallû[eclipse]N; iššakinma[take place]V; u
+
+10'. !zz [...] x# x# $IGI#.$TAB# x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u
+
+$ rest missing
+
+@translation parallel en project
+
+$ beginning missing
+
+1'. ...
+2'. ...
+
+$ single ruling
+
+3'. [...] Ea to all the gods [...],
+4'. [...] A.RÁ (means) "advice" (@i{milku}); ŠU (also means) "advice" (@i{milku}), ŠU (means) "instruction" (@i{ṭēmu}), [...]
+
+$ single ruling
+
+5'. [...] it goes, and it sets correctly, and it is not visible at night, [...]
+6'. [...] are seen. In @i{uddazallû}, @i{udda} means @i{day}, [...]
+
+$ single ruling
+
+7'. [If the moon is dark and like the] @i{ṭēmu} of the sky, its eclipse is very dark, [...]
+8'. [If the moon ...] and its top makes the sky dark, in the month of Duʾūzu (IV) there is an eclipse [...]
+9'. [If the moon ...] and its top makes the sky dark, in the month of Tašrītu (VII) there is an eclipse [...]
+10'. ...
+
+$ rest missing

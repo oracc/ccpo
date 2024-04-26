@@ -1,0 +1,389 @@
+&P285522 = CCP 6.2.7.B (http://ccp.yale.edu/P285522) = VAT 10220
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use unicode
+
+@obverse
+
+$ n lines broken
+
+1'. !bs [...] & [...] & !cm [...] ši# x# [...] & [...] 
+#lem: u; u; u; u; u; u; u
+
+
+#tr.en: ...
+
+#note: WGL has several variants for this section so it is not clear what might be reconstructed here (see Weidner 1924-25: 12). 
+
+
+2'. !bs [...] & [{d}nin-urta?] & !cm MIN#<(a-na)> re#-eš u₂-ra?#-[ša₂?-ku?] & [...] 
+#lem: u; Ninurta[1]DN; +ana[the sign AN]N$ana; +reš[the sign EREŠ]N$reš; u; u
+
+
+
+#tr.en: [(The theonymn pronounced) … (is) the god @sup{d}Ninurta(?)] (written with the signs) EREŠ and URAŠ [(and this god is equated with) …]. 
+
+#note: The sign name @i{reš} appear several times in this text (see also ll. 4' and 11') and corresponds to the sign NIN or EREŠ. Usually this sign is referred to as @i{e-re-eš}; see Gong 2000: 166 @i{s.v.} NIN. The sign name @i{u-ra-ša₂-ku} is well attested for the sign @akk{IB}. @sup{d}Ninurta is reconstructed here based on Weidner 1924-25: 12. 
+
+
+3'. !bs [u-ra-aš?] & [{d}uraš?] & !cm MIN<(a-na)> u₂-ra#-[šu₂?] & [{d}nin-urta?] & [...] 
+#lem: X; Uraš[1]DN; ana[the sign AN]N; u; Ninurta[1]DN; u
+
+
+#tr.en: [(The theonym pronounced) Uraš(?) (is) the god @sup{d}Uraš(?)] (written with the sign) URAŠ (and this god is equated with) the god @sup{d}Ninurta(?)].
+
+#note: See Gong 2000: 135 for the reconstruction of @i{šu}₂ but note that @i{šu} is also possible. 
+
+
+4'. !bs [ni]-en#-e₂-kal# & {d#}[...] & !cm MIN<(a-na)> re-eš-e bi-tu [gal?-lu?] & [{d}NIN.E₂.GAL?] & [...] 
+#lem: X; u; ana[the sign AN]N; +reše[the sign EREŠ]N$reš; +bītu[the sign E₂]N$bītu; u; Ninegal[1]DN; u
+
+
+#tr.en: (The theonym pronounced) nin-e-kal (is) the god [@sup{d}Nin-egal] (written with the signs) EREŠ, E₂ (and) GAL (and this god is equated with) the goddess @sup{d}Bēlet-ekalli(?)].
+
+#note: The designation for the sign E₂ is usually @akk{bi-i-tum} but this may be an Assyrianism (Gong 2000: 18 for the sign name). For possible representations of the sign GAL see Gong 2000: 123.
+
+5'. !bs [la]-gam#-al & {d}la-ga-ma-al# & !cm MIN#<(a-na)> la-lu-u ga-gu-u ma-mu# [al-lu] & [{d}U.GUR?] & [...]
+#lem: X; La-Gamal[1]DN; ana[the sign AN]N; +lalu[the sign LA]N$lalu; +gagu[the sign GA]N$gagu; +mamu[the sign MA]N$mamu; u; Nergal[1]DN; u
+
+
+#tr.en: (The theonym pronounced) [La]gamal (is) the god @sup{d}Lagamal (written with the signs) LA, GA, MA (and) [AL] (and this god is equated with) the god [@sup{d}Nergal?]
+
+#note: The analytical writing in the third subcolumn contains sign names of the "reduplicated" type, see Gong 2000: 15.
+
+$ single ruling
+
+6'. !bs [za]-ba?#-bu : GAL & {d}za-ba₄-ba₄ & !cm MIN<(a-na)> za-za#-u pi-sa-an min-na#-bi# & [{d}MAŠ?] & [...]
+#lem: X; rabâ[great]AJ; Zababa[1]DN; ana[the sign AN]N; +zazu[the sign ZA]N$zazu; +pisannu[the sign PISAN]N$pisan; minnabi[sign two times]AJ; Ninurta[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Zababu; that is, the primary one (@i{rabû}) (is) the god @sup{d}Zababa (written with the signs) ZA (and) PISAN twice (and this god is equated with) the god [@sup{d}Ninurta?]
+
+#note: Weidner (1924-25: 13 fn. 1) reads -bu in the first subcolumn instead of ba4 after collation. There is a colon in the first subcolumn after the divine name and before the GAL sign. See Gong 2000: 16 and 120 for the names of ZA and GA₂, respectively. 
+
+
+7'. !bs il-ba & {d}GA₂ & !cm MIN<(a-na)> pi-sa#-an-nu & {d#}[...] & [...] & [...]
+#lem: X; X; ana[the sign AN]N; +pisannu[the sign PISAN]N$pisannu; u; u; u
+
+
+#tr.en: (The theonym pronounced) Ilba (is) the god @sup{d}GA₂ (written with the sign) PISAN (and this god is equated with) the god [DN ...]
+
+#note: Weidner would probably reconstruct @sup{d}Ninurta at the end, based on exemplar A, but exemplar D has @sup{d}Šamaš in the next line so maybe it is also @sup{d}Šamaš here.
+
+
+8'. !bs al-ba & {d}GA₂ & !cm MIN<(a-na)> pi-sa#-an-nu & {d}ša₂#-maš# & [...] 
+#lem: u; X; ana[the sign AN]N; pisannu[the sign PISAN]N; Šamaš[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Alba (is) the god @sup{d}GA₂ (written with the sign) PISAN (and this god is equated with) the god Ša[maš].
+
+#note: Weidner 1924-25: 13 for the reconstruction of Šamaš here. 
+
+
+9'. !bs il#-ba-ba & {d}za#-ba₄-ba₄ & !cm MIN<(a-na)> za-za-u₂ pi#-sa#-an min-na#-bi# & {d}NIN.SIG₇# & [...]
+#lem: u; Zababa[1]DN; ana[the sign AN]N; +zazu[the sign ZA]N$zazu; pisannu[the sign PISAN]N; minnabi[sign two times]AJ; +Ninsig[1]DN$Ninsig; u
+
+
+#tr.en: (The theonym pronounced) Ilbaba (is) the god @sup{d}Zababa (written with the signs) ZA (and) PISAN twice (and this god is equated with) the goddess @sup{d}Ninsig.
+
+#note: Although subcolumns 2 and 3 are parallel to line 6', the pronunciation and identification are different. It is noteworthy that a male deity is equated with a female one. Both @sup{d}Ninsig and @sup{d}Zababa are considered children of or associated with @sup{d}Enlil but otherwise the relationship between them is unclear; Focke (@i{RlA} 9: 384) writes that "die Gleichsetzung mit Zababa in der Weidner-Liste  . . . ist wohl fehlerhaft," which then suggests that these lines were lifted directly from the WGL, perhaps as a scribal exercise. 
+
+$ single ruling
+
+10'. !bs pa-ap-šu-kal & {d}[pap]-sukkal & !cm MIN<(a-na)> pa-ap šu-kal#-lu₄# & {d}i-la-ab#-rat# & [...]
+#lem: u; Papsukkal[1]DN; ana[the sign AN]N; +pap[the sign PAP]N$pap; +šukallu[the sign SUKKAL]N$šukallu; Ilabrat[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Papšukkal (is) the god @sup{d}Papsukkal (written with the signs) PAP and SUKKAL (and this god is equated with) the god @sup{d}Ilab[rat]
+
+#note: See Frahm 2011: 256 for a similar translation. The WGL-commentary @i{CCP} 6.7.A provides a sophisticated explanation around Ilabrat and Papsukkal. 
+
+11'. !bs ni-in-gir₂#-šu &{d}nin#-[gir₂]-su# & !cm MIN<(a-na)> re-eš gi-ri šu-na# & {d}MAŠ# & [...]
+#lem: X; Ningirsu[1]DN; ana[the sign AN]N; reš[the sign EREŠ]N; +giri[the sign GIR₂]N$giri; +šuna[the sign SU]N$šuna; Ninurta[1]DN; u
+
+
+
+#tr.en: (The theonym pronounced) Ningiršu (is) the god @sup{d}Ningirsu (written with the signs) EREŠ, GIR₂ and SU? (and this god is equated with) the god @sup{d}Ninurta
+
+#note: GIR₂'s sign name is usually rendered @i{gira}, see Gong 2000: 48. SU, the last sign in Ningirsu's name, should usually be rendered @i{ku-u₂-šu} or the like; see Gong 2000: 151 @i{s.v.} @akk{KUŠ}, unless subcolumn 3 refers here to the sign @akk{ŠU} instead. One wonders if the copy is incorrect and the NA should be UD read u4. On NIN with its shortenend sign name @i{reš} instead of @i{ereš}, see note to line 3'. 
+
+12'. !bs sa-ak-ku-ud & {d}sak#-[kud] & !cm MIN<(a-na)> sa-an-gu si-lu₄ & {d}e-ta-lak#? & [...] 
+#lem: X; Sakkud[1]DN; ana[the sign AN]N; +sangu[the sign SAG]N$sangu; +silu[the sign SILA]N$silu; Etalak[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Sakkud (is the god) @sup{d}Sakkud (written with the signs) SAG (and) SILA (and this god is equated with) the god DN.
+
+#note: Weidner is unsure about the god name in subcolumn 4 but Krebernik (RlA 11: 530) writes "zwei späte Textzeugen setzen S. mit Etallak gleich (@i{KAV} 46 i 12 // @i{KAV} 63: 46), der als 'Gefangenenwärter' . . . erklärt wird." In sign names the sign KUD is usually referred to by its reading @akk{SILA}, "street" (Akk. @i{sūqu}), see Gong 2000: 175 for @akk{KUD} with slightly different spellings as in this exemplar. The sign name for @akk{SAG} is usually represented as @i{sa-ag} in logogram groups, but compare the analytical spelling for the complex grapheme @akk{|SAG×A|}: @akk{ša₂ sa-an-ga-ku a-a i-gub} in @i{Ea} 3, 36.   
+
+
+13'. !bs pi#-sa-an-gu-nu-kum & {d#}[MES.SAG].UNUG#{ki#} & !cm MIN<(a-na)> me-su₂ sa-an-gu iš-še-gu-un ki-ki & {d}LAGAB-x#-[...] & [...]
+#lem: X; Messagunug[1]DN; ana[the sign AN]N; +mesu[the sign MES]N$mesu; sangu[the sign SAG]N; +iššegun[the sign EŠ₃@g]N$iššegun; kiki[the sign KI]N; u; u
+
+
+#tr.en: (The theonym pronounced) Pisangunukum (is the god) @sup{d}Mes-sag-unu@sup{ki} (written with the signs) MES, SAG, gunified EŠ₃ (and) KI (and this god is equated with) the god @sup{d}LAGAB-X
+
+#note: The DN in subcolumn 2 is completely preserved in @i{CCP} 6.7.B. Krebernik (@i{RlA} 8: 95) prefers NIGIN₂-AN to LAGAB-X, based on @i{CCP} 6.7.B. See Gong 2000: 197 for UNUG.KI written @akk{eš-še-gu-un ki-ki}. 
+
+
+14'. !bs [ba]-a#-bu & {d#}ba#-ba₆ & !cm MIN<(a-na)> ba-a-ab-bu & {d}gu-la# & [...]
+#lem: X; Baba[1]DN; ana[the sign AN]N; X; Gula[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Babu (is) the goddess @sup{d}Babu (written with the sign name) @i{babbû} (and this god is equated with) the goddess @sup{d}Gula.
+
+#note: The much-disputed sign U₂ seems to be interpreted here as bu11 since the usual readings of u₂ or ba₆ do not make sense with the pronunciation. For the various pronunciations of @akk{BA.U₂} see Marchesi 2002. Although the sign name of @akk{BA} itself is usually rendered @i{ba-bu-u₂} (see Gong 2000: 104) it seems likely that in this case the sign name reflects the entire compound logogram @akk{BA.U₂}. Compare the sign name @i{na-an-na-ku} for the DN Nanna written @akk{ŠEŠ.KI} (Gong 2000: 165). 
+
+
+15'. !bs [lu-gal]-ban#-da & {d}LUGAL-banda₃{+da} & !cm MIN#<(a-na)> lu-gal-lu du-<mu>-u₂ da-a & {d}MAŠ & [...] 
+#lem: u; X; ana[the sign AN]N; +lugallu[the sign LUGAL]N$lugallu; +dumû[the sign DUMU]N$dumû; +dâ[the sign DA]N$dâ; Ninurta[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Lugalbanda (is) the god @sup{d}Lugalbanda (written with the signs) LUGAL, DUMU (and) DA (and this god is equated with) the god @sup{d}Ninurta.
+
+#note: The sign name appears to contain a mistake. The sign @akk{DU} is only represented as @i{du-u₂}, but should be emended to @i{du-mu-u₂}. 
+
+16'. !bs ni#-in#-[šu/su?]-na & {d}nin-sun₂ & !cm MIN<(a-na)> re-eš še-[x]-su-na & {d}gu-la & [...]  
+#lem: X; Ninsun[1]DN; ana[the sign AN]N; reš[the sign EREŠ]N; u; Gula[1]DN; u
+
+
+
+#tr.en: (The theonym pronounced) Ninsuna (is) the goddess @sup{d}Ninsun (written with the signs) EREŠ (and)  X  (and this god is equated with) the goddess @sup{d}Gula
+
+#note: Shibata 2009: 36 reads Nin-sumun2. The sign name poses some difficulties. While NIN is again represented as @i{re-eš} or @i{re-eš-še}, the remainder appears not to account for the sign GUL. 
+
+
+17'. !bs lu-gal-mar-da & {d}lugal-marad-da & !cm MIN<(a-na)> lu-gal#-lu ma-ru da-a & {d}MAŠ & x#-[...]
+#lem: X; X; ana[the sign AN]N; lugallu[the sign LUGAL]N; +maru[the sign MARAD]N$maru; dâ[the sign DA]N; Ninurta[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Lugalmarda (is) the god @sup{d}Lugalmarada (written with the signs) LUGAL, x (and) DA (and this god is equated with) the god @sup{d}Ninurta, [...]. 
+
+#note: While very speculative, one wonders if subcolumn 5 included geographical information; namely, Lugalmarada, the city god of Marad, had a temple E₂-igi-kalam-ma, which was dedicated to "Ninurta as Lugal-Maradda at Marad" (George 1993: 104 no. 520) so one wonders if the 5th subcolumn contained the name of the city Marad. The traces in the copy are too ambiguous and must be collated before this suggestion can be evaluated but perhaps were meant to read AMAR as in @sup{uru}Marad(AMAR)@sup{ki}. The traces in the next line fit better for Marad since it looks like the beginning of AMAR is preserved, and @sup{d}Ninzuanna as Lugalmarada's spouse would indeed also be associated with the city. The following line contains @sup{d}Šuzianna, who is associated with Nippur, and one could very tentatively suggest the wedge preserved is consistent with the beginning of EN as in EN.KID@sup{ki} (Nippur). Equations with deities qualified as belonging to particular cities or regions are found in other god lists, see for example Schwemer 2001: 78-79 for an edition of K 2100 vs. I 1-41, which is a list of @sup{d}Adad-names, including a number of names that are qualified as "@sup{d}Adad of GN."
+
+18'. !bs IM#-zu-an-na & {d}IM-zu-an-na & !cm MIN<(a-na)> im-mu# [zu?]-u-zu-u a-an-na & {d}gu-la & AMAR?#-[...]
+#lem: X; X; ana[the sign AN]N; +immu[the sign IM]N$immu; +zuzu[the sign ZU]N$zuzu; +anna[the signs AN.NA]N$anna; Gula[1]DN; u
+
+
+#tr.en: (The theonym pronounced) Ninzuanna (is) the goddess @sup{d}Ninzuanna (written with the signs) IM, ZU (and) AN.NA (and this goddess is equated with) the goddess @sup{d}Gula, (who is associated with) Ma[rad?]. 
+
+#note: @sup{d}Nin-zuanna written with the IM sign is mentioned in in Shibata 2009: 36, where he says this is the "usual variant" and cites Krebernik for the claim that "the writing reflects In-zuanna with disappearance of the consonant /n/." See also note above regarding AMAR. 
+
+
+19'. !bs [šu/su?]-zu#?-an#-na# & {d}ŠU.ZI.AN.NA & !cm MIN<(a-na)> šu-u-šu?# [zi?]-i#-tu₂ a-an-na & {d}gu-la & EN?# [...]
+#lem: X; Šuziana[1]DN; ana[the sign AN]N; X; X; anna[the signs AN.NA]N; Gula[1]DN; adi[until]PRP; u
+
+
+#tr.en: (The theonym pronounced) Šuzuanna(?) (is) the goddess @sup{d}Šuzianna (written with the signs) ŠU, ZI (and) AN.NA (and this goddess is equated with) the goddess @sup{d}Gula, (who is associated with) […].
+
+#note: Shibata (2009: 36) writes "the goddess is identified with Gula in the multi-subcolumned Assyrian version . . . whereas in the list An = @i{Anum} she is identified as the 'younger wife" (dam bàn-da) of Enlil." See note to l. 18' for EN.
+
+
+20'. !bs [...] & {d#}KU₃#.NUN.NA & !cm MIN<(a-na)> ku-gu#? [...] & {d}gu-la & [...]
+#lem: u; X; ana[the sign AN]N; X; u; Gula[1]DN; u
+
+
+#tr.en: [(The theonym pronounced) …] (is) the goddess @sup{d}Kununna (written with the signs) KU₃, [NUN (and) NA] (and this goddess is equated with) the goddess @sup{d}Gula, (who is associated with) Ma[rad?]. 
+
+#note: Shibata 2009: 37: "in the Assyrian manuscript @i{KAV} 46+47, 21', which identifies the goddess [@sup{d}TUG₂-nun(-na)] with Gula, as well as in @i{KAV} 63, ii 2, the goddess' name is written @sup{d}Kù-nun-na, 'princely pure(ness)'. This writing . . . is attested elsewhere in  . . . the name of the sanctuary of Inanna at Eridu . . .  but it seems probable that the spelling [in these manuscripts] was a secondary interpretation of the name of this goddess, since the goddess is otherwise always written @sup{d}TUG₂-nun(-na)." The reconstructed signs are based off of the names for @i{nun} and @i{na}, see Gong 2000: 168 and 49, respectively.
+
+
+21'. !bs [...] & {d#}en#-ki & !cm MIN<(a-na)> e-[nu? ki-ki] & {d}e₂-a# & [...]
+#lem: u; Enki[1]DN; ana[the sign AN]N; +enu[the sign EN]N$enu; kiki[the sign KI]N; Ea[1]DN; u
+
+
+#tr.en: [(The theonym pronounced) DN] (is) the god @sup{d}Enki (written with the signs) EN [(and) KI] (and this god is equated with) the god @sup{d}Ea […]. 
+
+
+22'. !bs [...] & [{d}]e₂#-a & !cm MIN<(a-na)> e-[...] & {d#}e₂#-[...] & [...]
+#lem: u; Ea[1]DN; ana[the sign AN]N; u; u; u
+
+#tr.en: [(The theonym pronounced) DN (is) the god] @sup{d}Ea (written with the signs) E₂ [(and) A] (and this god is equated with) the god @sup{d}E[a]
+
+#note: For the sign names of e/e₂ and a, see Gong 2000: 21, 48, 62. It is noteworthy that this line does not use @i{bītu} for e2, as above. 
+
+23'. !bs [...] & [{d}x]-an#-na# & !cm MIN<(a-na)> e#-[...] & [...] & [...]
+#lem: u; u; ana[the sign AN]N; u; u; u
+
+
+#tr.en: [(The theonym pronounced) DN] (is) the deity @sup{d}[X]-anna (written with the signs) e[- … (and this deity is equated with the deity) DN]
+
+#note: If we follow Weidner 1924-25: 14, this line should have @sup{d}Damgalnunna.
+
+24'. !bs [...] & !cm MIN#<(a-na)> da#-[...] 
+#lem: u; ana[the sign AN]N; u
+
+
+#tr.en: ...
+
+#note: If we follow Weidner 1924-25: 14, this line should have @sup{d}Damkina.
+
+
+@reverse
+$ n lines broken
+
+1'.  !bs [...] & [...] & !cm [MIN<(a-na)> a?-a? ša₂?] la#?-[gab-ba-ku hal-la i-gub?] & [...] & [...] 
+#lem: u; u; ana[the sign AN]N; ai[not]MOD; ša[of]DET; +lagabbaku[the sign LAGAB]N$lagabbaku; +halla[the sign HAL]N$halla; igub[inscribed sign]AJ; u; u
+
+
+#tr.en: ...
+
+#note: Following Weidner (1924-25: 15; see also Cavigneaux 1981: 86-87), this line should have an equation between @sup{d}@akk{ID₂} and a deity whose name is lost in subcolumn 4. The sign name for @akk{ID₂} is @i{a-a ša₂ la-gab-ba-ku hal-la i-gub} (Gong 2000: 135), (lit.) "the sign A (and) HAL inscribed into LAGAB." The reconstruction is entirely tentative without collation of the tablet. Exemplar A preserves a line before this that equates @sup{d}Ara with @sup{d}Usmu but it is difficult to say whether this exemplar would have contained this line as well; the line might be preserved below instead, see line r,10'. 
+   
+
+2'. !bs [...] & [...] & !cm [MIN<(a-na)>] i#-na# lu#-lu# ru#-u₂#? [gu₂?]-gu₂#? ki#-[ki?]
+#lem: u; u; ana[the sign AN]N; ina[in]PRP; X; X; X; kiki[the sign KI]N
+
+
+#tr.en: [(The theonym pronounced) DN (is) the deity @sup{d}ID2-lu₃-ru-gu₃@sup{ki}(?) (written with the signs) ...]-@i{ina lulû rû gugû}(?) @i{kiki}(?) [... (and this deity is equated with) the deity DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}ID₂-lu₃-ru-gu₃@sup{ki} and a deity whose name is lost. As mentioned above, Gong (2000: 135) has @akk{hal-la i-gub} as the name for the ID2 sign, but it is impossible to tell if the @i{na} is a misread DU without collation. 
+
+
+3'. !bs [...] & [...] & !cm [...] sa# [...]
+#lem: u; u; u; X; u
+
+
+#tr.en: …
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}Ki-sag₂ and @sup{d}Damkina. See also Cavigneaux 1981: 86-87. Although the copy suggests @akk{SA}, the sign name @i{ki-ki gi-šim-ma-ru} is expected here (Gong 2000: 173 s.v. @akk{SA₆}). 
+
+
+4'. !bs [...] & [{d}asal?]-lu₂#-hi & !cm MIN#<(a-na)> [ša₂ (gi)]-iš#-qa-la#-[ku i-gi i-gub lu-u₂? du-u₂-gu?] & [...]
+#lem: u; X; ana[for]PRP; ša[that]REL; X; X; igub[inscribed sign]AJ; lū[may]MOD; X; u
+
+
+#tr.en: [(The theonym pronounced) DN (is) the god @sup{d}Asalluhi (written with the signs) |URU×IGI|, [LU₂, (and) DUG₃ (and this god is equated with) the god DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}@akk{asal-lu₂-dug₃} and @sup{d}Marduk. For the sign name for @akk{ASAR} or @akk{ASAL} see Gong 2000: 198 s.v. @akk{|URU×IGI|}. Compare r,11' for the possible omission of the sign @akk{GI}.
+
+
+5'. !bs [...] & [{d}]AMAR#.UTU# & !cm MIN<(a-na)> ma#-ru [u₂-ta-ku?] & [...]
+#lem: u; Marduk[1]'CN; ana[according to]PRP; māru[son]N; X; u
+
+
+#tr.en: [(The theonym pronounced) DN] (is the god) @sup{d}Marduk (written with the signs) AMAR? [(and) UTU (and this god is equated with the god) DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}AMAR.UTU and @sup{d}Marduk.
+
+6'. !bs [...] & {d#}[zar-pa]-ni#-tu₂# & !cm MIN<(a-na)> su#?-[...] ni# na# [...]
+#lem: u; X; ana[the sign AN]N; u; X; X; u
+
+
+#tr.en: [(The theonym pronounced) DN] (is) the goddess @sup{d}Zarpanītu (written with the signs) X, [PA, NI (and) IB₂ … (and this goddess is equated with) the goddess DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @akk{{d}zar-pa-ni-tum} and apparently the same writing. The @i{na} in the third subcolumn may be a misreading for -tum, but in any case the sign name for @i{zar} (= @akk{|LAGAB×SUM|}) is @akk{ša₂ la-gab-ba-ku su₂-u₂-na i-gub} (Gong 2000: 154). 
+
+
+7'. !bs [...] & [...] & !cm MIN#<(a-na)> [...]
+#lem: u; u; ana[the sign AN]N; u
+
+
+#tr.en: ...
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @akk{{d}na-bi-um} and @sup{d}Nabu₂.
+
+8'. !bs [...] & [...] & !cm MIN#<(a-na)> [...]
+#lem: u; u; ana[the sign AN]N; u
+
+
+#tr.en: ...
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}Nabu and @sup{d}Nabu₂.
+
+9'. !bs [...] & [...] & !cm MIN#<(a-na)> u₂#-ru# [me-mu-u₂? i-bu?] & [...]
+#lem: u; u; ana[the sign AN]N; +uru[the sign UR]N$uru; u; u; u
+
+
+#tr.en: [(The theonym pronounced) DN (is) the god @sup{d}Tašmetum (written with the signs)] UR, [ME (and) IB₂] (and this god is equated with) the god DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @akk{{d}taš-me-tum} and the same spelling
+
+10'. !bs [...] & {d}a-ra#-[ah-tum] & !cm MIN<(a-na)> a-a-u ra-ru# [u₂-mu-nu? i-bu?] & [...]
+#lem: u; X; ana[the sign AN]N; +ayyu[the sign A]N$ayyu; +raru[the sign RA]N$raru; u; u; u
+
+
+#tr.en: [(The theonym pronounced) DN] (is) the god @sup{d}Arahtum (written with the signs) A, RA, [UMUN₃ (and) IB₂ (and this god is equated with) the god DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @akk{{d}a-ra-ah-tum} and @akk{{d}su-ti-tum}, though the room for -@i{ah-tum} appears to be not enough in the copy. There is a god @sup{d}Ara = @sup{d}Usmu, see note on line r,1'. If it is Arahtum, the sign name would also include reference to the signs @akk{AH} and @akk{TUM}. For the sign name of @akk{AH} see Gong 2000: 100. An alternative @i{ša₂ du-ga-ku nu-na i-gub} for @akk{AH} would need too much space.  
+
+11'. !bs [...] & {d}mi-uš-šar₂ & !cm MIN<(a-na)> ig!-gi-gu ni#-[ta-hu du-u₂-gu] & [...]
+#lem: u; u; ana[the sign AN]N; +iggigu[the sign MI]N$iggigu; +nitahu[the sign NITA₂]N$nitahu; u; u
+
+
+#tr.en: [(The theonym pronounced) DN] (is) the goddess @sup{d}Miuššar (written with the signs) MI, NITA₂ [(and) DUG₃ (and this goddess is equated with) the goddess DN]
+
+#note: MI has usually a sign name @i{gi-ik-ki-gu} or similar (Gong 2000: 159). It seems that initial @akk{GI} was omitted here. Following Weidner (1924-25: 15), this line should have an equation between @akk{{d}mi-uš-šar₂} and @akk{{d}su-ti-tum}.
+
+
+12'. !bs [iš-ta-ra]-an# & {d}KA.DI & !cm MIN<(a-na)> ka#-a#-gu#-u₂# a sal#?-[gud?-du?] & [...] 
+#lem: +Ištaran[]DN$; Ištaran[1]DN; ana[the sign AN]N; +kagu[the sign KA]N$kagu; u; u; u
+
+
+#tr.en: [(The theonym pronounced) ištar]an (is) the god @sup{d}Kadi (written with the signs) KA (and) SALKUD [… (and this god is equated with) the god DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}Kadi and @sup{d}Ildan. Weidner writes that the pronunciation of KA.DI is uncertain but the third subcolumn seems to indicate that Kadi is correct. [or does that extra A change the pronunciation?]
+
+13'. !bs [...]-šu?#-ra-an & {d}GAL & !cm MIN<(a-na)> ga#-al#-[lu? ...] 
+#lem: u; X; ana[the sign AN]N; +gallu[the sign GAL]N$gallu; u
+
+
+#tr.en: [(The theonym pronounced) ...]šuran (is) the deity @sup{d}GAL (written with the sign) GAL [(and this deity is equated with) the deity DN]
+
+#note: Following Weidner (1924-25: 15), this line should have an equation between @sup{d}GAL and @sup{d}Ildan. The Elamites apparently pronounced @sup{d}GAL as @i{napiriša}, see Hinz 1965: 354. An explanatory god list from Nineveh has the entry AN.GAL = Aya (https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P365765) 
+
+14'. !bs [ku-ur]-ga-al & {d}KUR.GAL & !cm MIN<(a-na)> x# x# KUR x# [...]
+#lem: X; Ellil[1]DN; ana[the sign AN]N; u; u; mātu[land]N; u; u
+
+
+#tr.en: [(The theonym pronounced) Kur]gal (is) the god @sup{d}Kurgal (written with the signs) X [ (and this god is equated with) the god DN]
+
+#note: The sign @akk{KUR}'s name is generally written @akk{kur-ru-u} but that does not seem to be supported in the text (Gong 2000: 49). Following Weidner (1924-25: 15), this line should have an equation between @akk{{d}kur₂-gal} and @sup{d}Amurru, with the pronunciation possible restored as @akk{[ku-ur]-ga-al}. A Ninevite exemplar of An = @i{Anum} equates @sup{d}Kurgal with @sup{d}Enlil (https://cdli.ucla.edu/P365749) 
+
+
+15'. !bs [ma-an]-da#?-an & {d}DI.KU₅ & !cm MIN<(a-na)> sal#-[gud?-du?] si#-[il?] & [...]
+#lem: X; Madānu[1]DN; ana[according to]PRP; X; X; u
+
+
+#tr.en: [(The theonym pronounced) Ma(n)d]an(?) (is) the deity @sup{d}DI.KU5 (written with the signs) DI (and) SILA [ (and this deity is equated with) the deity DN]
+
+#note: The sign @akk{DI} is usually represented as @i{salkud} in sign names; see Gong 2000: 108-9. The sign name for the sign @akk{KUD} is based on the reading @akk{SILA}; see Gong 2000: 75 for the various phonetic spellings. Following Weidner (1924-25: 16), this line should have an equation between @akk{{d}DI.KUD} and @sup{d}Mandanu. 
+
+16'. !bs [... da]-a-an & {d}kud & !cm MIN<(a-na)> si-il#?-[...]
+#lem: u; X; X; ana[the sign AN]N; u
+
+
+#tr.en: [(The theonym pronounced) Ma(n)d]an (is) the god @sup{d}KUD (written with the sign) @i{silu}(?) [ (and this god is equated with) the god DN]
+
+#note: See note above on line 15''. Following Weidner (1924-25: 16), this line should have an equation between @sup{d}KUD and @sup{d}Mandanu. 
+
+
+17'. !bs [... da]-a-an & {d}kud & !cm MIN<(a-na)> si-il#?-[...]
+#lem: u; X; X; ana[the sign AN]N; u
+
+
+#tr.en: [(The theonym pronounced) Ma(n)d]an (is) the god @sup{d}KUD (written with the sign) SILA(?) [ (and this god is equated with) the god DN]
+
+#note: See note above on line r,15'. Following Weidner (1924-25: 16), this line should have an equation between @sup{d}KUD and @sup{d}Mandanu. 
+
+
+18'. !bs [ni-ra]-ah & {d}nirah & !cm MIN<(a-na)> mu#-[uš?-šu?] & [...]
+#lem: X; Nirah[1]DN; ana[the sign AN]N; X; u
+
+
+#tr.en: [(The theonym pronounced) Nir]aḫ (is) the god @sup{d}Niraḫ (written with the sign) MUŠ [(and this god is equated with) the god DN]
+
+#note: The sign name for @akk{MUŠ} is written a number of ways, for which see Gong 2000: 162. Following Weidner (1924-25: 16), this line should have an equation between @sup{d}Niraḫ/Šeraḫ and @sup{d}@i{Bēl erṣeti}, with Weidner suggesting @akk{[še-ra]-ah} as the pronunciation but here Niraḫ is reconstructed. 
+
+$ single ruling
+
+19'. !bs [...]-na# & [...]-su?# & !cm [...]
+#lem: u; u; u
+
+
+#tr.en: …
+
+#note: The WGL has @sup{d}@i{Isar-matissu} here but that is not supported by the copy.
+
+$ 1 line broken

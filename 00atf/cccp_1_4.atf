@@ -1,0 +1,592 @@
+&P404917 = CCP 1.4 (http://ccp.yale.edu/P404917) = BM 66882
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@top
+
+0. !zz ina a-mat {d}EN u {d}AG liš-lim
+#lem: ina[by]PRP; amāt[command]N; Bel[1]DN; u[and]CNJ; Nabu[1]DN; lišlim[go well]V
+
+@obverse
+
+1. !bs a-šiš?# !cm <:> it-pe-šu₂ : MIN! : ma-li-ku : !bs ga-na !cm : al-ka [:] x# [x x] x# [:] ga#-na : i-na-an-na : !bs a-ta-am#-[mar !cm : a-mar : na-ṭa-lu]
+#lem: +āšišu[encompassing]N$āšiš; itpēšu[expert]N; šanîš[alternatively]AV; māliku[adviser]N; +gana[come on]AV$; alka[go]V; u; u; u; u; gana[come on]AV; inanna[now]AV; +amāru[see]V$atammar; amār[appearing]'N; naṭālu[seeing]'N
+
+#note: The sign after @i{a-ta} is certainly not @i{ḫaz} (@i{pace} Oshima). The restoration at the end is speculative (@i{a-ta-a}[@i{m-mar}], @i{amāru} Gtn Imperative).
+2. !cm MIN : la-mad : !bs tap-pu-u₂ !cm : šu-ta-pi : MIN : šu-za-pi : tap-pu-u₂ : šu-taš#-[nu-u₂ :] !bs nam#-ra-ṣa !cm : mar-ṣa-a-tu₂ : !bs lit-mu#-[du !cm x x x (x x)]
+#lem: šanîš[alternatively]AV; +lamādu[learn//learning]V'N$lamād; tappû[companion]N; +šutāpu[associate]N$šutāpi; šanîš[alternatively]AV; +šutāpu[associate]N$šuzāpi; tappû[companion]N; +šutašnû[doubled]N$; +namrāṣu[hardship]N$; +marṣātu[hardship]N$; +lamādu[learn//learning]V'N$litmudu; u; u; u; u; u
+
+#note: On @i{tappû} = @akk{šu-taš#-[nu-u₂]} (@i{si vera lectio}), compare @akk{[tap]-pu#-ú : a-me-lu šá-nu-ú} in BM 38271 l. 16 (@i{CCP} 2.3). Lambert’s handwritten note suggests restoring @akk{šu-taṣ#-[bu-tú]}.
+
+3. !bs a-a-na !cm : ai-a-nu : !bs a-a-iš !cm : ai-a-nu-uš : !bs mu-du-u !cm : ṭup-šar-ri [: !bs iš]-ti#-ka# !cm [:] iš#-ti# [:] MIN# [:] it#-[ti x x (x x)]
+#lem: +ayyānu[where?]AV$ayyāna; +ayyānu[where?]AV$; +ayyiš[where?]AV$; +ayyānu[where?]AV$ayyānuš; mūdû[wise]AJ; +ṭupšarru[scribe]N$ṭupšarri; +išti[with]PRP$ištīka; +išti[with]PRP$; šanîš[alternatively]AV; itti[with]PRP; u; u; u; u
+
+#note: The word @i{ayyānuš} is apparently elsewhere unattested.
+4. !bs ni-is-sa-tu₂ !cm : ni-iš-ša₂-tu₂ : !bs i-ši-ru !cm : a-ša₂-ri : sa-na-qa : a-ša₂-ri : a-lak : !bs a-ga-rin#-[nu !cm : um-mu : A? : DUMU? : RIN : pu]-uh-hur : !bs i-ta#-[ar !cm : il-lak]
+#lem: +nissatu[wailing]N$; +nissatu[wailing]N$niššatu; +ešēru[be/go well]V$īširu; +ešēru[be/go well//being/going well]V'N$ašāri; +sanāqu[check//checking]V'N$; ašāri[being/going well]'N; alāk[going]'N; +agarinnu[womb]N$; +ummu[mother]N$; māru[son]N; māru[son]N; +pahāru[gather//collecting]V'N$puhhur; +pahāru[gather//collecting]V'N$puhhur; +târu[turn]V$itâr; illak[come]V
+
+#note: Note that the @i{explanandum}, @i{nissatu}, is far more common than the @i{explanans}, @i{niššatu}.
+5. !cm NIGIN₂ : ta-a-ri : NIGIN₂ : a-lak : !bs ba-lu ta-ru-u₂-a !cm : ba-lu : ša₂ la : ta-ru-u : ru-ub-bu-u# [: (x) x x]-x#-ʾ#-u : !bs na-ra-am : ana x [x x x]
+#lem: +târu[turn//turning]V'N$; târi[turning]'N; +alāku[go//going]V'N$; alāk[going]'N; balu[without]PRP; +tārû[(child) minder]N$tārûʾa; balu[without]PRP; ša[of]DET; lā[not]MOD; tarû[lifting up]'N; rubbû[bringing up]'N; u; u; u; narām[loved one]N; ana[according to]PRP; u; u; u; u
+
+#note: The sign before @akk{ʾ#-u} ends in a vertical (perhaps @akk{[na-ʾ-du :] le#-ʾ#-u}); the sign after @i{ana} begins with a vertical (therefore @akk{ra#-[a-mu]} seems impossible, perhaps @akk{a#-[ra-mu]}).
+6. !bs tu-šak-pi-du !cm : ka-pa-du : ṣa-ra-mu : !bs la le-ʾi-iš !cm : ki-ma la# le-ʾ-u₂ : !bs nak-di !cm : pal#-[hu :] !bs u₂#-kam-mar !cm : GAR : ka-ma-ri ša₂ NIG₂.GA# [(x x)]
+#lem: +kapādu[plan]V$tušakpidu; kapādu[plotting]'N; +ṣarāmu[make an effort//making an effort]V'N$; lā[not]MOD; +lēʾîš[like an incompetent]AV$; kīma[like]PRP; lā[not]MOD; +lēʾû[powerful]AJ$; +nakdu[frightened]AJ$nakdi; palhu[reverent]AJ; +kamāru[pile up]V$ukammar; +kamāru[pile up//piling up]V'N$; kamāri[piling up]'N; ša[of]DET; +makkūru[property]N$makkūri; u; u
+
+#note: The reading @akk{pal#-[hu]} is suggested by Lambert in a note in the margin of his copy.
+7. !cm kum₂-mu-ri : pu-uh-hur : !bs ku-up!-pi !cm : ana kup₃-pa : na-a-ri : !bs ku-mur-re-e !cm : a-gu-u : ana ka-mar* : !bs gi#-ip-šu₂ !cm : a-gu-u : ga-pa-šu₂ : ma-a-di : !bs ku-a-šu₂ !cm : ana ka-a-šu₂
+#lem: +kamāru[pile up//piling up]V'N$kummuri; puhhur[collecting]'N; +kuppu[cistern]N$kuppi; ana[according to]PRP; +kuppu[cistern]N$kuppa; nāri[river]N; +kumurrû[heaping up]N$kumurrê; +agû[wave]N$; ana[according to]PRP; kamār[piling up]'N; gipšu[thickening]N; agû[wave]N; gapāšu[rising upwards]'N; +mâdu[be(come) many//be(com)ing many]V'N$mâdi; +kâšu[delay//delaying]V'N$kuāšu; ana[according to]PRP; kâšu[delaying]'N
+
+8. !bs lu-uṣ-ṣi-iṣ-ka !cm : uṣ-ṣu-ṣu : ši-ta-lu : MIN : ša₂-a-lu :# !bs a-lak-tu₂ !cm : ṭe₃-e-mu : !bs qa-a-lu !cm : ša₂-ta-qa : !bs gat-ti !cm : la-a-nu : !bs ha-ša₂-hi !cm : hu-šah-hu
+#lem: +uṣṣuṣu[interrogate]V$luṣṣiṣka; +uṣṣuṣu[interrogate//interrogating]V'N$; +šâlu[ask//asking]V'N$šitālu; šanîš[alternatively]AV; +šâlu[ask//asking]V'N$; alaktu[journey]N; ṭēmu[(fore)thought]N; +qâlu[pay attention//paying attention]V'N$; šatāqa[splitting]'N; gatti[physique]N; lānu[stature]N; +hašāhu[need//needing]V'N$hašāhi; +hušahhu[need]N$
+
+#note: The equation @i{qâlu} = @i{šatāqu} does not seem to make sense.
+
+9. !cm bu-bu-tu₂ : !bs ku-ši-ri !cm : tak!-ši-ri# : MIN : tak-si-tu₂ : nik-kas#-su : !bs še-te-ku! : še-e-tu₂ : e-te-qa : !bs mu-ut-tu-tu₂ !cm : eṭ-lu-tu₂ : mu-tu₂ : eṭ-lu
+#lem: +bubūtu[hunger]N$; kušīri[success]N; +takšīru[repair]N$; šanîš[alternatively]AV; +takšītu[profit]N$taksītu; +nikkassu[account(s)]N$; +šêtu[be/leave remaining]V$šētēku; +šêtu[be/leave remaining//being/leaving remaining]V'N$; etēqa[proceeding]'N; +mutūtu[status of a husband]N$muttūtu; +eṭlūtu[manliness]N$; +mutu[husband]N$; eṭlu[young man]N
+
+#note: As noted by Oshima @i{Babylonian Poems of Pious Sufferers} (2015) p. 350, the commentary apparently derives @i{šētēku} from @i{šêtu}, although the two known MSS of the base text read @i{ši-te-ti-iq} and @i{ši-ti-qa}, making this derivation impossible.
+10. !bs ku-bu-uk-ku !cm : e-mu-qa : !bs iš?#-[di?-hu?] !cm :# x# x# x# :# !bs ku#-ri !cm : mur-ṣu : !bs zi-me !cm : bu-un-na-an-nu-u : !bs ku-ru-um !cm : ku-ru-um-mat : !bs ṭa-pa-pu !cm : še-bu-u
+#lem: +kubukku[strength]N$; emūqa[strength]N; išdihu[profit(able business)]N; u; u; u; +kūru[depression]N$kūri; murṣu[illness]N; +zīmu[face]N$zīme; +bunnannu[physiognomy]N$; +kurummu[food allocation]N$kurum; +kurummu[food allocation]N$kurummat; +ṭapāpu[be very full//being very full]V'N$; šebû[being full]'N
+
+11. !bs ku-un-nam-ma-a !cm : i-kun-na-a : !bs [sa-an-qa !cm : GI :] sa-naq : GI : ka-a-nu : !bs sa-ad-ri !cm : sa-da-ri : ka-a-nu : !bs dub-bu-biš !zz : !qt DIMMA.KUR₂.RA
+#lem: +kunnu[fixed]AJ$kunnāmmā; +kânu[be(come) permanent]V$ikunnā; +sanqu[checked]AJ$sanqa; +sanāqu[check//checking]V'N$; +sanāqu[check//checking]V'N$sanāq; kânu[be(com)ing permanent]'N; kânu[be(com)ing permanent]'N; +sadru[in order]AJ$sadri; sadāri[placing in order]'N; kânu[be(com)ing permanent]'N; +dubbubiš[inincoherent speech]AV$; +dubbubu[stupid]AJ$
+
+12. !qt dub-bu-bu !cm : ša₂-ne₂-e ṭe₃-e-me : !zz ka#/iš-[x x : !bs e]-mu#-u !cm : ma-ša₂-lu : !bs e-me-du !cm : na-šu₂-u : !bs sa-meš !cm : GIM sa-mi-i : !bs ur-qa !cm : ṭe₃-e-mu : !bs tu-maš*#-šil?#
+#lem: +dubbubu[stupid]AJ$; šanê[being changed]'N; ṭēme[mind]N; u; u; ewû[becoming]'N; mašālu[equalling]'N; emēdu[leaning on]'N; našû[lifting]'N; +samîš[like one undecided]AV$; kīma[according to]PRP; +samû[undecided]AJ$samî; +murqu[intellect]N$urqa; ṭēmu[(fore)thought]N; +mašālu[equal]V$tumaššil
+
+#note: Compare @akk{DIMMA.KÚR.RA} = @i{dubbubu} in @i{Nabnītu} IV/IVa 100 (@i{MSL} 16 p. 100). After @i{šānê ṭēmi}, read perhaps @akk{DIMMA#.[KUR₂.RA]}? At the end, both Lambert and Oshima read @akk{tu-šá?#-al?#-[lik]}, but the sign after @i{tu} looks rather like @i{maš}.
+13. !cm SI : šu-lu-ku : SI : ma-ša₂-lu : !bs sa-an#-[tak-ka !cm : ka]-a-nu : !bs la na-par-ka-a !cm : la ba-ṭa-lu : !bs sa-ba-sa !cm : ze-nu-u : !bs qad₃-mu !cm :# DINGIR# x# [(x x)]
+#lem: +alāku[go//being appropriate]V'N$šūluku; +alāku[go//being appropriate]V'N$šūluku; +mašālu[equal//equalling]V'N$; mašālu[equalling]'N; +santakka[continuously]AV$; kânu[be(com)ing permanent]'N; lā[not]MOD; naparkâ[ceasing]'N; lā[not]MOD; baṭālu[ceaasing]'N; +šabāsu[be angry//being angry]V'N$šabāsa; zenû[angry]AJ; +qadmu[former time//ilu]N'N$; ilu[god]N; u; u; u
+
+#note: On the use of the noun @i{qadmu} as a common noun for “god,” see Lambert @i{BWL} (1960) p. 309. The traces after @akk{DINGIR} may correspond to the name of one particular god (perhaps @akk{{d}EN#.[LÍL]}?).
+14. !cm ana qu-ud-mu : mah-ri : !bs sa-lit-tu₂ !cm : sa-lim#-[tu₂ !zz : x x] : !bs ba-a-lu !cm : la-ban ap-pi : !bs sa-am-ku !cm : sa-an-gu : !bs la šu-šu-ri !cm : la eš-[ru]
+#lem: ana[according to]PRP; +qudmu[front (side)]N$; mahri[front]N; +salmu[peaceful]AJ$salittu; +salmu[peaceful]AJ$salimtu; u; u; +bâlu[supplicate//supplicating]V'N$; labān[spreading]'N; appi[nose]N; +samku[buried]AJ$; +samku[buried]AJ$sangu; lā[not]MOD; +ešēru[be/go well//putting in good condition]V'N$šūšuri; lā[not]MOD; +ešru[in order]AJ$
+
+#note: The equation @i{samku} = @i{sangu} simply provides the Late Babylonian pronunciation.
+15. !bs i-ri-im-mu !cm : ana re-e-mu : !bs mi-ša₂#-ru# !zz [: x x :] !bs kaq#-da₃-a !cm : ka-a-a-nu : ana kun-nu : !bs NIGIN !cm : sa-har : NIGIN : bu-ʾ-u : !bs sa-an-ni-[nu !cm : x x (x)]
+#lem: +rêmu[be merciful]V$irimmu; ana[according to]PRP; +rêmu[be merciful//being merciful]V'N$; mīšaru[justice]N; u; u; +kaqdâ[constantly]AV$; kayyānu[steady]AJ; ana[according to]PRP; kunnu[securing]'N; +sahāru[go around//going around]V'N$; +sahāru[go around//going around]V'N$sahār; +buʾʾû[look for//looking for]V'N$; +buʾʾû[look for//looking for]V'N$; +sanninu[slanderous]AJ$; u; u; u
+
+16. !bs šap-ṣu !cm : dan-nu : !bs ta-ha-na-tu₂# !zz [: !qt ta-li-mat : a-zi]-ba#-tu₂# : u₂-sat !cm : gi-mil U₄-ME SU₃-ME : ta-ha-na-tu₂ : ana UGU ha-[ta-nu]
+#lem: +šapṣu[recalcitrant]AJ$; dannu[strong]AJ; +tahanātu[help]N$; +talīmātu[help]N$; +azibatu[help]N$; +usātu[help]N$; gimil[requital]N; +ūmu[day]N$ūmāti; +rūqu[distant]AJ$rūqēti; +tahanātu[help]N$; ana[on]PRP; muhhi[top]N; +hatānu[protect//protecting]V'N$
+
+#note: The line contains a vertical quotation from @i{Malku} IV 196-198. On @i{ūmu rēqu}, see Rutz @i{ZA} 106 (2016) p. 58a. Compare @i{CCP} 1.5 l. 20: @akk{[... u₂]-sa?#-tu₂?# : gi-mi-il}. The restoration at the end is very uncertain, inasmuch as @i{ana muḫḫi} is used elsewhere in this commentary to introduce etymographical analyses, not simply to establish the lemma.
+17. !bs be-e-šu₂ !cm : pe-tu-u₂ : !bs na-ak-ru#-[ṭu !cm : x x x (x x)] : MIN : na-as-hu-ri : !bs li-gi-sak-ku !cm : um-ma*# lid*#-dak-ku : ge-e-su : na*#-[da-nu]
+#lem: +bêšu[go away//breaking open]V'N$; petû[opening]'N; +nakruṭu[mercy]N$; u; u; u; u; u; šanîš[alternatively]AV; +nashuru[favourable attention]N$; +gêsu[assign to]V$ligīsakku; umma[saying]PRP; +nadānu[give]V$liddakku; +gêsu[assign to//assigning to]V'N$; nadānu[giving]'N
+
+#note: On the technical term @i{umma}, see Gabbay @i{CHANE} 82 (2016) p. 195-198. The passage has been collated [EJ].
+18. !cm RIG₇ : ge-e-su : RIG₇# [: ša₂-ra]-ku : !bs ak-tam-sak-ku !cm : ka-ma-su : ka-na-šu₂ : GAM# [: ka]-ma-su : GAM : ka#-[na-šu₂]
+#lem: +gêsu[assign to//assigning to]V'N$; gêsu[assigning to]'N; +šarāku[present//presenting]V'N$; +šarāku[present//presenting]V'N$; +kamāsu[kneel]V$aktamsakku; kamāsu[kneeling]'N; +kanāšu[bow down//bowing down]V'N$; kamāsu[kneeling]'N; kamāsu[kneeling]'N; +kanāšu[bow down//bowing down]V'N$; kanāšu[bowing down]'N
+
+19. !bs a-ha-za !cm : la-ma-du : !cm KU₇.KU₇# [: !bs du-uš-šu-pu !cm :] KU₇#.KU₇ : aq-ri : !bs si-qir₃ !cm : a-mat : !bs ak-ka-ta !cm : ana ka#-[a-ti :] !bs ak?#-kan?#-[nu !zz x (x x)]
+#lem: +ahāzu[take//taking]V'N$ahāza; lamādu[knowing (sexually)]'N; +duššupu[sweetened]AJ$; duššupu[sweetened]AJ; +aqru[rare]AJ$; +aqru[rare]AJ$aqri; +zikru[utterance]N$ziqir; amāt[command]N; +ana[to]PRP$ak&+kâti[you]IP$kâta; ana[according to]PRP; +kâti[you]IP$; +akkannu[wild ass]N$; u; u; u
+
+20. !cm ana UGU GAN : a-la-du : !bs šu-muh# !cm [: ša₂-ma]-hu# : DU₃{+u} : MIN : ra-bu-u : !bs ag-gu !cm : dan-nu : !bs ki-mil-tu₂# !cm [: x x x : !bs EN pa-ni !cm : x x]
+#lem: ana[on]PRP; muhhi[top]N; +alādu[give birth (to)//giving birth (to)]V'N$alādi; alādu[giving birth (to)]'N; +šumhu[luxuriance]N$šumuh; šamāhu[growing]'N; +banû[be(come) good//be(com)ing good]V'N$; šanîš[alternatively]AV; rabû[increasing]'N; aggu[furious]AJ; dannu[strong]AJ; +kimiltu[wrath]N$; u; u; u; bēl[lord]N; pāni[front]N; u; u
+
+#note: On the reading of the line, see Jiménez @i{Iraq} 76 (2014) p. 103.
+21. !cm ša₂-niš# EN pa-ni : EN NIG₂.GA : !bs {d}[ma-mi !cm :] {d#}GAŠAN-i₃-li₂ :# DU₃{+at} UN-MEŠ : MA# : DU₃#{+u} : ME : UN-MEŠ : !bs i-liš !cm : [ana DINGIR !zz : x x x x x x x x]
+#lem: šanîš[alternatively]AV; bēl[lord]N; pāni[front]N; bēl[lord]N; makkūri[property]N; Mami[1]DN; +Belet-ili[]DN$; bānât[creator]N; nišī[people]N; banû[creating]'N; +banû[create//creating]V'N$; +nišū[people]N$; nišū[people]N; iliš[like a god]AV; ana[according to]PRP; ili[god]N; u; u; u; u; u; u; u; u
+
+22. !bs sat#-tuk-ku !cm : gi-nu-u₂ ša₂ DINGIR-MEŠ# [: gi]-nu#-u₂ : ša₂-nu-u₂# [:] !bs gi-mil !cm : ana ga-ma-lu : !bs na-gab !cm : nap-har [:] !bs il#-[lu-uk !cm : x x x x x]
+#lem: sattukkū[regular offering]N; +ginû[regular contribution (to temple)]N$; ša[whom]REL; ilī[god]N; +ginû[regular contribution (to temple)]N$; +šanû[(an)other]AJ$; gimil[requital]N; ana[according to]PRP; gamālu[saving]'N; nagab[whole]N; naphar[all]N; +illukku[(a precious stone)]N$illuk; u; u; u; u; u
+
+23. !cm MIN : šum-su-ku : !bs gi-na-ta-[ma !cm :] gi-nu-u : !bs a-ba/ma-LU : !cm am-ma-tiš₂ !cm : GIM er-ṣe-tu₂ : !bs i-lim !cm : ki-ma# !zz [x x x x x x x x]
+#lem: šanîš[alternatively]AV; šumsuku[considering as bad]'N; +ginû[child]N$ginâtā-ma; +ginû[child]N$; u; +ammatiš[like the earth]AV$; kīma[according to]PRP; erṣetu[earth]N; +ilu[god]N$ilim; kīma[like]PRP; u; u; u; u; u; u; u; u
+
+#note: Lambert @i{BWL} (1960) p. 305 understands @akk{gi-na-ta-[ma]} as an adjective (from @i{ginû}), “you are stable.” @akk{a-ba/ma-LU} might reflect a corruption of @akk{am-ma-tíš} in a manuscript, or else a variant @i{amālu} (or @i{amāliš}): compare in the @i{Ludlul} commentary (@i{CCP} 1.3) r 18: @akk{ú-pat-tin kin-né-e a-ma-liš iz-qu-up : kin-nu-u KUR{+ú} : a-ma-lu {giš}Ù#.SUH₅#}, “‘He strengthened it (as) a mountain, he planted (it) erect like a tree’ — Mountain (means) mountain. Tree (means) pine tree.”.
+24. !bs git₂-ma-lu !cm : dan-nu : !bs gi-mis?# !cm [: ana] ga?#-ma-ri : !bs qar-bat !cm : ta-mir-tu₂ : !bs mul-mul !cm : šil-tah : !bs ge#-[er !cm : x x !zz x x x x]
+#lem: gitmālu[perfect one]N; dannu[strong]AJ; +gimru[totality]N$gimis; ana[according to]PRP; +gamāru[bring to conclusion//bringing to conclusion]V'N$gamāri; +qerbetu[environs (of a settlement)]N$qarbat; tamirtu[(a type of) meadow]N; mulmul[arrow]N; +šiltāhu[arrow]N$šiltāh; +gērû[opponent]N$gēr; u; u; u; u; u; u
+
+#note: In @i{Theodicy} 60, the first word is written @akk{[gi]-mil#} in the Kuyunjik MS K.9290+, but @akk{gi#-mir} in the “Sippar Collection” MS BM 68589. The same situation is that of @i{Theodicy} 57, in which the same word is explained as @akk{gi-mil : ana ga-ma-lu} in l. 22 of the present commentary, but the “Sippar Collection” MS BM 68589 preserves the writing @akk{gi-mir} (the vacillation between @i{gimil} and @i{gimir} is also attested in various manuscripts fo the first line of the @i{Great Šamaš Hymn}). In the present line, the explanation clearly states that the verb is @i{gamāru}, but the sign after @i{gi} is neither @akk{MIR} nor @akk{MAR}. @akk{mis} is a possibility, but its use is difficult to explain. Compare perhaps the phonetic change @i{rt} > @i{št} > @i{lt} in Late Babylonian.
+25. !bs bit-ru !cm : bit-ru-u : ba-ru-[u : a]-mar# : !bs ha-aš₂-tu₂ !cm : KI{+ti₃} : ana UGU HAŠ : ša₂-ga-šu₂ : !bs qur-ru-nu !cm : pu-uh#-[hur x x x x x x x]
+#lem: +bitrû[continuous]AJ$bitru; +bitrû[be continuous//being continuous]V'N$; +barû[see//seeing]V'N$; amār[appearing]'N; haštu[trap]N; erṣeti[earth]N; ana[on]PRP; muhhi[top]N; +šagāšu[kill//killing]V'N$šagāši; +šagāšu[kill//killing]V'N$; +qarānu[stack up//storing up]V'N$qurrunu; puhhur[collecting]'N; u; u; u; u; u; u; u
+
+26. !bs ma#-ni#-tu₄# !cm : ša₂#-a#-ri# [: !bs mil-ki] !cm :# ṭe₃#-e-mu : !bs zik-ri !cm : a-mat : !bs mut-ta-ka !cm : mu-ut#-[tu₂ !zz x x x x x x x]
+#lem: +mānitu[(gentle) wind]N$; šāri[wind]N; milki[advice]N; ṭēmu[(fore)thought]N; zikri[reputation]N; amāt[command]N; +muttu[front (part)]N$muttaka; +muttu[front (part)]N$; u; u; u; u; u; u; u
+
+27. !cm IGI : a-mar : ša₂-niš mu#-[ut-tu₂ : x x :] SAG# : re-e-šu₂ : SAG : pa-ni : !bs muš-te-mu#-[u₂ !zz x x x x !bs a-ša₂-aṭ]
+#lem: +amāru[see//seeing]V'N$; +amāru[see//seeing]V'N$amār; šanîš[alternatively]AV; muttu[front (part)]N; u; u; rēšu[head]N; rēšu[head]N; pānī[face]N; pānī[face]N; +muštēmû[neglecter]N$; u; u; u; u; +šâṭu[pull]V$ašâṭ
+
+28. !cm ša₂-a-ṭu : ša₂-da-du [: !zz x x x x x x]-x# : !bs ka-tu-u !cm : muš-ke-nu : !bs il-an#-ni# !cm [:] ana# e#-lu#-[u !zz x x x]
+#lem: +šâṭu[pull//pulling]V'N$; +šadādu[drag//dragging]V'N$; u; u; u; u; u; u; +katû[weak]AJ$; muškēnu[dependant]N; +elû[go up]V$īlânni; ana[according to]PRP; +elû[go up//going up]V'N$; u; u; u
+
+29. !bs lil-lu !cm : še-e-ri : lil#-[lu : x x x :] la# ṭe₃-ma-nu : !bs har-ha-ri !cm : gu-za#-lu : MIN : še-e-ru₃ : !zz [x x x x]
+#lem: lillu[idiot]N; +šēru[fierce]AJ$; lillu[idiot]N; u; u; u; lā[not]MOD; +ṭēmānu[wise]AJ$; +harharu[villain]AJ$; +guzallu[ruffian]AJ$; šanîš[alternatively]AV; +šēru[fierce]AJ$; u; u; u; u
+
+#note: The first equation of the line (@i{lillu} = @i{šēru}) appears again in r 30′, as well as in @i{CCP} 3.6.4.A r 1 (correct de Zorzi @i{Šumma Izbu} (2014) p. 343 and 380 accordingly). @i{ḫarḫaru} is explained differently in r 19′.
+30. !bs la mur-qa !cm : la ṭe₃-e#-[me : !bs tat-ta-du-u !cm :] ŠUB# : na-du-u : ŠUB : e-ze-bi : !bs u₂-ṣur-tu₂ !cm : par-ṣi !zz :# mu?# [x x x x]
+#lem: lā[not]MOD; +murqu[intellect]N$murqa; lā[not]MOD; +ṭēmu[(fore)thought]N$ṭēme; +nadû[throw]V$tattadû; nadû[throwing]'N; nadû[throwing]'N; +ezēbu[leave//leaving]V'N$; ezēbi[leaving]'N; +uṣurtu[drawing]N$; parṣī[rite]N; X; u; u; u; u
+
+31. !bs me-e-si !cm : par-ṣi : !bs te-me-ek#-[ki !cm : me-ku-u : x] x# : !bs qe₂-reb !cm : lib₃-bi : !bs il₃-ti !cm : {d}iš-tar : !bs ir?#-[(x)]-x# !cm : ṭe₃-e#-mu# !zz [x x (x x)]
+#lem: +mēsū[cult]N$mēsī; parṣī[rite]N; +mekû[neglect]V$temekki; +mekû[neglect//neglecting]V'N$; u; u; qereb[centre]N; libbi[heart]N; +iltu[goddess]N$ilti; Ištar[1]DN; u; ṭēmu[(fore)thought]N; u; u; u; u
+
+#note: @i{Theodicy} 83 reads @akk{qí-bít pi-i {d}il-ti} | @akk{ul iš-šad-[da-ad]} || @akk{x-meš} | @akk{ul ha-as#-[su]}, “the commands of the goddes are not carried out, her … are not fulfiled.” The word ending in @i{meš} (perhaps @i{ṭēmiš}(@i{a})?) must be the one whose @i{explanans} is @i{ṭēmu}.
+32. !bs sa-ga-a !cm : sak-ku-u : par-ṣi# !zz [x x x x x] x# KI# ša₂#-a#-ri# : !bs nak-lu !cm : le-ʾ#-u₂# [: !bs x (x)]-it?# uz-nu !cm : x#-[x x x]
+#lem: +sakkû[(cultic rites)]N$sagâ; sakkû[(cultic rites)]N; parṣī[rite]N; u; u; u; u; u; u; itti[with]PRP; šāri[wind]N; +naklu[skilful]AJ$; lēʾû[powerful]AJ; u; u; uznu[ear]N; u; u; u
+
+#note: At the end, perhaps @i{t}[@i{up-šar-ri}].
+33. !cm MIN : le-ʾ-u₂ : !bs šum-me : !zz [x x x x x x x x x] :# is#/ma#-tu?#-u?# :?# [x (x)] x#-a-su : !bs GE{+e} !cm : iš?#-[x x (x)]
+#lem: šanîš[alternatively]AV; lēʾû[powerful]AJ; +šummu[a šumma-clause]N$šumme; u; u; u; u; u; u; u; u; u; X; u; u; u; X; u; u; u
+
+#note: On @i{šumme}, “clause beginning with @i{šumma},” see below the commentary on o 36. The second part of the verse contains a @i{notarikon} analysis of some word (e.g. @akk{GE{+e}} = @i{ištēn}, elsewhere well attested).
+34. !bs na-par-du-u₂ !cm : na-ma-ri : !zz ga/ta#-[x x (x)] x# x# x# da# [x x x x x]-pu#-u : ša₂-niš ti-rik ŠU-MIN a-x#-[x x (x)]
+#lem: +napardû[shine brightly//shining brightly]V'N$; namāru[clearing]N; u; u; u; u; u; u; X; u; u; u; u; u; šanîš[alternatively]AV; tirik[blow]N; qātī[hand]N; u; u; u
+
+35. !bs a-su !cm : še-e-ri : ša₂-niš# ti#-[x x !zz : (x)] x#-ru#-šu₂ : !bs la mu-du-u !cm : er-šu₂# !zz :# x# [x x x] x#-ma : !bs um-mu-lu !cm : ra-a-bi !zz : x# [x x (x)]
+#lem: u; šēri[morning star]N; šanîš[alternatively]AV; u; u; u; u; lā[not]MOD; mūdû[wise]AJ; eršu[wise]N; u; u; u; u; u; +amālu[be veiled//veiling]V'N$ummulu; +raʾābu[shake//being angry]V'N$râbi; u; u; u; u
+
+#note: It is uncertain how the first part of the line should be interpreted, perhaps @akk{tir-ri : ša₂-niš ti#-[i-ri]} instead of @i{še-e-ri}? On the last preserved equation, compare @i{ummulu} = @i{raʾību} in @i{LTBA} 2, 2: 270.
+36. !bs šum-mu# !cm :# [x x x x x] !bs am#-ra !cm : a-mur : !bs am-mat !cm : am-ma#-tu₄?# [:] !bs am-ma-rak !cm : ana a-ra-ku : !bs am-ša₂-al?# !cm [x x (x)]
+#lem: +šummu[a šumma-clause]N$; u; u; u; u; u; +amāru[see]V$amrā; āmur[see]V; +ammatu[earth]N$ammat; +ammatu[earth]N$; +ana[to]PRP$am&+māraku[length]N$mārak; ana[according to]PRP; +arāku[be long//being long]V'N$; +mašālu[equal]V$amšal; u; u; u
+
+#note: The first word may be @i{šummu}, “clause beginning with @i{šumma},” a word that is attested in @i{Theodicy} 198 and 214 (see also above the commentary on o 33). The words beginning in @i{am}- probably belong to the @i{am}- stanza of the @i{Theodicy} (§ XI). The reading of the last word is suggested in the margin of Lambert’s copy, if correct, restore perhaps at the end [@i{ana mašāli}].
+37. !zz x# [x x x !bs ul-li-tiš !cm : x x] x# : ul-lu : u₄-mu : DIŠ : iš-ten# [:] la ma-tar : i-na-an-ni : !bs u₂-ha-ak#-[kam? !zz x (x)]
+#lem: u; u; u; u; +ullītiš[the day after tomorrow]AV$; u; u; u; ullu[at some time]AV; ūmu[day]N; +ištēn[one]NU$; ištēn[one]NU; lā[not]MOD; +watār[no further]AV$; inanni[now]AV; +hakāmu[understand]V$uhakkam; u; u
+
+#note: The line contains probably a @i{notarikon} analysis of the word @i{ullītiš}, “the day after tomorrow.” Compare @i{ullūtiš} = @i{ina}[@i{nna}], @i{lā matar} = @akk{MIN} in @i{Malku} III 87-88. See also @i{ullūtiš} = @i{ištēn ūmi} in @i{Malku} III 165.
+38. !zz x# [x x x x x x !bs x x]-u₂#-tu₂ !cm : na-ki-su ša₂ na-piš-tu₂# :# !bs iš-ti-ši-in !cm : it-ti-ši-in !zz : u₂#-[x x (x)]
+#lem: u; u; u; u; u; u; u; u; u; +nākisu[butcher]N$; ša[of]DET; napištu[throat]N; +išti[with]PRP$ištīšin; +itti[with]PRP$ittīšin; u; u; u
+
+39. !zz [x x x x x x x x x x] !bs ma?#-ra-ku !cm : ana a-ra-ku : !bs si-ga#-a-tu₂ !cm : ana sa-ge-e : !bs up-tar-ri-ir !cm : pur#-[ru-ru : su-up-pu-hu]
+#lem: u; u; u; u; u; u; u; u; u; u; +māraku[length]N$; ana[according to]PRP; arāku[being long]'N; +sikkatu[(a serious illness)]N$sigātu; ana[according to]PRP; sagê[causing distress to]'N; +parāru[be dissolved]V$uptarrir; +parāru[be dissolved//dispersing]V'N$purruru; suppuhu[squandering]'N
+
+#note: The restoration of the last word is suggested in a note in the margin of Lambert’s copy.
+40. !zz [x x x x x x x x x x]-x#-tu₂ : !bs ub-bal !cm : ba-ba-lu# [:] na#-šu₂-u : !bs up-te-eṣ-ṣa-am-ma !cm : pe-e-ṣa# !zz [x x (x)]
+#lem: u; u; u; u; u; u; u; u; u; u; +wabālu[carry]V$ubbal; babālu[carrying]'N; našû[lifting]'N; +paʾāṣu[break up]V$upteṣṣam-ma; +paʾāṣu[break up//breaking up]V'N$pêṣa; u; u; u
+
+41. !zz [x x x x x x x x x x x !bs li]-gi#-ma-šu₂ !cm : lig-mu-u#-[šu₂ : x] x# :# !bs ṣe-re-es-su!(ZU) !cm : ṣer-šu₂ !zz : im#-[x x (x)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; +ligimû[kernel]N$ligimâšu; +ligimû[kernel]N$ligmûšu; u; u; +ṣerretu[nose-rope]N$ṣerressu; +ṣēru[back]N$ṣeršu; u; u; u
+
+#note: It is unclear whether @akk{UR-mu-u-[šú]} should be read as @akk{lig-mu-u-[šú]} here (if so, the writing would be otherwise unattested, but the commentary may comment on a manuscript in which the word was actually written @akk{lig-mu-u-šú}). In any case, @i{tešmû} makes no sense in this context.
+
+42. [x x x x x x x x x x x x] x# be?#/nu?# : ze?#-x# [x !bs BA !cm :] mu#-na-aš₂-ši-ri : !bs BI !cm : mu#-x#-[x x (x)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; X; u; u; +munaššeru[separator]N$munašširu; +munaššeru[separator]N$munašširu; u; u; u; u
+
+#note: The line contains a @i{notarikon} analysis of an unknown word or syllable. On @akk{BA} = @i{munašširu}, see @i{CAD} N/2 60-61.
+43. !zz [x x x x x x x x x x x x x x x x x x] x# x# x# [x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+@reverse
+
+1'. !zz [x x x x x x x x x x] x# [(x)] x# [x x x x x x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !zz [x x x x x x x x !bs sar]-ma#-ʾu !cm : ni-i-ri# !zz [x x x x x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; +sarmāʾu[(fore)arm]N$; +nīru[yoke]N$nīri; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#note: The restoration of the first word is suggested in a note in the margin of Lambert’s copy.
+
+3'. !zz [x x x x x x x x x x] x# : ma-ru-x# [x x x x x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+4'. !zz [x x x x x x x x x x x]-ri?# :# x#-gap?#-šu₂ : x#-[x x x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+5'. !zz [x x x x x x x x x x] x# [:] !bs in?# qa₂#-bal# !cm : iš-tu u₄-mu# !zz [: x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; in[in]PRP; +qablu[hips]N$qabal; ištu[from]PRP; ūmu[day]N; u; u; u; u; u; u; u; u; u
+
+6'. !zz [x x x] x# [x x x x] x# : !bs x#-ba-tu₂ !cm : GAL#{+u₂} : !bs ip#-tu₄ !cm : bil-tu₄ : i-HAP#-x# [x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; rabû[be(com)ing big]'N; +iptu[luxuriance]N$; biltu[load]N; u; u; u; u; u; u; u; u; u; u
+
+7'. !zz [x] x# x# : ana x#-[x x : !bs qa-a]-a#-aš₂ !cm : qa-a-šu₂ : na-da-nu : !bs i-šam !cm  ša₂-a-mu : na-da#-nu# !zz [x x x x x x x x x]
+#lem: u; u; u; ana[according to]PRP; u; u; +qayyašu[generous]AJ$qayyaš; +qiāšu[give//giving]V'N$qâšu; nadānu[giving]'N; išâm[buy]V; šâmu[buying]'N; nadānu[giving]'N; u; u; u; u; u; u; u; u; u
+
+8'. !bs [ta]-šim#-tu₂ !cm : mil-ki : !bs ka#-[aš-ša₂]-a-tu₂ !cm : ha-am-ma-a-tu₂ : UR₄ : a-ša₂-šu₂ : UR₄ : ha-ma-mu : ša₂-niš ka#-[ša₂-šu₂ x x x x x x]
+#lem: tašīmtu[discernment]N; milki[advice]N; +kaššu[acquired]AJ$kaššātu; +hammu[gathered]AJ$hammātu; +ašāšu[catch//encompassing]V'N$; +ašāšu[catch//encompassing]V'N$; +hamāmu[gather//gathering]V'N$; +hamāmu[gather//gathering]V'N$; šanîš[alternatively]AV; +kašāšu[gain control of//gaining control of]V'N$; u; u; u; u; u; u
+
+9'. !bs [mu]-du#-u !cm : ṭup-šar-ri : mu#-du-u : {d}e₂*#-a# :# !qt uz*#-na-ka {d}IDIM u {d}dam-ki-an-na# [ABGAL ne₂-me-qi₂ x x x x]
+#lem: mūdû[wise]AJ; ṭupšarri[scribe]N; mūdû[wise]AJ; Ea[1]DN; +uznu[ear]N$uznāka; Ea[1]DN; u[and]CNJ; +Damkina[]DN$Damkianna; apkal[sage]N; nēmeqi[wisdom]N; u; u; u; u
+
+#note: Collated. The line contains a previously identified quotation from @i{KAR} 102+ o 21′ (Syncretistic Hymn to Ninurta): @akk{GEŠTU-MIN-ka {d}e₂-a {d}dam-ki-na ABGAL ne₂-me-qi₂ [x x x x]}, “Your (@i{sc.} Ninurta’s) ears are Ea (and) Damkina, scholar(s) of wisdom […].” The quotation is intended to justify the equation between the word “ear“ and the god “Ea,“ and does so by quoting from a text in which the former is said to represent the latter.
+10'. !bs u₂-sa-an-du-u !cm : ṭup-šar#-ri : !bs u₂-bil-lu !cm :# ba#-ba#-lu : na-da-nu : !bs ka-at-mu !cm : ed?#-li?# [x x x x x x]
+#lem: +usandû[bird-catcher]N$; ṭupšarri[scribe]N; +wabālu[carry]V$ubillu; babālu[carrying]'N; nadānu[giving]'N; +katmu[covered]AJ$; +edlu[shut]AJ$edli; u; u; u; u; u; u
+
+11'. !bs ka-ar-ba !cm : ana ka-ra-bi : !bs šal-ba-ba !cm : ne₂-me-qa : ŠAL : ra-pa-šu₂ : BA : e-peš :# [BA : x x x]
+#lem: +karbu[blessed]AJ$karba; ana[according to]PRP; karābi[greeting]'N; +šalbābu[wise]N$šalbāba; nēmeqa[wisdom]N; +rapāšu[be(come) broad//be(com)ing broad]V'N$; rapāšu[be(com)ing broad]'N; +epēšu[do//doing]V'N$; +epēšu[do//doing]V'N$epēš; u; u; u; u
+
+12'. !bs en-qa !cm : ṭup-šar-ri : !bs mi-hi-iṣ-tu₂ !cm mi-hi-il-tu₄ : !bs u₂-pat-ta-an-ni !cm : uk#-tal?#-[la?-man?-ni? !zz x x x x]
+#lem: +emqu[wise]AJ$enqa; ṭupšarri[scribe]N; +mihiṣtu[strike]N$; +mihiṣtu[strike]N$mihiltu; +petû[open]V$upattânni; +kullumu[show]V$uktallamanni; u; u; u; u
+
+#note: The restoration at the end is Lambert’s.
+13'. !bs ka-ṣa-ru !cm : ra-kas : !bs ed-lu-tu₂ !cm : ana e-de-lu : !bs ka-ša₂-me !cm : ki-ša₂-ma : !bs hur-pi-i*# !cm [: x x x x x x x]
+#lem: +kaṣāru[tie//tying]V'N$; rakās[binding]'N; edlūtu[locked]AJ; ana[according to]PRP; edēlu[shutting]'N; +kīšama[forgive me]MOD$kāšāme; kīšama[forgive me]MOD; +hurpū[early crop]N$hurpī; u; u; u; u; u; u; u
+
+14'. !cm MIN : a-lak : !bs a-li#-li !cm : qar-ra-du : !bs ri-pi-it-tu₄ !cm : ana ra-pa-du !zz :# [x x x x x x x x x]
+#lem: šanîš[alternatively]AV; alāk[going]'N; +alīlu[powerful]AJ$alīli; qarrādu[hero]N; +ripittu[straying]N$; ana[according to]PRP; +rapādu[roam//roaming]V'N$; u; u; u; u; u; u; u; u; u
+
+15'. !bs ṭa-ra-du !cm :# ra#-da-du : !bs rid-di !cm : ṭe₃-e-mu : !bs me-e-šu₂ !cm : e-te-qa# !zz [x x x x x x x x x]
+#lem: ṭarādu[driving out]'N; radādu[chasing]'N; riddi[(good) conduct]N; ṭēmu[(fore)thought]N; +mêšu[disregard//disregarding]V'N$; +etēqu[go past//going past]V'N$; u; u; u; u; u; u; u; u; u
+
+16'. !bs x#-x#-x# !cm : bu-x#-nu : !bs SAG !cm : re-eš : SAG : qaq-qa-du : ša₂-niš re-e-šu₂ [x x x x x x !bs kab?-tu₂?]
+#lem: u; u; +rēšu[head]N$; +rēšu[head]N$rēš; qaqqadu[head]N; qaqqadu[head]N; šanîš[alternatively]AV; rēšu[head]N; u; u; u; u; u; u; kabtu[heavy]AJ
+
+#note: The reading of the first two words is uncertain, Lambert’s (@i{BWL} pp. 307-308) and Oshima’s (= @i{OLA} 14 p. 362) seem equally unlikely.
+17'. !cm le-ʾu-u : !bs pal#-ku-u !cm : ṭup-šar-ri : !bs ri-i-ši na-aš-ši ba-ši ṣa-[bu-u-šu₂ !cm x x x x x x] 
+#lem: lēʾû[powerful one]N; +palkû[wide]AJ$; ṭupšarri[scribe]N; +rēšu[head]N$rīši; +našû[lifted]AJ$našši; baši[existing]AJ; +ṣabû[wish (for)//wishing (for)]V'N$ṣabûšu; u; u; u; u; u; u
+
+#note: If the restoration at the end of the previous line is correct, compare @i{Aa} II/3 § E l. 18′: @akk{IDIM} = @i{lā lēʾû}. This line contains the only quotation of a full line from the @i{Theodicy}. Commentaries tend to analyze texts in an atomistic fashion, although explanations to entirely lines, rather than to individual words, do occur elsewhere. Unfortunately, due to the lacuna at the end of the line, it is uncertain what the purpose of quoting a complete verse was. Note that, as pointed out by Lambert @i{BWL} p. 308, the line appears almost @i{verbatim} in a bilingual proverb (K.4347+ ii 62-63 = @i{BWL} p. 241). Did the present commentary cite the Sumerian version of the line?
+18'. !bs ri-di-ma !cm : re-du#-u : a-lak : !bs u₂-su !cm : kib-su : !bs me₂-si !cm : par-ṣi !zz [x x x x x x x]
+#lem: +redû[accompany]V$ridī-ma; +redû[accompany//accompanying]V'N$; alāk[going]'N; +ūsu[usage]N$; kibsu[step]N; +mēsū[cult]N$mēsī; parṣī[rite]N; u; u; u; u; u; u; u
+
+19'. !bs har-ha-ri !cm : pi-SAR?# : ša₂-niš ku-lu-ʾ-u₂ : !bs is-hap-pu !cm : sak-lu : !bs kit#-[mu-su !cm : x x x]
+#lem: harharu[villain]AJ; X; šanîš[alternatively]AV; +kuluʾu[kulu'u]N$; +ishappu[villain]AJ$; +saklu[simple]AJ$; kitmusu[kneeling]AJ; u; u; u
+
+#note: @i{ḫarḫaru} is explained differently in o 30: @akk{har-ha-ri : gu-za#-lu : MIN : še-e-ru₃}. The reading and interpretation of the second word remain elusive.
+20'. !cm ša₂-niš ṭup-šar-ri : qur?#-ru#-nu?# : pu-hur : !bs hu-bu-ru !cm : ši-kar : ša₂-niš !zz x# [x x x x x]
+#lem: šanîš[alternatively]AV; ṭupšarri[scribe]N; qurrunu[storing up]'N; +pahāru[gather//collecting]V'N$puhur; +hubūru[jar]N$; šikar[beer]N; šanîš[alternatively]AV; u; u; u; u; u; u
+
+#note: On the equation of @i{kitmusu} with @i{tupšarru}, see @i{ummânu mūdû ša} (…) @i{kullat tupšarrūti kīma qurunnê ina karšīšu kamsu}, “the wise scribe, who has amassed in his head the entire scribal art like a pile“, in Mayer, @i{OrNS} 61 (1992) p. 26 § xix. The reading of the second equation is uncertain, but compare o 25: @akk{qur-ru-nu : pu-uh#-[hur]}.
+21'. !cm DU₃ : ma-ga-ri : DU₃# [: x]-x#-lu-u : !bs ki#-kur-re#-e#-ti?# !zz :# x# x# [x x x x x x x]
+#lem: +magāru[consent//consenting]V'N$; magāri[consenting]'N; u; u; +kikurrû[temple foundation]N$kikurrêti; u; u; u; u; u; u; u; u; u
+
+#note: The first equation is elsewhere unattested. It probably belongs to a notarikon analysis of a word. Oshima’s restitution of @i{kikurrû} in @i{Theodicy} 226 is highly uncertain.
+22'. !cm KUR : šub-tu₂ : RU : na-[du-u :] !bs ta#-bi-ni !zz :# x# [x x x x x x x x x x x x x]
+#lem: +šubtu[seat]N$; šubtu[seat]N; +nadû[throw//throwing]V'N$; nadû[throwing]'N; +tabīnu[shelter]N$; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+23'. !bs me₂-re-šu₂ !cm : ne₂-me-qi₂# : MIN : pa#-x !zz [x x x x x x x x x x x x x x x x x]
+#lem: +mērešu[wisdom]N$; nēmeqi[wisdom]N; šanîš[alternatively]AV; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+24'. !bs hi-ṣib-šu₂ !cm : dum#-qi₂-šu₂ : !bs ha-šik*-kiš* !zz [x x x x x x x x x x x x x x x x x]
+#lem: +hiṣbu[luxuriance]N$hiṣibšu; +dumqu[goodness]N$dumqīšu; hašikkiš[like a deaf man]AV; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#note: Collated. Restore @i{Theodicy} 233 as @akk{e-te-[me ha-šik]-kiš#}, “I have become deaf” (the same phrase appears in @i{Ludlul} I 71).
+25'. !bs i-la !cm : e-li : !bs miṭ-rat !cm : na#-[a-ru !zz x x x x x x x x x x x x x x x]
+#lem: +eli[on]PRP$ila; eli[on]PRP; +miṭirtu[watercourse]N$miṭrāt; nāru[river]N; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#note: It is uncertain what the purpose of the first equation is.
+26'. !bs i-lak-kid !cm : la-ka-du : la-[sa-mu !zz x x x x x x x x x x x x x x x x x]
+#lem: +lakādu[run]V$ilakkid; +lakādu[run//running]V'N$; lasāmu[running]'N; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+27'. !bs dup-pu-us-su-u !cm : tar-den-nu !zz : x#-[x x x x x x x x x x x x x x x x x x]
+#lem: +duppussû[younger brother]N$; +tardennu[second(ary)]N$; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#note: The last preserved sign is not @akk{PA}, as read by Lambert, but rather a @i{ka}-like sign (it is possible that the next explanandum is @i{kātû}, from line 250, but then the difficult @i{zilūliš} from line 249 would have been left unexplained).
+28'. !bs i-na-ṣa-an-ni !cm : na-a-ṣi !zz :# [x x x x x x x x x x x x x x x x x x]
+#lem: +nâṣu[look down on]V$inaṣṣanni; +nâṣu[look down on//looking down on]V'N$nâṣi; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+29'. !bs li-it-mu-um-mu !cm : ana le?#-[me-nu !zz : x x x x x x x x x x x x x] lu?# x# x#
+#lem: +litmunu[bad]AJ$litmum-mu; ana[according to]PRP; +lemēnu[be(come) bad//be(com)ing bad]V'N$; u; u; u; u; u; u; u; u; u; u; u; u; u; lū[or]CNJ; u; u
+
+30'. !bs bu-u₂-ri !cm : ma-ri !zz : !bs šit*#-[tin-šu₂ !cm : šu]-lu-uš-tu₂# [u₃ šu-lu]-uš?#-tu₂# :# !bs lil-lu !cm : še#-e#-[ri :] !bs u₂-te-eq-qa-am#-[ma]
+#lem: būri[(bull) calf]N; mārī[son]N; šittīnšu[two-thirds]NU; +šuluštu[one-third]N$; u[and]CNJ; šuluštu[one-third]N; lillu[idiot]N; šēru[fierce]AJ; +waqû[wait (for)]V$ūteqqâm-ma
+
+#note: The equation @akk{šit*#-[tin-šu₂ : šu]-lu-uš-tu₂#} is not deciphered on Lambert’s copy. The reading @akk{[u₃ šu-lu]-uš?#-tu₂#} is courtesy of E. Frahm. Compare the famous verse in SB @i{Gilgameš} I 48: @akk{šit-tin-šú DINGIR-ma šul-lul-ta-šú a-me-lu-tu}, “two-thirds of him god but a third of him human.” On the other hand, @i{lillu} = @i{šēru} appears also in o 30.
+31'. !cm u₂-te-eq-qu-u₂ !cm : qa#-[a]-lu# : ana# qu?#-[u₂-lu] ša₂#-niš u₂-te-eq#-qu#-[u₂ :] u₂#-zu-uz-zu : !bs an-zil-lu₄# !cm [:] ik#-ki-bi
+#lem: +waqû[wait (for)//waiting (for)]V'N$uteqqû; qâlu[paying attention]'N; ana[according to]PRP; qūlu[silence]N; šanîš[alternatively]AV; uteqqû[waiting (for)]'N; uzuzzu[standing out]'N; +anzillu[taboo]N$; +ikkibu[taboo]N$
+
+32'. !bs pa-šal-la !cm : hu-ra#-ṣu : ana pa-ša₂-lu [: x x] x# : !bs iš-pik-ku !cm : rug-bi : !bs an-na !cm : la kit-tu₂ : !bs et-nu#-šu₂ !cm : en-šu₂
+#lem: +pašallu[(a kind of) gold]N$; hurāṣu[gold]N; ana[according to]PRP; +pašālu[crawl//crawling]V'N$; u; u; u; +išpiku[stores (of crops)]N$išpikku; +rugbu[loft]N$rugbi; +arnu[guilt]N$anna; lā[not]MOD; kittu[truth]N; +etnušu[very weak]AJ$; enšu[weak]AJ
+
+#note: See @akk{Ì.DUB} = @i{išpikki} = @akk{rug-bu} in @i{Ḫg} I 12a (@i{MSL} 5 81).
+33'. !bs {d}na-ar-ri !cm : {d}en-lil₂ : !bs {d}su-lum#-mar# !cm : {d}IDIM : ša₂ ša₂-lum-ma-tu₂ na-šu₂-u : SU.LIM : ša₂-lum-ma-tu₄
+#lem: +Narri[]GN$; Ellil[1]DN; +Sulummar[]GN$; Ea[1]DN; ša[of]DET; šalummatu[radiance]N; našû[lifting]'N; šalummatu[radiance]N; +šalummatu[radiance]N$
+
+34'. !cm MAR : GAR : na-šu₂-u : !bs šu-ʾe-e-tu₄ !cm : be-el-tu₄# :# !bs et-gu-ri !cm : la kit-tu₂ : !bs sa-an-tak#-ku# !cm [:] ka-a-a-nu
+#lem: +našû[lift//lifting]V'N$; +našû[lift//lifting]V'N$; našû[lifting]'N; +šuātum[lady]N$šuʾētu; bēltu[lady]N; +etguru[crossed over]AJ$etguri; lā[not]MOD; kittu[truth]N; +santakka[continuously]AV$; kayyānu[steady]AJ
+
+35'. !bs nu#-ul#-[la]-ti# !cm : la kit-tu₂ : !bs ki-pi₂-id !cm : ṣum-mi#-[rat] !zz x# x# x# tu₂ : ba-aš-tu₂ : !bs i-šit-tu₂ !cm : ma-ak#-ku#-ri# [:] !bs šar#-ba-ba !cm :# x# [x x]
+#lem: +nullâtu[maliciousness]N$nullâti; lā[not]MOD; kittu[truth]N; +kipdu[plan(s)]N$kipid; +ṣummirātu[desires]N$ṣummirāt; u; u; u; u; +bāštu[dignity]N$; +išittu[storeroom]N$; +makkūru[property]N$makkūri; +šarbābu[impotence]N$šarbāba; u; u; u
+
+#note: The entry that could not be deciphered might refer to @i{nērtu} (= @i{Theodicy} 284). A MS of the base text (BM 34773) reads @akk{i-RI-tu₂} instead of @akk{i-šit-tu₂} (see @i{CAD} I/J 177b and @i{AHw} 386a), a mistake that may have originated from a reading of @akk{i-šit-tu₂} as @akk{i-rit-tu₂}.
+36'. !cm [x x x] na : !bs uš-ha-ram-ma-mu-uš !cm : na#-[har-ma-mu :] na#-har#-muṭ : MIN : la-ba-ku : !bs la-ʾ-me !cm : ṭi-ik#-me#-en#-[nu]
+#lem: u; u; u; u; +naharmumu[break down]V$ušharammamūš; +naharmumu[break down//breaking down]V'N$; +naharmuṭu[dissolve//dissolving]V'N$naharmuṭ; šanîš[alternatively]AV; +labāku[be(come) soft//be(com)ing soft]V'N$; +lāmu[glowing ashes]N$laʾme; +ṭikmēnu[ashes]N$ṭikmennu
+
+#note: Compare LB 852 o 12′ and 14′ (@i{CCP} ##): @akk{ZAL : na-har-muṭ : la-ba-ku} (…) @akk{ZAL : na-har-muṭ : ra-šad : na-har-mu-mu}.
+37'. !bs [ri-ṣa]-am#-ma !cm : ra-a-ṣa : a-lak : ša₂-niš DAH : ra#-[a-ṣa : DAH : a]-ṣa#-bu : A₂.DAH : ri-ṣa : MIN : a-lik i-di# [: !bs ul-lu :]
+#lem: +râṣu[rush (help)]V$rīṣam-ma; +râṣu[rush (to help)//rushing (to help)]V'N$râṣa; alāk[going]'N; šanîš[alternatively]AV; +râṣu[rush (to help)//rushing (to help)]V'N$râṣa; râṣa[rushing (to help)]'N; +aṣābu[add//adding]V'N$; +aṣābu[add//adding]V'N$; +rīṣu[help]N$; +rīṣu[help]N$rīṣa; šanîš[alternatively]AV; ālik[goer]N; idi[side]N; +elû[go up//raise]V'V$ullu
+
+#note: On last preserved equation of the line, see @i{Malku} IV 126: @i{rīṣu} = @i{ālik idi}.
+38'. !cm [ana] e#-lu-u : !bs re-ši-iš !cm : GIM IR₃ : !bs ša₂ id-dan-ni !cm : ŠUB [: na-du-u₂ : ŠUB :] e#-zeb : !bs na-par-ku-u !cm : ba-ṭa-lu : !bs li-lab-bi#-[ir : x x x]
+#lem: ana[according to]PRP; +elû[go up//going up]V'N$; +rēšiš[like a slave]AV$; kīma[according to]PRP; wardu[slave]PN; ša[of]DET; +nadû[throw]V$iddâni; nadû[throwing]'N; nadû[throwing]'N; +ezēbu[leave//leaving]V'N$; ezēb[leaving]'N; +naparkû[cease//ceasing]V'N$; +baṭālu[cease//ceasing]V'N$; +labāru[be(come) old]V$lilabbir; u; u; u
+
+#note: The explanation @akk{ŠUB [: na-du-u₂ : ŠUB :] e#-zeb} can also be found in o 30. Restore @i{Theodicy} 296 as @akk{šá ip-par-ka-an-ni}, “(my goddess), who had renounced me” (compare @i{Ludlul} I 44: @i{ipparku ištarī ibêš aḫītu}, “my goddess renounced me and left elsewhere”).
+$ single ruling
+39'. !zz [ṣa]-a#-tu₂ u šu-ut KA maš-a-a-al-tu₂ {lu₂}um-man-nu ša₂ a-šiš?# [x x x x] x# {im}gid₃-ṭi {m}{d}AG-MU-MU A-šu₂ {m}{d}EN-KI?#-[x x x x]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; mašʾaltu[questioning]N; ummannu[scholar]N; ša[from]DET; āšiš[encompassing]N; u; u; u; u; u; +giṭṭu[oblong tablet]N$giṭṭi; +Nabu-nadin-šumi[]PN$; aplišu[son]N; u; u; u; u
+
+@translation labeled en project
+
+@label t.e. 0
+
+By the command of Bēl and Nabû, may (this work) suceed!
+
+@label o 1 - o 2
+
+“Encompassing” (= @i{Theodicy} 1) <means> “competent,” ditto means “prudent.” “@i{gana}” (= @i{Theodicy} 1) means “come!,” … […] “@i{gana}” means “now.” “See [thoroughly]!” (= @i{Theodicy} 2) [@i{stems from “to see,” (which) means “to watch”}], ditto means “to learn.” “Friend” (= @i{Theodicy} 2) means “partner” (@i{šutāpu}) ditto means “partner” (@i{šuzāpu}), “friend” means “@i{do}[@i{ubled}.”] “Hardship” (= @i{Theodicy} 2) means “troublesome things.” @i{litm}[@i{udu} (= @i{Theodicy} 3?) means …] 
+
+
+@label o 3
+
+(The word written) @i{a-a-na} (= @i{Theodicy} 5) means “where” (written @i{ai-a-nu}). “Where” (@i{ayyiš}) (= @i{Theodicy} 6) means “whence” (@i{ayyānuš}). “Sage” (= @i{Theodicy} 6) means “scribe.” @i{ištīka} (= @i{Theodicy} 6) (stems from) @i{išti}, alternatively, (it stems from) @i{itti} (“with”).
+
+@label o 4 - o 5
+
+“Wailing” (@i{nissatu}) (= @i{Theodicy} 7) means “wailing” (@i{niššatu}). “They go straight” (= @i{Theodicy} 8) (stems from) “to go straight,” (which means) “to draw near”; “to go straight” means “to go.” @i{agari}[@i{nnu} (= @i{Theodicy} 10) means “mother” (since) @i{a means “son” and rin means} “to g]ather.” “She goes ba[ck” (= @i{Theodicy} 10) means “she goes,”] (since) @i{nígin} means “to go back” and @i{nígin} means “to go.”
+ 
+@label o 5
+
+“Without (@i{balu}) he who brought me up” (= @i{Theodicy} 11) — @i{balu} means “without,” “to lift up” means “to raise.” […] … “Beloved” (= @i{Theodicy} 13) stems from …
+
+@label o 6 - o 7
+
+“You make plot” (= @i{Theodicy} 13) (stems from) “to plot,” (which means) “to strive.” “In a stupid way” (= @i{Theodicy} 14) means “like a stupid.” “Humble” (= @i{Theodicy} 22) means “f[earful”]. @i{ukammar} (= @i{Theodicy} 22) — @i{gar} means “to heap up (@i{kamāru}), said of possessions”; @i{kummuru} means “to gather.”
+
+@label o 7
+
+“Spring” (@i{kuppu}) (= @i{Theodicy} 23) stems from “bank,” (i.e.), “river.” “Heap” (@i{kumurrû}) (= @i{Theodicy} 24) means “wave,” it stems from “to heap up” (@i{kamāru}). “Uprising” (@i{gipšu}) (= @i{Theodicy} 24) means “wave,” it stems from “to rise up” (@i{gapāšu}), (which) means “to be numerous.” “Thee” (@i{kuāšu}) (= @i{Theodicy} 25) means “to you” (@i{ana kâšu}).
+
+@label o 8 - o 9
+
+“I will interrogate you” (@i{luṣṣiṣka}) (= @i{Theodicy} 25) (stems from) “to interrogate” (@i{uṣṣuṣu}), (i.e.,) “to ask questions”; ditto means “to ask.” “Way” (@i{alaktu}) (= @i{Theodicy} 25) means “mind.” “To pay attention” (@i{qâlu}) (= @i{Theodicy} 26) means “@i{to split open}.” “Appearance” (@i{gattu}) (= @i{Theodicy} 27) means “figure.” “Need” (@i{ḫašāḫu}) (= @i{Theodicy} 27) means “shortage,” (i.e.,) “hunger.”
+
+@label o 9
+“Success” (@i{kušīru}) (= @i{Theodicy} 28) means “repair” (@i{takšīru}); ditto means “profit” (@i{taksītu}), (i.e.,) “property.” @i{šētēku} (= @i{Theodicy} 28) derives from @i{̄šêtu} (“to be left”), (alternatively, it derives from) “to pass.” @i{muttūtu} (= @i{Theodicy} 28) means “manliness,” (since) @i{mutu} means “man.”
+
+@label o 10
+
+“Force” (@i{kubukku}) (= @i{Theodicy} 29) means “strength.” “@i{Pr}[@i{osperity}” (= @i{Theodicy} 29)] means … “Depression” (= @i{Theodicy} 30) means “disease.” “Face” (@i{zīmū}) (= @i{Theodicy} 30) means “features.” @i{kurum} (= @i{Theodicy} 31) means “sustenance” (@i{kurummatu}). “To be satisfied” (@i{ṭapāpu}) (= @i{Theodicy} 32) means “to be full.”
+
+@label o 11 - o 13
+
+“It is established” (= @i{Theodicy} 33) means “they have established.” [“Restrained” (= @i{Theodicy} 34) — @i{gi} means] “to restrain,” @i{gi} means “to establish.” “Balanced” (= @i{Theodicy} 35) (stems from) “to balance,” (which means) “to establish.” “Like a simpleton” (= @i{Theodicy} 35) — “@i{dimma.kúr.ra} means ‘simpleton’” (quotation from @i{Nabnītu} IV/IVa 100), (i.e.,) “mad” (lit., “he who changes his mind”). … [… “to bec]ome” (= @i{Theodicy} 35) means “to resemble.” “To impose” (= @i{Theodicy} 36) means “to carry.” “Undecidedly” (= @i{Theodicy} 37) means “like an undecided person.” “Intellect” (= @i{Theodicy} 37) means “reason.” “You make resemble” (= @i{Theodicy} 37) — @i{si} means “to make something become something,” @i{si} means “to resemble.”
+
+@label o 13 - o 14
+
+“Persi[stent” (= @i{Theodicy} 38) means “fi]rm.” “Incessant” (= @i{Theodicy} 38) means “unabating.” “To be angry” (= @i{Theodicy} 39) means “to be furious.” “Preeminent” (@i{qadmu}) (= @i{Theodicy} 39) means “god” [(…)], it stems from “before” (@i{qudmu}), (i.e.,) “in front of.” “Appeased” (@i{salittu}) (= @i{Theodicy} 40) means “appeas[ed” (@i{salimtu}) …] “To supplicate” (= @i{Theodicy} 40) means “to implore.” “Buried” (@i{samku}) (= @i{Theodicy} 41) means “buried” (@i{sangu}). “Not in order” (= @i{Theodicy} 41) means “not straight.”
+
+@label o 15
+
+“Takes pity” (= @i{Theodicy} 41) stems from “to take pity.” “Justice” (= @i{Theodicy} 42) [means …]. “Constantly” (= @i{Theodicy} 42) means “continuous,” (which) stems from “firmly established.” @i{nigin} means “to go around” (= @i{Theodicy} 42), @i{nigin} means “to look for.” “Slanderous” (= @i{Theodicy} 43) [means …].
+
+@label o 16
+
+“Obstinate” (= @i{Theodicy} 43) means “harsh.” “Help” (@i{taḫanātu}) (= @i{Theodicy} 43) — “‘succor,’ ‘support’ mean ‘assistance’” (quotation from @i{Malku} IV 196-198), (i.e.,) “aid for many days”; “help” (@i{taḫanātu}) stems from “to give shelter” (@i{ḫa}[@i{tānu}])
+
+@label o 17 - o 18
+
+“To break open” (= @i{Theodicy} 44) means “to open.” “Mer[cy” (= @i{Theodicy} 43) means …], ditto means “favor.” “May he grant you” (= @i{Theodicy} 44) is thus: “may he give you” — “to grant” means “to g[ive”]; @i{rig}₇ means “to grant” (and) @i{rig}₇ means [“to presen]t.”
+
+@label o 18
+
+“I bow to you” (= @i{Theodicy} 45) (stems from) “to bow,” (which means) “to prostrate,” (since) @i{gam} [means “to b]ow” (and) @i{gam} means “to pr[ostrate”].
+
+@label o 19 - o 20
+
+“To grasp” (= @i{Theodicy} 45) means “to learn.” @i{k}[@i{u}₇.@i{ku}₇ means “very sweet,” (= @i{Theodicy} 46) @i{k}]@i{u}₇.@i{ku}₇ means “valuable.” “Speech” (= @i{Theodicy} 46) means “word.” “Thee” (= @i{Theodicy} 47) means “to you.” “Wild [ass” (@i{akannu}) means …], it stems from @i{gan}, (i.e.,) “to give birth.”
+
+@label o 20 - o 21
+
+“Abunda[nce” (@i{šumuḫ}) (= @i{Theodicy} 48) (derives from the verb) “to grow abunda]ntly” (@i{šamāḫu}), (i.e,) ‘to grow’ (@i{banû}); ditto means “to become big” (@i{rabû}). “Savage” (= @i{Theodicy} 50) means “strong.” “Wrath” (= @i{Theodicy} 51) [means … “Nouveau riche” (@i{bēl pāni}) (= @i{Theodicy} 52) means …], alternatively, “nouveau riche” means “owner of property.”
+
+@label o 21
+
+(The goddess) “M[ami” (= @i{Theodicy} 53)] is (the goddess) Bēlet-ilī, “the creatress of the people,” (since) @i{ma} means “to create” (and) @i{me} means “people.” “Godward” (= @i{Theodicy} 54) means [“to the god.” …]
+
+@label o 22
+
+“Regular offering” (= @i{Theodicy} 55) means “present (@i{ginû}) of the gods” [— “regular” (@i{gi}]@i{nû}) means “repeated.” “Favored” (= @i{Theodicy} 57) stems from “to favor.” “Entirety” (= @i{Theodicy} 57) means “all.” “Je[wel” (= @i{Theodicy} 57) means …]
+
+@label o 23
+
+“You are con[stant” (= @i{Theodicy} 58) (stems from)] “to be constant.” @i{a-ba}-LU (should be read as) “@i{ammatiš} (= @i{Theodicy} 58 (?)), (which means) “like the Netherworld.” @i{ilim} (“god,” = @i{Theodicy} 58) means “like [@i{a god}” …]
+
+@label o 24
+
+“Superb” (= @i{Theodicy} 59) means “strong.” @i{gimis} (?) (= @i{Theodicy} 60) (stems from) “to complete.” “Field” (= @i{Theodicy} 60) means “meadow.” “Arrow” (= @i{Theodicy} 60) means “dart.” “Fo[e” (= @i{Theodicy} 61) means …]
+
+@label o 25
+
+“Consider!” (@i{bitru}, = @i{Theodicy} 61) (stems from) “to consider” (@i{bitrû}), (which stems from) “to examine” (@i{bar}[@i{û}), (which means) “to s]ee.” “Pit” (@i{haštu}, = @i{Theodicy} 62) means “ground,” it stems from @i{haš}, (which means) “to murder.” “To heap” (= @i{Theodicy} 63) means “to gat[her” …]
+
+@label o 26 - o 27
+
+“Breeze” (= @i{Theodicy} 67) means “wind.” [“Advice” (= @i{Theodicy} 68) me]ans “mind.” “Speech” (= @i{Theodicy} 69) means “word.” “’Fore you” (= @i{Theodicy} 69) (stems from) “’fo[re” (@i{muttu}) (which means) …, (since) @i{igi} means “before” (@i{maḫru})] (and) @i{igi} means “to see.” Alternatively, “’f[ore” (@i{muttu}) means …] (since) @i{sag} means “head” (and) @i{sag} means “face.” “Neglecte[r” (= @i{Theodicy} 70) means …].
+
+@label o 27 - o 28
+
+[“I was pulling” (= @i{Theodicy} 74)] (stems from) “to pull,” (which means) “to drag.” […] … “Humble” (= @i{Theodicy} 75) means “poor.” “Surpasses me” (= @i{Theodicy} 76) stems from “to surp[ass” …]
+
+@label o 29
+
+“Stupid” (= @i{Theodicy} 76) means “furious,” “stu[pid” means …, (which means)] “unintelligent.” “Scoundrel” (= @i{Theodicy} 77) means “ruffian,” ditto means  “furious.” […]
+
+@label o 30
+
+“Lack of reason” (= @i{Theodicy} 78) means “lack of intelligen[ce.” “You have forsaken” (lit., “you have thrown away,” = @i{Theodicy} 79)] — @i{šub} means “to throw away,” @i{šub} means “to leave.” “Design” (= @i{Theodicy} 79) means “ordinance.” … […]
+
+@label o 31
+
+“Decree” (= @i{Theodicy} 81) means “ordinance.” “You are negli[gent” (= @i{Theodicy} [81]) (stems from) “to be negligent,” (which means) ..]. “Midst” (= @i{Theodicy} 82) means “center.” “Goddess” (= @i{Theodicy} 83) means “Ištar.” “…” (= @i{Theodicy} 83) means “plan.”
+
+@label o 32 - o 33
+
+“@i{sagû}” (= @i{Theodicy} 84?) means “rites” (@i{sakkû}), (which) means “cultic ordinances.” […] … “@i{with} the wind.” “Skilful” (= @i{Theodicy} unknown) means “competent.” “[…] … intelligence” (= @i{Theodicy} unknown) means … […], ditto means “competent.” @i{šumme} (= @i{Theodicy} unknown) [means …] … […] … @i{ge} means … […].
+
+@label o 34
+
+“To shine” (= @i{Theodicy} unknown) means “to be bright.” … […] … […] …; alternatively, “blow of the hands” … […].
+
+@label o 35
+
+“@i{Bear}” (= @i{Theodicy} unknown) means “@i{fierce}”, alternatively, … […] … “Not sage” (= @i{Theodicy} unknown) means “wise.” … […] … “To be gloomy” (= @i{Theodicy} unknown) means “to quake” (from anger). … […].
+
+@label o 36
+
+“@i{šummu}” (= @i{Theodicy} unknown) means […] “Behold ye!” (= @i{Theodicy} unknown) means “behold!” “@i{ammat}” (= @i{Theodicy} unknown) means “@i{ear}[@i{th}”]. “@i{ammarak}” (= @i{Theodicy} unknown) stems from “to be long.” “@i{I resemble}” (= @i{Theodicy} unknown) […].
+
+@label o 37
+
+… [… “The day after tomorrow” (@i{ullūtiš}) (= @i{Theodicy} unknown) means …], (since) “@i{ullu}” means “day” and @i{diš} means “one.” “@i{lā matar}” (= @i{Theodicy} unknown) means “now.” “He @i{infor}[@i{ms}” (= @i{Theodicy} unknown) …].
+
+@label o 38
+
+[…] … (= @i{Theodicy} unknown) means “cutter, said of a throat.” “@i{ištīšin} (= @i{Theodicy} unknown) means “with them” (@i{ittīšin}). … […].
+
+@label o 39
+
+[… “Le]ngth” (= @i{Theodicy} unknown) stems from “to be long.” “@i{Troubles}” (= @i{Theodicy} unknown) stems from “to cause trouble.” “He once and again disperses” (= @i{Theodicy} 123) (stems from) “to dis[perse,” (which) means “to scatter”].
+
+@label o 40
+
+[…] … “He carries off” (= @i{Theodicy} 125) (stems from) “to carry off,” (which) means “to bear.” “He once and again crushes” (= @i{Theodicy} 126) (stems from) “to crush” […].
+
+@label o 41
+
+[… “His s]prout” (= @i{Theodicy} 128) (can be written as) @i{ligmû}[@i{šu} …] … @i{ṣērissu} (= @i{Theodicy} unknown) means “his back” … […].
+
+@label o 42
+
+[…] … [… (since) @i{ba}] means “he who cuts off,” @i{bi} means “he who …” […] 
+
+@label o 43
+
+[…] … […]
+
+@label r 1'
+
+[…] … […]
+
+@label r 2'
+
+[… “Lo]ad” (= @i{Theodicy} 184?) means “yoke.” […]
+
+@label r 3'
+
+[…] … […]
+
+@label r 4'
+
+[…] … […]
+
+@label r 5'
+
+[…] … “@i{in qabal}” (= @i{Theodicy} 189) means “from the day” […]. 
+@label r 6'
+
+[…] … […] … (= @i{Theodicy} 192?) means “great.” “Wealth” (= @i{Theodicy} unknown) means “tribute.” … […].
+
+@label r 7'
+
+[…] … stems from … [… “Pres]enting” (= @i{Theodicy} 196) (stems from) “to present,” (which) means “to give.” “He bought” (= @i{Theodicy} unknown) (stems from) “to buy,” (which) means “to giv[e” …].
+
+@label r 8'
+
+“Counsel” (= @i{Theodicy} 199) means “advice.” “You embrace” (@i{kaššāta}) (= @i{Theodicy} 200) means “you encompass,” (since) @i{ur}₄ means “to catch” (@i{ašāšu}) (and) @i{ur}₄ means “to encompass”; alternatively, “to cont[rol” (@i{k}[@i{ašāšu}) …]
+
+@label r 9'
+
+“Sage“ (= @i{Theodicy} 201/202) means “scribe”; “wise“ means Ea — (as in) “Your ears are Ea and Damkianna, scholar(s) of wisdom […]” (= quotation from @i{KAR} 102+ o 21′).
+
+@label r 10'
+
+“Fowler“ (= @i{Theodicy} 202) means “scribe.” “They carry“ (= @i{Theodicy} 202) (stems from) “to carry,” (which) means “to give.” “Covered” (= @i{Theodicy} 203 or 204) means @i{sh}[@i{ut} …]
+
+@label r 11'
+
+“Blessing“ (= @i{Theodicy} 204, 205, or 206) stems from “to bless.” “Wise” (@i{šalbābu}) (= @i{Theodicy} 204, 205, or 206) means “wisdom,” (since) @i{šal} means “wide,” @i{ba} means “to do,” (and) [@i{ba} means …]
+
+@label r 12'
+
+“Wise” (= @i{Theodicy} 206) means “scribe.” @i{miḫiṣtu} (= @i{Theodicy} 206) means “cuneiform wedge“ (@i{miḫiltu}). “He reveals to me“ (= @i{Theodicy} 206) means “he sh[ows me” …]
+
+@label r 13' - r 14'
+
+“To tie” (= @i{Theodicy} 207) means “to bind.” “What is shut” (= @i{Theodicy} 207) stems from “to shut.” @i{kāšāme} (= @i{Theodicy} 208) means “forgive me!” (@i{kīšāma}). @i{ḫurp}[@i{î} means …], ditto means “to go.“ “Powerful” (= @i{Theodicy} 211) means “warrior.” “Errant“ (= @i{Theodicy} 212) stems from “to err.“
+
+@label r 15'
+
+“To go astray“ (cf. @i{Theodicy} 213) means “to chase.” “Behavior“ (= @i{Theodicy} 214) means “mind.” “To scorn” means “to pass“ […].
+
+@label r 16' - r 17'
+
+… (= @i{Theodicy} unknown) means … — @i{sag} means “head” (@i{rēš}), @i{sag} means “skull”; “head” (@i{rēšu}) means [… @i{Noble} (= @i{Theodicy} 216) (?) means] “skilful.” “Wise” (= @i{Theodicy} 217) means “scribe.” “He is looked after and obtains his wi[shes” (= @i{Theodicy} 218) …].
+
+@label r 18'
+
+“Follow!” (= @i{Theodicy} 219) (stems from) “to follow,” (which) means “to go.” “Usage“ (= @i{Theodicy} 219) means “foot track.” “Rite” (= @i{Theodicy} 219) means “cultic ordinance.” […]
+
+@label r 19' - r 20'
+
+“Rogue” (= @i{Theodicy} 221) means …, alternatively, it means “male prostitute.” “Villain” (= @i{Theodicy} 222) means “ignorant.” “Am[assing” (= @i{Theodicy} 223) means …], alternatively, it means “scribe.” “To heap” (= @i{Theodicy} unknown) means “to gather.” “Beer jar“ (= @i{Theodicy} 224) means “beer“, alternatively, it means … […]
+ 
+@label r 21' - r 22'
+
+(…) (since) @i{dù} means “to agree” and @i{dù} means […] … “Temple foundations” (= @i{Theodicy} unknown) means … [… (since) @i{ki} means …], @i{kur} means “abode” (and) @i{ru} means “to l[ay”.] “Shelter” (= @i{Theodicy} 226?) means … […]
+
+@label r 23'
+
+“Intelligence” (= @i{Theodicy} unknown) means “wisdom”; the same means … […]
+
+@label r 24'
+
+“Its produce” (= @i{Theodicy} unknown) means “its good.” “Like a deaf man” (= @i{Theodicy} 233) [means …]
+
+@label r 25'
+
+“@i{ila}” (= @i{Theodicy} 244) (can be written as) @i{eli}. “Watercourse” (= @i{Theodicy} 245) means “r[iver” …]
+
+@label r 26'
+
+“He pursues” (= @i{Theodicy} 247) (stems from) “to pursue,” (which) means “@i{to r}[@i{un} …]
+
+@label r 27'
+
+“Younger brother” (= @i{Theodicy} 248) means “second”; […]
+
+@label r 28'
+
+“They look down on me” (= @i{Theodicy} 253) (stems from) “to look down on”; […]
+
+@label r 29'
+
+“Angry” (= @i{Theodicy} 255) stems from “@i{to be a}[@i{ngry}” …] …
+
+@label r 30' - r 31'
+
+“Calf” (= @i{Theodicy} 260) means “child.” “Two [thirds” (= @i{Theodicy} 261) means “one t]hird [and one thi]rd.” “Simpleton” (= @i{Theodicy} 262) means “wild.” “Wait for me” (= @i{Theodicy} 265) (stems from) “to await” ((@i{w})@i{aqû} Dt), (which) means “to p[ay attent]ion,” (which) stems from @i{si}[@i{lence}]; alternatively, “to await” ((@i{w})@i{aqû} Dt) means “to stand.”
+
+@label r 32'
+
+“@i{pašallu}” (= @i{Theodicy} 271) means “gold”; it stems from “to crawl” [(which) means] … “Store house” (= @i{Theodicy} 272) means “upper room.” “Sin” (= @i{Theodicy} 273) means “unfair.” “Penurious” (= @i{Theodicy} 275) means “weak.”
+
+@label r 33' - r 34'
+
+“Narru” (= @i{Theodicy} 276) means “Enlil.” “Sulummar” (= @i{Theodicy} 277) means “Ea,” (the name means) “he who carries splendor,” (since) SU.LIM (from @i{sul}ummar) means “splendor” (and) @i{mar} (from sulum@i{mar}) means @i{gar}, (which) means “to carry.” “@i{šuʾētu}” (= @i{Theodicy} 278) means “lad[y.”] “Twisted” (= @i{Theodicy} 279) means “unfair.” “Permanently” (= @i{Theodicy} 280) means “constantly.”
+
+@label r 35' - r 36'
+
+“Slander” (= @i{Theodicy} 284) means “unfair (words).” “Plan” (cf. @i{Theodicy} 284) means “des[ires”] … “@i{pride}.” “Storeroom” (= @i{Theodicy} 285) means “possession.” “Weakness” (= @i{Theodicy} 286) means … […] … “They cause him to collapse” (= @i{Theodicy} 286) — “to c[ollapse” means “to me]lt”, the same means “to soften.” “Glowing ashes” (= @i{Theodicy} 286) means “ashe[s.”]
+
+@label r 37' - r 38'
+
+“[Assis]tance” (= @i{Theodicy} 290) (stems from) “to assist”, (which means) “to go.” Alternatively, @i{daḫ} means “to as[sist, @i{daḫ} means “to en]large”; @i{á.daḫ} means “assistance”; the same means “one who goes alongside.” “I raised” (= @i{Theodicy} 293) stems from “to be h]igh.” “Like a servant”(= @i{Theodicy} 294) means “like a slave.” “Has thrown me away” — @i{šub} [means “to throw away,” @i{šub} means “to] leave.” “To renounce” (= @i{Theodicy} 296) means “to cease.” “May he g[ive (me) a long life” (= @i{Theodicy} 297?) means …].
+
+@label r 39'
+
+[Le]mmata, oral explanations, and (materials for) a “questioning” by a (master-)scholar, from “O emcompassing […] …” (= @i{Theodicy} 1). One-column tablet of Nabû-nādin-šumi (or, Nabû-šuma-iddina), son of Bēl-… […].

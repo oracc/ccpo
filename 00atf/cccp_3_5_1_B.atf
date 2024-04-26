@@ -1,0 +1,52 @@
+&P461246 = CCP 3.5.1.B (http://ccp.yale.edu/P461246) = BM 49042
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x [...]
+#lem: u; u; u
+
+2'. !zz [...]-sal u₂#-[...]
+#lem: u; u
+
+3'. !zz [... !bs ek]-ke-mu !cm : x [...]
+#lem: u; +ekkēmu[robber]N$ekkēmū; u; u
+
+4'. !cm [...]-lu₄ LU₂ ša₂ ma-gal SU?-[šu₂ ...]
+#lem: u; amēlu[man]N; ša[who]REL; magal[greatly]AV; zumuršu[body]N; u
+
+5'. !zz [...]-x#-u : !bs up-ta-nar-rad !cm : up#-[ta-na-al-lah₃ !zz ...]
+#lem: u; uptanarrad[be scared]V; uptanallah[fear]V; u
+
+#note: Restored after @i{CCP} 3.5.22.A l. 42.
+6'. !zz [... !bs hal-lu-la-a-a !cm : a]-lu#-u : !bs KIN.GAL#.UD.DA !zz : ši-ib-x [...]
+#lem: u; +hallulāya[centipede]N$; alû[(an evil demon)]N; +muttellû[(a demon)]N$; u; u
+
+7'. !zz [...]-ar#-du : !bs UR.GI₇ is-si-ma ANŠE# [i-pu-ul-šu₂ !zz ...]
+#lem: u; kalbu[dog]N; issīma[be distant]V; imēra[donkey]N; +apālu[pay//answer]V'V$īpulšu; u
+
+8'. !zz [... !cm lul]-lu?#-be-e : !bs KUR MAR.TU{ki#} !cm [: a-mur-ri : !zz ...]
+#lem: u; +Lullubû[]GN$Lullubê; mātu[land]N; Amurru[1]GN; +Amurru[]GN$Amurri; u
+
+9'. !zz [...] !bs KI#.EN.GI !cm : šu-me-ri ša₂-niš?# [...]
+#lem: u; +Šumeru[Sumerian]EN$; Šumeri[Sumerian]EN; šanîš[alternatively]AV; u
+
+10'. !zz [...] !bs SUN₂# !cm : ri-im-tu₄ !zz : [...]
+#lem: u; +rīmtu[wild cow]N$; +rīmtu[wild cow]N$; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] "robbers" (= @i{Šumma Ālu} 1 133) means [...]
+4'. [...] refers to a man whose @body is [...]
+5'. [...] "it constantly causes fear" (= @i{Šumma Ālu} 1 161) means "it constantly terrifies." [...]
+6'. [... the @ḫallulāyya-demon (@i{Šumma Ālu} 1 162-164)] is the @alû-demon. The @muttellû-demon (@i{Šumma Ālu} 1 165, written KIN.GAL.UD.DA) is ... [...].
+7'. [...] ... "(If) a dog yelps and a donkey [answers it" (= @i{Šumma Ālu} 1 175ff) means ...]
+8'. [... means] "@i{Lullubaean}" (cf. @i{Šumma Ālu} 1 178); MARTU (= @i{Šumma Ālu} 1 181) [means "Amurru" ...]
+9'. [...] KINGI (= @i{Šumma Ālu} 1 189) means "Sumer" [...]
+10'. [...] SÚN (= @i{Šumma Ālu} 1 213) means "wild cow" [...]

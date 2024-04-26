@@ -1,0 +1,604 @@
+&Q005129 = CCP 3.1.20.B = Commentary B on Enuma Anu Enlil 20
+@composite
+#project: ccpo
+#atf: use unicode
+#atf: lang akk-x-stdbab
+#atf: use maths
+$(obverse)
+
+1. !bs * ina {iti}BARA₂ U₄ 14-KAM AN.GE₆ GAR#-ma DINGIR ina KAN₅-šu₂ A₂ {im}U₁₈.LU AN.TA KAN₅-ma
+#lem: ina[in]PRP; Nisannu[1]MN; ūm[day]N; n; attallû[eclipse]N; iššakinma[take place]V; ilu[god]N; ina[in]PRP; +adāru[be(come) dark//be(com)ing eclipsed]V'N$nandurišu; idi[side]N; +šūti[south]N$; eliš[above]AV; adirma[dark]AJ
+
+2. !bs A₂ {im}SI.SA₂ KI.TA iz-ku !cm : ina UGU re-eš ši-kin qa-bi : taš-ri-tu₄
+#lem: idi[side]N; +iltāni[north]N$; šapliš[below]AV; +zakû[be(come) clear]V$izku +.; ina[on]PRP; muhhi[account]N; rēš[start]N; šikin[appearance]N; qabi[said]AJ; tašrītu[beginning]N
+
+#note: On @i{šiknu}, "appearance," said of eclipses, se CAD Š/2 437b.
+
+3. !cm e-la-nu : KI.TA : šap-la-nu : !bs ina šu-ri-in-ni-šu₂ dele-bat ana ŠA₃ 30 KU₄-ma
+#lem: +elēnu[above]AV$elānu; šapliš[below]AV; +šaplānu[beneath//below]PRP'AV$ +.; ina[in]PRP; šurinnišu[(a phenomenon of the eclipsed moon)]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN; īrubma[enter]V
+
+4. !bs ina ITI EN.NUN dele-bat ana ŠA₃ 30 KU₄-ma : !cm šu-ri-in-ni : qar-nu : MIN<(šu-ri-in-ni)> :
+#lem: ina[in]PRP; arah[month]N; maṣṣarti[watch]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN; irrubma[enter]V +.; +šurīnu[(divine) emblem//(a phenomenon of the eclipsed moon)]N$šurinni; +qarnu[horn]N$ +.; šurinni[(a phenomenon of the eclipsed moon)]
+
+#note: Collations by F. Reynolds apud al-Rawi & George @i{Iraq} 68 (2006) p. 24 fn. 1. The translation and interpretation of o 4-6 follows al-Rawi & George @i{ibidem}. As explained there, the gist of the explanation is that @i{šurinnu} "refers esentially to the ominous parts of the moon in eclipse, both its cusps ("horns") and its face."
+5. !cm ṣal-mu ša₂ ŠA₃ 30 : ša₂-niš !bs ina šu-ri-in-ni-šu₂ dele-bat ana ŠA₃ KU₄ !cm : šu-ri-in-ni :
+#lem: ṣalmū[black]AJ; !ša[of]DET; libbi[interior]N; Sin[1]DN +.; šanîš[alternatively]AV; ina[in]PRP; šurinnišu[(a phenomenon of the eclipsed moon)]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; īrub[enter]V; šurinni[(a phenomenon of the eclipsed moon)]N
+
+6. !cm i-da-tu₄ ana AN.GE₆ : ina AN.GE₆ dele-bat ina {mulₓ(AB₂)}LU₂.HUN.GA₂ ana tar#-ṣi# 30 GUB-ma
+#lem: +ittu[peculiarity//characteristic]N$idatu; ana[for]PRP; attallî[eclipse]N +.; ina[in]PRP; attallû[eclipse]N; Delebat[Venus]CN; ina[in]PRP; +Agru[Hireling]CN$; ana[to+=opposite]PRP; tarṣi[extent]N; Sin[1]DN; izzazma[stand]V
+
+7. !cm EN ITI-šu₂ : {mulₓ(AB₂)}LU₂.HUN.GA₂ : ina ŠA₃ LUGAL A.GA.DE₃{ki} UG₇ iq-bi : !bs IM ša₂*
+#lem: adi[until]PRP; arhišu[first day of month]N +.; Agru[Hireling]CN +.; ina[in]PRP; libbi[concern]N; šar[king]N; +Akkad[1]SN$; imât[die]N; iqbi[speak]V; ṭuppi[tablet]N; ša[who]REL
+
+#note: The expression @i{ina libbi ... iqbi} is used to provide the title of the text from which the previous equation has been taken. In the present case, @i{šar akkadê imât} may represent the title of a section, perhaps @i{EAE} XX §I 7b.
+8. !bs ina ŠU-MIN-ka tu-kal !cm : IM ša₂* ana KUR.KUR il-la-ku-ma pi*-šir₃* ana ŠA₃
+#lem: ina[in+=consider]PRP; +qātu[hand]N$qātīka; +kullu[hold]V$tukāl +.; +šāru[wind]N$šārū; ša[of]DET; ana[on]PRP; mātāti[land]N; +alāku[go//blow]V$illakūma; +pišru[release//interpretation]N'N$pišir; ana[to]PRP; libbi[interior]N
+
+#note: Collations by F. Reynolds apud al-Rawi & George @i{Iraq} 68 (2006) p. 34 ad 4. The translation and interpretation of o 7-9 follows al-Rawi & George @i{ibidem}.
+
+# ina qāti kullu [consider] V
+
+9. !cm ta-qab-bi : EŠ.BAR ana LUGAL A.GA.DE₃{ki} ta-nam-din : {iti}BARA₂ :
+#lem: taqabbi[say]V +.; +purussû[decision]N$purussê; ana[to]PRP; šarri[king]N; Akkad[1]SN; tanamdin[give]V; Nisannu[1]MN +.
+
+10. !cm {mulₓ(AB₂)}LU₂.HUN.GA₂ KUN {mulₓ(AB₂)}LU₂.HUN.GA₂ : A.GA.DE₃{ki} : !bs DINGIR ša₂ ina KAN₅-šu₂
+#lem: Agru[Hireling]CN; zibbat[tail]N; Agru[Hireling]CN +.; Akkad[1]SN +.; ilu[god]N; ša[that]REL; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N
+
+11. !bs EN.NUN.U₄.ZAL.LA SAR-ma 1/3-TA.AM₃ EN.NUN uh-hi-ru !cm : ina EN.NUN.U₄.ZAL.LA
+#lem: šāt[who(m)]DET$&urri[daytime]N; +šurrû[begin]V$ušarrûma; n; maṣṣarti[watch]N; +ahāru[be behind//delay]V$uhhiru +.; ina[during]PRP; šāt[who(m)]DET$&urri[daytime]N
+
+12. !cm AN.GE₆ GAR-ma KAN₅ ŠU₂-ma : !bs 1/3-TA.AM₃ !cm : šal-šu₂ ša₂ mu?-šu* ša₂*-lul-tu₄ EN.NUN
+#lem: attallû[eclipse]N; iššakkanma[take place]V; adir[eclipsed]AJ; irbima[disappear]V; n; šalšu[third]NU; ša[of]DET; mūšu[night]N; +šalšu[third]NU$šalultu; maṣṣarti[watch]N +.
+
+13. !cm ša₂-niš 1/3-TA.AM₃ ša₂ iq-bu-u₂ : šal-šu₂ ša₂ SI* DINGIR* ana ZALAG₂ TAG₄
+#lem: šanîš[alternatively]AV; n; ša[which]REL; iqbû[say]V; šalšu[third]NU; ša[that]REL; Ellil[1]DN; ila[god]N; ana[to]PRP; nūri[daybreak]N; +ezēbu[leave//remain]V$innezzib
+
+#note: On the expression "x remaining to dawn," see Neugebauer & Sachs JCS 21 Fs Goetze (1967) pp. 212-213. In astronomical diaries the expression usually specifies the amount of "fingers" (@i{ubānu}, written SI) remaining. von Weiher read @i{šalšu ša} ⸢@i{ḫab-rat}⸣; the collation here follows that of F. Reynolds apud al-Rawi & George @i{Iraq} 68 (2006) p. 55.
+14. !cm ad#-ri ŠU₂-ma : !bs * ina {iti}GAN U₄ 28-KAM SAG IGI.DU₈.A IGI-ma dele-bat ana ŠA₃ 30
+#lem: +adru[dark]AJ$adri; irbima[disappear]V; ina[in]PRP; Kislimu[1]MN; ūm[day]N; n; rēš[start]N; tāmarti[visibility]N; ̄muru[see]V; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN
+
+15. !bs KU₄ !cm : ina U₄.NA₂.A dele-bat ana ŠA₃ 30 KU₄-ma : 1 me <U₄-MEŠ> AN.GE₆ DUG₄.GA
+#lem: īrub[enter]V; ina[on]PRP; bibbuli[day of moon's disappearance]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN; irrubma[enter]V +.; n; mē[hundred]NU; ūmē[day]N; attallî[eclipse]N; +qabû[say//predict]V$taqabbi +.
+
+16. !bs [U₄].NA₂.A AN.GE₆ u₂!-kal-lam-ka !cm : ul-tu U₄.NA₂ ša₂ {iti}GAN
+#lem: bibbulu[day of moon's disappearance]N; +antallû[eclipse]N$attallâ; +kullumu[show]V$ukallamka +.; ultu[from]PRP; +bibbulu[day of moon's disappearance]N$; ša[of]DET; Kislimu[1]MN
+
+17. !cm [ana?] U₄ AN.GE₆ ša₂ {iti}BARA₂ ta-qab-bi : 1 me U₄{+mi} a-na U₄*-MEŠ*
+#lem: ana[according to]PRP; ūm[day]N; attalli[eclipse]N; ša[of]DET; Nisannu[1]MN; taqabbi[predict]V +.; n; mē[hundred]NU; ūmi[day]N; ana[to]PRP; ūmū[day]N
+
+18. !cm [x]-de-e-ti : !bs ki-ṣir šal-šu₂ ša₂ {iti}BARA₂ !cm ša₂ E{+u₂} ša₂ {iti}BARA₂ 2*.KAM* šu*-u*
+#lem: u; kiṣir[knot]N; šalšu[third]NU; ša[of]DET; Nisannu[1]MN; ša[which]REL; +qabû[said]AJ$; ša[that]REL; Nisannu[1]MN; n; šū[that]IP
+
+19. !bs EN.NUN.MURU₂.BA im-šil-ma a-di ZALAG₂ DU {d}UTU NU IGI-šu₂ !cm : i-na mi-šil mu-šu₂
+#lem: +qablītu[centre//middle watch]N'N$; +mašālu[equal]V$imšilma; adi[until]PRP; +nawāru[be(come) bright]V$namāri; +alāku[go]V$illik; Šamaš[1]DN; lā[not]MOD; +amāru[see//appear]V$innammarušu +.; ina[in]PRP; mišil[half]NU; +mūšu[night]N$
+
+20. !cm AN.GE₆ SAR-ma a-di la SAG pu-u₂-ṣu ZALAG₂-ma : !bs EN ZALAG₂ DU {d}UTU
+#lem: attallâ[eclipse]N; +šurrû[begin]V$ušarrama; adi[until]PRP; lā[not]MOD; rēš[start]N; +pūṣu[whiteness]N$; +nawāru[be(come) bright]V$immirma +.; adi[until]PRP; +nawāru[be(come) bright]V$namāri; +alāku[go]V$illik; Šamaš[1]DN
+
+#note: On the expression @i{adi namāri illik}, see Rochberg @i{AfO Beih} 22 (1988) p. 83 and fn. 5.
+
+# adi lā [before] PRP
+
+21. !bs NU IGI-šu₂ !cm [:] a-di UGU nu-um-ri-šu₂ pu-u₂-ṣu NU IGI : ša₂-niš !bs EN ZALAG₂ DU
+#lem: lā[not]MOD; +amāru[see//observe]V$tammaršu +.; adi[until]PRP; muhhi[top]N; +numru[brightness]N$numrišu; pūṣu[whiteness]N; lā[not]MOD; innamir[appear]V +.; šanîš[alternatively]AV; adi[until]PRP; namāri[be(come) bright]V; illik[go]V
+
+#note: The last sign is copied by von Weiher as ZÁLAG DU, but transliterated by him as È. This transliteration is followed by al-Rawi & George @i{Iraq} 68 (2006) p. 55. The signs need collation.
+
+22. !bs {d}UTU NU IGI-šu₂ !cm a-di la KUR {d}UTU ZALAG₂-ma NU DU₃ : !bs i-šab-biṭ !cm : i-dak-ku*
+#lem: Šamaš[1]DN; lā[not]MOD; tammaršu[observe]V +.; adi[until]PRP; lā[not]MOD; nipih[rising]N; Šamaš[1]DN; immirma[be(come) bright]V; lā[not]MOD; +banû[be(come) good//be(come) beautiful]V$ibni +.; +šabāṭu[beat]V$išabbiṭ; +dâku[kill]V$idakku
+
+23. !cm [ša₂]-ba-ṭu : da-a-ku : ša₂-ga-šu₂ : MIN<(da-a-ku)> : !bs KUR sa-kil-tu₄ !cm : KUR ELAM.MA{ki}
+#lem: +šabāṭu[beat//beating]V'N$; +dâku[kill//killing]V'N$ +.; +šagāšu[kill//slaughtering]V'N$; dâku[killing]'N +.; mātu[land]; +saklu[simple//barbarous]AJ$sakiltu; māt[land]N; Elam[1]GN +.
+
+24. !zz [x x x x x x] !cm dan#-nu : !bs LUGAL AŠ.TE GAL DAB{+bat} !cm : LUGAL ELAM*.MA*{ki*} AŠ*.TE* : ša₂*
+#lem: u; u; u; u; u; u; dannu[strong]AJ +.; +šarru[king]N$; kussâ[throne]N; +rabû[big//great]AJ$rabâ; iṣabbat[seize]V +.; šarru[king]N; Elam[1]GN; kussâ[throne]N; ša[of]DET
+
+#note: F. Reynolds' collation apud al-Rawi & George @i{Iraq} 68 (2006) p. 55 reads at the end of the line AŠ.TE : @i{šá}. 
+25. !zz [...]-x#-ma
+#lem: u
+
+$ rest of obverse broken
+
+$(reverse)
+
+$ start of reverse broken
+
+1'. !zz x# x# x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u
+
+2'. !zz {(he-pi₂)} !bs DUR₂ !cm : u₂-ša-am-qa-at !zz ta-ba-x# x# [... !bs qar-na-šu₂ ša₂-ma-mi]
+#lem: hepi[broken]AJ; u; +maqātu[fall]V$ušamqat; u; u; u; +qarnu[horn]N$qarnāšu; šamāmī[heavens]N
+
+3'. !bs nak-pa !cm : AN.GE₆ TIL{+tu₂} ina MULₓ(AB₂).MULₓ(AB₂) GAR-ma : MULₓ(AB₂).MULₓ(AB₂) x [x x x x x x x x] x
+#lem: +nakpu[pushing//piercing]AJ$nakpā +.; attallû[eclipse]N; +gamru[complete//total]AJ$gamirtu; ina[in]PRP; +Zappu[Bristle]CN$; iššakinma[take place]V; +Zappu[Bristle]CN$; u; u; u; u; u; u; u; u; u; u +.
+
+#note: The translation and interpretation follows al-Rawi & George @i{Iraq} 68 (2006) p. 39.
+
+4'. !bs i-na-dir !cm : i-ša₂-an-ni : !bs za-ra-nu MURU₂{+ti₃} !cm : har-ra-nu# šu*#-ut*# {d*}en*-lil₂* [:] za-ra*#-nu <<x>>
+#lem: +nadāru[be(come) wild//rampage]V$inaddir; +šanû[be(come) changed]V$išanni +.; +zērānū[seed(-corn)]N$zārānū; +qablû[central]AJ$qablīti; harrānu[path]N; šūt[those of]DET; Ellil[1]DN; zārānū[seed(-corn)]N
+
+#note: Collations by F. Reynolds apud al-Rawi & George @i{Iraq} 68 (2006) p. 40.
+5'. !cm : ṭur-ri : !bs * ina {iti}AB U₄ 14-KAM AN.GE₆ GAR-ma SI-MEŠ-šu₂ 1{+et} la ik-bir 1{+et} la iq-tin
+#lem: ṭurri[knot]N +.; ina[in]PRP; Ṭebetu[1]MN; ūm[day]N; n; attallû[eclipse]N; iššakinma[take place]V; qarnātušu[horn]N; n; lā[not]MOD; ikbir[be(come) thick]V; n; lā[not]MOD; +qatānu[be(come) thin]V$iqtin +.
+
+#note: The translation and interpretation of r 5'-7' follows al-Rawi & George @i{Iraq} 68 (2006) p. 42.
+6'. !cm 1/2 hab-rat : !bs ina {mulₓ(AB₂)}NAGAR AN.GE₆ GAR-ma !cm : EN ITI-šu₂ : {mulₓ(AB₂)}SUHUR.MAŠ₂ : {mulₓ(AB₂)}SUHUR.MAŠ₂ : KUR SU.BIR₄{ki}
+#lem: n; habrat[thick]AJ +.; ina[in]PRP; +Alluttu[Crab]CN$; attallû[eclipse]N; iššakinma[take place]V +.; adi[until]PRP; arhišu[first day of month]N +.; +Suhurmašu[Goatfish]CN$; Suhurmašu[Goatfish]CN +.; māt[land]N; Subartu[1]GN
+
+7'. !cm u gu-ti-um : !bs i-ra-sib !cm : i-da-ku : aš-šum ra-sa-bu : da-a-ku : !bs ŠU.NIR
+#lem: u[and]CNJ; +Guti[]GN$Gutium +.; +rasābu[smite]V$irassip; +dâku[kill]V$idakku; aššum[because]SBJ; +rasābu[smite//smiting]V'N$; dâku[killing]'N +.; +šurīnu[(divine) emblem//(a phenomenon of the eclipsed moon)]N$šurinna
+
+#note: The translation and interpretation of r 7'-10' follows al-Rawi & George @i{Iraq} 68 (2006) p. 44.
+8'. !bs ka-la-šu₂ NU DUL-ma it-bal ina AN.GE₆ TIL{+tu₂} ad-ri ŠU₂-ma !cm : !bs KEŠ₂{+tu₂} !cm : ri-kis ka-la-mu
+#lem: +kalû[totality//all]N$kalašu; ul[not]MOD; +katāmu[cover//obscure]V$iktumma; itbal[disappear]V +.; ina[in]PRP; attallê[eclipse]N; gamirtu[complete]AJ; adri[dark]AJ; irbima[disappear]V; +kiṣru[knot]N$kiṣrātu; +riksu[binding//cosmic bond]N$rikis; +kalāma[all (of it)//everything]N$kalāmu +.
+
+#note: On the reading @i{ina attalê gammarti adri(š) irbī-ma}, see al-Rawi & George @i{Iraq} 68 (2006) p. 44 fn. 9.
+9'. !bs DINGIR ša₂ ina KAN₅-šu₂ IGI-ma it-bal !cm : ša₂ KAN₅ ŠU₂{+u₂} : !bs LUGAL ša₂ an-na-a iq-bu-šu₂ !cm : LUGAL ša₂ ana
+#lem: ilu[god]N; ša[who]REL; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N; innamirma[appear]V; itbal[disappear]V +.; ša[whose]REL; adir[eclipsed]AJ; irbû[set]V; šarru[king]N; ša[whom]REL; annâ[this]DP; iqbûšu[say]V; šarru[king]N; ša[whose]REL; !ana[to]PRP
+
+10'. !cm tar-ṣi-šu₂ GISKIM il-li-ku : !bs * ina {iti}ŠE U₄ 14-KAM AN.GE₆ GAR-ma SI-MEŠ-šu₂ ina še-e-ri NU <<:>>
+#lem: +tarṣu[extent//time]N$tarṣišu; +ittu[sign]N$; +alāku[go//appear]V$illiku +.; ina[in]PRP; Addaru[1]MN; ūm[day]N; n; attallû[eclipse]N; iššakinma[take place]V; qarnātušu[horn]N; ina[during]PRP; šēri[morning star]N; lā[not]MOD
+
+#note: The translation and interpretation of r 10'-14' follows al-Rawi & George @i{Iraq} 68 (2006) p. 47.
+11'. !bs i-na-aṭ-ṭa-lu ina GAL-šu₂ in-na-aṭ-ṭa-lu !cm : ina AN.GE₆ TIL{+tu₂} ša₂ LUGAL?#
+#lem: +naṭālu[look//be(come) visible]V$innaṭṭalū; ina[during]PRP; +rabû[set//setting]V'N$rabêšu; +naṭālu[look//be(come) visible]V$innaṭṭalū +.; ina[in]PRP; attallê[eclipse]N; gamirtu[total]AJ; ša[that]REL; šarru[king]N
+
+12'. !cm u₂-nam-mi-ru ŠU₂{+u₂} !bs TA !cm : i-na : !bs {d}PAP.SUKKAL KUR-ma KI {d}UTU GUB !cm {d}30 ina
+#lem: +nawāru[be(come) bright]V$unammiru; irbû[set]V; +ina[in]PRP$; ina[in]PRP +.; Papsukkal[1]DN; ippuhma[rise]V; itti[with]PRP; Šamaš[1]DN; izziz[stand]V +.; Sin[1]DN; ina[in]PRP
+
+13'. !cm {mulₓ(AB₂)}SIPA.ZI.AN ana GENNA KUR-ma : !bs AN.GE₆ EN.NUN.U₄.ZAL.LE u₂-gam-mir !cm : AN.GE₆
+#lem: +Šitaddaru[Orion]CN$; ana[to]PRP; Kayyamanu[Saturn]CN; ippuhma[rise]V +.; attallû[eclipse]N; +šāt[who(m)]DET$šāt&+urru[daytime]N$urri; ugammir[last]V +.; attallû[eclipse]N
+
+14'. !cm ša₂ a-di TIL EN.NUN.U₄.ZAL.LA GIN : !bs * AN.GE₆ : ina U₄ 7-KAM U₄ 14-KAM U₄ 21-KAM
+#lem: ša[that]REL; adi[until]PRP; +qītu[end]N$qīt; šāt[who(m)]DET$&urri[daytime]N; +izuzzu[stand]V$izzizu +.; attallû[eclipse]N; ina[on]PRP; ūm[day]N; n; ūm[day]N; n; ūm[day]N; n
+
+#note: Collations by F. Reynolds apud al-Rawi & George @i{Iraq} 68 (2006) p. 40. The translation and interpretation of r 14'-17' follows al-Rawi & George @i{Iraq} 68 (2006) p. 48.
+15'. !cm : ana UGU IGI-šu₂ u TIL{+tu₂} : !bs * MUL-ME EN.NUN-MEŠ AN.GE₆ u₂-kal*-lu-mu*-ka !cm MUL
+#lem: ana[on]PRP; muhhi[account]N; tāmartišu[appearance]N; u[and]CNJ; +tagmertu[completion//fullness]N$tagmertu +.; kakkabū[star]N; +maṣṣartu[watch]N$maṣṣarātu; attallû[eclipse]N; +kullumu[show]V$ukallumūka; kakkabi[star]N +.
+
+16'. !cm : ša₂ ina ITI EN.NUN a-na {d}30 TE{+u₂} u DAB{+u₂} !bs MUL-MEŠ ziq-pi !cm ša₂ ina UGU
+#lem: ša[that]REL; ina[in]PRP; arhi[month]N; maṣṣarti[watch]N; ana[to]PRP; Sin[1]DN; iṭhû[approach]V; ū[or]CNJ; +ṣabātu[seize//reach]V$iṣbatu +.; kakkabū[star]N; ziqpi[culmination]N; ša[that]REL; ina[on]PRP; muhhi[top]N
+
+17'. !cm AN.GE₆ {d}30 GAR{+an} pi-šir₃ ana ŠA₃ ta-qab-bi : !bs * ni-i-ri : ša₂ A.AB.BA
+#lem: attalli[eclipse]N; Sin[1]DN; iššakkan[take place]V +.; +pišru[release//interpretation]N'N$pišer; ana[to]PRP; libbi[concern]N; taqabbi[say]V +.; +Niru[Yoke]CN; ša[of]DET; tâmti[sea]N
+
+18'. !zz a-dir {d}e₂-a a-dir : AN.GE₆ ina {mulₓ(AB₂)}GU.LA GAR-ma ṣa-a-tu₂ u šu-ut KA#
+#lem: adir[dark]AJ; Ea[1]DN; adir[dark]AJ; attallâ[eclipse]N; ina[in]PRP; +Gula[]CN$; iššakkanma[take place]V; ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N
+
+19'. !zz mal₂-su-ut EŠ₂.GAR₃ ša₂ * U₄ AN {d}EN.LIL₂.LA₂ ša₂ ŠA₃ * ina {iti}BARA₂ U₄ 14-KAM AN.GE₆ GAR-ma
+#lem: malsût[reading out]N; iškār[series]N; ša[of]DET; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; ša[of]DET; libbi[interior]N; ina[in]PRP; Nisannu[1]MN; enūma[when]SBJ; n; attallâ[eclipse]N; iššakkanma[take place]V
+
+20'. !zz DINGIR ina KAN₅-šu₂ AL.TIL
+#lem: ila[god]N; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N; qati[completed]AJ
+
+
+@translation labeled en project
+
+@label 1 - 2
+"(If) an eclipse takes place on the 14th of Nisannu (I) and the god in its eclipsing becomes dark on the side south above (@i{elānu}) and clears on the side north below (@i{šaplānu})" (= @i{EAE} XX §I 1), it is said on account of the upper part of the (moon) disk, (since) "beginning" means "top" (@i{elānu}); and KI.TA means "bottom." 
+
+@label 3 - 7
+"Through its 'emblem' Venus enters the moon (and) in the month of the watch Venus enters the moon" (= @i{EAE} XX §I 5), "emblem" means "horn," ditto (i.e. "emblem") can also mean the figure inside of the moon. Alternatively, (in) "(If) through its 'emblem' Venus enters the moon," "emblem" means "portents for an eclipse." (It means that) in an eclipse Venus stands in Aries opposite the moon, since the "lord" of its month is Aries. It is said in "The king of Akkad will die."
+
+@label 7 - 10
+
+"The wind which you consider" (= @i{EAE} XX passim) means the wind which blows towards the lands: therefrom you can pronounce an interpretation. You shall give an oracular response concerning the king of Akkad (cf. @i{EAE} XX §I 7). The month of Nisannu belongs to Aries; the tail of Aries (pertains) the king of Akkad.
+
+@label 10 - 14
+
+"The god in whose eclipsing the dawn watch begins and delays for 1/3 of a watch" (= @i{EAE} XX §I 8) means that the eclipse took place during the dawn watch, and set while eclipsed. 1/3 means one third of the night, (i.e.) the third watch; alternatively, what it says (1/3-TA.ÀM) can mean that (when) one third of the cusps of the god (i.e., the eclipsed moon) remained to dawn, he set in obscurity.
+
+@label 14 - 16
+
+"In Kislīmu (IX), on the 28th day when observing the last visibility (sc. of the eclipsed moon), Venus enters within him" (= @i{EAE} XX §I 8) means "in the day of the disappearance of the moon Venus enters within it." You will predict an eclipse of 100 <days>.
+
+@label 16 - 18
+
+"The day of the disappearance of the moon shall show you the eclipse" (= @i{EAE} XX §I 9) means that from the the day of the disappearance of the moon in Kislīmu (IX) you should predict the day of the eclipse in Nisannu (I). 100 days @i{until the days of} [...].
+
+@label 18
+
+What it says, "the third group (of stars) of Nisannu" (= @i{EAE} (?) unknown), refers to intercalary Nisannu.
+
+@label 19 - 22
+
+"In the middle watch (the eclipse) is half, it goes on until daybreak and you cannot see the sun" (= @i{EAE} XX §I.2 4-5) means that the eclipse starts in the middle of the night and peters out before the beginning of the @i{whiteness}. "It goes on until daybreak and you cannot see the sun" (= @i{EAE} XX §I.2 4-5) means that up to the (full) light you cannot see the @i{whiteness}. Alternatively, "it goes on until daybreak and you cannot see the sun" means that before sunrise it (sc. the eclipsed moon) becomes bright, but it does not @i{take a shape}.
+
+@label 22 - 23
+"He will beat" (cf. @i{EAE} XX §I.2 B 5) means "he will kill," since "to beat" means "to kill." "To slaughter" means the same.
+
+@label 23
+"A barbarous land" (= @i{EAE} XX §I.2 B 5) means Elam.
+
+@label 24
+
+[...] means "powerful." "The king will seize a great throne" (= @i{EAE} XX §I.2 B 6) means that the king of Elam will @i{seize} the throne.
+
+@label 25
+...
+
+@label 1' - 2'
+[...] (broken) DÚR (means) @i{it makes it fall} [...].
+
+@label 2' - 4'
+["His cusps] are jabbing [the sky"] (= @i{EAE} XX §VIII) (it means that the moon god) brings about a total eclipse among the Pleiades; the Pleiades mean [...]. "(if) it becomes eclipsed" means it changes shape.
+
+@label 4' - 5'
+The "middle @i{zarānu}" (= @i{EAE} XX §IX) is the Path of the Enlil-Stars; @i{zarānu} means "band".
+
+@label 5' - 7'
+
+"(If) on 14th Ṭebētu (the moon god) brings about an eclipse and, as regards his cusps, the one does not grow too fat nor the other too thin" (= @i{EAE} XX §X) (this means) a half moon. "(If) an eclipse takes place in the Crab constellation" (= @i{EAE} XX §X) the "lord" of its month is the Goat-Fish constellation; the Goat-Fish constellation (pertains) Subartu and Gutium. @i{irassib} ("he will smite") means "he will kill" because @i{rasābu} means "to kill."
+
+@label 7' - 10'
+
+"(If) he does not cover all of the 'emblem' and disappears" (= @i{EAE} XX §XI) (this means that) in a total eclipse it set in obscurity. "Bond"  (= @i{EAE} XX §XI) means "bond of everything." "The god who in his eclipse became visible and disappeared" (= @i{EAE} XX §XI) means (the moon which) set while eclipsed. "The king to whom (Enlil) said 'Yes'" (= @i{EAE} XX §XI) means the king in whose time the portent happened.
+
+@label 10' - 14'
+(If) on 14th Addaru (the moon god) [brings about] an eclipse and his cusps cannot be seen in the morning but can be seen when he sets" (= @i{EAE} XX §XII) (means) in a total eclipse in which (the moon god) lit up @i{Regulus} (and) set; the sign TA means "in." "(If) Papsukkal rises and stands present with the sun" (= @i{EAE} XX §XII) (it means) the moon god in the constellation Sipazianna caught up with Saturn. "(If the moon god in) eclipse completes the dawn watch" (= @i{EAE} XX §XII) (means) an eclipse that went on until the end of the dawn watch.
+
+@label 14' - 17'
+"(If the moon god brings about) an eclipse on the seventh, fourteenth (or) twenty-first day" (= @i{EAE} XX §XIII) (it is said) with regard to his (first) sighting and termination. "Stars, watches, eclipse(s), he (sc. the moon) will show(!) you." (= @i{EAE} XX §XIII) "Star" (refers to) that which in the month under watch approached the moon god and passed by. "The culminating stars" (are) those that are @i{put} on top of the moon's eclipse. Therefrom you can pronounce an interpretation.
+
+@label 17' - 18'
+
+"(If) the Yoke Star of the Sea is obscure, Ea is angry" (= @i{EAE} XX §XIV) means that there is an eclipse in Aquarius.
+
+@label 18' - 20'
+
+[Lemma]ta, oral explanations (relating to) a 'reading' of the series @i{Enūma Anu Enlil} (and referring to entries) from "(If) an eclipse takes place on the 14th of Nisannu (I) and the god in its eclipsing" (= @i{EAE} XX 1). Completed.
+
+&P348755 = CCP 3.1.20.B.a (http://ccp.yale.edu/P348755) = W 23300
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use maths
+#link: def A = ccpo:Q005129 = CCP 3.1.20.B = Commentary B on Enuma Anu Enlil 20
+@tablet
+@obverse
+1. !bs * ina {iti}BARA₂ U₄ 14-KAM AN.GE₆ GAR#-ma DINGIR ina KAN₅-šu₂ A₂ {im}U₁₈.LU AN.TA KAN₅-ma
+#lem: ina[in]PRP; Nisannu[1]MN; ūm[day]N; n; attallû[eclipse]N; iššakinma[take place]V; ilu[god]N; ina[in]PRP; +adāru[be(come) dark//be(com)ing eclipsed]V'N$nandurišu; idi[side]N; šūti[south]N; eliš[above]AV; adirma[dark]AJ
+
+>> A 1
+2. !bs A₂ {im}SI.SA₂ KI.TA iz-ku !cm : ina UGU re-eš ši-kin qa-bi : taš-ri-tu₄
+#lem: idi[side]N; iltāni[north]N; šapliš[below]AV; +zakû[be(come) clear]V$izku +.; ina[on]PRP; muhhi[account]N; rēš[start]N; šikin[appearance]N; qabi[said]AJ; tašrītu[beginning]N
+
+>> A 2
+3. !cm e-la-nu : KI.TA : šap-la-nu : !bs ina šu-ri-in-ni-šu₂ dele-bat ana ŠA₃ 30 KU₄-ma
+#lem: +elēnu[above]AV$elānu; šapliš[below]AV; +šaplānu[beneath//below]PRP'AV$ +.; ina[in]PRP; šurinnišu[(a phenomenon of the eclipsed moon)]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN; īrubma[enter]V
+
+>> A 3
+4. !bs ina ITI EN.NUN dele-bat ana ŠA₃ 30 KU₄-ma : !cm šu-ri-in-ni : qar-nu : MIN<(šu-ri-in-ni)> :
+#lem: ina[in]PRP; arah[month]N; maṣṣarti[watch]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN; irrubma[enter]V +.; +šurīnu[(divine) emblem//(a phenomenon of the eclipsed moon)]N$šurinni; +qarnu[horn]N$ +.; šurinni[(a phenomenon of the eclipsed moon)]
+
+>> A 4
+5. !cm ṣal-mu ša₂ ŠA₃ 30 : ša₂-niš !bs ina šu-ri-in-ni-šu₂ dele-bat ana ŠA₃ KU₄ !cm : šu-ri-in-ni :
+#lem: ṣalmū[black]AJ; !ša[of]DET; libbi[interior]N; Sin[1]DN +.; šanîš[alternatively]AV; ina[in]PRP; šurinnišu[(a phenomenon of the eclipsed moon)]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; īrub[enter]V; šurinni[(a phenomenon of the eclipsed moon)]N
+
+>> A 5
+6. !cm i-da-tu₄ ana AN.GE₆ : * AN.GE₆ dele-bat ina {mulₓ(AB₂)}LU₂.HUN.GA₂ ana tar#-ṣi# 30 GUB-ma
+#lem: +ittu[peculiarity//characteristic]N$idatu; ana[for]PRP; attallî[eclipse]N +.; attallû[eclipse]N; Delebat[Venus]CN; ina[in]PRP; +Agru[Hireling]CN$; ana[to+=opposite]PRP; tarṣi[extent]N; Sin[1]DN; izzazma[stand]V
+
+>> A 6
+7. !cm EN ITI-šu₂ : {mulₓ(AB₂)}LU₂.HUN.GA₂ : ina ŠA₃ LUGAL A.GA.DE₃{ki} UG₇ iq-bi : !bs IM ša₂*
+#lem: adi[until]PRP; arhišu[first day of month]N +.; Agru[Hireling]CN +.; ina[in]PRP; libbi[concern]N; šar[king]N; +Akkad[1]SN$; imât[die]N; iqbi[speak]V; šārū[wind]N; ša[that]REL
+
+>> A 7
+8. !bs ina ŠU-MIN-ka tu-kal !cm : IM ša₂* ana KUR.KUR il-la-ku-ma pi*-šir₃* ana ŠA₃
+#lem: ina[in+=consider]PRP; +qātu[hand]N$qātīka; +kullu[hold]V$tukāl +.; +šāru[wind]N$šārū; ša[of]DET; ana[on]PRP; mātāti[land]N; +alāku[go//blow]V$illakūma; pišer[interpretation]N; ana[to]PRP; libbi[interior]N
+
+>> A 8
+
+# ina qāti kullu [consider] V
+
+9. !cm ta-qab-bi : EŠ.BAR ana LUGAL A.GA.DE₃{ki} ta-nam-din : {iti}BARA₂ :
+#lem: taqabbi[say]V +.; +purussû[decision]N$purussê; ana[to]PRP; šarri[king]N; Akkad[1]SN; tanamdin[give]V; Nisannu[1]MN +.
+
+>> A 9
+10. !cm {mulₓ(AB₂)}LU₂.HUN.GA₂ KUN {mulₓ(AB₂)}LU₂.HUN.GA₂ : A.GA.DE₃{ki} : !bs DINGIR ša₂ ina KAN₅-šu₂
+#lem: Agru[Hireling]CN; zibbat[tail]N; Agru[Hireling]CN +.; Akkad[1]SN +.; ilu[god]N; ša[that]REL; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N
+
+>> A 10
+11. !bs EN.NUN.U₄.ZAL.LA SAR-ma 1/3-TA.AM₃ EN.NUN uh-hi-ru !cm : ina EN.NUN.U₄.ZAL.LA
+#lem: šāt[who(m)]DET$&urri[daytime]N; +šurrû[begin]V$ušarrûma; n; maṣṣarti[watch]N; +ahāru[be behind//delay]V$uhhiru +.; ina[during]PRP; šāt[who(m)]DET$&urri[daytime]N
+
+>> A 11
+12. !cm AN.GE₆ GAR-ma KAN₅ ŠU₂-ma : !bs 1/3-TA.AM₃ !cm : šal-šu₂ ša₂ mu?-šu* ša₂*-lul-tu₄ EN.NUN
+#lem: attallû[eclipse]N; iššakkanma[take place]V; adir[eclipsed]AJ; irbima[disappear]V; n; šalšu[third]NU; ša[of]DET; mūšu[night]N; šalultu[third]NU; maṣṣarti[watch]N +.
+
+>> A 12
+13. !cm ša₂-niš 1/3-TA.AM₃ ša₂ iq-bu-u₂ : šal-šu₂ ša₂ SI* DINGIR* ana ZALAG₂ TAG₄
+#lem: šanîš[alternatively]AV; n; ša[which]REL; iqbû[say]V; šalšu[third]NU; ša[that]REL; Ellil[1]DN; ila[god]N; ana[to]PRP; nūri[daybreak]N; +ezēbu[leave//remain]V$innezzib
+
+>> A 13
+14. !cm ad#-ri ŠU₂-ma : !bs * ina {iti}GAN U₄ 28-KAM SAG IGI.DU₈.A IGI-ma dele-bat ana ŠA₃ 30
+#lem: adri[dark]AJ; irbima[disappear]V; ina[in]PRP; Kislimu[1]MN; ūm[day]N; n; rēš[start]N; tāmarti[visibility]N; innamirma[appear]V; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN
+
+>> A 14
+15. !bs KU₄ !cm : ina U₄.NA₂.A dele-bat ana ŠA₃ 30 KU₄-ma : 1 me AN.GE₆ DUG₄.GA
+#lem: īrub[enter]V; ina[on]PRP; bibbuli[day of moon's disappearance]N; Delebat[Venus]CN; ana[into]PRP; libbi[interior]N; Sin[1]DN; irrubma[enter]V +.; n; mē[hundred]NU; attallî[eclipse]N; +qabû[say//predict]V$taqabbi +.
+
+>> A 15
+16. !bs [U₄].NA₂.A AN.GE₆ u₂!-kal-lam-ka !cm : ul-tu U₄.NA₂ ša₂ {iti}GAN
+#lem: bibbulu[day of moon's disappearance]N; +antallû[eclipse]N$attallâ; +kullumu[show]V$ukallamka +.; ultu[from]PRP; +bibbulu[day of moon's disappearance]N$; ša[of]DET; Kislimu[1]MN
+
+>> A 16
+17. !cm [ana?] U₄ AN.GE₆ ša₂ {iti}BARA₂ ta-qab-bi : 1 me U₄{+mi} a-na UD*-MEŠ*
+#lem: ana[according to]PRP; ūm[day]N; attalli[eclipse]N; ša[of]DET; Nisannu[1]MN; taqabbi[predict]V +.; n; mē[hundred]NU; ūmi[day]N; ana[to]PRP; X
+
+>> A 17
+18. !cm [x]-de-e-ti : !bs ki-ṣir šal-šu₂ ša₂ {iti}BARA₂ !cm ša₂ E{+u₂} ša₂ {iti}BARA₂ 2*.KAM* šu*-u*
+#lem: u; kiṣir[knot]N; šalšu[third]NU; ša[of]DET; Nisannu[1]MN; ša[which]REL; +qabû[said]AJ$; ša[that]REL; Nisannu[1]MN; n; šū[that]IP
+
+>> A 18
+19. !bs EN.NUN.MURU₄.BA im-šil-ma a-di ZALAG₂ DU {d}UTU NU IGI-šu₂ !cm : i-na mi-šil mu-šu₂
+#lem: qablīti[middle (watch)]N; imšilma[equal]V; adi[until]PRP; namāri[be(come) bright]V; illik[go]V; Šamaš[1]DN; lā[not]MOD; +amāru[see//appear]V$innammarušu +.; ina[in]PRP; mišil[half]NU; +mūšu[night]N$
+
+>> A 19
+20. !cm AN.GE₆ SAR-ma a-di la SAG pu-u₂-ṣu ZALAG₂-ma : !bs EN ZALAG₂ DU {d}UTU
+#lem: attallâ[eclipse]N; +šurrû[begin]V$ušarrama; adi[until]PRP; lā[not]MOD; rēš[start]N; +pūṣu[whiteness]N$; +nawāru[be(come) bright]V$immirma +.; adi[until]PRP; namāri[be(come) bright]V; illik[go]V; Šamaš[1]DN
+
+>> A 20
+
+# adi lā [before] PRP
+
+21. !bs NU IGI-šu₂ !cm [:] a-di UGU nu-um-ri-šu₂ pu-u₂-ṣu NU IGI : ša₂-niš !bs EN ZALAG₂? DU
+#lem: lā[not]MOD; +amāru[see//observe]V$tammaršu +.; adi[until]PRP; muhhi[top]N; +numru[brightness]N$numrišu; pūṣu[whiteness]N; lā[not]MOD; innamir[appear]V +.; šanîš[alternatively]AV; adi[until]PRP; namāri[be(come) bright]V; illik[go]V
+
+>> A 21
+22. !bs {d}UTU NU IGI-šu₂ !cm a-di la KUR {d}UTU ZALAG₂-ma NU DU₃ : !bs i-šab-biṭ !cm : i-dak-ku*
+#lem: Šamaš[1]DN; lā[not]MOD; tammaršu[observe]V +.; adi[until]PRP; lā[not]MOD; nipih[rising]N; Šamaš[1]DN; immirma[be(come) bright]V; lā[not]MOD; +banû[be(come) good//be(come) beautiful]V$ibni +.; +šabāṭu[beat]V$išabbiṭ; idakku[kill]V
+
+>> A 22
+23. !cm [ša₂]-ba-ṭu : da-a-ku : ša₂-ga-šu₂ : MIN<(da-a-ku)> : !bs KUR sa-kil-tu₄ !cm : KUR ELAM.MA{ki}
+#lem: +šabāṭu[beat//beating]V'N$; +dâku[kill//killing]V'N$ +.; +šagāšu[kill//slaughtering]V'N$; dâku[killing]'N +.; mātu[land]; +saklu[simple//barbarous]AJ$sakiltu; māt[land]N; Elam[1]GN +.
+
+>> A 23
+24. !zz [...] !cm dan#-nu : !bs LUGAL AŠ.TE GAL DAB{+bat} !cm : LUGAL ELAM*.MA*{ki*} AŠ*.TE* : ša₂*
+#lem: u; dannu[strong]AJ +.; +šarru[king]N$; kussâ[throne]N; +rabû[big//great]AJ$rabâ; iṣabbat[seize]V +.; šarru[king]N; Elam[1]GN; kussû[throne]N; ša[of]DET
+
+>> A 24
+25. !zz [...]-x#-ma
+#lem: u
+
+>> A 25
+$ rest of obverse broken
+
+@reverse
+
+$ start of reverse broken
+
+1'. !zz x# x# x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u
+
+>> A 1'
+2'. !zz {(he-pi₂)} !bs DUR₂ !cm : u₂-ša-am-qa-at !zz ta-ba-x# x# [x x x x x x x x x]
+#lem: hepi[broken]AJ; u; ušamqat[fall]V; u; u; u; u; u; u; u; u; u; u; u
+
+>> A 2'
+3'. !bs nak-pa !cm : AN.GE₆ TIL{+tu₂} ina MULₓ(AB₂).MULₓ(AB₂) GAR-ma : MULₓ(AB₂).MULₓ(AB₂) x [x x x x x x x x] x
+#lem: +nakpu[pushing//piercing]AJ$nakpā +.; attallû[eclipse]N; +gamru[complete//total]AJ$gamirtu; ina[in]PRP; +Zappu[Bristle]CN$; iššakinma[take place]V; Zappu[Bristle]CN; u; u; u; u; u; u; u; u; u; u +.
+
+>> A 3'
+4'. !bs i-na-dir !cm : i-ša₂-an-ni : !bs za-ra-nu MURU₂{+ti₃} !cm : har-ra-nu# šu*#-ut*# {d*}en*-lil₂* [:] za-ra*#-nu <<x>>
+#lem: inaddir[rampage]V; išanni[be(come) changed]V; zārānū[seed(-corn)]N; qablīti[central]AJ; harrānu[campaign]N; šūt[those of]DET; Ellil[1]DN; zārānū[seed(-corn)]N
+
+#note: Collations by F. Reynolds apud al-Rawi & George @i{Iraq} 68 (2006) p. 40.
+>> A 4'
+5'. !cm : ṭur-ri : !bs * ina {iti}AB U₄ 14-KAM AN.GE₆ GAR-ma SI-MEŠ-šu₂ 1{+et} la ik-bir 1{+et} la iq-tin
+#lem: ṭurri[knot]N +.; ina[in]PRP; Ṭebetu[1]MN; ūm[day]N; n; attallû[eclipse]N; iššakinma[take place]V; qarnātušu[horn]N; n; lā[not]MOD; ikbir[be(come) thick]V; n; lā[not]MOD; +qatānu[be(come) thin]V$iqtin +.
+
+>> A 5'
+6'. !cm 1/2 hab-rat : !bs ina {mulₓ(AB₂)}NAGAR AN.GE₆ GAR-ma !cm : EN ITI-šu₂ : {mulₓ(AB₂)}SUHUR.MAŠ₂ : {mulₓ(AB₂)}SUHUR.MAŠ₂ : KUR SU.BIR₄{ki}
+#lem: n; habrat[thick]AJ +.; ina[in]PRP; +Alluttu[Crab]CN$; attallû[eclipse]N; iššakinma[take place]V +.; adi[until]PRP; arhišu[first day of month]N +.; +Suhurmašu[Goatfish]CN$; Suhurmašu[Goatfish]CN +.; māt[land]N; Subartu[1]GN
+
+>> A 6'
+7'. !cm u gu-ti-um : !bs i-ra-sib !cm : i-da-ku : aš-šum ra-sa-bu : da-a-ku : !bs ŠU.NIR
+#lem: u[and]CNJ; +Guti[]GN$Gutium +.; +rasābu[smite]V$irassip; +dâku[kill]V$idakku; aššum[because]SBJ; +rasābu[smite//smiting]V'N$; dâku[killing]'N +.; +šurīnu[(divine) emblem//(a phenomenon of the eclipsed moon)]N$šurinna
+
+>> A 7'
+8'. !bs ka-la-šu₂ NU DUL-ma it-bal ina AN.GE₆ TIL{+tu₂} ad-ri ŠU₂-ma !cm : !bs KEŠ₂{+tu₂} !cm : ri-kis ka-la-mu
+#lem: +kalû[totality//all]N$kalašu; ul[not]MOD; +katāmu[cover//obscure]V$iktumma; itbal[disappear]V +.; ina[in]PRP; attallê[eclipse]N; gamirtu[complete]AJ; adri[dark]AJ; irbima[disappear]V; +kiṣru[knot]N$kiṣrātu; +riksu[binding//cosmic bond]N$rikis; +kalāma[all (of it)//everything]N$kalāmu +.
+
+>> A 8'
+9'. !bs DINGIR ša₂ ina KAN₅-šu₂ IGI-ma it-bal !cm : ša₂ KAN₅ ŠU₂{+u₂} : !bs LUGAL ša₂ an-na-a iq-bu-šu₂ !cm : LUGAL ša₂ ana
+#lem: ilu[god]N; ša[who]REL; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N; innamirma[appear]V; itbal[disappear]V +.; ša[whose]REL; adir[eclipsed]AJ; irbû[set]V; šarru[king]N; ša[whom]REL; annâ[this]DP; iqbûšu[say]V; šarru[king]N; ša[whose]REL; +ana[to]PRP$
+
+>> A 9'
+10'. !cm tar-ṣi-šu₂ GISKIM il-li-ku : !bs * ina {iti}ŠE U₄ 14-KAM AN.GE₆ GAR-ma SI-MEŠ-šu₂ ina še-e-ri NU <<:>>
+#lem: +tarṣu[extent//time]N$tarṣišu; +ittu[sign]N$; +alāku[go//appear]V$illiku +.; ina[in]PRP; Addaru[1]MN; ūm[day]N; n; attallû[eclipse]N; iššakinma[take place]V; qarnātušu[horn]N; ina[during]PRP; šēri[morning star]N; lā[not]MOD
+
+>> A 10'
+11'. !bs i-na-aṭ-ṭa-lu ina GAL-šu₂ in-na-aṭ-ṭa-lu !cm : ina AN.GE₆ TIL{+tu₂} ša₂ LUGAL?#
+#lem: +naṭālu[look//be(come) visible]V$innaṭṭalū; ina[during]PRP; +rabû[set//setting]V'N$rabêšu; +naṭālu[look//be(come) visible]V$innaṭṭalū +.; ina[in]PRP; attallê[eclipse]N; gamirtu[total]AJ; ša[that]REL; šarru[king]N
+
+>> A 11'
+12'. !cm u₂-nam-mi-ru ŠU₂{+u₂} !bs TA !cm : i-na : !cm {d}PAP.SUKKAL KUR-ma KI {d}UTU GUB !cm {d}30 ina
+#lem: unammiru[be(come) bright]V; irbû[set]V; +ina[in]PRP$; ina[in]PRP +.; Papsukkal[1]DN; ippuhma[rise]V; itti[with]PRP; Šamaš[1]DN; izziz[stand]V +.; Sin[1]DN; ina[in]PRP
+
+>> A 12'
+13'. !cm {mulₓ(AB₂)}SIPA.ZI.AN ana GENNA KUR-ma : !bs AN.GE₆ EN.NUN.U₄.ZAL.LI u₂-gam-mir !cm : AN.GE₆
+#lem: +Šitaddaru[Orion]CN$; ana[to]PRP; Kayyamanu[Saturn]CN; ippuhma[rise]V +.; attallû[eclipse]N; šāt[who(m)]DET$&urri[daytime]N; ugammir[last]V +.; attallû[eclipse]N
+
+>> A 13'
+14'. !cm ša₂ a-di TIL EN.NUN.U₄.ZAL.LA GUB : !bs * AN.GE₆ : ina U₄ 7-KAM U₄ 14-KAM U₄ 21-KAM
+#lem: ša[that]REL; adi[until]PRP; +qītu[end]N$qīt; šāt[who(m)]DET$&urri[daytime]N; +izuzzu[stand]V$izzizu +.; attallû[eclipse]N; ina[on]PRP; ūm[day]N; n; ūm[day]N; n; ūm[day]N; n
+
+>> A 14'
+15'. !cm : ana UGU IGI!(SAL)-šu₂ u TIL{+tu₂} : !bs * MUL-ME EN.NUN-MEŠ AN.GE₆ u₂-kal*-lu*-mu*-ka !cm MUL
+#lem: ana[on]PRP; muhhi[account]N; tāmartišu[appearance]N; u[and]CNJ; +tagmertu[completion//fullness]N$tagmertu +.; kakkabū[star]N; +maṣṣartu[watch]N$maṣṣarātu; attallû[eclipse]N; ukallumūka[show]V; kakkabi[star]N +.
+
+>> A 15'
+16'. !cm : ša₂ ina ITI EN.NUN a-na {d}30 TE{+u₂} u DAB{+u₂} !bs MUL-MEŠ : ziq!(GAZ)-pi !cm ša₂ ina UGU
+#lem: ša[that]REL; ina[in]PRP; arhi[month]N; maṣṣarti[watch]N; ana[to]PRP; Sin[1]DN; iṭhû[approach]V; ū[or]CNJ; +ṣabātu[seize//reach]V$iṣbatu +.; kakkabū[star]N; ziqpi[culmination]N; ša[that]REL; ina[on]PRP; muhhi[top]N
+
+>> A 16'
+17'. !cm AN.GE₆ {d}30 GAR{+an} pi-šer₃ ana ŠA₃ ta-qab-bi : !bs * ni-i-ri : ša₂ A.AB.BA
+#lem: attalli[eclipse]N; Sin[1]DN; iššakkan[take place]V +.; +pišru[release//interpretation]N$pišer; ana[to]PRP; libbi[concern]N; taqabbi[say]V +.; +Niru[Yoke]CN; ša[of]DET; tâmti[sea]N
+
+>> A 17'
+@colophon
+
+18'. !zz a-dir {d}e₂-a a-dir : AN.GE₆ ina {mulₓ(AB₂)}GU.LA GAR-ma : ṣa-a-tu₂ u šu-ut KA
+#lem: adir[dark]AJ; +Ea[]DN'CN$; adir[dark]AJ +.; attallû[eclipse]N; ina[in]PRP; Gula[1]CN; iššakkanma[take place]V +.; ṣâtu[commentary]N; u[and]CNJ; šūt[who(m)]DET; pî[mouth]N
+
+>> A 18'
+19'. !zz mal₂-su-ut EŠ₂.GAR₃ ša₂ * U₄ AN {d}EN.LIL₂.LA₂ ša₂ ŠA₃ * ina {iti}BARA₂ U₄ 14-KAM AN.GE₆ GAR-ma
+#lem: malsût[reading out]N; iškāri[series]N; ša[of]DET; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN +.; !ša[of]DET; libbi[middle]N; ina[in]PRP; Nisannu[1]MN; ūmi[day]N; n; attallû[eclipse]N; iššakkanma[take place]V
+
+>> A 19'
+20'. !zz DINGIR <ina> KAN₅-šu₂ AL.TIL TA {giš}DA SAR-ma up-puš₄ : GID₂.DA-MEŠ MU-MEŠ
+#lem: ilu[god]N; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N +.; qati[completed]AJ +.; ultu[from]PRP; lēʾi[writing board]N; šaṭirma[written]AJ; uppuš[properly executed]AJ +.; +arāku[be(come) long//be(com)ing long]V'N$arāk; +šumu[name//line]N$šūmī +.
+
+>> A 20'
+$ single ruling
+@colophon
+21'. !zz IM {m}BA{+ša₂-a} bu-kur₂ {m}{d}INANA-MU-KAM ŠA₃.BAL.BAL {m}E₂.KUR-za-kir {lu₂}MAŠ.MAŠ qa-ti
+#lem: ṭuppi[tablet]N; Iqiša[1]PN; bukur[son]N; +Ištar-šum-ereš[1]PN$; liblibbi[descendant]N; Ekur-zakir[1]LN; mašmašši[incantation priest]N +.; +qātu[hand]N$qāti
+
+22'. !zz {m}{d}60-AD-URI₃ DUMU ša₂ {m}{d}60-DU-A A {m}kur-i UNUG{ki} {iti}KIN U₄ 3-KAM MU 2-KAM
+#lem: +Anu-ab-uṣur[1]PN$; māri[son]N; ša[of]DET; Anu-mukin-apli[1]PN; apil[descendant]N; Kuri[1]LN +.; Uruk[1]SN; Ululu[1]MN; ūm[day]N; n; šanat[year]N; n
+
+23'. !zz {m}pi-il-pi-is-su LUGAL KUR.KUR
+#lem: Philip[1]RN; šar[king]N; mātāti[land]N +.
+
+@translation labeled en project
+@colophon
+@label r 21' - r 22'
+
+Tablet of Iqīšāya, son of Ištar-šuma-ēreš, descendant of Ēkurzākir, the exorcist. Handwriting of Anu-aba-uṣur, son of Anu-mukīn-apli, descendant of Kurī
+
+@label r 22' - r 23'
+
+Uruk, 3rd of Elūlu (VI) of the 2nd year of Philip, king of the lands (= 321 BCE).
+
+&P392620 = CCP 3.1.20.B.b (http://ccp.yale.edu/P392620) = VAT 7825
+#project: ccpo
+#atf: use unicode
+#atf: lang akk-x-stdbab
+#atf: use maths
+#link: def A = ccpo:Q005129 = CCP 3.1.20.B = Commentary B on Enuma Anu Enlil 20
+@tablet
+@obverse
+0. !zz [ina a-mat {d}60 u an-tu₄ liš-lim]
+#lem: ina[by]PRP; amāt[command]N; Anu[1]DN; u[and]CNJ; Antu[1]DN; lišlim[go well]V
+
+1. !bs [* ina {iti}BARA₂ U₄ 14-KAM AN.GE₆ GAR]-ma# DINGIR ina KAN₅-šu₂ A₂ {im}U₁₈.LU AN*#.TA# [KAN₅]-ma
+#lem: ina[in]PRP; Nisannu[1]MN; enūma[when]SBJ; n; attallâ[eclipse]N; iššakkanma[take place]V; ila[god]N; ina[in]PRP; nandurišu[be(com)ing eclipsed]'N; idi[side]N; šūti[south]N; šaqû[be(com)ing high]'N; adirma[eclipsed]AJ
+
+>> A 1
+2. !bs [A₂ {im}SI.SA₂ KI.TA iz]-ku !cm : ana UGU re-eš ši-kin qa-bi taš-ri-tu₄
+#lem: idi[side]N; iltāni[north]N; šapliš[below]AV; izku[be(come) clear]V; ana[to]PRP; muhhi[top]N; rēš[beginning]N; šikin[nature]N; qabi[said]AJ; tašrītu[beginning]N
+
+>> A 2
+3. !bs [e-la-nu : KI.TA : šap-la]-nu :* !bs ina šu-ri#-in#-ni#-šu₂# dele-bat
+#lem: elānu[above]AV; šapliš[below]AV; šaplānu[below]'AV; ina[in]PRP; šurinnišu[(a phenomenon of the eclipsed moon)]N; Delebat[Venus]CN
+
+>> A 3
+4. !bs [ana ŠA₃ 30 KU₄ ina ITI] EN#.NUN# dele*#-bat*# ana ŠA₃# 30# KU₄*#-[ma !bs :] šu*#-ri*-in*#-ni*# :# šu*-ri*#-[in]-ni*# :*
+#lem: ana[to]PRP; libbi[interior]N; Sin[1]DN; īrub[enter]V; ina[in]PRP; arhi[month]N; maṣṣarti[watch]N; Delebat[Venus]CN; ana[to]PRP; libbi[interior]N; Sin[1]DN; irrubma[go in]V; +šurīnum[(divine) emblem]N$šurinni; +šurīnum[(divine) emblem]N$šurinni
+
+>> A 4
+
+5. !bs [ṣal-mu ša₂ ŠA₃ 30 :] ša₂*-niš*# !bs ina*# šu*#-[ri]-in*#-ni*#-šu₂*# !zz [...]
+#lem: ṣalmū[black]AJ; !ša[of]DET; libbi[interior]N; Sin[1]DN +.; šanîš[alternatively]AV; ina[in]PRP; šurinnišu[(a phenomenon of the eclipsed moon)]N; u
+
+>> A 5
+
+6. !zz [...] !bs ITI*#-šu₂*# :* {mulₓ(AB₂)*}LU₂*.HUN*#.GA₂*# :*
+#lem: u; arhišu[first day of month]N; Agru[Hireling]CN
+
+>> A 6 - 7
+
+$(scattered traces and odd signs in the rest of the obverse)
+
+@reverse
+
+$ start of reverse broken
+1'. !zz [x x x] x# x# x# [x x x x x x x x x x x x !bs TA]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; ina[in]PRP
+
+>> A 11'
+2'. !cm [i-na :] !bs {d}PAP.SUKKAL* KUR-ma KI*# [{d}]UTU# GUB# !bs [{d}30 ina {mulₓ(AB₂)}SIPA.ZI.AN ana GENNA]
+#lem: ina[in]PRP; Papsukkal[1]DN; ippuhma[rise]V; erṣetu[earth]N; Šamaš[1]DN; izzizu[stand]V; Sin[1]DN; ina[at]PRP; Šitaddaru[Orion]CN; ana[to]PRP; Kayyamanu[Saturn]CN
+
+>> A 12'
+3'. !cm [KUR-ma :] !bs AN.GE₆ EN.NUN.U₄#.ZAL.LA u₂-gam-mir !cm :# AN.GE₆# ša₂*# a*#-[di TIL EN.NUN.U₄.ZAL.LA]
+#lem: ippuhma[rise]V; attallâ[eclipse]N; šāt[who(m)]DET&urri[daytime]N; ugammir[last]V; attallâ[eclipse]N; ša[of]DET; adi[until]PRP; qīt[end]N; šāt[who(m)]DET&urri[daytime]N
+
+>> A 13'
+4'. !cm [GIN !zz : !bs *] AN.GE₆ U₄ 7-KAM₂# U₄# 14-KAM₂ U₄ 21-KAM₂ !cm ana UGU IGI-šu₂ u TIL{+tu₂} [: !bs *] MUL*#-ME EN#.NUN#-[MEŠ AN.GE₆] 
+#lem: izzizu[stand]V; attallâ[eclipse]N; ūm[day]N; n; ūm[day]N; n; ūm[day]N; n; ana[to]PRP; muhhi[top]N; pānīšu[face]N; u[and]CNJ; tagmertu[fullness]N; kakkabū[star]N; maṣṣarātu[watch]N; attallâ[eclipse]N
+
+>> A 14'
+5'. !bs u₂*#-kal*#-lu-mu-ka !cm : MUL : ša₂ ina ITI EN.NUN a-na {d#}30 TE{+u₂} u DAB{+u₂}
+#lem: ukallumūka[show]V; kakkabi[star]N; ša[that]REL; ina[in]PRP; arhi[month]N; maṣṣarti[watch]N; ana[to]PRP; Sin[1]DN; iṭhû[approach]V; u[and]CNJ; iṣbatu[reach]V
+
+>> A 15'
+>> A 16'
+6'. !bs MUL#-MEŠ ziq-pi !cm ša₂ ina UGU AN.GE₆ {d}30 GAR{+an}
+#lem: kakkabū[star]N; ziqpi[culmination]N; ša[that]REL; ina[in]PRP; muhhi[top]N; attallâ[eclipse]N; Sin[1]DN; iššakkan[take place]V
+
+>> A 16'
+>> A 17'
+7'. !cm pi#-šir₃ a-na ŠA₃ ta-qab-bi
+#lem: pišer[interpretation]N; ana[according to]PRP; libbi[interior]N; taqabbi[say]V
+
+>> A 17'
+$double ruling	
+
+@colophon
+8'. !zz [* {mul}ni]-i#-ri ša₂ A.AB.BA a-dir {d}e₂-a a-dir : AN.GE₆ ina {mulₓ(AB₂)}GU.LA GAR-ma
+#lem: +Niru[Yoke]CN$; ša[of]DET; +tiāmtu[sea]N$tâmti; adir[dark]AJ; Ea[1]DN; adir[dark]AJ +.; attallû[eclipse]N; ina[in]PRP; Gula[1]CN; iššakkanma[take place]V +.
+
+>> A 17'
+>> A 18'
+# Niru Ša Tâmti [Yoke of the Sea] CN
+
+9'. !zz [ṣa-a]-tu₂!# šu-ut KA# mal₂-su-ut EŠ₂.GAR₃# * {d}60 {d}EN.LIL₂.LA₂  ša₂ ŠA₃ * ina {iti}BARA₂ U₄ 14#-KAM
+#lem: ṣâtu[commentary]N; šūt[who(m)]DET; pî[mouth]N; +massûtu[call//reading out]N$malsût; iškāri[series]N; Anu[1]DN; Ellil[]DN; !ša[of]DET; libbi[middle]N; ina[in]PRP; Nisannu[1]MN; ūm[day]N; n
+
+>> A 18'
+>> A 19'
+10'. ($___$) !zz AN.GE₆ GAR-ma DINGIR ina KAN₅-šu₂ AL.TIL
+#lem: attallû[eclipse]N; iššakinma[take place]V; ilu[god]N; ina[in]PRP; nandurišu[be(com)ing eclipsed]V'N +.; qati[completed]AJ +.
+
+>> A 19'
+>> A 20'
+
+@colophon
+
+11'. !zz IM# {m}{d}60-DIN#-su-E gi#-nu-u₂ {m}{d}60-ŠEŠ-MU{+nu} A {m}ŠEŠ-ʾ-u₂-tu₂ qat₃ {m}ta-ni₃-tu₂-{d}60
+#lem: ṭuppi[tablet]N; Anu-balassu-iqbi[1]PN; +ginû[child]N$; Anu-ah-ittannu[1]PN; apil[descendant]N; Ahʾutu[1]LN +.; qāt[hand]N; +Tanittu-Anu[]PN$
+
+12'. !zz DUMU-A.NI a-na a-ha-zi-šu₂ GID₂.DA U₄-MEŠ-šu₂ DIN ZI{+ti₃}-šu₂ kun-nu SUHUŠ-MEŠ-šu₂ NU GAL₂{+e}
+#lem: +māru[son]N$mārišu +.; ana[for]PRP; ahāzišu[learning]V'N; arāk[be(com)ing long]V'N; ūmīšu[day]N; balāṭ[living]V'N; napištišu[life]N; kunnu[securing]V'N; +išdu[foundation//position]N$išdātišu; lā[not]MOD; +bašû[existing]AJ$bašê
+
+13'. !zz GIG-šu₂ u MUD EN{+u₂-ti}-šu₂ SAR-ma ina UNUG{ki} u E₂ re-eš u₂-kin MUD {d}60 u U.MU.UN
+#lem: murṣišu[illness]N; u[and]CNJ; +palāhu[fear//revering]V'N$palāh; bēlūtišu[lordship]N; išṭurma[write]V; ina[in]PRP; Uruk[1]SN; u[and]CNJ; bīt[house]N; +Reš[1]TN$; ukīn[permanently deposit]V +.; +pālihu[reverent one]N$pālih; Anu[1]DN; u[and]CNJ; +Antu[]DN$
+
+14'. !zz NU TUM₃-šu₂ ina me-reš-ti-šu₂ NU u₂-šam-ki-šu₂ ina AB₂-šu₂ ana maš-tak-ku EN-šu₂ HE₂.GUR-šu₂ ša₂ {+i}TUM₃-šu₂
+#lem: lā[not]MOD; itabbalšu[carry off]V +.; ina[in]PRP; +mēreštu[wish//intention]N$mēreštišu; lā[not]MOD; +mekû[neglect]V$ušamkišu +.; ina[in]PRP; +ūmu[day]N$ūmišu; ana[for]PRP; +maštaku[chamber//room]N$maštakku; bēlšu[owner]N; +târu[turn//return]V$litēršu +.; ša[who]REL; +tabālu[take away//carry off]V$itbalšu
+
+15'. !zz {d}ŠUR u {d}ša-la {+lit}TUM₃-šu₂ MU ki-sit₂-ti u qe₂-bir NU TUKU
+#lem: +Adad[]DN$; u[and]CNJ; +Šala[]DN$; +tabālu[take away//carry off]V$litbalūšu +.; +šumu[name//son]N$šuma; +kisittu[branches//descendant]N$kisitti; u[and]CNJ; +qēbiru[burier]N$qēbir; lā[not]MOD; irašši[acquire]V +.
+
+16'. !zz UNUG{ki} {iti}GU₄ U₄ 3.KAM MU 80.KAM {m}si-lu-ku LUGAL
+#lem: Uruk[1]SN; Ayyaru[1]MN; ūm[day]N; n; šanat[year]N; n; Seleucus[1]RN; šarru[king]N +.
+
+@translation labeled en project
+@colophon
+@label r 9' - r 10'
+[Lemma]ta, oral explanations (relating to) a 'reading' of the series @i{Enūma Anu Enlil} (and referring to entries) from "(If) an eclipse takes place on the 14th of Nisannu (I) and the god in its eclipsing" (= @i{EAE} XX 1). Completed.
+
+@label r 11' - r 12'
+Tablet of Anu-balāssu-iqbi, son of Anu-aha-ittannu, descendant of Ahuʾutu. Handwriting of Tanittu-Anu, his son. 
+
+@label r 12' - r 13'
+He wrote it in order to learn, to enjoy a long live, for his well-being, for securing his position, to avoid illness and for having his authority respected, and deposited it in Uruk and the Rēš temple.
+
+@label r 13' - r 15'
+The reverer of Anu and Antu shall not carry it off. He shall not intentionally let it be lost. He should return it to its owner's room on the (same) day. May Adad and Šala carry off he who carries it off! May he not acquire a son, a descendant, anyone to bury him!
+
+@label r 16'
+Uruk, 3rd of Ayyāru (II), year 80 of king Seleucus (= 232 BCE).

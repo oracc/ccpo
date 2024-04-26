@@ -1,0 +1,123 @@
+&P393836 = CCP 3.1.15 (http://ccp.yale.edu/P393836) = K.778
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs * 30 TAB-ma ba-ra-ri i-ta-aʾ-dar
+#lem: Sin[1]DN; ihmiṭma[be (too) early]V; barāri[at dusk]AV; +adāru[be dark]V$itaʾdar
+
+2. ($___$) !bs AN.GE₆ LUGAL URI{ki}
+#lem: attallê[eclipse]N; šar[king]N; Akkad[1]SN
+
+3. ($___$) !cm %sux ba-ra : %sb la-a : RI : a-dan-nu
+#lem: bar[(compound verb verbal element)]V/t; lā[not]MOD; +adannu[appointed time]N$; +adannu[appointed time]N$
+
+4. ($___$) !cm ina la a-dan-ni-šu₂ U₄ 12-KAM₂ U₄ 13-KAM₂ AN.GE₆ GAR-ma
+#lem: ina[at]PRP; lā[not]MOD; +adannu[appointed time]N$adannīšu; ūm[day]N; n; ūm[day]N; n; attallû[eclipse]N; iššakkanma[take place]V
+
+5. ($___$) !cm : ina EN.NUN AN.USAN₂ AN.GE₆ GAR-ma
+#lem: ina[in]PRP; maṣṣarti[watch]N; šimītān[evening]N; attallû[eclipse]N; iššakkanma[take place]V
+
+6. !bs * AN.GE₆ ZAG-šu₂ BAL{+at} mim-ma NU TAG₄ A.MA.RU 1{+niš} GAR
+#lem: attallû[eclipse]N; +imittu[right side]N$imittašu; +nabalkutu[having crossed over]AJ$nabalkutat; mimma[anything]XP; ul[not]MOD; innezzib[remain]V; +abūbu[flood]N$; iltēniš[together]AV; iššakkan[take place]V
+
+#note: On the phrase @i{mimma} (@i{ul}) @i{innezib} in eclipse omens, see Rochberg-Halton @i{AfO Beih} 22 (1988) p. 50.
+7. ($___$) !cm ul-la-nu-um-ma ina ZAG-šu₂ AN.GE₆ GAR-ma#
+#lem: +ullânu[immediately after]SBJ$ullânumma; ina[in]PRP; +imittu[right side]N$imittišu; attallû[eclipse]N; iššakkanma[take place]V
+
+8. ($___$) !cm gab-bi-šu₂ ir-rim-ma
+#lem: gabbišu[all]N; +arāmu[cover]V$irrimma
+
+9. !bs * AN.GE₆ ZAG-šu₂ pa-aš₂#-ṭa-at₂ u mim-ma NU TAG₄#
+#lem: attallû[eclipse]N; imittašu[right side]N; +pašṭu[erased]AJ$pašṭat; u[and]CNJ; mimma[anything]XP; ul[not]MOD; innezzib[remain]V
+
+#note: The commentary LB 1321 o 25 (CCP 3.2.2.A) explains this same protasis as @i{ina imittīšu adir}.
+10. ($___$) !cm A.MA.RU TEŠ₂.BI GAR[{+an}]
+#lem: abūbu[flood]N; iltēniš[together]AV; iššakkan[take place]V
+
+11. ($___$) !cm ina ZAG-šu₂ AN.GE₆ [x x]
+#lem: ina[in]PRP; imittašu[right side]N; attallû[eclipse]N; u; u
+
+12. !bs * AN.GE₆ ZAG-šu₂ KUD A.MA.RU TEŠ₂*.BI# [GAR{+an}]
+#lem: attallû[eclipse]N; imittašu[right side]N; +purrusu[cut off]AJ$purrusat; abūbu[flood]N; iltēniš[together]AV; iššakkan[take place]V
+
+#note: The commentary LB 1321 o 26 (CCP 3.2.2.A) explains this same protasis as @i{ina imittīšu adir}.
+13. ($___$) !cm ina ZAG-šu₂ AN.GE₆ [x x]
+#lem: ina[in]PRP; imittašu[right side]N; attallû[eclipse]N; u; u
+
+$(reverse)
+
+14. !bs * AN.GE₆ ana A₂-šu₂ [x x x x x x x]
+#lem: attalli[eclipse]N; ana[according to]PRP; idišu[side]N; u; u; u; u; u; u; u
+
+15. ($___$) !cm mim-ma la pa-du-u₂# [x x x x x]
+#lem: mimma[anything]XP; lā[not]MOD; pādû[merciful]AJ; u; u; u; u; u
+
+16. ($___$) !cm ina ZAG-šu₂ [x x x]
+#lem: ina[in]PRP; imittašu[right side]N; u; u; u
+
+17. ($___$) !cm AN.GE₆# x# [x x x]
+#lem: attallû[eclipse]N; u; u; u; u
+
+$ at least 6 lines missing
+
+24. !bs * AN*#.GE₆ [...] x#
+#lem: attallû[eclipse]N; u; u
+
+@colophon
+
+25. !zz 32 nis-hu mu-kal-lim#-[ti * U₄ AN {d}EN].LIL₂# šu#-ut KA#
+#lem: n; nishu[excerpt]N; mukallimti[scholarly commentary]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; šūt[those of]DET; pî[mouth]N
+
+26. !zz ša₂ KA UM.ME.A ša₂ ŠA₃ * 30 TAB#-[ma E₂].GAL# {m}AN.ŠAR₂-DU₃-A MAN GAL#
+#lem: ša[of]DET; pî[accordance]N; ummâni[expert]N; ša[of]DET; libbi[interior]N; Sin[1]DN; ihmiṭma[be (too) early]V; ēkalli[palace]N; Assurbanipal[1]RN; šarru[king]N; rabû[great]AJ
+
+27. !zz MAN dan-nu MAN ŠU₂ MAN {kur}aš-šur{ki} ša₂ {d}NA₃ u {d}PAPNUN ARHUŠ TUKU{+šu}-šu-ma ki-ma [AD]
+#lem: šarru[king]N; dannu[mighty]AJ; šar[king]N; kiššati[universe]N; šar[king]N; Aššur[Assyria]GN; ša[of]DET; Nabu[1]DN; u[and]CNJ; +Tašmetu[]DN$; rēmu[mercy]N; +rašû[acquire]V$iršûšuma; kīma[like]PRP; abi[father]N
+
+28. !zz u AMA u₂-ra-ab-bu-u-šu₂#
+#lem: u[and]CNJ; ummi[mother]N; +rabû[be(come) big//make great]V'V$urabbûšu
+
+@translation labeled en project
+
+$(obverse)
+
+@label 1 - 5
+
+"If the moon is early and eclipses at dusk (@barāri), it is an eclipse for the king of Akkad" (= @i{Enūma Anu Enlil} XV 1). @bara (in Sumerian) means "no" (in Akkadian), @RI means "time"; (thus it means that) an eclipse takes place not at its time, i.e., on the 12th or 13th day. (Alternatively, it can mean that) an eclipse takes place in the evening watch.
+
+@label 6 - 8
+
+"If the right side of an eclipse is crossed over (sc. by the shadow) and nothing is left (out of the eclipse), the flood will take place at the same time" (= @i{Enūma Anu Enlil} XV unknown) means that immediately after the eclipse has taken place on its right side, it covers the whole of it (sc. of the moon).
+
+@label 9 - 11
+
+"If the right side of an eclipse is obliterated and nothing is left (out of the eclipse), the flood will take place simultaneously" (= @i{Enūma Anu Enlil} XV unknown) means that the eclipse [...] on its right side.
+
+@label 12 - 13
+
+"If the right side of an eclipse is divided, the flood will take place simultaneously" (= @i{Enūma Anu Enlil} XV unknown) means that the eclipse [...] on its right side.
+
+$(reverse)
+
+@label 14 - 17
+
+"If an eclipse [...] to its side, [...], something relentless [...]" (= @i{Enūma Anu Enlil} XV unknown) means that [...] to its right side, [...] the eclipse [...].
+
+$ at least 6 lines missing
+
+@label 24
+
+"If an eclipse [...]" (= @i{Enūma Anu Enlil} XV unknown), [...].
+
+@label 25 - 26
+
+32th section of the @i{mukallimtu}-commentary on [@i{Enūma Anu Enlil}], with oral explanations, following the sayings of a scholar, (referring to entries) from "If the moon is early."
+
+@label 26 - 28
+
+Palace of Ashurbanipal, the great king, the mighty king, king of the universe, king of Aššur, on whom Nabû and Tašmētum have bestowed mercy and whom they have raised like [a father] and a mother.

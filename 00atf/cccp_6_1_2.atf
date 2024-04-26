@@ -1,0 +1,244 @@
+&P470020 = CCP 6.1.2 (http://ccp.yale.edu/P470020) = BM 40121
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use unicode
+@tablet
+@reverse
+@column 1'
+$ n lines broken
+
+1'. !zz & !zz & !zz [...]
+#lem: u
+
+2'. !zz [...]
+#lem: u
+
+3'. !zz *# 
+
+4'. !zz *#
+
+$ 4 lines broken
+
+9'. !zz [...]
+#lem: u
+
+$ 1 line broken
+
+11'. !zz MIN<(su-ug)> & !zz [MIN<(|LAGAB×A| A)>] & !zz [...]
+#lem: u; u; u; u
+
+12'. !zz * a-a & !zz [|LAGAB×A| A] & !zz [i-šik-tu₄]
+#lem: u; u; u; +išiktu[marshland]N$
+
+#tr.en: [(The complex grapheme) LAGAB×A] read /aya/ [means "marshland"].
+
+13'. !zz * as#-lum & !zz |LAGAB×A|# A & !zz [ša₂ |LAGAB×A.LUM| ŠU]
+#lem: u; u; u; ša[of]DET; u; u
+
+#tr.en (The complex grapheme) LAGAB×A read /aslum/ [means ...
+
+14'. !zz * aš-te# & !zz [|LAGAB×A| A] & !zz [ŠU-ma URU]
+#lem: u; u; u; u; ālu[city]N
+
+15'. !zz * bu#-nin & !zz [|LAGAB×A| A] & !zz [bu-nin-nu ša₂ A]
+#lem: u; u; u; +buginnu[bucket]N$buninnu; ša[of]DET; +mû[water]N$mê
+
+16'. !zz & !zz & !zz [...]
+#lem: u
+
+17'. !zz & !zz & !zz [...]
+#lem: u
+
+18'. !zz * bu#-gin₃# & !zz |LAGAB×GAR|# [GAR] & !zz [bu-gin₃-nu ša₂ NINDA] 
+#lem: u; u; u; +buginnu[bucket]N$; ša[that]REL; +akala[food]N$akli
+
+19'. !zz & !zz & !zz [...]
+#lem: u
+
+20'. !zz [* u]-mah#? & !zz [|LAGAB×(U.A)| U.A] & !zz [mi-ih-ṣu] 
+#lem: u; u; u; +mihṣu[blow]N$mihṣu
+
+$ n lines broken
+
+@column 2'
+
+$ n lines broken
+
+1'. !zz [...] & !zz x [...]
+#lem: u; u; u
+
+#note: There is fine guiding line running down in the middle of subcolumn 3. 
+
+2'. !zz [MIN<(šu-ru-um)>] & !zz [|LAGAB×GUD| GUD] & !zz ka#-bu#-[u]
+#lem: u; u; u; +kabūtu[(animal) dung]N$kabû
+
+
+3'. !zz [* šu-ri-im] & !zz [|LAGAB×(GUD&GUD)| |GUD&GUD|] & !zz MIN<(ka-bu-u)> : ru-ub-ṣu#
+#lem: u; u; u; kabû[(animal) dung]N; +rubṣu[litter]N$
+
+4'. !zz & !zz & !zz piq-qa-an-nu :# ia-di#-ma#-[tu₂]
+#lem: +piqannu[droppings]N$piqqannu; +yādimatu[droppings]N$
+
+
+#note: The reconstruction of the end of this entry is based on @i{Malku} III, 135, which equates the term @i{jadimātu} with @i{rubṣu} (see previous line): the Neo-Babylonian ms. A (@i{SpTU} III, 120) from Uruk reads @i{ia-a-di-ma-tu₄}, the Neo-Assyrian ms. B (@i{LTBA} II, 1) from Assur reads @i{e-d}[@i{i}-...]; see Hrůša 2010: 368. 
+
+5'. !zz & !zz & !zz tar-ba-ṣu
+#lem: tarbaṣu[animal stall]N
+
+
+
+$ single ruling
+
+6'. !zz [* u₂] & !zz [|LAGAB×(GUD&GUD)| |GUD&GUD|] & !zz lah-ru₃
+#lem: u; u; u; +lahru[ewe]N$
+
+
+$ single ruling
+
+7'. !zz & !zz & !zz la-ah-ru₃
+#lem: +lahru[ewe]N$lahru
+
+
+#note: See @i{Ea} I, 109
+
+8'. !zz & !zz & !zz KA.KA#.SI.GA
+#lem: u
+
+
+#note: The @i{Aa}-commentary @i{CCP} 6.1.2.B also contains the technical term @akk{KA.KA.SI.GA} for a grapheme’s phonetic pronunciation. Here, lines 7'-8' should be understood as one unit. 
+
+9'. !zz [* la-ah-ru₃] & !zz [|LAGAB×(GUD&GUD)| |GUD&GUD|] & !zz la-ah-ru₃
+#lem: u; u; u; lahru[ewe]N
+
+#note: See @i{Ea} I, 111
+
+$ single ruling
+
+10'. !zz & !zz [(x)] & !zz MIN<(la-ah-ru₃)>
+#lem: u; lahru[ewe]N
+
+11'. !zz & !zz & !zz {d}lahar#
+#lem: +Lahar[]DN$
+
+12'. !zz [...] & !zz [...] & !zz im#-mer-tu₄# 
+#lem: u; u; +immertu[ewe]N$
+
+13'. !zz [...] & !zz [...] & !zz sa#-ka-pu
+#lem: u; u; sakāpu[pushing down]'N
+
+14'. !zz [* pu-u₂] & !zz [|LAGAB×EŠ| EŠ] & !zz [ša₂] IN#.|LAGAB×EŠ|.|LAGAB×EŠ| pu-u
+#lem: u; u; u; ša[that]REL; u; u
+
+#note: See @i{Ea} I, 114
+
+15'. !zz & !zz & !zz na#-sa-hu# ša₂ ŠE#
+#lem: nasāhu[tearing out]'N; ša[of]DET; +ûm[grain]N$êm
+
+16'. !zz [* bu-ul] & !zz [|LAGAB×EŠ| EŠ] & !zz na#-ša₂-pu ša₂# ŠE#
+#lem: u; u; u; +našāpu[blow (s.th.) away//blowing (s.th.) away]V'N$; ša[that]REL; êm[grain]N
+
+#note: For this entry see @i{Ea} I, 115. Only the Middle Babylonian manuscript CBS has @i{našāpu}. The main entry in YBC 2176 (ms. A) reads @i{na-pa-hu ša} ŠE#. 
+
+17'. !zz [* bu-ur] & !zz [|LAGAB×EŠ|] EŠ# & !zz nu-us-su-ru₃ ša₂ ŠE#
+#lem: u; u; u; +nasāru[saw//sawing]V'N$nussuru; ša[of]DET; êm[grain]N
+
+#note: @i{Ea} I, 116 reads in the Akkadian subcolumn @i{nu-us-su-u# ša} @akk{ŠE} according to MSL 14, 182. 
+
+18'. !zz [* za-an-sur] & !zz [|LAGAB×EŠ|] EŠ & !zz ša-as₃-su-ru₃ : tu-ša₂-ru₃
+#lem: u; u; u; +šassūru[womb]N$; +tušaru[cocoon]N$
+
+#note: @i{CAD} Š/II lists two separate lexemes for @i{šassūru}, which are phonetically related to the complex grapheme's reading /zansur/: (A) "womb, mother goddess" and (B) a designation for an insect. @i{Aa} I/2, 317 is listed under the second meaning. The fact, however, that in our text it is followed by @i{tušaru} (@i{CAD} T, 495 @i{s.v.} @i{tušaru} A), which is used to designate the cocoon of a caterpillar (cf. @i{Ea} I, 86: @i{še-rim-sur} : @akk{|LAGAB×(ŠE.SUM)|} : @i{tušaru ša nappillu}), the first meaning is favored here. 
+
+19'. !zz [...] & !zz [...] & !zz qu-up-pa-tu₄ : tu-um?-šu
+#lem: u; u; +quppu[box]N$quppātu; u
+
+#note: Since the preceding line deals with the semantic field of enclosures (womb, pouch/cocoon), it appears likely to understand @i{quppātu} (or a fem. sg. @i{quppatu}) as "box, cage" (see @i{CAD} Q, 307-310). Although there is no other direct lexical evidence for the logogram LAGAB×EŠ denoting this word, in the short Old Babylonian lexical text @i{UET} 6, 390 we read @akk{KIN.GUR₄} : @i{ka-an-nu-um}, @i{qup-pu-um} (l. 11-12) (i.e., @akk{GUR₄} = @akk{LAGAB}). This, however, might only be a phonetic variant to more common @akk{GI.GUR}. The last signs perhaps @akk{tu-šir₃}? [EJ]
+
+20'. !zz [* tu-ku] & !zz [|LAGAB×EŠ|] EŠ & !zz na-a-šu₂ :# na-pa-šu₂
+#lem: u; u; u; +nâšu[rock//rocking]V'N$; +napāšu[breathe//breathing]V'N$
+
+21'. !zz & !zz & !zz na-ra-ṭu₃ :# re-du#-u
+#lem: +narāṭu[sway//swaying]V'N$narāṭu; +redû[accompany//accompanying]V'N$
+
+#note: Compare @i{Erimhuš} Bogh. E b:9': BUL.[BUL] @i{tu-tu} @i{na}-ra#-[ṭu]. It is noteworthy that the sign DU is used here instead of ṬU. 
+
+22'. !zz & !zz & !zz ra-a-bu :# ra#-i#-bu#
+#lem: +raʾābu[shake//shaking]V'N$; +raʾību[shivering]N$
+
+#note: The first @akk{RA} is written over erasure. 
+
+23'. !zz & !zz & !zz ga-ṣa-ṣu : nu#-uh₂#-hu-ṣu₂#
+#lem: +kaṣāṣu[grind]V'N$gaṣāṣu; +nuhhuṣu[shake//shaking]V'N$
+
+24'. !zz & !zz & !zz ša₂-a-bu : ka#-ta#-tu
+#lem: +šâbu[tremble//trembling]V'N$; +katātu[quiver//quivering]V'N$
+
+#note: The present text adds the G stem @i{katātu}, "to quiver," before @i{šuktutu} that corresponds to @i{Aa} I/2, 326. 
+
+25'. !zz & !zz & !zz šu-uk!-tu-tu
+#lem: +katātu[quiver//quivering]V'N$šuktutu
+
+26'. !zz & !zz & !zz ra-ha-du : ra#-[ta]-tu#
+#lem: +râdu[quake//quaking]V'N$rahādu; +ratātu[tremble//trembling]V'N$
+
+#note: @i{Aa} is here slightly different: It reads in entries 327-328 @i{ra-a-du} and @i{ra-ta-tu}. 
+
+27'. !zz & !zz & !zz ta-ra#-ru₃ : da#-a#-mu#
+#lem: +tarāru[tremble//trembling]V'N$; +daʾāmu[wander about//wandering about]V'N$
+
+#tr.en: "to tremble", "to be giddy"
+
+28'. !zz [ni-in-na] & !zz [|LAGAB×EŠ| EŠ] & !zz ša₂ NIN?# x LAGAB# nu ta# ru?# 
+#lem: X; X; pašāšu[anoint]V; ša[that]REL; ahāti[sister]N; u; X; X; X; X
+
+#note: This and the next two lines must correspond to @i{Aa} I/2, 332-333. The present text, however, appears to provide more equivalents. For the bird of prey called @i{eššebu} in Akkadian see Veldhuis (2004, 272-275). 
+
+29'. !zz & !zz & !zz x i# tam mu u
+#lem: u; i[may]MOD; X; X; u[and]CNJ
+
+
+30'. !zz & !zz & !zz [... : iṣ]-ṣu?#-ur# HUL-tu₄# 
+#lem: u; X; X
+
+
+31'. !zz [gu-kin] & !zz [|LAGAB×KIN| KIN] & !zz [kiš-ša₂-tu :] da?#-ad?#-mu#
+#lem: X; X; Ululu[1]MN; X; dadmū[settlements]N
+
+
+$ n lines broken
+
+
+
+@translation parallel en project
+
+
+
+@label ii' 2'
+[(The complex grapheme) |LAGAB×GUD| read /šurum/] means "excrement".
+
+@label ii' 3' - ii' 5'
+[(The complex grapheme) |LAGAB×GUD&GUD| also means "excrement", and "bedding place", "dung pellet", "dung", "animal stall".
+
+@label ii' 6' - ii' 8'
+[(The complex grapheme) |LAGAB×GUD&GUD| read /u/] means "ewe": (The spelling) la-ah-ru₃ is (its) phonetic pronunciation.
+
+@label ii' 9' - ii' 13'
+[(The complex grapheme) |LAGAB×GUD&GUD| read /lahru/] means "ewe": Lahar, "female sheep" also means "to lie down"
+
+@label ii' 14' - ii' 15'
+[(The complex grapheme) |LAGAB×EŠ| read /pu/] (is said) [regarding] ..., "to transfer" said of grain. 
+
+@label ii' 16'
+[(The complex grapheme) |LAGAB×EŠ| read /bul/] means "to winnow" said of grain.
+
+@label ii' 17'
+[(The complex grapheme) |LAGAB×EŠ| read /bur/] means "..." said of grain.
+
+@label ii' 18' - ii' 19'
+[(The complex grapheme) |LAGAB×EŠ| read /zansur/] means "womb", "cocoon", "cage", "..."
+
+@label ii' 20' - ii' 27'
+[(The complex grapheme) |LAGAB×EŠ| read /tuku/] means "to quake", "to breathe freely", "to tremble", "...", "to quake", "anger", "to grind", "to shake", "to tremble", "to quiver", "to make quiver", ..., "to tremble", "to tremble", "to be giddy".
+

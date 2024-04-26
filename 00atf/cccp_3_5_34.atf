@@ -1,0 +1,102 @@
+&P461192 = CCP 3.5.34 (http://ccp.yale.edu/P461192) = BM 40749
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz {d}NIN.KILIM : !bs ner-tu₄ !cm : hi-ṭu
+#lem: šikkâ[mongoose]N; nērtu[murder]N; hīṭu[penalty]N
+
+2. !cm ša₂-niš da-a-ku
+#lem: šanîš[alternatively]AV; dâku[killing]'N
+
+3. !bs ih-ta-na-ru-ur !cm : ir-ta-na-kab
+#lem: +arāru[be convulsed]V$ihtanarur; irtanakkab[mount]V
+
+4. !bs {d}NIN.KILIM.BAR.BAR !cm : ta-ar-pa-šu₂
+#lem: +tarpašu[otter]N$; +tarpašu[otter]N$
+
+5. !bs ra-pa-gu !cm : mut-tap-ri-šu₂
+#lem: X; +muttaprišu[winged]AJ$
+
+#note: The reading of the first word seems clear, but its meaning is uncertain.
+6. !bs NA BI EZEN ša₂-niš : UG₅ lu-u
+#lem: amēla[man]N; šu[that]IP; u; šanîš[alternatively]AV; +mâtu[die]V$imât; lū[may]MOD
+
+7. !bs UG₅.GA !cm : mi-i-tu₂
+#lem: +mītu[dead]AJ$; +mītu[dead]AJ$
+
+8. !bs ih-ta-na#-ru#-ur# !cm : ša₂ ta-EZEN? ib-bu-u₂#
+#lem: ihtanarur[be convulsed]V; ša[of]DET; X; +nabû[name]V$ibbû
+
+$ rest of obverse broken
+
+@reverse
+
+$ beginning of reverse broken
+
+1'. !zz [x x (x)] x x [x x (x)]
+#lem: u; u; u; u; u; u; u; u
+
+2'. !zz x#-šu#-ku : maš-x? : x# [x x (x)]
+#lem: u; u; u; u; u; u
+
+3'. !bs u₂-ta-aš₂#-ša₂#-ab !cm : ut-tan-na-ah?#
+#lem: X; X
+
+#note: The decipherment of lines 3′-4′ remains uncertain.
+4'. !bs u₂-ta-sa-ab !cm : sa-a-[x x x] x
+#lem: X; u; u; u; u
+
+5'. !bs KU₁₀.KU₁₀ !cm <:> la-ra-a ir-ši
+#lem: X; larâ[bifurcation]N; irši[develop]V
+
+6'. !bs KU₁₀.KU₁₀ !cm : {d}ŠE.NAGA x x UD
+#lem: X; +Nissaba[]DN$; u; u; X
+
+$rest of reverse blank
+
+@translation parallel en project
+
+@label o 1 - o 2
+
+(From the tablet) “If a mongoose” (= @i{Šumma Ālu} 34 1) “Murder” (= @i{Šumma Ālu} 34 2) means “crime”; alternatively, it means “to kill.”
+
+@label o 3
+
+“He continually trembles” (= @i{Šumma Ālu} 34 unknown) means “he continually pushes forward.”
+
+@label o 4
+
+NIN.KILIM.BAR.BAR (= @i{Šumma Ālu} 34 29-32) means “otter.”
+
+@label o 5
+
+The word @i{rapāgu} (= @i{Šumma Ālu} 34 unknown) means “winged.”
+
+@label o 6 - o 7
+
+“That man will EZEN, alternatively, UG₅ or UG₅.GA” (= @i{Šumma Ālu} 34 unknown) means “dead.”
+
+@label o 8
+
+“He continually trembles” (= @i{Šumma Ālu} 34 unknown) refers to (the man) who is called ...
+
+@label r 1' - r 2'
+
+...
+
+@label r 3'
+
+“@i{utaššab}” means “@i{uttannaḫ}.”
+
+@label r 4'
+
+“@i{ú-ta-sa-ab}” means ... [...].
+
+@label r 5' - r 6'
+
+KU₁₀.KU₁₀ <means> “@i{it has twigs}”; KU₁₀.KU₁₀ means “Nissaba ...”

@@ -1,0 +1,260 @@
+&P370904 = CCP 3.8.1.A (http://ccp.yale.edu/P370904) = K.98
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+$ beginning missing
+
+1'. !bs DAM-su ana E₂-šu₂ KU₄{+ib} & !bs BARA₂# [(x x x x x x)] APIN# GAN# ZIZ₂# ŠE# & !bs ŠE#
+#lem: aššassu[wife]N; ana[into]PRP; bītišu[household]N; +erēbu[enter]V$ušērib; Nisannu[1]MN; u; u; u; u; u; u; Arahsamnu[1]MN; Kislimu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; +magru[favorable]AJ$magrū
+
+#tr.en: “(If) he introduces his wife in his house” (= @i{Iqqur īpuš} §62): (During the months of) Nisannu (I), […], Araḫsamna (VIII), Kislīmu (IX), Šabāṭu (XI), and Addaru (XII), it is favorable.
+2'. !bs LU₂.TUR U₃.TU & !bs GU₄ SIG₄ NE APIN ZIZ₂ ŠE & !bs ŠE
+#lem: +šerru[(young) child]N$; ūlid[give birth (to)]V; Ayyaru[]MN; Simanu[1]MN; Abu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) a baby is born” (= @i{Iqqur īpuš} §64): (During the months of) Ayyāru (II), Simānu (III), Abu (V), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+3'. !bs še-gu-u is-si & !bs BARA₂ GU₄ SIG₄ NE DU₆ APIN ZIZ₂ ŠE & !bs ŠE
+#lem: +šigû[(a cry of lamentation)]N$šegû; issi[cry out]V; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Abu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he recites a lamentation” (= @i{Iqqur īpuš} §34): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Abu (V), Tašrītu (VII), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+4'. !bs TUG₂-su DADAG & !bs BARA₂ GU₄ SIG₄ NE DU₆ APIN ZIZ₂ ŠE & !bs ŠE
+#lem: ṣubāssu[garment]N; +ebēbu[be(come) bright]V$ībib; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Abu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he cleans his garment” (= @i{Iqqur īpuš} §35): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Abu (V), Tašrītu (VII), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+5'. !bs PAD-su ana DINGIR-šu₂ GAR{+un} & !bs BARA₂ GU₄ SIG₄ ŠU NE KIN DU₆ APIN GAN ZIZ₂ ŠE & !bs ŠE
+#lem: +kurummatu[food allocation]N$kurumassu; ana[according to]PRP; ilišu[god]N; iškun[undergo]V; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Duʾuzu[1]MN; Abu[1]MN; Ululu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Kislimu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he presents his food to his god” (= @i{Iqqur īpuš} §36): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Duʾūzu (IV), Abu (V), Elūlu (VI), Tašrītu (VII), Araḫsamna (VIII), Kislīmu (IX), Šabāṭu (XI), and Addaru (XII), it is favorable.
+6'. !bs GARZA TI{+qi₂} & !bs BARA₂ GU₄ SIG₄ DU₆ ZIZ₂ ŠE & !bs ŠE
+#lem: parṣī[rite]N; +leqû[take]V$ilqi; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Tašritu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he takes an office” (= @i{Iqqur īpuš} §38): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Tašrītu (VII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+7'. !bs NINDA SUM{+in} & !bs BARA₂ GU₄ SIG₄ DU₆ ZIZ₂ ŠE & !bs ŠE
+#lem: akala[bread]N; +nadānu[give]V$iddin; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Tašritu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he gives bread” (= @i{Iqqur īpuš} §37): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Tašrītu (VII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+8'. !bs BARA₂ GIBIL{+iš} & !bs BARA₂ GU₄ SIG₄ KIN ZIZ₂ ŠE & !bs ŠE
+#lem: +parakku[cult dais]N$parakka; +edēšu[be(come) new//renovate]V'V$uddiš; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Ululu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he renovates a sanctuary”(= @i{Iqqur īpuš} §29): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Elūlu (VI), Šabāṭu (XI), and Addaru (XII), it is favorable.
+9'. !bs lu KUN.SAG.GA₂ lu UB.LIL₂.LA₂ lu BARA₂ lu BARA₂.SI.GA lu IM.DU₃.A DU₃{+uš} & !bs ZIZ₂ ŠE & !bs ŠE
+#lem: lū[or]CNJ; +muhru[appeal]N$muhra; lū[or]CNJ; ibrata[(outdoor) cult niche]N; lū[or]CNJ; parakka[cult dais]N; lū[or]CNJ; barasiggâ[small shrine]N; lū[or]CNJ; pitiqta[mud wall]N; +epēšu[do]V$īpuš; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he builds either a sanctuary or a chapel or an altar or a small shrine or a platform” (= @i{Iqqur īpuš} §30): (During the months of) Šabāṭu (XI) and Addaru (XII), it is favorable.
+10'. !bs DINGIR-šu₂ lu DINGIR šul-pu-tu₂ ud-diš & !bs BARA₂ GU₄ SIG₄ KIN DU₆ APIN ZIZ₂ ŠE & !bs ŠE
+#lem: ilišu[god]N; lū[or]CNJ; ila[god]N; šulputu[defiled]AJ; uddiš[renew]V; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Ululu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he renovates either his god or a defiled god”(= @i{Iqqur īpuš} §31): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Elūlu (VI), Tašrītu (VII), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+11'. !bs KI.MAH DU₃{+uš} & !bs ŠU AB ZIZ₂ ŠE & !bs ŠE
+#lem: kimahhi[grave]N; īpuš[do]V; Duʾuzu[]MN; Ṭebetu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he builds a grave” (= @i{Iqqur īpuš} §41): (During the months of) Duʾūzu (IV), Ṭebētu (X), Šabāṭu (XI), and Addaru (XII), it is favorable.
+12'. !bs PU₂ BAD{+te} & !bs SIG₄ NE DU₆ APIN ZIZ₂ ŠE & !bs ŠE
+#lem: būri[well]N; +petû[open]V$ipte; Simanu[1]MN; Abu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he opens a well” (= @i{Iqqur īpuš} §43): (During the months of) Simānu (III), Abu (V), Tašrītu (VII), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+13'. !bs KI.NE ŠUB{+di} & !bs BARA₂ GU₄ KIN DU₆ APIN ZIZ₂ ŠE & !bs ŠE
+#lem: kinūni[brazier]N; iddi[utter]V; Nisannu[1]MN; Ayyaru[]MN; Ululu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he lays a hearth” (= @i{Iqqur īpuš} §44a): (During the months of)  Nisannu (I), Ayyāru (II), Elūlu (VI), Tašrītu (VII), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+14'. !bs DUG A.GEŠTIN.NA GAR{+un} & !bs NE ZIZ₂ ŠE & !bs ŠE
+#lem: karpāt[pot]N; ṭābāti[vinegar]N; iškun[undergo]V; Abu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he sets up a vinegar jar” (= @i{Iqqur īpuš} §44b): (During the months of) Abu (V), Šabāṭu (XI), and Addaru (XII), it is favorable.
+15'. !bs {giš}KIRI₆ iz-qup & !bs BARA₂ GU₄ SIG₄ NE KIN DU₆ APIN GAN AB ZIZ₂ ŠE & !bs ŠE
+#lem: kiri[garden]N; izqup[fix upright]V; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Abu[1]MN; Ululu[1]MN; Tašritu[1]MN; Arahsamnu[1]MN; Kislimu[1]MN; Ṭebetu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he plants a grove” (= @i{Iqqur īpuš} §45): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Abu (V), Elūlu (VI), Tašrītu (VII), Araḫsamna (VIII), Kislīmu (IX), Ṭebētu (X), Šabāṭu (XI), and Addaru (XII), it is favorable.
+16'. !bs {giš}KIRI₆ {giš}GIŠIMMAR iz-qup & !bs BARA₂ GU₄ SIG₄ ŠU KIN DU₆ ZIZ₂ ŠE & !bs ŠE
+#lem: kiri[garden]N; gišimmari[date palm]N; izqup[fix upright]V; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Duʾuzu[]MN; Ululu[1]MN; Tašritu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he plants a palm grove” (= @i{Iqqur īpuš} §46): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Duʾūzu (IV), Elūlu (VI), Tašrītu (VII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+17'. !bs {giš}KIRI₆ GIBIL{+iš} & !bs BARA₂ GU₄ SIG₄ ŠU KIN APIN GAN ZIZ₂ ŠE & !bs ŠE
+#lem: kiri[garden]N; uddiš[renovate]V; Nisannu[1]MN; Ayyaru[]MN; Simanu[1]MN; Duʾuzu[]MN; Ululu[1]MN; Arahsamnu[1]MN; Kislimu[1]MN; Šabaṭu[1]MN; Addaru[1]MN; magrū[favorable]AJ
+
+#tr.en: “(If) he renovates a garden” (= @i{Iqqur īpuš} §48): (During the months of) Nisannu (I), Ayyāru (II), Simānu (III), Duʾūzu (IV), KIN = Elūlu (VI), APIN = Araḫsamna (VIII), GAN = Kislīmu (IX), Šabāṭu (XI), and Addaru (XII), it is favorable.
+18'. !bs {giš}KIRI₆ ud-diš & !bs GU₄ SIG₄ KIN APIN ZIZ₂ ŠE & !bs ŠE
+#lem: kiri[garden]N; uddiš[renew]V; Ayyaru[]MN; Simanu[1]MN; Ululu[1]MN; Arahsamnu[1]MN; Šabaṭu[1]MN; Addaru[1]MN;  magrū[favorable]AJ
+
+#tr.en: “(If) he renovates a garden” (= @i{Iqqur īpuš} §49): (During the months of) Ayyāru (II), Simānu (III), Elūlu (VI), Araḫsamna (VIII), Šabāṭu (XI), and Addaru (XII), it is favorable.
+
+$(end of obverse)
+
+@reverse
+
+@column 1
+
+1. !bs {iti}BARA₂ 1 4.1/2 6.1/2 8 10 11 14 16 23.1/2 ŠE
+#lem: Nisannu[1]MN; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Nisannu (I): 1 4½ 6½ 8 10 11 14 16 23½ are favorable.
+$single ruling
+2. !bs {iti}GU₄ 2 6 8 10 12 15 16 18 20 22 24 26 28 29 30 ŠE
+#lem: Ayyaru[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Ayyāru (II): 2 6 8 10 12 15 16 18 20 22 24 26 28 29 30 are favorable.
+$single ruling
+3. !bs {iti}SIG₄ 3 5 9 11 12 13 15 16 22 24 27 30 ŠE
+#lem: Simanu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Simānu (III): 3 5 9 11 12 13 15 16 22 24 27 30 are favorable.
+$single ruling
+4. !bs {iti}ŠU 3 7 11 13 17 19 21 22 26 27 28 29 ŠE
+#lem: Duʾuzu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Duʾūzu (IV): 3 7 11 13 17 19 21 22 26 27 28 29 are favorable.
+$single ruling
+5. !bs {iti}NE 1 2 6.1/2 10 12 15 16 ŠE
+#lem: Abu[1]MN; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Abu (V): 1 2 6½ 1O 12 15 16 are favorable.
+$single ruling
+6. !bs {iti}KIN 1 2 3 5 7 9 11 14 15 17 19 22 27 29 ŠE
+#lem: Ululu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n
+
+#tr.en: (Favorable days in the month) Elūlu (VI): 1 2 3 5 7 9 11 14 15 17 19 22 27 29 are favorable.
+$single ruling
+7. !bs {iti}DU₆ 1 4 6 7 8.1/2 9 11 13.1/2 14 17 19 21 22 23 26 28 29 ŠE
+#lem: Tašritu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Tašrītu (VII): 1 4 6 7 8½ 9 11 13½ 14 17 19 21 22 23 26 28 29 are favorable.
+$single ruling
+8. !bs {iti}APIN 2 6 7 9 11 13 15# 17 19 20 22 24 26 28 30 ŠE
+#lem: Arahsamnu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Araḫsamna (VIII): 2 6 7 9 11 13 ⸢15⸣ 17 19 20 22 24 26 28 30 are favorable.
+$single ruling
+9. !bs {iti}GAN 1 5 9 11 13 16 18# 21 23 25 29 30 ŠE
+#lem: Kislimu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Kislīmu (IX): 1 5 9 11 13 16 ⸢18⸣ 21 23 25 29 30 are favorable.
+$single ruling
+10. !bs {iti}AB 7 11.1/2 13 14 17.1/2 21# 22 23 24.1/2 25 26 27.1/2 28 29 ŠE
+#lem: Ṭebetu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Ṭebētu (X): 7 11½ 13 14 17½ ⸢21⸣ 22 23 24½ 25 26 27½ 28 29 are favorable.
+$single ruling
+11. !bs {iti}ZIZ₂ 1 7 10.1/2 11 14 17 19 21# 22 23 25 26 28 29.1/2 ŠE
+#lem: Šabaṭu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Šabāṭu (XI): 1 7 10½ 11 14 17 19 ⸢21⸣ 22 23 25 26 28 29½ are favorable.
+$single ruling
+12. !bs {iti}ŠE 1 2 4 5 6 8 9 12 13 14#/15# 16 20 22 24 25 27 30 ŠE
+#lem: Addaru[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Addaru (XII): 1 2 4 5 6 8 9 12 13 ⸢14/15⸣ 16 20 22 24 25 27 30 are favorable.
+$single ruling
+13. !bs * E₂ DU₃{+uš} !cm ša₂ {giš#}IG i-zaq-qa-pu
+#lem: bīta[house]N; īpuš[do]V; ša[that]REL; dalti[door]N; izaqqapu[fix upright]V
+
+#tr.en: “If he builds a house” (= @i{Iqqur īpuš} §5) (refers to the man) who erects a door.
+$single ruling
+14. !bs * E₂ iq-qur !cm ša₂ SUMUN# KUR₂#-ma GIBIL ip-pu-šu
+#lem: bīta[house]N; iqqur[demolish]V; ša[of]DET; labirtu[old]AJ; inakkirū-ma[be(come) different]V; eššetu[new]AJ; +epēšu[do]V$ippušu
+
+#tr.en: “If he tears down a house” (= @i{Iqqur īpuš} §7) (refers to the man) who removes an old (house) and builds a new one.
+$single ruling
+15. !bs * E₂ iṣ-ṣi !cm ša₂ si-i-ri i-hal-la-šu
+#lem: bīt[house]N; +naṣû[tear down]V$iṣṣi; ša[of]DET; sīri[(wall-)plaster]N; +halāšu[scrape off]V$ihallašu
+
+#tr.en: “If he diminishes a house” (= @i{Iqqur īpuš} §8) (refers to the man) who scrapes off the wall-plaster.
+$single ruling
+16. !bs * E₂ is-suh !cm ša₂ lib₃-bi E₂ u₂-šap-pa-lu
+#lem: bīta[house]N; issuh[clear out]V; ša[of]DET; libbi[concern]N; bīti[house]N; +šapālu[be(come) deep]V$ušappalu
+
+#tr.en: “If he tears out a house” (= @i{Iqqur īpuš} §9) (refers to the man) who digs deep the interior of the house.
+$single ruling
+17. !bs [* E₂-su] KUR₂#{+ir#} !cm ša₂# la#-pa#-an# GISKIM# E₃#-ma ana E₂-šu₂ MAN-ma ir-ru-bu
+#lem: bīssu[household]N; inakkir[change]V; ša[of]DET; lapān[from before]PRP; itti[sign]N; uṣṣima[leave]V; ana[according to]PRP; bītišu[household]N; šanûmma[(an)other]AJ; irrubu[enter]V
+
+#tr.en: [“(If) he] changes [his house]” (= @i{Iqqur īpuš} §11) (refers to the man) who, fleeing bad omens, leaves (his house) and enters another house of his.
+18. !bs [* ana E₂ ša₂-nim-ma KUR₂{+ir}-ma i-hi-iṭ !cm ša₂ ana E₂]-šu₂# ša₂#-nim#-ma it-ti-qu
+#lem: ana[into]PRP; bīt[house]N; šanîmma[(an)other]AJ; inakkir-ma[be(come) different]V; ihīṭ[supervise]V; ša[which]REL; ana[for]PRP; bītišu[household]N; šanîmma[(an)other]AJ; ittiqu[go past]V
+
+#tr.en: [“If he changes into another house of his and inspect it” (= @i{Iqqur īpuš} §13)] (refers to the man) who crosses over [into another house o]f his.
+19. !bs [* ... !cm i]-leq#-qu#-u
+#lem: u; +leqû[take]V$ileqqû
+
+#tr.en: [… refers to the man) who] takes […].
+
+$(the rest of column i (18 lines) is missing)
+@column 2
+
+1. !zz U₄-MEŠ DUG₃.GA-MEŠ
+#lem: ūmē[day]N; ṭābūtu[good]N
+
+#tr.en: Favorable days,
+2. !zz ša₂ ana DU₃{+eš} A₂.AŠ₂
+#lem: ša[which]REL; ana[for]PRP; epēš[building]'N; ṣibûti[wish]N
+
+#tr.en: which to accomplish any plan,
+3. !zz u₃ LU₂ mim-ma
+#lem: u[and]CNJ; amēla[man]N; mimma[anything]XP
+
+#tr.en: and for a person
+4. !zz A₂.AŠ₂-su
+#lem: +ṣibûtu[wish]N$ṣibûssu
+
+#tr.en: to achieve
+5. !zz KUR{+ad₂} DUG₃.GA-MEŠ
+#lem: ikaššad[reach]V; ṭābūtu[good]N
+
+#tr.en: any goal are good.
+6. !zz a-di 25 MU-MEŠ
+#lem: adi[until]PRP; n; šanāti[year]N
+
+#tr.en: Together with twenty-five lines
+7. !zz mu-kal-lim-ti-šu₂
+#lem: +mukallimtu[scholarly commentary]N$mukallimtīšu
+
+#tr.en: extracted
+8. !zz nis-hu
+#lem: nishu[excerpt]N
+
+#tr.en: from its @i{mukallimtu}-commentary.
+9. !zz lib₃-bi * iq-qur DU₃{+uš}
+#lem: libbi[interior]N; iqqur[demolish]V; īpuš[do]V
+
+#tr.en: From (the series) “(If) he demolishes, (if) he builds” (@i{Iqqur īpuš}),
+10. !zz ki-i KA DUB-MEŠ
+#lem: kī[as]PRP; pî[mouth]N; +ṭuppu[(clay) tablet]N$ṭuppī
+
+#tr.en: According to the wording
+11. !zz man-du-u₂-ti
+#lem: +mādu[many]AJ$mandūti
+
+#tr.en: of many tablets of
+12. !zz * URU ina SUKUD{+e} GAR{+in}
+#lem: āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+#tr.en: (the series) “If a city is placed on a height” (@i{Šumma Ālu ina mēlê šakin}),
+13. !zz iq-qur DU₃{+uš}
+#lem: iqqur[demolish]V; īpuš[do]V
+
+#tr.en: (the series) “(If) he demolishes, (if) he builds” (@i{Iqqur īpuš}),
+14. !zz u₃ AB.ŠE.GE.DA
+#lem: u[and]CNJ; +abšegeda[Almanac]N$
+
+#tr.en: and “It is favorable” (@i{Babylonian Almanac}, @i{abšegeda}).
+15. !zz GABA.RI TIN.TIR{ki}
+#lem: gabari[duplicate]N; Babilu[Babylon]SN
+
+#tr.en: Originals from Babylon,
+16. !zz ša₂ {m}{d}AG-zu-qup-GIN
+#lem: ša[of]DET; +Nabu-zuqup-kena[]PN$
+
+#tr.en: which Nabû-zuqup-kēnu
+17. !zz {lu₂}DUB.SAR
+#lem: ṭupšarri[scribe]N
+
+#tr.en: the scribe,
+18. !zz [ana IGI].DU₈?#.[A?]{+ti#}
+#lem: ana[according to]PRP; +tāmartu[view(ing)]N$tāmarti
+
+#tr.en: [for the re]ading […]
+
+$ rest of column missing

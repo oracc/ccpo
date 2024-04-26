@@ -1,0 +1,37 @@
+&P461243 = CCP 6.1.14 (http://ccp.yale.edu/P461243) = BM 48659
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+
+@tablet
+
+1'. !zz [...] & !bs AN !zz x# [...]
+#lem: u; u; u; u
+
+2'. ($___$) & !cm i-ta-ku lu !zz [...]
+#lem: X; lū[or]CNJ; u
+
+3'. !bs [na]-ab# & NAB !cm :# na-a-bu !zz [...]
+#lem: X; X; +nābu[deity]N$; u
+
+#note: The form of NAB is archaizing.
+4'. ($___$) & !cm aš-šum {d}NA₃ !zz [...]
+#lem: aššum[because of]'PRP; Nabu[1]DN; u
+
+5'. !bs [mu-lu] & MUL.DINGIR# !cm : za#-[ap-pu !zz ...]
+#lem: X; X; +zappu[tuft of hair//Pleiades]N'N$; u
+
+@translation labeled en project
+
+@label 1' - 2'
+
+The sign AN, [read ...], means [...] ...
+
+@label 3' - 4'
+
+The sign NAB, read /nab/ (= @i{Aa} 14 ii 19) means “god” (in Elamite, @i{nābu}) [...], on account of the god Nabû [...].
+
+@label 5'
+
+The sign MUL.DINGIR, [read /mul/,] means "Pleiades," [...]

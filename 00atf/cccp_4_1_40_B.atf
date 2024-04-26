@@ -1,0 +1,59 @@
+&P348463 = 4.1.40.B (http://ccp.yale.edu/P348463) = W 22307/73
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+$ obverse broken
+
+@reverse
+$ start of reverse broken
+1'. !zz [...] x x [...]
+#lem: u; u; u; u
+
+2'. !zz [...] NINDA# u A-MEŠ la [...]
+#lem: u; akala[bread]N; u[and]CNJ; mê[water]N; u; u
+
+3'. !zz [...] x na-piš KIR₄-šu₂ x [...]
+#lem: u; u; napiš[breath]N; appišu[nose]N; u; u
+
+4'. !zz [... !bs mi?]-iq?-ti ŠU DINGIR.RA# !zz [...]
+#lem: u; X; qāt[hand]N; ili[god]N; u
+
+5'. !zz [...] $TU : !bs IGI-MEŠ-šu₂ mah-ha !zz : x x x [...]
+#lem: u; u; īnūšu[eye]N; +mahhu[soaked//swollen]AJ$mahhā; u; u; u; u
+
+6'. !cm [...]-x-(x)-mat# !cm ša₂ IGI-MIN : !bs e-sir₂ !cm : e-si-ir# !zz [...]
+#lem: u; ša[of]DET; īnī[eye]N; +esru[confined//blocked]AJ'AJ$esir; +esru[confined//blocked]AJ'AJ$esir; u
+
+7'. !zz [...]-ni# !cm UBUR# GAL{+ta} : !bs ra-ʾi-i-bu# !zz x [...]
+#lem: u; +tulû[breast]N$tulâ; rabīta[large]AJ; +raʾību[shivering]N$; u; u
+
+#note: “Large breast” is very unlikely, insamuch as @i{tulû}, “breast,” is masculine.
+$ double ruling
+8'. !zz [...] ... [...]
+#lem: u; u; u
+
+$ end of reverse broken
+
+
+@translation parallel en project
+
+@obverse
+$ obverse broken
+
+@reverse
+$ start of reverse broken
+1'. [...] ... [...]
+2'. [...] bread and water ... [...]
+3'. [...] ... the breath of his nose ... [...]
+4'. [... @i{att}]@i{ack}, hand of a god (= @i{Sagig} 40 110) [...]
+5'. [...] ... “His eyes are swollen” (= @i{Sagig} 40 111) means ... [...]
+6'. [...] ... said of the eyes. “Confined” (@i{e-sír}) (= @i{Sagig} 40 114) (is to be read) as @i{e-si-ir} [...]
+7'. [... (= @i{Sagig} 40 119 (?)) means] ... @i{large breast}. “Shivering” (= @i{Sagig} 40 122) means [...]
+$ double ruling
+8'. [...] ... [...]
+
+$ end of reverse broken

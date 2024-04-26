@@ -1,0 +1,78 @@
+&P369034 = CCP 3.5.u3 (http://ccp.yale.edu/P369034) = VAT 8282
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [*] NA ina tal₂-lak-te A-MEŠ TU₅ ul ul-tab-bar
+#lem: amēlu[man]N; ina[in]PRP; +tallaktu[walkway]N$tallakte; mê[water]N; irmuk[bathe in]V; ul[not]MOD; ultabbar[live long]V
+
+2. ($___$) !cm ša₂ ina UGU as-kup-pa-ti A-MEŠ i-ra-muk
+#lem: ša[that]REL; ina[in]PRP; muhhi[top]N; +askuppu[(threshold) slab]N$askuppāti; mê[water]N; +ramāku[bathe]V$irammuk
+
+3. !bs * ina li-la-a-te MIN<(A-MEŠ TU₅)> ul i-šar₂-ru₃
+#lem: ina[in]PRP; +līliātu[evening]N$līlâte; mê[water]N; irmuk[bathe in]V; ul[not]MOD; išarru[be(come) rich]V
+
+
+4. ($___$) !cm li-la-a-te ka-ṣe u₄-me
+#lem: +līliātu[evening]N$līlâte; +kaṣû[be(come) cold//be(com)ing cold]V'N$kaṣê; ūme[day]N
+
+5. !bs * ina EN.NUN.AN.USAN₂ MIN<(A-MEŠ TU₅)> ŠU-MIN-šu₂ GIR₃-MIN-šu₂ i-qal-li-la
+#lem: ina[during]PRP; barārīti[evening watch]N; mê[water]N; irmuk[bathe in]V; qātāšu[hand]N; šēpāšu[foot]N; +qalālu[be(come) light]V$iqallila
+
+#note: @akk{GIR₃-MIN-šu₂} is inadvertently omitted in Farber’s edition. 
+
+#NV changed qātīšu to qātāšu and šēpīšu to šēpāšu in accordance with line 6
+
+6. ($___$) !cm ŠU-MIN-šu₂ GIR₃-MIN-šu₂ i-qal-li-[la] aš₂-šu₂ UKU₂ šu₂-u
+#lem: qātāšu[hand]N; šēpāšu[foot]N; iqallila[be(come) light]V; aššu[concerning]'PRP; +lapānu[be(come) poor//be(com)ing poor]V'N$lapāni; šū[that]IP
+
+#note: Ebeling’s collation apud Farber @i{OrNS} 58 (1989) pp. 91 fn. 13 shows a @akk{LA} preserved after @akk{LI}, which is missing in his copy. Collation of the original reveals that the @akk{la} has been erased.
+
+7. !bs * ina A₂.GU₂.ZI.GA MIN<(A-MEŠ TU₅)> {{ul}} i-pa-šah !cm ina še-ri
+#lem: ina[in]PRP; šēri[morning]N; mê[water]N; irmuk[bathe in]V; ul[not]MOD; ipaššah[calm down]V; ina[in]PRP; šēri[morning]N
+
+#note: A small gloss beneath the line inserts @akk{ul}, "not," thus reversing the prognosis. Since the gloss is written right under the @akk{MIN}, the commentator implies perhaps that the repetition marked by @akk{MIN} includes also the @akk{ul} of the first line. 
+
+8. !bs * ina E₂ ŠEN* MIN<(A-MEŠ TU₅)> ina* MU BI UŠ₂
+#lem: ina[in]PRP; bīt[house]N; +ruqqu[cauldron]N$ruqqi; mê[water]N; irmuk[bathe in]V; ina[in]PRP; šatti[year]N; šī[that]IP; +mâtu[die]V$imât
+
+#note: The reading of the sign copied as URU×A as @akk{ŠEN}, suggested in @i{CAD} R 420a, is now confirmed by collaction. The base text contains @akk{E₂ KUN₄}, “staircase” (cf. Farber @i{OrNS} 58 (1989) pp. 98 ad 25).
+
+9. ($___$) !cm ina šid-di qa-ra-a-te [(x)]
+#lem: ina[from]PRP; šiddi[side]N; +qarītu[grain-store]N$qarâte; u
+
+@reverse
+
+10. !zz * x# x# li?# x# x# x# x# [x]
+
+$ rest of reverse missing
+
+@translation labeled en project
+
+@label o 1 - o 2
+
+“If a man takes a bath in an access way, he will not grow old” (= @i{Ālu aḫû} 43 l. 1) (refers to the man) who takes a bath on a threshold.
+
+@label o 3 - o 4
+
+In “If ditto in the evening, he will not become rich” (= @i{Ālu aḫû} 43 l. 2), “evening” means cool of the day.
+
+@label o 5 - o 6
+
+In “If ditto at dusk, his hands and feet will become weak” (= @i{Ālu aḫû} 43 l. 4), “his hands and feet will become weak” is said in reference to “becoming poor.”
+
+@label o 7
+
+In “If ditto in the morning, he will (gloss: ‘not’) become tranquil” (= @i{Ālu aḫû} 43 l. 7), (@i{ina} Á.GÚ.ZI.GA) means “in the morning.”
+
+@label o 8 - o 9
+
+In “If ditto in the ‘house of the cauldron,’ he will die within that year” (= @i{Ālu aḫû} 43 l. 25) ("in house of the cauldron") means (the building) at the side of the storehouses.
+
+@label r 10
+
+...

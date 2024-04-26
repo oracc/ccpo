@@ -1,0 +1,49 @@
+&P461290 = CCP 4.2.AA (http://ccp.yale.edu/P461290) = BM 76695 P461290
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz x# x# x# [x x] x# x#-ri# x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u
+
+2'. !zz e#-ši#-x# ud#-x# x# x# šu#-bi# x# x# x# [...]
+#lem: u; u; u; u; X; u; u; u; u
+
+@reverse
+
+1. !bs hi#-ša₂-ti !cm : ana ha-a-šu₂ : a-lak : !bs i-dil KA !cm : ana e-de-lu !zz [...]
+#lem: hiššati[swelling]N; ana[to]PRP; hâšu[hastening]'N; alāk[going]'N; +edlu[shut]AJ$idil; pî[accordance]N; ana[to]PRP; +edēlu[shut//shutting]V'N$; u
+
+#note: The first word may also be parsed as @akk{hi-niq₂-ti} (i.e. @i{ḫiniqti}, a term common in medical texts), and hence the commentary may be interpreted as either a fanciful explanation or an erroneous parsing of the word.
+2. !cm {lu₂#}ŠA₃.TAM{+mu} : !bs pak-kar-ra KA !cm : pi-ki-ir KA !zz : ši-x#-[...]
+#lem: +šatammu[administrator]N$; u; pî[accordance]N; +pikru[bound]AJ$pikir; pî[accordance]N; u
+
+#note: The functionary @i{šatammu} appears occasionally in extispicy texts (see CAD Š/2 187b). Both @i{pakkara} KA and @i{pikir} KA are uncertain. They may derive from the verb @i{pakāru}, "to bind."
+3. !bs [{giš}]{+šu#-gi-in}SUGIN !cm : ha-ah-hu : !bs e-ṭir-ma !cm : KAR : e#-[ke-mu !zz ...]
+#lem: +hahhu[plum]N$; +hahhu[plum]N$; +eṭru[taken away]AJ$eṭir-ma; +eṭēru[take away//taking away]V'N$; +ekēmu[take away//taking away]V'N$; u
+
+#note: The reading of the first word is tentative: Compare Diri II 314 giš.sugin /su-gi-in/ : GIŠ.BAD @i{suginnu}, @i{nutāpu}, @i{iṣu labīru}.
+4. !bs [lu?-u₂?] ina# {giš}PA !cm : lu-u₂ ina ṣi-ib-te-e#-[ti !zz ...]
+#lem: lū[may]MOD; ina[in]PRP; +haṭṭu[stick]N$haṭṭi; lū[may]MOD; ina[in]PRP; +ṣibtātu[fetters]N$ṣibtēti; u
+
+5. !zz [x x (x)] x lu-u# x#-[...]
+#lem: u; u; u; u; lū[may]MOD; u
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+2'. ...
+
+@reverse
+
+1. "Swelling" (@i{ḫiššatu}) stems from "to hurry" (@i{ḫâšu}), which means "to go." "The mouth is closed" derives from "to close" [...].
+2. [... means] "administrator." ... mouth means ... mouth, [...],
+3. giš.SUGIN means "plum tree." In "He is deprived" (@i{eṭir-ma}), (the logogram) KAR means "to be dep[rived" ...]
+4. ["@i{Or}] with a stick" means "or with fetters" [...]
+5. [...] or [...]

@@ -1,0 +1,45 @@
+&P404538 = CCP 3.6.2.D (http://ccp.yale.edu/P404538) = K.19755
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !bs [ba-ma-a-tu₄] & !cm ku#-tal-lu#
+#lem: +bāmtu[half]N$bāmātu; +kutallu[back]N$
+
+#note: Restored with the @i{Principal Commentary} l. 196. On the rationale behind the explanation, see de Zorzi @i{Šumma Izbu} (2014) p. 500.
+2'. !bs [ta-kal-tu₂] & !cm ga-bi-du#
+#lem: tākaltu[(meaning unknown)]N; gabīdu[liver]N
+
+#note: Restored with the @i{Principal Commentary} l. 203.
+3'. !bs [ta-kal-tu₂] & !cm lib₃-bi#
+#lem: tākaltu[(meaning unknown)]N; libbi[interior]N
+
+#note: Restored with the @i{Principal Commentary} l. 202.
+4'. !bs [li-ṭi-iš] & !cm maš-ka-nu
+#lem: +līṭiš[as a hostage]AV$; maškanu[chain]N
+
+#note: Restored with the @i{Principal Commentary} l. 177. On the rationale behind the explanation, see de Zorzi @i{Šumma Izbu} (2014) p. 498.
+5'. !bs [bi-ib-bu] & !cm {d}U.GUR
+#lem: bibbu[(a designation of plague)]N; Nergal[1]DN
+
+#note: Restored with the @i{Principal Commentary} l. 206.
+6'. !bs [...]-x# & !cm nam-maš-šu-u
+#lem: u; +nammaštû[moving things]N$
+
+#note: The entry probably comments on @i{Šumma Izbu} V 114. Compare the entry in the @i{Principal Commentary}, l. 211, TÙR KUR : @i{būlu} (the traces on the left hand column would fit TÙR, but not KUR).
+7'. !bs [ip-pi-ru₃] & !cm bu*#-bu*#-tu₄*#
+#lem: +ippīru[conflict]N$; bubūtu[hunger]N
+
+#note: Restored with the @i{Principal Commentary} l. 208.
+
+@translation parallel en project
+
+1'. [@i{bāmātu} (@i{Šumma Izbu} V 82)] means "behind."
+2'. ["Bag" (@i{Šumma Izbu} V 104)] "liver."
+3'. ["Bag" (@i{Šumma Izbu} V 104)] "heart."
+4'. ["As a hostage" (@i{Šumma Izbu} V 26 = 109)] means "pledge."
+5'. ["A planet" (@i{Šumma Izbu} V 110)] means "Nergal."
+6'. [...] means "animals."
+7'. ["Conflict" (@i{Šumma Izbu} V 113)] means "famine."

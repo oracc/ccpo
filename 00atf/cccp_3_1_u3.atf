@@ -1,0 +1,125 @@
+&P348647 = CCP 3.1.u3 (http://ccp.yale.edu/P348647) = W 22730/1
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+@obverse
+1'. !zz [...] {d#}a-nu# [...]
+#lem: u; Anu[1]DN; u
+
+2'. !zz [...] {d#}GU₄.U₄ [...]
+#lem: u; Šihṭu[Mercury]'DN; u
+
+$ single ruling
+3'. !bs [...]-ṭu : !cm ru-x# [...]
+#lem: u; u; u
+
+4'. !zz [... !bs mal]-ma#-al-liš : !cm ka-a-a-nu# [...]
+#lem: u; +malmališ[correspondingly]N$; kayyānu[steady]AJ; u
+
+#note: The reading of the first word is uncertain, inasmuch as @i{malmališ} never seems to have been written with two /l/. @i{kayyamānu} could be here a technical term, but the scarcity of the context makes it difficult to decide.
+5'. !zz [...] MUL#.MUL [...]
+#lem: u; Zappu[Bristle]CN; u
+
+6'. !zz [...] x {mul}GU₄.AN.NA [...]
+#lem: u; u; Alu[Bull of Heaven]'CN; u
+
+7'. !zz [...]-x# {mul}SIPA.ZI.AN.NA [...]
+#lem: u; Šitaddaru[Orion]CN; u
+
+8'. !zz [...] {iti}NE {mul}KAK.SI.SA₂ x# [...]
+#lem: u; Abu[1]MN; Šukudu[Arrow]CN; u; u
+
+9'. !zz [...]-šu₂ {d}GU₄.U₄ ša₂ ina {iti}NE ina {mul#}x# [...]
+#lem: u; Šihṭu[Mercury]'DN; ša[which]REL; ina[in]PRP; Abu[1]MN; ina[in]PRP; u; u
+
+10'. !zz [...] !cm {d#}dele-bat {d}ṣal-bat-a-nu ša₂-niš {d}GU₄.U₄ ina [...]
+#lem: u; Delebat[Venus]'DN; Ṣalbatanu[Mars]'DN; šanîš[alternatively]AV; Šihṭu[Mercury]'DN; ina[in]PRP; u
+
+11'. !zz [...] x UD.DA-šu₂-nu ina MURUB₄-šu₂-nu {d}50 x# [...]
+#lem: u; u; +ṣētu[light]N$ṣētišunu; ina[in]PRP; +qablu[hips//middle]N$qablišunu; Ellil[1]DN; u; u
+
+12'. !zz [...] MUL ša₂ ina SI {mul}GIR₂.<TAB> {d}a-nu [...]
+#lem: u; kakkabu[star]N; ša[that]REL; ina[in]PRP; qaran[horn]N; Zuqaqipu[Scorpion]CN; Anu[1]DN; u
+
+13'. !zz [...] !bs {mul#}zi-ba-ni-tu₂ SIG-ma ša₂ !zz [...]
+#lem: u; Zibanitu[Scales]CN; +šaplu[low]AJ$šapilma; ša[that]REL; u
+
+14'. !zz [... {mul}EN].TE#.NA#.BAR.HUM [...]
+#lem: u; Habaṣiranu[Mouse]CN; u
+
+@reverse
+1'. !zz [...] x# {mul#}GENNA MUL ana MUL [...]
+#lem: u; u; +Kayyamanu[Saturn]CN$; kakkabu[star]N; ana[to]PRP; kakkabi[star]N; u
+
+2'. !zz [...] {mul}SIPA.ZI.AN.NA [...]
+#lem: u; Šitaddaru[Orion]CN; u
+
+3'. !zz [...] x# MUL SA₅ ana {mul}ERIDU{ki} [...]
+#lem: u; u; kakkabu[star]N; sāmu[red]AJ; ana[to]PRP; Eridu[1]'CN; u
+
+4'. !zz [...] {mul#}AB.SIN₂ [...]
+#lem: u; Šerʾu[Furrow]CN; u
+
+$ single ruling
+5'. !zz [...] ša₂ tur-ba-lu-u₂ ha-am-mat?# [...]
+#lem: u; ša[that]REL; +turballû[bare ground]N$; +hammu[gathered]AJ$hammat; u
+
+6'. !zz [... !cm ša₂?]-niš ina ŠA₃ {mul}GE₆ na#-[...]
+#lem: u; šanîš[alternatively]AV; ina[in]PRP; libbi[interior]N; +ṣalmu[dark star]N$ṣalmi; u
+
+7'. !zz [...] in-nam#-[...]
+#lem: u; u
+
+8'. !zz [...]-x# {d}UDU.IDIM me#-[...]
+#lem: u; +bibbu[planet]N$bibbu; u
+
+9'. !zz [...] in#-[...]
+#lem: u; u
+
+10'. !zz [...] {mul}GE₆ x# x# [...]
+#lem: u; ṣalmi[dark star]N; u; u; u
+
+11'. !zz [...] : !cm U₂ !zz : [...]
+#lem: u; šammu[plant(s)]N; u
+
+12'. !zz [...] si#-ri#-x# [...]
+#lem: u; u; u
+
+13'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+@obverse
+1'. [...] Anu [...]
+2'. [...] Mercury [...]
+$ single ruling
+3'. [...] ... [...]
+4'. [...] ... "correspondingly" means "permanent" [...]
+5'. [...] the Bristle [...]
+6'. [...] ... the Bull of Heaven [...]
+7'. [...] Orion [...]
+8'. [... in] the month of Abu the Arrow ... [...]
+9'. [...] Mercury, which is in [...] (constellation) in the month of Abu [...]
+10'. [...] Venus (and) Mars, alternatively, Mercury. In [...]
+11'. [...] ... of their light in the middle of them: Enlil ... [...]
+12'. [...] the star that (is) in the Scorpion's horn is Anu [...]
+13'. [...] the Scales is low and that [...]
+14'. [...] the Mouse [...]
+
+@reverse
+1'. [...] ... Saturn star to star [...]
+2'. [...] Orion [...]
+3'. [...] ... the Red Star to the Eridu Star [...]
+4'. [...] the Furrow [...]
+$ single ruling
+5'. [...] that is @i{gathered} (@i{on}) bare ground [...]
+6'. [...] alternatively, inside the Black Star [...]
+7'. [...] ... [...]
+8'. [...] planet [...]
+9'. [...] ... [...]
+10'. [...] Black Star ... [...]
+11'. [...] (means) "@i{plant}(@i{s})" ... [...]
+12'. [...] ... [...]

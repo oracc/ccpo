@@ -1,0 +1,53 @@
+&P461212 = CCP 7.2.u52 (http://ccp.yale.edu/P461212) = BM 42598
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] ši#-mi#-[...]
+#lem: u; u
+
+2'. !zz [...] x# !bs NA₄ DU₁₄ !cm :# NA₄ ṣa#-[al-tu₂ !zz ...]
+#lem: u; u; abnu[stone]N; ṣāltu[fight]N; abnu[stone]N; +ṣāltu[fight]N$; u
+
+#note: @akk{{na₄}DU₁₁} = @i{aban ṣālti} appears in @i{Ḫḫ} XVI 210 (@i{MSL} 10 p. 10).
+3'. !zz [...] !bs NA₄# DU₁₄ !cm : NA₄ ṣa-al-tu₂# !zz [...]
+#lem: u; abnu[stone]N; ṣāltu[fight]N; abnu[stone]N; ṣāltu[fight]N; u
+
+4'. !zz [...]{+sar#} !cm : aš₂-šu₂ {na₄}u₃-uh-ri?# !zz [...]
+#lem: u; aššu[because of]'PRP; X; u
+
+#note: The reading of the last stone name is uncertain, cp. perhaps na₄.ur₅.bu.uḫ.ri = @i{aban buḫri} in Ḫḫ XVI 247 (MSL 10 p. 11).
+5'. !zz [...] qut-ri : !bs {na₄}AN.BIR₉ GE₆ !zz [...]
+#lem: u; qutri[smoke]N; +milʾu[saltpetre]N$; mūši[night-time]N; u
+
+6'. !zz [... !cm {u₂}KI].{d}UTU ša₂-niš GIM {u₂}am-ha-[ra !zz ...]
+#lem: u; +šakirû[henbane]N$; šanîš[alternatively]AV; kīma[according to]PRP; amhara[(a medicinal plant)]N; u
+
+7'. !zz [... !bs {u₂}]tu-ul-lal !cm : ana ah-ha-zi# !zz [...]
+#lem: u; +tullal[(a soap plant)]N$; ana[according to]PRP; +ahhāzu['the seizer' (a demon)]N$; u
+
+8'. !zz [...] !bs {giš#}MES#.AN.NA !cm : {giš}dul-bi !zz : {u₂#}[...]
+#lem: u; +dulbu[plane tree (Platanus orientalis)]N$; dulbi[plane tree]N; u
+
+#note: The equation @akk{{giš}MES.AN} = @akk{{giš}dul-bi} is also attested in @i{CCP} 4.2.W o 2-3.
+9'. !zz [...] {u₂#}a#-za-lu-ub :# [...]
+#lem: u; +zalub[(a plant)]N$azalub; u
+
+#note: On the @i{azalub}-plant see @i{CCP} 4.2.W o 8-9.
+10'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] na₄.DU₁₄ means "c[ombat] stone" [...].
+3'. [...] na₄.DU₁₄ means "combat stone" [...].
+4'. [...] the ... plant; on account of 
+5'. [...] @i{smoke}. The black saltpetre [...].
+6'. [... @i{ša}]@i{kirû}-plant; alternatively, it is like the @i{amḫa}[@i{ra}-plant ...]]
+7'. [...] the @i{tullal}-plant is for jaundice [...]
+8'. [...] giš.MES.AN.NA is the plane tree [...]
+9'. [...] the @i{azalub}-plant [...]
+10'. ...

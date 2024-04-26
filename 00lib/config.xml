@@ -1,0 +1,30 @@
+<project n="ccpo" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>Cuneiform Commentaries Project on ORACC</name>
+  <abbrev>CCPo</abbrev>
+  <project-type>oracc</project-type>
+  <type>corpus</type>
+  <public>yes</public>
+  <logo type="text">CCPo</logo>
+  <url>http://ccp.yale.edu</url>
+  <blurb>Provides fully searchable, annotated editions of text commentaries written by Assyrian and Babylonian scholars between the eighth and second centuries BCE. The texts commented on include literary, magical, divinatory, medical, legal, and lexical works.<br/>
+Project Director: Eckart Frahm; Co-Director: Enrique Jiménez; Senior Editor: Mary Frazer.</blurb>
+  <option name="render-accents" value="yes"/>
+  <option name="atf-lem-extended" value="yes"/>
+  <option name="build-approved-policy" value="atf"/>
+  <option name="build-outlined-policy" value="approved"/>
+  <option name="%sux" value=". epsd2 dcclt/nineveh"/>
+  <option name="%sux-x-emegir" value=". epsd2:sux"/>
+  <option name="%sux-x-emesal" value=". epsd2:sux"/>
+  <option name="%akk-x-stdbab" value=". cams/gkab:akk-x-stdbab"/>
+
+  <option name="catalog-build-policy" value="auto"/>
+  <option name="cbd-mode" value="mixed"/>
+  <option name="instance-url-host" value="ccp.yale.edu"/>
+  <option name="external-url-host" value="ccp.yale.edu"/>
+  <option name="external-proj-abbrev" value="CCP"/>
+  <option name="outline-default-select" value="true"/>
+  <option name="outline-default-sort-fields" value="period,genre,provenience"/>
+  <option name="outline-default-sort-labels" value="Time,Genre,Place"/>
+</project>

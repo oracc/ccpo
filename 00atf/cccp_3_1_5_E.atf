@@ -1,0 +1,300 @@
+&P299300 = CCP 3.1.5.E (http://ccp.yale.edu/P299300) = NBC 7843
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+@tablet
+
+$(obverse)
+1. !bs [*] 30# ina IGI.LA₂-šu₂ SA₅ SI ZAG-šu₂ ke-pat SI GUB₃*-šu₂ ed-de-et !zz : !bs SI-ME-šu₂ <ZAG> AN.TA
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; sāmū[red]AJ; qaran[horn]N; imittišu[right side]N; kepât[bent back]AJ; qaran[horn]N; šumēlišu[left]N; eddet[pointed]AJ; qarnātušu[horn]N; imni[right (side)]N; +eliš[above]AV$
+
+#tr.en: “[If] the moon, when it appears, is red and its right horn is curved (and) its left horn is pointed.” “(If) its horns [are directed] <to the right> (and) upwards,
+
+#note: The sign following the second @akk{SI} is not, @i{pace} Frahm (2011 p. 140 n. 691), an erroneous writing of 2,30, but rather GUB₃ (collation by E. Jiménez). The emendation of the second quotation and the restoration of the beginning of l. 2 follow parallels in source j (rev. 4-5, 8-9, 12-13) of @i{EAE} 5 (Verderame 2002: 145).
+
+2. !bs [IGI.LA₂] {d}ṣal-bat-a-nu ina ZAG TE-šu₂-ma !cm SI-MEŠ-šu₂ ZAG ša₂ iq-bu-u₂ SI-šu₂ ina ŠA₃-šu₂ GAR
+#lem: innammar[appear]V; Ṣalbatanu[Mars]CN; ina[in]PRP; imni[right (side)]N; iṭehhešuma[approach]V; qarnātušu[horn]N; imni[right (side)]N; ša[which]REL; iqbû[say]V; qaraššu[horn]N; ina[in]PRP; libbišu[interior]N; iššakkan[take place]V
+
+#tr.en: Mars approaches it on the right.” What it says – “its horns are to the right (ZAG)” – (means) “its horns are placed in its center 
+
+#note: The restoration of the words broken away at the start of the line is made on the basis of a parallel line in a manuscript of @i{EAE} 5: see the preceding note. @i{Pace} Frahm (2011 p. 140 n. 691), “Mars approaches it on the right” is part of the base text, not a commentarial explanation. 
+
+3. !cm [u? AN].GE₆# TIL{+ti₃} : !bs * SI 30 ka-pi-ip !cm : U₄ 30-KAM it-ti {d}UTU in-nam-mar-ma
+#lem: u[and]CNJ; attallû[eclipse]N; gamerti[totality]N; qaran[horn]N; Sin[1]DN; +kappu[curved]AJ$kapip; ūmu[day]N; n; itti[with]PRP; Šamaš[1]DN; +nawāru[be(come) bright]V$innammarma
+
+#tr.en: and a complete [ecli]pse (will occur).” “If a horn of the moon is bent” refers to the thirtieth day (on which) “it (i.e., a horn) will be visible with the sun, and
+
+#note: The beginning of the line is restored on the basis of l. 18, in which the phrase @akk{AN.GE₆ TIL{+ti₃}} (“complete eclipse”) also appears. On both occasions it is unclear why the phrase is in the genitive case. 
+
+4. !cm [ka]-ap#-pa-at : !bs * U₄ 13-KAM KI 20 IGI-ma !cm : GIM {giš}MA₂.GUR₈ ina IM BAD RU : !bs * SI 30
+#lem: +kappu[curved]AJ$kappat; ūmu[day]N; n; itti[with]PRP; Šamaš[1]DN; īmurma[see]V; kīma[according to]PRP; makūri[(processional) boat]N; ina[in]PRP; +šāru[wind]N$šāri; u; u; qaran[horn]N; Sin[1]DN
+
+#tr.en: curved.” “If, on the thirteenth day, they (i.e., the horns of the moon) are visible with the sun” means “like a @i{makurru}-boat, ....” “If a horn of the moon
+
+#note: The feminine gender of @i{kappat} indicates that the subject of the explanation is the horn not the moon. Although the moon’s horns are compared with a makurru-boat in the base text (source d l. 8’), the colon preceding @akk{GIM} in the present line seems to indicate that the comparison belongs to a commentarial explanation rather than the base text. The signs following @akk{GIM {giš}MA₂.GUR₈} defy confident interpretation. One possibility is to read @akk{RU} as the logographic writing of the verb @i{nadû}, @akk{ŠUB}; another is to read BAD as the logographic writing of the verb @i{gamāru}, @akk{TIL}, with @akk{RU} as a phonetic complement. However, neither possibility solves the problem of how to interpret the preceding signs.
+
+5. !bs [ud]-du-da-at !cm U₄ 1-KAM IGI-ma U₄ 14-KAM ina IGI {d}UTU iz-za-az-ma
+#lem: +uddudu[pointed]AJ$uddudat; ūmu[day]N; n; īmurma[see]V; ūmu[day]N; n; ina[in]PRP; pān[front]N; Šamaš[1]DN; +izuzzum[stand]V$izzazma
+
+#tr.en: is pointed” (refers to) the first day it (on which) “it (i.e., the horn) will be visible” and the fourteenth day  (on which) “it (i.e., the horn) will stand before the sun.”
+
+#note: An omen that begins “If (the moon, when it appears,) a horn of the moon is pointed” occurs in sources j (obverse 26’) and o (l. 6’) of @i{EAE} 5.
+
+6. !bs [* x]-KA/SAG-mu GAZ !cm U₄ 30-KAM {d}SAG.ME.GAR TE-šu₂-ma : !bs * SI-MEŠ-šu₂ id-di !cm U₄ 1-KAM GAZ#
+#lem: u; hepû[breaking]'N; ūmu[day]N; n; nēberu[Jupiter]CN; iṭehhešuma[approach]V; qarnātušu[horn]N; iddi[voice]V; ūmu[day]N; n; hepû[breaking]'N
+
+#tr.en: “[If ...] ...” (refers to) the thirtieth day (on which) “Jupiter will approach it (i.e., the moon).” “If it (i.e., the moon) lets (lit. let) its horns hang” (means) “on the first day, there will be a defeat.”
+
+#note: As a logogram, the sign @akk{GAZ} is attested in three apodoses in sources f (l. 28’) and i (ll. 35’ and 37’) of Tablet 5. In all three cases the apodosis is: “the king of GN will be killed by his servants in a revolt” (@akk{LUGAL x{ki} IR₃-MEŠ-šu₂ ina HI.GAR GAZ.MEŠ-šu₂}). However, since this commentary usually comments on protases, and since the signs preceding @akk{GAZ} in the commentary do not correspond with those preceding @akk{GAZ} in the aforementioned apodoses, this entry probably does not refer to any of them. An omen featuring the phrase “If it lets its horns hang” – which is also the subject of the entry in l. 7 – is otherwise unattested in @i{EAE} 5.
+
+7. !bs [*] BABBAR-ma SI-ME-šu₂ id-di !cm U₄ 1-KAM {d}SAG.ME.GAR TE-šu₂-ma
+#lem: peṣima[white]AJ; qarnātušu[horn]N; iddi[voice]V; ūmu[day]N; n; nēberu[Jupiter]CN; iṭehhešuma[approach]V
+
+#tr.en: “[If it (i.e., the moon)] is white and lets (lit. let) its horns hang” (means) “on the first day, Jupiter will approach it (i.e., the moon).”
+
+#note: An omen featuring the phrase “it (i.e., the moon) lets its horns hang” – which is also the subject of the entry in l. 6 – is otherwise unattested in @i{EAE} 5. The explanation resembles that given for the first protasis cited in l. 6.
+
+8. !bs [*] SI-MEŠ-šu₂ AN{+e} ṭe-ri-a !cm AN.GE₆ SA₅ : a-da-ri : DIRI
+#lem: qarnātušu[horn]N; šamê[heaven]N; +ṭerû[rubbing into]AJ$ṭeriā; attallû[eclipse]N; sāmu[red]AJ; +adāru[be dark//being dark]V'N$adāri; +adāru[be dark//being dark]V'N$
+
+#tr.en: [“If] its horns pierce (@i{ṭerû}) the sky” means “(If) there is a red eclipse” (because) “to grow dark” means “DIRI.”
+
+#note: Omens featuring the phrase “If its horns pierce the sky” are attested in sources f (ll. 1’ and 4’) and l (ll. 1 and 4) of @i{EAE} 5. A red eclipse is also attested in l. 12. The explanation seems to be based on (ancient) etymological connections: @i{ṭerâ} (“pierce”) is connected with @i{adāru} (“to grow dark”), by means of the sign @akk{DIRI}, which is phonetically similar to @i{ṭerâ} and can be read as @akk{SA₅} (“red”). However, the commentary does not explicitly make the connection between @i{ṭerâ} and @akk{SA₅}.
+
+9. !bs [*] SI-MEŠ-šu₂ kup₃-pu-pa !cm U₄ 30-KAM U₄ 13-KAM : !bs * SI-ME-šu₂ kap-pa !cm U₄ 1-KAM AGA ip-pir-ma
+#lem: qarnātušu[horn]N; +kuppupu[very bent]AJ$kuppupā; ūmu[day]N; n; ūmu[day]N; n; qarnātušu[horn]N; +kappu[curved]AJ$kappū; ūmu[day]N; n; agâ[corona]N; +apāru[cover the head]V$ippirma
+
+#tr.en: [“If] its horns are very bent” (refers to) the thirtieth and thirteenth days. “If its horns are bent” (refers to) the first day (on which) “it (i.e., the moon) will wear a crown.”
+
+#note: The explanation of “If its horns are very bent” as referring to the thirteenth day of the month has little bearing in reality because by this point in its 29.5 day cycle the moon is nearly full. The same may also apply for the thirtieth day, the time of the new (i.e., no longer visible) moon.  See l. 14 for a similarly unrealistic explanation of a protasis. The explanation “it will wear a crown,” with the durative form rather than the more usual stative form of @i{apāru}, is elsewhere attested in an unedited commentary on @i{EAE} 1-13, K.5967+ (ii 25) [= @i{CCP} 3.1.u93]. See Verderame (2002: 7 n. 43) for a transliteration of the line in question.  
+
+10. !bs [*] SI-MEŠ-šu₂ tar-ṣa !cm U₄ 1-KAM U₄ 14-KAM U₄ 30-KAM U₄ 12-KAM LAL : ta-ra-ṣa : LAL : ma-ṭu-u₂
+#lem: qarnātušu[horn]N; +tarṣu[stretched out]AJ$tarṣā; ūmu[day]N; n; ūmu[day]N; n; ūmu[day]N; n; ūmu[day]N; n; +tarāṣu[stretch out//stretching out]V'N$; tarāṣa[stretching out]'N; maṭû[be(com)ing little]'N; maṭû[be(com)ing little]'N
+
+#tr.en: [“If] its horns are stretched out” (refers to) the first, fourteenth, thirtieth and twelfth days. LAL means “to stretch out,” LAL means “to be small.” 
+
+#note: Omens featuring the phrase “If its horns are stretched out” occur in sources f (l. 9’), l (l. 8), o (l. 12’), and v (l. 4) of @i{EAE} 5. @akk{LAL} is also equated with both @i{tarāṣu} and @i{maṭû} in @i{Syllabary A Vocabulary} (source Q, ll. 26’ and 16’ = @i{MSL} 3 p. 70). 
+
+11. !bs [*] SI-MEŠ-šu₂ kap-ṣa !cm AN.GE₆ ša₂-niš NU IGI !bs ša₂-pa-a !cm : AN.GE₆ : !bs sap-ha !cm : AN.GE₆ !bs kab-sa !cm : AN.GE₆
+#lem: qarnātušu[horn]N; kapṣā[bent up]AJ; attallû[eclipse]N; šanîš[alternatively]AV; lā[not]MOD; +amāru[see]V$innammar; +šapû[dense]AJ$šapâ; attallû[eclipse]N; +saphu[scattered]AJ$saphā; attallû[eclipse]N; +kabsu[down-trodden]AJ$kabsā; attallû[eclipse]N
+
+#tr.en: [“If] its horns are bent” means “an eclipse,” alternatively, “they (i.e, the horns) will not be visible.” “Dense” means “eclipse,” “scattered” means “eclipse,” “down-trodden” means “eclipse,”
+
+#note: The verbs @i{kapāṣu} and @i{sapāhu} are also treated in close proximity in @i{CCP} 3.1.5.D obverse, column i, 5’-6’ (Verderame 2002: 136). 
+
+12. !bs nam-ra !cm AN.GE₆ : {d}dil-bat TE-šu₂-ma : !bs * SI-ME-šu₂ UŠ₂ ma-la-a !cm : AN.GE₆ SA₅ : !bs rap-ša₂ !cm : AN.GE₆
+#lem: namra[bright]AJ; attallû[eclipse]N; Dilbat[Venus]CN; iṭehhešuma[approach]V; qarnātušu[horn]N; +dāmu[blood]N$dāma; malâ[abundance]N; attallû[eclipse]N; sāmu[red]AJ; rapšu[wide]AJ$rapšā; attallû[eclipse]N
+
+#tr.en: “bright” (means) “eclipse” (or) “Venus will approach it.” “If its horns are full of blood” means “a red eclipse,” “wide” means “eclipse,”
+
+#note: In the scholarly royal correspondence of the Neo-Assyrian period, the brightness of stars is often associated with the presence of Venus (Brown 2000: 92 n. 229).
+
+13. !bs [p]u-uh₂-hu-ra !cm : AN.GE₆ : !bs GIM MURUB₄-šu₂ kab-ri !cm : AN.GE₆ : SIG-MEŠ : un-nu-tu
+#lem: +puhhuru[assembled]AJ$puhhurā; attallû[eclipse]N; kīma[according to]PRP; +qablu[hips]N$qablīšu; +kabru[thick]AJ$kabri; attallû[eclipse]N; +enētu[flatten//fainting]V'N$unnutu; +enētu[flatten//fainting]V'N$unnutu
+
+#tr.en: “to [g]ather” means “eclipse,” “it is thick like its middle” means “eclipse,” (because) “weak (pl)” means “faint.”
+
+#note: The translation of @akk{GIM MURUB₄-šu₂ kab-ri} is based on an earlier manuscript of @i{EAE} from Emar (Arnaud 1987: 254), in which @akk{kab-ri} is written @akk{kab-ra}  (reference courtesy of E. Jiménez).
+
+14. !bs [*] SI-ME-šu₂ ke-pa-a U₄ 30-KAM !cm : AN.GE₆ : !bs a-dir !cm : AN.GE₆
+#lem: qarnātušu[horn]N; kepâ[bent back]AJ; ūmu[day]N; n; attallû[eclipse]N; adir[dark]AJ; attallâ[eclipse]N
+
+#tr.en: [“If] its horns are curved” (refers to) the thirtieth day (and) means “eclipse.” “It grows dark” means “eclipse.”
+
+#note: The explanation of the protasis “If its horns are very bent” as referring to the thirtieth day seems astronomically impossible because the thirtieth day would have been the time of the new moon. See l. 9 for a similar problem.
+
+15. !bs [*] SI-ME-šu₂ ṣer-ši SA₅-ME !cm {d}UDU.IDIM NIGIN-šu₂ TE-šu₂-ma
+#lem: qarnātušu[horn]N; ṣerši[offshoot]N; +malû[full]AJ$malâ; bibbu[planet]N; +lamû[surround]V$ilammīšu; iṭehhešuma[approach]V
+
+#tr.en: “[If] its horns are full of protuberances” (means) “a planet will circle it (i.e., the moon) and then approach it.” 
+
+#note: A similar omen is treated in @i{CCP} 3.1.5.A (l. 14), where one finds the different explanation: “in both of its horns two stars stand.” The reasoning behind both explanations is unclear. 
+
+16. !bs [*] SI-ME-šu₂ GID₂.DA-MEŠ !cm U₄ 15-KAM !bs MEŠ !cm i-mad-di NIGIN₂-ma
+#lem: qarnātušu[horn]N; +arku[long]AJ$arkā; ūmu[day]N; n; +mâdu[be(come) many]V$imaddi; +mâdu[be(come) many]V$imaddi; lamima[surrounded]AJ
+
+#tr.en: “[If] its horns are long” (refers to) “the fifteenth day.” MEŠ (means) “it is numerous” (or) “it is surrounded.”
+
+#note: MEŠ is equated with @i{mādu} / @i{mâdu} in @i{CCP} 3.1.u7 (r iii 2 and 4). The MEŠ in question is presumably the plural determinative following @akk{GID₂.DA}.
+
+17. !bs * SI-ME-šu₂ GIM šal-ma !cm AN.GE₆ ša₂ SILIM{+im} AN{+e} šak-nu
+#lem: qarnātušu[horn]N; kīma[according to]PRP; šalmā[complete]AJ; attallû[eclipse]N; ša[that]REL; +salīmu[peace]N$salīm; šamê[heaven]N; šaknu[provided with]AJ
+
+#tr.en: “If its horns are like ...” (means) “eclipse ... ‘peace of the sky’ ...”
+
+#note: The phrase @i{salīm šamê}, written @akk{DI AN{+e}}, is also attested in @i{EAE} 20 Text G obverse l. 8 (Rochberg 1988: 224), K 7029 l. 7’ (Rochberg 1988: 282), and SAA 8 103 l. 8. Collation of all three instances shows that the sign before @akk{AN{+e}} is @akk{DI} not @akk{NE}. The reading of the sign DI as @akk{SILIM} rather than as @akk{ṭe} follows the suggestion of E. Jiménez (personal communication).
+
+18. !bs * SI-MEŠ-šu₂ pu-us-su-la-ma la u₂-ta-ad-da-a !cm : AN.GE₆ TIL{+ti₃} : !bs na-pal-ku-u₂
+#lem: qarnātušu[horn]N; +pussulu[crippled]AJ$pussulāma; lā[not]MOD; +edû[know]V$ūtaddâ; attallû[eclipse]N; gamerti[totality]N; napalkû[opening wide]'N
+
+#tr.en: “If its horns are distorted and unrecognizable” means “complete eclipse.” “To be wide” 
+19. !cm ra#-pa-aš₂ : AN.GE₆ : !bs * SI-ME-šu₂ ed-da-ma SA₅ U₄ 1-KAM i-kab-bir-ma !cm : ZI : sa-a-mu
+#lem: +rapāšu[be(come) broad//be(com)ing broad]V'N$rapāš; attallû[eclipse]N; qarnātušu[horn]N; +eddu[pointed]AJ$eddāma; sāmū[red]AJ; ūmu[day]N; n; +kabāru[be(come) thick]V$ikabbirma; +sâmu[be red//being red]V'N$; +sâmu[be red//being red]V'N$
+
+#tr.en: (means) “to be broad,” (which) means “eclipse.” “If its horns are pointed and red” (refers to) the first day it (on which) “it (i.e., the Moon) will be thick” (because) ZI (means) “to be red” 
+
+#note: @i{ed-da-ma kabāru}. The equation @akk{ZI} = @i{sâmu} is not otherwise attested, and the reason for the commentator using @akk{ZI} to explain the base text is unclear.
+
+20. !cm ZI : ka-a-nu : !bs * SI-ME-šu₂ ke-pa-a u šal-pa !cm U₄ 30-KAM <<x>> U₄ 15-KAM
+#lem: +kânu[be(come) permanent//be(com)ing permanent]V'N$; kânu[be(com)ing permanent]'N; qarnātušu[horn]N; kepâ[bent back]AJ; u[and]CNJ; +šalpu[sheathed]AJ$šalpā; ūmu[day]N; n; ūmu[day]N; n
+
+#tr.en: (and) ZI means “to be firm.” “If its horns are bent and sheathed” (refers to) the thirtieth day and the fifteenth day. 
+
+#note:	The equation @akk{ZI} = @i{kânu} is also attested in the so-called “Esangil Commentary” (AfO 17 133: 34) and CCP 1.1.B.b, a commentary on @i{Enūma eliš} 7: 1, 21, and 40. (references from CAD K 160a). The stative of @i{šalāpu} appears to be otherwise unattested (CAD Š/1 230b-1). In addition, this appears to be its only attestation in reference to a celestial object.
+
+21. !bs * SI-ME-šu₂ ku-ri-a u la šal-pa !cm U₄ 30-KAM U₄ 14-KAM : !bs * SI-ME-šu₂ ana ŠA₃{+nu} kap-ṣa
+#lem: qarnātušu[horn]N; +kurû[short]AJ$kuriā; u[and]CNJ; lā[not]MOD; šalpā[sheathed]AJ; ūmu[day]N; n; ūmu[day]N; n; qarnātušu[horn]N; ana[according to]PRP; libbānu[inside]N; kapṣā[bent up]AJ
+
+#tr.en: means “If its horns are very short and unsheathed” (refers to) the thirtieth and fourteenth days. “If its horns are curved inwards”
+
+#note: The reasoning behind the explanation given in the first part of this line is unclear. The protasis cited in the second part of the line is attested in source k (l. 5’) of @i{EAE} 5, albeit without the reference to the thirteenth day.
+
+22. !bs U₄ 13.KAM !cm : ana ki-da-nu tur-ra : U₄ 15.KAM : !bs * SI-ME-šu₂ ana ki-da₂-nu kun-nu-ša₂ AN.GE₆
+#lem: ūmu[day]N; n; ana[according to]PRP; kīdānu[outside]N; +turru[turned]AJ$turrā; ūmu[day]N; n; qarnātušu[horn]N; ana[according to]PRP; +kīdānu[outside]AV$; +kunnušu[bent]AJ$kunnušā; attallû[eclipse]N
+
+#tr.en: (refers to) the thirteenth day. “They are turned outwards” (refers to) “the fifteenth day.” “If its horns are bent outwards” (means) “eclipse.”
+#note: It would be tempting to read the signs @akk{ana ki-da₂-nu}, “outwards,” as @akk{ana KI.TA{+nu}}, “downwards,” were it not for the writing of the phrase as @akk{ana ki-da-nu kun-nu-[ša₂]} in sources d (l. 2’) and i (col. ii l. 20) of @i{EAE} 5 (Verderame 2002: 131 and 142). The writing @i{ana ki-da₂-nu} is otherwise attested only is k (l. 6’).
+
+23. !bs * SI-ME-šu₂ TEŠ₂-MEŠ GE₆-MEŠ !cm U₄ 30.KAM U₄ 30.KAM : !bs * SI-ME-šu₂ TEŠ₂-MEŠ ZALAG₂-MEŠ !cm U₄ 1.KAM
+#lem: qarnātušu[horn]N; +mithāriš[in the same manner]AV$; +ṣalmu[black]AJ$ṣalmā; ūmu[day]N; n; ūmu[day]N; n; qarnātušu[horn]N; mithāriš[in the same manner]AV; namrā[bright]AJ; ūmu[day]N; n
+
+#tr.en: “If its horns are both black” (refers to) the thirtieth day and the x day. “If its horns are both bright” (refers to) the first day,
+
+#note: The two protases cited in this line are also attested in source d of @i{EAE} 5 (Verderame 2002: 131 ll. 3’-4’) where, instead of @akk{TÉŠ-MEŠ}, one finds @akk{TÉŠ.BI}, the usual logographic writing of @i{mithāriš}. The repetitions of @akk{U₄ 30.KAM} in this line and of @akk{U₄ 1.KAM} at the beginning of the next line are assumed to be scribal errors.
+
+24. !cm U₄ 1.KAM U₄ 14.KAM : !bs * SI-ME-šu₂ ki-lat-tan mit-ha-ri !cm U₄ 1.KAM U₄ 14.KAM : !bs * GIM {giš}BAN !cm AN.GE₆ : !bs * SI SI i-ti-iq !cm U₄ 1.KAM U₄ 15.KAM#
+#lem: ūmu[day]N; n; ūmu[day]N; n; qarnātušu[horn]N; kilattān[both]AJ; +mithāru[corresponding]AJ$mithāri; ūmu[day]N; n; ūmu[day]N; n; kīma[according to]PRP; qašti[bow]N; attallû[eclipse]N; +qarnu[horn]N$; +qarnu[horn]N$qarna; ītiq[pass by]V; ūmu[day]N; n; ūmu[day]N; n
+
+#tr.en: the x day, and the fourteenth day. “If both its horns are equal” refers to the first day and the fourteenth day. “If (the horns) are like a bow” (means) “eclipse.” “If one horn extends beyond the other” (refers to) the first and fifteenth days.
+#note: The moon’s horns are said to be @i{ki-lat-tan mit-ha-ra} in source d (l. 5’) of @i{EAE} 5; they are compared to a bow in sources d and k (ll. 7’ and 9” respectively) of @i{EAE} 5; and the protasis “If one horn extends beyond the other” appears in source v 12.
+
+$(reverse)
+25. !bs * SI?# SI?# i-dir !cm : U₄ 1.KAM U₄ 14.KAM : !bs * MUL BABBAR x# x# x# x# !cm [x x x x]
+#lem: qarnu[horn]N; qarna[horn]N; +edēru[embrace]V$īdir; ūmu[day]N; n; ūmu[day]N; n; kakkabu[star]N; peṣi[white]AJ; u; u; u; u; u; u; u; u
+
+#tr.en: “If one horn wraps around another” refers to the first and fourteenth days. “If the white star …” [refers to “…]
+
+#note: The protasis “If one horn wraps around another” appears in source v 14 of @i{EAE} 5 (Verderame 2002: 164). The “white star” appears in a commentary on @i{EAE} 1, VAT 7827 (column 2, l. 5).
+
+26. !cm u?# {d?#}dil#-bat ša₂-niš MUL ma-du-tu₄ sa-hi-ir aš₂-šu₂ {d}x#-[(x)]
+#lem: u[and]CNJ; Dilbat[Venus]CN; šanîš[alternatively]AV; kakkabu[star]N; +mādu[many]AJ$mādūtu; sahir[turned]AJ; aššu[because of]'PRP; u
+
+#tr.en: and Venus”; alternatively (it means) “it is surrounded by many stars” because of ….
+27. !bs *# [{d}30 ina IGI.LA₂-šu₂?] SI#-MEŠ šu-ta-tu-tu !cm {d}GU₄.UD u {d}ṣal-bat-a-[nu (...)]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; qarnātu[horn]N; +šutātû[positioned opposite one another]AJ$šutātûtu; Šehṭu[Mercury]CN; u[and]CNJ; Ṣalbatanu[Mars]CN; u
+
+#tr.en: “If [, when it (i.e., the moon) appears, its meeting horns ...” (means) “Mercury and Mar[s (…).”]
+28. !bs *# [ina {d}30 IGI.LA₂-šu₂? {d?}]30?# ŠU₂ MUL a-ṣi !cm : ina na-an-mu-ru ša₂ {d}30 MUL TE-šu₂ [(x x)]
+#lem: ina[in]PRP; Sin[1]DN; tāmartišu[appearance]N; Sin[1]DN; +rabû[set]V$irbi; kakkabu[star]N; +aṣû[gone out]AJ$aṣi; ina[in]PRP; nanmuru[appear]V; ša[of]DET; Sin[1]DN; kakkabu[star]N; iṭehhešu[approach]V; u; u
+
+#tr.en: “If [, @i{when it appears, the mo}]@i{on} grows dark (and) a star rises” means “at the heliacal rising of the moon, a star will approach it [(…)]”.
+29. !bs [pal]-lu#-ur-ti !cm : MUL-MEŠ ša₂-niš {d}man-za-at₂# e-bi-ih ṭe-ri?#
+#lem: pallurti[cross]N; kakkabū[star]N; šanîš[alternatively]AV; +manzât[rainbow]N$; ebih[girded]AJ; +ṭerû[rubbing into]AJ$ṭeri
+
+#tr.en: [“C]ross” means “stars”; alternatively (it means) “it is encircled by a rainbow (and) pierced”
+
+#note: The word @i{pallurtu}, “cross,” is attested in source e (reverse, ll. 16’-18’) of @i{EAE} 5. 
+
+30. !bs [MUL]-MEŠ# ša₂ SI-MEŠ !cm ki-lal-la-an {d}man-za-at₂# {d}dil-bat
+#lem: kakkabū[star]N; ša[that]REL; qarnātu[horn]N; kilallān[both]AJ; manzât[rainbow]N; Dilbat[Venus]CN
+
+#tr.en: [“The star]s of both horns” (means) “the Rainbow Star (and) Venus,”
+31. !cm [ša₂-niš {mul}U₄].AL.TAR ina {d}UTU.E₃.A {d}ŠUL.PA.E₃.A ina {d}UTU.ŠU₂.A#
+#lem: šanîš[alternatively]AV; Dapinu[Jupiter]CN; ina[at]PRP; ṣīt[exit]N&X[sun]N; Šulpae[1]DN; ina[in]PRP; ereb[entrance]N
+
+#tr.en: [alternatively (it means) “Ud]altar in the east, Šulpa’e’a in the west.”
+
+$ single ruling
+32. !zz [(ša₂) !bs * 30] ina IGI.LA₂-šu₂ SA₅{+ma} SI ZAG-šu₂ ke-pat SI 2.30-šu₂ ed-de-et
+#lem: ša[of]DET; Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; +sāmu[red]AJ$sāma; qaran[horn]N; imittišu[right side]N; kepât[bent back]AJ; qaran[horn]N; šumēlišu[left]N; eddet[pointed]AJ
+
+#tr.en: [(From) “If the moon], when it appears, is red, its right horn is bent, (and) its left horn is pointed.”
+
+#note: The restoration of @i{šá} at the beginning of the line is based on the means of introducing the incipit of @i{EAE} 16 at the end of l. 40.
+
+33. !bs [* AN.GE₆] GAR#-ma MUL-MEŠ NIGIN-MEŠ !cm AN.GE₆ {d}UDU.IDIM-ME DU-ME-ma U₄ AN.GE₆ GAR-ma
+#lem: attallû[eclipse]N; iššakinma[take place]V; kakkabū[star]N; +lamû[surrounded]AJ$lamâ; attallû[eclipse]N; +bibbu[planet]N$bibbū; +alāku[go]V$illikūma; ūm[day]N; attallû[eclipse]N; +šakānu[put]V$iššakkanūma
+
+#tr.en: [“If an eclipse] occurs and stars surround (it)” (means) “(there is) an eclipse and planets move/stand, and when the eclipse occurs
+
+#note: The restoration is based on a parallel line in Text e (reverse 2) of @i{EAE} 20 (Rochberg 1988: 222)
+
+34. !zz [x x x] x# !bs DUNGU SUD-MEŠ !cm ina {d}<UTU>.E₃.A u {d}UTU.ŠU₂.A DUNGU GAL₂{+ši}-ma
+#lem: u; u; u; u; erpeti[cloud]N; +rūqu[distant]AJ$rūqātu; ina[at]PRP; ṣīt[exit]N&X[sun]N; u[and]CNJ; ereb[entrance]N; erpeti[cloud]N; ibaššima[exist]V
+
+#tr.en: […].” “Distant clouds” (means) “in the east and west, there is cloud.”
+35. !bs [...] E₁₁?#-ma u ZALAG₂ !cm ša₂ ul-tu <...> EN ZALAG₂ IM la ib-baṭ-ṭal : ina IZI.AN.NE# GUB
+#lem: u; illima[go up]V; u[and]CNJ; namru[bright]AJ; ša[whom]REL; ultu[after]PRP; u; adi[until]PRP; namāri[be(come) bright]V; +šāru[wind]N$; lā[not]MOD; +baṭālu[cease]V$ibbaṭṭal; ina[in]PRP; +anqullu[feverish heat]N$anqulli; izziz[stand]V
+
+#tr.en: [… it ri]ses, and the daylight which from <…> until daybreak, the wind will not cease” (or) “it stands in a fiery glow.”
+36. !cm [... di]-il-hu GAL₂-ma : !bs <ina> TUR₃ DU{+ak} u ZALAG₂ !cm AN.GE₆ <<ina>> TUR₃ NIGIN₂-ma ina ŠA₃ ZALAG₂
+#lem: u; dilhu[confusion]N; ibaššima[exist]V; ina[in]PRP; tarbaṣi[lunar halo]N; illak[flow]V; u[and]CNJ; +namru[bright]AJ$namir; attallû[eclipse]N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; ina[in]PRP; libbi[concern]N; namir[bright]AJ
+
+#tr.en: [“…] there is [di]sruption.” “It goes (into) the “cattle-pen” and is bright” (means) “the eclipsed moon is surrounded by a “cattle-pen” and becomes bright in its midst.”
+
+#note: The restoration at the beginning of the line and the emendation of the base text is based on parallels in @i{CCP} 3.1.16 l. 15 (@akk{ina TUR₃ DU{+ak} u ZALAG₂}) and l. 47 (@i{dilhu ibašši}).
+
+37. !bs [i?-ri?-ih?]-ha !cm : i#-ra-ah-hi-iṣ : !bs TEŠ₂.BI i-rim-ma ana bir-ṣa GUR !cm gab-bi-šu₂ ir-rim-ma
+#lem: irihhā[remain]V; irahhiṣ[kick]V; mithāriš[in the same manner]AV; īrim-ma[cover]V; ana[according to]PRP; birṣa[lightning?]N; +târu[turn]V$itūr; gabbišu[all]N; irrimma[cover]V
+
+#tr.en: [“will be left over]” means “will devastate.” “It will be completely covered and turns into a glow” (means) “it will be covered in its entirety.”
+
+#note: The beginning of the line is tentatively restored based on @i{CCP} 3.1.16 (ll. 31-32), but with the proviso that this would be the only time that an apodosis is explained in this commentary. The phrase @akk{TEŠ₂.BI i-rim-ma ana bir-ṣa GUR} is cited as part of the base text in CCP 3.1.16 (ll. 41-42), a commentary on @i{EAE} 16.
+
+38. !bs [* {d}30 a-dir qim-mat-su] AN{+e} dal-hat !cm : ma-di-iš uš-ta-an-na-ah-ma#
+#lem: Sin[1]DN; adir[dark]AJ; qimmatsu[(a feature of the moon)]N; šamê[heaven]N; dalhat[disturbed]AJ; mādiš[greatly]AV; +anāhu[be(come) tired]V$uštannah-ma
+
+#tr.en: [“If the moon grows dark and its crown] disturbs the sky” means “(the eclipse) will last a long time.”
+
+#note: The same protasis is cited in @i{CCP} 3.1.16 (l. 46), but with a different explanation from the one offered here.
+
+39. !bs [* {d}30 ina {iti}B]ARA₂ ina IGI.LA₂-šu₂ a-dir !cm ina EN.NUN.AN.USAN AN.GE₆ GAR-ma
+#lem: Sin[1]DN; ina[at]PRP; Nisannu[1]MN; ina[at]PRP; tāmartišu[appearance]N; adir[dark]AJ; ina[in]PRP; +barārītu[dusk]N$barārīti; attallû[eclipse]N; iššakinma[take place]V
+
+#tr.en: [“If the moon, in the month of] Nisannu, when it appears, is dark” (means) “in the first night watch, an eclipse will occur.”
+
+#note: The same protasis is cited in CCP 3.1.16 (l. 50), but with a different explanation from the one offered here.
+
+40. !bs [* {d}30 ina {iti}B]ARA₂ AN.GE₆ GAR !cm ina EN.NUN.MURUB₄.BA GAR-ma ša₂ !bs AN.GE₆ GAR-ma U₄ ŠU₂{+up}
+#lem: Sin[1]DN; ina[at]PRP; Nisannu[1]MN; attallû[eclipse]N; iššakkan[take place]V; ina[in]PRP; +qablītu[centre//middle watch]N'N$qablīti; iššakkanma[take place]V; ša[of]DET; attallû[eclipse]N; iššakinma[take place]V; ūmu[day]N; īrup[cloud over]V
+
+#tr.en: [“In the month of] Nisannu an eclipse will occur” (means) “in the middle night watch it will occur.” From “An eclipse will occur and the day will be dark.”
+
+#note: The line concludes with the incipit of @i{EAE} 16, thereby confirming that this section is a commentary on that Tablet.
+
+41. !zz [{im?}GID₂?].DA?# {m}NUMUN-kit-ti-<GIŠ> {lu₂}NU.EŠ₃ {d}en-lil₂ A ša₂ {m}A{+a} {lu₂}NU.EŠ₃ {d}SI
+#lem: giṭṭi[oblong tablet]N; +Zer-kitti-lišir[]PN$; nêšak[(a priest)]N; Ellil[1]DN; aplu[son]N; ša[of]DET; Aplaya[1]PN; nêšak[(a priest)]N; +Ellil[]DN$
+
+#tr.en: [Long table]t of Zēr-kitti-<līšir>, @i{nêšakku}-priest of Enlil, son of Aplāya, @i{nêšakku}-priest of Enlil,
+
+#note: Gabbay & Jiménez suggest that the phrase used to express filiation in this line, @i{māru ša}, may indicate that the tablet was written during or after the reign of Darius I (522-486), when @i{māru ša} became more common than @i{māršu ša} (Jursa 2005: 7 n. 35). However, they also suggest that the choice of phrase might be due to geographical rather than chronological factors. 
+
+42. !zz [ŠA₃].BAL#.BAL {m}gi-mil-{d}EN.ZU{+na} šu-me-ru₆-u₂
+#lem: liblibbi[descendant]N; +Gimil-Sin[]PN$; +šumerû[Sumerian]AJ$
+
+#tr.en: [desce]ndant of Gimil-Sîn, the Sumerian (@i{i.e.}, “from Nippur”).
+43. !zz [x x] EGIR {d}nin-urta UR.SAG DINGIR-MEŠ AL.DU
+#lem: u; u; arki[after]PRP; +Ninurta[]DN$; qarrādi[hero]N; ilāni[god]N; +alāku[go]V$illik
+
+#tr.en: [...] goes behind Ninurta, the hero of the gods.
+
+#note: The work to which this quotation belongs is yet to be identified. Incipits of incantations as well as a quotation from @i{Angim} appear in other Gimil-Sîn colophons: see Gabbay & Jiménez (forthcoming: 25-37). 
+
+44. !zz [x x] x#-a-nu {d}NA₃ ak-ku-u₂ :* {d}na-bi-um ša₂ ṭup-šar-ru-tu₄
+#lem: u; u; u; Nabu[1]DN; +akkû[the sign AG]N$; Nabium[1]DN; ša[of]DET; +ṭupšarrūtu[scribal art]N$
+
+#tr.en: ... Nabû, (read) @i{akkû}, means “Nabû of the scribal arts,”
+45. !zz [x x] x# it-pe-šu ba-nu-u₂ ka-la-mu e-piš šip-ri be-lu nab-ni-tu₄
+#lem: u; u; u; itpēšu[competent]AJ; bānû[creator]N; kalāmu[everything]N; +ēpišu[doer]N$ēpiš; šipri[work]N; bēlu[lord]N; +nabnītu[creation]N$
+
+#tr.en: expert in [...], creator of everything, performer of skilled work, lord of creation,
+46. !zz [(x) e]-piš# NIG₂.KA₉ le-ʾu-u₂ mut-tab-bil ka-la-mu ra-ʾi-im kul-lat
+#lem: u; ēpiš[doer]N; nikkassi[calculation]N; +lēʾû[powerful]AJ$; muttabbil[organizer]N; kalāmu[everything]N; +rāʾimu[lover]N$rāʾim; kullat[all]N
+
+#tr.en: skilled performer of accounting, servant of everything, who loves everything,
+47. !zz [mu-ma]-ʾe-er gi-mir ša₂ a-na e-peš KA-šu₂ DINGIR-ME ša₂ AN{+e} u KI{+ti₃} uš-taq-ru
+#lem: +mumaʾʾeru[commander]N$+mumaʾʾer; gimir[all]N; ša[which]REL; ana[for]PRP; +ipšu[deed]N$epiš; +pû[mouth]N$pīšu; ilū[god]N; ša[of]DET; šamê[heaven]N; u[and]CNJ; erṣeti[earth]N; +aqāru[be(come) rare]V$uštāqrū
+
+#tr.en: the one who commands the whole (world), whose command the gods of heaven and the netherworld honor.

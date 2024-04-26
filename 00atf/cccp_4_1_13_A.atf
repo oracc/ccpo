@@ -1,0 +1,123 @@
+&P461316 = CCP 4.1.13.A (http://ccp.yale.edu/P461316) = xxx
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1'. !zz ina [...]
+#lem: ina[in]PRP; u
+
+2'. !zz ina x# [...]
+#lem: ina[in]PRP; u; u
+
+3'. ($___$) !zz hi-x#-[...]
+#lem: u
+
+4'. !zz ta-qar-ri#-[ib ...]
+#lem: +qerēbu[be(come) close]V$taqarrib; u
+
+5'. !zz la i-ṣar!-ru?#-[ru? ...]
+#lem: lā[not]MOD; iṣarrurū[drip]V; u
+
+6'. !bs LUH!.LUH!{+ut} !cm : ip-ta-na-ru!#-ud!# ša₂#-niš# ig#-ta#-na-al-lu-ut
+#lem: +galātu[tremble]V$igtanallut; +parādu[be scared]V$iptanarrud; šanîš[alternatively]AV; +galātu[tremble]V$igtanallut
+
+#note: The reading of the first part of the line is that of @i{CAD} P 142a, in @i{CAD} P 38a the second wrod is read as @akk{ip-ta-na-làh!#}.
+7'. !bs qi₂-bit KA-šu₂ i-nam-din
+#lem: qibīt[command]N; pîšu[mouth]N; inamdin[give]V
+
+#note: The explanandum may be a corruption of an apodosis particularly common in Sagig, @akk{ana ik-rib qí-bít KA-šú TIN}, "for a vow that he promised he will get well" (see Borger @i{JCS} 18 (1964) p. 54a and Scurlock & Andersen, @i{Diagnoses in Assyrian and Babylonian Medicine} (2005), p. 255 §11.44, see also @i{CCP} 4.1.13.B l. 15). @akk{i-nam-din} here may be a corruption of @akk{DIN} in that prognosis. 
+8'. ($___$) !cm ša₂ ina mur-ṣi-šu₂ mim-ma ma-la i-qab-bu-u₂ i-nam-di-nu
+#lem: ša[that]REL; ina[in]PRP; murṣišu[illness]N; mimma[anything]XP; mala[as many]PRP; iqabbû[speak]V; +nadānu[give]V$inaddinū
+
+9'. !bs i-hal !cm : ta-mit E₂-šu₂ i-nam-din
+#lem: X; tāmīt[oracular answer]N; bītišu[household]N; inamdin[give]V
+
+#note: @i{CAD} Ḫ 55b proposes reading @i{ta-mit} as @i{ta-ziz}, an otherwise unattested word for "share."
+10'. ($___$) !cm {+i}HAL : i-za-a-zu# : ta-mit E₂-šu₂ i-nam-din
+#lem: +zâzu[divide]V$izâzu; +zâzu[divide]V$izâzu; tāmīt[oracular answer]N; bītišu[household]N; inamdin[give]V
+
+#note: The interpretation adopted here follows CAD Z 76b.
+11'. ($___$) ($___$) !cm ša₂ E₂-su i-pa-qi₂-du
+#lem: ša[of]DET; bīssu[household]N; +paqādu[entrust]V$ipaqqidu
+
+12'. !bs at-mu-u₂ !cm : da-ba-ba
+#lem: atmû[swear]V; dabāba[speech]N
+
+13'. !bs rab-biš !cm : za-mar-iš
+#lem: +rabbiš[gently]N$; +zamariš[quickly]N$
+
+#note: In the medical corpus, @i{rabbiš} is only attested in @i{TDP} 124 iii 27 (@i{šumma rab-biš} || @i{rap-diš išassi}, "if he cries out ('My stomach, my stomach') softly || variant: rapidly").
+14'. !cm ŠU.DUL : rab-bu
+#lem: +rabbu[soft]AJ$; +rabbu[soft]AJ$
+
+#note: The equation may be attested in @i{Erimḫuš} V 163-164 (@i{MSL} 17 p. 74): @akk{ŠU{+šu-du-ul}.DUL₄} = @i{katāmu}, @akk{ŠU.NÍG.TUR.<<RU>>.LÁ.BI} = @akk{rab-bu-um}. However, it would also be possible to take the first word as @i{šu-dul}, "wide," in Akkadian (see @i{CAD} Š/3 193b).
+$(reverse)
+
+15'. !cm ša₂-niš rab-biš : ne₂-hi-iš
+#lem: šanîš[alternatively]AV; rabbiš[gently]N; nēhiš[calmly]AV
+
+16'. !cm ra-ba-bu : nu-uh-hi
+#lem: +rabābu[be weak//being weak]V'N$; +nâhu[rest//calming]V'N$nuhhi
+
+17'. !cm TUR{+di-di}.TUR : rab-bu : TUR.TUR : ṣe-eh-ri!
+#lem: +rabbu[soft]AJ$; rabbu[soft]AJ; +ṣehru[small]AJ$; +ṣehru[small]AJ$ṣehri
+
+#note: The first equation appears in @i{Diri} I 264-265 (@i{MSL} 15 p. 54).
+18'. !zz ṣa-a-tu₂
+#lem: ṣâtu[commentary]N
+
+$(line run over from obverse)
+
+19'. !bs ZE₂ !cm : ba-qa-a-mu : ZE₂ : qa-ra-du
+#lem: +baqāmu[pluck//plucking]V'N$; +baqāmu[pluck//plucking]V'N$; +garādu[pluck//plucking]V'N$; +garādu[pluck//plucking]V'N$qarādu
+
+20'. ($___$) !cm ZE₂ : na-sa-a-hu
+#lem: +nasāhu[tear out//pulling out]V'N$; +nasāhu[tear out//pulling out]V'N$
+
+@translation labeled en project
+
+@label 1' - 3'
+
+...
+
+@label 4'
+
+"@i{you will approach}" [...]
+
+@label 5'
+
+"@i{it does not flow}" [...]
+
+@label 6'
+
+LUḪ.LUḪ-@i{ut} means "he is always nervous"; alternatively, it means "he is repeatedly scared"
+
+@label 7' - 8'
+
+"He will give an order" refers to (the man) who, in his disease, is given whatever he asks for.
+
+@label 9' - 11'
+
+The word @i{i-ḫal} means "he will give orders about his house," (since) @i{i}.ḪAL means "they will divide (his property)." "He will give orders about his house" refers to (the man) who puts his house in order.
+
+@label 12'
+
+"Speech" means "talk."
+
+@label 13' - 17'
+
+"Gently" (@i{rabbiš}) means "quickly." ŠU.DUL (is a logogram for) "gentle" (@i{rabbu}); alternatively, "gently" (@i{rabbiš}) means "softly" (@i{nēḫiš}), since "to be gentle" (@i{rabābu}) means "to be soft" (@i{nuḫḫu}). TUR.TUR, pronounced /di.di/, (is a logogram for) "gentle" (@i{rabbu}); TUR.TUR (also) means "small."
+
+@label 18'
+
+Lemmata.
+
+$(line run over from obverse)
+
+@label 19' - 20'
+
+ZÉ means "to pluck"; ZÉ means "to tear out"; ZÉ means "to pull out."

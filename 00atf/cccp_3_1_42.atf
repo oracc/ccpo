@@ -1,0 +1,78 @@
+&P395191 = CCP 3.1.42 (http://ccp.yale.edu/P395191) = K.3715
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@reverse
+
+1'. !zz [x x (x x) !bs GIŠ] {d*#}NIN*#.URTA x# !zz [x x x x x (x x)]
+#lem: u; u; u; u; +iṣu[tree]N$iṣ; Ninurta[1]DN; u; u; u; u; u; u; u; u
+
+2'. ($___$) !cm [GIŠ] {d*#}NIN*.URTA : GIŠ !zz [x x x (x x)]
+#lem: iṣ[tree]N; Ninurta[1]DN; iṣ[tree]N; u; u; u; u; u
+
+3'. ($___$) !zz [(x)] !cm ur*#-za-ba-bi-tu₂ : !cm !zz [x x x (x x)]
+#lem: u; +urzababītu[(a lyre)]N$; u; u; u; u; u
+#note: Cf. @akk{GIŠ {d}NIN.URTA} = @i{urzababītu} in @i{Harra}, @i{Diri} and elsewhere (@i{CAD} U/W 273a).
+
+$ single ruling
+
+4'. !zz [(x x) mu-kal]-lim#-ti * U₄ AN {d}EN.LIL₂ šu-ut# [KA ša₂ KA UM.ME.A]
+#lem: u; u; +mukallimtu[scholarly commentary]N$mukallimti; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[accordance]N; ummâni[expert]N
+
+#note: Probably only two signs are missing at the beginning of the line, and the rubric is thus @i{mukallimtu} 2a, rather than 2b.
+5'. ($___$) !zz [ša₂] ŠA₃# ina {iti}BARA₂ {d}IŠKUR GU₃-šu₂ ŠUB# [ŠE GU{+u₂} TUR]
+#lem: ša[of]DET; libbi[interior]N; ina[in]PRP; Nisannu[1]MN; Adad[1]DN; rigimšu[voice]N; iddi[utter]V; +šeʾu[barley]N$; qû[flax]N; +ṣehēru[be(come) small]V$iṣehher
+
+#NV changed qû[string] to qû[flax]
+$ single ruling
+
+@catchline
+
+6'. !zz [* ina {iti}BARA₂ {d}IŠKUR] GU₃?#-šu₂ ŠUB-ma AN [ŠUR]
+#lem: ina[in]PRP; Nisannu[1]MN; Adad[1]DN; rigimšu[voice]N; nadû[throw//utter]V'V$iddima; +šamû[rain]N$; +zanānu[rain]V$izannun
+
+#NV changed iddīma into iddima (as in cccp 3 1 41)
+@colophon
+
+7'. !zz [E₂.GAL AN.ŠAR₂-DU₃]-A LUGAL GAL{+u} LUGAL dan-nu LUGAL# kiš#-[ša₂-ti]
+#lem: ēkalli[palace]N; +Assurbanipal[]RN$; šarru[king]N; rabû[great]AJ; šarru[king]N; dannu[mighty]AJ; šar[king]N; kiššati[universe]N
+
+8'. !zz [LUGAL {kur}AN.ŠAR₂{ki} ša₂] {d#}AG# {d}taš-me-tu₄ ARHUŠ TUKU-MEŠ-šu#-[ma]
+#lem: šar[king]N; +Aššur[Assyria]GN$; ša[of]DET; +Nabu[]DN$; +Tašmetu[]DN$; rēmu[mercy]N; +rašû[acquire]V$iršûma
+
+9'. !zz [GIM a-bi] u₃# um-mi u₂#-ra-ab-bu#-[u-šu]
+#lem: kīma[like]PRP; abi[father]N; u[and]CNJ; ummi[mother]N; +rabû[be(come) big//make great]V'V$urabbûšu
+
+#NV changed +rabû[be(come) big//make great]V'V$ušarbûšu to +rabû[be(come) big//make great]V'V$urabbûšu
+
+10'. !zz [NIR.GAL₂-ka] NU# TEŠ₂ {d}[UR]
+#lem: +tākilu[truster]N$tākilka; ul[not]MOD; +bâšu[be ashamed]V$ibêš; +Nabu[]DN$
+
+#NV PN, DN, GN, etc. all without length marks etc. (Nabu; Tašmetu). In translation the appropriate form may be used.
+
+@translation labeled en project
+
+@reverse
+
+@label r 1' - r 3'
+
+["... tree] of Ninurta [..." (= @i{Enūma Anu Enlil} 42 (?) unknown); tree] of Ninurta means [...], which means @urzababītu (a type of lyre). [...].
+
+@label r 4' - r 5'
+
+Mukallimtu-commentary on @i{Enūma Anu Enlil}, (with) [oral explanations following the sayings of a (master-)scholar, (referring to entries)] from "If in the month of Nisannu (I) Adad roars, [the barley and flax harvest will be reduced"] (= @i{Enūma Anu Enlil} 42 (?)).
+
+@label r 6'
+
+"If in the month of Nisannu (I) Adad roars, it will [@i{rain}]" (= @i{Enūma Anu Enlil} 43 (?)).
+
+@label r 7' - r 9'
+
+[Palace of Ashurbanipal], the great king, the mighty king, king [of the universe, king of Aššur; on whom] Nabû and Tašmētum have bestowed mercy and whom they have raised [like a father] and a mother.
+
+@label r 10'
+
+Whoever trust you, oh Nabu, will not feel ashamed.

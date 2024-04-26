@@ -1,0 +1,378 @@
+&P373895 = CCP 3.1.u91 (http://ccp.yale.edu/P373895) = Sm.9
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$ obverse missing
+
+@reverse
+
+@column 4'
+
+1. ($___$) !zz x#-[x x x x x x]
+#lem: u; u; u; u; u; u
+
+2. &2 !zz ina ŠA₃ * x# [x x x x x x]
+#lem: ina[in]PRP; libbi[interior]N; u; u; u; u; u; u; u
+
+$ single ruling
+3. !bs ap₂-sa₃-ma#-ku & !cm [x x x x]
+#lem: +apusammikku[(a geometrical shape)]N$apsamaku; u; u; u; u
+
+4. ($___$) !zz x# & x#-[x x x]
+#lem: u; u; u; u
+
+5. ($___$) !bs LIMMU₂ & !cm er-bet#-[tu₂]
+#lem: erbe[four]NU; +erbe[four]NU$erbettu
+
+6. !bs ap₂-sa₃-ma#-ku & !cm ad-x#-[x x]
+#lem: apsamaku[(a geometrical shape)]N; u; u
+
+7. !bs SA.PAR₃ & !cm li-[mi-tu₂]
+#lem: +saparru[cart]N$; +liwītu[packaging//circumference]N'N$limītu
+
+#note: The restoration of the last word is uncertain; the explanandum probably refers to the @i{sapar manzât}, "net of the rainbow" (@i{CAD} S 162).
+
+#NV changed CF limītu to liwītu
+
+8. &2 ($___$) !zz ina ŠA₃ * ina SAG KASKAL šu-ut [{d}e₂-a]
+#lem: ina[in]PRP; libbi[interior]N; ina[at]PRP; rēš[beginning]N; harrān[path]N; šūt[those of]DET; Ea[1]DN
+
+$ single ruling
+9. &2 !bs * 20 GIŠ.HUR NIGIN{+ma} u SIG₇# [x x x]
+#lem: Šamaš[1]DN; uṣurtu[drawing]N; +lawû[surround]V$ilammâ; u[and]CNJ; +warqu[yellow-green]AJ$aruq; u; u; u
+
+#NV changed arqu[be(coming) green-yellow]AJ into warqu[yellow-green]AJ
+
+10. ($___$) !bs BAL & !cm ha-x#-[x]
+#lem: u; u
+
+#note: The sign after @ḫa is perhaps @ár.
+11. &2 ($___$) !zz ina ŠA₃ * 20 IGI.BAR-ma GIŠ.HUR# [NIGIN-(ma SIG₇)]
+#lem: ina[in]PRP; libbi[interior]N; Šamaš[1]DN; +palāsu[look (at)]V$tappallasma; uṣurta[(cruciform halo)]N; lamima[surrounded]AJ; aruq[yellow-green]AJ
+
+$ single ruling
+12. &2 !bs * 20 ŠU₂-ma ina KI.GUB-šu₂ ba-[a?-lu? GUB]
+#lem: Šamaš[1]DN; irbima[disappear]V; ina[in]PRP; mazzāzišu[position]N; +bālu[(Mars)]N$; izziz[stand]V
+
+13. ($___$) !bs BAL & !cm na-bal#-[ku-tu₂]
+#lem: +nabalkutu[cross over//turning over]V'N$; nabalkutu[turning over]'N
+
+14. &2 !bs * 20 ŠU₂-ma 20 KUR-ma ša₂ KUR₂ x#-[x x]
+#lem: Šamaš[1]DN; irbima[disappear]V; Šamaš[1]DN; ippuhma[rise]V; ša[of]DET; nakri[enemy]N; u; u
+
+15. ($___$) !bs KUR & !cm ra-[x x]
+#lem: +napāhu[blow//rising]V'N$; u; u
+
+#note: While in the base text ŠÚ is surely @i{erēbu} and KUR is @i{napāḫu}, the commentary seems to interpret the logograms in a different way.
+
+#NV changed GW of napāhu from rise into blow
+16. ($___$) !bs ŠU₂ & !cm a-[x x]
+#lem: +rabû[set//setting]V'N$; u; u
+
+17. !bs GU₃# ŠUB{+ti?} u KUR & !zz : na-[x x]
+#lem: rigim[voice]N; miqti[fall]N; u[and]CNJ; napāhu[rising]'N; u; u
+
+#note: The signs before KUR have been erased.
+18. ($___$) !bs KUR & !cm ra#-[x x]
+#lem: māti[land]N; u; u
+
+$ single ruling
+19. &2 !bs ILLU DU-ma ur-x# [x x x]
+#lem: mīlu[flood]N; illakma[flow]V; u; u; u; u
+
+20. !bs APIN & !cm [x x x]
+#lem: +epinnu[(seed) plough]N$; u; u; u
+
+21. !bs SAG & !cm [x x x]
+#lem: rēšu[top]N; u; u; u
+
+22. &2 !zz ina ŠA₃ * UD.DA-MEŠ# [x x x x]
+#lem: ina[in]PRP; libbi[interior]N; +ṣētu[bright light]N$; u; u; u; u
+
+$ single ruling
+23. &2 !bs {mul}<{d}>AMAR.UTU ina AN{+e} x#-[x x x x x]
+#lem: Marduk[1]DN; ina[from]PRP; šamê[heaven]N; u; u; u; u; u
+
+24. &2 !bs KUR URI{ki} ina x#-[x x x x x]
+#lem: māt[land]N; Akkad[1]SN; ina[in]PRP; u; u; u; u; u
+
+25. ($___$) !zz x#-[x & x x x x]
+#lem: u; u; u; u; u
+
+@column 5'
+
+1. &2 ($___$) !zz [ina ŠA₃] * U₄ ŠU₂-ma {d}IŠKUR GU₃ ŠUB
+#lem: ina[in]PRP; libbi[interior]N; ūm[day]N; irbima[disappear]V; Adad[1]DN; rigim[voice]N; +nadû[throw//utter]V'V$inaddi
+
+$ single ruling
+2. &2 !bs [* ina] {iti#}BARA₂ MU ME₃ GAL₂
+#lem: ina[in]PRP; Nisannu[1]MN; u; tāhāzi[battle]N; ibašši[exist]V
+
+3. &2 !bs [* AN].GE₆# GAR-ma {d}IŠKUR GU₃-šu₂ ŠUB-ma
+#lem: attallû[eclipse]N; iššakinma[take place]V; Adad[1]DN; rigimšu[voice]N; +nadû[throw//utter]V'V$inaddima
+
+$ single ruling
+4. &2 !bs [* ina] MURU₂ AN{+e} MURU₉# ih-ru-ru
+#lem: ina[in]PRP; qabal[middle]N; šamê[heaven]N; imbari[mist]N; +harāru[dig]V$ihruru
+
+5. !bs {+šu-ub}ŠUB & !cm ba-šu₂-u
+#lem: +bašû[exist//being (at hand)]V'N$; +bašû[exist//being (at hand)]V'N$
+
+6. !bs pi₂-qa₂-am & !cm ka-a-a-nu
+#lem: +pīqa[on (one) occasion]AV$pīqam; kayyānu[steady]AJ
+
+#note: Note the archaizing writing of @i{pí-qá-am}, elsewhere apparently unattested in first millennium text (incidentally no astrological text with @i{pīqa} is known). @i{pīqa} = @i{kayyānu} is also attested in the @i{ṣâtu}-commentary on @i{Ālu} CCP 3.5.41 r 4.
+7. !bs pi₂-qa₂-am & !cm i-ṣu
+#lem: pīqa[on (one) occasion]AV; īṣu[small]AJ
+
+#NV changed īṣū[few] into īṣu[small]
+
+8. &2 !zz ina ŠA₃ * IGI.BAR-ma mu-še-lu-u 
+#lem: ina[in]PRP; libbi[interior]N; tappallasma[look (at)]V; +mušēlû[(a doorkeeper)//(a cloud formation)]N'N$
+
+$ single ruling
+9. !bs e-pe-qu & !cm da-na-nu
+#lem: +epēqu[embrace//embracing]V'N$; +danānu[be(come) strong//be(com)ing strong]V'N$
+
+10. !bs ka-ra-ru-u & !cm i-ša₂-tu₂
+#lem: +kararû[midday heat]N$; +išātu[fire]N$
+
+11. ($___$) !bs TIL & !cm ba-šu₂-u₂
+#lem: +bašû[exist//being (at hand)]V'N$; +bašû[exist//being (at hand)]V'N$
+
+12. &2 !zz ina ŠA₃ * ina {im}1 NIM.GIR₂ ib-riq₂
+#lem: ina[in]PRP; libbi[interior]N; ina[in]PRP; X; berqu[lightning (flash)]N; X
+
+$ single ruling
+13. ($___$) !bs BAD & !cm zu-un-nu
+#lem: +zunnu[rain]N$; zunnu[rain]N
+
+#note: This equation seems to be elsewhere unattested.
+14. ($___$) !bs TIL & !cm ba-šu-u
+#lem: +bašû[exist//being (at hand)]V'N$; +bašû[exist//being (at hand)]V'N$
+
+15. ($___$) !bs BAD & !cm ne₂-su-u
+#lem: +nesû[be(come) distant//be(com)ing distant]V'N$; +nesû[be(come) distant//be(com)ing distant]V'N$
+
+16. !bs U₄.TE.NA# & !cm še-e-ru₃
+#lem: +šēru[morning]N$; +šēru[morning]N$
+
+17. &2 !zz ina ŠA₃ * ina {iti#}BARA₂# {d#}IŠKUR GU₃-šu₂ ŠUB
+#lem: ina[in]PRP; libbi[interior]N; ina[in]PRP; Nisannu[1]MN; Adad[1]DN; rigimšu[voice]N; inaddi[utter]V
+
+#note: None of the entries of this section can be related to omens in the relatively well preserved @i{Enūma Anu Enlil} 42, and one wonders if the entries might in fact refer to the poorly known @i{Enūma Anu Enlil} 43, whose incipit has the same protasis as @i{Enūma Anu Enlil} 42 (@i{šumma ina nisanni adad rigimšu inaddi}).
+$ single ruling
+18. ($___$) !bs BAL & !cm ra-ha-ṣu
+#lem: +rahāṣu[flood//flooding]V'N$; +rahāṣu[flood//flooding]V'N$
+
+19. &2 !bs {d}IŠKUR it-ta-na-aš₂-ma-ah
+#lem: Adad[1]DN; +šamāhu[grow]V$ittanašmah
+
+20. &2 !bs {im}LIMMU₂.BA ZI-MEŠ{+ni}
+#lem: +šāru[wind]N$šār&erbe[four]NU$erbetti; +tebû[arise]V$itebbûni
+
+#note: According to @i{CAD} Š/1 289a, lines 19-20 would refer to @i{ACh Adad} 29 2 (K.11089), but no overlap between the two texts could be found.
+21. !bs IM.KID₂ & !cm ZI-ma
+#lem: X; itebbema[arise]V
+
+#note: Compare IM.KÍD = @i{edēpu ša šāri} in @i{Nabnītu} F 22.
+22. ($___$) !bs KID₂ & !cm e-ze-zu
+#lem: +ezēzu[be(come) angry//be(com)ing angry]V'N$; ezēzu[be(com)ing angry]'N
+
+23. !bs GIM pi-it-ni ŠUB & !cm pi-it-nu ša₂ ŠUB!# MURU₂
+#lem: kīma[like]PRP; +pitnu[box]N$; inaddi[utter]V; pitnu[box]N; ša[of]DET; +nīdu[l(a)ying]N$nīd; +qablu[hips//tune]N'N$
+
+#note: ŠUB is written over an erasure.
+24. !bs lit-tu₂ & !cm bur-tu₂
+#lem: +lītu[cow]N$littu; +būrtu[cow]N$
+
+25. !bs ba-a-ru₃ & !cm ṣe-ru₃
+#lem: +bāru[(a synonym for open country)]N$; +ṣēru[back//steppe]N$
+
+#note: According to @i{CAD} B 120b, this is a hapax legomenon, a loanword from Sumerian bar.
+
+#NV changed syn. to synonym
+
+26. !bs I.SI.IŠ & !cm da-um-ma-tu₂
+#lem: +daʾummatu[gloom]N$; +daʾummatu[gloom]N$
+
+#note: This equation seems to be elsewhere unattested.
+27. !bs I.SI.IŠ & !cm ba-ku-u
+#lem: +bakû[weep//weeping]V'N$; +bakû[weep//weeping]V'N$
+
+28. &2 ($___$) !zz ina ŠA₃ * {d}IŠKUR# ina# KUR# 20# x#-x#-[x]
+#lem: ina[in]PRP; libbi[interior]N; Adad[1]DN; ina[in]PRP; nipih[(the act of) lighting]N; Šamaš[1]DN; u
+
+#note: The sign after MAN is not KA, and therefore this line is not identical with the incipit of @i{Enūma Anu Enlil} 45 (@i{šumma adad ina nipiḫ šamaš rigimšu inaddi}).
+$ single ruling
+29. !zz [(x)]-x#-mi x#-[(x) & x x x]
+#lem: u; u; u; u; u
+
+@column 6'
+
+1'. !zz [x x x & x x]-ru₃#
+#lem: u; u; u; u; u
+
+2'. !zz [x x x & x]-x#-ša₂
+#lem: u; u; u; u
+
+$ single ruling
+3'. !zz [x x x & x x]-tu₂
+#lem: u; u; u; u; u
+
+4'. !zz [x x x & x x]-par₃
+#lem: u; u; u; u; u
+
+$ single ruling
+5'. !zz [x x x & !cm ina u₄]-mi-šu₂-ma
+#lem: u; u; u; ina[in]PRP; +ūmu[day]N$ūmišuma
+
+#NV changed ūmīšūma to ūmišuma
+
+6'. !zz [x x x & !cm x x]-šu₂ AN.GE₆
+#lem: u; u; u; u; u; attalli[eclipse]N
+
+7'. !zz [x x x & !cm x x]-šu₂ ana {im}1 BAD
+#lem: u; u; u; u; u; ana[to]PRP; šūti[south]N; +petû[open]V$ipti
+
+$ single ruling
+8'. !zz [x x x & x] x#-a-nu
+#lem: u; u; u; u; u
+
+9'. !zz [x x x & x x]-x#
+#lem: u; u; u; u; u
+
+$ single ruling
+10'. !zz [x x x & x x]-ma
+#lem: u; u; u; u; u
+
+11'. !zz [x x x & x]-e?#-ru₃#
+#lem: u; u; u; u
+
+12'. !zz [x x x & !cm x]-ma# i-zi-qa
+#lem: u; u; u; u; izīqā[blow]V
+
+13'. !zz [x x x & x x] x#
+#lem: u; u; u; u; u; u
+
+$ single ruling
+14'. !zz [x x x & x] x#-te
+#lem: u; u; u; u; u
+
+15'. !zz [x x x & x x]-u
+#lem: u; u; u; u; u
+
+16'. !zz [x x x & x x]-tu₂
+#lem: u; u; u; u; u
+
+17'. !zz [x x x & x x x]
+#lem: u; u; u; u; u; u
+
+$ single ruling
+
+$ rest of column missing
+
+@translation parallel en project
+
+@reverse
+
+@column 4'
+
+1. ...
+2. From "If [...]" (= @i{Enūma Anu Enlil} unknown).
+$ single ruling
+3. @i{apsamaku} (= a geometrical shape) means [...]
+4. ...
+5. LIMMU means "group of four."
+6. @i{apsamaku} (= a geometrical shape) means [...]
+7. "Net" means "circumference"
+8. From "If at the top of the Path of [@i{Ea}]" (= @i{Enūma Anu Enlil} unknown).
+$ single ruling
+9. "If the sun is surrounded by a drawing and it is yellow [...]" (= @i{Enūma Anu Enlil} unknown).
+10. BAL means [...].
+11. From "If when you look at the sun [it is surrounded] by a drawing [and it is yellow]" (= @i{Enūma Anu Enlil} unknown).
+$ single ruling
+12. "If the sun sets and [@i{Mars} stands] in its place" (= @i{Enūma Anu Enlil} unknown).
+13. BAL means "to cross over."
+14. "If the sun sets and the sun rises, @i{that of} the enemy [...]" (= @i{Enūma Anu Enlil} unknown).
+15. KUR means [...].
+16. ŠÚ means [...].
+17. "If it @i{roars} and @i{rises}, [...]" (= @i{Enūma Anu Enlil} unknown).
+18. KUR means [...].
+$ single ruling
+19. "The flood will come and [...]" (= @i{Enūma Anu Enlil} unknown).
+20. APIN means [...],
+21. SAG means [...],
+22. From "If heat [...]" (= @i{Enūma Anu Enlil} unknown).
+$ single ruling
+23. The star of Marduk in the sky [...],
+24. the land of Akkad in [...].
+25. ...
+
+@column 5'
+
+1. From "If the day grows dark and Adad roars" (= @i{Enūma Anu Enlil} 39 (?)).
+$ single ruling
+2. "[If in] the month of Nisannu ..., there will be a battle" (= @i{Enūma Anu Enlil} unknown).
+3. "[If] there is an eclipse and Adad roars" (= @i{Enūma Anu Enlil} unknown).
+$ single ruling
+4. "If in the middle of the sky a cloud @i{is digging}" (= @i{Enūma Anu Enlil} unknown).
+5. ŠUB means "to be (available)."
+6. "Perhaps" means "certainly."
+7. "Perhaps" means "small."
+8. From "If when you look a @i{mušēlû}-cloud formation (can be seen)" (= @i{Enūma Anu Enlil} 40).
+$ single ruling
+9. "To embrace" (= @i{Enūma Anu Enlil} 47 obv 33) means "to be strong."
+10. "Midday heat" (= @i{Enūma Anu Enlil} 47 rev 20') means "fire."
+11. TIL (= BAD) means "to be (available)."
+12. From "if lightning strikes in the south" (= @i{Enūma Anu Enlil} 47).
+$ single ruling
+13. BAD means "rain."
+14. TIL (= BAD) means "to be (available)."
+15. BAD means "to be far away."
+16. U₄.TE.NA means "morning."
+17. From "if in the month of Nisannu Adad roars" (= @i{Enūma Anu Enlil} 42).
+$ single ruling
+18. BAL means "to trample."
+19. "(If) Adad once and again is made to flourish,
+20. the four winds will rise towards you" (= @i{Enūma Anu Enlil} unknown).
+21. In "IM.KÍD will rise,"
+22. KÍD means "to be furious" (whence IM.KÍD means "furious wind").
+23. "(If Adad) roars like a lyre," "lyre of the @nīd @qabli mode."
+24. "Cow" means "calf."
+25. @i{bāru} means "open country."
+26. @i{ISIŠ} means "darkness."
+27. @i{ISIŠ} means "to cry."
+28. From "If Adad ..." (= @i{Enūma Anu Enlil} unknown).
+
+$ single ruling
+
+29. ...
+
+@column 6'
+
+1'. ...
+2'. ...
+$ single ruling
+3'. ...
+4'. ...
+$ single ruling
+5'. [...] means "in the same day."
+6'. [...] eclipse
+7'. [...] it is open towards the south.
+$ single ruling
+8'. ...
+9'. ...
+$ single ruling
+10'. ...
+11'. ...
+12'. [...] and it blows.
+13'. ...
+$ single ruling
+14'. ...
+15'. ...
+16'. ...
+17'. ...

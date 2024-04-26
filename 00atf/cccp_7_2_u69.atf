@@ -1,0 +1,63 @@
+&P461265 = CCP 7.2.u69 (http://ccp.yale.edu/P461265) = BM 59237
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x#
+#lem: u; u
+
+2'. !zz [...] x#-su#
+#lem: u; u
+
+3'. !zz [...] !bs ŠEŠ₂.ŠEŠ₂
+#lem: u; +damāmu[wail//wailing]V'N$
+
+#note: Compare ŠÉŠ.ŠÉŠ = @i{damāmu} in Erimḫuš II 123 (@i{MSL} 17 32).
+4'. !zz [...] !cm da?#-ma-ma
+#lem: u; damāma[wailing]'N
+
+5'. !zz [...]-su#-u₂ : !bs LAL !cm : ra-ka-su#
+#lem: u; +rakāsu[bind//binding]V'N$; +rakāsu[bind//binding]V'N$
+
+6'. !zz [...] x#-e !cm : na-a-hu
+#lem: u; u; +nâhu[rest//resting]V'N$
+
+7'. !zz [...]-x# !cm : lib₃-bi la i-raš-ši
+#lem: u; libbi[heart]N; lā[not]MOD; +rašû[acquire]V$irašši
+
+8'. !zz [...]-u₂ !cm : i-dir-tu₂ lib₃-bi TUKU
+#lem: u; idirtu[misery]N; libbi[heart]N; +rašû[acquire]V$irašši
+
+9'. !zz [... !bs a]-da#-ri !cm : pa-la-ah
+#lem: u; +adāru[be afraid//being afraid]V'N$adāri; +palāhu[fear//fearing]V'N$palāh
+
+10'. !zz [...] !bs NI₂?#{+ni} !cm : pu-luh-tu₄
+#lem: u; puluhtu[fear(someness)]N; +puluhtu[fear(someness)]N$
+
+11'. !zz [...] !bs MAH#.BI !cm : ma-diš
+#lem: u; +mādiš[greatly]AV$; mādiš[greatly]AV
+
+#note: MAH.BI = @i{mādiš} is also attested in K.4387 v 54f (@i{CCP} 3.1.u72).
+12'. !zz [...] x# : !bs i-ṣi !cm : si-i-qu
+#lem: u; u; īṣi[small]AJ; sīqu[constrained]AJ
+
+13'. !zz [... !bs {lu₂?}]NI₂#.TUKU !cm : NI₂.TUKU : na?#-[a?-du?]
+#lem: u; +naʾdu[attentive]AJ$; +naʾādu[be attentive]V$; +naʾādu[be attentive]V$
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] "to wail"
+4'. [...] "@i{to wail}"
+5'. [...] LAL means "to tie."
+6'. [...] means "to rest,"
+7'. [...] means "(he who) has no courage."
+8'. [...] means "(he whose) heart has fear."
+9'. [...] "to be afraid" means "to be scared";
+10'. [...] @i{NÍ}, pronounced /ni/, means "fear."
+11'. [...] MAH.BI means "many."
+12'. [...] "few" means "narrow."
+13'. [... in] "pious @i{man}" ([lú?].NÍ.TUKU), NÍ.TUKU means "@i{to pay attention}."

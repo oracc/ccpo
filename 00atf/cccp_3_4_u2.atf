@@ -1,0 +1,57 @@
+&P348502 = CCP 3.6.4.F (http://ccp.yale.edu/P348502) = W 22307/44
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1'. !zz [...]-ši
+#lem: u
+
+2'. !zz [...] !bs ši#-kin# IZI#.GAR-šu₂ KUD{+as}
+#lem: u; šikin[nature]N; niphišu[ambiguous omen]N; +parāsu[cut//decide]V'N$ipparras
+
+3'. !zz [...]-u₂ ŠEŠ* x [x] !cm : hi-ṭa-tu-šu₂ ku-us-sa-a-šu₂
+#lem: u; ahu[brother]N; u; u; hiṭâtušu[crime]N; kussâšu[fettering]AJ
+
+4'. !cm [...]-x# DU₈-MEŠ-šu-ma UŠ₂ : ša₂ ina NAM.AZU E{+u₂}
+#lem: u; ipaṭṭarūšuma[release]V; imât[die]V; ša[that]REL; ina[in]PRP; bārûti[lore of the diviner]N; qabû[said]AJ
+
+5'. !cm [...]-x#-e-a ša₂-niš ši-kin IZI.GAR-šu₂ KUD{+as}
+#lem: u; šanîš[alternatively]AV; šikin[nature]N; niphišu[ambiguous omen]N; ipparras[decide]'N
+
+6'. ($___$) !cm lib₃-bu-u₂ it-ta-šu₂ ip-par-ras
+#lem: libbū[meaning]PRP; ittašu[sign]N; +parāsu[cut//decide]V'N$ipparras
+
+$(reverse)
+
+7'. !zz [...] x# x# x# x# x# x#
+#lem: u; u; u; u; u; u; u
+
+8'. !zz [...] x# ša₂#-kin?# x# x# : hi#-x#-ik#-x#
+#lem: u; u; šakin[located]AJ; u; u; u
+
+9'. !zz [...] ku?#-uš#-šah# : x x x
+#lem: u; X; u; u; u
+
+10'. !zz [...] na#-ad#-di# x x
+#lem: u; X; u; u
+
+11'. !zz [...] x# ka# x# [x]
+#lem: u; u; X; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] "the nature of his @i{nipḫu}-sign will be decided."
+3'. [...] "his sins are binding him."
+4'. "[...] will be continuously loosen for him, and he will die," which is said in the corpus of divination,
+5'. [...] alternatively, (it means) "the nature of his @nipḫu-sign will be decided,"
+6'. as in (the phrase) "his sign will be decided."
+7'. ...
+8'. ...
+9'. ...
+10'. ...
+11'. ...

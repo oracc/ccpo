@@ -1,0 +1,243 @@
+&P461258 = CCP 1.5 (http://ccp.yale.edu/P461258) = BM 54644+
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1. !zz [...] x# [x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+2. !zz [...] x# ri#-du#-tu₄ x# [x x x x x]
+#lem: u; u; +ridûtu[appropriation]N$; u; u; u; u; u; u
+
+#tr.en: […] … “@i{pursuit}” … […]
+#note: @i{Si vera lectio}, the word @i{ridûtu}, “pursuit,” may explain @i{ḫissatu}, “mention,” which appears in @i{Marduk} II l. 2 = 4.
+3. !zz [...] x#-ri#-mu# : hi-[is]-sa?#-[tu₄ x x] x# x# [x x x]
+#lem: u; u; hissatu[understanding]N; u; u; u; u; u; u; u
+
+#tr.en: […] …. “@i{M}[@i{ention}” (= @i{Marduk} II l. 2 = 4) …] … […].
+#note: At the beginning, perhaps @i{serrēmu}, “onager”? Note that @i{šitmuru} (@i{Marduk} II l. 2 = 4) is elsewhere said of horses.
+4. !zz [...]-x#-du : !bs par-ri-ku# !cm [: x x x x] x# [x] x# x# [(x)]
+#lem: u; +parriku[epith. of gods]N$; u; u; u; u; u; u; u; u; u
+
+#tr.en: […] … “@i{Exalted}” (= @i{Marduk} II l. 2 = 4) [means …] … [(…)].
+5. !zz [...] x# x#-ru : x# bu?#-ur?# [x x x]-ur# x# x# x# [x]
+#lem: u; u; u; u; +būru[cistern]N$; u; u; u; u; u; u; u
+
+#tr.en: […] … “@i{Well}” (= @i{Marduk} II l. 6) … […]
+6. !zz [...]-bi : x# [x x x] :# !bs na-ši-ir# !cm :# na#-[ša₂-ru x] x# x#
+#lem: u; u; u; u; u; +nāširu[pourer]N$nāšir; +našāru[pour out//pouring out]V'N$; u; u; u
+
+#tr.en: […] … […]. “Who lets loose” (= @i{Marduk} II l. 7) (stems from) “to l[et loose” …] …
+7. !zz [...] x#-a?# zi#-it# x# : rab#-bu?# x x [x x x]
+#lem: u; u; X; u; u; u; u; u; u; u
+
+#tr.en: …
+8. !zz [...]-am#-ma :# [x] x# x# ti?# x# bi?# x# [x x] x# x# ka-lu-u₂
+#lem: u; u; u; u; X; u; X; u; u; u; u; u; +kalû[hold (back)//holding (back)]V'N$
+
+#tr.en: […] … […] … “to hold back”
+9. !zz [...] x# : !bs ti-ik !cm : ni-id !zz : x#-[x x x x]
+#lem: u; u; +tīku[(rain)drop]N$tīk; nīd[l(a)ying]N; u; u; u; u
+
+#tr.en: […] … “(Rain)drop” (= @i{Marduk} II l. 10) means “flow.” … […].
+10. !zz [... !bs mu-kam-mir?] iš#-pik-ku !cm : ku-um?-mu#-ur?# [x x x x]
+#lem: u; mukammir[one who piles]N; išpikku[stores (of crops)]N; +kamāru[pile up//piling up]V'N$kummur; u; u; u; u
+
+#tr.en: [… “@i{He who piles}] stores of grain” (= @i{Marduk} II l. 11) — “@i{to pile up}” […]
+11. !zz [...] x#-me?-hu?# !cm : ma-lu-u₂ [x x x x]
+#lem: u; u; malû[be(com)ing full]'N; u; u; u; u
+
+#tr.en: […] … means “to fill up” […]
+#note: The word before @i{malû} might be related to the verb @i{šamāḫu}.
+12. !zz [...] x# x#-ru# : !bs ta-at-tu#-[ru] !zz x# [x x x x]
+#lem: u; u; u; +tattūru[superfluity]N$; u; u; u; u; u
+
+#tr.en: […] … “profit” (= @i{Marduk} II l. 12) … […].
+13. !zz [... !bs pa-qid !cm : pa]-qa#-du : ma-nu-u₂ !zz : ik-x x [x x x x]
+#lem: u; pāqid[carer]N; paqādu[consigning]'N; +manû[count//counting]V'N$; u; u; u; u; u; u
+
+#tr.en: [… “He who entrusts” (= @i{Marduk} II l. 15) – “to e]ntrust” means “to count.” … […].
+#note: The equation @i{paqādu} = @i{manû} is well attested: see @i{CAD} P 115b.
+14. !zz [...] x#-da : tab?#-ta-a-tu₂ x x ka#-[x x x x]
+#lem: u; u; X; u; u; u; u; u; u
+
+#tr.en: […] … […]
+15. !zz [(...) !bs piš-ša₂-ti !cm ana] UGU pa-ša₂-šu₂ : !bs ši-ga-ri !cm : si#-[ga-ri (x x)]
+#lem: u; +piššatu[ointment]N$; ana[on]PRP; muhhi[top]N; +pašāšu[anoint//anointing]V'N$; šigari[doorbolt]N; +šigaru[doorbolt]N$sigari; u; u
+
+#tr.en: [(…) “Ointment” (= @i{Marduk} II l. 15) s]tems from “to anoint.” “@i{šigaru}” (= @i{Marduk} II l. 15) means “bo[lt” (…)].
+16. !zz [...] x# : !bs zi-bi !cm : ma-aṣ!#-ha-tu₄ x# x# x# [x x x]
+#lem: u; u; +zību[food offering]N$zībi; +maṣhatu[(a kind of flour)]N$; u; u; u; u; u; u
+
+#tr.en: […] … “Food offering” (= @i{Marduk} II l. 16) means “flour” … […]
+#note: The reading @akk{aṣ!} is courtesy of K. Wagensonner.
+17. !zz [...] :# ne₂#-re?#-eš?# : a-na?# ne₂#-e!#-ri# [x] x# [x x]
+#lem: u; X; ana[to]PRP; nêri[killing]'N; u; u; u; u
+
+#tr.en: […] … […]
+18. !zz [...] x#-bi x# ša₂# x# x# x# ur?# a :# x#
+#lem: u; u; u; ša[of]DET; u; u; u; X; â[not]MOD; u
+
+#tr.en: […] … […]
+19. !zz [...] x#-tu₄ : na-x# x# x# : !bs EN-ERIDU{ki} !cm : {d}IDIM
+#lem: u; u; u; u; u; +Bēl-Eridu[]GN$; Ea[1]DN
+
+#tr.en: […] … “Bēl-Eridu” (= @i{Marduk} II l. 17) is Ea.
+#note: The name in the base text is @akk{{d}EN-AN.KI}.
+20. !zz [... u₂]-sa?#-tu₂?# : gi-mi-il
+#lem: u; +usātu[help]N$; +gimillu[requital]N$gimil
+
+#tr.en: […] “@i{Assistance}” (= @i{Marduk} II l. 18) means “help
+#note: Compare the commentary on the Theodicy (@i{CCP} 1.4) o 16: @akk{u₂-sat : gi-mil U₄-ME SU₃-ME}, “‘assistance’  means ‘aid for many days’.”
+21. !cm [U₄-ME SU₃-ME !zz ...] :# !bs ha-aš₂#-ša₂#-a# tah-su-us nak!(EME)-rat EME
+#lem: ūmāti[day]N; rūqēti[distant]AJ; u; +hamšā[fifty]N$haššā; +hasāsu[be conscious]V$tahsus; +nakru[strange]AJ$nakrat; lišāni[tongue]N
+
+#tr.en: [“@i{for many days}” …] “You mentioned the fifty (names), (whose) language is strange” (= @i{Marduk} II l. 22);
+22. !zz [... !bs a]-bir?#-ti-i# !cm : bi-il?#-x#-si re-ʾ-i x x-tu₂
+#lem: u; +ābirû[weak]N$abrirtî; u; +rēʾû[shepherd]N$rēʾî; u; u
+
+#tr.en: [… “@i{abi}]@i{rtî} (?, @i{Marduk} II l. 23) means … @i{of the shepherd} …
+23. !zz [...] !bs mun#-nab#-tu₄ !cm : ha-ab-tu₄ : !bs tu#-šad#-ma-aq ma-ag#-ri-im-ma#
+#lem: u; +munnabtu[fugitive]N$; +habtu[robbed]N$; +damāqu[be(come) good]V$tušadmaq; +magru[willing]N$magrim-ma
+
+#tr.en: [… “fu]gitive” (= @i{Marduk} II l. 24) means “plundered.” “You favor the obedient” (@i{Marduk} II l. 25?)
+24. !zz [...] !bs a-pi-ir !cm :! a!-pa!-ri : ma-lu-u₂ : a-pa-ri !cm : na-da-nu
+#lem: u; +ēpiru[provider]N$āpir; +epēru[feed//feeding]V'N$apāri; malû[be(com)ing full]'N; apāri[feeding]'N; nadānu[giving]'N
+
+#tr.en: […] “fed” (= @i{Marduk} II l. 27) (stems from) “to feed”, (which means) “to fill”; “to feed” means “to give,”
+25. !cm [a-pa-ri : ra]-a-mu : !bs ma-ti-tan !cm : ma-ta#-a-tu₄
+#lem: apāri[feeding]'N; +râmu[present to//presenting to]V'N$; mātitān[land]N; +mātu[land]N$mātātu
+
+#tr.en: [“to feed” means “to g]rant.” “@i{matītān}” (= @i{Marduk} II l. 27) means “(all) lands.”
+26. !zz [...]-ul?#-lu-u₂?# : !bs šu-te-mu-qa !cm : su#-ul-lu-u₂
+#lem: u; +emēqu[be wise//pray devoutly]V'N$šutēmuqa; +sullû[appeal//apealing]V'N$
+
+#tr.en: […] … “To pray” (@i{Marduk} II l. 30) means “to implore.”
+27. !bs [ŠA₃.KUŠ₂.U₃ !cm : muš-ta]-lu# !cm : ŠA₃.KUŠ₂.U₃ : ma-li-ku!
+#lem: +muštālu[who considers]N$; +muštālu[who considers]N$; +māliku[adviser]N$; māliku[adviser]N
+
+#tr.en: [@i{šà.kúš.ù} means “circumsp]ect” (@i{Marduk} II l. 31), @i{šà.kúš.ù} means “advisor.”
+#note: The last equation is rare, but it attested e.g. in @i{Nabnītu} IV/IVa 196 (@i{MSL} 16, 84).
+28. !zz [...] x-la/te-ma-lu : !bs it-pe-šu₂ !cm : le-ʾ-u₂
+#lem: u; u; itpēšu[expert]N; lēʾû[powerful]AJ
+
+#tr.en: […] … “Expert” (= @i{Marduk} II l. 34?) means “competent.”
+#note: @i{itpēšu} comments perhaps on l. 34, although the manuscripts read @akk{i-te-ep-sú}.
+29. !zz [...]-du-u₂ : !bs nag-bi !cm : nap-ha-ri
+#lem: u; nagbi[underground water]N; naphari[(the) whole]N
+
+#tr.en: […] … “Entire” (= @i{Marduk} II l. 35) means “all.”
+30. !zz [...] !bs al-li !cm : a-a-in-nu : !bs al-lu-u₂#
+#lem: u; +ali[where?]AV$alli; +ayyānu[where?]AV$ayyinnu; +ali[where?]AV$allû
+
+#tr.en: […] “Whence” (= @i{Marduk} II l. 35) means “where.” “Whence” (= @i{Marduk} II l. 35)
+31. !zz [... !bs šu-ut-lu-mu !cm :] na?#-da-nu : !bs ša₂-lum-ma-tu₂ !cm : zi-i#-mu
+#lem: u; +šutlumu[grant//granting]V'N$; nadānu[giving]'N; šalummatu[radiance]N; zīmu[face]N
+
+#tr.en: [means … “To bequeath” (= @i{Marduk} II l. 38) means] “to give.” “Splendor” (= @i{Marduk} II l. 39) means “face,”
+32. !zz [... !bs ša₂]-lum#-ma-tu₂ !cm : bu-u₂-nu :. SU.LIM : ša₂-lum-ma-tu₄
+#lem: u; šalummatu[radiance]N; +būnu[goodness//face]N'N$; šalummatu[radiance]N; šalummatu[radiance]N
+
+#tr.en: [… “sp]lendor” means “face”, @i{su.lim} means “splendor”
+33. !cm [SU?.LIM? : bu-un]-na?#-nu-u₂ : !bs na-ša₂-a re-ša₂-a-ka
+#lem: šalummatu[radiance]N; +bunnannu[physiognomy]N$bunnanû; našâ[bearer]N; +rēšu[head]N$rēšāka
+
+#tr.en: [@i{su.lim} (?) means “phys]ique.” “You are exalted” (= @i{Marduk} II l. 40)
+#note: The first half of the line probably contained a @i{notarikon} analysis of the word @akk{SU.LIM} that was used to justify the equation between @i{šalummatu} and @i{zīmu} etc. The equation between @akk{SU.LIM} and @i{bunannû}, if the reading is certain, is elsewhere unattested.
+34. !zz [...] x# : !bs ta-ši-la-a-tu₂ !zz : 
+#lem: u; u; +tašīltu[(ceremony of) celebration]N$tašīlātu
+
+#tr.en: [means …] … “Joy” (= @i{Marduk} II l. 40) means
+35. !zz [...] x# ap-su?-u₂?#
+#lem: u; u; Apsu[1]GN
+
+#tr.en: […] “@i{Apsû}.”
+#note: The line might comment on the name Damgalnuna, which appears in @i{Marduk} II l. 41.
+36. !zz [... !bs {d}]LAMMA?# !cm :# la#-mas#-sa?#-[tu₄?] x# x# x#
+#lem: u; lamassi[(female) tutelary deity]N; +lamassatu[tutelary goddess]N$; u; u; u
+
+#tr.en: […] @i{lamma} (= @i{Marduk} II l. 41) means “tutelary deity.” …
+37. !zz [...] !bs ra#-šub-ba-tu₂ !cm : zi#-i#-mu :
+#lem: u; rašubbatu[terrifying appearance]N; zīmu[face]N
+
+#tr.en: […] “awe” (= @i{Marduk} II l. 42) “face.”
+38. !zz [... !bs e?-ri-mu !cm :] NE#{+e-rim}.RU !cm : rag-gu : !bs tu-ar₂#-ri :
+#lem: u; +erīmu[rival]N$; +raggu[wicked]AJ$; raggu[wicked]AJ; +arû[cut off]V$tuʾarri
+
+#tr.en: [… @i{erīmu} (@i{Marduk} II l. 43?)] – @i{erím}, read /@i{erim}/, means “evil.” @i{tuʾarri} (= @i{Marduk} II l. 43)
+#note: The line may contain a @i{notarikon} analysis of the word @i{rašubbatu}. If correctly read, the strange word @i{erīmu}, “enemy” (on which see Finkel @i{CDOG} 2 p. 234) would appear in @i{Marduk} II l. 43 (now @akk{x-ri-mu}, restauration suggested by E. Frahm). At the end, the commentary explains the very difficult @akk{tu-UB-RI} (corrected in @i{AHw} 222b to @akk{tu-up-paq!}, and other authors following this), as stemming from @i{arû}, “to cut off” (the equation @i{arû} = @i{nakāsu} is well attested, see @i{CAD} A/2 317a).
+39. !cm [a-ru-u₂ : na]-ka-si : !bs ga-ap-šiš !cm : ga-pa-šu₂# [:] ra#-bu-u₂ :#
+#lem: +arû[cut off//cutting off]V'N$; +nakāsu[cut//cutting]V'N$; +gapšiš[in spate]N$; gapāšu[rising upwards]'N; +rabû[be big//being big]V'N$
+
+#tr.en: [(stems from) “to cut off,” which means “to c]ut.” “Risen” (= @i{Marduk} II l. 43) (stems from) “to rise upwards,” (which) [means] “to be large.”
+40. !zz [... !bs te-na-na-a] !cm :# e-nu-u₂ : ša₂-nu-u₂# !zz : x# x# [x] di#-x# [x x (x)]
+#lem: u; +tēnânû[seeking change]N$; enû[changing]'N; +šanû[be changed//being changed]V'N$; u; u; u; u; u; u; u
+
+#tr.en: [… “Revolutionary” (= @i{Marduk} II l. 46)] (stems from) “to revolutionize” (which) means “to change.” … […]
+41. !zz [...] !bs ar#-ša₂-a-tu₂ !cm : {lu₂}SI.NU.SA₂ : ar-šu₂ x# x# [x x x]
+#lem: u; +aruštu[dirt]N$aršātu; +aršu[dirty]N$; +aršu[dirty]N$; u; u; u; u; u
+
+#tr.en: […] “Impure things” (= @i{Marduk} II l. 47) – lú.@i{si-nu-sá} means “impure” … […].
+#note: It is uncertain from which lexical list the explanation is taken.
+42. !zz [... !bs za]-ʾ-i-ri !cm : ar-šu₂ : x x x ša₂-qa?# [x x x] 
+#lem: u; +zāʾeru[hostile]N$zāʾiri; aršu[dirty]N; u; u; u; u; u; u; u
+
+#tr.en: [… “En]emy” (= @i{Marduk} II l. 47) means “impure” … […]
+43. !zz [... !bs me-na] !cm :# ma-nu-u₂# :# x# x# la# mi-na-tu ša₂ x# [x x x]
+#lem: u; X; manû[numbered]AJ; u; u; lā[not]MOD; X; ša[of]DET; u; u; u; u
+
+#tr.en: [… “Co]unt” (= @i{Marduk} II l. 48) (stems from) “to count” … dimensions of … […]
+44. !zz [...] !cm ma#-lu-u₂ : !bs tu-uš-te-šir i-ša₂-ri !zz [x x (x)]
+#lem: u; malû[be(com)ing full]'N; +ešēru[be/go well]V$tuštēšir; išari[straight]AJ; u; u; u
+
+#tr.en: […] means “to fill.” “You make the righteous prosper […]” (= @i{Marduk} II l. 49).
+45. !zz [...] : !bs i-ša₂-ri !cm : ki-i-nu : !bs mu-ki-in IGI#.[SA₂{+e}]
+#lem: u; išari[straight]AJ; kīnu[permanent]AJ; +mukinnu[witness//establisher]N'N$mukīn; +igisû[contribution]N$igisê
+
+#tr.en: […]; “righteous” means “pious.” “Establisher of pr[esents]” (= @i{Marduk} II l. 50).
+46. !zz [...] !bs ŠA₃!#.TAM !cm : qa-a-pu <:> na-da-nu : [x x x]
+#lem: u; +qiāpu[(en)trust//(en)trusting]V'N$qâpu; +qiāpu[(en)trust//(en)trusting]V'N$qâpu; nadānu[giving]'N; u; u; u
+
+#tr.en: […] @i{šatam} (= @i{Marduk} II l. 50) means “to entrust” (<i.e.>) “to give”; […]
+#note: On @akk{ŠA₂.TAM} = @i{qâpu}, see @i{CAD} Q 93a.
+47. !zz [...] !bs a-lak-tu₂ !cm : ṭe₃-e-me : !bs liš-nak-ki-ir?#
+#lem: u; alaktu[journey]N; ṭēme[(fore)thought]N; +nakāru[be(come) different]V$lišnakkir
+
+#tr.en: […] “Way” (= @i{Marduk} II l. 51) means “behavior.” “May he @i{alter}” (= @i{Marduk} II l. 53?) 
+48. !zz [... !bs tu-še]-me# !cm : e-mu-u₂ : ma-ša₂-lu !zz : te#-[x x]
+#lem: u; tušemme[become]V; +ewûm[become//becoming]V'N$emû; mašālu[equalling]'N; u; u
+
+#tr.en: [means … “You tu]rn into” (= @i{Marduk} II l. 59) (stems from) “to become,” (which) means “to resemble.”
+49. !zz [...] :# !bs ka-ra-as-si-na ši-it#-[nu (x x)]
+#lem: u; +karšu[stomach]N$karassina; +šanû[be changed]V$šitnu; u; u
+
+#tr.en: […]; “their purpose changes” (= @i{Marduk} II l. 60) [(…)]
+50. !zz [...] x# !bs kit-mu-us DINGIR# i#-red?#-[di (x x)]
+#lem: u; u; +kitmusu[kneeling]N$kitmus; ila[god]N; ireddi[accompany]V; u; u
+
+#tr.en: […] the adorant, @i{follows his god} (= @i{Marduk} II l. 62),
+51. !zz [...] x# : ka-x#-[x : !bs pa]-lih# [DINGIR] la# aš₂-ru
+#lem: u; u; u; pālih[reverent one]N; ilu[god]N; lā[not]MOD; +ašru[humble]AJ$
+
+#tr.en: […] … [… “The son of] the rever[ent], the impious” (= @i{Marduk} II l. 63).
+52. !zz [...] !bs ša₂#-ni#-tu₄# !zz [x x x] !bs ki-i tu-šar-ši-du-uš
+#lem: u; +šanītu[a second time]AV$; u; u; u; kī[as]PRP; +rašādu[found]V$tušaršidūš
+
+#tr.en: […] “A second time” (= @i{Marduk} II 64) means […]. “You lay his foundations” (cp. @i{Marduk} II l. 65),
+#note: The manuscripts of the base text read @akk{tu-šak-ši-du-šu₂}.
+53. !zz [(...) !cm šur-šu-du :] ku#-un!?#-nu : !bs ar-ša₂-a-tu₂ !zz : x#-[x x]
+#lem: u; +rašādu[found//founding]V'N$šuršudu; +kânu[be(come) permanent//establishing firmly]V'N$kunnu; aršātu[dirt]N; u; u
+
+#tr.en: [… “to lay the foundations” means] “@i{to establish}.” “Impure things” (= @i{Marduk} II l. 65) means … […].
+#note: The equation @i{šuršudu} = @i{kunnu} (if the reading is certain) is attested in @i{Malku} VIII 20.
+54. !zz [...]-x#-mu : !bs ki-i i-te-en-nu !zz [(x x)]
+#lem: u; kī[as]PRP; +enēnu[punish]V$ītennû; u; u
+
+#tr.en: […] … “When he has punished” (= @i{Marduk} II l. 68) [(…)]
+55. !zz [...] x# x# x# x# [x x]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: […] … […]

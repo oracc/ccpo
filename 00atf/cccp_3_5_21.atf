@@ -1,0 +1,136 @@
+&P348847 = CCP 3.5.21 (http://ccp.yale.edu/P348847) = W 22554/7b
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [* ina E₂ {lu₂}UG₇ GIM TI IGI{+ir} LU₂ BI UG₇] BIR{+ah#} E₂ !cm : {lu₂?#}UG₇?# x# !zz [...]
+#lem: ina[in]PRP; bīt[house]N; +mītu[dead]N$mīti; kīma[according to]PRP; balāṭu[living]'N; innamir[see]V; amēlu[man]N; šū[that]IP; imât[die]N; issappah[scatter]V; bīt[house]N; mīti[dead]N; u; u
+
+2. !zz [...]-x#-in-ni-šu₂ : x [...]
+#lem: u; u; u
+
+3. !zz [...]-ru?#-uš#-tu₄ !cm ša₂-niš ha-x#-[...]
+#lem: u; šanîš[alternatively]AV; u
+
+4. !zz [...] ba-ri-ru LU₂ ru#-[...]
+#lem: u; +barīru[radiance]N$; amēlu[man]N; u
+
+5. !zz [...] x#-li#-ti# x# ana?# E₂# x# [...]
+#lem: u; u; u; ana[to]PRP; bīti[house]N; u; u
+
+6. !zz [...] x# ib-lu-ṭu ša₂ x# x# [...]
+#lem: u; u; +balāṭu[live]V$ibluṭū +.; ša[that]REL; u; u; u
+
+7. !zz [... !bs lu ša u₂]-ma!#-mu!# lu ša! NAM!#.LU₂.U₁₈!.LU !zz [...]
+#lem: u; lū[or]CNJ; ša[that]REL; umāmu[animal]N; lū[or]CNJ; ša[that]REL; amēlūtu[people]N; u +.
+
+8. !zz [...] x#-tu₄# ana# LU₂# i-te-ru AN.TA x# x [x x x]
+#lem: u; u; ana[for]PRP; amēli[man]N; +watāru[be(come) outsize//increase]V$itteru +.; eliš[above]AV; u; u; u; x; x
+
+9. !zz [...]-nu# :!# !bs *# ina E₂ NA ša!# um!#-ṣa-a-tu₂ DIRI!?# !zz [x x] x
+#lem: u; ina[in]PRP; bīt[house]N; amēli[man]N; ša[that]REL; umṣātu[mole (on skin)]N; mahāhu[soaking]'N; u; u; u
+
+#note: Compare perhaps @i{Šumma Ālu} XXI 22 (@i{kiṣṣatu}).
+10. !zz [...] ana x# x#-lu# [(x)] !bs {giš#}KIRI₆ LU₂ x# !zz [x (x)] x#
+#lem: u; ana[to]PRP; u; u; u; +kirû[garden]N$kiri; amēli[man]N; u; u; u; u
+
+11. !zz [...] ih!#-ru-x#
+#lem: u; u
+
+12. !zz [...] x#
+#lem: u; u
+
+13. !zz [...] li# [x] x#
+#lem: u; u; u; u
+
+14. !zz [...] ru# [x (x)]
+#lem: u; u; u; u
+
+$ rest of obverse broken
+
+@reverse
+
+$ start of reverse broken
+
+1'. !zz [... :] !bs * DINGIR u {d}INNIN ti#-[ba]
+#lem: u; ilu[god]N; u[and]CNJ; +ištaru[goddess]N$; +tību[arousal]N$tība
+
+2'. !bs [iš-kun-šu₂ !zz ... !bs TAG].TAG-ma TAG-su I.BI₂.ZA IGI#
+#lem: +šakānu[put]V$iškunšu; u; +lapātu[touch]V$iltanapput; ilappassu[affect]V; ibissâ[(financial) loss]N; immar[experience]V +.
+
+3'. !zz [...] !cm TAG#-ma I.BI₂.ZA IGI
+#lem: u; +lapātu[touch//affect]V$illappatma; ibissâ[(financial) loss]N; immar[experience]V +.
+
+$ triple ruling
+
+@colophon
+
+4'. !zz [ṣa-a-tu₂ u šu-ut KA ma-ša-a-al]-ti ša₂ KA um-man-nu ša₂ lib₃-bi
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[accordance]N; +mašʾaltu[questioning]N$mašʾalti; ša[from]DET; pî[mouth]N; +ummiānu[expert]N$ummânu; !ša[from]DET; libbi[middle]N
+
+5'. !zz [* ina E₂ {lu₂}UG₇ GIM TI IGI]{+ir!#} 21! mal₂-sutₓ(BAN₂) URU ina SUKUD GAR{+in} NU AL.TIL
+#lem: ina[in]PRP; bīt[house]N; +mītu[dead]N$mīti; kīma[according to]PRP; balāṭu[living]'N; innamir[see]V; n; malsût[reading out]N; ālu[city]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ +.; lā[not]MOD; qati[completed]AJ +.
+
+6'. !zz [* ina {iti}BARA₂ TA U₄ 1-KAM] EN# U₄ 30-KAM la-am TA {giš}NA₂ GIR₃-šu₂
+#lem: ina[in]PRP; Nisannu[1]MN; ina[on]PRP; ūmi[day]N; n; adi[until]PRP; ūm[day]N; n; lām[before]SBJ; +ištu[from//out of]PRP$; erši[bed]N; šēpšu[foot]N
+
+7'. !zz [ana KI GAR{+nu} {im}GID₂.DA {m}{d}MAŠ-GAL₂]{+ši#} A {m}{d}EN!.LIL₂-ke-šir₃ {aš}KUL
+#lem: ana[towards]PRP; erṣetu[earth]N; šaknū[displayed]AJ; giṭṭi[oblong tablet]N; Ninurta-ušabši[1]PN; aplu[son]N; +Enlil-kišir[]PN$; +šīrāšû[brewer]N$šīrāši +.
+
+8'. !zz [{d}il₃-il₃ A {m}ŠU-{d}]30 pa-lih {d}UMUN {d}MAŠ u {d}U!.PA!
+#lem: +Enlil[]DN$; aplu[son]N; Gimil-Sin[1]PN; pālih[reverent one]N; +Marduk[]DN$; Ninurta[1]DN; u[and]CNJ; +Nuska[]DN$
+
+#note: The first three preserved oblique wedges could also be interpreted as @akk{UMUN.UMUN.UMUN} (i.e., Enlil), rather than Sîn (as suggested by U. Gabbay, 5/2015). For the interpretation of @akk{{d}U.PA} as Nusku, see Frahm @i{GMTR} 5 (2011) p. 196 and fn. 921.
+9'. !zz [NU] TUM₃#-šu₂
+#lem: lā[not]MOD; itabbalšu[take away]V +.
+
+@translation labeled en project
+
+@label o 1
+[“If a dead man like a living one is seen in a man’s house, that man will die, dispersal of the] house” (= @i{Šumma Ālu} XXI 1), “@i{dead man}” means [...].
+
+@label o 2
+[...] his [...]
+@label o 3
+[...] ... alternatively ... [...]
+@label o 4
+[...] radiance, a man ... [...]
+@label o 5
+[...] ... @i{to the house} ... [...]
+@label o 6
+[... while] he lives; that ... [...]
+@label o 7
+[... “If an old bone, whether a]nimal or human [...]” (= @i{Šumma Ālu} XXI 19) [...]
+@label o 8
+[...] @i{will increase} for the man; above ... [...]
+@label o 9
+[...] ... “If there is someone @i{full of} moles in a man’s house” (= @i{Šumma Ālu} XXI 22 (?)) ... [...]
+@label o 10
+[...] to ... the man’s orchard (= @i{Šumma Ālu} XXI 26 (?)) ... [...] ...
+@label o 11
+[...] shining
+@label o 12 - o 14
+...
+
+$ rest of obverse broken
+
+$ start of reverse broken
+
+@label r 1' - r 3'
+
+[... “If a god or goddess [estabishes] @i{an attack} [for him” (= @i{Šumma Ālu} XXI 109a) means ...]. “If it anoints and touches him, he will experience losses” (= @i{Šumma Ālu} XXI 109b) [means that ...], “he will @i{touch it} and  will experience losses” .
+
+$ triple ruling
+
+@label r 4' - r 5'
+[Lemmata, oral explanations, and (materials for) a 'questioning' @i{by} a (master-)scholar, relating to “[If a dead man like a living one is se]en [in a man’s house]” (= @i{Šumma Ālu} 21). 21st “reading” (of the series) “(If) a city is set on a height". Not finished.
+
+@label r 6' - r 7'
+[“If from the first] until the thirtieth of Nisannu, before a man has put his foot out of bed [onto the ground"] (= @i{Šumma Ālu} 22).
+
+@label r 7' - r 9'
+[One-column tablet of Ninurta-ušabš]i, son of Enlil-kešir, brewer [of Enlil, descendant of Gimil-S]în. The reverer of Marduk, Ninurta, and Nusku shall not take (the tablet) away!

@@ -1,0 +1,128 @@
+&P497442 = CCP 3.1.u94.b (http://ccp.yale.edu/P497442) = VAT 9434
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs * 30 {giš}GIGIR U₅ !cm KI GIR₃-MIN ša₂ {mul}ŠU.GI GUB{+az}-ma
+#lem: Sin[1]DN; narkabti[chariotry]N; irkab[ride]V; qaqqar[district]N; šēpī[foot]N; ša[of]DET; Šibu[Old Man]CN; izzazma[stand]V
+
+#note: Compare the reports by Akkullanu (@i{SAA} 8 112: r. 1–6) and Nabû-iqīša of Borsippa (@i{SAA} 8 298: 1–6), where the protasis is linked to the configuration of a lunar halo, not necessarily the Chariot constellation (Auriga) (Rochberg 2004: 169–170); on constellations’ feet, see @i{CAD} Š/2 301b sub @i{šēpu}.
+
+$ single ruling
+2. !bs * {mul₄}GAG.SI.SA₂ SA₅ KUR ha-ru-be₂-e GU₇ !cm u₄-um {mul₄}GAG.SI.SA₂ IGI{+ru}
+#lem: +Šukudu[]CN$; sāmū[red]AJ; mātu[land]N; harubê[carob (tree)]N; ikkal[eat]V; ūm[day]N; Šukudu[1]CN; innamrū[appear]V
+
+#note: Quotation of @i{ACh Ištar} 28: 20 (K 2894+), which is cited and interpreted in the report @i{SAA} 8 76: 1–4; cf. K 2346+ r. 16′ (Reiner 1998: 246).
+
+3. ($___$) !cm 3 U₄-ME {im}2 DU-ma ha-ru-be₂-e ŠE.GIŠ.I₃
+#lem: n; ūmū[day]N; +ištānu[North]N$; illakma[flow]V; harubê[carob (tree)]N; šamaššammū[sesame]N
+
+#note: The equation @i{harūbu} = @i{šamaššammū} can also be found in the astrological commentary @i{CCP} 3.1.47 o 21′ [EJ].
+4. ($___$) !cm KIMIN ina {iti}BARA₂ U₄ 6.KAM TA {d}AG ina ka-ri {im}4 DU-ma
+#lem: +šanîš[otherwise]N$; ina[in]PRP; Nisannu[1]MN; ūmu[day]N; n; ištu[from]N; Nabu[1]DN; ina[in]PRP; +kāru[quay]N$kāri; +amurru[west//west wind]N'N$; illakma[flow]V
+
+#note: The laconic context in which the west wind blows should be associated with Nabû’s role in the @i{akītu} festival in Babylon, but the events on the 6th of Nisannu are poorly known. In the Offering Bread hemerology I/6 is associated with offerings to Nabû and Tašmētu (Livingstone 2013: 109) [MTR]. Nabû arrived to the Red Gate quay (@i{kār bābi sāmi}) from Borsippa in the evening of the 5th, and on the 6th of Nisan he went to Esangil (see George @i{BiOr} 53 (1996) pp. 380-381). The gist may be the “red” color of the quay. If so, “after Nabû (docks) at the quay, the west wind blows” [EJ].
+ 
+$ single ruling
+5. !bs * U₄ DINGIR URU{ki} ŠEG₃ ŠUR{+nun} DINGIR URU{ki} KI URU{ki}-šu₂ ze-ni
+#lem: ūmu[day]N; ilu[god]N; +ālu[village]N$āli; zunnu[rain]N; izannun[rain]V; ilu[god]N; āli[village]N; +itti[with]PRP$; +ālu[village]N$ālīšu; zeni[angry]AJ
+
+#note: Quotation of @i{TCL} 6 9: 20 and dupls. (@i{Šumma ālu}) prompted by the previous entry’s reference to I/6; see note on line 14 below.
+6. ($___$) !cm U₄ 6.KAM ša {iti}BARA₂ U₄ 22.KAM ša {iti}ZIZ₂ U₄ 3.KAM ša₂ {iti}ŠE
+#lem: ūmu[day]N; n; ša[of]DET; Nisannu[1]MN; ūmu[day]N; n; ša[that]REL; Šabaṭu[1]MN; ūmu[day]N; n; ša[of]DET; Addaru[1]MN
+
+$ single ruling
+
+7. !bs * u₄-um {mul}GIR₂.TAB IGI{+ru} {im}1 DU MU BI SIG₅#[{+at}]
+#lem: ūm[day]N; Zuqaqipu[Scorpion]CN; innamrū[appear]V; +šūtu[south//south wind]N'N$; illik[go]V; šatti[year]N; šuāti[that]IP; damqat[good]AJ
+
+#note: Quotation from MUL.APIN 2 iii 52 (Hunger and Pingree 1989: 116). Restored following K 6116+ obv. 6′; VAT 9423 omits the entry in K 6116+ obv. 4′–5′.
+8. ($___$) !cm ina {iti}APIN U₄ 5.KAM {mul₄}GIR₂.TAB IGI-ma {im}1 DU-ma KI.MIN ina {iti}ZIZ₂ U₄# [30.KAM]
+#lem: ina[in]PRP; Arahsamnu[1]MN; ūmu[day]N; n; Zuqaqipu[Scorpion]CN; +amāru[see]V$inammirma; šūtu[south wind]N; illakma[flow]V; šanîš[alternatively]AV; ina[in]PRP; Šabaṭu[1]MN; ūmu[day]N; n
+
+#note: Compare MUL.APIN 2 i 32–33 (Hunger and Pingree 1989: 79) and MUL.APIN 1 iii 3 (Hunger and Pingree 1989: 44). Restored following K 6116+ obv. 7′.
+9. ($___$) !cm ul-tu {d}GAŠAN HUR.SAG.KALAM.MA IGI?# [x x x]
+#lem: ultu[from]PRP; Beltu[1]DN; +Hursagkalama[]GN$; pān[front]N; u; u; u
+
+#note: The astrological compendium @i{LKU} 44: 12 associates the constellation Scorpion with Ḫursagkalama (Weidner 1920: 119–120).
+$ single ruling
+
+10. !bs * {d}SAG.ME.GAR a-dir GIŠ.HUR NIGIN₂-ma : {d}dil-bat a-dir !cm {giš}HAŠHUR# {giš#}[GI? NIGIN₂-ma (x x)]
+#lem: nēberu[Jupiter]CN; adir[dark]AJ; uṣurta[(cruciform halo)]N; lamima[surrounded]AJ; Dilbat[Venus]CN; adir[dark]AJ; hašhūra[(a fruit)]N; apu[reed-bed]N; lamima[surrounded]AJ; u; u
+
+#note: In one text the @i{ḫašḫūr api}, “marsh apple(?),” surrounds Venus (@akk{[{giš}]HAŠHUR {giš}GI NIGIN₂-ma}, Rm 2, 402 r. 6′, see Reiner 1998: 152; cf. K 12733 obv. 5′, see Reiner 1998: 97), and in another it may be associated with Venus being surrounded by a “green ‘drawing’” (@akk{GIŠ#.HUR SIG₇ NIGIN-ma ia-ad-dar-ma}, VAT 10218 iii 13′–14′, see Reiner 1998: 48).
+
+11. !bs * ina GIŠ.NIM MUL ana ŠA₃ 30 KU₄ LUGAL# ELAM#.[MA{ki} UG₇?]
+#lem: ina[in]PRP; ṣītān[at sunrise]AV; kakkabi[star]N; ana[according to]PRP; libbi[interior]N; Sin[1]DN; īrub[enter]V; šarru[king]N; Elam[1]GN; imât[die]N
+
+#note: Restored following K 6116+ obv. 9′.
+12. !bs * ina GIŠ.ŠU₂ MUL ana ŠA₃ 30 KU₄ LUGAL# [URI{ki} UG₇]
+#lem: ina[in]PRP; šīlān[at sunset]AV; kakkabi[star]N; ana[according to]PRP; libbi[interior]N; Sin[1]DN; īrub[enter]V; šarru[king]N; Akkad[1]SN; imât[die]N
+
+#note: Compare MUL.APIN 2 iii 44 (Hunger and Pingree 1989: 115). Restored following K 6116+ obv. 10′.
+13. ($___$) !cm lu-u₂ ina {d}UTU.E₃ lu-u₂ ina {d}UTU.ŠU₂.A MUL?# [x x x x x x x]
+#lem: lū[may]MOD; ina[in]PRP; ṣīt[exit]N&šamši[sun]N; lū[may]MOD; ina[in]PRP; ereb[entrance]N; kakkabi[star]N; u; u; u; u; u; u; u
+
+#note: Possible reference to MUL.APIN 2 i 61 (Hunger and Pingree 1989: 85).
+$ single ruling
+
+14. !bs [*] {mul#}dil-bat ṣer-ha TUKU{+ši} !cm [ŠE.ER.ZI TUKU?]
+#lem: +Dilbat[]CN$; +ṣerhu[flash]N$ṣerha; irašši[acquire]V; šarūra[brilliance]N; īši[have]V
+
+#note: Restored following K 6116+ obv. 11′. The related @i{Šumma ālu} traditions are garbled (@i{TCL} 6 9: r. 21 // @i{CT} 40 40+: r. 14–15, see the note on line 5 above): according to @i{TCL} 6 9 a @i{ṣirḫu}-phenomenon of Venus is a good sign, while for @i{CT} 40 40+ it is not; the latter view is aligned with the @i{EAE} tradition found in VAT 10218 iii 67′–68′ (Reiner 1998: 52) as well as in the commentary @i{ACh Ištar} 5: 1–4 (K 35, see Reiner 1998: 100; @i{CCP} 3.1.58.A.b).
+
+$ single ruling
+
+15. !bs [*] 30?# TUR₃ NIGIN₂-ma {d}UTU ina ŠA₃-šu GUB?#[{+iz} kit-tu₂ ina KUR GAL₂{+ši} A? ...]
+#lem: Sin[1]DN; +tarbaṣu[animal stall//halo]N'N$tarbaṣa; lamima[surrounded]AJ; Šamaš[1]DN; ina[in]PRP; libbišu[interior]N; izziz[stand]V; kittu[truth]N; ina[in]PRP; māti[land]N; ibašši[exist]V; u; u
+
+#note: Restored following K 6116+ obv. 12′–13′. A report from the Babylonian astrologer Zakir quotes both entries but reverses their order (@i{SAA} 8 301: r. 4–7). The interpretation found in VAT 9434 may draw on EAE 8 (@i{ACh} 2 @i{Suppl}. 1a, K 2267+ iv 21 // Sm 1262+ obv. 4′). In contrast the sun is interpreted as Saturn following the final entry in the first tablet of the commentary series @i{Šumma Sîn ina tāmartīšu} (@i{ACh Sin} 3: 140–141, K 2171+ r. 15′–16′ and dupls., @i{CCP} 3.2.1.A.e; this interpretation is cited in the letter @i{SAA} 10 113: 3–5 as well as in various astrological reports, e.g., SAA 8 40: 2′–8′).
+16. !cm [(*) 30?] TUR₃# NIGIN₂-ma {mul}SIPA#.[ZI.AN.NA ina ŠA₃-šu GUB? !zz (...)]
+#lem: Sin[1]DN; tarbaṣa[halo]N; lamima[surrounded]AJ; Šitaddaru[Orion]CN; ina[in]PRP; libbišu[interior]N; izziz[stand]V; u
+
+$ single ruling
+
+17. !zz [*? x x x] x# x# x# [...]
+#lem: u; u; u; u; u; u; u
+
+@translation labeled en project
+
+@label o 1
+
+If the moon mounts a chariot: (means) it stands with the feet of the Old Man.
+
+@label o 2 - o 4
+
+If the Arrow is red: the land will eat carobs(?); (means) on the day the Arrow is seen the north wind blows for three days; ‘carobs’ (means) ‘sesame’; alternatively, in Nisannu on the 6th day after Nabû (departs?) from the quay the west wind blows.
+
+@label o 5 - o 6
+
+If it rains on the day of the city god: the city god is angry with his city; (means) on the 6th day of Nisannu, the 22nd day of Šabāṭu, (or) the 3rd day of Addaru.
+
+@label o 7 - o 9
+
+If on the day the Scorpion is seen the south wind blows: that year is g[ood.] (means) In Arahsamna (VIII) on the 5th day the Scorpion is seen and the south wind blows; alternatively, in Šabāṭu on the [30th] d[ay.] From/After/When(?) the Lady of Hursagkalama ... [...].
+
+@label o 10
+
+If Jupiter is dim (means?) it is surrounded by a ‘drawing’ : (if) Venus is dim (means?) [it is surrounded by(?) a ‘marsh] apple’ [(...)].
+
+@label o 11 - o 13
+
+If a star enters into the moon in the east: the king of El[am will die.] If a star enters into the moon in the west: the king of [Akkad will die.] (means?) either in the east or in the west a st[ar(?) ...].
+
+@label o 14
+
+[If] Venus has a @i{ṣerhu}: [(means) has(?) brilliance.]
+
+@label o 15 - o 16
+
+[If the moo]n is surrounded by a halo, and the sun s[tands] in it: [there will be justice in the land ... (means?) (If) the moon(?)] is surrounded by a [h]alo, and the [True] Shep[herd of An stands in it(?) (...)]
+
+@label o 17
+
+[If(?) ...] ... [...]

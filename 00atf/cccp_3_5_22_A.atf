@@ -1,0 +1,718 @@
+&Q005171 = CCP 3.5.22.A (http://ccp.yale.edu/P461301) = Commentary on Šumma Ālu 22-23
+@composite
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+1. !bs SAG.DU-su u₂-har-ra-ar₂ : !cm x# [x x x] SAG#.DU# [x x x x] x# [x x] x#
+#lem: qaqqassu[head]N; +harāru[dig]V$uharrar; u; u; u; u; qaqqadu[head]N; u; u; u; u; u; u; u; u
+
+2. !bs [TE]-MEŠ-šu₂ u₂-gal-lab : !cm TE-MIN!(A)-šu₂ KIMIN?#<(u₂-gal-lab)> [:"] le-e-tu x# x# x# :# !bs 3*# [ITI]-MEŠ# uš-[ta-pa-aš₂-šaq]
+#lem: +lētu[cheek]N$lētēšu; +gullubu[shear]V$ugallab; +lētu[cheek]N$lētēšu; ugallab[shear]V; +lētu[cheek]N$; u; u; u; n; arhī[month]N; +pašāqu[be narrow//be repeatedly constricted]V'V$uštapaššaq
+
+3. !zz x# x# x# MEŠ# x# x# x#-lu?#-ma !cm pu-uš-qi₂ !zz im-šu?#-x# [x x] x# x# x# x# :# [x x x x]
+#lem: u; u; u; imīdū[be(come) numerous]V; u; u; u; pušqi[hardship]N; u; u; u; u; u; u; u; u; u; u; u
+
+4. !zz x# x# x# [x x !bs x x] NA# ŠUB !cm ša₂ it-ti MUŠ.SAG.[KAL !cm x x x] x# ŠA₃ an [x (x)]
+#lem: u; u; u; u; u; u; u; amēli[man]N; +maqātu[fall]V$imqut; ša[that]REL; itti[with]PRP; +ṣarṣaru[(a large snake)]N$ṣarṣari; u; u; u; u; libbi[heart]N; u; u; u
+
+5. !zz [x x x x x !bs x NA] BI# GISKIM* {giš}NA₂ !cm : ina {giš}NA?# [x x x (x) :] !bs MURU₂ [DAM u DAM]
+#lem: u; u; u; u; u; u; amēlu[man]N; šū[that]IP; itti[sign]N; +eršu[bed]N$erši; ina[at]PRP; X; u; u; u; u; qabal[middle]N; +mutu[husband]N$muti; u[and]CNJ; +aššatu[wife]N$aššati
+
+6. !cm MURU₂ [x x x x x !bs KUD]-MEŠ NU TI-MEŠ : !cm ip#-[par-ra-su-ma] ul i-bal-lu-ṭu
+#lem: qabal[middle]N; u; u; u; u; u; +parāsu[cut]V$ipparrasūma; lā[not]MOD; +balāṭu[live]V$iballuṭū; +parāsu[cut]V$ipparrasūma; ul[not]MOD; +balāṭu[live]V$iballuṭū
+
+#note: The base text (K.1355+ o 22) reads at this point KUD*-MEŠ NU TI-MEŠ, not “TATTAB-MEŠ” as assumed by Freedman @i{OPKF} 19 (2006) p. 8 l. 13.
+
+7. !bs UKKIN AL*#-[GAZ !cm : pu-uh-ru x x] x#-ku? : !bs GAZ : !cm he-pu-u₂ : !bs BE{+ma} GIG BE{+ma} is-sal-la-aʾ
+#lem: +puhru[assembly]N$; +dâku[kill]V$idūk; +puhru[assembly]N$; u; u; u; +dâku[kill//killing]V'N$; +hepû[break//breaking]V'N$; šumma[if]MOD; +marāṣu[be(come) ill]V$imarruṣ; šumma[if]MOD; issallaʾa[be(come) infected]V
+
+8. !bs GIG# !cm [: (x x) sa-la-aʾ]-u₂ : !bs is-sal-la-aʾ !cm : i-mar-ru-uṣ : !bs * ina {iti}BARA₂ TA U₄ 1.KAM
+#lem: +marāṣu[be(come) ill//be(com)ing ill]V'N$; u; u; +salāʾu[sprinkle//sickening]V'N$; issallaʾa[be(come) infected]V; +marāṣu[be(come) ill]V$imarruṣ; ina[in]PRP; Nisannu[1]MN; ina[at]PRP; +ūmu[day]N$; n
+
+9. !bs [EN U₄ 30.KAM] MUŠ# ina SILA TA! ZAG LU₂ ana GUB₃ LU₂ is-hur LU₂ BI ina KUR KUR₂-šu₂ du-lu₄ GIG TUM₃#
+#lem: adi[until]PRP; +ūmu[day]N$; n; ṣerra[snake]N; ina[at]PRP; sūqi[street]N; +ištu[from]N$; +imnu[right (side)]N$imni; amēli[man]N; ana[into]PRP; šumēl[left side]N; amēli[man]N; ishur[turn]V; amēlu[man]N; šū[that]IP; ina[in]PRP; māti[land]N; nakiršu[enemy]N; +dullu[trouble]N$dūlu; +murṣu[illness]N$; itabbal[disappear]V
+
+10. !cm [(is-hur) : GIŠ].HUR# : e-ṣe-ri ša₂-niš i-ti-iq šal-šiš il-lik : GIŠ{+gi-iš}.{+ha-aš₂}HUR* : ha-x#-(x)-x# : a-la-[ku?]
+#lem: ishur[turn]V; +sahāru[go around//going around]V'N$; +eṣēru[draw//drawing]V'N$eṣēri; šanîš[alternatively]AV; ītiq[pass by]V; šalšiš[thirdly]AV; illik[walk]V; +sahāru[go around//going around]V'N$; u; alāku[blow]V
+
+#note: The sign before the one but last colon, read by Freedman NE?, is a clear HUR. However the decipherment of the one but last word of the line is not entirely certain: the reading /ḫaš/ of the sign ḪUR is in fact elsewhere unattested.
+ 
+11. !bs [du-lu₄ !cm :] bi-ki₂-tu₄ : !bs MUŠ ina SILA uš-te-eṣ-bi-šu₂ !cm : ša₂ LU₂ u₂-man-du IGI-ma MUŠ la ig-lu-ut
+#lem: dūlu[trouble]N; +bikītu[weeping]N$; ṣerra[snake]N; ina[at]PRP; sūqi[street]N; +ṣubbû[observe]V$ušteṣbīšu; ša[of]DET; amēlu[person]N; +wadû[know]V$umandû; +amāru[see]V$̄muru; ṣerra[snake]N; lā[not]MOD; iglut[tremble]V
+
+#note: The restoration of the first word is uncertain. @i{umandû} is a D stem of @i{edû}.
+
+12. !bs šu TEŠ₂.BI KAR-šu₂ !cm : TEŠ₂.BI : bal-tu₄ : bal-tu₄ : bu-nu : KAR : e-zeb ša₂-niš !bs šu TEŠ₂.BI KAR-šu₂
+#lem: šū[that]IP; +bāštu[dignity]N$bāltašu; +eṭēru[taken away]V$iṭṭiršu; +bāštu[dignity]N$bāltašu; +bāštu[dignity]N$bāltu; bāltu[dignity]N; būnu[good looks]N; +eṭēru[take away//taking away]V'N$; +ezēbu[leave//leaving]V'N$ezēb; šanîš[alternatively]AV; šū[that]IP; bāltašu[dignity]N; iṭṭiršu[taken away]V
+
+13. !cm ša₂ E{+u₂} !zz {(ina ṭup-pi ul ša₂-lim)} : !bs ik-tap-pi-lu !cm <:> %sux gu₂ i₃!(MIN)-ak-a : %sb kit-pu-lu : ša₂ GU₂ it-ti-qu
+#lem: ša[that]REL; qabû[said]AJ; ina[in]PRP; ṭuppi[tablet]N; ul[not]MOD; +šalmu[intact]AJ$šalim; iktappilū[intertwine]V; +gu[neck]N$gu/gu₂#~; +ak[do]V/t$V:ak;a/ak#V:~;a; +kapālu[intertwine]V'N$kitpulu; ša[from]DET; +kišādu[neck]N$kišāda; +etēqu[go past]V$ittiqu
+
+#note: gú-MIN-ak-a = @i{kitpulu} is a quotation from @i{Ḫḫ} II 288 (gú-(ì)-ak-a = @i{kitpulu}). The subsequent “etymological” rendering is based on the equation ak.ÀKA = @i{itqu}, “fleece.”
+
+14. !cm ša₂-niš 2 MUŠ-MEŠ aš-šum ṣa-al-tu₄ : !bs 3 ITI šu₂-nu-ti uš-ta-pa-šaq-ma !cm : ina ITI ša₂ ana da#-li#-x# ṭa#-a-bi
+#lem: šanîš[alternatively]AV; n; ṣerrū[snake]N; aššum[because of]'PRP; +ṣāltu[combat]N$; n; arhi[month]N; šunūti[them]IP; uštapaššaqma[suffer]V; ina[in]PRP; arhi[month]N; ša[which]REL; ana[for]PRP; u; ṭābi[sweet]AJ
+
+#note: The rationale behind the first explanation of the line is uncertain. At the end @i{ana dalīli} is a possibility, but the traces in MS b do not seem to support it.
+
+15. !cm ša₂ i-bir-ru-u₂ u i-ṣa-am-mu-u₂ šu-u₂ šup-šu-qu : !bs u₂-še-di-ma !cm : u₂-ša₂-am-de-e-ma
+#lem: ša[of]DET; +berû[be hungry]V$ibirrû; u[and]CNJ; +ṣamû[be(come) thirsty]V$iṣammû; šû[belonging to him]PP; +šupšuqu[very laborious//in difficulties]AJ'AJ$; +edû[know//recognize]V'V$ušēdīma; +edû[know//recognize]V'V$ušamdēma
+
+16. !bs u₂-še-eʾ-u₂-ma !cm : KIN.KIN : ši-te-eʾ-u₂ : bu-uʾ-u₂ : !bs ina qe₂-reb EN.TE.NA !cm : dan-na-tu₂ : ku-ṣu
+#lem: +šeʾû[seek (out)]V$ušeʾʾûma; šiteʾʾû[seeking constantly for]'N; +šeʾû[seek//seeking constantly for]V'N$šiteʾʾû; +buʾʾû[look for//looking for]V'N$; ina[in]PRP; qereb[centre]N; kūṣi[winter]N; dannatu[distress]N; kūṣu[winter]N
+
+17. !bs ek-let nam-rat !cm : a-na muš-ke-ni qa-bi : !bs ša₂-lum-mat !cm : bal-tu₄ : du-u₂-tu₄ : bal-tu₄
+#lem: eklet[dim]AJ; namrat[bright]AJ; ana[for]PRP; muškēni[poor man]N; qabi[said]AJ; šalummat[radiance]N; bāltu[dignity]N; dūtu[virility]N; bāltu[dignity]N
+
+#note: It is also possible that @i{šalummat} refers to the previous explanation: the situation is unclear because of the lacunas in the base text.
+
+18. !cm du#-u₂-tu₄ : bu-nu : !bs nam-ha-ra DIR-ma !cm : ki-ma {dug}A.GUB₂.BA tu-ka-ni-ma
+#lem: dūtu[virility]N; būnu[good looks]N; namhāra[(a vessel)]N; +malû[be(come) full]V$tumallīma; kīma[according to]PRP; +agubbû[holy water vessel]N$; tukannīma[set up correctly]V
+
+19. !bs *# NA?# MUŠ GAZ-ma TI-ma ana ŠA₃ HABRUD* KU₄ !cm : ša₂ MUŠ i-du-ku-ma iš-šu-u₂ iq-bi-ri : !bs TI !cm :* la-qu-u
+#lem: amēli[man]N; ṣerra[snake]N; +dâku[kill]V$idūkma; u; ana[according to]PRP; libbi[interior]N; hurri[hole]N; ušerrebu[enter]V; ša[who]REL; ṣerra[snake]N; idukkuma[kill]V; iššû[lift]V; iqbiri[bury]V; laqû[take]V; laqû[take]V
+
+#note: The sign transliterated and copied by Freedman as @akk{DU₆} and by von Weiher as @akk{KI} is rather a LB @akk{HABRUD} (with Heeßel @i{KAL} 1 (2007) p. 40 ad i 11'-12').
+20. !cm ša₂#-niš!#  ib#-luṭ-ma ana ŠA₃ HABRUD* KU₄ : !bs TI !cm : ba-la-ṭu : !bs NIG₂.ŠU-šu DU₃-šu₂ KIMIN<(NIG₂.ŠU-šu DU₃-šu₂)> DUMU-šu₂ GU₇ !cm : NIG₂.ŠU-šu₂ DU₃-šu₂ :
+#lem: šanîš[alternatively]AV; +balāṭu[live]V$ibluṭma; ana[according to]PRP; libbi[interior]N; hurri[hole]N; īrub[enter]V; +balāṭu[live//living]V'N$; +balāṭu[live//living]V'N$; būšašu[goods]N; +ezēbu[leave]V$izzibšu; būšašu[goods]N; +ezēbu[leave]V$izzibšu; māršu[son]N; ikkal[eat]V; būšešu[property]N; izzibšu[leave]V
+
+21. !cm iz-zib₂-šu₂ : iz-zib-šu₂ : DU₃ : e-ze-bu : !bs DUMU-šu₂ GU₇ !cm : bu-šu-šu₂ ik-kal : DUMU : bu-šu-u₂
+#lem: +ezēbu[leave]V$izzibšu; +ezēbu[leave]V$izzibšu; +ezēbu[leave//leaving]N'N$; ezēbu[leaving]'N; māršu[son]N; ikkal[eat]V; būšušu[goods]N; ikkal[enjoy]V; +māru[son]N$; būšū[goods]N
+
+#note: Both DÙ = @i{ezēbu} and DUMU = @i{bušû} are seemingly elsewhere unattested. For the former compare perhaps @i{Diri} II 22 {laḫ}DU.DU = @i{ezēbu}. The latter is probably a case of metonymy, perhaps to be translated as “a son is a posession.” The sign at the end is clearly DUḪ, not GABA, pace Freedman and von Weiher (who however copy it correctly).
+
+22. !bs x# !cm : ṣe-ri₃ : lem-nu : !bs uš-ta-ah-ma !cm : u₂-ši-ih-ma : !bs UR₅{+ta} !cm : šu-a-tu₂ : !bs ina KI.KAL DU₈-šu₂
+#lem: u; ṣerri[snake]N; lemnu[evil one]N; +šiāhum[grow (tall)]V$uštāhma; +šiāhum[grow (tall)]V$ušīhma; +šuātu[that]IP$šuāta; šuātu[that]IP; ina[in]PRP; +dannatu[distress]N$danati; +paṭāru[loosen]V$ipṭuršu
+
+#note: No logogram for the word @i{ṣerru}, “enemy,” seems to fit the traces in MS a. Note that the preserved manuscripts of the base text read @i{uštāniḫ-ma}. 
+ 
+23. !cm [aš]-šum ša₂ ma-diš ina muh-hi-šu₂ i-ku-šu₂ : !bs im-ṣur !cm : im-šur : il-lik : !bs i-tak-kal !cm : DU.DU : it-ku-lu
+#lem: aššum[because of]'PRP; ša[who]REL; mādiš[greatly]AV; ina[in]PRP; muhhišu[skull]N; +kâšu[delay]V$ikūšu; imṣur[move around]V; imšur[drag (across the ground)]V; illik[walk]V; ītakkal[eat]V; itkulu[eating]'N; itkulu[eating]'N
+
+#note: The verb @i{i-ku-šú} is taken here as @i{kâšu}, as against the previous editions, which parsed it as @i{akāšu} G: the snake “lingers” on the man, hence the “difficulty” in getting rid of it. DU.DU = @i{itkulu} is elsewhere unparalleled. It is based probably on the phonetic similarity between @i{alāku}, “to go;” and @i{akālu}, “to eat.”
+24. !cm [DU].DU# : mit-hu-ṣu : !bs * MUŠ ana bu-di NA ŠUB{+ut} mu-kil ku-tal₂-li NA UG₇ !cm : bu-di : ku-tal-la
+#lem: +mahāṣu[beat//fighting]V'N$mithuṣu; +mahāṣu[beat//fighting]V'N$mithuṣu; +ṣerru[snake]N$; ana[according to]PRP; +būdu[shoulder]N$būdi; amēli[man]N; imqut[fall]V; +mukillu[holder]N$mukīl; kutalli[rear]N; amēli[man]N; +mâtu[die]N$imât; būdi[shoulder]N; kutalla[back]N
+
+#note: DU.DU = @i{mitḫuṣu} is elsewhere unattested, but cp. Ea I 123 sag-du-du LAGAB×ŠITÁ-@i{tenû} = @i{maḫāṣu ša dabdê}. On the phrase @i{kutalla kullu}, “to support,” see Durand @i{Florilegium Marianum} 7, p. 40.
+
+25. !bs [mu]-kil# ku-tal₂-li NA !cm : ku-tal : !bs MUŠ !cm : {d}MUŠ : ni-ra-hu : !bs MUŠ ŠU-MIN NU GAR !zz ma-gal ar₂-ki
+#lem: mukīl[holder]N; kutalli[rear]N; amēli[man]N; kutal[rear]N; +ṣerru[snake]N$; Nirah[Snake]'DN; nirāhu[(a kind of snake)]N; ṣerru[snake]N; +qātu[hand]N$qātī; lā[not]MOD; šakin[located]AJ; magal[greatly]AV; arki[long]AJ
+
+#note: The first preserved sign in MS b ends in a vertical an cannot be reconciled with the signs of MS a (MS a needs collation at this point). Since the equation @akk{MUŠ.{d}MUŠ} = @i{nirāḫu} is actually attested in @i{Ḫḫ} XIV 9, the reading of MS b (@akk{MUŠ.{d}MUŠ}) is preferred here to that of MS a (@akk{MUŠ : {d}MUŠ}). As opposed to von Weiher’s transcription, there is no @i{li} after @i{ku-tal} (@akk{ku-tal MUŠ}) in his copy of @i{SpTU} 5 259. The rationale of the explanation relies perhaps on the fact that the signs @i{ku-tal} could also be read as @akk{ṣi₉-ri}, i.e., “snake.” The last two words could also be considered part of the commentary, and not a paratextual note, as von Weiher’s edition and U. Gabbay (personal communication) propose. It would then mean “a thin snake that is very long” (@akk{MUŠ qát-nu šá ma-gal ár-ki}).
+
+
+$ single ruling
+
+26. !zz 22 * URU ina SUKUD GAR{+in} NU AL.TIL
+#lem: n; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ; lā[not]MOD; qati[completed]AJ
+
+$ single ruling
+
+27. !bs [*] MUŠ# ana UGU NA ša₂ di-na ge-ru-u₂ ŠUB{+ut} di-in-šu GID₂.DA GAL₂ !zz : !bs iṣ-bur-ma !cm : is-si-ma
+#lem: ṣerru[snake]N; ana[on]PRP; muhhi[top]N; amēlu[man]N; ša[who]REL; dīna[lawsuit]N; +gerû[hostile]AJ$; imqut[fall]V; +dīnu[lawsuit]N$dīnšu; +arku[long]AJ$; ibašši[exist]V; iṣburma[hiss]V; +šasû[shout]V$issīma
+
+28. !cm ZI.ZI : ṣa-bar ša₂ iṣ-ṣur : MUŠEN ZI.ZI : ši-si-tu₂ ša₂ iṣ-ṣur : !bs U₄{+mi} ri-qi₂ !cm : U₄ 29.KAM₂
+#lem: +ṣabāru[twitter//twittering]V'N$; ṣabār[twittering]'N; ša[of]DET; iṣṣūr[bird]N; iṣṣūru[bird]N; iṣṣabbar[twitter]V; šisītu[cry]N; ša[from]DET; iṣṣūr[bird]N; +ūmu[day]N$ūmu; rīqi[moonless]AJ; ūmu[day]N; n
+
+#note: The source of the equation @akk{MUŠEN ZI.ZI} : @i{šisītu ša iṣṣūri} is unknown.
+29. !cm [U₄{+mu}] ša₂# {d}30 la u₂-šu-uz-zu : !bs * MUŠ NA IGI-ma GAZ-šu₂ NA BI a-di-ra-tu-šu₂ NU TE-MEŠ-šu₂
+#lem: +ūmu[day]N$; ša[of]DET; Sin[1]DN; lā[not]MOD; ušuzzu[triumphing]'N; ṣerru[snake]N; amēla[man]N; īmurma[see]V; idūkšu[kill]V; amēlu[man]N; šū[that]IP; adirātušu[misfortune]N; ul[not]MOD; iṭehhûšu[approach]V
+
+#note: On the connotations of the 29th day of the month or @i{bibbulu} (new moon day), see @i{CAD} B 299 and Böck @i{BPOA} 3 (2007) pp. 176-177. @i{ušuzzu} is the N/LB stative of @i{izuzzu} (@i{GAG} §107e).
+
+30. !cm [ina U₄{+mi} ša₂] a-na da-a-ku ṭa-a-bu IGI-ma i-duk : aš-šum !qt U₄ 20.KAM₂ ša₂ {iti}GU₄
+#lem: ina[on]PRP; +ūmu[day]N$ūmi; ša[which]REL; ana[for]PRP; dâku[killing]'N; ṭābu[favourable]AJ; īmurma[see]V; idūk[kill]V; aššum[because of]'PRP; ūmu[day]N; n; ša[from]DET; Ayyaru[1]MN
+
+#note: The @i{aššu} clause is surely citing the @i{Babylonian Almanac}, which contains for the 20th of Ayyāru the prognosis “he should kill a snake, then he should take the first place.”
+$ (reverse)
+
+31. !bs i-ta-dar !cm : ip-ta-lah₃!(DIR) !zz : ša₂ [x x x x x] x : !qt ši-gu-u₂ DUG₄{+si}-ma NAM.BUR₂*#.BI*# DUG₄?#{+si?#}
+#lem: +adāru[be afraid (of)]V$ītadar; +palāhu[fear]V$iptalah; ša[from]DET; u; u; u; u; u; u; šigû[(a cry of lamentation)]N; +šasû[shout]V$issīma; +namburbû[apotropaic ritual]N$; +šasû[shout]V$issi
+
+#note: @akk{i-ta-dar!(DIR)} in MS a needs collation. The second part of the line surely refers to @i{Šumma Ālu} 23 10, @akk{NA BI {d}AMAR.UTU ú-sal!-lam-ma}, which is to be interpreted, pace Freedman @i{OPKF} 19 (2007) and Heeßel @i{KAL} 1 (2007) p. 37 ii 10'f, with Marduk as the object of the verb, not as the subject: “that man will appease Marduk.”
+
+32. !zz [x x x x x x x x !bs gi]-na#-a DU₃.A.BI !cm : U₄{+mu} ma-la {d}UTU nap-hi
+#lem: u; u; u; u; u; u; u; u; ginâ[regularly]AV; kalāma[all (of it)]N; ūmu[day]N; mala[as many]'REL; Šamaš[1]DN; naphi[bright]AJ
+
+33. !zz [x x x x x x x !bs u₂]-hab#-ba-ab !cm : ha-ba-bu : ha-ṣa-nu : ha-ba-bu : na-ša₂-qa
+#lem: u; u; u; u; u; u; u; +habābu[murmur]V$uhabbab; habābu[caressing]'N; haṣānu[protecting]'N; habābu[caressing]'N; našāqa[kissing]'N
+
+#note: Note that the verb @i{ḫabābu} is frequently used as an euphemism for sexual intercourse, see George @i{Gilgameš Epic} (2003) p. 796-797 and Cooper @i{Gs Finkelstein} (1977) p. 43 fn. 22.
+
+34. !cm [x] x x mi na-aš₂-kun ri-gim : !bs MUŠ rit-ti GAR-ma GIM UR.MAH i-ram-mu-um
+#lem: u; u; u; u; +naškunu[placed]AJ$naškun; rigim[voice]N; ṣerru[snake]N; ritti[claw]N; +šaknu[placed]AJ$šakinma; kīma[according to]PRP; nēša[lion]N; irammum[roar]V
+
+#note: It is uncertain whether the first part of the line still refers to @i{Šumma Ālu} 23 14 or to a different line.
+
+35. ($_____$) !cm ri-gim ša₂-kin-ma : ri-iṭ-ṭu : ri-gim : !bs ana ŠA₃ TUG₂ KU₄ !cm : a-na ŠA₃ me₂-eh-ṣi ša₂-niš
+#lem: rigim[voice]N; šakinma[placed]AJ; +riṭṭu[noise]N$; rigim[voice]N; ana[according to]PRP; libbi[interior]N; ṣubāta[garment]N; īrubu[come in]V; ana[according to]PRP; libbi[interior]N; +mehṣu[blow//fabric]N'N$; šanîš[alternatively]AV
+
+#note: The commentator states that the fact that a snake “has” (@i{šakin-ma}) “a paw” (@i{rittu}) means that she “has” (@i{šakin-ma}) “noise” (@i{rigim}). The word “noise” is doubly justified: first, it is written with one of the signs of the original protasis (@i{ri}-GIM); on the other, the comentator observes that a word homophonous with @i{rittu}, the otherwise unknown sustantive @i{riṭṭu}, means “noise,” which must be a quotation from an unknown list.
+
+36. !cm [a]-šar ši-si-ti šak-na-ti : !bs EN UMUŠ* BI SAG.TUK ba-la₂-ṭi TUK{+ši} !cm : mu-kil re-eš ba-la-ṭu TUK{+ši} : !bs ha-ṭi-ti₃*
+#lem: ašar[where]SBJ; +šisītu[(hand/foot) joint]N$šisīti; +šaknu[placed]AJ$šaknati; +bēlu[lord]N$bēl; +ṭēmu[(fore)thought]N$ṭēmi; +šu[that]IP$; +mukīlu[holder]N$mukīl; balāṭī[life]N; +rašû[acquire]N$irašši; mukīl[holder]N; rēš[head]N; balāṭu[life]N; irašši[acquire]; +haṭītu[fault]N$hatīti
+
+#note: The line is probably corrupt. The preserved exemplars of the text read @akk{EN UR.BI} at this point (see Heeßel @i{KAL} 1 [2007] p. 38 and 50 @i{ad loc}.), an expression of uncertain meaning. The interpretation @akk{EN DIB!}, proposed by Geller apud Freedman @i{Fs Leichty} (2006) p. 161, is an emendation (the sign is clearly @akk{KU}). Moreover, Geller’s statement (ibid.) that “@akk{EN.DIB} is used for @i{mukīlu} in magical texts” could not be confirmed. On @akk{SAG.TUK} = @i{mukīl rēši}, see Wilcke @i{apud} George @i{CUSAS} 17 (2011) p. 112 ad 12.
+
+37. !cm le#-mut-tu₂ : !qt HUL UZU-MEŠ ha-ṭu-tu₄ par₂-du-tu₂ HUL-MEŠ NU DUG₃.GA-MEŠ !zz : !bs GUB.GUB{+az} !cm : ša₂ u₂-šu-uz-zu-ma la zak-ku-u₂
+#lem: lemuttu[evil]N; lumun[evil]N; šīrī[flesh]N; +haṭû[defective]N$haṭûtu; +pardu[terrifying]N$pardūtu; lemnūtu[bad]AJ; lā[not]MOD; +ṭābu[good]N$ṭābūtu; itanazzaz[stand]V; ša[from]DET; +ušuzzu[appointed]AJ$ušuzzūma; lā[not]MOD; +zakkû[freed]AJ$
+
+#note: @i{ušuzzū-ma} and @i{lā zakkû} are probably specific legal terms, used by the commentator to give an alternative meaning to the prognosis. @i{Šumma Ālu} 23 44 is probably to be read as @akk{ina ha-di-tim#} (Freedman @i{OPKF} 19 [2006] p. 40 reads @akk{ina ha-di-e#}; Heeßel @i{KAL} 1 [2007] p. 45 l. 41 @akk{ina ha-di-x#}, but in his copy p. 162 @akk{tim#} seems possible).
+
+38. !bs [*] MUŠ ina E₂ LU₂ ŠUB-ma DU.DU{+ak} !cm : ša₂ a-na HABRUD*-MEŠ u E₂-MEŠ la ir-ru-bu : !bs NUNUZ* iš-tak-na !cm :
+#lem: ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēla[man]N; nadima[located]AJ; ittanallak[spread]V; ša[which]REL; ana[for]PRP; +hurru[hole]N$hurrī; u[and]CNJ; +bītu[house]N$bītāti; lā[not]MOD; +erēbu[enter]V$irrubu; +pelû[egg]N$pelâ; +šakānu[put//lay]V'V$ištakna
+
+#note: “Holes” (thus in the tablet, pace Freedman) and “houses” are two places frequently mentioned in @i{Šumma Ālu} 23 in which a snake can enter. A hendiadys would make good sense here (“the holes of the house”), but it is hardly possible in the language of the omens. The sign @akk{NUNUZ} is clear on the tablet (Freedman’s reading, @akk{e-zib}, is certainly wrong). If this protasis is not contained in any of the partially broken lines of @i{Šumma Ālu} 23 50-52, it represents perhaps a different tradition of @i{Šumma Ālu} 23 51, which reads: “if a snake deposits its droppings (@i{kabūssu iddi}) in a man’s house.”
+
+39. !cm ša₂# ina E₂ LU₂ ul-la-du : !bs BUN₂.BUN₂{+ah} !cm : u₂-nap-pa-ah : !bs i-ziz-eš !cm : e-ze-zi-iš
+#lem: ša[that]REL; ina[in]PRP; bīt[house]N; amēli[man]N; ulladu[give birth (to)]V; +napāhu[blow]V$unappah; +napāhu[blow]V$unappah; +ezēzu[be(come) angry//be(com)ing angry]V'N$ezēziš; +ezēzu[be(come) angry//be(com)ing angry]V'N$ezēziš
+
+#note: The Vorlage of the commentary probably had @akk{i-BE-eš} at this point, for which the commentarist provided an ad hoc explanation. The explanans, however, does not fit the text of the known manuscripts of @i{Šumma Ālu} 23 53, which read @akk{i-bi-iš} and @akk{ib-be-eš} (see Freedman @i{OPKF} 19 [2006] p. 42 ad loc).
+40. !cm ša₂# ez-zi-iš i-ša₂-as-su-u₂ ša₂-niš ša₂ ša₂-qi₂-iš i-ša₂-as-su-u₂ : !bs ana kiš-ša₂-tu₄ !cm : ana sa-ar₂-tu₂
+#lem: ša[from]DET; ezziš[furiously]AV; išassû[cry out]V; šanîš[alternatively]AV; ša[of]DET; +šaqîš[high up]AV$; išassû[cry out]V; ana[according to]PRP; kiššatu[emmer]N; ana[according to]PRP; sartu[falsehood]N
+
+41. !bs up#-ta-nar-rad !cm : ša₂ {lu₂}ERIN₂!-MEŠ ina bi-ri a-ha-meš u₂-par-ra-du aš-šum !qt ga-la-tu₄ ša₂ {lu₂}ERIN₂!-MEŠ
+#lem: +parādu[be scared]V$uptanarrad; ša[from]DET; +ummānu[army]N$ummānī; ina[at]PRP; +biri[among]AV$; ahāmeš[one another]AV; +parādu[be scared]V$uparradu; aššum[because of]'PRP; galātu[trembling]'N; ša[from]DET; ummānī[army]N
+
+42. !cm [ša₂-niš] up#-ta-nar-rad : up-ta-na-al-lah₃ : !bs * MUŠ ina E₂ NA {giš}IG {giš}SAG.KUL NIGIN-ma
+#lem: šanîš[alternatively]AV; uptanarrad[be scared]V; +palāhu[fear]V$uptanallah; ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēli[man]N; dalti[door]N; +sikkūru[bar]N$sikkūra; lamima[surrounded]AJ
+
+43. !bs [a]-na?# BAD{+e} NU SUM{+in} E₂ BI DAGAL{+iš} KIMIN<(E₂ BI)> ŠUB{+di} !cm : ana kab-tu dum-qi₂ ana MAŠ.EN.GAG lum-nu
+#lem: ana[according to]PRP; petê[opening]'N; lā[not]MOD; innaddin[give]V; bītu[household]N; šū[that]IP; irappiš[expand]V; bītu[household]N; šū[that]IP; +nadû[throw (down)]V$inaddi; ana[according to]PRP; kabtu[dignitary]N; dumqi[goodness]N; ana[for]PRP; muškēnu[poor man]N; lumnu[evil]N
+
+44. !cm aš#-šum !qt šu-tuk-ku dan-nu-tu₄ ša₂ {d}NIN.GIR₂.ZI.DA !zz : !bs šu-tuk-ku !cm : sik-kat₂* : !bs * MUŠ-MEŠ GIL-MEŠ !cm : it#-gu-ru-tu₂
+#lem: aššum[because of]'PRP; +šutukku[reed-hut]N$šutukkū; +dannu[strong]N$dannūtu; ša[from]DET; Ningirzida[1]DN; šutukkū[reed-hut]N; +sikkatu[peg]N$sikkat; ṣerrū[snake]N; +itguru[crossed]AJ$itgurūtu; +itguru[crossed]AJ$itgurūtu
+
+#note: On the writing @akk{{d}NIN.GIR₂.ZI.DA}, see Freedman @i{CM} 31 (Fs Leichty) p. 163, who assumes a confusion, perhaps a hypercorrection, between Ninŋišzida and Ninŋirsu. The phrase @i{šutukkū dannūtu ša Ninŋišzida} is attested in an unpublished exorcistic incantation cited by Finkel apud @i{CAD} Š/3 412a: in fact, the line in the present commentary is probably a quotation from that incantation (note the technical term @i{aššu} introducing it). The @i{aššu} line is probably intended to support the commentator bold attempt at explaining both the positive and the negative prognosis as applicable to two different social classes. To do so, he refers to another line where there is an uncrossable threshold, an incantation that describes a  magic circle, in which the “bolt” (@i{sikkatu}) together with the “noble” (@i{dannu} = @i{kabtu}, cf. @i{Izbu Gurru Mahīru} 71) and the “humble” (@i{šutukku}, which is said to mean @i{sikkatu}, whose logogram, @akk{GAG}, is contained in @akk{MAŠ.EN.GAG}) are mentioned.
+45. !bs PEŠ₂* !cm : hu-si-ri : !bs * MUŠ ina E₂ LU₂ bu-ʾu-ra DU₃{+uš} !cm : ša₂ mim-ma ša₂ kap-pi sag-[x x x]-ru
+#lem: humṣīra[mouse]N; +humṣīru[mouse]N$husīri; ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēla[man]N; +buʾʾuru[hunting]N$buʾʾura; eppuš[accomplishing]'N; ša[that]REL; mimma[anything]XP; ša[from]DET; kappī[wing]N; u; u; u
+
+#note: On winged snakes, see Radner @i{WZKM} 97 (2007) pp. 353-365.
+46. !bs i-dam-mu-um !cm : ša₂ ši-si-ti <<:>> ma-a-du : !bs dul-la !cm : bi-ki-tu₄ : dul-la : ta-ne₂-hi
+#lem: idammum[moan]V; ša[from]DET; šisīti[(hand/foot) joint]N; mâdu[be(com)ing numerous]'N; dulla[misery]N; bikītu[sorrow]N; dulla[misery]N; tānēhī[moaning]N
+
+#note: The colon after @i{šisīti} might have been erased.
+47. !bs gi-nam-ma !cm : ka-a-a-ni-iš : !bs * MUŠ ina E₂ LU₂ IGI !cm : ša₂ GIR₃-MEŠ-šu₂ u₂-še-eṣ-ṣa-a
+#lem: +ginâ[constantly]AV$ginâmma; +kayyāniš[constantly]AV$; ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēli[man]N; innamir[be seen]V; ša[from]DET; šēpētušu[foot]N; ušeṣṣâ[expel]V
+
+#note: According to Heeßel @i{KAL} 1 (2007) p. 41, @i{ginâm-ma} might have appeared in the first part of @i{Šumma Ālu} 87, now broken.
+48. !bs sa-da-ru : !cm ka-a-a-nu : !bs %sux an-ta : !cm %sb tap-pu-u₂ : !bs * MUŠ MUNUS ina a-sur-re-e ina la e-de-e
+#lem: sadāru[doing regularly]'N; kayyānu[steady]AJ; +anta[companion]N$anta/an-ta#~; +tappû[companion]N$; ṣerra[snake]N; sinništu[wife]N; ina[at]PRP; asurrê[footing]N; ina[at]PRP; lā[not]MOD; edê[knowing]'N
+
+#note: The base text has @i{ina lā mūdû}.
+49. ($_____$) !bs DIB{+su}-ma BAR-šu₂ MUNUS BI DINGIR TUK{+ši} !cm ša₂ E{+u₂} aš-šum MUŠ u MUNUS ud-dim-šu₂-nu
+#lem: +ṣabātu[seize]V$iṣabassūma; uššaršu[leave]V; sinništu[woman]N; šī[that]IP; ila[god]N; irašši[acquire]N; ša[from]DET; qabû[said]AJ; aššum[because of]'PRP; ṣerra[snake]N; u[and]CNJ; sinništu[woman]N; X
+
+#note: According to Biggs @i{JNES} 70 (2011) p. 101f, @akk{BAR-šú} is to be read as @i{uššuršu} “releases it / lets go of it.” The key of the explanation might lie in the fact that there is a happy outcome for both the woman and the snake. 
+50. !bs * MUŠ ana E₂ LU₂ KU₄ !cm ša₂ ina UKKIN UN-MEŠ ana E₂ LU₂ i-ru-bu : !bs MUD-su !cm : u₂-gal-lit-su
+#lem: ṣerru[snake]N; ana[into]PRP; bīt[house]N; amēla[man]N; +erēbu[enter]V$īrub; ša[who]REL; ina[in]PRP; puhur[assembly]N; nišū[people]N; ana[into]PRP; bīt[house]N; amēli[man]N; +erēbu[enter]V$īrubu; +galātu[tremble]V$ugallissu; +galātu[tremble]V$ugallitsu
+
+51. !bs * MUŠ ina UGU {giš}NA₂ LU₂ NU₂{+iṣ} !cm : ša₂ ir-bi-ṣu-ma la it-bu-u₂ : !bs EŠ₂-su-nu !cm : aš₂-lat#-su*#-nu*#
+#lem: ṣerra[snake]N; ina[on]PRP; muhhi[top]N; erši[bed]N; amēla[man]N; irabbiṣ[lie down]V; ša[from]DET; +rabāṣu[sit]V$irbiṣūma; lā[not]MOD; itbû[stand up]V; +ašlu[rope]N$ašlassunu; +ašlu[rope]N$ašlassunu
+
+#note: The last equation explains, perhaps in a fanciful way, a difficult word from @i{Šumma Ālu} 23 110, left untranslated by Heeßel @i{KAL} 1 (2007) p. 35, 38 and 41 iv 9.
+$ double ruling
+52. !zz ṣa-a-tu₂ šu-ut pi-i u maš-a-a-al-tu₂ ša₂ KA um-man-nu ša₂ ŠA₃ <*> ina {iti}BARA₂ U₄ 1.KAM₂ la-am#
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; u[and]CNJ; mašʾaltu[questioning]N; ša[of]DET; pî[accordance]N; ummannu[scholar]N; ša[of]DET; libbi[interior]N; ina[in]PRP; Nisannu[1]MN; ūmu[day]N; n; lām[before]SBJ
+
+53. ($_____$) !zz LU₂ GIR₃-šu₂ ana KI GAR{+nu} u₃ * MUŠ ana UGU NA ša₂ di-na ge-ru-u₂ ŠUB#[{+ut}]
+#lem: amēla[man]N; šēpētušu[foot]N; ana[towards]PRP; erṣetu[earth]N; šaknū[displayed]AJ; u[and]CNJ; ṣerru[snake]N; ana[on]PRP; muhhi[top]N; amēlu[man]N; ša[who]REL; dīna[lawsuit]N; gerû[hostile]AJ$; imqut[fall]V
+
+54. !zz 23 mal₂-su-ut * URU ina SUKUD GAR{+in} NU AL.TIL * MUŠ ina UGU {giš?#}NA₂?# [NA NU₂{+iṣ}]
+#lem: n; malsût[reading out]N; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ; lā[not]MOD; qati[completed]AJ; ṣerra[snake]N; ina[on]PRP; muhhi[top]N; erši[bed]N; amēli[man]N; irabbiṣ[lie down]V
+
+@translation parallel en project
+
+@label 1 - 3
+“He should @i{hollow out} his head” (@i{Šumma Ālu} 22 1) means, […] “head” […]. “He should shave his cheeks” (@i{Šumma Ālu} 22 1) means “@i{ditto} both his cheeks;” “cheek” […]. “He will suffer for three months” (@i{Šumma Ālu} 22 1) means […] hardship […].
+
+@label 4
+
+“It falls in a man’s […]” (cf. @i{Šumma Ālu} 22 5-10) (refers to the snake) that together with the @i{ṣarṣaru}-snake […].
+
+@label 5 - 6
+
+The “ominous signs of the bed” (@i{Šumma Ālu} 22 11) means […] in the bed. “Between husband and wife” (@i{Šumma Ālu} 22 13) means “between […].” KUD-MEŠ NU TI-MEŠ (@i{Šumma Ālu} 22 13) means “They will be separated from one another and then die.”
+
+@label 7 - 8
+
+UKKIN ALGAZ (@i{Šumma Ālu} 22 14) means [“a meeting …],“ (since) GAZ means “to break.” In “he will either fall ill (GIG) or sicken” (@i{Šumma Ālu} 22 16), GIG [means “@i{to sicken}]; “he will sicken” means “he will fall ill.”
+
+@label 8 - 10
+
+In “If in the month of Nisannu, from the 1st day [until the 30th day] a snake turns (@i{isḫur}) from a man’s right to a man’s left, that man will be carried away by hardship in the land of his enemy” (@i{Šumma Ālu} 22 17). “It turns” (@i{isḫur}) (is written with the sign) ḪUR, (which can also mean) “it draws;” alternatively, (it can mean) “it crosses;” thirdly, (it can mean) “it goes,” since GIŠ.ḪUR, read /gišḫaš/, means […], which means “to go.” “Hardship” (@i{dulu}) (@i{Šumma Ālu} 22 17) means “weeping.”
+
+@label 11 - 13
+
+“If a snake in the street @i{stares fixedly at him}” (@i{Šumma Ālu} 22 19) (refers to the snake) that a man spots and looks at, but does not fear the snake. In “It deprives him (KAR-@i{šú}) of his dignity (TÉŠ.BI)” (@i{Šumma Ālu} 22 19), TÉŠ.BI means “dignity,” “dignity” means “appearance;” KAR means “to abandon.” Alternatively, what it says, “He is deprived of his dignity,” (means) (…, it is not preserved in the tablet).
+
+@label 13 - 14
+
+“(Snakes) intertwine” (@i{iktapilū}) (@i{Šumma Ālu} 22 20), (since) @i{gú-min-ak-a} means “to intertwine” (@i{kitpulu}), (it refers to the snake) that crosses the neck; alternatively, (it refers to) two snakes, on account of the quarrel.
+
+@label 14 - 16
+
+“He will suffer for those three months” (@i{Šumma Ālu} 22 21) means “in the month that is good @i{for (delivering) the news}.” He who is hungry and thirsty, he is the sufferer. “He will recognize” (@i{ušeddī-ma}) (@i{Šumma Ālu} 22 21) means “he will recognize” (@i{ušeddī-ma}). “He will seek out” (@i{ušeʾʾû-ma}) (@i{Šumma Ālu} 22 21), the logogram KIN.KIN means “to seek out” (@i{šiteʾʾû}), i.e., “to look for” (@i{buʾʾû}).
+
+@label 16
+
+“In the middle of the winter” (@i{Šumma Ālu} 22 33) means “(in the middle of) hardship,” (i.e.), “(in the middle of) the cold.”
+
+@label 17 - 18
+
+“It is dark, it is bright” (@i{Šumma Ālu} 22 33-35) refers to the humble man. “Radiance” (@i{Šumma Ālu} 22 36) means “dignity;” “virility” means “dignity,” whence “virility” (can also) mean “appearance.”
+
+@label 18
+
+“You should take (water) in a @i{namḫāru}-vessel” (@i{Šumma Ālu} 22 36) (means) “you should set it up like a holy water vessel.”
+
+@label 19 - 20
+
+“If @i{a man} kills a snake, takes (TI-@ma) (the corpse) and introduces it in a hole” (@i{Šumma Ālu} 22 37) refers to (a man) who kills a snake, carries it and buries it; since TI means “to take.” Alternatively, (it can mean), “(a man tries to kill it), but it survives and slips into a hole,” since TI means “to live.”
+
+@label 20 - 21
+
+In “NÍG.ŠU-@i{šu} DÙ-@i{šú} or DUMU-@i{šú} GU₇” (@i{Šumma Ālu} 22 38), NÍG.ŠU-@i{šu} DÙ-@i{šú} means @i{iz-zíb-šú}, i.e., “(his possessions) shall abandon him” (@i{izzibšu}), since DÙ means “to abandon” (@i{ezēbu}). DUMU-@i{šú} GU₇ means “he will eat his possessions,” since DUMU means “possession.”
+
+@label 22 - 23
+
+… (@i{Šumma Ālu} 22 unknown) means “enemy” (@i{ṣerru}), i.e., “evil man.” “@i{It has been made to grow}” (@i{uštāḫ-ma})(@i{Šumma Ālu} 22 46-47) means  “@i{it increased}” (@i{ušīḫ-ma}). UR₅-@i{ta} (@i{Šumma Ālu} 22 48) means “that.” “He gets rid of it (sc. the snake) with difficulty” (@i{Šumma Ālu} 22 49) (is said) on account of (the snake) that lingers long time on top of him.
+
+@label 23 - 24
+
+(The word) @i{imṣur} (@i{Šumma Ālu} 22 58) means @i{imšur}, i.e., “it goes” (@i{illik}). “It will devour itself” (@i{itakkal}) (@i{Šumma Ālu} 22 61)(can be written) DU.DU, (which) means @i{itkulu} (= @i{akālu} Gt); DU.DU also means “to fight with each other.”
+
+@label 24 - 25
+In “If a snake falls onto a man’s shoulder, he who backs up a man shall die” (@i{Šumma Ālu} 22 73), the “shoulder” (@i{būdu}) (in the protasis) (is connected with) the “back” (@i{kutallu}) (in the apodosis). In “he who backs up a man” (@i{mukīl kutalli amēli}), the word “back” (@i{ku-tal}, understood as @i{ṣi}₉@i{-ri}) means “divine snake” (MUŠ.@sup{d}MUŠ) is the “little snake” (@i{nirāḫu}), i.e., the snake that has no hands. There is much after (this).
+
+$ single ruling
+
+@label 26
+(Tablet) 22 of “If a City is Set on a Height,” not finished.
+
+$ single ruling
+
+@label 27 - 28
+“If a snake falls upon a man who is litigating, his lawsuit will be long” (@i{Šumma Ālu} 23 1). “(If a snake) twitters” (@i{Šumma Ālu} 23 6) means “shouts,” because @i{zi.zi}, which means “to twitter, said of a bird” (quotation from Nabnītu IX 48 or 49 ?), and “bird” @i{zi.zi} means “shout, said of a bird” (quotation from unknown source).
+
+@label 28 - 29
+“Empty day” (@i{Šumma Ālu} 23 8) means the 29th day of the month, the day when the moon is not visible.
+
+@label 29 - 30
+“If a man sees a snake and kills it, his fears will not approach that man” (@i{Šumma Ālu} 23 9) [(i.e.), if on a day which is] propitious to kill he sees it and kills it, (this is said) on account of the 20th of Ayyāru (i.e., a day which in the Babylonian Almanac is said to be propitious for killing snake).
+
+$ reverse
+
+@label 31 - 33
+“He is afraid (of the snake)” (@i{Šumma Ālu} 23 10) means “he is terrified,” it refers (to the snake) that […]. [“That man will appease Marduk” (@i{Šumma Ālu} 23 10)] (means) that he will recite aloud a @i{šigû} prayer and @i{will recite} a @namburbû prayer […].  […]. [“Const]antly all the time” (@i{Šumma Ālu} 23 12) means during the day, while the sun is out. “(The snake) constantly lies accross” (@i{Šumma Ālu} 23 12) […].
+
+@label 33 - 34
+[… “(If a snake)] hisses” (@i{Šumma Ālu} 23 14), “to hiss” means “to take care,” hence “to hiss” also means “to kiss.” […] noise was made.
+
+@label 34 - 35
+“If a snake has (@i{šakin-ma}) a paw (@i{rittu}) and roars like a lion” (@i{Šumma Ālu} 23 27) refers (to the snake) that makes (@i{šakin-ma}) noise, (since) @i{riṭṭu} (an otherwise unknown word) means “noise.”
+
+@label 35 - 36
+“(The snake) enters inside of the garment” (@i{Šumma Ālu} 23 40) means “inside of the fabric;” alternatively, it means “the place where the @i{wrist} is.” “@i{That reporter} will have a SAG.TUK” (@i{Šumma Ālu} 23 41) means “he will have a life-granting spirit.”
+
+@label 36 - 37
+“Fault” (@i{Šumma Ālu} 23 44) means “evil omen;” (as in?) “evil of the entrails, disastrous, frightening, dire and unauspicious” (quotation from the šuʾila @i{Marduk} 26 41 = Mayer @i{OrNS} 68 [1999] p. 151] ?). “Continuously stands” (@i{Šumma Ālu} 23 46) refers to (the man) who is enrolled into service and not exempted.  
+
+@label 38 - 40
+“If a snake falls in a man’s house and slithers around” (@i{Šumma Ālu} 23 49) refers to (the snake) which does not enter the holes or the houses.
+
+“It lays an egg” (@i{Šumma Ālu} 23 50?-52?) refers to (the snake) which gives birth in the man’s house. @i{BÚN.BÚN-ah} (@i{Šumma Ālu} 23 53) means “it hisses.” @i{i-ziz-eš} means “by being furious,” (@i{ezēz-iš}) which refers (to the snake) which shouts angrily or, alternatively, to the snake which shouts loudly. “As indemnity” (@i{Šumma Ālu} 23 56) means “as a compensation.”
+
+@label 41 - 42
+“Constantly causes fear” (@i{Šumma Ālu} 23 57) refers (to the snake) which frightens a whole army, on account of (the line) “to be afraid, said of soldiers” (quotation from an unknown lexical list). [Alternatively,] “constantly causes fear” means “constantly terrifies.”
+
+@label 42 - 44
+“If a snake coils around the door and bolt of a man’s house and does not allow him to open it, that house will be expanded (alternatively, it will be abandoned)” (@i{Šumma Ālu} 23 59): (this means that) it is a good (prognosis) for a noble man, but a bad one for a commoner, because of (the line) “the strong magic circles of Ninĝirzida” (quotation of K.10380 8′ // BM 35321 11′), where “circle” (@i{šutukku}) means “peg” (@i{sikkatu}, a part of the lock).
+
+@label 44 - 45
+“If several snakes are intertwined (GIL-MEŠ)” (@i{Šumma Ālu} 23 75?-78?): GIL-MEŠ means “intertwined.” PÉŠ (@i{Šumma Ālu} 23 unknown) means “mouse.” “If a snake goes hunting in a man’s house” (@i{Šumma Ālu} 23 81), refers to (the snake) whose wings […]. 
+
+@label 46 - 48
+“(The snake) wails” (@i{Šumma Ālu} 23 84) refers to screaming loudly. “Hardship” (ibid.) means “weep,” it can also mean “moaning.” “Continuously” (@i{Šumma Ālu} 23 87?) means “constantly.” “If a snake is seen in the house of a man” (@i{Šumma Ālu} 23 88), refers to (the snake) which @i{grows legs}. “To do regularly” (@i{Šumma Ālu} 23 88) means “permanent.” @i{Anta} (@i{Šumma Ālu} 23 97-99) means “friend.”
+
+@label 48 - 49
+(In) “If a woman catches a snake inadvertently in a waterspout and then lets go of it, that woman will have luck,” (@i{Šumma Ālu} 23 105) what it is said, (this is) because the snake and the woman, their …
+
+@label 50
+
+(In) “If a snake enters a man’s house” (@i{Šumma Ālu} 23 105) refers to (the snake) which enters a man’s house while he is with a group of people. “MUD-@i{su}” (ibid.) means “startles him.”
+
+@label 51
+(In) “If a snake is lying down on a man’s bed” (@i{Šumma Ālu} 23 110) refers to (the snake) which is lying down and does not stand up. @i{ÉŠ-sunu} (@i{Šumma Ālu} 23 115) means “their mooring rope.”
+
+$ double ruling
+
+@label 52 - 54
+
+Lemmata, oral explanations, and (materials for) a “questioning” @i{by} a (master-)scholar, relating to (the text with the incipit) “<If> on the first day of Nisannu (I), before a man has set his foot on the ground” (= @i{Šumma Ālu} 22) and “If a snake falls onto a man who has begun a lawsuit” (= @i{Šumma Ālu} 23). 23rd reading of “If a City is set on a Height,” not finished. “If a snake is sitting on a man’s bed” (= @i{Šumma Ālu} 24, catchline).
+
+#@label 55
+#One-column tablet of Naʾid-Enlil, son of Šamaš-aḫḫē-iddina, descendant of @i{Dirūtu}.
+
+&P348846 = CCP 3.5.22.A.a (http://ccp.yale.edu/P348846) = SpTU 5 259
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#link: def A = ccpo:Q005171 = CCP 3.5.22.A = Commentary on Šumma Ālu 22-23
+@obverse
+1'. !zz [x x x x x x x x x x x x x x x x x x x x x] !cm ina# ITI ša₂ ana da-li-x# [x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; ina[in]PRP; arhi[month]N; ša[which]REL; ana[for]PRP; u; u; u
+
+>> A 14
+2'. !zz [x x x x x x x x x x x x x x x x : !bs u₂-še-di]-ma !cm : u₂-ša₂-am-de-e-ma
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; ušēdīma[recognize]V; ušamdēma[recognize]V
+
+>> A 15
+3'. !bs u₂#-[še-eʾ-u₂-ma !cm : KIN.KIN :] ši-te-eʾ-u₂# [: bu]-uʾ-u₂ : !bs ina qe₂-reb EN.TE.NA !cm : dan-na-tu₂ : ku!-ṣu
+#lem: ušeʾʾûma[seek (out)]V; šiteʾʾû[seeking constantly for]'N; šiteʾʾû[seeking constantly for]'N; buʾʾû[looking for]'N; ina[in]PRP; qereb[centre]N; kūṣi[winter]N; dannatu[distress]N; kūṣu[winter]N
+
+>> A 16
+4'. !bs ek-let nam-rat !cm : [a-na muš]-ke-ni qa-bi : !bs ša₂-lum-mat !cm : bal-tu₄ : du-u₂-tu₄ : bal-tu₄
+#lem: eklet[dim]AJ; namrat[bright]AJ; ana[for]PRP; muškēni[poor man]N; qabi[said]AJ; šalummat[radiance]N; bāltu[dignity]N; dūtu[virility]N; bāltu[dignity]N
+
+>> A 17
+5'. !cm du-u₂-tu₄ : bu-nu : !bs nam-ha-ra DIR-ma !cm : ki-ma {dug}A.GUB₂.BA tu-ka-ni-ma
+#lem: dūtu[virility]N; būnu[good looks]N; namhāra[(a vessel)]N; tumallīma[be(come) full]V; kīma[according to]PRP; agubbû[holy water vessel]N; tukannīma[set up correctly]V
+
+>> A 18
+6'. !bs *# NA?# MUŠ GAZ!-ma TI-ma ana ŠA₃ HABRUD* KU₄! !cm : ša₂ MUŠ i-du-ku-ma iš-šu-u₂ iq-bi-ri : !bs TI !cm : la-qu-u
+#lem: amēla[man]N; ṣerru[snake]N; idūkma[kill]V; ileqqûma[take]V; ana[according to]PRP; libbi[interior]N; hurri[hole]N; īrub[enter]V; ša[from]DET; ṣerru[snake]N; idukkuma[kill]V; iššû[lift]V; iqbiri[bury]V; balāṭu[living]'N; laqû[take]V
+
+>> A 19
+7'. !cm ša₂#-niš!# [ib]-luṭ-ma ana ŠA₃ HABRUD*# KU₄ : !bs TI !cm : ba-la-ṭu : !bs NIG₂.ŠU-šu DU₃-šu₂ KIMIN<(NIG₂.ŠU-šu DU₃-šu₂)> DUMU-šu₂ GU₇ !cm : NIG₂.ŠU-šu₂ DU₃-šu₂ :
+#lem: šanîš[alternatively]AV; ibluṭma[live]V; ana[according to]PRP; libbi[interior]N; hurri[hole]N; īrub[enter]V; balāṭu[living]'N; balāṭu[living]'N; būšašu[goods]N; izzibšu[leave]V; būšašu[goods]N; izzibšu[leave]V; māršu[member]N; ikkal[eat]V; būšešu[goods]N; izzibšu[leave]V
+
+>> A 20
+8'. !cm iz-zib₂-šu₂ : iz-zib-šu₂ : DU₃ : e-ze-bu : !bs DUMU-šu₂ GU₇ !cm : bu-šu-šu₂ ik-kal : DUMU : bu-šu-u₂
+#lem: izzibšu[leave]V; izzibšu[leave]V; ezēbu[leaving]N; ezēbu[give up]V; māršu[member]N; ikkal[eat]V; būšušu[goods]N; ikkal[eat]V; māru[son]N; būšū[goods]N
+
+>> A 21
+9'. !bs GABA?# !cm : ṣe-ri₃ : lem-nu : !bs uš!-ta-ah-ma !cm : u₂-ši-ih-ma : !bs UR₅#{+ta} !cm šu-a-tu₂ : !bs ina KI.KAL DU₈*-[šu₂]
+#lem: irat[chest]N; ṣerri[snake]N; lemnu[evil one]N; uštāhma[grow (tall)]V; ušīhma[grow (tall)]V; šuāta[that]IP; šuātu[that]'DP; ina[at]PRP; +dannati[distress]N$; ipṭuršu[loosen]V
+
+>> A 22
+10'. !cm [aš]-šum ša₂ ma-diš ina muh-hi-šu₂ i-ku-šu₂ : !bs im-ṣur !cm : im-šur : il-lik : !bs i-tak-kal !cm : DU.DU : it-ku-lu
+#lem: aššum[because of]'PRP; ša[who]REL; mādiš[greatly]AV; ina[in]PRP; muhhišu[skull]N; ikūšu[delay]V; imṣur[move around]V; imšur[drag (across the ground)]V; illik[blow]V; ītakkal[eat]V; mithuṣu[fighting]'N; itkulu[eat]V
+
+>> A 23
+11'. !cm DU.DU : mit-hu-ṣu : !bs * MUŠ ana bu-di NA ŠUB{+ut} mu-kil ku-tal₂-li NA UG₇ !cm : bu-di : ku-tal-la
+#lem: mithuṣu[fighting]'N; mithuṣu[fighting]'N; ṣerru[snake]N; ana[according to]PRP; būdi[shoulder]N; amēla[man]N; imqut[fall]V; mukīl[holder]N; kutalli[back]N; amēla[man]N; imât[die]N; būdi[shoulder]N; kutalla[back]N
+
+>> A 24
+12'. !bs GU₂#.HAŠ# !cm :# ku-tal₂-li NA : !bs ku-tal MUŠ : {d}MUŠ !cm : ni-ra-hu : !bs MUŠ ŠU-MIN NU GAR !zz ma-gal ar₂-ki#
+#lem: +kutallu[back]N$; kutalli[back]N; amēla[man]N; kutal[back]N; +ṣerru[snake]N$; Nirah[Snake]'DN; nirāhu[(a kind of snake)]N; ṣerru[snake]N; qātī[hand]N; lā[not]MOD; šakin[displayed]AJ; magal[greatly]AV; arki[long]AJ
+
+>> A 25
+13'. !zz 21 * URU ina SUKUD GAR{+in} NU AL.TIL
+#lem: Anu[1]DN; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ; lā[not]MOD; qati[completed]AJ
+
+>> A 26
+14'. !bs *# [MUŠ ana] UGU# NA ša₂ di-na ge-ru-u₂ ŠUB{+ut} di-in-šu GID₂.DA GAL₂ !zz : !bs iṣ-bur-ma !cm : is-si-ma
+#lem: ṣerru[snake]N; ana[on]PRP; muhhi[top]N; amēlu[man]N; ša[who]REL; dīna[lawsuit]N; gerû[hostile]AJ; imqut[fall]V; dīnšu[lawsuit]N; arku[long]AJ; ibašši[being (at hand)]'N; iṣburma[hiss]V; issīma[shout]V
+
+>> A 27
+15'. !cm ZI.ZI : ṣa-bar ša₂ iṣ-ṣur : MUŠEN ZI.ZI : ši-si-tu₂ ša₂ iṣ-ṣur : !bs U₄{+mi} ri-qi₂ !cm : U₄ 29.KAM₂
+#lem: ṣabāru[twittering]'N; ṣabār[hiss]V; ša[from]DET; iṣṣūr[bird]N; iṣṣūru[bird]N; ṣabāru[twittering]'N; šisītu[cry]N; ša[from]DET; iṣṣūr[bird]N; ūmu[day]N; rīqi[moonless]AJ; ūmu[day]N; n
+
+>> A 28
+16'. !cm [x x x x x] u₂-šu-uz-zu : !bs * MUŠ NA IGI-ma GAZ-šu₂ NA BI a-di-ra-tu-šu₂ NU TE-MEŠ-šu₂
+#lem: u; u; u; u; u; ušuzzu[stand]V; ṣerru[snake]N; amēla[man]N; ̄muru[see]V; idūkšu[kill]V; amēla[man]N; šu[that]IP; adirātušu[misfortune]N; lā[not]MOD; lētēšu[cheek]N
+
+>> A 29
+17'. !cm [ina u₄-mi] ša₂?# a#-na# da-a-ku ṭa-a-bu IGI-ma i-duk# : aš-šum !qt U₄ 20.KAM₂ ša₂ {iti}GU₄
+#lem: ina[on]PRP; ūmi[day]N; ša[which]REL; ana[for]PRP; dâku[kill]V; ṭābu[favourable]AJ; ̄muru[see]V; idūk[kill]V; aššum[because of]'PRP; ūmu[day]N; n; ša[from]DET; Ayyaru[1]MN
+
+>> A 30
+@reverse
+1-2a.  !bs i-ta-dar !cm : ip-ta-lah₃!(DIR) !zz :# ša₂# [x x x x x x !qt ši-gu]-u₂# DUG₄{+si}-ma NAM#.[BUR₂.BI] / x# x# ka?# x#
+#lem: ītadar[be afraid (of)]V; iptalah[fear]V; ša[from]DET; u; u; u; u; u; u; šigû[(a cry of lamentation)]N; issīma[shout]V; +namburbû[apotropaic ritual]N$; u; u; X; u
+
+>> A 31
+2b. !zz kur?# x x [x x x x x x x x x] !bs DU₃#.A#.BI !cm : [U₄{+mu}] ma#-la {d}UTU nap-hi
+#lem: kūr[depression]N; u; u; u; u; u; u; u; u; u; u; u; kalāma[all (of it)]N; ūmu[day]N; mala[as many]'REL; Šamaš[1]DN; naphi[bright]AJ
+
+>> A 32
+3. !bs [ip]-ta-na?#-[rik !zz : x x x x x x x x x x] !cm ha#-ba#-bu# : ha-ṣa-nu : ha-ba-bu : na-ša₂-qa 
+#lem: +parāku[lie across]V$iptanarrik; u; u; u; u; u; u; u; u; u; u; habābu[caressing]'N; haṣānu[protecting]'N; habābu[caressing]'N; našāqa[kissing]'N
+
+>> A 33
+4a. !zz [x x x x x x x x x x x x x x x x x !bm i]-ram#-mu-um :
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; irammum[roar]V
+
+>> A 34
+4b-5a. !cm ri-gim ša₂-kin-ma / !zz [x x x x x x x x x x x x x x x x x]
+#lem: rigim[voice]N; šakinma[displayed]AJ; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+>> A 35
+5b-6a. !cm [a]-šar ši!(RA)-si!(RA)-ti šak-na-ti / !zz [x x x x x x x x x x x x x x x x x ha-ṭi]-ti# :
+#lem: ašar[where]SBJ; šisīti[(hand/foot) joint]N; šaknati[placed]AJ; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; +haṭītu[fault]N$haṭīti
+
+>> A 36
+6b₋7a. !cm le-mut-tu₂ / !zz [x x x x x x x x x x x x x x x x x x x x x x x x x x x x]	
+#lem: lemuttu[evil]N; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+>> A 37
+7b-8a.	!zz [x x x x x x !bs ŠUB]-ma DU.DU{+ak} !zz / [x x x x x x x x x x x x x x x x]
+#lem: u; u; u; u; u; u; nadima[located]AJ; ittanallak[blow]V; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+>> A 38
+
+&P461301 = CCP 3.5.22.A.b (http://ccp.yale.edu/P461301) = BM 129092
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#link: def A = ccpo:Q005171 = CCP 3.5.22.A = Commentary on Šumma Ālu 22-23
+@obverse
+1. !bs SAG.DU-su u₂-har-ra-ar₂ : !cm x# [x x x] SAG#.DU# [x x x x] x# [x x] x#
+#lem: qaqqassu[head]N; uharrar[dig]V; u; u; u; u; qaqqadu[head]N; u; u; u; u; u; u; u; u
+
+>> A 1
+2. !bs [TE]-MEŠ-šu₂ u₂-gal-lab : !cm TE-MIN!(A)-šu₂ KIMIN?# [:"] le-e-tu x# x# x# :# !bs 3*# [ITI]-MEŠ# uš-[ta-pa-aš₂-šaq]
+#lem: lētēšu[cheek]N; ugallab[shear]V; lētēšu[cheek]N; šanîš[otherwise]N; lētu[cheek]N; u; u; u; n; arhī[month]N; uštapaššaq[be repeatedly constricted]V
+
+>> A 2
+3. !zz x# x# x# MEŠ# x# x# x#-lu?#-ma pu-uš-qi₂ im-šu?#-x# [x x] x# x# x# x# :# [x x x x]
+#lem: u; u; u; imīdū[be(com)ing numerous]'N; u; u; u; pušqi[constriction (in liver)]N; u; u; u; u; u; u; u; u; u; u; u
+
+>> A 3
+4. !zz x# x# x# [x x !bs x x] NA# ŠUB !cm ša₂ it-ti MUŠ.SAG.[KAL !cm x x x] x# ŠA₃ an [x (x)]
+#lem: u; u; u; u; u; u; u; amēla[man]N; imqut[fall]V; ša[that]REL; itti[with]PRP; ṣarṣari[(a large snake)]N; u; u; u; u; libbi[heart]N; an[people]N; u; u
+
+>> A 4
+5. !zz [x x x x x !bs x NA] BI# GISKIM* {giš}NA₂ !cm : ina {giš}NA₂?# [x x x (x) :] !bs MURU₂ [DAM u DAM]
+#lem: u; u; u; u; u; u; amēla[man]N; šu[that]IP; itti[sign]N; erši[bed]N; ina[at]PRP; erši[bed]N; u; u; u; u; qabal[middle]N; muti[husband]N; u[and]CNJ; muti[husband]N
+
+>> A 5
+6. !cm MURU₂ [x x x x x !bs KUD]-MEŠ NU TI-MEŠ : !cm ip#-[par-ra-su-ma] ul i-bal-lu-ṭu
+#lem: qabal[middle]N; u; u; u; u; u; ipparrasūma[cut]V; lā[not]MOD; iballuṭū[live]V; ipparrasūma[cut]V; ul[not]MOD; iballuṭū[live]V
+
+>> A 6
+7. !bs UKKIN AL*#-[GAZ !cm : pu-uh-ru x x] x#-ku? : !bs GAZ : !cm he-pu-u₂ : !bs BE{+ma} GIG BE{+ma} is-sal-la-aʾ
+#lem: puhru[assembly]N; idūk[kill]V; puhru[assembly]N; u; u; u; dâku[killing]'N; hepû[breaking]'N; šumma[if]MOD; imarruṣ[be(come) ill]V; šumma[if]MOD; issallaʾa[be(come) infected]V
+
+>> A 7
+8. !bs GIG# !cm [: (x x) sa-la-aʾ]-u₂ : !bs is-sal-la-aʾ !cm : i-mar-ru-uṣ : !bs * ina {iti}BARA₂ TA U₄ 1.KAM
+#lem: imarruṣ[be(come) ill]V; u; u; salāʾu[sickening]'N; issallaʾa[be(come) infected]V; imarruṣ[be(come) ill]V; ina[in]PRP; Nisannu[1]MN; ištu[from]N; ūmu[day]N; n
+
+>> A 8
+9. !bs [EN U₄ 30.KAM] MUŠ# ina SILA TA! ZAG LU₂ ana GUB₃ LU₂ is-hur LU₂ BI ina KUR KUR₂-šu₂ du-lu₄ GIG TUM₃#
+#lem: bēl[lord]N; ūmu[day]N; n; ṣerru[snake]N; ina[at]PRP; sūqi[street]N; ištu[from]N; imni[right (side)]N; amēli[man]N; ana[into]PRP; šumēl[left hand]N; amēla[man]N; ishur[going around]'N; amēla[man]N; šu[that]IP; ina[in]PRP; māti[land]N; nakiršu[enemy]N; dūlu[trouble]N; imarruṣ[be(come) ill]V; itabbal[disappear]V
+
+>> A 9
+10. !cm [(is-hur) : GIŠ].HUR# : e-ṣe-ri ša₂-niš i-ti-iq šal-šiš il-lik : GIŠ{+gi-iš}.{+ha-aš₂}HUR* : ha-x#-(x)-x# : a-la-[ku?]
+#lem: ishur[going around]'N; sahāru[going around]'N; eṣēri[drawing]'N; šanîš[alternatively]AV; ītiq[pass by]V; šalšiš[thirdly]AV; illik[blow]V; sahāru[going around]'N; u; alāku[blow]V
+
+>> A 10
+11. !bs [du-lu₄ !cm :] bi-ki₂-tu₄ : !bs MUŠ ina SILA uš-te-eṣ-bi-šu₂ !cm : ša₂ LU₂ u₂-man-du IGI-ma MUŠ la ig-lu-ut
+#lem: dūlu[trouble]N; bikītu[weeping]N; ṣerru[snake]N; ina[at]PRP; sūqi[street]N; ušteṣbīšu[observe]V; ša[of]DET; amēlu[person]N; umandû[know]V; ̄muru[see]V; ṣerru[snake]N; lā[not]MOD; iglut[tremble]V
+
+
+>> A 11
+12. !bs šu TEŠ₂.BI KAR-šu₂ !cm : TEŠ₂.BI : bal-tu₄ : bal-tu₄ : bu-nu : KAR : e-zeb ša₂-niš !bs šu TEŠ₂.BI KAR-šu₂
+#lem: šū[that]IP; bāltašu[dignity]N; iṭṭiršu[taken away]V; bāltašu[dignity]N; bāltu[dignity]N; bāltu[dignity]N; būnu[good looks]N; eṭēru[taking away]'N; ezēb[leaving]'N; šanîš[alternatively]AV; šū[that]IP; bāltašu[dignity]N; iṭṭiršu[taken away]V
+
+>> A 12
+13. !cm ša₂ E{+u₂} !zz {(ina ṭup-pi ul ša₂-lim)} : !bs ik-tap-pi-lu !cm <:> %sux gu₂ i₃!(MIN)-ak-a : %sb kit-pu-lu : ša₂ GU₂ it-ti-qu
+#lem: ša[that]REL; qabû[said]AJ; ina[in]PRP; ṭuppi[tablet]N; ul[not]MOD; šalim[intact]AJ; iktappilū[intertwine]V; gu[neck]N; ak[do]V/t; kitpulu[intertwine]'N; ša[from]DET; kišāda[neck]N; ittiqu[go past]V
+
+>> A 13
+14. !cm ša₂-niš 2 MUŠ-MEŠ aš-šum ṣa-al-tu₄ : !bs 3 ITI šu₂-nu-ti uš-ta-pa-šaq-ma !cm : ina ITI ša₂ ana da#-[li]-x# ṭa-a-bi
+#lem: šanîš[alternatively]AV; n; ṣerrū[snake]N; aššum[because of]'PRP; ṣāltu[combat]N; n; arhi[month]N; šunūti[them]IP; uštapaššaqma[being in difficulties]'N; ina[in]PRP; arhi[month]N; ša[which]REL; ana[for]PRP; u; ṭābi[favourable]AJ
+
+
+>> A 14
+15. !cm ša₂ i-bir-ru-u₂ u i-ṣa-am-mu-u₂ šu-u₂ šup-šu-qu : !bs u₂-še-di-ma !cm : u₂-ša₂-am-de-e-ma
+#lem: ša[from]DET; ibirrû[be hungry]V; u[and]CNJ; iṣammû[be(come) thirsty]V; šû[belonging to him]PP; šupšuqu[in difficulties]AJ; ušēdīma[recognize]V; ušamdēma[recognize]V
+
+>> A 15
+16. !bs u₂-še-eʾ-u₂-ma !cm : KIN.KIN : ši-te-eʾ-u₂ : bu-uʾ-u₂ : !bs ina qe₂-reb EN.TE.NA !cm : dan-na-tu₂ : ku-ṣu
+#lem: ušeʾʾûma[seek (out)]V; šiteʾʾû[seeking constantly for]'N; šiteʾʾû[seeking constantly for]'N; buʾʾû[looking for]'N; ina[in]PRP; qereb[centre]N; kūṣi[winter]N; dannatu[distress]N; kūṣu[winter]N
+
+>> A 16
+17. !bs ek-let nam-rat !cm : a-na muš-ke-ni qa-bi : !bs ša₂-lum-mat !cm : bal-tu₄ : du-u₂-tu₄ : bal-tu₄
+#lem: eklet[dim]AJ; namrat[bright]AJ; ana[for]PRP; muškēni[poor man]N; qabi[said]AJ; šalummat[radiance]N; bāltu[dignity]N; dūtu[virility]N; bāltu[dignity]N
+
+>> A 17
+18. !cm du#-u₂-tu₄ : bu-nu : !bs nam-ha-ra DIR-ma !cm : ki-ma {dug}A.GUB₂.BA tu-ka-ni-ma
+#lem: dūtu[virility]N; būnu[good looks]N; namhāra[(a vessel)]N; tumallīma[be(come) full]V; kīma[according to]PRP; agubbû[holy water vessel]N; tukannīma[set up correctly]V
+
+
+>> A 18
+19. !bs *# NA?# MUŠ GAZ-ma TI-ma ana ŠA₃ HABRUD* KU₄ !cm : ša₂ MUŠ i-du-ku-ma iš-šu-u₂ iq-bi-ri : !bs TI !cm :* la-qu-u
+#lem: amēla[man]N; ṣerru[snake]N; idūkma[kill]V; ileqqûma[take]V; ana[according to]PRP; libbi[interior]N; hurri[hole]N; īrub[enter]V; ša[from]DET; ṣerru[snake]N; idukkuma[kill]V; iššû[lift]V; iqbiri[bury]V; balāṭu[living]'N; laqû[take]V
+
+>> A 19
+20. !cm [x x] ib#-luṭ-ma ana ŠA₃ HABRUD*# KU₄ : !bs TI !cm : ba-la-ṭu : !bs NIG₂.ŠU-šu DU₃-šu₂ KIMIN<(NIG₂.ŠU-šu DU₃-šu₂)> DUMU-šu₂ GU₇ !cm : NIG₂.ŠU-šu₂ DU₃-šu₂ :
+#lem: u; u; ibluṭma[live]V; ana[according to]PRP; libbi[interior]N; hurri[hole]N; īrub[enter]V; balāṭu[living]'N; balāṭu[living]'N; būšašu[goods]N; izzibšu[leave]V; būšašu[goods]N; izzibšu[leave]V; māršu[member]N; ikkal[eat]V; būšešu[goods]N; izzibšu[leave]V
+
+>> A 20
+21. !cm [iz]-zib₂#-šu₂ : iz-zib-šu₂ : DU₃ : e-ze-bu : !bs DUMU-šu₂ GU₇ !cm : bu-šu-šu₂ ik-kal : DUMU : bu-šu-u₂
+#lem: izzibšu[leave]V; izzibšu[leave]V; ezēbu[leaving]N; ezēbu[give up]V; māršu[member]N; ikkal[eat]V; būšušu[goods]N; ikkal[eat]V; māru[son]N; būšū[goods]N
+
+>> A 21
+22. !bs [x] !cm : ṣe-ri₃ : lem-nu : !bs uš-ta-ah-ma !cm : u₂-ši-ih-ma : !bs UR₅{+ta} !cm : šu-a-tu₂ : !bs ina KI.KAL DU₈*-šu₂
+#lem: u; ṣerri[snake]N; lemnu[evil one]N; uštāhma[grow (tall)]V; ušīhma[grow (tall)]V; šuāta[that]IP; šuātu[that]'DP; ina[at]PRP; dannati[distress]N; ipṭuršu[loosen]V
+
+
+>> A 22
+23. !cm [aš-šum] ša₂ ma-diš ina muh-hi-šu₂ i-ku-šu₂ : !bs im-ṣur : !cm im-šur : il-lik : !bs i-tak-kal !cm : DU.DU : it-ku-lu
+#lem: aššum[because of]'PRP; ša[who]REL; mādiš[greatly]AV; ina[in]PRP; muhhišu[skull]N; ikūšu[delay]V; imṣur[move around]V; imšur[drag (across the ground)]V; illik[blow]V; ītakkal[eat]V; mithuṣu[fighting]'N; itkulu[eat]V
+
+>> A 23
+24. !cm [DU].DU# : mit-hu-ṣu : !bs * MUŠ ana bu-di NA ŠUB{+ut} mu-kil ku-tal₂-li NA UG₇ !cm : bu-di : ku-tal-la
+#lem: mithuṣu[fighting]'N; mithuṣu[fighting]'N; ṣerru[snake]N; ana[according to]PRP; būdi[shoulder]N; amēla[man]N; imqut[fall]V; mukīl[holder]N; kutalli[back]N; amēla[man]N; imât[die]N; būdi[shoulder]N; kutalla[back]N
+
+
+>> A 24
+25. !bs [mu]-kil# ku-tal₂-li NA !cm : ku-tal : !bs MUŠ.{d}MUŠ !cm : ni-ra-hu : !bs MUŠ ŠU-MIN NU GAR !zz ma-gal ar₂-ki
+#lem: mukīl[holder]N; kutalli[back]N; amēla[man]N; kutal[back]N; X; nirāhu[(a kind of snake)]N; ṣerru[snake]N; qātī[hand]N; lā[not]MOD; šakin[displayed]AJ; magal[greatly]AV; arki[long]AJ
+
+
+>> A 25
+26. !zz 22 * URU ina SUKUD GAR{+in} NU AL.TIL  
+#lem: n; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ; lā[not]MOD; qati[completed]AJ
+
+
+>> A 26
+27. !bs [*] MUŠ# ana UGU NA ša₂ di-na ge-ru-u₂ ŠUB{+ut} di-in-šu GID₂.DA GAL₂ !zz : !bs iṣ-bur-ma !cm : is-si-ma
+#lem: ṣerru[snake]N; ana[on]PRP; muhhi[top]N; amēlu[man]N; ša[who]REL; dīna[lawsuit]N; gerû[hostile]AJ; imqut[fall]V; dīnšu[lawsuit]N; arku[long]AJ; ibašši[being (at hand)]'N; iṣburma[hiss]V; issīma[shout]V
+
+
+>> A 27
+28. !cm ZI.ZI : ṣa-bar ša₂ iṣ-ṣur : MUŠEN ZI.ZI : ši-si-tu₂ ša₂ iṣ-ṣur : !bs U₄{+mi} ri-qi₂ !cm : U₄ 29.KAM₂
+#lem: ṣabāru[twittering]'N; ṣabār[hiss]V; ša[from]DET; iṣṣūr[bird]N; iṣṣūru[bird]N; ṣabāru[twittering]'N; šisītu[cry]N; ša[from]DET; iṣṣūr[bird]N; ūmu[day]N; rīqi[moonless]AJ; ūmu[day]N; n
+
+
+>> A 28
+29. !cm [U₄{+mu}] ša₂# {d}30 la u₂-šu-uz-zu : !bs * MUŠ NA IGI-ma GAZ-šu₂ NA BI a-di-ra-tu-šu₂ NU TE-MEŠ-šu₂
+#lem: ūmu[day]N; ša[of]DET; Sin[1]DN; lā[not]MOD; ušuzzu[stand]V; ṣerru[snake]N; amēla[man]N; ̄muru[see]V; idūkšu[kill]V; amēla[man]N; šu[that]IP; adirātušu[misfortune]N; lā[not]MOD; lētēšu[cheek]N
+
+>> A 29
+30. !cm [ina u₄-mi ša₂ a-na] da*#-a-ku ṭa-a-bu IGI-ma i-duk : aš-šum !qt U₄ 20.KAM₂ ša₂ {iti}GU₄
+#lem: ina[on]PRP; ūmi[day]N; ša[which]REL; ana[for]PRP; dâku[kill]V; ṭābu[favourable]AJ; ̄muru[see]V; idūk[kill]V; aššum[because of]'PRP; ūmu[day]N; n; ša[from]DET; Ayyaru[1]MN
+
+>> A 30
+@reverse
+1. !zz [x x x x x x x x x x x x x] x : !qt ši-gu-u₂ DUG₄{+si}-ma NAM.BUR₂*#.BI*# DUG₄?#{+si?#}
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; šigû[(a cry of lamentation)]N; issīma[shout]V; +namburbû[apotropaic ritual]N$; +šasû[shout]V$issi
+
+>> A 31
+2. !zz [x x x x x x x x x x !bs gi]-na#-a DU₃.A.BI !cm : UD{+mu} ma-la {d}UTU nap-hi
+#lem: u; u; u; u; u; u; u; u; u; u; ginâ[constantly]AV; kalāma[all (of it)]N; X; mala[as many]'REL; Šamaš[1]DN; naphi[bright]AJ
+
+
+>> A 32
+3. !zz [x x x x x x x x x !bs u₂]-hab#-ba-ab !cm : ha-ba-bu : ha-ṣa-nu : ha-ba-bu : na-ša₂-qa
+#lem: u; u; u; u; u; u; u; u; u; uhabbab[murmur]V; habābu[caressing]'N; haṣānu[protecting]'N; habābu[caressing]'N; našāqa[kissing]'N
+
+
+>> A 33
+4. !cm [x] x x mi na-aš₂-kun ri-gim : !bs MUŠ rit-ti GAR-ma GIM UR.MAH i-ram-mu-um
+#lem: u; u; u; mī[what?]QP; naškun[placed]AJ; rigim[voice]N; ṣerru[snake]N; ritti[claw]N; šakinma[placed]AJ; kīma[according to]PRP; nēša[lion]N; irammum[roar]V
+
+
+>> A 34
+5. ($_____$) !cm ri-gim <<:>> ša₂-kin-ma : ri-iṭ-ṭu : ri-gim : !bs ana ŠA₃ TUG₂ KU₄ !cm : a-na ŠA₃ me₂-eh-ṣi ša₂-niš <<x# x# x# x#>>
+#lem: rigim[voice]N; šakinma[displayed]AJ; riṭṭu[noise]N; rigim[voice]N; ana[according to]PRP; libbi[interior]N; ṣubāta[garment]N; īrub[enter]V; ana[according to]PRP; libbi[interior]N; mehṣu[fabric]N; šanîš[alternatively]AV
+
+
+>> A 35
+6. !cm [a]-šar ši-si-ti šak-na-ti* : !bs EN UMUŠ* BI SAG.TUK ba-la₂-ṭi TUK{+ši} !cm : mu-kil re-eš ba-la-ṭu TUK{+ši} : !bs ha-ṭi-ti₃*
+#lem: ašar[where]SBJ; šisīti[(hand/foot) joint]N; šaknati[placed]AJ; bēl[lord]N; ṭēmi[(fore)thought]N; šu[that]IP; mukīl[holder]N; balāṭī[life]N; irašši[acquire]N; mukīl[holder]N; rēš[beginning]N; balāṭu[living]'N; irašši[acquire]N; hatīti[fault]N
+
+
+>> A 36
+7. !cm le#-mut-tu₂ : !qt HUL UZU-MEŠ ha-ṭu-tu₄ par₂-du-tu₂ HUL-MEŠ NU DUG₃.GA-MEŠ !zz : !bs GUB.GUB{+az} !cm : ša₂ u₂-šu-uz-zu-ma la zak-ku-u₂
+#lem: lemuttu[evil]N; lumun[evil]N; šīrī[flesh]N; haṭûtu[defective]N; pardūtu[terrifying]N; lemnūtu[bad]AJ; lā[not]MOD; ṭābūtu[good]N; itanazzaz[stand]V; ša[from]DET; ušuzzūma[appointed]AJ; lā[not]MOD; zakkû[freed]AJ
+
+
+>> A 37
+8. !bs [*] MUŠ ina E₂ LU₂ ŠUB-ma DU.DU{+ak} !cm : ša₂ a-na HABRUD*-MEŠ u E₂-MEŠ la ir-ru-bu : !bs NUNUZ* iš-tak-na !cm :
+#lem: ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēla[man]N; nadima[located]AJ; ittanallak[blow]V; ša[which]REL; ana[for]PRP; hurrī[hole]N; u[and]CNJ; bītāti[house]N; lā[not]MOD; irrubu[enter]V; pelâ[egg]N; ištakna[bring about]V
+
+
+>> A 38
+9. !cm ša₂# ina E₂ LU₂ ul-la-du : !bs BUN₂.BUN₂{+ah} !cm : u₂-nap-pa-ah : !bs i-ziz-eš !cm : e-ze-zi-iš
+#lem: ša[that]REL; ina[in]PRP; bīt[house]N; amēli[man]N; ulladu[give birth (to)]V; unappah[blow]V; unappah[blow]V; ezēziš[be(com)ing angry]'N; ezēziš[be(com)ing angry]'N
+
+
+>> A 39
+10. !cm ša₂# ez-zi-iš i-ša₂-as-su-u₂ ša₂-niš ša₂ ša₂-qi₂-iš i-ša₂-as-su-u₂ : !bs ana kiš-ša₂-tu₄ !cm : ana sa-ar₂-tu₂
+#lem: ša[from]DET; ezziš[furiously]AV; išassû[cry out]V; šanîš[alternatively]AV; ša[of]DET; šaqîš[high up]AV; išassû[cry out]V; ana[according to]PRP; kiššatu[emmer]N; ana[according to]PRP; sartu[falsehood]N
+
+
+>> A 40
+11. !bs up#-ta-nar-rad !cm : ša₂ {lu₂}ERIN₂!-MEŠ ina bi-ri a-ha-meš u₂-par-ra-du aš-šum !qt ga-la-tu₄ ša₂ {lu₂}ERIN₂!-MEŠ
+#lem: uptanarrad[be scared]V; ša[from]DET; ummānī[army]N; ina[at]PRP; biri[among]AV; ahāmeš[one another]AV; uparradu[be scared]V; aššum[because of]'PRP; galātu[tremble]V; ša[from]DET; ummānī[army]N
+
+
+>> A 41
+12. !cm [ša₂-niš] up#-ta-nar-rad : up-ta-na-al-lah₃ : !bs * MUŠ ina E₂ NA {giš}IG {giš}SAG.KUL NIGIN-ma
+#lem: šanîš[alternatively]AV; uptanarrad[be scared]V; uptanallah[fear]V; ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēla[man]N; dalti[door]N; sikkūra[bar]N; lamima[surrounded]AJ
+
+
+>> A 42
+13. !bs [a]-na?# BAD{+e} NU SUM{+in} E₂ BI DAGAL{+iš} KIMIN<(E₂ BI)> ŠUB{+di} !cm : ana kab-tu dum-qi₂ ana MAŠ.EN.GAG lum-nu
+#lem: ana[according to]PRP; petê[open]V; lā[not]MOD; innaddin[give]V; bīt[house]N; šu[that]IP; irappiš[expand]V; bīt[house]N; šu[that]IP; inaddi[throw (down)]V; ana[according to]PRP; kabtu[dignitary]N; dumqi[goodness]N; ana[according to]PRP; muškēnu[dependant]N; lumnu[evil]N
+
+
+>> A 43
+14. !cm aš#-šum !qt šu-tuk-ku dan-nu-tu₄ ša₂ {d}NIN.GIR₂.ZI.DA !zz : !bs šu-tuk-ku !cm : sik-kat₂* : !bs * MUŠ-MEŠ GIL-MEŠ !cm : it#-gu-ru-tu₂
+#lem: aššum[because of]'PRP; šutukkū[reed-hut]N; dannūtu[strong]N; ša[from]DET; Ningirzida[1]DN; šutukkū[reed-hut]N; sikkat[peg]N; ṣerrū[snake]N; itgurūtu[crossed]AJ; itgurūtu[crossed]AJ
+
+>> A 44
+15. !bs PEŠ₂* !cm : hu-si-ri : !bs * MUŠ ina E₂ LU₂ bu-ʾu-ra DU₃{+uš} !cm : ša₂ mim-ma ša₂ kap-pi sag-[x x x]-ru
+#lem: humṣīra[mouse]N; husīri[mouse]N; ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēla[man]N; buʾʾura[hunting]N; eppuš[accomplishing]'N; ša[that]REL; mimma[anything]XP; ša[from]DET; kappī[wing]N; u; u; u
+
+>> A 45
+16. !bs i-dam-mu-um !cm : ša₂ ši-si-ti <<:>> ma-a-du : !bs dul-la !cm : bi-ki-tu₄ : dul-la : ta-ne₂-hi
+#lem: idammum[moan]V; ša[from]DET; šisīti[(hand/foot) joint]N; mâdu[be(com)ing numerous]'N; dulla[misery]N; bikītu[sorrow]N; dulla[misery]N; tānēhī[moaning]N
+
+>> A 46
+17. !bs gi-nam-ma !cm : ka-a-a-ni-iš : !bs DIŠ MUŠ ina E₂ LU₂ IGI : !cm ša₂ GIR₃-MEŠ-šu₂ u₂-še-eṣ-ṣa-a
+#lem: ginâmma[constantly]AV; kayyāniš[constantly]AV; ištēn[one]NU; ṣerru[snake]N; ina[in]PRP; bīt[house]N; amēli[man]N; innamir[be seen]V; ša[from]DET; šēpētušu[foot]N; ušeṣṣâ[expel]V
+
+>> A 47
+18. !bs sa-da-ru : !cm ka-a-a-nu : !bs %sux an-ta : !cm %sb tap-pu-u₂ : !bs * MUŠ MUNUS ina a-sur-re-e ina la e-de-e
+#lem: sadāru[doing regularly]'N; kayyānu[steady]AJ; anta[companion]N; tappû[companion]N; ṣerru[snake]N; sinništu[wife]N; ina[at]PRP; asurrê[footing]N; ina[at]PRP; lā[not]MOD; edê[know]V
+
+>> A 48
+19. ($_____$) !bs DIB{+su}-ma BAR-šu₂ MUNUS BI DINGIR TUK{+ši} !cm ša₂ E{+u₂} aš-šum MUŠ u MUNUS ud-dim-šu₂-nu
+#lem: iṣabassūma[seize]V; uššaršu[leave]V; sinništu[wife]N; šu[that]IP; ila[god]N; irašši[acquire]N; ša[that]REL; qabû[said]AJ; aššum[because of]'PRP; ṣerru[snake]N; u[and]CNJ; sinništu[woman]N; X
+
+
+>> A 49
+20. !bs * MUŠ ana E₂ LU₂ KU₄ !cm ša₂ ina UKKIN UN-MEŠ ana E₂ LU₂ i-ru-bu : !bs MUD-su !cm : u₂-gal-lit-su
+#lem: ṣerru[snake]N; ana[into]PRP; bīt[house]N; amēla[man]N; īrub[enter]V; ša[that]REL; ina[in]PRP; puhru[assembly]N; nišū[people]N; ana[into]PRP; bīt[house]N; amēla[man]N; īrubu[enter]V; ugallissu[tremble]V; ugallitsu[tremble]V
+
+
+>> A 50
+21. !bs * MUŠ ina UGU {giš}NA₂ LU₂ NU₂{+iṣ} !cm : ša₂ ir-bi-ṣu-ma la it-bu-u₂ : !bs EŠ₂-su-nu !cm : aš₂-lat#-su*#-nu*#
+#lem: ṣerru[snake]N; ina[on]PRP; muhhi[top]N; erši[bed]N; amēla[man]N; irabbiṣ[lie down]V; ša[from]DET; irbiṣūma[sit]V; lā[not]MOD; itbû[stand up]V; ašlassunu[rope]N; ašlassunu[rope]N
+
+
+>> A 51
+
+$ double ruling
+@colophon
+22. !zz ṣa-a-tu₂ šu-ut pi-i u maš-a-a-al-tu₂ ša₂ KA um-man-nu ša₂ ŠA₃ <*> ina {iti}BARA₂ U₄ 1.KAM₂ la-am#
+#lem: ṣâtu[commentary]N; šūt[those of]DET; pî[mouth]N; u[and]CNJ; mašʾaltu[questioning]N; ša[of]DET; pî[accordance]N; ummannu[scholar]N; ša[of]DET; libbi[interior]N; ina[in]PRP; Nisannu[1]MN; ūmu[day]N; n; lām[before]SBJ
+
+23. ($_____$) !zz LU₂ GIR₃-šu₂ ana KI GAR{+nu} u₃ * MUŠ ana UGU NA ša₂ di-na ge-ru-u₂ ŠUB#[{+ut}]
+#lem: amēla[man]N; šēpētušu[foot]N; ana[according to]PRP; erṣetu[earth]N; šaknū[displayed]AJ; u[and]CNJ; ṣerru[snake]N; ana[on]PRP; muhhi[top]N; amēlu[man]N; ša[who]REL; dīna[lawsuit]N; gerû[hostile]AJ; imqut[fall]V
+
+24. !zz 23 mal₂-su-ut * URU ina SUKUD GAR{+in} NU AL.TIL * MUŠ ina UGU {giš?#}NA₂?# [NA NU₂{+iṣ}]
+#lem: n; malsût[reading out]N; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ; lā[not]MOD; qati[completed]AJ; ṣerru[snake]N; ina[on]PRP; muhhi[top]N; erši[bed]N; amēla[man]N; irabbiṣ[lie down]V
+
+25. !zz IM.GID₂.DA {m}I-{d}EN.LIL₂ A-šu₂ {m}{d}UTU-ŠEŠ{meš}-MU A {m}DIR-u-tu?#
+#lem: imgidda[a single-columned tablet]N; +Naʾid-Enlil[]PN$; +aplu[son]N$apalšu; +Šamaš-aḫḫe-iddin[]PN$; apal[son]N; +Dirutu[]PN$
+
+#note: The reading of the last name follows a suggestion by E. Frahm.

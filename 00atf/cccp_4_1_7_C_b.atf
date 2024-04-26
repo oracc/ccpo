@@ -1,0 +1,46 @@
+&P481113 = CCP 4.1.7.C.b (http://ccp.yale.edu/P481113) = BM 48729
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+2'. !cm [...] u₂?#-ga#-ra-aṣ?# ša₂-niš u₂#-[...]
+#lem: u; +karāṣu[break off]V$ugaraṣ; šanîš[alternatively]AV; u
+
+#note: The line probably explains @i{Sagig} VII 15: @akk{EME-šú ú-qar-ra-aš}.
+3'. !zz [...] x# !bs * EME-šu₂ ik-ka-ṣir# [...]
+#lem: u; u; lišānšu[tongue]N; +kaṣāru[tie]V$ikkaṣir; u
+
+4'. !zz [...] x# x# : * EME-šu₂ i#-tal#-lal?# :# tu#/uš#-[...] 
+#lem: u; u; u; lišānšu[tongue]N; +talālu[stretch out]V$itallal; u
+
+#note: The reading of the line is courtesy of E. Schmidtchen and I. L. Finkel. At the end, one should restore @akk{ŠU {d}šu-lak}, @i{vel sim}.
+
+5'. !zz [... !cm : ŠU : qa]-tu₄# : la# :# la-a : KU₃ : el#-[lu !zz ...]
+#lem: u; qātu[hand]N; qātu[hand]N; lā[not]MOD; lā[not]MOD; ellu[pure]AJ; ellu[pure]AJ; u
+
+#note: The same etymographical analysis of the name of Šulak is preserved in @i{SpTU} 1 47 (@i{CCP} 4.2.D) l. 4 (commentary on therapeutic text).
+6'. !zz [...] x# !bs qa-ti {d}UTU !zz x# [...]
+#lem: u; u; qāti[hand]N; Šamaš[1]DN; u; u
+
+7'. !zz [...] x EME-šu₂ x x-šu₂ ku?-ru-[...]
+#lem: u; u; lišānšu[tongue]N; u; u; u
+
+#note: The reading of the line is courtesy of I. L. Finkel.
+8'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+@translation parallel en project
+
+1'. [...] ... [...]
+2'. [... @i{uqarraš} (@i{Sagig} VII 15) means] “he gnaws,” alternatively, it means ... [...].
+3'. [...] ... “If his tongue is paralyzed” (@i{Sagig} VII 18 and 19), [...]
+4'. [...] “Šulak in ...” (@i{Sagig} VII unknown) [...]
+5'. [... (in the name of Šulak,)  @i{šu} means “ha]nd,” @i{la} means “not,” and @i{k}(@i{ù}) means “pu[re” ...]
+6'. [...] ... “hand of Šamaš” (@i{Sagig} unknown) ... [...]
+7'. [...] ... [...]
+8'. [...] ... [...]

@@ -1,0 +1,111 @@
+&P348475 = CCP 4.2.J (http://ccp.yale.edu/P348475) = IM 74443
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$ beginning of obverse broken
+1'. !zz [...] x [x x x (x)]
+#lem: u; u; u; u; u; u
+
+#tr.en: […] … […]
+2'. !zz [...] x#-lab-bi?# [x x x]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]
+3'. !zz [...] šu?#-li-i : x# [x (x)]
+#lem: u; šūlî[raising]'N; u; u; u
+
+#tr.en: […] … […]
+4'. !zz [...] x# x#-te !bs ta-ṣap-par₂ !cm : !bs BAR !cm : ṣa-pa-[ru]
+#lem: u; u; u; +ṣapāru[press down]V$; u; +ṣapāru[press down//pressing down]V'N$
+
+#tr.en: […] … “you wink” — @i{bar} means “to wi[nk].”
+5'. !zz [...] i-na u₂-ba-an ši-ta-<<x>>-da#-x#-[(x)]
+#lem: u; ina[on]PRP; ubān[finger]N; u
+
+#tr.en: […] … in the finger … […]
+6'. !zz [...]-x#-hu !bs u₂-ba-ni-ka GAL{+tu₄} !cm : U MAN-ma
+#lem: u; +ubānu[finger]N$ubānika; rabītu[great]AJ; +ubānu[finger]N$; +šanû[second]NU$šanītumma
+
+#tr.en: “Your thumb” (lit. “the big finger”) means “the index finger” (lit., “the second finger”);
+#note: The thumb is often mentioned in medical texts: see @i{CAD} U/W 4–5.
+7'. !zz [...] x# : !bs DAB !cm : ṣa-ba-tu : ša₂-niš MU-šu₂ mi?#-x#-[(x)]
+#lem: u; u; +ṣabātu[seize//seizing]V'N$; ṣabātu[seizing]'N; šanîš[alternatively]AV; šumšu[name]N; u
+
+#tr.en: […] … @i{dab} means “to seize.” Alternatively @i{his name} …
+8'. !zz [...]-ru-u₂ : !bs da-mi-šu₂ !cm : MUD₂ BURU₅.HABRUD.DA{mušen}
+#lem: u; +dāmu[blood]N$dāmišu; +dāmu[blood]N$dām; +iṣṣūru[bird]N$iṣṣūr&+hurru[hole]N$hurri
+
+#tr.en: […] … “his blood” (= AO 6774 ii 10) means “blood of a partridge”
+#note: The “blood of a partridge” is frequently attested in ritual texts.
+
+9'. !zz [... !bs BAR] {giš#}NU.UR₂.MA ta-mah-har !cm : !bs BAR {giš}NU.UR₂.MA
+#lem: u; +quliptu[skin of scales//peel]N$qulipti; nurmî[pomegranate]N; +mahāru[face//collect]V$tamahhar; +quliptu[skin of scales//peel]N$qulipti; nurmî[pomegranate]N
+
+#tr.en: […] You receive [peel of p]omegranate” (= AO 6774 ii 10) — “Peel of pomegranate”
+#note: The instruction “You receive peel of pomegranate” is attested in AO 6774 ii 10 (Geller @i{JMC} 14 p. 29).
+10'. !zz [...] NENNI tu-kaṣ₃-ṣa : !bs MUD₂ ELLAG₂ GU₄ ana ŠA₃ GEŠTU-MIN-šu₂
+#lem: u; +annanna[so-and-so//such-and-such]DP$; +kaṣû[be(come) cold//cool down]V$tukaṣṣa +.; dām[blood]N; kalīt[kidney]N; alpi[ox]N; ana[in]PRP; libbi[interior]N; +uznu[ear]N$uznīšu +.
+
+#tr.en: [means …] you cool down. (In) what it says, (namely) “The blood of an ox’s kidney (@i{éllag}) [you …] inside his ears
+11'. !bs [...]-x# $TAG ša₂ DUG₄{+u₂} !cm : !bs {mul}ELLAG₂ !cm : ka-li-ti
+#lem: u; u; ša[that]REL; +qabû[said]AJ$; Kalitu[Kidney]CN; +kalītu[kidney]N$kalīti +.
+
+#tr.en: [and …] …, the “Kidney” star (@sup{mul}@i{éllag}) means “kidney”
+12'. !bs [{mul}ELLAG₂ !cm : {d}]e₂*#-a : !qt GIŠ.TUG₂.PI ge-eš-ṭu gi-iš-tu-nu : gi-iš-te-nu-u₂
+#lem: Kalitu[Kidney]CN; Ea[1]DN; uznu[ear]N; +gešṭu[the sign GÉŠTU]N$; +gištunu[the sign PI]N$; +gištenû[the sign GUR₁₇]N$
+
+#tr.en: [(and) the “Kidney” star (@sup{mul}@i{éllag}) means E]a. @i{giš.túg.pi} (is the sign) @i{gešṭu} — @i{gištunu}-sign (i.e., @i{pi}) means the @i{giš tenû}-sign;
+
+#note: @i{gešṭu} = @akk{GIŠ.TÚG.PI}; @i{gištunu} = @akk{PI} (see @i{Diri} III 62-63, @i{MSL} XV 138). Lines 12′–13′ seem to cite @i{Diri} III 62-63 “in vertical.”
+
+13'. !zz [...] !qt uz*#-nu : ha-si-si !cm : !qt ha-si-si {d}e₂-a
+#lem: u; uznu[ear]N; +hasīsu[ear//wisdom]N$hasīsi; hasīsi[wisdom]N; Ea[1]DN +.
+
+#tr.en: […] means “ear,” (i.e.) “intelligence,” (as in) “Intelligence is Ea”
+14'. !cm [lib₃-bu-u₂ !qt *] SAG.DU IGI.KID BAR DINGIR-MEŠ : !bs ru-u₂-tu₄ !cm {d}e₂-a EN KU₆
+#lem: u; qaqqadu[head]N; u; +maṭṭaltu[mirror image]N$maṭṭalat; ilī[god]N +.; +ruʾtu[saliva]N$rūtu; Ea[1]DN; bēl[lord]N; +nūnu[fish]N$nūnī
+
+#tr.en: [(a quotation) from “If] the head … is an image of the gods” (= incipit of @i{Alamdimmû} I). The spittle is Ea, lord of the fish.
+#note: The text contains an explicit quotation from the tablet entitled [¶] @akk{SAG.DU IGI.KAR₂ BAR DINGIR-MEŠ}. This tablet is, in fact, BM 141780 (@i{TBP} 64), edited by Böck, @i{Morphoskopie} (2000) p. 262. The line quoted here is in all likelihood obv 8: @akk{[...] {d}é-a} (note that a duplicate of this tablet from the Sippar Library was announced by Al Rawi & George @i{Iraq} 52 p. 149 fn. 1).
+15'. !bs [ta-ṣar]-ru-ru !cm : ṣa-ra-ra : a-la-ku
+#lem: +ṣarāru[flash//drip]V'V$taṣarruru; +ṣarāru[flash//dripping]V'N$ṣarāra; +alāku[go//flowing]V'N$
+
+#tr.en: “You tri]ckle” (stems from) “to trickle,” (which) means “to flow.”
+
+16'. ($__$) !bs BI.IZ !cm : na-ta-ka
+#lem: natāku[dripping]'N; natāka[dripping]'N +.
+
+#tr.en: 		  @i{bi-iz} means “to drip”.
+
+$(reverse)
+17'. !zz [...] x x x [x] {giš#}NU.UR₂.MA NIG₂.GIG {d}15
+#lem: u; u; u; u; u; nurmî[pomegranate]N; ikkib[taboo]N; Ištar[1]DN
+
+#tr.en: […] … […] pomegranate, taboo of Ištar;
+
+18'. [...] x# zu?#-mur
+#lem: u; u; zumur[body]N
+
+#tr.en: […] … @i{body};
+
+19'. [...] x# x# x# x#-ra#
+#lem: u; u; u; u; u
+
+#tr.en: […] …
+
+20'. [...] x# x#
+#lem: u; u; u
+
+#tr.en: […] …
+21'. [...]
+#lem: u
+
+#tr.en: […]
+22'. [...] x# x# {d}15
+#lem: u; u; u; Ištar[1]DN
+
+#tr.en: […] … Ištar
+$ rest of reverse broken

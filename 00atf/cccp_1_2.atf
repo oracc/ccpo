@@ -1,0 +1,265 @@
+&P461247 = CCP 1.2 (http://ccp.yale.edu/P461247) = BM 51213
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !bs [...] & !bs [qar-ra-du ša₂ a-na ta-ha-zi da-ap-niš iz-za]-az?#-zu?# & !cm [...]
+#lem: u; qarrādu[hero]N; ša[who]REL; ana[according to]PRP; tāhāzi[battle]N; +dapniš[aggressively]AV$; izzazzū[stand]V; u
+
+#tr.en: [“…” (Sumerian) : “O hero who sta]nds [aggressively for battle!” (Akkadian) : …]
+#note: According to Van Dijk, this line preserves traces of line 4 of the base text, but neither the traces as copied by Lambert nor the spacing of the line seem to support Van Dijk’s reading of the preserved signs as [iz-za]-⸢az-zu⸣. 
+2'. !bs [...] & !bs [be-lu ša₂ ina qa-ti]-šu₂# el-le#-tu₄# [me-eṭ-ṭa na-šu-u₂] & !cm [...]
+#lem: u; bēlu[lord]N; ša[whom]REL; ina[in]PRP; qātīšu[hand]N; +ellu[pure]AJ$ellētu; +miṭṭu[(a divine weapon)]N$meṭṭa; našû[imbued]AJ; u
+
+#tr.en: [“…” (Sumerian) : “O lord who carries the miṭṭu-weapon in] his pure [hands!” (Akkadian) : “…” : …]
+#note: = @b{line} 5 (Sumerian: en šu-silig-ga @sup{giš}mittu šu g̃ala₇)
+3'. !bs [...] & !bs [{d}MIN<({d}nin-urta)> šar-ri ma-ri] ša₂ a-bu-šu₂ ana dan-nu-ti#-[šu ha-du-u₂ & !cm ...]
+#lem: u; +Ninurta[]DN$; šarri[king]N; māri[son]N; ša[of]DET; abušu[father]N; ana[according to]PRP; +dannūtu[strength]N$dannūtīšu; hadû[rejoicing]'N; u
+
+#tr.en: [“…” (Sumerian) : “Ditto, king, son] whose father [rejoices] in [his] strength” (Akkadian) [: “…”]
+#note: = @b{line} 7 (Sumerian: {d}nin-urta lugal dumu a-a-ni kala-ga-ni-še₃ hul₂-la)
+4'. !bs [...] & !bs [qar-ra-du ša₂ pu]-luh#-ta-šu₂ ki-ma a-le-e# [ma-a-ti kat-mat] & !cm [...]
+#lem: u; qarrādu[hero]N; ša[who]REL; +puluhtu[fear(someness)]N$puluhtašu; kīma[like]PRP; +alû[(an evil demon)]N$alê; māti[land]N; +katmu[covered]AJ$katmat; u
+
+#tr.en: [“…” (Sumerian) : “O hero whose awe] someness [covers the land] like an @i{ālu}-demon” (Akkadian) [: …]
+#note: = @b{line} 8 (Sumerian: ur-sag̃ tu₁₅-ulu₃-gim kur-ra dul-lu)
+5'. !bs [...] & !bs [{d}MIN<({d}nin-urta)> a-gu-ka {d}man-za]-at# ina pa-ni-ka ki-ma bir-qa [it-ta-nab-riq] & !cm [...]
+#lem: u; Ninurta[1]DN; +agû[tiara]N$agûka; +Manziat[rainbow]N$manzât; ina[in]PRP; pānīka[face]N; kīma[like]PRP; +berqu[lightning (flash)]N$birqa; +barāqu[lighten]V$ittanabriq; u
+
+#tr.en:  [“…” (Sumerian) : “O Ninurta, your tiara is the rainb]ow, (and) [flashes] on your face like lightning” (Akkadian) [: “…”]
+#note: = @b{line} 9 (Sumerian: {d}nin-urta aga-zi {d}tirₓ-an-na igi nim-g̃ir₂ du₇-du₇)
+6'. !bs [...] & !bs [zi-iq-nu ru-be₂-e ša₂ ri-hu]-tu₄# KU₃{+ti₃} ra-hu-u₂ šar-tu₄# [ina zu-um-ri-šu₂ hunₓ(LUM)-nu-ba-at] & !cm [...]
+#lem: u; +ziqnu[beard]N$; +rubû[prince]N$rubê; ša[of]DET; rihûtu[progeny]N; ellūti[pure]AJ; rahû[pouring out]'N; +šārtu[hair]N$; ina[in]PRP; zumrišu[body]N; +hunnubu[very thriving]AJ$hunnubat; u
+
+#tr.en: [“…” (Sumerian) : “O beard of a prince, which] a pure [see]d created, (the one) whose hair [is luxuriant on his body” (Akkadian) : …]
+#note: = @b{line} 10 (Sumerian: su₆-nun-e a-za-gin₃ ru-a ušum ni₂-ba gur-gur)
+7'. !bs [...] & !bs [{d}MIN<({d}nin-urta)> šar-ri ma-ri ša₂ {d}en]-lil₂# ina rama-ni-šu₂ u₂-ša₂-ti-[ru-šu₂] & !cm [...]
+#lem: u; Ninurta[1]DN; šarri[king]N; māri[son]N; ša[of]DET; Ellil[1]DN; ina[in]PRP; ramānišu[self]N; +atāru[be(come) outsize]V$ušātirūšu; u
+
+#tr.en: [“…” (Sumerian) : “O Ninurta, king, son whom Enli]l willingly made surpa[ssing” (Akkadian) : …]
+#note: = @b{line} 12 (Sumerian: {d}nin-urta lugal {d}en-lil₂-le ni₂-te-na diri-ga)
+8'. !bs [...] & !bs [qar-ra-du ša₂ šu-uš]-kal#-la-šu₂ a-a-bu u₂-sah-[ha-pu] & !cm [...]
+#lem: u; qarrādu[hero]N; ša[who]REL; +šuškallu[battle-net]N$šuškallašu; ayyābu[enemy]N; +sahāpu[envelop]V$usahhapu; u
+
+#tr.en: [“…” (Sumerian) : “O hero whose battle]-net overwh[elms] the enemy” (Akkadian) [: …]
+#note: = @b{line} 13 (Sumerian: ur-sag̃ {sa}šu-uš-kal-bi lu₂-erim₂-ra šu₂-a)
+9'. !bs [...] & !bs {d}MIN<({d}nin-urta)> pu-luh#-ti# [ṣil-li]-ka ana KUR tar-[ṣa-at] & !cm [...]
+#lem: u; Ninurta[1]DN; puluhti[terror]N; +ṣillu[shade]N$ṣillīka; ana[for]PRP; mātu[land]N; tarṣat[stretched out]AJ; u
+
+#tr.en: [“…” (Sumerian) : ] “O Ninurta, the awesomeness of your [shadow] str[etches] over the land” (Akkadian) [: …]
+#note: = @b{line} 14 (Sumerian: {d}nin-urta ni₂-g̃issu-zu kalam-ma la₂-a)
+10'. !bs [...] x# & !bs {d}MIN<({d}nin-urta)> šar-ru ma-ru ša₂ a-bu-šu₂# ana# ru#-qe₂-e-ti ap-pa u₂-[šal-bi-nu-šu₂] & !cm [...]
+#lem: u; u; Ninurta[1]DN; šarru[king]N; māru[son]N; ša[of]DET; abušu[father]N; ana[according to]PRP; +rūqu[distant]AJ$rūqēti; appa[nose]N; +labānu[spread]V$ušalbinūšu; u
+
+#tr.en: [“…]…” (Sumerian) : “O Ninurta, king, son to whom his father makes (the people) s[ubmit]] far and wide” (Akkadian) [: …]
+#note: = @b{line} 16 (Sumerian: {d}nin-urta lugal dumu a-a-ni-ir su₃-ud-bi-še₃ kiri₄ šu-g̃ala₇)
+11'. !bs [...] x# & !bs {d}MIN<({d}nin-urta)> ina te-es-li-ti ana šar-ri# ina ut#-nen-ni-šu₂ & !cm [...]
+#lem: u; u; Ninurta[1]DN; ina[in]PRP; +teslītu[appeal]N$teslīti; ana[according to]PRP; šarri[king]N; ina[in]PRP; +utnēnu[supplication]N$utnennīšu; u
+
+#tr.en: [“…]…” (Sumerian) : “While ditto (=Baba) implored the king (=Ninurta) in prayer” (Akkadian) [: …] 
+#note: = @b{line} 20 (Sumerian: {d}ba-ba₆ a-ra-zu lugal-la-ka u₃-gul g̃a₂-g̃a₂-da-ni)
+12'. !bs [...] x# & !bs {d}MIN<({d}nin-urta)> a-na be-lu₄ {d}MIN i#-x# [x (x)] & !cm [...]
+#lem: u; u; Ninurta[1]DN; ana[to]PRP; bēlu[lord]N; X; u; u; u; u
+
+#tr.en: [“…]…” (Sumerian) : “Ditto (=Ninurta) to the lord ditto (=Enlil?) …[…” (Akkadian) : …]
+#note: = @b{line} 21 (Sumerian: {d}nin-urta dumu-{d}en-lil-la-ke₄ nam-tar-re-da-ni). From the surviving manuscripts, one expects @akk{{d}MIN be-lu ma-ru {d}MIN šim-ta ina ša₂-mi-šu₂}, “While ditto (Ninurta), lord, son of ditto (Enlil), decreeing destiny …”
+13'. !bs [...] &!bs be-lu man-za-za ša₂-qu-u₂ i-na nap-har be-lu a-šib# [pa-rak-ki] & !cm [...]
+#lem: u; bēlu[lord]N; manzaza[standing]AJ; šaqû[be(com)ing high]'N; ina[in]PRP; naphar[all]N; bēlu[lord]N; āšib[inhabitant]N; parakkī[cult dais]N; u
+
+#tr.en: [“…” (Sumerian)] : “O lord, (who) is exalted in position among all the lords who dwell [on daises” (Akkadian) : …]
+#note: = @b{line} 24 (Sumerian: en g̃išgal-an-na gu₂-en-na-ar bara₂-ge si-a)
+14'. !bs [...] & !bs ma-ru ša₂ ana mu-še-niq-ti la uš-bu e-muq ši-zib in#-[ni-qu] & !cm [...]
+#lem: u; māru[son]N; ša[which]REL; ana[for]PRP; mušēniqti[suckling]AJ; lā[not]MOD; ušbū[sit (down)]V; emūq[strength]N; šizib[milk]N; +enēqu[suck]V$inniqū; u
+
+#tr.en: [“…” (Sumerian)] : “A son who did not dwell (in the womb) for a wet-nurse, (yet who) su[cked] the strength of milk” (Akkadian) [: …]
+#note: = @b{line} 28, referring to Asakku (Sumerian: dumu um-me-ga-la₂ nu-tuš-a ne₂-ga i₃-ku₂-e)
+15'. !bs [...] x# & !bs eṭ-lu ṭar-ru ša₂ ina pa-ni-šu₂ bu-ul-tu₂ la i-ba#-[aš₂-šu₂-u₂] & !cm [...]
+#lem: u; u; eṭlu[young man]N; +ṭarru[bearded]AJ$; ša[that]REL; ina[in]PRP; pānīšu[face]N; +būštu[shame]N$būltu; lā[not]MOD; +bašû[be (at hand)]V$ibaššû; u
+
+#tr.en: [“…]…” (Sumerian) : “O bearded young man, on whose face the[re is] no sign of shame” (Akkadian) [: …]
+#note: = @b{line} 30 (Sumerian: šul ir-ta e₃-a igi teš₂ nu-g̃al₂-la)
+16'. !bs [...] x# & !bs mit-ha-riš MU-šu₂ im-bu-u₂ šam-mu ana šar-ru-ti#-šu₂-nu# & !cm [...]
+#lem: u; u; mithāriš[collectively]AV; šumšu[name]N; imbû[fibre]N; šammu[plant(s)]N; ana[according to]PRP; +šarrūtu[kingship]N$šarrūtīšu; u
+
+#tr.en: [“…]…” (Sumerian) : “Together they acclaimed “plant” to rule over them” (Akkadian) [: …]
+#note: = @b{line} 35 (Sumerian: teš₂-ba mu bi₂-ib-sa₄ {na₄}u₂ lugal-bi-še₃)
+17'. !bs [...] & !bs ina KUR{+i} šin-ni ku-ši-i a-ṣa-at-ma i-ta-nar-ra-ri & !cm x# [...]
+#lem: u; ina[in]PRP; šadî[mountain]N; šinnī[tooth]N; +kušû[crab]N$kušî; +aṣû[gone out]AJ$aṣât; +arāru[be convulsed]V$ītanarrari; u; u
+
+#tr.en: [“…” (Sumerian)] : “From the mountain came forth a tooth of a crocodile, trembling constantly” (Akkadian) : “…[…”]
+#note: = @b{line} 39 (Sumerian: kur-ra zu₂-kušu₂-a mu-ne-mu₂ g̃iš mi-ni-ib-ur₃-ur₃). For the translation of @i{kušû} as ‘crocodile’ see A. Loktionov (@i{NABU} 2014 no. 103).
+18'. !bs [...] & !bs pa-ni#-šu₂ ana a-šar šu#-a-ti iš-ta-kan & !cm UR x# [...]
+#lem: u; pānīšu[face]N; ana[according to]PRP; ašar[where]SBJ; šuāti[that]IP; ištakan[turn]V; u; u; u
+
+#tr.en: [“…” (Sumerian) :] “He turned his attention to that place” (Akkadian) : …[…]
+#note: = @b{line} 46 (igi-bi ki-bi-še₃ ba-ni-ib-g̃ar)	
+19'. !bs [...] & !bs qar-rad ana ab-bu#-ti-ka!(IŠ) iš-tal-lu₄ & !cm ab-bu-[ti ...]
+#lem: u; qarrād[hero]N; ana[according to]PRP; +abbūtu[fatherhood]N$abbūtīka; +šâlu[ask]V$ištallū; +abbūtu[fatherhood]N$abbūti; u
+
+#tr.en: [“…” (Sumerian) :] “O hero, they have asked (you) because of your patronage” (Akkadian) : “Patrona[ge” means …] 
+#note: = @b{line} 48 (Sumerian: ur-sag̃ a-a-zu-še₃ en₃ mu-e-ši-tar). 
+20'. !bs [...] x# & !bs ta-ra-ah {d}a-nim ša₂ KUR{+a} ina ṣu-up-ri-šu₂ i-sap-pa-nu & !cm {d}IŠKUR x# [...]
+#lem: u; u; +turāhu[wild goat]N$tarāh; Anim[1]DN; ša[of]DET; šadâ[mountain]N; ina[in]PRP; +ṣupru[(finger/toe-)nail]N$ṣuprīšu; +sapānu[flatten]V$isappanu; Adad[1]DN; u; u
+
+#tr.en: [“…]…” (Sumerian) : “O mountain goat of Anu, who flattens the mountain with its hooves” (Akkadian) : “Iškur” means “…[…”]
+#note: = @b{line} 58 (Sumerian: dara₃-an-na kur umbin ba-an-si₃-ke). Concerning this line and ll. 21', 22' and 24', Frahm (2011: 118) makes the following proposal: “Since the Lugal-e verses preceding these entries (58, 65, 66, and 68) are all flattering addresses of the god Ninurta, it is possible that the commentator was prompted by the epithets the deity receives here to invoke other gods on whom identical praise was bestowed, in order to demonstrate that Ninurta was essentially identical with them.
+21'. !bs [...] x# & !bs be₂-li₂ ša₂ ina par-ṣi ṣi-ru-ti₃ i-šad-di-hu & {d}[...]
+#lem: u; u; X; ša[that]REL; ina[in]PRP; parṣī[rite]N; +ṣīru[exalted]N$ṣīrūti; +šadāhu[walk]V$išaddihu; u
+
+#tr.en: [“…]…” (Sumerian) : “My lord, who processes in exalted rites” (Akkadian) : …[…]
+#note: = @b{line} 65 (Sumerian: en me-mah-e a₂-kuš₃-su₃-su₃)
+22'. !bs [...] x# & !bs nam#-ru# si-mat DINGIR-MEŠ & {d}[...]
+#lem: u; u; namru[bright]AJ; simat[appropriate symbol]N; ilāni[god]N; u
+
+#tr.en: [“…]…” (Sumerian) : “O bright one, symbol of the gods” (Akkadian) : …[…]
+#note: = @b{line} 66 (Sumerian: še-er-zi me-te-dig̃ir-re-e-ne)
+23'. !bs [...] x# & !bs a-lap# zi#-i-mu ri-i-mu ra-bu-u₂ ša₂ e-mu-qu i-šu-u₂ mu-du-u₂ ina iš-ku-ri & !cm x# [...]
+#lem: u; u; +alpu[bull]N$alap; zīmu[face]N; rīmu[wild bull]N; rabû[being big]V; ša[of]DET; emūqu[strength]N; īšû[have]V; mudû[(a vessel)]N; ina[in]PRP; +iškūru[wax]N$iškūri; u; u
+
+#tr.en: [“…]…” (Sumerian) : “O Ox (who has) features of a mighty bull who has strength, (you are) an expert in wax” (Akkadian) : …[…]
+#note: = @b{line} 67 (Sumerian: gu₄ muš₃-ba am-gal murgu-tuku lal₃ gal-zu-ur₅-ra)
+24'. !bs [...] & !bs mu-du-u {d}e₂-a {d}nin#-urta ina ap-si-i & !cm {d}[...]
+#lem: u; mūdû[wise]AJ; Ea[1]DN; Ninurta[1]DN; ina[in]PRP; Apsi[1]GN; u
+
+#tr.en: [“…” (Sumerian)] : “The one who knows (the heart of) Ea, (who is like) Ninurta in the Apsû” (Akkadian) : …[…]
+#note: = @b{line} 68 (Sumerian: {d}nin-urta alan-za {d}en-ki-ke₄ igi-bar-bar-ra-mu)
+25'. !bs [...] x# & !bs {d}a-nun-na-ki ki-ma ṣe-e-ni a-di ša₂-a-ri i-tar-ru & !cm x# x# [...]
+#lem: u; u; Anunnakkū[1]DN; kīma[like]PRP; ṣēni[flock]N; adi[until]PRP; +šār[3,600]N$šāri; +âru[go (up to)]V$ītarru; u; u; u
+
+#tr.en: [“…]…” (Sumerian) : “Who leads the Anunnaki everywhere as if they were a flock” (Akkadian) : …[…]
+#note: = @b{line} 74 (Sumerian: {d}a-nun-na udu-gim ki-šar₂-ra ba-e-e₁₁-NE-re₇{+re}-eš)
+26'. !bs [...] x# & !bs it-tak-kip ki-ma <<ki-ma>> u₄-mu ana KUR nu-kur₂-ti IM-MEŠ sa-ma-nu-tu₂ ra-kib & !cm USSU# [...]
+#lem: u; u; +nakāpu[push]V$ittakkip; kīma[like]PRP; ūmu[day]N; ana[according to]PRP; mātu[land]N; nukurti[enmity]N; +šāru[wind]N$šārū; +samāne[eight]N$samānûti; rakib[aboard]AJ; +samāne[eight]NU$; u
+
+#tr.en: [“…]…” (Sumerian) : “Like a storm he buts against the enemy country, mounted on eight winds” (Akkadian) : “Eight” [means …]
+#note: = @b{line} 77 (Sumerian: u₄-dam i₃-du₇-du₇ ki-bala-še₃ im-ussu mu-un-u₅)
+27'. !bs [...] & !bs ar₂#-ka-a-ti i-dan i-ha-ma!-ma-šu & !cm x# [...]
+#lem: u; +ariktu[length]N$arkāti; +idu[arm]N$idān; +hamāmu[gather]V$ihammamašu; u; u
+
+#tr.en: [“…” (Sumerian) :] “The arms (of Ninurta) gather spears” (Akkadian) : … […]
+#note: = @b{line} 78 (Sumerian: g̃iš-gid₂-da a₂ i₃-ur₄-ur₄-re)
+28'. !bs [...] & !bs [miṭ]-ṭa# a-na KUR{+i} pi#-i-šu₂ pe-ti & !cm [...]
+#lem: u; +miṭṭu[(a divine weapon)]N$miṭṭa; ana[to]PRP; šadî[mountain]N; pîšu[command]N; peti[open]AJ; u
+
+#tr.en: [“…” (Sumerian) : “The @i{miṭṭu}-weapon]’s mouth is open against the mountain” (Akkadian) : […]
+#note: = @b{line} 79 (Sumerian: {giš}mi-tum-e kur-še₃ ka ba-ab-du₈)
+29'. !bs [...] & !bs [i-di-ig]-lat e-šat ar₂-rat dal-hat u mar-sat & !cm [...]
+#lem: u; Idiglat[Tigris]WN; +ešû[confused]AJ$ešât; +arru[convulsed]AJ$arrat; dalhat[disturbed]AJ; u[and]CNJ; +marsu[mixed]AJ$marsat; u
+
+#tr.en: [“…” (Sumerian) : “The Tig]ris was confused, rough, perturbed and stirred” (Akkadian) : […]
+#note: = @b{line} 89 (Sumerian: {i₇}idigna i₃-suh₃ i₃-ur₄-ur₄ i₃-lu₃ šu im-tu-bu-ur)
+30'.  !bs [...] & !bs [ni-šu-šu a-šar] il#-la-ka ul i-da-a i-ga-ra-a-tu₂ u₂-naq-qa-pa-[ši-na-a-ti] & !cm [...] 
+#lem: u; +nišu[people]N$nišūšu; ašar[where]SBJ; illakā[flow]V; ul[not]MOD; +edû[know]V$īdâ; +igāru[wall]N$igārātu; +nakāpu[push]V$unaqqapāšināti; u
+
+#tr.en: [“…” (Sumerian) : “His people] do not know [where] to go, they hurl [themselves] at the walls” (Akkadian) [: …]
+#note: = @b{line} 91 (Sumerian: un-be₂ ki-du-bi nu-un-zu e₂-g̃ar₈ DU₃ i₃-aka-ne)
+31'. !bs [...] & !bs [MUŠEN-šu mu-pa-riš]-tu₂ muh-ha-šu₂ im-ma-hi-iṣ-ma# kap-pa-a-šu₂ er-[ṣe-tu₄ im-ta-har] & !cm [...]
+#lem: u; +iṣṣūru[bird]N$iṣṣūršu; +mupparšu[flying]AJ$muparištu; +muhhu[skull]N$muhhašu; +mahāṣu[beat]V$immahiṣ-ma; kappāšu[wing]N; +erṣetu[earth]N$; imtahar[receive]V; u
+
+#tr.en: [“…” (Sumerian) : “With respect to its fly]ing [birdlife,] their skulls were broken, their wings met the earth” (Akkadian) : …]
+#note: = @b{line} 92 (mušen-dal-le-be₂ sag̃ ib₂-ta-tum₂ a₂-bi ki-a mu-un-te-g̃a₂-e)
+32'. !bs [...] & !bs [KU₆-šu₂ ina ap-si-i] {d#}IŠKUR ir-hi-iṣ-ma pi-i-šu₂ ip-te#-net#-[te] & !cm [...]
+#lem: u; +nūnu[fish]N$nūnšu; ina[in]PRP; Apsi[1]GN; Adad[1]DN; +rahāṣu[flood]V$irhiṣ-ma; pîšu[command]N; +petû[open]V$iptenette; u
+
+#tr.en: [“…” (Sumerian) : “Adad flooded his fish out from the deep waters, and they opened their mouths continuously” (Akkadian): …]
+#note: = @b{line} 93 (ku₆-bi engur-ra u₄ mi-ni-ib-ra ka mu-un-ba-ba-e)
+33'. !bs [...] & !bs [ina ṣe-e-ri bu-ul-šu₂] uk#-ku#-ku#-ma# ki#-ma# e#-re#-[be₂]-e# [i]-ša₂#-a#-[me] & !cm [...]
+#lem: u; ina[in]PRP; ṣēri[open country]N; +būlu[animals]N$būlšu; +ekēku[scratch]V$ukkukū-ma; kīma[like]PRP; +erbû[locust]N$erebê; +šawû[roast]V$išamme; u
+
+#tr.en:   [“…” (Sumerian) : “In the steppe his livestock] were weighed down, [ro]ast[ing] like locusts” (Akkadian) [: …]
+#note: = @b{line} 94 (edin-na maš₂-anše-bi u₂-gug mi-ni-ib-du₁₁ bur₅-re-eš šu mi-ni-hu-uz₃)
+@reverse
+1'. !bs %sux [lugal-ŋu₁₀ na₄-e im-ma]-gub & !bs %sb [be-lu a-na ab-ni iz-ziz-ma] & !cm [...]
+#lem: lugal[king]N; na[stone]N; gub[stand]V/i; bēlu[lord]N; ana[to]PRP; abni[engender]V; +izuzzum[stand]V$izziz-ma; u
+
+#tr.en: [“My king] stood [before of the stone” (Sumerian) : “My) lord stood before the stone” (Akkadian) : …]
+#note: = @b{line} 479
+2'. !bs %sux [{na₄}na-ta su im-ta-du₃-du₃]-e & !bs %sb [ana zu-mur na-ʾ-i uz?-...] & !cm [...]
+#lem: na[stone]N; su[flesh]; du[to build, make]V/t; ana[according to]PRP; zumur[body]N; +naʾû[set in motion]AJ$naʾi; u; u
+
+#tr.en: [“From the stone it flaye]d(?) [(his) skin/body” (Sumerian)] : [“But the skin/body of the NA-stone …” (Akkadian) : …]
+#note: = @b{line} 480
+3'. !bs %sux [gurud-da (lu₂) kiŋ₂-še₃ na-an-ak-e-en tur-tur-bi] til#-la & !bs %sb na#-[an-di-ma a-na šip-ri i te-en-ne₂-pu-uš ina ṣu-uh-hu-ri nag-mir] & !cm [...]
+#lem: gurud[to throw, place]V/t; lu[person]; kiŋ[work]; +ak[do]V/t/ak#na.V.n:~;e.en; tur[small]; til[(to be) complete(d)]V/i; X; ana[to]PRP; šipri[work]N; i[may]MOD; +epēšu[do]V$tennepuš; ina[in]PRP; +ṣuhhuru[very small]N$ṣuhhuri; +gamāru[bring conclusion]V$nagmir; u
+
+#tr.en: [“Throw (yourself) down! May you not be made into an artifact!] End up [in small pieces!” (Sumerian)] : [“Throw (yourself) down, and may you not be made into an artifact! End in small pieces!” (Akkadian) : …]
+#note: = @b{line} 485
+4'. !bs %sux [di-kud-gin₇ kur-kur-ra si-sa₂]-e & !bs %sb ki#-[ma da-a-a-ni KUR-MEŠ šu-te-šir] & !cm [...]
+#lem: dikud[judge]; kur[land]; +sisa[straighten]V/t/si-sa₂#~!V; kīma[like]PRP; dâni[judge]V; mātāti[land]N; +ešēru[be/go well]V$šutēšir; u
+
+#tr.en: [“Like a judge, put in orde]r [the lands!” (Sumerian)] : “Li[ke a judge, put in order the lands!” (Akkadian) : …]
+#note: = @b{line} 507
+5'. !bs %sux [...] x#-na & !bs x# [...] & !cm [...]
+#lem: u; u; u; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+6'. !bs %sux [...] x#-ke₄ & !bs %sb ša₂? [...] & !cm [...]
+#lem: u; u; ša[of]DET; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+7'. !bs %sux [ŋeš-kiŋ₂-ti-ŋu₁₀-še₃ igi ba-ab-DU]-na# & !bs %sb ina kiš#-[kat₂-te-e ina ma-ah-ri a-lik] & [...]
+#lem: ŋeškiŋti[workshop]; igi[eye]N; X; ina[in]PRP; kiškattê[forge]N; ina[in]PRP; +mahru[front]N$mahri; +alāku[go]V$alik; u
+
+#tr.en: [“G]o [ahead into my kiln!” (Sumerian)] : [“Go ahead] into the ki[ln!” (Akkadian) : …]
+#note: = @b{line} 528?
+8'. !bs %sux [e {na₄}ŋiri₂-zu₂-gal-la lu₂ min a]-na#-bi# & !bs %sb e# ṣur#-[ru ša₂ an-niš u₃ ul-li-iš] & [...]
+#lem: e[interjection]J; ŋirizugalak[flint]; lu[person]; min[two]; ana[as much as (math.)]'N; ē[not]MOD; +ṣurru[obsidian]N$; ša[of]DET; +annîš[here]AV$; u[and]CNJ; +ullîš[later]AV$; u
+
+#tr.en: [“Hey, flint! W]hat [are two men?”] (Sumerian) : “Hey, fli[nt! (You) who were here and there!” (Akkadian) : …]
+#note: = @b{line} 549
+9'. !bs %sux [lugal-ŋu₁₀ {na₄}im-an-e ba]-gub# & !bs %sb be-lu a#-[na {na₄}im-ma-nak-ku] iz#-ziz-ma# & [...] 
+#lem: lugal[king]N; imanak[a stone]N; gub[(to be) assigned (to a task)]V/i; bēlu[lord]N; ana[to]PRP; +immanakku[(a kind of stone or sand)]N$; izziz-ma[stand]V; u
+
+#tr.en: [“My king] stood [before the IM’AN-stone” (Sumerian)] : “The lord [stood before the @i{immanakku}-stone” (Akkadian) : …]
+#note: = @b{line} 557
+10'. !bs %sux [lugal-ŋu₁₀ {na₄}maš-da im-ma]-gub# & !bs %sb be-lu [a-na {na₄}maš-de-e] iz#-ziz#-ma# & !cm [...] 
+#lem: lugal[king]N; mašda[stone]N; gub[stand]V/i; bēlu[lord]N; ana[to]PRP; +mašdû[(a stone)]N$mašdê; izziz-ma[stand]V; u
+
+#tr.en: [“My king] stood [before the gazelle-stone”] (Sumerian) : “The lord stood [before the ditto/@i{mašdû}-stone” (Akkadian) : …]
+#note: = @b{line} 569 (or 582) 
+11'. !bs %sux [ka tar-re-de₃ barag-ba u₃-bi₂-in-gurud-de₃] & !bs %sb ana# da#-li-li# [ina pa-rak-ki in]-na-di# [...] & !cm [...]
+#lem: kag[mouth]; tar[cut]; barag[sanctum]; gurud[to throw, place]V/t; ana[according to]PRP; dalīli[praise]N; ina[in]PRP; parakkī[cult dais]N; +nadû[throw (down)]V$innadi; u; u
+
+#tr.en: [“In order to pay tribute to the dais …” (Sumerian) : “To praise [on the dais] …” (Akkadian) : …]
+#note: = @b{line} 592
+12'. !bs [...] & !bs %sb {na₄}MIN [...] & [...]
+#lem: u; X; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+13'. !bs %sux [lugal-ŋu₁₀ en {d}nin-urta-ra igi-ni-še₃ ha-ba-gub-bu-nam im-mi-dug₄-ga]-gin₇# & !bs %sb be-lu {d#}nin#-[urta a-na-ku ki-ma a-na pa-ni-šu lu-zi-iz-mi taq-bu-u₂] & !cm [...]
+#lem: lugal[king]N; en[lord]; +Ninurtak[]DN/{d}nin-urta#~,ra; igi[eye]N; gub[stand]V/i; dug[speak]; bēlu[lord]N; Ninurta[1]DN; anāku[I]IP; kīma[like]PRP; ana[according to]PRP; pānīšu[face]N; +izuzzum[stand]V$luziz-mi; taqbû[say]V; u
+
+#tr.en: [“(I) will stand before my king, Lord Ninurta!] Thus [I say!” (Sumerian)] : [“I am] the lord Nin[urta! As you said: ‘I want to stay in his service!’” (Akkadian) : …]
+#note: = @b{line} 617
+14'. !bs [...] & !bs [(x)] x# x# x# [...] x# [...] & !cm [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+15'. !bs [...] & !bs [...] x# x# x# x# [...] & !cm [...]
+#lem: u; u; u; u; u; u; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+16'. !bs [...] & !bs [...] ša₂ x# x# x# [...] & !cm [...]
+#lem: u; u; ša[of]DET; u; u; u; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+17'. !bs [...] & !bs [...] x# x# [...] & !cm [...]
+#lem: u; u; u; u; u; u
+
+#tr.en: …
+#note: = @b{line} ?
+18'. !bs [...] & !bs [...] x# [...] & !cm [...]
+#lem: u; u; u; u; u
+
+#tr.en: …
+#note: = @b{line} ?

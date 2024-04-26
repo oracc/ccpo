@@ -1,0 +1,147 @@
+&P393842 = CCP 3.1.u83 (http://ccp.yale.edu/P393842) = K.872
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+1. !bs * {d}IŠKUR ina la a-dan-ni-šu₂ GU₃-šu₂ [ŠUB-ma]
+#lem: Adad[1]DN; ina[in]PRP; lā[not]MOD; adannīšu[appointed time]N; rigimšu[voice]N; iddima[utter]V
+
+#note: A protasis that begins the same way is attested in K.7941 o 14’, part of Tablet 45 of @i{Enūma Anu Enlil} (Gehlken, p. 68).
+2. ($___$) !cm ina {iti}ŠU {iti}NE u {iti}KIN GU₃-šu₂ [ŠUB-ma]
+#lem: ina[in]PRP; Duʾuzu[1]MN; Abu[1]MN; u[and]CNJ; Ululu[1]MN; rigimšu[voice]N; iddima[utter]V
+
+3. !bs * {d}IŠKUR ina la si-ma-ni-šu₂ GU₃-šu₂ [ŠUB-ma]
+#lem: Adad[1]DN; ina[in]PRP; lā[not]MOD; +simānu[(right) occasion]N$simānīšu; rigimšu[voice]N; iddima[utter]V
+
+#note: Protases with similar beginnings are attested in r 6’-8’ of Tablet 45 of @i{Enūma Anu Enlil} (Gehlken, pp. 47-48). The same phrase together with the same explanation is attested in K.68.
+4. ($___$) !cm ŠU.BI.AŠ.[AM₃]
+#lem: X
+
+5. !bs * {d}IŠKUR TA UD.1.KAM EN UD.30.KAM GU₃#-[šu₂ ŠUB-ma]
+#lem: Adad[1]DN; +ištu[from]PRP$ultu; X; adi[until]PRP; X; rigimšu[voice]N; iddima[utter]V
+
+6. ($___$) !cm še-ra AN.BAR₇ u AN.USAN₂ : ur-ra [u mu-ša]
+#lem: šēra[in the morning]'AV; muṣlāli[siesta(-time)]N; u[and]CNJ; šimītān[evening]N; urra[in the daytime]AV; u[and]CNJ; mūša[at night]AV
+
+7. !bs * {d}IŠKUR GU₃ ŠUB#-ma !zz [x x (x x)]
+#lem: Adad[1]DN; rigim[voice]N; iddima[utter]V; u; u; u; u
+
+8. ($___$) !cm ana U₄{+mi} !zz [x x (x x)]
+#lem: ana[according to]PRP; ūmi[day]N; u; u; u; u
+
+9. !bs * ina U₄ NU ŠU₂ x# !zz [x x (x x)]
+#lem: ina[on]PRP; ūmi[day]N; lā[not]MOD; irbi[set]V; u; u; u; u; u
+
+10. ($___$) !cm ša₂ {iti}ŠU {iti!?}NE?# !zz [x x x (x x)]
+#lem: ša[of]DET; Duʾuzu[1]MN; Abu[1]MN; u; u; u; u; u
+
+11. !bs * U₄ SI-šu₂ ŠUB-ma !zz [x x x (x x)]
+#lem: ūmu[day]N; qaraššu[horn]N; iddima[utter]V; u; u; u; u; u
+
+#note: This interpretation of the passage assumes that the commentator’s equation in ll. 12-13 of šub with nadû is incorrect in this context. The dimming of the sun’s brightness, @i{šarūra maqātu} is a well attested meteorological phenomenon in cuneiform texts (CAD Š 2 141b and M 1 245a).
+12. ($___$) !cm U₄ {d}UTU SI [qar?-nu? SI ša?-ru?-ru? ŠUB]
+#lem: ūmu[day]N; Šamaš[1]DN; qaran[horn]N; qarnu[horn]N; +šarūru[brilliance]N$; +šarūru[brilliance]N$; nadû[throwing]'N
+
+#note: The tentative restoration of [@i{qarnu} SI @i{šarūru}] is based on a possible parallel in a commentary on @i{SIT} 6 (@i{ACh Adad} 33, l 21 = K. 50) in which the base text begins similarly (¶ @akk{U₄ SI-šu₂ ŠUB-ma}), and in which SI is equated first with @i{qarnu} and then with @i{šarūru}.
+13. ($___$) !cm na-du-u₂ !zz [(x x x x)]
+#lem: nadû[throwing]'N; u; u; u; u
+
+14. ($___$) !cm ina MAN-šu₂ u₂-[x !zz x (x x)]
+#lem: ina[in]PRP; X; u; u; u; u
+
+15. !bs *# {d}IŠKUR ina !zz [x x (x x)]
+#lem: Adad[1]DN; ina[in]PRP; u; u; u; u
+
+16. ($___$) !cm ti#-bi še-e-ru₃ !zz [(x x x x)]
+#lem: tībi[attack]N; +šēru[morning]N$; u; u; u; u
+
+17. !zz [(x)] x# SI DIŠ ŠU₂ [(x x x x)]
+#lem: u; u; qaran[horn]N; X; u; u; u; u; u
+
+@reverse
+18. !bs [* x x] x# DAB{+bat} !zz [(x x x x x x x)]
+#lem: u; u; u; iṣabbat[seize]V; u; u; u; u; u; u; u
+
+19. !zz [x x x] TE NI iṣ-bat [(x x x x x x x)]
+#lem: u; u; u; iṭhe[approach]V; X; iṣbat[seize]V; u; u; u; u; u; u; u
+
+20. !bs [* {d}]IŠKUR# ina {im}KUR.RA !zz [x x (x x x x x)]
+#lem: Adad[1]DN; ina[in]PRP; šadî[east]N; u; u; u; u; u; u; u
+
+21. ($___$) !cm TA# {im#}KUR.RA !zz [(x x x x x x x)]
+#lem: ultu[from]PRP; šadî[east]N; u; u; u; u; u; u; u
+
+22. !bs * {d}IŠKUR ig-da-za-az# !zz [(x x x x x x x)]
+#lem: Adad[1]DN; +gazāzu[shear]V$igdazaz; u; u; u; u; u; u; u
+
+#note: In a section dealing with omens in Tablet 45 of @i{Enūma Anu Enlil}, K.4777 (a @i{ṣâtu}-type commentary on several @i{Enūma Anu Enlil} tablets) cites a protasis with a similar beginning, @i{šumma Adad iktanaṣṣaṣ} (Gehlken, p. 50 l. 17). 
+23. !bs * {d}IŠKUR ina ID-x# !zz [x x (x x x x)]
+#lem: Adad[1]DN; ina[in]PRP; u; u; u; u; u; u; u
+
+24. ($___$) !cm {im}LIMMU₂.BA !zz [(x x x x x x)]
+#lem: X; u; u; u; u; u; u
+
+25. !bs * {d}IŠKUR x# !zz [x (x x x x x)]
+#lem: Adad[1]DN; u; u; u; u; u; u; u
+
+26. !cm u₂-tam-mu-ru !zz x# [x (x x x x x)]
+#lem: +temēru[cover (in earth)]V$utammurū; u; u; u; u; u; u; u
+
+#note: This verb seems to be the Assyrian preterite form (3 mp) of @i{temēru} D, “to bury.” The Assyrianism may indicate that this particular entry was composed by an Assyrian scholar; however, an Assyrian origin for the text seems less likely in view of the colophon’s statement that the present tablet is a copy of a tablet from Babylon. Alternatively, the Assyrian background of the scribe who produced the present tablet could have caused him to Assyrianize a verb that was written with a Babylonian form in the @i{Vorlage}. For linguistic Assyrianisms in other text commentaries from Assur and Nineveh see Frahm (2011: 84 n. 420, 122-123, 144, 149 n. 719, 174 n. 816, 223 n. 1044, 256 n. 1215, 269-270 with n. 1218). 
+
+$ single ruling
+
+27. !zz MU-MEŠ mu-kal-lim-da u šu-ut pi#-[i ša pi um-man-ni]
+#lem: +šumu[name//line]N'N$šumāti; +mukallimtu[scholarly commentary]N$mukallimda; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; pî[mouth]N; +ummiānu[craftsman]N$ummâni
+
+$ single ruling
+
+28. !zz GABA.RI TIN.TIR{ki} GIM LIBIR-šu?# [SAR-ma ba-ri?]
+#lem: gabari[duplicate]N; Babilu[Babylon]SN; kīma[according to]PRP; +labīru[old//original]AJ'N$labīrīšu; šaṭirma[written]AJ; bari[checked]AJ
+
+29. !zz u₂-il₃-ti {m}aš-šur-{+mu}SIG₅{+iq} DUMU x# [(x x x x)]
+#lem: uʾilti[(a literary excerpt tablet)]N; +Aššur-mudammiq[]PN$; māru[son]N; u; u; u; u; u
+
+30. !zz ša {d}NA₃ tuk-lat-su DUMU {m}{d}NA₃-mu-še-ṣi#
+#lem: ša[of]DET; Nabu[1]DN; +tukultu[trust]N$tuklatsu; māru[son]N; +Nabu-mušeṣi[]PN$
+#note: To date, this is the only attestation of the word @i{šumātu}, “lines/ explanations,” in the colophon of a text commentary. Since it is written here logographically, it is unclear whether it should be understood as status rectus or status constructus, i.e., whether the line should be understood as “Lines, @i{mukallimtu}-commentary and oral expl[anations]” or as “Lines from a @i{mukallimtu}-commentary and oral expl[anations].” At Nineveh are attested three so-called excerpt commentaries, all of which are concerned with @i{Enūma Anu Enlil} and which seeming to belong to a series (Frahm 2011: 133). However, their colophons identify them as @i{nisḫu mukallimtu} rather than @i{šumātu mukallimtu}.
+31. !zz DUMU {m}EN-ku-un-di-DINGIR-a-a {lu₂}GAL*# [DUB.SAR]
+#lem: māru[son]N; +Bel-kundi-ilaʾi[]PN$; rab[overseer]N; ṭupšarru[scribe]N
+
+#note: Hunger (@i{BAK} no. 504) restores the title of Bēl-kundi-ilā’ī as @akk{{lu₂}DUB#.[SAR]}, however the traces of the sign following LU₂ fit GAL rather than DUB. Bēl-kundi-ilā’ī also bears the title @i{rab ṭupšarri} in the colophons on two Assur tablets, @i{KAR} 168 (= @i{BAK} no. 252) and @i{LKA} 11 (= @i{BAK} no. 253).
+
+@translation parallel en project
+1. "If Adad thu[nders] at an unusual time"
+2. (means) "he thu[nders] in the months of Tammuz, Ab or Elul (months 4-6)."
+3. "If Adad thu[nders] at an unexpected time"
+4. (means) ditto (i.e., that he thunders in months 4-6).
+5. "If Adad th[unders] from the first day until the thirtieth day (of the month)."
+6. "Morning, midday and evening" means "day [and night."] 
+7. "If Adad thunders" [...]
+8. "for the day" [...]
+9. "If the day does not cloud over" [...]
+10. of "Tammuz, A[b ...]
+11. "If the day dims its brightness" [...]
+12. UD (means) "Šamaš"; SI (means) ["horn, brightness"; ŠUB (means)]
+13. "to throw" [...]
+14. ... [...]
+15. "If Adad ..." [...]
+16. "dawn" [...]
+17. ... [...]
+18. ["If ...] ... he/it seizes [(...)"]
+19. [...] ... he seized [(...)]
+20. ["If Ad]ad in the east wind [..."]
+21. ["fr]om the east wind [..."]
+22. "If Adad persistently grinds (his teeth)" [...]
+23. "If Adad ... [..."]
+24. "the west wind" [...]
+25. "If Adad [..."]
+26. "they buried" [...]
+27. Lines @i{from a} @i{mukallimtu}-commentary and oral expl[anations following the sayings of a (master-)scholar].
+28. Copy (of an original from) Babylon. [Written and checked] according to its original.
+29. @i{uʾiltu}-tablet of Aššur-mudammiq, @i{son} [...,]
+30. whose mainstay is Nabû, son of Nabû-mušēṣi,
+31. descendant of Bēl-kundi-ilā'ī, ch[ief scribe.]

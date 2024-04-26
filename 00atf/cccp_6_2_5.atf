@@ -1,0 +1,152 @@
+&P461151 = CCP 6.2.2
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use lexical
+#atf: use mylines
+#atf: use unicode
+@tablet
+
+
+@obverse
+
+$ n lines broken
+
+1'. [...] x [...]
+#lem: u; u; u
+
+2'. !pr [...] & ,!sg [PA?.SAG?] & ,!sn [u₂?-gu?-la? sag?]-ga#-ak-ku & ,!eq {d?#}[ŠU? ...]
+#lem: u; X; X; X; X; u
+
+#tr.en: [(The logogram group) PA.SAG read /hendursag/ (Diri V, 28-29) (with the sign name) ugula sa]gakku means ["Ditto(Hendursag)" ...].
+
+#note: If the sign name and hence entry is correctly identified, this entry should deal with the logogram group PA.SAG as spelling for the god Hendursag. The small Assur manuscript VAT 12073 has only ŠU, but the remains in the present text support the divine classifier. 
+
+3'. !pr [...] & ,!sg [PA?.USAN?] & ,!sn [u₂?-gu?-la? gu]-u₂?#-gu-nu-u₂ & ,!eq re?#-[ʾ-u₂ ...]
+#lem: u; X; X; X; rēʾû[shepherd]N; u
+
+
+#tr.en: [(The logogram group) PA.USAN read /musub?/ (Diri V, 30) (with the sign name) ugula g]ugunu means "sh[epherd" ...]. 
+
+#note: The identification of the previous entry is also confirmed by the presence of the modification @i{gunû} in this entry corresponding to entry 30 of @i{Diri}. The sign name for USAN or GU₂@g is attested in a MA @i{Ea}-manuscript from Assur (VAT 9532): @i{gu-gu}-[@i{nu-u₂}] (see the photo on the Digitale Keilschrift Bibliothek). According to MSL 15, 168 this entry is followed by a short break. The present text shows that the Akkadian subcolumn contained a number of equivalents for this logogram group. 
+
+4'. & & & ,!eq ka?# [...]
+#lem: X; u
+
+5'. & & & ,!eq x# [...]
+#lem: u; u
+
+6'. !pr [...] & ,!sg [...] & ,!sn [...] du#-u₂ & ,!eq x# [...]
+#lem: u; u; u; X; u; u
+
+
+7'. !pr [...] & ,!sg [PA.DAG.|KISIM₅×(UDU.MAŠ₂)|] & ,!sn [MIN<(u₂-gu-la)> da-ag ša₂] ki?#-si?#-me?-ku? u₂-du ma-ša₂ i-gub# [...]
+#lem: u; X; X; X; ša[that]REL; X; X; mašâ[forgotten one]N; igub[inscribed sign]AJ; u
+
+#tr.en: [(The logogram group) PA.DAG.|KISIM₅×UDU.MAŠ₂| read /udul/ (Diri V, 31) (with the sign name) ugula dag ša ki]simaku udu mašu igub means "(chief) herdsman." 
+
+#note: This entry seems to correspond to @i{Diri} V, 31-33. While the MB manuscript CBS 11141 uses the sign name @i{ugula amašaku}, the present text represents the complex logogram group accurately. The sign name for the complex grapheme DAG.|KISIM₅×UDU.MAŠ₂| is also attested in the NB @i{Ea}-manuscript A 2480: @i{da-ag ša₂ ki-si-ma-ku u₂-da ma}-[@i{ša₂ i-gub}]. 
+
+8'. !pr [...] & ,!sg [...] & ,!sn [...] x# ud-da MIN<(i-gub)>
+#lem: u; u; u; u; X; igub[inscribed sign]AJ
+
+9'. !pr [...] & ,!sg [...] & ,!sn [...] x x [...]
+#lem: u; u; u; u; u; u
+
+$ n lines broken
+
+
+@reverse
+
+$ n lines broken
+
+1'. & & & ,!eq E₂# {d?#}NIN?#.[ŠUBUR : ...]
+#lem: +bītu[house]N$bīt; Ili-abrat[1]DN; u
+
+#tr.en: [(The logogram group) E₂.NUN read /.../ (Diri V, 293-297) means "...," "foetus," "...,"] "house of Ninšubur," ["house of Manungal"]. 
+
+2'. !pr [...] & ,!sg [E₂].GI?#.NA?#.AB.DU₇ & ,!eq šu#-tu#-um#-mu 
+#lem: u; u; +šutummu[storehouse]N$šutummu
+
+#tr.en: [(The logogram group) E₂].GI.NA.AB.DU₇ [read /šutum/ (Diri V, 298) means "storehouse."
+
+#note: The sign remains in subcolumn 3 appear to belong to the compound logogram rather than a sign name, which would in this case be rather long. 
+
+3'. !pr [...] & ,!sg [E₂.{d}]NISABA# & ,!sn MIN<(e)> nita₂-ba-ku & ,!eq E₂ {d}NISABA#
+#lem: u; u; +e[the sign E₂]N$e; +nidabaku[the sign NISABA]N$nidabaku; +bītu[house]N$bīt; Nisaba[1]DN
+
+#tr.en: [(The logogram group) E₂.{d}NISABA read /...ra/ (Diri V, 299) (with the sign name)] e nidabaku is the "House of Nisaba." 
+
+#note: The sign name appears to contain a rather learned writing: @i{nita₂-ba-ku} for @i{ni-da-ba-ku}; for the latter see Gong 2000: 165. 
+
+4'. !pr [...] & ,!sg [E₂.GEŠTU₂].{d}NISABA : & ,!sn MIN<(e)> geš-ṭu MIN<(nita₂-ba-ku)> & ,!eq MIN<(E₂ {d}NISABA)>
+#lem: u; X; +e[the sign E₂]N$; u; u; bīt[house]N; Nisaba[1]DN
+
+
+
+#tr.en: [(The logogram group) E₂.GEŠTU₂.{d}NISABA (Diri V, 300)] (with the sign name) e gešṭu ... is the "house of Nisaba."
+
+5'. !pr [...-ur₃-re] & ,!sg [E₂.KI.SI₃].GA# : & ,!sn MIN<(e)> ki-si-ga-ku & ,!eq ŠU-u :# qu₂#-bu#-ru₃ : šu-[ut-ta-tu₄]
+#lem: u; X; +e[the sign E₂]N$; +kisigaku[the sign KI.SI₃.GA]N$kisigaku; u; +qubūru[grave]N$qubūru; šuttatu[(hunter’s) pitfall]N
+
+
+#tr.en: [(The logogram group) E₂.KI.SI₃].GA [read /[ek]urre/] (Diri V, 301-302) (with the sign name) e kisigaku means ekurrû(?), "grave," "pitfall."
+
+#note: Both on the present text and ms. H (BM 46822), for which see the introduction, @i{qubūru} is preceded by ŠU-@i{u}, which is a technical remark in lexical texts that denotes that equivalent in subcolumn 4 is loaned from the compound logogram's reading; see for the suggestion @i{ekurrû} MSL XV, 179 s.v. 301a. 
+
+6'. !pr [...-lal] & ,!sg [E₂.KI.SI₃.GA] ,!sn MIN<(e)> MIN<(ki-si-ga-ku)> & ,!eq la-ah-tu₄ :# ha#-[aš-tu₄] 
+#lem: u; u; +e[the sign E₂]N$; +kisigaku[the sign KI.SI₃.GA]N$; +lahtu[pit]N$lahtu; +haštu[hole]N$haštu
+
+
+#tr.en: [(The logogram group) E₂.KI.SI₃.GA (Diri V, 303-304) read /...lal/] (with the sign name) Ditto (i.e., e) Ditto (kisigaku) means "pit," "hole." 
+
+7'. !pr [...-en-nu] & ,!sg [E₂.|LU₂×GAN₂@t|.A] & ,!sn MIN#<(e)> SAG ka-rak-ku & ,!eq ṣi-bit-tu₄# : E₂ [ṣi-bit-ti : E₂ ma-aṣ-ṣar-ti?]
+#lem: u; X; ē[not]MOD; arkatu[rear]N; X; ṣibittu[seizure]N; šarru[king]N; ṣibitti[captivity]N; šarru[king]N; X
+
+#tr.en: [(The logogram group) E₂.|LU₂×GAN₂@t|.A read /...ennu/ (with the sign name) Ditto (i.e., e) 
+
+#note: The sign name is noteworthy: @i{ka-rak-ku} appears to render KAR₂ (i.e., GAN₂@t), for which sign names usually provide the rendering ga-na te-nu-u₂. @i{Diri} VIB, 47 provides for the compound logogram LU₂×GAN₂@t the sign name @i{ša₂ lu-la-ku ga-na te-en-na i-gub}. We therefore would expect in our text: @i{MIN(e) ša₂ lu-la-ku ga-na te-en-na i-gub a-a-ak-ku}. Ms. H (BM 46822) appears also to have @i{ka#-rak-ku}. It is therefore likely that the compound logogram in the break was rather E₂.LU₂/SAG.GAN₂@t.
+
+8'. !pr [...-du-ru] & ,!sg [E₂.A] & ,!sn [MIN<(e)>] a#-a-ak-ku & ,!eq ti-tur-ru :# e#-du#-[ru (...)]
+#lem: u; X; ē[not]MOD; X; titurru[bridge]N; X; u
+
+9'. & & & kap-ri : ti-[tur-ru] 
+#lem: kapri[village]N; titurru[bridge]N
+
+$ double ruling
+
+10'. [am₃-ku₄-ku₄] & & ir-ru-um#-[ma]
+#lem: X; X
+
+#tr.en: [(Sum.) am₃-ku₄-ku₄] means "he enters [and]"
+
+11'. [nu-si-si] & & ul i-ma-al?#-[li]
+#lem: X; ul[not]MOD; imalli[be(come) full]V
+
+#tr.en: [(Sum.) nu-si-si] means "he does not make full"
+
+12'. [ib₂-ta-e₃] & & uṣ-ṣi-[ma]
+#lem: X; uṣṣima[go out]V
+
+#tr.en" [(Sum.) ib₂-ta-e₃] means "he goes forth [and]"
+
+13'. [nu-silig-ga] & & ul i-x 
+#lem: X; ul[not]MOD; u
+
+#tr.en: [(Sum.) nu-silig-ga] means "he does not cease"
+
+#note: The Akkadian verbal form should be @i{ikâd}, but the last sign does not support a suitable reading. 
+
+14'. [nig₂-ga lugal] & & [ma]-ak-[kur LUGAL]
+#lem: X; X; makkūr[property]N; šarri[king]N
+
+#tr.en: [(Sum.) nig₂-ga lugal] means "[royal] property."
+
+$ n lines broken
+
+@translation parallel en project
+
+@label r,8' - r,9'
+#tr.en: [(The logogram group) E₂.A read /...duru/ (with the sign name) Ditto (i.e., e)] ayyakku means "bridge," "farmstead," "village," "bridge." 
+

@@ -1,0 +1,393 @@
+&Q005183 = CCP 7.1.6.A (http://ccp.yale.edu/P461230) = Commentary on Ritual Text (BM 47458 // BM 47661)
+@composite
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+$(obverse)
+
+1. !bs [{d}DI.KU₅ !cm : EN] DINGIR-MEŠ e#-piš bi-tu₂# [x x x] x [x x] x [x x x]
+#lem: Madānu[1]DN; bēl[lord]N; ilāni[god]N; ēpiš[doer]N; +bītu[house]N$; u; u; u; u; u; u; u; u; u; u
+
+2. !zz [x (x)] x# x# x# ša₂#?-niš?# !bs {d}ma-DU₃{+da-an}.EN !zz :# !bs MA# !cm : E₂ : MIN !bs DU₃ !cm [: e-pe-šu₂]
+#lem: u; u; u; u; u; šanîš[alternatively]AV; +Madānu[]DN$; bītu[house]N; bītu[house]N; šanîš[alternatively]AV; +epēšu[do//doing]V'N$; +epēšu[do//doing]V'N$
+
+#note: On the writing of Madānu’s name, see below ll. 6 and 11. The significance of the sign before the last @akk{DU₃} is uncertain.
+3. !bs [EN] !cm : be-lu : !bs {d}EN.NU.GI !cm : {d}DI.KU₅ : !bs {d}EN.NU.GI !cm : {d}30 : [EN : be-lu]
+#lem: bēlu[lord]N; bēlu[lord]N; Ennugi[1]DN; Madānu[1]DN; Ennugi[1]DN; Sin[1]DN; bēlu[lord]N; bēlu[lord]N
+
+4. !bs NU# !cm : la-a : !bs GI !cm : la-ma-du ša₂ NITA u MUNUS : !bs {d}DI.KU₅ !cm : DINGIR pa-ri-is# [di-nim]
+#lem: lā[not]MOD; lā[not]MOD; +lamādu[learn//knowing (sexually)]V'N$; lamādu[knowing (sexually)]'N; ša[of]DET; zikari[man]N; u[and]CNJ; sinništu[wife]N; Madānu[1]DN; ilu[god]N; +pārisu[divider]N$pāris; +dīnu[legal decision]N$dīnim
+
+5. !bs [DI] !cm : di-num : !bs KU₅ !cm : pa-ra-su : šal-šiš !bs {d}ma-da-{+nu}nu₁₁ !cm : nu-ur₂ ma#-[ta-a-ti]
+#lem: +dīnu[legal decision]N$; +dīnu[legal decision]N$dīnum; +parāsu[cut (off)//cutting (off)]V'N$; parāsu[cutting (off)]'N; šalšiš[thirdly]AV; +Madānu[]DN; nūr[light]N; mātāti[land]N
+
+6. !bs [MA].DA !cm : ma-a-tu₄ : !bs NU₁₁{+nu} !cm : nu-ur₂ : ina lib₃-bi ki?#-i U₄ 29.KAM ša₂ {iti}[ZIZ₂?]
+#lem: +mātu[land]N$; +mātu[land]N$; +nūru[light]N$; nūr[light]N; ina[in]PRP; libbi[concern]N; kī[as]PRP; ūmu[day]N; n; ša[that]REL; Šabaṭu[1]MN
+
+#note: In the cultic calendar BM 41239 (@i{BTT} pl. 54) // BM 32516 (@i{Fs Lambert} p. 294, edited in George @i{Fs Lambert} [2000] p. 293), it is stated that on the 28th of Šabāṭu Mār-bīti and Ninurta spent the night at Madānu’s temple in Babylon. The present line might refer to that event. Note that the rare technical term @i{ina libbi kī} is also used in BM 36595+ l. 27 (@i{CCP} 7.2.u103).
+7. !cm nu#-ur₂ TA E₂ {d}DI.KU₅ iq-qu-ud-du : ša₂ E{+u} um-ma {d}DI.KU₅ ba#-nu#-[u E₂?]
+#lem: nūr[light]N; +ultu[from]PRP$; bīt[house]N; Madānu[1]DN; +qâdu[ignite]V$iqquddu; ša[which]REL; iqbû[say]V; umma[saying]PRP; Madānu[1]DN; banû[creating]'N; bītu[house]N
+
+#note: @i{bānû bīti} (@i{si vera lectio}) might be referred to in l. 9.
+8. !cm U₄ 18.KAM ša₂ {iti}SIG₄ !qt {d}NA₃ u {d}DI.KU₅ ana {giš}KIRI₆ ma-suk-kan-nu il-la-ku-[uʾ]
+#lem: ūmu[day]N; n; ša[of]DET; Simanu[1]MN; Nabu[1]DN; u[and]CNJ; Madānu[1]DN; ana[according to]PRP; kiri[garden]N; masukkannu[Magan-tree]N; +alāku[go]V$illakūʾ
+
+#note: The line may be a quotation from the @i{Love Lyrics}. Compare Lambert, W.G. "The Problem of the Love Lyrics" @i{Unity and diversity} (1975a) p. 104 ii 15: @i{ana kirî ma}-@i{s}[@akk{uk?-kan-ni} ...]. The same entry can be found in BM 36595+ ll. 10-13 (@i{CCP} 7.2.u103).
+9. !bs MA !cm : ba-nu-u : !bs SUK !cm : E₂ : !bs EN !cm : be-lu₄ : !bs UR₂.SAG.GA₂ !cm šu-bat {d}UTU BARA₂# ša₂ ina {iti}SIG₄
+#lem: banû[creating]'N; banû[creating]'N; bītu[house]N; bītu[house]N; bēlu[lord]N; bēlu[lord]N; +Ursagga[]TN$; šubat[residence]N; Šamaš[1]DN; +parakku[cult dais]N$; ša[which]REL; ina[in]PRP; Simanu[1]MN
+
+#note: The temple (?) name Ursaĝĝa is elsewhere unattested.
+10. !cm U₄ 18.KAM UDU.NITA₂ ina muh-hi uh-tat-ta-pu : !bs UR₂ !cm : iš-di : !bs SAG# !cm : E₂
+#lem: ūmu[day]N; n; immeri[ram]N; ina[in]PRP; muhhi[top]N; uhtattapu[slaughter]V; išdu[base]N; +išdu[base]N$išdi; +bītu[house]N$; +bītu[house]N$
+
+#note: @i{Si vera lectio}, the equation between @akk{SAG#} and @i{bītu} is probably based on @akk{SUK} = @i{bītu} in @i{Aa} I/2 211 (see the previous line).
+11. !bs GA₂ !cm : ša₂-kan : !bs si-ma-{+nu}EN : SI !cm : re-tu-u ša₂ te-me-en-na : !bs MA# !cm : E₂ : !bs EN !cm : be-lu₄#
+#lem: +šakānu[put//putting]V'N$; +šakānu[put//putting]V'N$šakān; +Simānu[]MN$; retû[driving in]'N; retû[driving in]'N; ša[of]DET; +temmēnu[foundation]N$temmēna; bītu[house]N; bītu[house]N; bēlu[lord]N; bēlu[lord]N
+
+#note: The same entry can be found in BM 36595+ l. 13 (@i{CCP} 7.2.u103).
+12. !cm lib₃-bu-u {d}EN.KI {d}UTU u {d}ŠA₃.ZU ba-bi-lu re-e?#-[(x x)] a-ma-tu₂#
+#lem: libbū[from out of]PRP; Enki[1]DN; Šamaš[1]DN; u[and]CNJ; Šazu[1]DN; +bābilu[bringer]N$; u; u; amātu[word]N
+
+#note: The same entry can be found in BM 36595+ l. 15 (@i{CCP} 7.2.u103). 
+13. !cm ina {iti}SIG₄ U₄ 18.KAM URU₄ e₂-sag-gil na-di : !bs {d}EN.NU.GI !cm [: {d}DI].KU₅ : MIN : {d}SIG₄
+#lem: ina[from]PRP; Simanu[1]MN; ūmu[day]N; n; +uššu[foundation(s)]N$ušši; +Esaggil[]TN$; nadi[abandoned]AJ; Ennugi[1]DN; Madānu[1]DN; šanîš[alternatively]AV; Kulla[1]DN
+
+14. !cm e₂-sag{+an}-gil ša₂ GIM šu-me-šu-ma šu-šu-bu ina# lib₃#-bi#-šu₂# pa?#-[ra?-ak?]-ki?# NUN {d}AMAR.UTU
+#lem: +Esaggil[]TN$; ša[who]REL; kīma[like]PRP; +šumu[name]N$šumēšūma; +šūšubu[settled]AJ$; ina[in]PRP; libbišu[interior]N; +parakku[cult dais]N$; rubû[prince]N; Marduk[1]DN
+
+#note: The tentative reading of @akk{pa?#-[ra?-ak?]-ki?#} is courtesy of I. L. Finkel. On the phrase @i{ša kīma šumīšīma} for introducing notarikon analyses, see Gabbay @i{The Exegetical Terminology of Akkadian Commentaries} (@i{CHANE} 82, 2016) p. 92 fn. 45 and Jiménez @i{The Babylonian Disputation Poems} (@i{CHANE} 87, 2017), commentary on @i{Series of the Spider} l. 22.
+15. !bs SI !cm : a-ša₂-bu : !bs ŠA₃ !cm : lib-bi : !bs AN !cm : šu₂{+u} : !bs SAG# !cm [: x x x] GIL# [:] a-ša₂-bu
+#lem: +ašābu[sit (down)//sitting (down)]V'N$; ašābu[sitting (down)]'N; +libbu[inner body]N$; +libbu[inner body]N$libbi; +šū[he]IP$; +šū[he]IP$; u; u; u; u; +ašābu[sit (down)//sitting (down)]V'N$; ašābu[sitting (down)]'N
+
+16. !bs SI !cm : ru-bu-u₂ : !bs GIL !cm : {d}AMAR.UTU ($___$)
+#lem: +rubû[prince]N$; rubû[prince]N; +Marduk[]DN$; Marduk[1]DN
+
+$(reverse)
+
+17. !bs {d}GAŠAN-{+ni-na₂-a}NINA !zz : !qt NINA ni-na-a ša₂ eš₃-še-ku ku-u₂#-a# i#-gub# ki#-ki# [x x x x]
+#lem: +Belet-Ninua[]N$; +ninâ[the sign NINA]N$; +ninâ[the sign NINA]N$; ša[of]DET; +eššeku[the sign AB]N$; +kūʾa[the sign HA]N$; igub[inscribed sign]AJ; +kiki[the sign KI]N$; u; u; u; u
+
+#note: Quotation from @i{Diri} I 241. The speculation on @i{ṣippatu} might have been triggered by @i{Diri} VI/B 28, in which the @i{diri}-composite @akk{TI.HA} (read as @akk{da-na-a-a}) is said to mean @i{ṣippatu}. The “Lady of Nineveh” is thus explained as the “Lady of the Orchard.”
+18. !bs ṣip-pa-tu₂ !cm : ŠE.NUMUN !zz : %sux {ŋeš}an-na u₃-suh₅ : %sb ṣip-pa-tu₄ : %sux {ŋeš}an-na u₃-suh₅ : %sb NUMUN# [{giš}U₃.SUH₅]
+#lem: +ṣippatu[fruit orchard]N$; +zēru[seed(s)]N$; +a'an[spadix//date spadix]N'N$a'an/{ŋeš}an-na#~; usuh[tree//a tree]N'N$usuh/u₃-suh₅#~; +ṣippatu[fruit orchard]N$; aʾan[date spadix]N; usuh[a tree]N; zēru[seed(s)]N; ašūhi[pine-tree]N
+
+#note: The equation @akk{{giš}AN.NA.U₃.KU} = @i{ṣippatu} can be found in @i{Ḫḫ} III 86 (@i{MSL} 5 p. 100). The restoration at the end is uncertain.
+19. !bs ta-rin-na-tu₂ ina ŠU-MIN-šu₂ na-ši !zz : !bs ta-ru-u !cm : ru-ub-bu-u : !bs GAŠAN#{+tu₄} !cm : be-el#-[tu₄]
+#lem: +terinnu[cone]N$tarinnatu; ina[in]PRP; qātīšu[hand]N; naši[standing up]AJ; tarû[lifting up]'N; +rabû[be big//bringing up]V'N$rubbû; +bēltu[lady]N$; +bēltu[lady]N$
+
+20. !cm be-el-tu₄ mu-rab-bat ki mu-še-niq-qu-u₂-tu₂ : !bs a#-šu-hu# !cm : ša₂-a-hu : ra-bu#-[u]
+#lem: bēltu[lady]N; +murabbītu[foster-mother]N$murabbât; +kī[like]PRP$; +mušēniqūtu[profession of wet nurse]N$; +ašūhu[pine-tree]N$; +šâhu[grow (tall)//growing (tall)]V'N$; +rabû[be big//being big]V$
+
+#note: Note that in the commentary on @i{Enūma eliš} and “Marduk’s Ordeal” [Bēlet]-Ninua is identified as Bēl’s nanny: see da Riva & Frahm, “Šamaš-šumu-ukīn, die Herrin von Ninive und das babylonische Königssiegel” @i{AfO} 46/47 (1999/2000) p. 174 and Frahm & Jiménez, “Myth, Ritual, and Interpretation. The Commentary on Enūma eliš I–VII and a Commentary on Elamite Month Names” @i{HeBAI} 4 (2015) p. 316. The abstract noun @i{mušēniqūtu} is a hapax legomenon.
+21. !bs ša₂ SAG.GIL.MUD ši-i !zz : !bs SAG !cm : ar-kat₃ : !bs GIL !cm : {d}AMAR.UTU : !bs MUD !cm : DU₃
+#lem: ša[of]DET; +sangilimud[(a bluish stone)]N$; šī[she]IP; +arkatu[rear]N$; arkat[rear]N; Marduk[]DN; Marduk[1]DN; +epēšu[do//doing]V'N$; +epēšu[do//doing]V'N$
+
+#note: The idiomatic meaning of the sentence obtained by notarikon analysis, “she ‘made’ the back of Marduk,” must be “she brought up Marduk” @i{vel sim.}, but no parallels to it could be found.
+
+22. !bs {d}e₂-a !cm : LUGAL ap-si-i# : !bs E₂ !cm : LUGAL : !bs A !cm : ap-su-u₂
+#lem: Ea[1]DN; šar[king]N; Apsi[1]GN; +šarru[king]N$; šarru[king]N; +Apsu[]GN$; Apsu[1]GN
+
+23. !qt %sux {d}am-an-ki lugal engur-ra me-na huŋ-ŋa₂ hu-mu-ra#-ab#-be₂#
+#lem: Enki[1]DN; lugal[king]N; engur[(cosmic) underground waters]N; menam[when?]N; +huŋ[pacify//to pacify]V/t'V/t$huŋa/huŋ-ŋa₂#~; e[perfect plural and imperfect stem of dug⟦to speak⟧]V/t
+
+#note: The line is a quotation from the bilingual @i{šuʾila} Marduk 1 l. 18 (VAT 8411 and dupls., Maul @i{Fs Borger} 1998 pp. 165f). Note that the related commentary BM 36595+ l. 26 (@i{CCP} 7.2.u103) cites l. 25 of the same text.
+24. ($___$) !qt %sb {d}e₂-a LUGAL ap-si-i ma-ti nu-uh liq-bi-ka
+#lem: Ea[1]DN; šar[king]N; Apsi[1]GN; mati[when?]AV; +nâhu[rest]V$nūh; liqbika[say]V
+
+25. !bs {d}e₂-a !cm : ba-nu-u ŠE.NUMUN : !bs E₂ !cm : ba-nu-u : !bs A !cm : ši-ir-ki : A : ŠE.NUMUN#
+#lem: Ea[1]DN; banû[creating]'N; +zēru[seed(s)]N$zēri; +banû[create//creating]V'N$; banû[creating]'N; +šerku[gift]N$; +šerku[gift]N$širki; +zēru[seed(s)]N$; +zēru[seed(s)]N$
+
+#note: The equation of @i{širku} with @akk{A} is elsewhere unattested.
+26. !bs {d}e₂-a !cm : ba-nu-u šip-tu₄ : !bs E₂ !cm : ba-nu-u : !bs A !cm : mu-u₂ :# A : šip-tu₄#
+#lem: Ea[1]DN; banû[creating]'N; +šiptu[incantation]N$; banû[creating]'N; banû[creating]'N; +mû[water]N$; +mû[water]N$; +šiptu[incantation]N$; +šiptu[incantation]N$
+
+27. !qt {d}e₂-a ha-si-su mim-mu-u₂ i-še-eʾ šib-qi₂-šu-[un]
+#lem: Ea[1]DN; +hāsisu[knowing]N$; mimmû[all that]'REL; +šeʾû[seek (out)]V$išeʾʾe; +šibqū[scheme]N$šibqīšun
+
+#note: The line contains a quotation from @i{Enūma eliš} I 60 (not noted by Lambert @i{Babylonian Creation Myths} [2013] p. 60).
+28. !zz [(x) !bs {d}]AM?#.GAR.UD !cm : EN u₄-mu : !bs AN !cm : EN : !bs U₄ !cm : u₄-mu : [(x)]
+#lem: u; +Amgarud[]DN$; bēl[lord]N; ūmu[day]N; +bēlu[lord]N$; +bēlu[lord]N$; ūmu[day]N; ūmu[day]N; u
+
+#note: The divine name is elsewhere unattested. The equation @akk{AM} = @i{bēlu} is attested elsewhere: see @i{CAD} B 195b.
+29. !bs [{d}AM].GAR.A !zz : !bs AM !cm : be-lu₄ : !bs GAR{+ga-ar₂} !cm : ra-mu-u₂ : !bs MIN !cm : a-ša₂-bu#
+#lem: +Amgara[]DN$; +bēlu[lord]N$; bēlu[lord]N; +ramû[throw//dwelling]V'N$; +ramû[throw//dwelling]V'N$; šanîš[alternatively]AV; ašābu[sitting (down)]'N
+
+#note: The divine name is elsewhere unattested. Perhaps @i{hamšā}, “fifty”?
+30. !zz [x x] lib₃?#-bi-šu₂ a-ša₂-ab : ša₂-niš !bs {d}ša₃-maš₂?# !zz : !bs ŠA₃ : !cm lib#-bi# : !bs MAŠ₂?# !cm : bi-[ri]
+#lem: u; u; libbišu[heart]N; +ašābu[sit (down)//sitting (down)]V'N$ašāb; šanîš[alternatively]AV; Šamaš[1]DN; +libbu[inner body]N$; +libbu[inner body]N$libbi; bīru[divination]N; bīri[divination]N
+
+#note: The readings adopted follow the commentary on @i{Enūma eliš} l. 44′ (Frahm & Jiménez @i{HeBAI} 4 [2015] p. 309).
+31. !zz [: x x] x !qt {d}ŠA₃#.ZU# mu#-de#-e lib₃-bi DINGIR-MEŠ# ša₂# i#-bar#-ru#-u₂ kar-[šu]
+#lem: u; u; u; Šazu[1]DN; mūdê[knower]N; libbi[heart]N; ilī[god]N; ša[of]DET; ibarrû[see]V; +karšu[stomach]N$
+
+#note: The correct reading of the line was suggested by I.L. Finkel. It contains a quotation from @i{Enūma eliš} VII 35 (not noted by Lambert @i{Babylonian Creation Myths} [2013] p. 134).
+$ double ruling
+32. !zz [ša₂ pi]-i {lu₂}um-man-nu bar?#-sip?#[{ki?} x x x x x (x)]
+#lem: ša[of]DET; pî[accordance]N; ummannu[scholar]N; Borsippa[1]SN; u; u; u; u; u; u
+
+#note: The last signs could be read as @akk{maš?#-ʾa?#-[al-tu₂]}
+33. !zz [x x x] x# x# {d#}x# x# [...]
+#lem: u; u; u; u; u; u; u; u
+
+@translation parallel en project
+
+1. [Madānu means “lord of] the gods, who builds the house,” [...]
+2. [...] ... @i{alternatively}, (in) Madānu (written @i{ma-du}₃-@i{en}), @i{ma} means “house,” @i{dù}, @i{again}, [means “to build”]
+3. [@i{en}] means “lord.” Ennugi is Madānu; Ennugi is Sîn, (since) [@i{en means “lord”}],
+4. @i{nu} means “not,” and @i{gi} means “to know (sexually), said of a man and a woman.” “Madānu” (d.DI.KU₅) means “the god who passes judgement,”
+5. (since) [@i{di}] means “judgement” and @i{ku}₅ means “to pass.” Thirdly, Madānu (written @i{ma-da-nu}₁₁) means “light of the la[nds],”
+6. (since) [@i{ma}]@i{da} means “land” and @i{nu}₁₁ (i.e. ŠIR) means “light” – (this is) on account of the 29th of [@i{Šabāṭu}],
+7. (when) a torch is ignited from the temple of Madānu. What it says, means “Madānu, @i{buil}[@i{der of the house}]”
+8. The 18th day of Simānu belongs to Nabû and Madānu. (In the line) “they go to the rosewood garden,"
+9. (in @i{masukkannu}), @i{ma} means “to build,” @i{suk} means “house,” and @i{en} means “lord.” Ursagga is the abode of Šamaš, the altar on which,
+10. on the 18th day, a sheep is slaughtered — @i{úr} means "base," @i{sag} means “house”
+11. and @i{gá} means “to place.” In (the month name) Simānu, @i{si} means “to fix,” said of the foundations; @i{ma} means “house,” and @i{en} means “lord.”
+12. (It is) as in “Enki, Utu and Šazu (i.e., Marduk), @i{Babylon} (or, “bringing”) ... @i{word}.
+13. On the 18th of Simānu the foundations of the Esangil were laid. Ennugi means [Mad]ānu, ditto means Kulla.
+14. The Esagil (written @i{esangil}), which, according to its name, (means) “in its midst installed a shrine the prince Marduk,”
+15. (since) @i{si} means “to install,” @i{šà} means “midst,” @i{an} means “his,” @i{sag} means ... @i{gil} means “to install,” 
+16. @i{si} means “prince,” and @i{gil} means “Marduk.”
+
+17. The Lady of Nineveh (NINA, with phonetic complement @i{ni-ná-a}) – (the sign) NINA, (read) /@i{nina}/, (consists of the sign) @i{kūʾa} (i.e., ḪA) put inside (the sign) @i{eššeku} (i.e., AB) (and the determinative) @i{ki}; [(@i{ḪA, as part of the diri-sign}) @i{TI.ḪA}, (@i{means})]
+18. “fruit orchard” (@i{ṣippatu}), (i.e.) “seed”; @i{annaʾusuḫ} means “pine cone,” @i{annaʾusuḫ} means @i{pi}[@i{ne cone}],
+19. She carries pine cones (@i{terinnatu}) in her (!, lit., ‘his’) hand – “To lift up” (@i{tarû}, related to @i{terinnatu}) means “to bring up.” GAŠAN-@i{tu} means “lady.”
+20. (Therefore, the phrase means) “the lady is a foster mother” (@i{murabbât}), like the profession of wet nurse. (The explanation is also justified because) “Pine” (@i{ašūḫu}) (stems from) “to grow,” (which) means “to be big.”
+21. She is (made of) @i{saggilmud}-stone: @i{sag} means “back,” @i{gil} means “Marduk,” and @i{mud} means “to make.”
+
+22. Ea means “king of the Apsû,” (since) @i{é} means “king” and @i{a} means “Apsû,”
+23. (as in) “May Amanki, Lord of the abyss, say to you, ‘Until when? Relent!’”
+24. (in Akkadian), “May Ea, Lord of the Apsû, say to you, ‘Until when? Relent!’” (= quotation from the bilingual @i{šuʾila}-prayer @i{Marduk} 1).
+25. Ea means “creator of seed,” (since) @i{é} means “to create” and @i{a} means “gift,” (whence) @i{a} means “seed.”
+26. Ea means “creator of the spell,” (since) @i{é} means “to create” and @i{a} means “water,” (whence) @i{a} means “spell.”
+27. (as in) “Ea, who knows everything, perceived their tricks” (= quotation from @i{Enūma eliš} I 60).
+28. [...] (the diivine name) @i{Amgarud} means “lord of the day” (or, “of the storm”), (since) 
+29. (In the divine name) [Am]garʾa, @i{am} means “lord,” @i{gar}, read /@i{ga-ar}/, means “to dwell,” ditto means “to live.” 
+30. [...] “to live @i{in its center}.” Alternatively, (it means) “Šamaš” (written @i{šà-máš}) — @i{šà} means “heart,” @i{máš} means “divination”;
+31. [...] ... “Šazu, who knows the heart of the gods, [who saw] the reins” (= quotation from @i{Enūma eliš} VII 35).
+32. Oral [lore] of a scholar from @i{Borsippa}, [...].
+33. ...
+
+&P461230 = CCP 7.1.6.A.b (http://ccp.yale.edu/P461230) = BM 47458
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#link: def A = ccpo:Q005183 = Commentary on Ritual Text (BM 47458 // BM 47661)
+
+@tablet
+
+$(obverse)
+
+1. !bs [{d}DI.KU₅ !cm : EN] DINGIR-MEŠ e#-piš bi-tu₂# [x x x] x [x x] x [x x x]
+#lem: Madānu[1]DN; bēl[lord]N; ilāni[god]N; ēpiš[doer]N; +bītu[house]N$; u; u; u; u; u; u; u; u; u; u
+
+2. !zz [x (x)] x# x# x# ša₂#?-niš?# !bs {d}ma-DU₃{+da-an}.EN !zz :# !bs MA# !cm : E₂ : MIN !bs DU₃ !cm [: e-pe-šu₂]
+#lem: u; u; u; u; u; šanîš[alternatively]AV; +Madānu[]DN$; bītu[house]N; bītu[house]N; šanîš[alternatively]AV; +epēšu[do//doing]V'N$; +epēšu[do//doing]V'N$
+
+#note: On the writing of Madānu’s name, see below ll. 6 and 11. The significance of the sign before the last @akk{DU₃} is uncertain.
+3. !bs [EN] !cm : be-lu : !bs {d}EN.NU.GI !cm : {d}DI.KU₅ : !bs {d}EN.NU.GI !cm : {d}30 : [EN : be-lu]
+#lem: bēlu[lord]N; bēlu[lord]N; Ennugi[1]DN; Madānu[1]DN; Ennugi[1]DN; Sin[1]DN; bēlu[lord]N; bēlu[lord]N
+
+4. !bs NU# !cm : la-a : !bs GI !cm : la-ma-du ša₂ NITA u MUNUS : !bs {d}DI.KU₅ !cm : DINGIR pa-ri-is# [di-nim]
+#lem: lā[not]MOD; lā[not]MOD; +lamādu[learn//knowing (sexually)]V'N$; lamādu[knowing (sexually)]'N; ša[of]DET; zikari[man]N; u[and]CNJ; sinništu[wife]N; Madānu[1]DN; ilu[god]N; +pārisu[divider]N$pāris; +dīnu[legal decision]N$dīnim
+
+5. !bs [DI] !cm : di-num : !bs KU₅ !cm : pa-ra-su : šal-šiš !bs {d}ma-da-{+nu}nu₁₁ !cm : nu-ur₂ ma#-[ta-a-ti]
+#lem: +dīnu[legal decision]N$; +dīnu[legal decision]N$dīnum; +parāsu[cut (off)//cutting (off)]V'N$; parāsu[cutting (off)]'N; šalšiš[thirdly]AV; +Madānu[]DN; nūr[light]N; mātāti[land]N
+
+6. !bs [MA].DA !cm : ma-a-tu₄ : !bs NU₁₁{+nu} !cm : nu-ur₂ : ina lib₃-bi ki?#-i U₄ 29.KAM ša₂ {iti}[ZIZ₂?]
+#lem: +mātu[land]N$; +mātu[land]N$; +nūru[light]N$; nūr[light]N; ina[in]PRP; libbi[concern]N; kī[as]PRP; ūmu[day]N; n; ša[that]REL; Šabaṭu[1]MN
+
+#note: In the cultic calendar BM 41239 (@i{BTT} pl. 54) // BM 32516 (@i{Fs Lambert} p. 294, edited in George @i{Fs Lambert} [2000] p. 293), it is stated that on the 28th of Šabāṭu Mār-bīti and Ninurta spent the night at Madānu’s temple in Babylon. The present line might refer to that event. Note that the rare technical term @i{ina libbi kī} is also used in BM 36595+ l. 27 (@i{CCP} 7.2.u103).
+7. !cm nu#-ur₂ TA E₂ {d}DI.KU₅ iq-qu-ud-du : ša₂ E{+u} um-ma {d}DI.KU₅ ba#-nu#-[u E₂?]
+#lem: nūr[light]N; +ultu[from]PRP$; bīt[house]N; Madānu[1]DN; +qâdu[ignite]V$iqquddu; ša[which]REL; iqbû[say]V; umma[saying]PRP; Madānu[1]DN; banû[creating]'N; bītu[house]N
+
+#note: @i{bānû bīti} (@i{si vera lectio}) might be referred to in l. 9.
+8. !cm U₄ 18.KAM ša₂ {iti}SIG₄ !qt {d}NA₃ u {d}DI.KU₅ ana {giš}KIRI₆ ma-suk-kan-nu il-la-ku-[uʾ]
+#lem: ūmu[day]N; n; ša[of]DET; Simanu[1]MN; Nabu[1]DN; u[and]CNJ; Madānu[1]DN; ana[according to]PRP; kiri[garden]N; masukkannu[Magan-tree]N; +alāku[go]V$illakūʾ
+
+#note: The line may be a quotation from the @i{Love Lyrics}. Compare Lambert, W.G. "The Problem of the Love Lyrics" @i{Unity and diversity} (1975a) p. 104 ii 15: @i{ana kirî ma}-@i{s}[@akk{uk?-kan-ni} ...]. The same entry can be found in BM 36595+ ll. 10-13 (@i{CCP} 7.2.u103).
+9. !bs MA !cm : ba-nu-u : !bs SUK !cm : E₂ : !bs EN !cm : be-lu₄ : !bs UR₂.SAG.GA₂ !cm šu-bat {d}UTU BARA₂# ša₂ ina {iti}SIG₄
+#lem: banû[creating]'N; banû[creating]'N; bītu[house]N; bītu[house]N; bēlu[lord]N; bēlu[lord]N; +Ursagga[]TN$; šubat[residence]N; Šamaš[1]DN; +parakku[cult dais]N$; ša[which]REL; ina[in]PRP; Simanu[1]MN
+
+#note: The temple (?) name Ursaĝĝa is elsewhere unattested.
+10. !cm U₄ 18.KAM UDU.NITA₂ ina muh-hi uh-tat-ta-pu : !bs UR₂ !cm : iš-di : !bs SAG# !cm : E₂
+#lem: ūmu[day]N; n; immeri[ram]N; ina[in]PRP; muhhi[top]N; uhtattapu[slaughter]V; išdu[base]N; +išdu[base]N$išdi; +bītu[house]N$; +bītu[house]N$
+
+#note: @i{Si vera lectio}, the equation between @akk{SAG#} and @i{bītu} is probably based on @akk{SUK} = @i{bītu} in @i{Aa} I/2 211 (see the previous line).
+11. !bs GA₂ !cm : ša₂-kan : !bs si-ma-{+nu}EN : SI !cm : re-tu-u ša₂ te-me-en-na : !bs MA# !cm : E₂ : !bs EN !cm : be-lu₄#
+#lem: +šakānu[put//putting]V'N$; +šakānu[put//putting]V'N$šakān; +Simānu[]MN$; retû[driving in]'N; retû[driving in]'N; ša[of]DET; +temmēnu[foundation]N$temmēna; bītu[house]N; bītu[house]N; bēlu[lord]N; bēlu[lord]N
+
+#note: The same entry can be found in BM 36595+ l. 13 (@i{CCP} 7.2.u103).
+12. !cm lib₃-bu-u {d}EN.KI {d}UTU u {d}ŠA₃.ZU ba-bi-lu re-e?#-[(x x)] a-ma-tu₂#
+#lem: libbū[from out of]PRP; Enki[1]DN; Šamaš[1]DN; u[and]CNJ; Šazu[1]DN; +bābilu[bringer]N$; u; u; amātu[word]N
+
+#note: The same entry can be found in BM 36595+ l. 15 (@i{CCP} 7.2.u103). 
+13. !cm ina {iti}SIG₄ U₄ 18.KAM URU₄ e₂-sag-gil na-di : !bs {d}EN.NU.GI !cm [: {d}DI].KU₅ : MIN : {d}SIG₄
+#lem: ina[from]PRP; Simanu[1]MN; ūmu[day]N; n; +uššu[foundation(s)]N$ušši; +Esaggil[]TN$; nadi[abandoned]AJ; Ennugi[1]DN; Madānu[1]DN; šanîš[alternatively]AV; Kulla[1]DN
+
+14. !cm e₂-sag{+an}-gil ša₂ GIM šu-me-šu-ma šu-šu-bu ina# lib₃#-bi#-šu₂# pa?#-[ra?-ak?]-ki?# NUN {d}AMAR.UTU
+#lem: +Esaggil[]TN$; ša[who]REL; kīma[like]PRP; +šumu[name]N$šumēšūma; +šūšubu[settled]AJ$; ina[in]PRP; libbišu[interior]N; +parakku[cult dais]N$; rubû[prince]N; Marduk[1]DN
+
+#note: The tentative reading of @akk{pa?#-[ra?-ak?]-ki?#} is courtesy of I. L. Finkel. On the phrase @i{ša kīma šumīšīma} for introducing notarikon analyses, see Gabbay @i{The Exegetical Terminology of Akkadian Commentaries} (@i{CHANE} 82, 2016) p. 92 fn. 45 and Jiménez @i{The Babylonian Disputation Poems} (@i{CHANE} 87, 2017), commentary on @i{Series of the Spider} l. 22.
+15. !bs SI !cm : a-ša₂-bu : !bs ŠA₃ !cm : lib-bi : !bs AN !cm : šu₂{+u} : !bs SAG# !cm [: x x x] GIL# [:] a-ša₂-bu
+#lem: +ašābu[sit (down)//sitting (down)]V'N$; ašābu[sitting (down)]'N; +libbu[inner body]N$; +libbu[inner body]N$libbi; +šū[he]IP$; +šū[he]IP$; u; u; u; u; +ašābu[sit (down)//sitting (down)]V'N$; ašābu[sitting (down)]'N
+
+16. !bs SI !cm : ru-bu-u₂ : !bs GIL !cm : {d}AMAR.UTU ($___$)
+#lem: +rubû[prince]N$; rubû[prince]N; +Marduk[]DN$; Marduk[1]DN
+
+$(reverse)
+
+17. !bs {d}GAŠAN-{+ni-na₂-a}NINA !zz : !qt NINA ni-na-a ša₂ eš₃-še-ku ku-u₂#-a# i#-gub# ki#-ki# [x x x x]
+#lem: +Belet-Ninua[]N$; +ninâ[the sign NINA]N$; +ninâ[the sign NINA]N$; ša[of]DET; +eššeku[the sign AB]N$; +kūʾa[the sign HA]N$; igub[inscribed sign]AJ; +kiki[the sign KI]N$; u; u; u; u
+
+#note: Quotation from @i{Diri} I 241. The speculation on @i{ṣippatu} might have been triggered by @i{Diri} VI/B 28, in which the @i{diri}-composite @akk{TI.HA} (read as @akk{da-na-a-a}) is said to mean @i{ṣippatu}. The “Lady of Nineveh” is thus explained as the “Lady of the Orchard.”
+18. !bs ṣip-pa-tu₂ !cm : ŠE.NUMUN !zz : %sux {ŋeš}an-na u₃-suh₅ : %sb ṣip-pa-tu₄ : %sux {ŋeš}an-na u₃-suh₅ : %sb NUMUN# [{giš}U₃.SUH₅]
+#lem: +ṣippatu[fruit orchard]N$; +zēru[seed(s)]N$; +a'an[spadix//date spadix]N'N$a'an/{ŋeš}an-na#~; usuh[tree//a tree]N'N$usuh/u₃-suh₅#~; +ṣippatu[fruit orchard]N$; aʾan[date spadix]N; usuh[a tree]N; zēru[seed(s)]N; ašūhi[pine-tree]N
+
+#note: The equation @akk{{giš}AN.NA.U₃.KU} = @i{ṣippatu} can be found in @i{Ḫḫ} III 86 (@i{MSL} 5 p. 100). The restoration at the end is uncertain.
+19. !bs ta-rin-na-tu₂ ina ŠU-MIN-šu₂ na-ši !zz : !bs ta-ru-u !cm : ru-ub-bu-u : !bs GAŠAN#{+tu₄} !cm : be-el#-[tu₄]
+#lem: +terinnu[cone]N$tarinnatu; ina[in]PRP; qātīšu[hand]N; naši[standing up]AJ; tarû[lifting up]'N; +rabû[be big//bringing up]V'N$rubbû; +bēltu[lady]N$; +bēltu[lady]N$
+
+>> A 19
+20. !cm be-el-tu₄ mu-rab-bat ki mu-še-niq-qu-u₂-tu₂ : !bs a#-šu-hu# !cm : ša₂-a-hu : ra-bu#-[u]
+#lem: bēltu[lady]N; +murabbītu[foster-mother]N$murabbât; +kī[like]PRP$; +mušēniqūtu[profession of wet nurse]N$; +ašūhu[pine-tree]N$; +šâhu[grow (tall)//growing (tall)]V'N$; +rabû[be big//being big]V$
+
+>> A 20
+#note: Note that in the commentary on @i{Enūma eliš} and “Marduk’s Ordeal” [Bēlet]-Ninua is identified as Bēl’s nanny: see da Riva & Frahm, “Šamaš-šumu-ukīn, die Herrin von Ninive und das babylonische Königssiegel” @i{AfO} 46/47 (1999/2000) p. 174 and Frahm & Jiménez, “Myth, Ritual, and Interpretation. The Commentary on Enūma eliš I–VII and a Commentary on Elamite Month Names” @i{HeBAI} 4 (2015) p. 316. The abstract noun @i{mušēniqūtu} is a hapax legomenon.
+21. !bs ša₂ SAG.GIL.MUD ši-i !zz : !bs SAG !cm : ar-kat₃ : !bs GIL !cm : {d}AMAR#.UTU# : !bs MUD !cm : DU₃
+#lem: ša[of]DET; +sangilimud[(a bluish stone)]N$; šī[she]IP; +arkatu[rear]N$; arkat[rear]N; Marduk[]DN; Marduk[1]DN; +epēšu[do//doing]V'N$; +epēšu[do//doing]V'N$
+
+#note: The idiomatic meaning of the sentence obtained by notarikon analysis, “she ‘made’ the back of Marduk,” must be “she brought up Marduk” @i{vel sim.}, but no parallels to it could be found.
+>> A 21
+22. !bs {d}e₂-a !cm : LUGAL ap-si-i# : !bs E₂ !cm : LUGAL : !bs A !cm : ap#-su-u₂
+#lem: Ea[1]DN; šar[king]N; Apsi[1]GN; +šarru[king]N$; šarru[king]N; +Apsu[]GN$; Apsu[1]GN
+
+>> A 22
+23. !qt %sux {d}am-an-ki lugal engur-ra me-na huŋ-ŋa₂ hu#-mu#-ra#-ab#-be₂#
+#lem: Enki[1]DN; lugal[king]N; engur[(cosmic) underground waters]N; menam[when?]N; +huŋ[pacify//to pacify]V/t'V/t$huŋa/huŋ-ŋa₂#~; e[perfect plural and imperfect stem of dug⟦to speak⟧]V/t
+
+>> A 23
+#note: The line is a quotation from the bilingual @i{šuʾila} Marduk 1 l. 18 (VAT 8411 and dupls., Maul @i{Fs Borger} 1998 pp. 165f). Note that the related commentary BM 36595+ l. 26 (@i{CCP} 7.2.u103) cites l. 25 of the same text.
+24. ($___$) !qt %sb {d}e₂-a LUGAL ap-si-i ma-ti nu-uh liq-bi-ka
+#lem: Ea[1]DN; šar[king]N; Apsi[1]GN; mati[when?]AV; +nâhu[rest]V$nūh; liqbika[say]V
+
+>> A 24
+25. !bs {d}e₂-a !cm : ba-nu-u ŠE.NUMUN : !bs E₂ !cm : ba-nu-u : !bs A !cm : ši-ir-ki : A : ŠE.NUMUN#
+#lem: Ea[1]DN; banû[creating]'N; +zēru[seed(s)]N$zēri; +banû[create//creating]V'N$; banû[creating]'N; +šerku[gift]N$; +šerku[gift]N$širki; +zēru[seed(s)]N$; +zēru[seed(s)]N$
+
+>> A 25
+#note: The equation of @i{širku} with @akk{A} is elsewhere unattested.
+26. !bs {d}e₂-a !cm : ba-nu-u šip-tu₄ : !bs E₂ !cm : ba-nu-u : !bs A !cm : mu-u₂ :# A : šip-tu₄#
+#lem: Ea[1]DN; banû[creating]'N; +šiptu[incantation]N$; banû[creating]'N; banû[creating]'N; +mû[water]N$; +mû[water]N$; +šiptu[incantation]N$; +šiptu[incantation]N$
+
+>> A 26
+27. !qt {d}e₂-a ha-si-su mim-mu-u₂ i-še-eʾ šib-qi₂#-šu-[un]
+#lem: Ea[1]DN; +hāsisu[knowing]N$; mimmû[all that]'REL; +šeʾû[seek (out)]V$išeʾʾe; +šibqīšun[scheme]N
+
+>> A 27
+#note: The line contains a quotation from @i{Enūma eliš} I 60 (not noted by Lambert @i{Babylonian Creation Myths} [2013] p. 60).
+28. !zz [(x) !bs {d}]AM?#.GAR.UD !cm : EN u₄-mu : !bs AN !cm : EN : !bs U₄ !cm :# u₄#-mu : [(x)]
+#lem: u; +Amgarud[]DN$; bēl[lord]N; ūmu[day]N; +bēlu[lord]N$; +bēlu[lord]N$; ūmu[day]N; ūmu[day]N; u
+>> A 28
+#note: The divine name is elsewhere unattested. The equation @akk{AM} = @i{bēlu} is attested elsewhere: see @i{CAD} B 195b.
+29. !bs [{d}AM].GAR.A !zz : !bs AM !cm : be-lu₄ : !bs GAR{+ga-ar₂} !cm : ra-mu-u₂ : !bs MIN !cm : a-ša₂-bu#
+#lem: +Amgara[]DN$; +bēlu[lord]N$; bēlu[lord]N; +ramû[throw//dwelling]V'N$; +ramû[throw//dwelling]V'N$; šanîš[alternatively]AV; ašābu[sitting (down)]'N
+>> A 29
+#note: The divine name is elsewhere unattested. Perhaps @i{hamšā}, “fifty”?
+30. !zz [x x] lib₃?#-bi-šu₂ a-ša₂-ab : ša₂-niš !bs {d}ša₃-maš₂?# !zz : !bs ŠA₃ :# !cm lib#-bi# [:] !bs MAŠ₂?# !cm : bi-[ri]
+#lem: u; u; libbišu[heart]N; +ašābu[sit (down)//sitting (down)]V'N$ašāb; šanîš[alternatively]AV; Šamaš[1]DN; +libbu[inner body]N$; +libbu[inner body]N$libbi; bīru[divination]N; bīri[divination]N
+>> A 30
+#note: The readings adopted follow the commentary on @i{Enūma eliš} l. 44′ (Frahm & Jiménez @i{HeBAI} 4 [2015] p. 309).
+31. !zz [: x x] x !qt {d}ŠA₃#.ZU# mu#-de#-e lib₃-bi DINGIR-MEŠ# [ša₂ i-bar]-ru#-u₂ kar-[šu]
+>> A 31
+
+#note: The correct reading of the line was suggested by I.L. Finkel. It contains a quotation from @i{Enūma eliš} VII 35 (not noted by Lambert @i{Babylonian Creation Myths} [2013] p. 134).
+$ double ruling
+32. !zz [ša₂ pi]-i {lu₂}um-man-nu bar?#-sip?#[{ki?} x x x x x (x)]
+#lem: ša[of]DET; pî[accordance]N; ummannu[scholar]N; Borsippa[1]SN; u; u; u; u; u; u
+
+#note: The last signs could be read as @akk{maš?#-ʾa?#-[al-tu₂]}
+33. !zz [x x x] x# x# {d#}x# x# [...]
+#lem: u; u; u; u; u; u; u; u
+
+&P461233 = CCP 7.1.6.A.a (http://ccp.yale.edu/P461230) = BM 47661
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+
+#link: def A = ccpo:Q005183 = Commentary on Ritual Text (BM 47458 // BM 47661)
+
+@tablet
+
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+>> A 19
+2'. !zz [... !cm mu-še]-niq-qu-u₂-tu₂# :# !bs a#-šu#-hu# [x x x (x x x)]
+#lem: u; mušēniqūtu[profession of wet nurse]N; ašūhu[pine-tree]N; u; u; u; u; u; u
+
+>> A 20
+3'. !zz [...] !cm ar-kat₃ : !bs GIL !cm : {d}AMAR.UTU :# [x x x]
+#lem: u; arkat[rear]N; Marduk[1]DN; Marduk[1]DN; u; u; u
+
+>> A 21
+4'. !zz [...] !cm :# LUGAL : !bs A !cm : ap-su#-[u₂ (...)]
+#lem: u; šarru[king]N; Apsu[1]GN; Apsu[1]GN; u
+
+>> A 22
+5'. !zz [... !qt %sux me]-na# huŋ-ŋa₂ hu-mu-ra#-[ab-be₂]
+#lem: u; menam[when?]N; huŋ[to pacify]V/t; e[perfect plural and imperfect stem of dug⟦to speak⟧]V/t
+
+>> A 23
+6'. !zz [...] !qt %sb ma#-ti nu-uh liq-bi-ka ($___$)
+#lem: u; mati[when?]AV; nūh[rest]V; liqbika[say]V
+
+>> A 24
+7'. !zz [... !cm  ba]-nu#-u : !bs A !cm : ši-ir-ki : A : ŠE#.[NUMUN]
+#lem: u; banû[creating]'N; šerku[gift]N; širki[gift]N; zēru[seed(s)]N; zēru[seed(s)]N
+
+>> A 25
+8'. !zz [... !cm ba]-nu#-u : !bs A !cm : mu-u₂ :# A : [šip-tu₄]
+#lem: u; banû[creating]'N; mû[water]N; mû[water]N; šiptu[incantation]N; šiptu[incantation]N
+
+>> A 26
+9'. !zz [... !qt i]-še#-eʾ šib-qi₂-šu-[un]
+#lem: u; išeʾʾe[seek (out)]V; šibqīšun[scheme]N
+
+>> A 27
+10'. !zz [...] !cm EN# : !bs U₄ !cm : u₄-mu :# [(x)]
+#lem: u; bēlu[lord]N; ūmu[day]N; ūmu[day]N; u
+
+>> A 28
+11'. !zz [...] !cm ra#-mu-u₂ : !bs A !cm : a#-[ša₂-bu]
+#lem: u; ramû[dwelling]'N; Apsu[1]GN; ašābu[sitting (down)]'N
+
+>> A 29
+12'. !zz [...] !bs ŠA₃# !cm : lib#-bi# : !zz [x x x]
+#lem: u; libbu[inner body]N; libbi[inner body]N; u; u; u
+
+>> A 30
+13'. !zz [... !qt DINGIR]-MEŠ# ša₂# i#-bar#-ru#-[u₂ kar-šu]
+#lem: u; ilī[god]N; ša[of]DET; ibarrû[see]V; karšu[stomach]N
+
+>> A 31
+
+@translation parallel en project
+
+1'. ...
+2'. [... “a we]t nurse.” (The explanation is also justified because) “Pine” (@i{ašūḫu}) [(stems from) ...]
+3'. [... means] “back,” @i{gil} means “Marduk,” [...]
+4'. [...] means “king” and @i{a} means “Aps[û,”]
+5'. [...] say to you, ‘Until when? Relent!’”
+6'. [(in Akkadian) “May [...] say to you, ‘Until when? Relent!’” (= quotation from the bilingual @i{šuʾila}-prayer @i{Marduk} 1).
+7'. [... means “to cr]eate” and @i{a} means “oblate,” (whence) @i{a} means “se[ed.”]
+8'. [... means “to cr]eate” and @i{a} means “water,” (whence) @i{a} means [“spell.”]
+9'. [...] perceived their tricks” (= quotation from @i{Enūma eliš} I 60).
+10'. [... means] “lord,” @i{u}₄ means “day,” [...]
+11'. [... means] “to cast down,” @i{a} means “to d[well”].
+12'. [...] @i{šà} means “heart,” [...]
+13'. [... of the god]s, who sa[w the reins]” (= quotation from @i{Enūma eliš} VII 35).

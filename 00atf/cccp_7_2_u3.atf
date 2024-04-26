@@ -1,0 +1,38 @@
+&P348583 = CCP 7.2.u3 (http://ccp.yale.edu/P348583) = W 22307/53
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...]-um-ma [...]
+#lem: u; u
+
+2'. !zz [...] x# [...]
+#lem: u; u; u
+
+3'. !zz [... {d}EREŠ].KI#.GAL DINGIR-MEŠ i-bil#-[...]
+#lem: u; Ereškigal[1]DN; ilī[god]N; u
+
+4'. !zz [...] !bs ki-gal-la : !cm KI{+ti₃} ša₂ mi-[tu-ti !zz ...]
+#lem: u; kigallu[socle//underworld]N'N$kigalla; erṣetu[earth]N$erṣeti; ša[that]REL; +mītu[dead]N$mītūti; u
+
+5'. !zz [...] x# x# x#-bad [...]
+#lem: u; u; u; u; u
+
+6'. !zz [... {lu₂}]MIN{+u₂} u a-hur-ri-i [...]
+#lem: u; šanû[second]NU$; u[and]CNJ; +ahurrû[junior]N$ahurrî; u
+
+#note: The first preserved sign is not @i{šá}, but MIN. The parsing of the signs as @i{šanû} is very uncertain.
+7'. !zz [...] x# [...]
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] Ereškigal [...] the gods [...],
+4'. [...] @i{kigallu} means “the land of the dead” [...],
+5'. ...
+6'. [...] the @i{second} and the younger child [...].
+7'. ...

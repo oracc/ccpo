@@ -1,0 +1,209 @@
+&P459065 = CCP 4.2.B (http://ccp.yale.edu/P459065) = 11N-T4
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+$(obverse)
+1. !zz * NA MURUB₄-MEŠ-šu₂ GU₇-MEŠ-šu₂ : !bs mun-ga !cm : mur-ṣu
+#lem: amēla[man]N; +qablu[hips]N$qablāšu; ikkalūšu[hurt]V; munga[cramp]N; murṣu[illness]N
+
+2. !bs {u₂}tun₃-lal !zz {(he-pi₂ eš-šu₂)} !bs ina U₄ 4.KAM₂ DU₈ !cm : ina re-bi-i U₄{+mu}
+#lem: +tullal[(a plant)]N$; hepi[broken]AJ; eššu[new]AJ; ina[on]PRP; ūmi[day]N; n; +paṭāru[loosen//loosening]V'N$paṭāri; ina[in]PRP; +rebû[fourth]N$rebî; ūmu[day]N
+
+#note: Civil suggests that the plant @akk{{u₂}TUN₃.LA₂} is a variant writing of @akk{{u₂}tu-lal} and @akk{{u₂}tul₂-lal}
+
+3. !cm pa-ṭa-ri !zz {(he-pi₂ eš-šu₂)} !cm ba-ah-ri ta-šah₂-hal
+#lem: +paṭāru[loosen//loosening]V'N$paṭāri; hepi[broken]AJ; eššu[new]AJ; +bahru[boiling hot]AJ$bahri; +šahālu[sieve]V$tašahhal
+
+4. !bs E₃ !cm : ša₂-ha-lu₄ : !bs BI !zz {(he-pi₂ eš-šu₂)} !bs ZI₃ !cm : pa-ru-ru ša₂ qe₂-mi
+#lem: +šahālu[sieve//sieving]V'N$; +šahālu[sieve//sieving]V'N$; šū[that]IP; hepi[broken]AJ; eššu[new]AJ; +qēmu[flour]N$; +parūru[(a drug)]N$parūru; ša[of]DET; +qēmu[flour]N$qēmi
+
+#note: As noted in @i{CAD} P 211b, the phrase @i{parūr buqli}, attested in  @i{Uruanna}, suggests that @akk{pa-ru-ru} is a form of malt. @i{AHw} suggests that it is a drug of some kind.
+
+5. !bs {u₂}di-šu-tu₂ !cm : {u₂}di-i-šu₂ 
+#lem: +dīšu[(spring) growth]N$dīšūtu; +dīšu[(spring) growth]N$
+
+6. !bs * NA tu-lim-šu₂ GU₇-šu₂ aš-rat {d}AMAR.UTU KIN.KIN-ma TI{+uṭ} !cm ša₂ E{+u}
+#lem: amēla[man]N; +ṭulīmu[spleen]N$ṭulīmšu; ikkalšu[hurt]V; +ešertu[chapel]N$ašrāt; Marduk[1]DN; tešteneʾʾima[seek]V; iballuṭ[recover]V; ša[whom]REL; qabû[said]AJ
+
+#note: As Civil (p. 337) observes, ll. 6-19 comment on @i{BAM} 77: 20' ff. // @i{BAM} 78: 1 f. Line 6 of the commentary comments on @i{BAM} 77: 21'.
+7. !cm ina ŠA₃ ša₂* ŠA₃.GIG : {d}SAG.ME.GAR : ŠA₃.GIG : ṭu-li-mu
+#lem: ina[in]PRP; libbi[interior]N; ša[of]DET; +šagikku[spleen]N$; +nēberu[Jupiter]CN$; +šagikku[spleen]N$; +ṭulīmu[spleen]N$
+
+#note: The commentary seeks to demonstrate the coherence of protasis and apodosis by proving that the "spleen" and Marduk (represented by the planet Jupiter) are connected.
+8. !bs ŠIM GU₄ HAD₂.A SUD₂ !cm : ana ga-bi-du al-pi tu-ub-bal
+#lem: +rīqu[aromatic substance]N$rīq; alpi[ox]N; tubbal[dry (up)]V; tasâk[pound]V; ana[according to]PRP; gabīdu[liver]N; alpi[ox]N; +abālu[dry (up)]V$tubbal
+
+#note: As observed by Civil (p. 337), this line comments on @i{BAM} 77: 24'. The plant @i{gabid alpi} is otherwise unattested, but the plant @i{gabīd ubarri} ("wolf's liver") is equated with @i{bīnu} ("tamarisk"): see @i{CAD} G 6b, lexical section.
+
+9. !cm ta-sa-ku <:> !bs ma-haṣ !cm : ba-a-a-ri GIM pa-ni SUR₂.DU₃*{mušen}
+#lem: +sâku[pound]V$tasâku; +mahāṣu[beat//beating]V'N$mahāṣ; +bayyāru[huntsman]N$; kīma[according to]PRP; pāni[front]N; surdû[hawk]N
+
+#note: The restoration of the separation 'colon' after @akk{ta-sa-ku} follows Civil (p. 337). He suggests reading @akk{ma-TAR} as @akk{ma-haṣ} on the grounds that the act of striking could have been associated with hunting, although he also acknowledges the possibility of reading @akk{ma-kut} on the grounds of the phonetic connection between @akk{ma-kut} and @akk{ga-bid}. As Civil observes, the entry beginning @akk{ma-TAR} may contain a comment on @i{BAM} 77: 25', since one could restore @akk{ba-a-a-ri} in that line, which in its current state of preservation reads @akk{[...] x a-a-ri ik-ta-na-su-us}. Although "the huntsman repeatedly gnaws" would be an unusual phrase to encounter in a medical text, Civil suggests that it could be a simile (i.e., one could restore @akk{GIM} in the preceding break in @i{BAM} 77: 25') that refers to an otherwise unattested hunting custom. To return to the commentary, if the entry beginning @akk{ma-TAR}is indeed a comment on @i{BAM} 77: 25', one would (as Civil acknowledges) expect the phrase beginning @akk{ba-a-a-ri} to be cited in the commentary first, as the base text; instead, however, it seems to function here as the means of explanation. Civil therefore proposes that the word @akk{SUR₂.DU₃*{mušen}} is cited because of the possibility of reading it as @i{kasūsu} ("falcon"), which would be phonetically similar to the verbal form @i{iktanassus} in the proposed base text.
+
+10. !bs tu₉-lim MAŠ₂ !cm : ṭu-li-mu MAŠ₂.ZU ša₂ E{+u₂*}
+#lem: +ṭulīmu[spleen]N$ṭulīm; bīru[divination]N; +ṭulīmu[spleen]N$ṭulīm; kizzi[(young male) goat]N; ša[which]REL; iqbû[say]V
+
+#note: As noted by Civil (p. 337), the basis for equating KU-ŠI with @i{tulīmu} ("spleen") is unclear. It probably represents a fanciful reading of @akk{KU-ŠI} as @akk{tu₉-lim}, vel sim. [EJ]. He proposes that @akk{MAŠ₂.ZU}, i.e. @i{kizzu} ("young male goat) is cited because of its phonetic similarity with @i{iktanassus} (see preceding note).
+
+11. !cm {mul}SUHUR.MAŠ₂ {kur}su-bar-tu₂ u ERI.DU₁₀
+#lem: Suhurmašu[Goatfish]CN; +Subartu[]GN$; u[and]CNJ; +Eridu[]GN$
+
+#note: Civil (p. 337) suggests that Capricorn (@akk{{mul}SUHUR.MAŠ₂}) is cited here because of its phonetic similarity with @i{iktanassus} (see preceding notes).
+
+12. !cm an-du-hal-la-tu₂ ša₂ E{+u₂*} : NIR.UŠUMGAL : an-da-hal-lat
+#lem: +anduhallatu[(a kind of) lizard]N$; ša[which]REL; iqbû[say]V; +anduhallatu[(a kind of) lizard]N$; +anduhallatu[(a kind of) lizard]N$anduhallat
+
+#note: As noted by Civil (p. 337), the word @i{anduḫallatu} appears several times in @i{BAM} 77 from l. 34' on.
+13. !qt ana-ku {d}ASAR.LU₂.HI UŠUMGAL {d}a-nun-na-ki lab*-bi {d}i₂*-gi₃-gi₃
+#lem: anāku[I]IP; Asalluhi[]DN; ušumgal[great dragon]N; Anunnakkū[1]DN; labbi[lion]N; Igigi[]DN
+
+14. !bs PAP.ŠEŠ SIM{+tu₄} šu-um-ša₂ !cm : nap-pu-u₂ u na-pi-tu₂ šum-šu₂*
+#lem: +nappû[sieve]N$; +nappītu[sieve]N$; +šumu[name]N$šumša; +nappû[sieve]N$; u[and]CNJ; +nappītu[sieve]N$; šumšu[name]N
+
+15. !cm PAP{+pa-ap-ur₂}.ŠEŠ : nap-pu-u₂ : SIM : na-pu-u₂
+#lem: +nappû[sieve]N$; +nappû[sieve]N$; +napû[sieve//sieving]V'N$; +napû[sieve//sieving]V'N$
+
+#note: As Civil (pp. 337-8) notes, the equation @akk{PAP.ŠEŠ} = @i{nappû} is new. It may have appeared in the @i{npʾ} section of @i{Nabnītu}, which is only partly preserved.
+
+16. !bs ina na-aṣ-ṣa-bu lab-bi li-nu-uh
+#lem: ina[in]PRP; +naṣṣabu[(a type of cucumber)]N$; +libbu[inner body]N$labbi; linūh[appease]V
+
+17. !cm ina na-ṣa-bu lib₃-bi li-nu-uh : {u₂}nu-ṣa-bu
+#lem: ina[in]PRP; +naṣṣabu[(a type of cucumber)]N$naṣābu; libbi[interior]N; linūh[appease]V; +nuṣābu[(a medicinal plant)]N$
+
+18. !cm {u₂}ku-uk-ka-ni-ti 5 la-a-ri ša₂-kin
+#lem: +kukkānītu[(a garden plant)]N$; n; +larû[branch]N$lārī; šakin[placed]AJ
+
+19. !bs {u₂}hal-la-pa-a-na !cm : {u₂}hal-tap-pa-na : {u₂}tu-uš-ru
+#lem: +haltappānu[(a plant)]N$hallapāna; +haltappānu[(a plant)]N$haltappāna; +tušru[(a plant)]N$
+
+#note: The otherwise unattested term @i{ḫallapānu} may, as Civil suggests, be a result of a scribal error for @i{ḫaltappānu} on the tablet of the base text. The plant @i{tušru} appears rarely, and only in therapeutic texts: see Heeßel @i{Iraq} 65 (2003) p. 231, §27, l. 17. See also BM 66560 r 4' and BM 67158 4' (information and references courtesy of H. Stadhouders).
+20. !bs * NA BIR-su GU₇-šu₂ ŠU* {d}nergal ša₂ E{+u₂*}
+#lem: amēla[man]N; +kalītu[kidney]N$kalīssu; ikkalšu[hurt]V; qātī[hand]N; +Nergal[]DN$; ša[which]REL; iqbû[say]V
+
+#note: As Civil (p. 338) notes, this section of the text resembles the MB Nippur tablet CBS 19801 (@i{BAM} 396) i 23' ff.
+$(reverse)
+21. !cm {mul}BIR : {d}ṣal-bat-a-nu : !bs {giš}U₂.GIR₂.LAGAB !cm : pu-qut-tu₂
+#lem: Kalītu[Kidney]CN; Ṣalbatanu[Mars]'DN; +puquttu[thorn]N$; +puquttu[thorn]N$
+
+#note: The commentary seeks to prove that the "kidney" in the protasis is related to "Nergal" in the apodosis. As Civil (p. 338) notes, the astrological equation between 'Kidney' and Mars is attested elsewhere.
+22. !bs mu-ṣa !cm : hi-niq₂-tu₄ : !bs BAR U₄{+mu} !cm : mi-šil ta-am-mu
+#lem: +mūṣu[exudation]N$; +hiniqtu[constriction]N$; +mišlu[half]N$mišil; ūmu[day]N; mišil[half]NU; +tūʾamu[twin]N$tammu
+
+#note: As noted by Civil (p. 338), this line parallels @i{BAM} 396 i 24'. The second equation is based on the possibility of reading @akk{U₄{+mu}} as @akk{tam-mu}. As noted by Civil, @i{tammu} is either a Sumerian loanword (@i{tam-ma} = @i{talīmu}, according to several sources) or an alternative phonetic interpretation of @i{tū(ʾ)amu}, "twin."
+
+23. !cm ŠA₃{+u₂} mi-šil ša₂ ma-<ši> ša₂-niš BAR U₄{+mu} : mi-šil U₄{+mu}
+#lem: +libbū[from out of]PRP$; mišil[half]NU; ša[of]DET; +māšu[twin (brother/sister)]N$māši; šanîš[alternatively]AV; +mišlu[half]N$mišil; ūmu[day]N; mišil[half]NU; ūmu[day]N
+
+#note: The restoration  @akk{mi-šil ša₂ ma-<ši>} follows Civil (p. 338).
+24. !bs muš₂-tin-ni-šu₂ !cm : mu-uš-tin-ni : pi-il-šu₂ ša₂ u₂-ša₂-ri
+#lem: +muštinnu[urethra]N$muštinnīšu; +muštinnu[urethra]N$muštinni; pilšu[perforation]N; ša[of]DET; ušari[penis]N
+
+#note: As noted by Civil (p. 338), this line parallels BAM 396 i 29'.
+25. !bs šu₂-hi-šu₂ !cm : šu-uh-ha-šu₂ : !bs em-ra u₂-zaq-qa-ta-šu₂
+#lem: +šuhhu[buttock]N$šūhīšu; +šuhhu[buttock]N$šuhhašu; +emru[swollen//swollen part]AJ'N$emra; uzaqqataššu[sting]V
+
+26. !cm e-me-ri : na-pa-ha : !bs u₂-har-ra-aṣ !cm : u₂-bat-taq
+#lem: emēru[swelling]'N; +napāhu[blow//kindling]V'N$napāha; +harāṣu[break off]V$uharraṣ; +batāqu[cut off]V$ubattaq
+
+27. !bs mi-sis tam-ti₃ !cm : mi-ši-is-su tam-ti₃ : !bs {u₂}ha-hi-in !cm : pu-qut-tu₂
+#lem: +misissu[meerschaum]N$misis; tâmti[sea]N; +misissu[meerschaum]N$mišissu; tâmti[sea]N; hahin[(a thorny plant)]N; puquttu[thorn]N
+
+$ single ruling
+@colophon
+
+28. !zz 24 pir-su bul-ṭu E₂ da-bi-bi NU AL.TIL
+#lem: n; pirsu[divison]N; bulṭu[treatment]N; bīt[house]N; dābibi[interlocutor]N; lā[not]MOD; qati[completed]AJ
+
+29. !zz UL šu-ut KA u maš-a-a-al-ti ša₂ KA um-ma-nu ša₂ ŠA₃
+#lem: +ṣâtu[commentary]N$; šūt[those of]DET; pî[mouth]N; u[and]CNJ; mašʾalti[questioning]N; ša[of]DET; pî[accordance]N; ummânu[expert]N; ša[of]DET; libbi[interior]N
+
+30. !zz * NA MURUB₄-MEŠ-šu₂ GU₇-MEŠ-šu₂
+#lem: amēla[man]N; qablāšu[hips]N; ikkalūšu[hurt]V
+
+31. !zz * NA ina KAŠ₃-šu₂ MUD₂ u₂-tab-ba-kam
+#lem: amēlu[man]N; ina[in]PRP; šīnātišu[urine]N; dāmi[blood]N; +tabāku[pour (out)]V$utabbakam
+
+32. !zz {im}gi₃-ṭa {m}{d}en-lil₂-KAD₂ {lu₂}GALA {d}ALIM
+#lem: +giṭṭu[oblong tablet]N$giṭṭa; +Enlil-kaṣir[]PN; kalû[lamentation priest]N; +Ellil[]DN$
+
+33. !zz LU₂ DINGIR-BI {d}NUSKA.KE₄
+#lem: amēla[man]N; ilišu[god]N; Nusku[1]DN
+
+@translation labeled en project
+
+@label 1
+
+"If a man's middle hurts him" (= Incipit); "cramp" means "disease."
+
+@label 2 - 3
+
+The plant ú.@i{tùn-lal} @i{is the same as} (recent break). "@i{ina} U₄ 4.KÁM DU₈" means "to dissolve on the fourth day."
+
+@label 3 - 4
+
+(Recent break) means "you filter boiling hot ...," (since) È means "to filter" and BI means (recent break).
+
+@label 4
+(Recent break) ZÌ means "@i{parūru} of the flour."
+
+@label 5
+The @i{di-šu-tú}-plant means "growth" (@i{dīšu}).
+
+@label 6 - 7
+What it says, "If a man's spleen hurts him, he should visit the temple 
+of Marduk assiduously and he will live," is because (lit. "as in") ŠÀ.GIG means "Jupiter" and ŠÀ.GIG means "spleen."
+
+@label 8 - 9
+"ŠIM.GU₄ HAD₂.A SUD" (is said) with respect to "you should dry the plant 'liver of a bull' and grind it up."
+
+@label 9
+"@i{ma-ḫaṣ}" means "huntsman like the face of a falcon."
+
+@label 10 - 11
+What it says, "@i{tu₉-lim} MÁŠ" - i.e., "spleen of a young male goat" - refers to the constellation Capricorn (and) the land of Subartu and Eridu.
+
+@label 12 - 13
+What it says, "The constellation Capricorn, the land of Subartu and Eridu, the @i{anduḫallatu}-lizard" – NIR.UŠUMGAL means "@i{anduḫallatu}-lizard," (as in) "I am Asarluḫi, dragon of the Anunnaki, lion of the Igigi" (= quotation from @i{Marduk's Address to the Demons}).
+
+@label 14 - 15
+The sequence PAP.ŠEŠ SIM-@i{tu₄ šu-um-ša₂} means "its name is sieve and filter," since PAP.ŠEŠ, read /papur/, means "sieve," and SIM means "to sieve."
+
+@label 16 - 18
+The line @i{ina na-aṣ-ṣa-bu lab-bi li-nu-uh} means "May the heart calm down in the plant @i{naṣṣabu}!," (in which) @i{nuṣābu} means the plant @i{kukkānītu} with five branches.
+
+@label 19
+The plant @i{ḫallapānu} is the same as @i{ḫaltappānu} and @i{tušru}.
+
+@label 20 - 21
+What it says: "If a man's kidney (BIR) hurts him, it is the hand of Nergal" (= Incipit); the constellation Kidney (mul.BIR) is the planet Mars. 
+
+@label 21
+The plant giš.U₂.GIR₂.LAGAB is the same as the @i{puquttu} plant.
+
+@label 22 - 23
+The term "discharge" means "constriction." The phrase BAR U₄-@i{mu} means "half a @i{tammu}" (@i{mišil tammi}), as in "half of a twin" (@i{māšu}). Alternatively, BAR U₄-@i{mu} means "half a day."
+
+@label 24 - 25
+"His urethra" means "urethra," which means "the perforation of the penis."  The word @i{šú-ḫi-šú} means "his buttock." 
+
+@label 25 - 26
+"A swollen part causes him stinging pain" - "to swell" means "to become inflamed."
+
+@label 26
+"He diminishes" means "he cuts off."
+
+@label 27
+The phrase @i{mi-sis tam-tim} means "meerschaum." The plant @i{hahinnu} is the same as the plant @i{puquttu}.
+
+@label 28
+(Commentary on) the twenty-fourth section of @i{Bulṭu bīt Dābibi}. Incomplete.
+
+@label 29 - 31
+Lemmata (and) oral explanations, (materials for) a 'questioning,' following the sayings of a (master-)scholar, (relating to entries) from "If a man's middle hurts him" and "If a man pours out blood in his urine."
+
+@label 32 - 33
+One-column tablet of Enlil-kāṣir, lamentation priest of Enlil, whose personal god is Nuska.
+

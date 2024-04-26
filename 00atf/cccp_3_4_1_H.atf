@@ -1,0 +1,166 @@
+&P366009 = CCP 3.4.1.H (http://ccp.yale.edu/P366009) = 89-4-26,171
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !bs BE# x#-x#-x# !zz [x x x x x x x x x]
+#lem: šumma[if]MOD; u; u; u; u; u; u; u; u; u; u
+
+2'. !bs BE 10 ŠA₃.NIGIN x# !zz [x x x x x x x]
+#lem: šumma[if]MOD; n; tīrānu[coils]N; u; u; u; u; u; u; u; u
+
+3'. !bs BE ZE₂ šub-bat u# !zz [x x x x x x x]
+#lem: šumma[if]MOD; martu[gall bladder]N; +šubbu[trembling]AJ$šubbat; u[and]CNJ; u; u; u; u; u; u; u
+
+4'. !bs BE GAG.TI ša₂ 15 u 2.30# !zz [x x x x x x x]
+#lem: šumma[if]MOD; +siqqaṣṣēli[breasbone]N$; ša[of]DET; imitti[right]N; u[and]CNJ; +šumēlu[left]N$šumēli; u; u; u; u; u; u; u
+
+5'. !bs BE GAG.TI ša₂ !zz [x x x x x x x x x]
+#lem: šumma[if]MOD; +siqqaṣṣēli[breasbone]N$; ša[of]DET; u; u; u; u; u; u; u; u; u
+
+6'. !bs BE ŠA₃.NIGIN !zz [x x x x x x x]
+#lem: šumma[if]MOD; tīrānu[coils]N; u; u; u; u; u; u; u
+
+7'. !bs BE MURU₂ NIG₂.TAB [GIR₂ BAR-ma DU₈ !zz x x x x]
+#lem: šumma[if]MOD; qabal[middle]N; naṣrapti[Crucible (of the liver)]N; padāni[Path (on liver)]N; +zīzu[divided]AJ$zīzma; +paṭru[released]AJ$paṭer; u; u; u; u
+
+8'. !bs BE UGU{+nu} ME.NI [BAR-ma DU₈ !zz x x x x]
+#lem: šumma[if]MOD; elēnu[above]'PRP; +bābu[gate]N$bāb&+ēkallu[palace]N$ēkalli; zīzma[divided]AJ; paṭer[released]AJ; u; u; u; u
+
+# psu: bāb ēkalli [part of the liver] N
+
+9'. !bs BE SAG ZE₂ BAR-ma [DU₈ !zz x x x x x x x]
+#lem: šumma[if]MOD; rēš[top]N; martu[gall bladder]N; zīzma[divided]AJ; paṭer[released]AJ; u; u; u; u; u; u; u
+
+10'. !bs BE SAG ŠU.SI BAR-ma [DU₈ !zz x x x x x x x x x]
+#lem: šumma[if]MOD; rēš[top]N; +ubānu[finger//processus pyramidalis]N'N$; zīzma[divided]AJ; paṭer[released]AJ; u; u; u; u; u; u; u; u; u
+
+11'. !bs BE SAG BA₃ BAR-ma [DU₈ !zz x x x x x x x x x]
+#lem: šumma[if]MOD; rēš[top]N; +amūtu[liver]N$amūti; zīzma[divided]AJ; paṭer[released]AJ; u; u; u; u; u; u; u; u; u
+
+12'. !bs BE DU₈ DAL.BA.AN.NA BAR-ma [DU₈ !zz x x x]
+#lem: šumma[if]MOD; +piṭru[Fissure (on liver)]N$piṭir; +birītu[space between]N$birīti; zīzma[divided]AJ; paṭer[released]AJ; u; u; u
+
+13'. !bs BE x#-x#-li# x# x#-šu₂ ana ti-[x !zz x x x x x x x]
+#lem: šumma[if]MOD; u; u; u; ana[on]PRP; u; u; u; u; u; u; u; u
+
+14'. !bs BE NA GIM GIR₂ GIR₂ GIM NA e-ṣir x# !zz [x x x x x x]
+#lem: šumma[if]MOD; +mazzāzu[position]N$; kīma[like]PRP; +padānu[way]N$padāni; +padānu[way]N$; kīma[like]PRP; +mazzāzu[position]N$mazzāzi; +eṣru[drawn]AJ$eṣir; u; u; u; u; u; u; u
+
+$ single ruling
+15'. !zz an-nu-tu₄ UZU-MEŠ ša₂ {lu₂}HAL mam-[ma NU ZU{+u₂}]
+#lem: annûtu[this]DP; šīrū[ominous part]N; ša[of]DET; bārî[diviner]N; mamma[nobody]XP; lā[not]MOD; +edû[know]V$īdû
+
+$ single ruling
+16'. !bs BE NA kab-su KALAG BAL{+ut} u₂-[šal-lam-šu₂ !zz x x x x x]
+#lem: šumma[if]MOD; +mazzāzu[position]N$; +kabsu[trodden]V$; +danānu[power]N$; +nabalkutu[having crossed over]N$nabalkut; +šalāmu[be(come) healthy]V$ušallamšu; u; u; u; u; u
+
+#note: Restored with the @i{mukallimtu}-commentary on @i{Manzāzu} Rm.2,103 (CCP 3.4.3.A.a) iv 35, see Jeyes, U. @i{JEOL} 32 (1992/1992) pp. 35-36.
+17'. !bs BE KIŠIB 15 na*-hi*-is* ZE₂ na-ah-sat# SILIM{+at₂?#} !zz [x x x x x]
+#lem: šumma[if]MOD; +kunukku[vertebra]N$; imitti[right]N; +nahsu[(re)ceded]AJ$nahis; martu[gall bladder]N; +nahsu[(re)ceded]AJ$nahsat; salmat[peaceful]AJ; u; u; u; u; u
+
+#note: Collated. Compare Koch, U.S. @i{AOAT} 326 (2005) p. 345 l. 67.
+18'. !bs BE 10 ŠA₃.NIGIN u KIŠIB-MEŠ LA₂-MEŠ !zz [x x x x x x]
+#lem: šumma[if]MOD; n; tīrānu[coils]N; u[and]CNJ; kunukkū[vertebra]N; +nahsu[(re)ceded]AJ$nahsū; u; u; u; u; u; u
+
+#note: As pointed out by Frahm, E. @i{GMTR} 5 (2011) p. 190, obv 18'-20' seem to duplicate the @i{niṣirti bārûti} text from Koch @i{AOAT} 326 (2005) p. 339-340 no. 41 ll. 40-42. 
+19'. !bs BE 10 ŠA₃.NIGIN !zz [x x x x x x x x]
+#lem: šumma[if]MOD; n; tīrānu[coils]N; u; u; u; u; u; u; u; u
+
+20'. !bs [BE 10] ŠA₃.NIGIN !zz [x x x x x x x]
+#lem: šumma[if]MOD; n; tīrānu[coils]N; u; u; u; u; u; u; u
+
+$ rest of obverse broken
+
+@reverse
+
+1'. !bs BE [8 KIŠIB-MEŠ !zz x x x x x x x x]
+#lem: šumma[if]MOD; n; kunukkū[vertebra]N; u; u; u; u; u; u; u; u
+
+2'. !bs BE 9 [KIŠIB-MEŠ !zz x x x x x x x]
+#lem: šumma[if]MOD; n; kunukkū[vertebra]N; u; u; u; u; u; u; u
+
+3'. !bs BE 10 [KIŠIB-MEŠ !zz x x x x x x x]
+#lem: šumma[if]MOD; n; kunukkū[vertebra]N; u; u; u; u; u; u; u
+
+4'. !bs BE 11 KIŠIB-MEŠ ana UZU !zz [x x x x x x x x]
+#lem: šumma[if]MOD; n; kunukkū[vertebra]N; ana[to]PRP; +šīru[flesh]N$šīri; u; u; u; u; u; u; u; u
+
+5'. ($___$) !cm MUNUS.URU₃ x !zz [x x x x x x x x]
+#lem: +niṣirtu[treasure//secret]N'N$; u; u; u; u; u; u; u; u; u
+
+$ single ruling
+
+@m=division rubric
+
+6'. !zz an-nu-u₂ mu-kal-lim-tu₄ ša₂ šum*#-[ma IGI.BAR x x x x x x]
+#lem: annû[this]DP; mukallimtu[scholarly commentary]N; ša[of]DET; šumma[if]MOD; +naplastu[blinker]N$; u; u; u; u; u; u
+
+#note: On the reading of the line see the introduction to the commentary.
+$ single ruling
+7'. !zz BE{+ma} MU-MEŠ ša₂ ina ba-ru-ti KUR₂-MEŠ-ma# [GIŠKIM-šu₂-nu ana la-ma-di KUR{+at₂}]
+#lem: šumma[if]MOD; +šumu[name//line of text]N'N$šumātu; ša[of]DET; ina[in]PRP; bārûti[lore of the diviner]N; +nakru[strange]AJ$nakrūma; +ittu[sign]N$ittašunu; ana[to]PRP; +lamādu[learn//learning]V'N$lamādi; +kašdu[achieved//adequate]AJ'AJ$kašdat
+
+$ single ruling
+
+@catchline
+
+8'. !zz BE is-ri 15 ZALAG{+ir} BUR₃ ŠUB-ma IGI u ŠA₃*#.[NIGIN x x x x x x x x]
+#lem: šumma[if]MOD; +isru[a part of the exta]N$isri; imitti[right]N; +nawru[bright]AJ$namir; pilšu[Perforation (on liver)]N; +nadû[placed]AJ$nadima; +amru[seen]AJ$amir; u[and]CNJ; tīrānu[coils]N; u; u; u; u; u; u; u; u
+
+
+$ single ruling
+
+$ rest of reverse blank
+
+@translation parallel en project
+
+@obverse
+
+1'. If [...].
+2'. If the coils of the colon are 10 [...].
+3'. If the gall bladder is unsteady and [...].
+4'. If the right and left sides of the breastbone [...].
+5'. If the [...] sides of the breastbone [...].
+6'. If the coils of the colon [...].
+7'. If the center of the crucible of [the path is divided and loosen ...].
+8'. If the upper part of the palace [is divided and loosen ...].
+9'. If the head of the gall bladder is divided and [loosen ...].
+10'. If the head of the processus pyramidalis is divided [and loosen ...].
+11'. If the head of the liver is divided [and loosen ...].
+12'. If a split in the middle area is divided [and loosen ...].
+13'. If ... [...].
+14'. If the station is drawn like the path and the path like the station [...].
+$ single ruling
+15'. This are omens which [not] every diviner [knows].
+$ single ruling
+16'. If the station is obliterated and the reinforcement is crossed over: it will benefit him [...].
+17'. If the right vertebra is receded: It is favourable, [...].
+18'. If the coils of the colon are 10 and the intestines are receded, [...].
+19'. If the coils of the colon are 10 [...].
+20'. If the coils of the colon are 10 [...].
+
+$ rest of obverse broken
+
+@reverse
+
+1'. If [the vertebras are 8 ...].
+2'. If [the vertebras] are 9 [...].
+3'. If [the vertebras] are 10 [...].
+4'. If the vertebras are 11 [...].
+5'. secret [...].
+
+$ single ruling
+6'. This is a @i{mukallimtu}-commentary on “If [@i{the eye-slit} ...]."
+$ single ruling
+7'. Omens which are strange in extispicy and [their signs are suitable for learning].
+$ single ruling
+8'. If the right @i{Isru} is bright and there is a visible hole and the coils of the colon [...] (Catchline).
+
+$ single ruling
+
+$ rest of reverse blank

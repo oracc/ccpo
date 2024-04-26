@@ -1,0 +1,267 @@
+&P461210 = CCP 3.8.2.A (http://ccp.yale.edu/P461210) = BM 42286
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@top
+
+0. ($___$) !zz ina a-mat {d}EN u {d}AG liš-lim
+#lem: ina[by]PRP; amāt[command]N; Bel[1]DN; u[and]CNJ; Nabu[1]DN; lišlim[go well]V
+
+@obverse
+1. !bs * ina {iti}DU₆ UŠ₈ E₂ BAD-ma SIG₄ ŠUB{+di#} !cm [x x x x x x x !bs DINGIR-šu₂]
+#lem: ina[in]PRP; Tašritu[1]MN; uššī[foundation(s)]N; bīt[temple]N; +petû[open]V$iptēma; libitta[mudbrick]N; +nadû[throw (down)]V$iddi; u; u; u; u; u; u; u; ilšu[god]N
+
+#note: The commentary seems to explain the nameless god of the base text as the goddess Bēlet-ilī, whose constellation becomes visible during the month of Tašrītu.
+2. ($___$) !bs ina la-li-šu₂ US₂-MEŠ-šu₂ !cm : ME : la-lu-u₂ : ME : ne₂#-[me?-lu? x x x x]
+#lem: ina[in]PRP; +lalû[plenty]N$lalīšu; +redû[accompany]V$irteneddīšu; +lalû[plenty]N$; lalû[plenty]N; +nēmelu[profit]N$; nēmelu[profit]N; u; u; u; u
+
+#note: The equation ME = @i{lalû} is well attested, see CAD L 49a. The reading of the last word was suggested by I.L. Finkel.
+3. ($___$) !cm ina {iti}DU₆ {mul₂}NIN.MAH a-lit-tu₄ IGI{+mar} : {mul₂}NIN.MAH# [x x x x x]
+#lem: ina[in]PRP; Tašritu[1]MN; +Bēlet-ilī[]CN$; +wālittu[one who gives birth]AJ$ālittu; immar[experience]V; Bēlet-ilī[1]CN; u; u; u; u; u
+
+4. ($___$) !cm LA : la-lu-u₂ : la-lu-u₂ : ṣe*-her : LAH₄ : ša₂-la-lu : x# [x x x]
+#lem: +lalû[plenty]N$; lalû[plenty]N; +laliu[kid]N$lalû; ṣeher[small one]N; X; šalālu[carying off]'N; u; u; u; u
+
+#note: The equation LA = @i{lalû} is well attested, see CAD L 49a. The second equation is based on the homophone @i{lalû}, "kid, young goat." At the end of the line a tick from the head of a lower horizontal is visible on the tablet [ILF].
+5. ($___$) !cm UŠ : ša₂-la-lu : a-na du-un-qu u lum-nu qa-ba-a :. !bs * pa-an u ar#-[kat₃ x (x) !cm ša₂]
+#lem: +šalālu[carry off//carying off]V'N$; šalālu[carying off]'N; ana[to]PRP; dunqu[goodness]N; u[and]CNJ; lumnu[evil]N; qabâ[speech]N; +pānu[front]N$pān; u[and]CNJ; +warkatu[rear]N$arkat; u; u; ša[of]DET
+#note: As observed by U. Gabbay (personal communication), the strange spelling @i{qa-ba-a} is also attested in the commentary fragment CCP 3.1.u45 l. 10'. This may be indicative of some connection between the two commentaries.
+6. ($___$) !cm iš-ṭu-ru ki ta-mar*-tu₄ ša₂ {mul₂}zi-ba-ni-tu₄ : {mul₂}zi-ba-ni#-[tu₄ MUL₂ {d}UTU]
+#lem: +šaṭāru[write (down)]V$iṣturu; kī[when]'SBJ; tāmartu[appearance]N; ša[of]DET; Zibanitu[Scales]CN; Zibanitu[Scales]CN; kakkabi[star]N; Šamaš[1]DN
+
+#note: The collation @akk{mar*} is courtesy of I.L. Finkel.
+7. ($___$) !cm ša₂ ki-na-a-tu₄ : mu-šaq-qil-tu₄ : zi-ba-ni-tu₄ it-ti šit?#-[x x x]
+#lem: ša[of]DET; kīnātu[truth]N; +mušaqqiltu[scales]N$; zibānītu[weighing scales]N; itti[with]PRP; u; u; u
+
+#note: The reading ŠI[D? is courtesy of I.L. Finkel.
+8. ($___$) !cm a-na dum-qi₂ ša₂-ṭi-ir :. !bs * lu KUN.SAG lu UB.LIL₂.LA₂ lu BARA₂ lu BARA₂#.[SI (lu IM.DU₃.A) DU₃{+uš}]
+#lem: ana[to]PRP; dumqi[goodness]N; +šaṭru[written (down)]AJ$šaṭir; lū[or]CNJ; +muhru[appeal//(a cultic building)]N'N$; lū[or]CNJ; ibrata[(outdoor) cult niche]N; lū[or]CNJ; parakka[cult dais]N; lū[or]CNJ; +barasiggû[house altar]N$barasiggâ; lū[or]CNJ; pitiqta[mud wall]N; eppuš[accomplishing]'N
+
+#note: Restored with @i{Iqqur īpuš} §30.
+9. ($___$) !bs a-mat-su i-lam-min₃ !cm : ina a-ma-ti-šu₂ iz-ze-ʾ-er : HUL : lum-mu-nu : HUL#
+#lem: amātsu[word]N; +lemēnu[be(come) bad]V$ilammin; ina[in]PRP; amâtišu[word]N; +zêru[dislike]V$izzeʾʾer; lumun[evil]N; lummunu[very unfortunate]AJ; lumun[evil]N
+
+10. ($___$) !cm ze-e-ri :. !bs * DINGIR-šu₂ lu DINGIR šul-pu-tu₂ ud-diš : ARHUŠ DINGIR ana LU₂ GAL₂!{+ši} DINGIR-šu₂# [šu-u (x x x)]
+#lem: zêri[hating]'N; ilišu[god]N; lū[or]CNJ; ila[god]N; +šulputu[defiled]AJ$; uddiš[renew]V; rēmu[mercy]N; ila[god]N; ana[according to]PRP; amēli[man]N; ibašši[exist]V; ilšu[god]N; šū[that]IP; u; u; u
+
+#note: The line is attested in @i{Iqqur īpuš} §31, but none of the manuscripts preserves a reading SILIM-@i{im} vel sim., which seems to be the reading of the commentary.
+11. ($___$) !cm sa-la-mu ša₂-niš E₂-su GUR₂-su : ka-na-šu₂ : pa-la-hu :. !bs * IZI ana E₂#.[GAL ŠUB{+ut}]
+#lem: salāmu[friendly relations]N; šanîš[alternatively]AV; bīssu[household]N; +kanāšu[bow down//submitting]V'N$; kanāšu[submitting]'N; palāhu[fearing]'N; išātu[fire]N; ana[according to]PRP; ēkalli[palace]N; imqut[fall]V
+
+12. ($___$) !bs DINGIR-MEŠ LUGAL KUR u₂-qal-la-lu !cm : HUL : qu-ul-lu-lu : HUL : šul#-[pu-tu]
+#lem: ilāni[god]N; šar[king]N; mātu[land]N; +qalālu[be(come) light//despise]V'V$uqallallū; +qalālu[be(come) light//despising]V'N$qullulu; +qalālu[be(come) light//despising]V'N$qullulu; +lapātu[touch//ruining]V'N$šulputu; +lapātu[touch//ruining]V'N$šulputu
+
+13. !bs * U₄*# 29?#.KAM*# KA₂ NU E₃ !cm : $EZEN# x# a-di 7-šu₂ IGI{+mar#} u₃# ša₂# {iti}DU₆ ša₂# [x x (x)]
+#lem: +ūmu[day]N$ūm; n; bāb[gate]N; lā[not]MOD; +aṣû[go out]V$uṣṣi; u; u; adi[until]PRP; +sebîšu[seven times]AV$; immar[experience]V; u; u; Tašritu[1]MN; ša[of]DET; u; u; u
+
+#note: The signs before @i{adi} are probably EZEN followed by a small sign, perhaps a colon [ILF]. The 
+14. ($___$) !cm lu {lu₂#}[x x x] NU# E₃# x# x# x u {iti#}DU₆ ba-ši-i ina {iti#}BARA₂# [x (x)]
+#lem: lū[or]CNJ; u; u; u; lā[not]MOD; uṣṣi[go out]V; u; u; u; u[and]CNJ; Tašritu[1]MN; +bašû[be (at hand)//being (at hand)]V'N$bašî; ina[in]PRP; Nisannu[1]MN; u; u
+
+15. ($___$) !cm U₄{+mu} ŠU₂ x# x# [x x] x# [x x] x# KI BAD {d}U.DAR DUMU?#-MEŠ x# [x x x]
+#lem: ūmu[day]N; +erēpu[cloud over]V$irrup; u; u; u; u; u; u; u; u; u; u; +ištaru[goddess]N$; mārū[son]N; u; u; u; u
+
+#note: The reading @akk{DUMU?#} is courtesy of I.L. Finkel.
+16. ($___$) !cm {mul₂}zi-ba-ni-tu₄ it-[ti x x x] {mul₂#}GIR₂.TAB* :* {d}iš-ha#-[ra x x x]
+#lem: Zibanitu[Scales]CN; itti[with]PRP; u; u; u; Zuqaqipu[Scorpion]CN; Išhara[1]DN; u; u; u
+
+#note: The equation @akk{{múl}GÍR.TAB} = d.@i{išḫāra} is also attested in @i{CCP} 7.2.u43 5'.
+17. !bs * {giš}KIRI₆ ina ŠA₃ URU iz-qup 10 MU.AN.NA-MEŠ# [MAŠ?.EN?].GAG# ina lib₃-bi x# (x#) DU₃{+uš} x# [x x x x]
+#lem: kirî[orchard]N; ina[on]PRP; libbi[interior]N; āli[village]N; +zaqāpu[fix upright]V$izqup; n; šanāti[year]N; muškēnu[dependant]N; ina[in]PRP; libbi[interior]N; u; u; eppuš[accomplishing]'N; u; u; u; u; u
+
+#note: The reading @akk{[MAŠ.EN].GAG} was suggested by I.L. Finkel.
+18. ($___$) !cm 6 DANNA mu-ši : IGI.6.GAL₂.BI 10 :. !bs * {giš!#}KIRI₆# iz!-qup# x# [x x x x]
+#lem: n; bēr[unit]N; mūši[night]N; +šuššu[one-sixth]N$; n; kiri[garden]N; izqup[fix upright]V; u; u; u; u; u
+
+#note: The commentary apparently reinterprets the prognosis "[@i{he will} ...] for ten years" using a complex numerical substitution. Apparently the new interpretation takes the "ten years" to mean "when the night lasts 6 double hours" (i.e., during the equinox), on account of the fact that the reciprocal of 10 is, in the hexagesimal system, 1/6. Compare "On the x of Nisannu the day and the night were in balance (@i{šitqulu}): 12 hours the day and 12 hours the night (6 @akk{DANNA u₄-mu 6 DANNA mu-ši}), in @i{SAA} 8 140 and 141.
+19. ($___$) !cm U₄.DA : a-dan-nu :. !bs * 30 {giš}HUR NIGIN{+mi} : ILLU ina IDIM* LAL#-MEŠ# [x x x x x (x)]
+#lem: +adannu[appointed time]N$; adannu[appointed time]N; Sin[1]DN; +uṣurtu[drawing]N$; lami[surrounded]AJ; mīlu[flood]N; ina[in]PRP; nagbi[source]N; +maṭû[be(come) little]V$imaṭṭû; u; u; u; u; u; u
+
+#note: It is unclear to which line of @i{Iqqur īpuš} this and the previous line refer. Compare perhaps @i{Iqqur īpuš} §57 (which begins ¶ @i{amēlu mukīl rēšīšu}).
+20. ($___$) !cm IM?# x x DAB{+bat} ša₂-niš GIR₃.SI₃.GA SUKKAL {giš}GU*.ZA [DAB{+bat} x x x x x]
+#lem: u; u; u; iṣabbat[seize]V; šanîš[alternatively]AV; +gerseqqû[(palace attendant)]N$gerseqqi; šukkal[minister]N; kussi[throne]N; iṣabbat[seize]V; u; u; u; u; u
+
+21. !cm [ina {mul₂}]{lu₂#}HUN.GA₂ AN.GE₆-šu₂ : {mul₂}{lu₂}HUN.GA₂ : {d}x x [x x x x x x]
+#lem: ina[in]PRP; +Agru[]CN$; attallašu[eclipse]N; Agru[1]CN; u; u; u; u; u; u; u; u
+
+#note: Less likely, @akk{AN.GE₆ ŠÚ}.
+22. !zz [x x x] x x x x x [x x x x x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+@reverse
+
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...] $KI $SI $ME [...]
+#lem: u; u; u; u; u
+
+3'. !zz [...] še/nam#-ri : !bs SI !cm : ka-ṣa#-[ṣa !zz ...]
+#lem: u; X; +kaṣāṣu[shear//shearing]V'N$; +kaṣāṣu[shear//shearing]V'N$kaṣāṣa; u
+
+#note: The restoration is uncertain, compare @akk{SI} = @i{kaṣāṣu ša enzi} in @i{Nabnītu} XVII 325 (@i{MSL} 16 164).
+4'. !zz [(x x) x x x !bs DINGIR-MEŠ ana] KUR ARHUŠ TUKU-MEŠ EBUR KUR SI#.[SA₂ !zz x x x x (x x)]
+#lem: u; u; u; u; u; ilāni[god]N; ana[according to]PRP; mātu[land]N; rēmu[mercy]N; iraššû[experience]V; +ebūru[harvest]N$ebūr; mātu[land]N; iššir[thrive]V; u; u; u; u; u; u
+
+5'. !cm [(x x) x x] x x x-ma# SIG₅{+iq} :. !bs * {d}IŠKUR GU₃-šu₂ ŠUB-ma KI# [ZE₂ i-hi-il !zz x x (x x)]
+#lem: u; u; u; u; u; u; u; idammiq[prosper]V; Adad[1]DN; rigimšu[voice]N; iddima[utter]V; erṣetu[earth]N; martu[gall bladder]N; ihīl[exude]V; u; u; u; u
+
+6'. ($___$) !bs {giš}ASAL₂ ina KUR i-ša₂-am-mu-uh !cm : ša₂-ma-hu : ba-nu-u₂ :# !zz [x x x x x x (x x)]
+#lem: ṣarbati[poplar]N; ina[in]PRP; māti[land]N; +šamāhu[grow]V$išammuh; +šamāhu[grow//growing]V'N$; banû[creating]'N; u; u; u; u; u; u; u; u
+
+#note: For the attestations of the equation @i{šamāḫu} = @i{banû} in commentaries, see Jiménez @i{Iraq} 76 (2014) p. 13 fn. 9.
+7'. !bs * U₄ 7.KAM AN{+u₂} DU{+ik} !cm : ha-rab ŠEG₃ : ha-rab?# [x (x)] x# : ni-du?#-[x x x x (x x)]
+#lem: ūm[day]N; n; šamû[rain]N; illik[blow]V; +harābu[be(come) deserted//be(com)ing deserted]V'N$harāb; zunnu[rain]N; harāb[be(com)ing deserted]'N; u; u; u; u; u; u; u; u; u
+
+8'. ($___$) !bs 3 MU-MEŠ : {d}ER₃.RA KUR GU₇ !cm :# x [x :. !bs *] ILLU DU{+kam} HE₂.GAL₂ [ina KUR GAL₂ (x x)]
+#lem: n; +šattu[year]N$šanāti; Erra[1]DN; mātu[land]N; ikkal[eat]V; u; u; mīlu[flood]N; illakam[come]V; hengalla[plenty]N; ina[in]PRP; māti[land]N; ibašši[being (at hand)]'N; u; u
+
+9'. ($___$) !cm HE₂ : na-ha-ši?# ša₂?# x x [x x GAL₂? :] ba?#-šu-u₂ :. !bs * ILLU DU{+kam#} [A-šu₂ GIM MUD₂ ṣar-pu (x x)]
+#lem: +nahāšu[be(come) luxuriant//be(com)ing luxuriant]V'N$; +nahāšu[be(come) luxuriant//be(com)ing luxuriant]V'N$nahāši; ša[of]DET; u; u; u; u; ibašši[being (at hand)]'N; bašû[existing]AJ; mīlu[flood]N; illakam[come]V; +mû[water]N$mûšu; kīma[according to]PRP; +dāmu[blood]N$dāmi; ṣarpū[reddened]AJ; u; u
+
+#note: If correcty deciphered, the first part of the line would contain a notarikon analysis of the word @akk{HÉ.GÁL}.
+10'. ($___$) !bs EBUR# SI#.[SA₂ na-pa-aš₂ {d}NISABA !cm : na]-pa-aš₂ : DIRI : na-pa-šu₂ ša₂ ma-ʾa#-[de-e]
+#lem: ebūr[harvest]N; iššir[thrive]V; napāš[be(com)ing abundant]'N; nissabi[grain]N; napāš[be(com)ing abundant]'N; +napāšu[be(come) abundant//be(com)ing abundant]V'N$; +napāšu[be(come) abundant//be(com)ing abundant]V'N$; ša[of]DET; +mādu[many]N$maʾdê
+
+#note: Compare @akk{pe-eš PEŠ} = @i{napāšu ša ma-de-e}, in @i{Idu} II 137 (cited @i{CAD} M/1 19b). @akk{DIRI} = @i{napāšu} is seemingly elsewhere unattested.
+
+$ single ruling
+
+11'. !bs * ina# {iti#}DU₆# ša₂# {d#}UTU qu-ra-du !cm : ina {iti#}DU₆# {mul₂}zi-ba-ni-tu₄ IGI{+mar} : {mul₂}GE₆# [(x x)]
+#lem: ina[in]PRP; Tašritu[1]MN; ša[of]DET; Šamaš[1]DN; qurādu[warrior]N; ina[in]PRP; Tašritu[1]MN; Zibanitu[Scales]CN; immar[experience]V; +Ṣalmu[]CN$; u; u
+
+#note: This and next line seem to equate the "Scales" (= Libra) with Saturn. To do that they first state that the "Scales" and "the black star" (@akk{{múl}GE₆}) are equivalent (this equation is also attested in @i{CCP} 3.1.3.H r 3 and @i{MSL} 11 40 39-41 [@i{Ḫargud}]). Note that @i{Mulapin} II i 64 equates Saturn with "the Scales," and calls the latter the "star of Šamaš."
+12'. ($___$) !cm {d}UDU.IDIM.SAG.US₂ : MUL {d}UTU : !qt ina {iti}DU₆ SISKUR₂ KU₃ ša₂ KUR.KUR ana {d#}[a-nun-na-ki BAL{+qi₂}]
+#lem: +kayyamānu[Saturn]CN$; kakkabi[star]N; Šamaš[1]DN; ina[in]PRP; Tašritu[1]MN; nīqa[offering]N; ellūti[pure]AJ; ša[of]DET; mātāti[land]N; ana[according to]PRP; +Anunnakkū[]DN$; tanaqqi[pour (a libation)]V
+
+#note: The line is a quotation from @i{Astrolabe} B, see Reiner & Pingree @i{BPO} 2 (1985) p. 63.
+13'. ($___$) !qt KI.SI₃.GA a-na {d}a-nun-na-ki ik-kas₂-sap ITI a-bi a-bi ša₂ {d}en-lil₂ {d*#}lugal*#-[du₆-ku₃-ga]
+#lem: +kispu[funerary offering]N$kispa; ana[to]PRP; Anunnakkū[1]DN; +kasāpu[make funerary offering]V$ikkassap; arhi[month]N; abi[father]N; abi[father]N; ša[of]DET; Ellil[1]DN; +Lugaldukuga[]DN$
+
+14'. ($___$) !qt %sux a-a {d}en-lil₂-la₂-ke₄ !cm : %sb {d}MIN<(lugal-du₆-ku₃-ga)> a-bi a-bi ša₂ {d}en-lil₂ : {d}lugal-du₆-ku₃-ga : {d}e₂-a# [x x (x)]
+#lem: a[progeny]N; Enlil[1]DN; Lugaldukuga[1]DN; abi[father]N; abi[father]N; ša[of]DET; Ellil[1]DN; Lugaldukuga[1]DN; Ea[1]DN; u; u; u
+
+#note: As discussed by Lambert @i{MC} 16 (2013) p. 303, the Sumerian line is a quotation from @i{An = Anu} I 147. The Akkadian provided by the commentator takes each @i{a} in the Sumerian @i{aʾa} to mean "father," thus finding that Lugaldukuga is the "father's father" (i.e., "grandfather") of Enlil. On the identification of Lugaldukuga with Ea at the end of the line see Lambert @i{MC} 16 (2013) p. 304.
+15'. ($___$) !cm e-pe-šu₂ ša₂ ši-pi-ir DU₃.A.BI : KI {d}BAD : {iti}DU₆ : taš-ri-tu₄ ša₂ 6 ITI ina# UGU?#
+#lem: epēšu[performing]'N; ša[of]DET; šipir[message]N; kalāma[all (of it)]N; +itti[with]PRP$; Ellil[1]DN; Tašritu[1]MN; tašrītu[beginning]N; ša[of]DET; n; arhi[month]N; ina[on]PRP; muhhi[top]N
+
+#note: @i{epēšu} probably explains the Sumerian name of the month, DU(₆). The rationale behind the equations in the second part of the line is obscure. The reading of the last two signs of the line is courtesy of I.L. Finkel.
+16'. ($___$) !cm {iti}DU₆ : taš-ri-tu₄ : a-na UGU ŠUB : na-ka-su : {iti}DU₆ : taš-ri-tu₂ : {d}NISABA# [(x x)]
+#lem: Tašritu[1]MN; tašrītu[beginning]N; ana[on]PRP; muhhi[top]N; +nakāsu[cut//cutting]V'N$; nakāsu[cutting]'N; Tašritu[1]MN; +tašrītu[beginning]N$; Nisaba[1]DN; u; u
+
+#note: @akk{ŠUB} = @i{nakāsu} is elsewhere attested apparently only in the @i{Iqqur īpuš} commentary @i{CCP} 3.8.2.B l. 60 (DT 35). The commentary probably introduces this equation to provide an etymology for the name of the month.
+
+$ single ruling
+
+17'. !zz ṣa-a-tu₂ u šu-ut KA maš-a-a-al-tu₂ {lu₂}UM.ME.A ša₂ ina {iti}DU₆ iq-qur DU₃{+uš} AL.TIL
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; mašʾaltu[questioning]N; ummânu[expert]N; ša[from]DET; ina[in]PRP; Tašritu[1]MN; iqqur[demolish]V; eppuš[accomplishing]'N; qati[completed]AJ
+
+18'. !zz GABA.RI bar₂-sip₂{ki} GIM SUMUN-šu₂ SAR-ma IGI.KAR₂ {im}gid₃-di {m}{d}UTU-ŠEŠ-MEŠ-bul-liṭ A-šu₂ ša₂ {m}{d}AG-MU-DU₃ A {m}[MU-{d}SUKKAL]
+#lem: gabari[duplicate]N; Borsippa[1]SN; kīma[according to]PRP; labīrišu[original]N; šaṭirma[written]AJ; bari[checked]AJ; +imgiddû[(a single-columned tablet)]N$imgiddi; +Šamaš-aḫḫe-bulliṭ[]PN$; apalšu[son]N; ša[of]DET; +Nabu-šumu-ibni[]PN$; apal[son]N; +Iddin-Papsukkal[]PN$
+
+19'. !zz {lu₂}LAGAB {d}AG ŠU-MIN {m}{d}AG-EDURU-URU₃ A-šu₂ ša₂  {m}{d}AG-ŠEŠ-MEŠ-MU A {m}MU-{d}SUKKAL pa-lih# [{d}AG? x x x x x]
+#lem: +kalû[lamentation-priest]N$; Nabu[1]DN; qāt[hand]N; +Nabu-apla-uṣur[]PN$; apalšu[son]N; ša[of]DET; +Nabu-aḫḫe-iddin[]PN$; apal[son]N; Iddin-Papsukkal[1]PN; pālih[reverent one]N; Nabu[1]DN; u; u; u; u; u
+
+#note: The reading of @akk{{lú}LAGAB} as @i{kalû} follows Frahm @i{GMTR} 5 (2011) p. 217 fn. 1016. Note however that the sign @akk{LAGAB} here looks different from that of line o 7.
+@translation labeled en project
+
+@label t.e. 0
+
+By the command of Bēl and Nabû, may (this work) suceed!
+
+@label o 1 - o 5
+In "If in the month of Tašrītu he opens the foundations of a house and lays a brick" (= @i{Iqqur īpuš} §1) [... means ... In "His god] will follow him with prosperity" (= @i{Iqqur īpuš} §1), ME means "prosperity;" ME also means [...]. In the month of Tašrītu the constellation of Bēlet-ilī, the woman in labor, becomes visible. LA means "prosperity" (@i{lalû}), and @i{lalû} ("young goat") means "child"; LAH₄ means "to plunder" [...] UŠ means "to plunder"; (this) is said about a good or evil (prediction).
+
+@label o 5 - o 8
+
+In "front and rear" (= @i{Iqqur īpuš} unknown), [... what] is written, is like the apparition of the "Weighing Scales" constellation (= Libra). The "Scales" is the constellation of Šamaš-of-Justice. A thing that weighs is a scale, together with [...], (this) is written about a good (prediction).
+
+@label o 8 - o 10
+
+"If [he builds] a sanctuary, a chapel, an altar, or [a @i{small shrine}], his word will have a bad effect (@i{ilammin})" (= @i{Iqqur īpuš} §30) means "he will be disliked (@i{izzeʾʾer}) on account of his words," since ḪUL means have a bad effect [and ḪUL also mean] "to dislike."
+
+@label o 10 - o 11
+
+"If he restores the ruined (statue of) his god or of (another) god, a god's mercy will be set on the man, [he] will be his god" (= @i{Iqqur īpuš} §31) [...] means "to be at peace"; alternatively, (it means) "his house will submit to him," where "to submit" means "to fear."
+
+@label o 11 - o 12
+
+"If fire [falls] on the palace, the gods will humiliate the king of the land" (= @i{Iqqur īpuš} §66), ḪUL means "to humiliate," ḪUL also means "to depose."
+
+@label o 13 - o 14
+
+"On the 29th day he should not leave through a door" (= @i{Iqqur īpuš §59}) [...] will be seen seven times, and of Tašrītu [...].
+
+@label o 15 - o 16
+
+The day clouds over [...] Ištar @i{the children} [...]. The "Scales" with ... The constellation "Scorpion" is the god Išḫara [...].
+
+@label o 17 - o 18
+
+"If he plants a garden in the middle of a city, for ten years, [@i{a humble p}]@i{erson} in the middle of [...] he will do [...]" (cf. @i{Iqqur īpuš} §47) [...] a 12 hours night, because the reciprocal of 1/6 is 10.
+
+@label o 18 - o 19
+
+"If he plants a garden [...], U₄.DA means "appropiate time."
+
+@label o 19 - o 20
+
+"If the moon is surrounded by a halo, the flood will lessen at its source" (cf. @i{Iqqur īpuš} §77') [means "...] will take [...]", alternatively, (it means) "the minister's attendant [will seize] the trone," [...]. 
+
+@label o 21
+
+Its eclipse (sc. the moon's?) is in the constellation of Aries, the "constellation of Aries" (stands for) the god [...].
+
+@reverse
+
+@label r 1' - r 3'
+
+...
+
+@label r 4' - r 5'
+
+[...] "the gods will have mercy on the land, and the harvest of the land will prosper" (= @i{Iqqur īpuš} §90), [...] and it will be good.
+
+@label r 5' - r 6'
+
+"If Adad roars and the land exudes bile" (= @i{Iqqur īpuš} §92), [...]. In "poplar will thrive in the land" (= @i{Iqqur īpuš} §92), "to thrive" means "to grow." [...]
+
+@label r 7' - r 8'
+
+In "If on the 7th day there is rain" (= @i{Iqqur īpuš} §97) (means) "@i{destruction brought about by rain}," i.e. (?), @i{destruction} ... [...]. "For three months Erra will devour the country," [...].
+
+@label r 8' - r 9'
+In "If the flood comes, there will be prosperity [in the land" (= @i{Iqqur īpuš} §103), in "prosperity" (HÉ.GÁL)], HÉ means "@i{to prosper}," @said @of [..., and @i{GÁL}] means "to be available."
+
+@label r 9' - r 10'
+
+In "If the flood comes and [its water is reddened like blood,] the harvest [will prosper and there will be abundance of grain" (= @i{Iqqur īpuš} §104),] "abundance" (means) "to be full," (which means) "to be abundant," said of a plurality.
+
+$single ruling
+
+@label r 11' - r 12'
+
+"The month of Tašrītu (belongs) to Šamaš, the warrior" (= @i{Iqqur īpuš} §105). In the month of Tašrītu the "Scales" (= Libra) becomes visible. (The "Scales") is the "Black Star," i.e., Saturn, i.e., the star of Šamaš.
+
+@label r 12' - r 14'
+
+In "In the month of Tašrītu pure sacrifices of the lands [are made for the Anunnaki], offerings of the dead are made to the Anunnaki. It is the month of the grandfather of Enlil," (= quotation from @i{Astrolabe} B) (refers to) "Lugaldukuga @i{a-a} Enlil" (= quotation from @i{An = Anu} I 147), i.e., ditto (Lugaldukuga) is the grandfather of Enlil. Lugaldukuga is Ea.
+
+@label r 15' - r 16'
+
+[...] means "to do," said of any action. "@i{The abode of Enlil}," iti.DU₆ means "begining (@i{tašrītu}) of 6 month(s)," on account of (the equation) "iti.DU₆ means Tašrītu," (and) on account of (the equation) "ŠUB means 'to cut'.". iti.DU₆ means Tašrītu, i.e. (?), @i{Nissaba} [(...)].
+
+@label r 17'
+
+Lemmata and oral explanations, (materials for) a 'questioning' @by a (master-)scholar, relating to "In the month of Tašrītu," from @i{Iqqur īpuš}. Finished.
+
+@label r 18' - r 19'
+
+Original from Borsippa, copied and checked from its original. One-column tablet of Šamaš-aḫḫē-bulliṭ, son of Nabû-šumu-ibni, descendant of [Iddin-Papsukkal], the @i{lamentation-priest} of Nabû.
+
+@label r 19'
+
+Handwriting of Nabû-apla-uṣur, son of Nabû-aḫḫē-iddin, descendant of Iddin-Papsukkal. The reverer of [@i{Nabû} should not steal the tablet!]

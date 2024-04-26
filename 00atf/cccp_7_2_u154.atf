@@ -1,0 +1,48 @@
+&P470033 = CCP 7.2.u154 (http://ccp.yale.edu/P470033) = BM 46442
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...] !bs RU !cm : pur-ru-si x# [...]
+#lem: u; X; +parāsu[cut (off)//cutting (off)]V'N$purrusi; u; u
+
+#note: Compare @akk{TAR{+ku}.RU : di-nu pa-ra-su} and @akk{UBUR {+šu-ub}RU : MIN<(pa-ra-su)> ša₂ tu-le-e} in @i{CAD} P 165b.
+
+3'. !zz [...] mar?#-ṣu-tu a-su-u₂# [...]
+#lem: u; +marṣu[sick]AJ$marṣūtu; +asû[]N$; u
+
+4'. !zz [...] KIMIN? la i-di x [...]
+#lem: u; u; lā[not]MOD; idi[side]N; u; u
+
+5'. !zz [...]-ʾ !cm ša₂-ni-iš a-bi !cm [...]
+#lem: u; šanîš[alternatively]AV; abi[father]N; u
+
+6'. !zz [...]-ši?#-tu₄ reme-nu-u₂ x# [...]
+#lem: u; rēmēnû[merciful]AJ; u; u
+
+7'. !zz [... AN]{+e#} u KI{+ti₃} [...]
+#lem: u; šamê[heaven]N; u[and]CNJ; erṣeti[earth]N; u
+
+8'. !bs [...]-ra-ah !cm : AN{+e} !zz :# [...]
+#lem: u; šamê[heaven]N; u
+
+#note: The line may contain a notarikon analysis of a noun or divine name.
+9'. !zz [...] x# man?#-nu an-nu-[...]
+#lem: u; u; mannu[who?]QP; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] (...)RU means “to cut” [...]
+3'. [...] sick (pl.), physician [...]
+4'. [...] ... @i{did not know} ... [...]
+5'. [...] ... alternatively, (it means) “father” [...]
+6'. [...] ... merciful ... [...]
+7'. [... hea]ven and earth [...]
+8'. [...]@i{aḫ} means “heaven” [...]
+9'. ...

@@ -1,0 +1,43 @@
+&P470014 = CCP 7.2.u132 (http://ccp.yale.edu/P470014) = BM 39782
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]
+2'. !zz [...] x# ku :?#  mi#-ṣi-ti :?# [...]
+#lem: u; u; X; X; u
+
+#tr.en: […] … @i{few} … […]
+3'. !zz [...]-tu₄?# : a-na ša₂-ra-tu₄# [...]
+#lem: u; ana[to]PRP; +šārtu[hair]N$šārātu; u
+
+#tr.en: […] … @i{refers to the hairs} […]
+#note: The interpretation is highly uncertain.
+
+4'. !zz [...] : mim-ma hi-iṭ qa-ta#-[ti ...]
+#lem: u; mimma[anything]XP; +hīṭu[error]N$hīṭ; +qātu[hand]N$qātāti; u
+
+#tr.en: […] … @i{any sin of the h}[@i{ands} …]
+5'. !zz [...]-šu₂?# : !bs šit-tu₄ !cm : zu-u₂# !zz [...]
+#lem: u; šittu[excrement]N; zû[excrement]N; u
+
+#tr.en: […] … “Excrement” means “faeces.” […]
+#note: The equation @i{šittu} = @i{zû} is also attested in @i{CCP} 4.1.13.B (on @i{Sagig}) and @i{CCP} 3.6.3.B (on @i{Šumma immeru}).
+6'. !qt %sux [KU.KU si lu-lim-bi me-te] hur#-saŋ-ŋa₂-ke₄ : !qt %sb su-ban-du# [qar-nu lu-li-mi si-mat KUR{+i}]
+#lem: X; si[horn]N; lulim[stag]N; mete[appropriate thing, ornament]N; hursaŋ[mountain]N; +subandu[(materia medica)]N$; qarnu[horn]N; +lulīmu[red deer]N$lulīmi; simat[appropriate symbol]N; šadî[mountain]N
+
+#tr.en: [“@i{ku.ku si lulimbi mete ḫu}]@i{rsag̃ake},” (in Akkadian) “@i{suband}[@i{u} of the stag’s horn, ornament of the mountain]” (= quotation from @i{Udugḫul} XIII-XV 214′).
+#note: The rare word @i{subandu} also appears in MLC 1863 (@i{CCP} 4.2.M.a) o 20: @akk{su-ban-du : gul-gul NAM.LÚ.U₁₈.LU : {giš}ŠINIG : UZU NAM.LU₂.U₁₈.LU}.
+7'. !zz [...] x# :?# a-na x# x# x# [...]
+#lem: u; u; ana[to]PRP; u; u; u; u
+
+#tr.en: […] … to … […]
+8'. !zz [...] x# [...]
+#lem: u; u; u
+
+#tr.en: […] … […]

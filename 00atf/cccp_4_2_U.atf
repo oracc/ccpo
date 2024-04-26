@@ -1,0 +1,260 @@
+&P461281 = CCP 4.2.U (http://ccp.yale.edu/P461281) = BM 67179
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@face a
+1. !bs GIŠ₃-NI NAM.GIG & !cm GIŠ₃-šu₂ GUG# [x]
+#lem: +išaru[penis]N$išaršu; X; išaršu[penis]N; pendê[(mark on skin)]N; u
+
+#note: Perhaps simply @akk{ha-x-[...]}. If the reading GU[G is correct, the symptom described may be @akk{GUG-MEŠ DIRI}/@akk{ma-li}. Also, it would imply the meaning "lesion, sore" (@i{simmu}) for NAM.GIG, rather than just "disease" (@i{murṣu}) [HS]. It could also be that the verb @i{magāgu} lies behind the writing @akk{nam-gig}, which could theoretically be parsed as a hitherto unattested N imperative of @i{magāgu}. Alternatively, it would be possible to read @akk{i₃-nam-gig} for @i{imangig} (with metathesis of /m/ and /n/) [MG & HS].
+
+2. ($___$) !cm MU NAM.GIG & ($___$)
+#lem: +aššu[because]PRP$; X
+
+#note: The second line appears to set out to explain NAM.GIG, introducing it by means of the technical term @i{aššu}, but the right hand column is empty [EJ].
+
+3. !bs ra-aš-kat₂ & !cm ra-aš₂-ku dan-nu / ša₂ GIŠ₃-šu₂ nu-up-pu-hi
+#lem: +rašku[dried]AJ$raškat; +rašku[dried]AJ$; dannu[strong]AJ; ša[of]DET; išaršu[penis]N; +nuppuhu[swollen]AJ$
+
+#note: According to Lambert @i{apud CAD} R 190, the present line should be read @akk{ra-aš-kát : mir-šu/qú dan-nu šá ni-šik nu-up-pu-hi} [EJ]. It would be possible to interpret 3b as a phrase, "dry (and) strong" (i.e. "a dry erection") [HS].
+
+4. !bs un-nu-tu₂ & !cm ma-a-ṣu
+#lem: +enētu[flatten//being faint]V'N$unnutu; +wiāṣum[be(come) too little//be(com)ing too little]V'N$mâṣu
+
+5. !bs tu-ṣar-rap & !cm tu-ha-am-maṭ
+#lem: +ṣarāpu[burn]V$tuṣarrap; +hamāṭu[burn (up)]V$tuhammaṭ
+
+6. !cm TAB : ṣa-ra-pu & !cm TAB{+ta-ab} : ha-ma-ṭu#
+#lem: +ṣarāpu[burn//burning]V'N$; +ṣarāpu[burn//burning]V'N$; +hamāṭu[burn (up)//burning (up)]V'N$; +hamāṭu[burn (up)//burning (up)]V'N$
+
+7. !bs mu-ni-ih-ha & !cm pa-ri-ri [x]
+#lem: +munihhu[pacifier]N$munihha; +pāriru[disperser]N$pāriri; u
+#note: @i{nuḫḫu} can mean either “to alleviate, assuage” (an illness) or “to extinguish, smother” (a fire, brazier). Perhaps @i{muniḫḫa} refers to some sort of utensil. There is a sign after @akk{pa ri ri}, but it is difficult to imagine that @i{parāru} G could have a transitive meaning. [HS]
+8. !bs {u₂}ru-ut SUM{sar} & !cm tu-ru-uʾ [x (x x)]
+#lem: +ruʾtu[spittle]N$rut; šūmī[garlic]N; X; u; u; u
+
+9. !bs ia-ri-ra qa₂-ta-<an-tu₂> ša₂ & A.ŠÀ !cm : a-ra-an-tu₄#
+#lem: u; +qatnu[thin]AJ$qatantu; ša[of]DET; eqli[field]N; +arantu[(a kind of grass)]N$
+
+#note: The base text of this line may be @i{BAM} 396 iv 26 (@akk{ia-ra-ra qa₂-ta-an-tu₂ ša₂ A.ŠA₃}) or a similar passage, whence the emendations to the present line. If this is correct, then the @i{explanans arantu} may have been prompted by the last syllables in the two words from the @i{explanandum}, i.e. ((@i{yar})@i{ira} (@i{qat})@i{antum}). The @i{yarara}/@i{yarira} must be a small kind of animal, since in @i{BAM} 396 all of the preceding entries have such animals as the medicament to be prepared. Moreover, the name sounds onomatopoeic, which would be a good fit for species such as crickets. Alternatively, one might adduce animal names with a reduplication pattern for comparison, which would fit crawling creatures quite well; root verb (w)âru?; some sort of caterpillar could be meant then. [HS]
+
+10. ($___$) !cm ša₂-niš & qa-ta-at-tu₂
+#lem: šanîš[alternatively]AV; +qatnu[thin]AJ$qatattu
+
+11. ($___$) !cm šal-šiš & an-du-{+la}lat-tu₂#
+#lem: šalšiš[thirdly]AV; +adamatu[(a plant (with red blossoms ?)]N$
+#note: @akk{an-du-{+la}lat-tu₂} is either a by-form or a corrupt rendering of the plant name @i{a(n)da/umatu}. Compare CCP 3.5.59 l. 21 (commentary on Šumma Ālu 59 l. 34): @akk{[u₅-ra-nu :] U₂.a-ra-an-tu₂ : an-da-ma-tu₄} [HS].
+
+12. !bs {id₂}ir-ha-an & !cm pu-rat-ti
+#lem: +Irhan[Euphrates]RN$; +Purattu[Euphrates]RN$Puratti
+#note: The mention of Irḫan might reflect a ritual similar to that recorded in sa.gal, CT 23, Pl. 1-2, ll. 1-14: flour drawings of Irhan to be crossed by the patient so as to get rid of his foot ailment, after invoking Ea (esp. ll. 2, 7, 12). This appears to be the only mention of Irḫan in therapeutic texts. However, except for the mention of the "sieve" (@akk{{gi}ŠA₃.SUR}), this ritual does not mention any of the other matters dealt with by the commentary [HS].
+13. !bs KI.TA-šu₂ !cm : iš-ki-šu₂ & !bs u₂-paṭ !cm : hal-lu-la-a-a
+#lem: +šaplu[underside]N$šapalšu; +išku[testicle]N$iškīšu; upāṭ[exudation]N; hallulāya[centipede]N
+#note: In lines 13-14, the names @i{upāṭ-timbutti} and @i{timbut}(@i{ti})-@i{eqli} are probably behind the explanations; the latter can denote both a small animal (perhaps a cricket) and the @i{pirištu} name of a plant; hence the rendering "cricket-plant" [HS].
+
+14. !bs NA₄ UKUŠ₂ !cm : tim-bu-ut-tu₄ & !cm ina UGU UKUŠ₂ !zz [x x (x x)]
+#lem: aban[stone]N; +qiššû[cucumber]N$qiššê; +tibbuttum[drum]N$timbuttu; ina[on]PRP; muhhi[top]N; X; u; u; u; u
+
+15. !bs ŠA₃.SUR !cm : nap-pu-u & !cm ša-tu?#-[ru x x (x)]
+#lem: nišhu[diarrhoea]N; +nappû[sieve]N$; +šassūru[womb]N$saturru; u; u; u
+
+16. !bs {u₂}ta-hap{+ha-ap}-ša₂-nu !cm : {u₂}LAG & A.ŠA₃# !zz [x x x x (x)]
+#lem: +tahapšānu[(a plant)]N$; +kirbānu[lump (of earth)//camomile]N'N$kirbān; eqli[field]N; u; u; u; u; u
+
+17. !zz x x tu₂ ša₂ id x [x] & [...]
+#lem: u; u; X; ša[of]DET; id[direction]N; u; u; u
+
+$(rest of side missing)
+
+@face b
+
+1'. !zz [x x (x x)]-x# & x [...]
+#lem: u; u; u; u; u; u
+
+2'. !zz [(x x) !bs {+za]-al?#}ZAL & !cm uh-hu#-[ru]
+#lem: u; u; +ahāru[be behind//holding back]V'N$uhhuru; +ahāru[be behind//holding back]V'N$uhhuru
+
+3'. !bs ba?#-a?#-ru & !cm ka-a-[nu?]
+#lem: +bâru[appear//being durable]V'N$; kânu[be(com)ing permanent]'N
+
+4'. !bs uš#-ta-qad₆-da-ad & !cm ik-kap-pap
+#lem: +qadādu[bow down]V$uštaqaddad; +kapāpu[curve//bow]V'V$ikkappap
+
+5'. ($___$) !bs {+gu-ru}GURU & !cm qa-da-du
+#lem: +qadādu[bow down//bowing down]V'N$; +qadādu[bow down//bowing down]V'N$
+
+6'. ($___$) !bs {+gu-ru}GURU & !cm ka-pa-pu
+#lem: +kapāpu[curve//bowing]V'N$; kapāpu[bowing]'N
+
+7'. !bs i-is-le-eʾ & !cm ša₂-niš is-sa-al-la-aʾ
+#lem: +salāʾu[be(come) sick]V$islēʾ; šanîš[alternatively]AV; +salāʾu[be(come) sick]V$issallāʾ
+
+8'. ($___$) & !cm i-mar-ru-uṣ
+#lem: imarruṣ[be(come) ill]V
+
+9'. !bs {u₂}ṣi-bu-ru & !cm {u₂}ši-iz-ba-nu
+#lem: +ṣibaru[aloe]N$ṣiburu; +šizbānu[milk-fed//(a plant)]N'N$
+
+10'. !bs {u₂}GIR₂.TAB{+a-nu} & !cm {u₂}LAG A.ŠA₃
+#lem: +zuqiqīpānu[scorpion plant]N$; +kirbānu[lump (of earth)//camomile]N'N$kirbān; +eqlu[field]N$eqli
+
+11'. !bs {u₂}DUMU.MUNUS.SIPA & !cm ha-at-ti-re-tu₄
+#lem: +hattirētu[(a plant)]N$; +hattirētu[(a plant)]N$
+
+12'. !cm ha-at-ti-re-tu₄ & !cm : KA la-le-e# 
+#lem: hattirētu[(a plant)]N; pî[accordance]N; +laliu[kid]N$lalê
+
+13'. !bs mas-da-ri & !cm ka-a-a-nu
+#lem: +masdara[continuously]AV$masdari; kayyānu[steady]AJ
+
+14'. !bs {u₂}ha-šib-bur : & !cm {u₂}ak-tam kaš-še#-e#
+#lem: +hašimbar[(a plant)]N$hašibbur; aktam[(a medicinal plant)]N; +kaššû[Kassite]AJ$kaššê
+#note: See @i{Uruʾanna} I 172 (203) - 188 (219), a section with the foreign names of the @i{aktam} plant; 181 (212) has @akk{{u₂}ha-ši-im-bur} = @akk{U₂ MIN MIN} (= {{u₂}ak-tam kaš-ši-i}).
+15'. !bs ru-ub-bu-tu₂ & !cm 1 qa re-bu-u₂ x# x#
+#lem: X; n; +qû[(a capacity measure)]N$qa; rebû[fourth]NU; u; u
+
+16'. !bs SAHAR{+sa-har} KU₃.GI & !cm U₂-MEŠ sa-ma-nim
+#lem: +eperu[earth]N$eper; hurāṣu[gold]N; šammī[plant(s)]N; +samānu[(a skin disease)]N$samāni
+
+#note: Note @akk{SAHAR KÙ.GI} = @akk{U₂ ši-i-pu} in @i{Uruanna} III 480ff (@i{CAD} Š/3 93b) [EJ].
+
+
+17'. !bs NA₄ {u₂?}UKUŠ₂.HAB & !cm NUMUN UKUŠ₂.HAB
+#lem: abnu[stone]N; +errû[colocynth]N$errî; zēr[seed(s)]N; +errû[colocynth]N$errî
+
+18'. !bs PEŠ₄ [A].AB?#.BA & !cm GIM EME GU₄
+#lem: +išqillatu[(a type of) shell]N$išqillat; tâmti[sea]N; kīma[according to]PRP; lišānu[tongue]N; alpi[ox]N
+
+#note: On the @akk{PEŠ₄ A.AB.BA}, see Schuster-Brandis @i{AOAT} 46 (2008) p. 439 [EJ].
+
+19'. !bs nit{+ni-it}-ku !cm šu & !cm ab-nu a-na {na₄}ZU₂ BABBAR / ma-ši-il
+#lem: +nitku[(a mineral or frit)]N$; šū[that]IP; abnu[stone]N; ana[on]PRP; ṣurra[flint]N; peṣi[white]AJ; mašil[equal]AJ
+
+#note: On the mineral @i{nitku}, see @i{CAD} N/2 299b and @i{BAM} 7 9 l. 20 [EJ]. Another possibility would be to read @akk{šu-<u>}, "the @i{šû}-stone," but note that @i{̌šu} introducing commentarial explanations is attested e.g. in @i{CCP} 3.1.47 l. 31'.
+
+20'. !bs IGI & !cm a-ma-ru
+#lem: +amāru[see//seeing]V'N$; amāru[seeing]'N
+
+21'. !bs IGI & !cm ba-la-ṭu
+#lem: +balāṭu[live//living]V'N$; +balāṭu[live//living]V'N$
+
+$(end of side)
+
+@translation labeled en project
+
+@label a 1 - a 2
+"His penis @i{is sick}" means "his penis ...," on account of NAM.GIG (...). 
+
+@label a 3
+
+The word @i{raškat} stems from @i{rašku}, (which means) "strong"; (meaning) that his penis is abnormally swollen.
+
+@label a 4
+
+"To be faint" means "to become small."
+
+@label a 5 - a 6
+
+"You set on fire" means "you burn," since TAB means "to set on fire" and TAB, when read /ta-ab/, means "to burn."
+
+@label a 7
+
+"Extinguisher" means "dissolver" [...].
+
+@label a 8
+
+"Sap of garlic" means ...
+
+@label a 9 - a 11
+
+(The @i{animal}) "fine @i{yarīra} of the field" is the "@i{arantu}-plant." Alternatively, it can mean "the delicate one" (feminine). Thirdly, it can mean ... of the mountain"
+
+@label a 12
+
+"Irḫan" means "Euphrates."
+
+@label a 13
+
+"His lower part" means "his testicles." "Mucus" means "centipede."
+
+@label a 14
+
+"Stone/pit of the @i{qiššû}-gourd" means 'cricket'-plant. On @i{account of} ÚKUŠ [...].
+
+@label a 15
+
+ŠÀ.SUR means "sieve." (@i{It also means}) @i{womb} [...]
+
+@label a 16
+
+(The plant) @i{taḫapšānu} means "camomile," [...]
+
+
+@label a 17
+
+...
+
+@label b 1'
+
+@label b 2'
+
+ZAL, read /[za-a]l/, means "to hold back."
+
+@label b 3'
+
+"@i{To be durable}" means "@i{to be regular}."
+
+@label b 4' - b 6'
+
+"He bows deeply" means "he is bent," since GURU, read /guru/, means "to bow down," GURU, read /guru/, means "to bend."
+
+@label b 7' - b 8'
+
+"He is sick" or, alternatively, "he will be sick," means "he will fall ill."
+
+@label b 9'
+
+(The plant) @i{ṣiburu} (i.e., aloe?) means "milky plant."
+
+@label b 10'
+
+"Scorpion plant" means "camomile."
+
+@label b 11' - b 12'
+
+(The plant) "shepherd's daughter" is (the plant) "female shepherd's staff"; "female shepherd's staff" is (like) @i{the mouth} (or, "the tooth," "the nose," or "the bite") @i{of a young goat}.
+
+@label b 13'
+
+"Constantly" means "regularly."
+
+@label b 14'
+
+(The plant) @i{ḫašibbur} is the Kassite name for the @i{aktam}-plant.
+
+@label b 15'
+
+(One) @i{rubbûtu} is one @i{qa}, @i{a quarter} ...
+
+@label b 16'
+
+"Gold ore" are the plants (to heal) the @i{samānu}-disease.
+
+@label b 17'
+
+"The stone of the @i{errû}-plant" means "seed of the @i{errû}-plant."
+
+@label b 18'
+
+(The stone) "sea pebble" is like the tongue of an ox.
+
+@label b 19'
+
+(The mineral) @i{nitku}, this is a stone similar to white flint.
+
+@label b 20' - b 21'
+
+IGI means "to see," IGI means "to live."

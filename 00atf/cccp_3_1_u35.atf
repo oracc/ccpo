@@ -1,0 +1,40 @@
+&P461215 = CCP 7.2.u27 (http://ccp.yale.edu/P461215) = BM 43528
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x x [x x] : a#-x# x : [...]
+#lem: u; u; u; u; u; u; u; u
+
+2'. !zz [... !qt ina si-im-ti šu-tak-ṣi]-ba#-am-ma bi-nu ar#-ka#-[niš !zz ...]
+#lem: u; ina[in]PRP; +simtu[appropriate symbol]N$simti; +kaṣābu[reduce//reach fullness]V'V$šutakṣibamma; +banû[be(come) good]V$binu; +arkāniš[back]N$; u
+
+#note: Quotation from @i{Enūma eliš} V 20.
+3'. !zz [...] x# !cm : e-de-šu₂ : !bs {d}MA₂ !cm : EN {giš}[MA₂?.GUR₈? ...]
+#lem: u; u; edēšu[be(com)ing new]'N; +Ma[Sîn]DN$; +bēlu[lord]N$; makūri[(processional) boat]N; u
+
+#note: SI.SA-@i{šú}, instead of @i{e-de-šú}, seems also possible [ILF]. The sign MÁ looks like SI with two verticals (d.SI!). d.MÁ is known as a sobriquet of Sîn: see Lambert @i{RlA} 7 192 (referring to An = Anu III 24).
+4'. !zz [...] KA₂?# {d}AMAR.UTU GIM AD?# am#-[...]
+#lem: u; bāb[gate]N; Marduk[1]DN; kīma[according to]PRP; abi[father]N; u
+
+#note: The sign ⸢KÁ⸣ is very uncertain, perhaps better [E].⸢SIR⸣ ⸢šá⸣ Marduk?
+5'. !zz [... !cm ma]-ka#-le-e KU₃-MEŠ !zz : x# [...]
+#lem: u; mākālê[food]N; ellūti[pure]AJ; u; u
+
+6'. !zz [...]-x# : E₂.TUR₃?#.RA :# [...]
+#lem: u; X; u
+
+7'. !zz [...] A?#-MEŠ# [...]
+#lem: u; mê[water]N; u
+
+@translation parallel en project
+
+1'. ...
+2'. [... "Dim]inish [in the proper stages] and shine backwa[rds!" ...]
+3'. [...] ... means "to renew." "Boat God" (d.MÁ) is "the lord of [@i{the boat} ...].
+4'. [...] ... Marduk like a father ... [...].
+5'. [...] "pure [fo]od" means [...].
+6'. [...] ... [...].
+7'. [...] @i{water} [...]

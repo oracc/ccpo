@@ -1,0 +1,59 @@
+&P461248 = CCP 3.1.u40 (http://ccp.yale.edu/P461248) = BM 52938
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x# [x x (x)]
+#lem: u; u; u; u; u
+
+$ single ruling
+2'. !zz [...] U₄# 14#.KAM?# ANŠE.KUR#.[RA]
+#lem: u; +ūmu[day]N$; n; sisê[horse]N
+
+3'. !zz [...]-x#-ni-šu-nu i-tab-ba-[x]
+#lem: u; u
+
+4'. !zz [...]-x#-nu !bs an-zu-u₂ !cm si-su-[u₂]
+#lem: u; Anzu[1]DN; sisû[horse]N
+
+5'. !zz [...]-ras-sa-[x]
+#lem: u
+
+$ single ruling
+6'. !zz [...]-mu-šu₂ da-[x]
+#lem: u; u
+
+7'. !zz [...] !cm la-gu-šu GIM qa-bu-[u₂]
+#lem: u; +lagāʾu[scale]N$lagûšu; kīma[according to]PRP; qabû[said]AJ
+
+$ single ruling
+8'. !zz [...] an-zi-[i?]
+#lem: u; Anzi[1]DN
+
+9'. !zz [...] x# la i-mit-[x]
+#lem: u; u; lā[not]MOD; u
+
+10'. !zz [...] x#-pa DUG₄{+bi}-[ma]
+#lem: u; u; +qabû[say]V$iqabbīma
+
+$(end of column)
+
+@translation parallel en project
+
+1'. ...
+$ single ruling
+2'. [...] @i{14th day}, horse,
+3'. [...] their ...
+4'. [...] @i{anzû} means "horse."
+5'. ...
+$ single ruling
+6'. ...
+7'. [...] as if it said @i{its deposit}.
+$ single ruling
+8'. [...] @i{anzû}
+9'. ...
+10'. [...] @i{it says}

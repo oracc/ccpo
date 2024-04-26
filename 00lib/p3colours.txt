@@ -1,0 +1,22 @@
+colour-def-white		#fff
+colour-def-black		#000
+colour-def-dark			#0e4c92
+colour-def-light		#333333
+colour-def-medium		#990033
+colour-def-outline		#cccccc
+colour-def-alternate		#eeeeee
+colour-def-text			#333333
+colour-def-page			#ffffff
+colour-def-ccpo-contrast 	#0e4c92
+colour-def-ccpo-dark   	#333333
+colour-def-ccpo-mid   		#0e4c92
+colour-def-ccpo-light   	#fff
+colour-def-ccpo-pale  		#333333
+colour-def-ccpo-ultra-light  	#7ba6d6
+
+colour-bind-ccpo-mid 		href-fg banner-bg heading-fg mid
+colour-bind-ccpo-pale 		
+colour-bind-ccpo-contrast	bborder
+colour-bind-ccpo-light		banner-fg hover-bg
+colour-bind-ccpo-dark		border
+colour-bind-ccpo-ultra-light	heading-bg hover-fg

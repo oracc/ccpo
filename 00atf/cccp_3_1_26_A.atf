@@ -1,0 +1,126 @@
+&P348849 = CCP 3.1.26.A (http://ccp.yale.edu/P348849) = W 23303/4
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+@obverse
+1. !bs [* 20 SAG.UŠ] ina GU₄.UD-[šu₂ ša₂-pu !zz x x x x x x]
+#lem: Šamaš[1]DN; kayyāmanu[permanent]AJ; ina[in]PRP; +šehṭu[jump//rising]N'N$šehṭīšu; šapû[obscured]AJ; u; u; u; u; u; u
+
+2. ($___$) !cm ina AN[{+e} x x x x x x]
+#lem: ina[from]PRP; šamê[heaven]N; u; u; u; u; u; u
+
+3. !bs 20 KUR-ma MUL x# x# DAB-šu₂ !zz x x x x x [x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; kakkabi[star]N; u; u; iṣbatušu[seize]V; u; u; u; u; u; u; u
+
+4. !bs 20 KUR-ma MUL !zz x [x x] x x x x [x x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; kakkabi[star]N; u; u; u; u; u; u; u; u; u; u
+
+5. !bs 20 KUR-ma MUL SUR !cm ina U₄ !zz x x x x [x x x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; kakkabu[star]N; +ṣarāhu[flare]V$iṣruh; ina[on]PRP; ūmi[day]N; u; u; u; u; u; u; u; u +.
+
+6. ($___$) !cm ša₂-niš ina KUR 20 MUL [x x x x]
+#lem: šanîš[alternatively]AV; ina[at]PRP; +niphu[(act of) lighting//rising]N$nipih; Šamaš[1]DN; kakkabu[star]N; u; u; u; u +.
+
+7. !bs 20# KUR#-ma SA₅ !cm AN.GE₆ SA₅ [x x x x x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; sām[red]AJ; attallû[eclipse]N; sāmu[red]AJ; u; u; u; u; u; u +.
+
+8. !bs [20 KUR]-ma# BABBAR# !cm AN{+u₂?} !zz [x x x x x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; peṣi[white]AJ; šamû[rain]N; u; u; u; u; u; u +.
+
+9. !zz [x x x x] x# x# MUL# [x x x x x x]
+#lem: u; u; u; u; u; u; kakkabi[star]N; u; u; u; u; u; u
+
+$ rest of obverse missing
+
+@reverse
+$ start of reverse missing
+1'. !zz [(x x x) x x] 11# it-ti-šu₂ [x x x]
+#lem: u; u; u; u; u; n; ittišu[with]PRP; u; u; u
+
+2'. !zz [(x x x) x x] 14 $EŠ x $IGI [x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u
+
+3'. ($___$) !zz [x x] : !bs MUD : !cm ga-la-tu₄# : MUD [: da-ʾa-mu]
+#lem: u; u; +galātu[tremble//trembling]V'N$; +galātu[tremble//trembling]V'N$; +daʾāmu[be(come) dark//be(com)ing dark]V'N$; +daʾāmu[be(come) dark//be(com)ing dark]V'N$
+
+#note: The restoration at the end is uncertain, it follows CCP 3.1.1.F o 8 (ACh Suppl 17).
+
+4'. ($___$) !cm AN.GE₆ !zz [x x x]
+#lem: attallû[eclipse]N; u; u; u +.
+
+5'. !bs 20 KUR-ma MUL.<MUL> NIGIN₂ !cm x-ME u x# !zz [x x x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; Zappu[Bristle]CN; lami[surrounded]AJ; u; u[and]CNJ; u; u; u; u; u +.
+
+6'. !bs 20 KUR-ma ib-ru-ur !cm i-dir !zz [x x x]
+#lem: Šamaš[1]DN; ippuhma[rise]V; +barāru[flicker//be(come) dim]V$ibrur; X; u; u; u +.
+
+7'. !bs 20 KUR-ma me-hu-u₂ DU !cm me-he-e {im}SI#.[SA₂]
+#lem: Šamaš[1]DN; ippuhma[rise]V; mehû[storm wind]N; illik[blow]V; mehê[storm wind]N; iltāni[north]N +.
+
+$ double ruling
+
+8'. !zz NIG₂.ZI.GAL₂.EDIN.NA u šu-ut KA ša₂ * 20 SAG.UŠ ina GU₄.UD-šu₂ [ša₂-pu]
+#lem: +ṣiātu[distant time//commentary]N$ṣâtu; u[and]CNJ; šūt[who(m)]DET; pî[mouth]N; ša[of]DET; Šamaš[1]DN; kayyamānu[normal]AJ; ina[at]PRP; šehṭīšu[rising]N; šapû[obscured]AJ
+
+9'. !zz * 20 KUR-ma UD.DA#-su dan-na#-[at]
+ 
+#lem: Šamaš[1]DN; ippuhma[rise]V; +ṣētu[bright light]N$ṣēssu; +dannu[strong]AJ$dannat
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+@translation labeled en project
+
+@label o 1 - o 2
+"[If the regular sun flares up] when it rises" (= @i{Enūma Anu Enlil} 26(27) 1) [...], means that in the sky [...].
+
+@label o 3
+"(If) the Sun rises and a star ..." (= @i{Enūma Anu Enlil} 26(27) unknown) [...].
+
+@label o 4
+"(If) the Sun rises and a star ..." (= @i{Enūma Anu Enlil} 26(27) unknown) [...] ... [...].
+
+@label o 5 - o 6
+"If the Sun rises and a star flares up" (= @i{Enūma Anu Enlil} 26(27) unknown) means that on the day ... [...]; alternatively, it means that at sunrise a star [...].
+
+@label o 7
+"(If) the Sun rises and is red" (= @i{Enūma Anu Enlil} 26(27) I 13) means a red eclipse [...].
+
+@label o 8
+"(If) the Sun rises and is white" (= @i{Enūma Anu Enlil} 26(27) unknown) means ... [...].
+
+@label o 9
+...
+
+@label r 1'
+[...] with it [...]
+
+@label r 2' - r 4'
+[...] 14 ... [...] @i{mud} (means "to be afraid," @i{mud} means [...] eclipse [...].
+
+@label r 5'
+
+"(If) the Sun rises and is surrounded by a star" (= @i{Enūma Anu Enlil} 26(27) unknown) means ... [...].
+
+@label r 6'
+"(If) the Sun rises and becomes dim" (= @i{Enūma Anu Enlil} 26(27) unknown) means "it becomes dark [...].
+
+@label r 7'
+"(If) the Sun rises and a storm wind blows" (= @i{Enūma Anu Enlil} 26(27) unknown) "a storm wind" means "a no[rth wind]."
+
+$ double ruling
+@label r 8'
+Lemmata and oral explanations relating to (the tablet) "If the regular sun [flares up] when it rises" (= @i{Enūma Anu Enlil} 26(27) 1)
+
+@label r 9'
+"(If) the Sun rises and its light is strong"  (= catchline of @i{Enūma Anu Enlil} 27(28)).
+

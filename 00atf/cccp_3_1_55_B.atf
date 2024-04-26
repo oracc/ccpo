@@ -1,0 +1,182 @@
+&P394343 = CCP 3.1.55.B (http://ccp.yale.edu/P394343) = K.2314
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+1. !bs [* {mul}ŠUDUN] ina E₃#-šu₂ ša₂-qu-um-ma it#-[tan-mar]
+#lem: Niru[Yoke]CN; ina[in]PRP; aṣîšu[going out]'N; +šaqû[high]AJ$šaqûm-ma; ittanmar[appear]V
+
+#tr.en: “If the Yoke Constellation, when it rises, is (lit: ‘was’) high and [visible],
+#note: Since Craig made his copy the first words in the line have broken away, but they can be restored on the basis of o 4, 8 and 14 and r 9'. The correctness of the restoration of @i{ītanmar} is assured by CCP 3.1.55.G o 1 and the Assur catalogue of @i{EAE} incipits (Fincke 2001: p. 24 I 10').
+2. ($___$) !bs BURU₁₄ KUR SI.SA₂ !bs {mul}ŠUDUN !cm : {d}SAG.[ME.GAR ...]
+#lem: ebūr[harvest]N; māti[land]N; iššir[thrive]V; Niru[Yoke]CN; nēberu[Jupiter]CN; u
+
+#tr.en: the harvest of the land will prosper.” “The Yoke Constellation” means “Ju[piter” …]
+#note: In CCP 3.1.55.G, “The harvest of the land will prosper” is cited as the apodosis in the base text. For the equation of the Yoke Constellation with Jupiter elsewhere see Brown (2000: 60).
+3. ($___$) !bs šu-pu-u₂ !cm : ba-nu-u !bs ina IGI.LA₂-šu₂ GUR₄-ma !cm [: ...]
+#lem: šūpû[resplendent one]N; banû[creating]'N; ina[at]PRP; tāmartišu[appearance]N; ibaʾʾil-ma[be dominant]V; u
+
+#tr.en: “to appear” means “to create.” “When it appears it is exceptionally bright” [ means “…”]
+#note: Both @akk{šu-pu-ú} and @akk{ina IGI.LA₂-šu₂ GUR₄-ma} must be drawn from somewhere between the first entry in the base text and the entry cited in l. 4. Neither are commented on in @i{CCP} 3.1.55.G.
+4. !bs * {mul}ŠUDUN ina E₃-šu₂ ana {d}UTU.E₃ IGI#-šu₂# [GAR{+nu} !cm : ...]
+#lem: Niru[Yoke]CN; ina[in]PRP; aṣîšu[going out]'N; ana[according to]PRP; ṣīt[exit]N&šamši[sun]N; pānīšu[face]N; šaknū[displayed]AJ; u
+
+#tr.en: “If the Yoke Constellation, when it rises, [faces] east” [means “…]
+#note: This protasis is also explained in CCP 3.1.55.G o 3.
+5. ($___$) !zz {im}U₁₈.LU GIŠ.HUR ina {iti}KIN U₄.10?#.[KAM] 
+#lem: šūti[south]N; uṣurta[(cruciform halo)]N; ina[in]PRP; Ululu[1]MN; n
+
+#tr.en: the South Wind […] a halo in Month 6 day 10[(+ n) …]
+
+6. ($___$) !bs {d}SAG.ME.GAR ina IGI.LA₂-šu₂ KI.TA x# [...]
+#lem: nēberu[Jupiter]CN; ina[in]PRP; tāmartišu[appearance]N; šapliš[below]AV; u; u
+
+#tr.en: Jupiter, when it appears, below … […]
+7. ($___$) !cm : {d}GU₄.UD  ina {d}UTU.E₃!(DU) [DU]
+#lem: Šehṭu[Mercury]CN; ina[in]PRP; ṣīt[exit]N&šamši[sun]N; illak[go]V
+
+#tr.en: means “Mercury [will move] into the east.”
+#note: The apparent equation of Jupiter in the base text with Mercury may be due to the fact that it shares the name “Marduk planet” with Mercury (Brown 2000: 57).
+8. !bs * {mul}ŠUDUN ina E₃-šu₂ ana {d}UTU.ŠU₂.A IGI-šu₂ GAR{+na#}
+#lem: Niru[Yoke]CN; ina[in]PRP; aṣîšu[going out]'N; ana[according to]PRP; ereb[entrance]N&šamši[sun]N; pānīšu[face]N; iššakkanā[take place]V
+
+#tr.en: “If the Yoke Constellation, when it rises, faces west”
+9. ($___$) !cm IM mim-ma la i-zi-qa SU.GU₇ GAR[{+an}] 
+#lem: šāru[wind]N; mimma[anything]XP; lā[not]MOD; izīqā[blow]V; bubūtu[hunger]N; iššakkan[take place]V
+
+#tr.en: (means) “No wind will blow (and) there will be famine.”
+#note: The protasis quoted in l. 8 is explained differently in CCP 3.1.55.G o 5 (as: “Together with Jupiter it grows small in the west and sets early”).
+10. ($___$) !bs {d}SAG.ME.GAR ina IGI.LA₂-šu₂ AN.TA-ma [...]
+#lem: nēberu[Jupiter]CN; ina[in]PRP; tāmartišu[appearance]N; +eliš[above]AV$eliš-ma; u
+
+#tr.en: Jupiter, when it appears above and […]
+11. ($___$) !cm : {d}GU₄.UD ina {d}UTU.ŠU₂.A [DU?]
+#lem: Šehṭu[Mercury]CN; ina[in]PRP; ereb[entrance]N&šamši[sun]N; illak[go]V
+
+#tr.en: means “Mercury [@i{will move}] into the west.”
+#note: Restoration based on the presumed parallel in o 6-7.
+12. !bs * ina IGI {mul}ŠUDUN {mul}GE₆ IGI GI.NA [(...)]
+#lem: ina[in]PRP; pān[front]N; Niru[Yoke]CN; ṣalmi[dark star]N; pān[front]N; kittu[truth]N; u
+
+#tr.en: “If the Black One is visible in front of the Yoke Constellation … […]”
+13. ($___$) !cm ina IGI {d}SAG.ME.GAR {d}SAG.UŠ x?# [...]
+#lem: ina[in]PRP; pān[front]N; nēberu[Jupiter]CN; Kayyamanu[Saturn]CN; u; u
+
+#tr.en: (means) “Before Jupiter, Saturn […”]
+14. !bs * {mul}ŠUDUN# ina?# KI#.GUB# {d?}UTU?{+šu₂?#} GUB{+iz} x# [...]
+#lem: Niru[Yoke]CN; ina[in]PRP; manzāzi[position]N; Šamšu[1]DN; izziz[stand out]V; u; u
+
+
+#tr.en: “If the Yoke Constellation stands in the position of the sun … […]”
+15. ($___$) !cm ina# AN.GE₆ {d}UTU {d}SAG#.[ME.GAR? ...]
+#lem: ina[in]PRP; attallê[eclipse]N; Šamaš[1]DN; nēberu[Jupiter]CN; u
+
+#tr.en: (means) “In an eclipse of the sun, Jup[iter …]
+#note: Yoke Constellation = Jupiter.
+16. !bs * {mul}ŠUDUN ma-diš SA₅ HE₂.GAL₂ ina [KUR GAL₂{+ši}]
+#lem: Niru[Yoke]CN; mādiš[greatly]AV; sāmū[red]AJ; hengalla[plenty]N; ina[in]PRP; māti[land]N; ibašši[exist]V
+
+#tr.en: “If the Yoke Constellation is very red, [there will be abundance in [the land]
+17. ($___$) !cm {d}SAG.ME.GAR i-ba-[aš?-ši? ...]
+#lem: nēberu[Jupiter]CN; +bašû[be (at hand)]V$ibašši; u
+
+#tr.en: (means) “Jupiter @i{will} [@i{be} …]”
+#note: Yoke Constellation = Jupiter.
+18. !bs * {mul}ŠUDUN# ma#-diš# SIG₇# SU.GU₇ ina KUR GAL₂{+ši} !cm {d}SAG.ME.[GAR]
+#lem: Niru[Yoke]CN; mādiš[greatly]AV; aruq[yellow]AJ; bubūtu[hunger]N; ina[in]PRP; māti[land]N; ibašši[exist]V; nēberu[Jupiter]CN
+
+#tr.en: “If the Yoke Constellation is very yellow-green, there will be a famine in the land” (means) “Jupi[ter.]”
+19. !bs * {mul}ŠUDUN ma-diš <x> AN.GE₆ KUR.KUR !cm {d}SAG.ME.[GAR ...]
+#lem: Niru[Yoke]CN; mādiš[greatly]AV; u; attallû[eclipse]N; +mātu[land]N$mātāti; nēberu[Jupiter]CN; u
+
+#tr.en: “If the Yoke Constellation is very <…>, (there will be) an eclipse (affecting) all the lands” (means) “Jupi[ter.]”
+20. !bs * {mul}ŠU.PA# ana?# MUL.MUL TE {d}IMIN.BI x# [...]
+#lem: Šupa[1]CN; ana[according to]PRP; Zappu[Bristle]CN; iṭhe[approach]V; Sebettu[Seven]DN; u; u
+
+#tr.en: “If the Yoke Constellation approaches the Pleiades” means “The @i{Sebettu} … […]”
+#note: Pleiades = Sebettu.
+21. ($___$) !cm {d}SAG.ME.GAR ina MUL.MUL DU?# [(...)]
+#lem: nēberu[Jupiter]CN; ina[in]PRP; Zappu[Bristle]CN; illik[go]V; u
+
+#tr.en: (means) “Jupiter will @i{move} into the Pleiades [(…)].”
+#note: Yoke Constellation = Jupiter.
+22. !bs * {mul}ŠU.PA a-dir LUGAL URI{ki} ZI-ma KUR ELAM.MA{ki#} [(...)]
+#lem: Šupa[1]CN; adir[dark]AJ; šar[king]N; Akkad[1]SN; itebbema[arise]V; māt[land]N; Elam[1]GN; u
+
+#tr.en: “If the Yoke Constellation grows dark, the king of Akkad will arise and […] the land of Elam.”
+23. ($___$) !cm {d}ṣal-bat-a-nu u₂-KAL-[x]
+#lem: Ṣalbatanu[Mars]CN; u
+
+#tr.en: (means) “Mars will …”
+#note: Yoke Constellation = Mars.
+$ single ruling
+24. !bs [x x] x# x# [x x] DIRI {d}e₂-a IDIM-MEŠ-šu₂ {d}IŠKUR [...]
+#lem: u; u; u; u; u; u; u; Ea[1]DN; +nagbu[underground water]N$nagbīšu; Adad[1]DN; u
+
+#tr.en: […] … Ea his underground waters, Adad […]
+25. !zz [...] x# ina {mul}GU.LA i-x#-[...]
+#lem: u; u; ina[in]PRP; Gula[1]'CN; u
+
+#tr.en: […] in the Gula Constellation […]
+26. !zz [...] x# mi [...]
+#lem: u; u; mī[what?]QP; u
+
+#tr.en: […] … […]
+27. !zz [...] x x [...]
+#lem: u; u; u; u
+
+#tr.en: …
+@reverse
+1'. ($___$) {d#}[...]
+#lem: u
+
+#tr.en: (means) “…”
+$ single ruling
+2'. !bs * {mul}SAG#.[ME.GAR ...]
+#lem: Neberu[Jupiter]CN; u
+
+#tr.en: “If Jup[iter …]
+3'. ($___$) !cm {d}dil-bat ina [x (x)] x# x [...]
+#lem: Dilbat[Venus]CN; ina[in]PRP; u; u; u; u; u
+
+#tr.en: (means) “Venus in […]”
+#note: Jupiter = Venus.
+4'. !bs * {mul}MIN {mul}AŠ.GAN₂ KUR-ma# [...]
+#lem: X; +Ikû[Pegasus]CN$; ippuhma[rise]V; u
+
+#tr.en: “If ditto @i{reaches} the Field Constellation […]
+5'. ($___$) !cm {d}dil-bat ina {mul}LU₂.HUN#.GA₂# [...]
+#lem: Dilbat[Venus]CN; ina[in]PRP; Agru[Hireling]CN; u
+
+#tr.en: (means) “Venus in the Ares Constellation […]”
+#note: This explanation appears to equate Jupiter with Venus and the Field with Ares.
+$ single ruling
+6'. !bs * {mul}MAR.GID₂.DA ana {mul}ŠUDUN [...]
+#lem: Ereqqu[Wagon]CN; ana[at]PRP; Niru[Yoke]CN; u
+
+#tr.en: “If the Waggon Constellation […] to the Yoke Constellation”
+7'. ($___$) !bs ir*-ru-ur !cm {d}dil-bat x# x# x# [...]
+#lem: irrur[be(come) parched]V; Dilbat[Venus]CN; u; u; u; u
+
+#tr.en: “It will be convulsed” (means) “Venus … […]”
+$ single ruling
+8'. !zz mu#-kal-lim-ti ša₂# U₄ AN {d}EN.LIL₂.[LA₂]
+#lem: mukallimti[scholarly commentary]N; ša[of]DET; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN
+
+#tr.en: @i{Mukallimtu}-commentary on (the series) @i{Enūma Anu Enlil}, [(with) oral explanations following the sayings of a (master-)scholar, (referring to entries)]
+9'. !zz [ša₂] ŠA₃# * {mul}ŠUDUN ina E₃-šu₂ ša₂-[qu-um-ma it-tan-mar]
+#lem: ša[of]DET; libbi[concern]N; Niru[Yoke]CN; ina[in]PRP; aṣîšu[going out]'N; šaqûm-ma[high]AJ; ittanmar[appear]V
+
+#tr.en: [fro]m “If the Yoke Constellation, when it rises, is h[igh and visible”]
+10'. !zz [KUR] {m#}AN.ŠAR₂-DU₃-A MAN GAL MAN dan-nu# [MAN ŠU₂ MAN KUR AN.ŠAR₂{ki}]
+#lem: mātu[land]N; Assurbanipal[1]RN; šarru[king]N; rabâ[great]AJ; šarru[king]N; dannu[mighty]AJ; šar[king]N; kiššati[universe]N; šar[king]N; mātu[land]N; +Assur[]GN$
+
+#tr.en: [(Property) of the palace] of Ashurbanipal, great king, mighty king, [king of the four quarters, king of Assyria]
+11'. !zz [x x x] x# [(x)] IGI-MEŠ-šu-ma [...]
+#lem: u; u; u; u; u; +īnu[eye]N$īnīšū-ma; u
+
+#tr.en: [… who]se eyes … […]
+#note: Compare @i{BAK} no. 323 (Asb. Typ i-k).

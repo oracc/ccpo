@@ -1,0 +1,242 @@
+&P293337 = 6.1.41 (http://ccp.yale.edu/P293337) = NBC 7832
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs * ab# & !bs AB₂ & !bs da-du !cm : ra-[a-mu]
+#lem: u; u; +dādu[darling]N$; +rāmu[(be)loved]AJ$
+
+#NV for now I have left the Sumerian alone - will look at that later
+
+2. !bs * ub & !bs UB₆ & !bs hu-up-pu !cm : maš-ku ša₂ li-li#-[is-si]
+#lem: u; u; +uppu[drum]N$huppu; mašku[skin]N; ša[of]DET; +lilissu[kettledrum]N$lilissi
+
+#NV changed +lilissu[kettledrum]N$ to +lilissu[kettledrum]N$lilissi
+
+3. !bs * ki-si-im & !bs KISIM₅ & !bs ki-sim-mu !cm : tar-ba-ṣu re-ʾu#-[u₂-ti]
+#lem: u; u; +kisimmu[sour milk]N$; +tarbaṣu[animal stall]; rēʾûti[shepherdship]N
+
+4. & & & !cm aš-šum KI : šup-lu : SI : im-[me-ru₃]
+#lem: aššum[because of]'PRP; +šuplu[depth]N$; šuplu[depth]N; +immeru[sheep]N$; +immeru[sheep]N$
+
+#note: The restoration of @i{immeru} at the end is based on Ea I 193: si-i LU @i{immerum}. If the MU from @i{kisimmu} was also glossed, the gloss would have been written over the now lost right edge of the tablet.
+
+5. !bs * ni-im & !bs NIM & !bs ma-ra-ru₃ !cm : da-na-[nu]
+#lem: u; u; +marāru[be(come) bitter//be(com)ing bitter]V'N$; +danānu[be(come) strong//be(com)ing strong]V'N$
+
+6. !bs <(ni-im)> & !bs <(NIM)> & !bs la-wi-ra-nu !cm : A-MEŠ pa-ši-ru-[tu]
+#lem: u; u; +lāʾiriānu[standing water]N$lāwīranu; mê[water]N; +pāširu[dissolver]AJ$pāširūtu
+
+#NV changed +lāʾirānu[standing water]N$ to +lāʾiriānu[standing water]N$lāwīranu. Note that brackets in CF in CDA are dropped. Thus lāʾir(i)ānu (CDA) becomes lāʾiriānu
+
+#NV pāširu is a lemma where CDA has merged N and AJ. We need to keep them apart; morphology shows that this is an adjective. Changed +pāširu[retail merchant//dissolver]AJ'AJ$pāširūtu to +pāširu[dissolver]AJ$pāširūtu
+
+7. !bs <(ni-im)> & !bs <(NIM)> & !bs i-ta-aš-mu-um-mu !cm : ša₂-ma-[mu]
+#lem: u; u; +šamāmu[injure//becoming injured]V'N$itašmummu; +šamāmu[injure//injuring]V'N$
+
+8. !bs <(ni-im)> & !bs <(NIM)> & !bs nam-ṣa-tu !cm : ba-aq-qa : pa-nu-[u₂]
+#lem: u; u; +lamṣu[(a large fly)//fly(-bite)]N'N$namṣatu; +baqqu[(small) fly]N$baqqa; +pānû[first]AJ$
+
+#NV changed +lamṣu[fly(-bite)]N$namṣatu to +lamṣu[(a large fly)//fly(-bite)]N'N$namṣatu
+
+9. & & & !cm mah-ru-u₂ !cm ša₂-niš har-pu#
+#lem: mahrû[first]AJ; šanîš[alternatively]AV; +harpu[early]AJ$
+
+10. !bs * di-ih & !bs DIH₃(NIM) & !bs ha-an-da-aš-pu-ri !cm : za-ʾi-i#-[tu]
+#lem: u; u; +handašpiru[(a thorny plant)]N$handašpuri; +šaʾtu[(a type of thorny plant)]N$zaʾitu
+
+#note: The sign after the aleph cannot be T[U] (pace @i{MSL} 14 p. 506), nor TA, TE, TI, TÚ. The reading I is possible, but there are other possibilities.
+
+#NV changed +šaʾtu[(a type of thorny plant)]N$ to +šaʾtu[(a type of thorny plant)]N$zaʾitu
+
+#NV changed +handašpiru[(a thorny plant)]N$ to +handašpiru[(a thorny plant)]N$handašpuri
+
+11. & & & !cm ša₂-niš ha-an-da-bil-lu₄ : su-tu : tu-ub-[x (x)]
+#lem: šanîš[alternatively]AV; +handabillu[(a kind of shell)//(a thorny plant)]N'N$; +sūtu[(a briar)]N$; u; u
+
+12. & & & !cm ša₂-niš hi-šu-tu : bal-tu₄ : sah-maš-tu : tu-x#-[x]
+#lem: šanîš[alternatively]AV; +hīštu[thorn bushes]N$hīšūtu; +baltu[(a spiny plant)]N$; +sahmaštu[rebellion//(a thorny plant)]N'N$; u
+
+#NV changed bāltu[dignity]N to +baltu[(a spiny plant)]N$
+
+13. !bs * tu-u₂ & !bs TUM₃ & !bs a-ru-u₂ !cm : ba-ba-[lu]
+#lem: u; u; +warû[lead//leading]V'N$arû; +wabālu[carry//carrying]V'N$babālu
+
+#NV changed +warû[lead//leading]V'N$ to +warû[lead//leading]V'N$arû
+#NV changed +wabālu[carry//carrying]V'N$ to +wabālu[carry//carrying]V'N$babālu
+
+14. !bs <(tu-u₂)> & !bs <(TUM₃)> & !bs ta-la-lu !cm : ša₂-qu-u₂ : ta-la-lu : ma-ah#-[ru-u₂]
+#lem: u; u; talālu[stretching]'N; šaqû[be(com)ing high]'N; talālu[stretching]'N; +mahrû[first]AJ$
+
+15. & & & !cm ta-la-lu : ra-aš₂ e-mu-qa : la-lu-u :# [x x x]
+#lem: talālu[stretching]'N; +rāšû[possessor]N$rāš; emūqā[strength]N; +lalû[plenty]N$; u; u; u
+
+16. & & & !cm la-lu-u₂ : ṣa-[ra-pu]
+#lem: lalû[plenty]N; +ṣarāpu[be loud//being loud]V'N$
+
+#note: The restoration at the end is based on @i{Aa} III/2 145 (@i{MSL} 14 p. 330) @i{ṣarāpu ša lalê}, "to be loud, said of exhuberance."
+
+17. !bs * ma-aš₂ & !bs MAŠ₂ & !bs ṣib-tu₄ !cm : ni-is-[hu]
+#lem: u; u; +ṣibtu[interest]N$; +nishu[extract(ion)]N$
+
+18. !bs * ku-un & !bs KUN & !bs za-ap-pi !cm : kak-ku zu-um*#-[ri]
+#lem: u; u; +zappu[tuft of hair]N$zappi; +kakku[weapon]N$; +zumru[body]N$zumri
+
+#note: The final sign is clearly UM, but the restoration is tentative. The sign before UM is ZU, as copied by Goetze, and not SU, as read in @i{MSL} 14 p. 506.
+
+#NV changed +zappu[tuft of hair]N$ to +zappu[tuft of hair]N$zappi
+
+19. !bs *# su#-kud & !bs SUKUD & !bs ar₂-kum !cm : ar-ku : ka-pa-ri : za?-x#-[x]
+#lem: u; u; +arku[long]AJ$arkum; arku[long]AJ; +kapāru[peel//peeling]V'N$kapāri; u
+
+#note: The reading of the third word as @i{upqu}, as in @i{MSL} 14 p. 506, is ill-suited in the present context.
+
+#NV changed +arku[long]AJ$ to +arku[long]AJ$arkum
+#NV changed +kapāru[peel//peeling]V'N$ to +kapāru[peel//peeling]V'N$kapāri
+
+20. !bs <(su-kud)> & !bs <(SUKUD)> & !bs ka-pa-šum !cm : ṣa-pa-ri ša₂ qar?-ni# [x x]
+#lem: u; u; +kapāšu[be abundant//being abundant]V'N$kapāšum; +ṣapāru[press down//pressing down]V'N$ṣapāri; ša[of]DET; +qarnu[horn]N$qarnī; u; u
+
+#note: The sign after @i{šá} is perhaps an archaizing form of @i{qar}.
+
+#NV changed +kapāšu[be abundant//being abundant]V'N$ to +kapāšu[be abundant//being abundant]V'N$kapāšum
+
+#NV changed +ṣapāru[press down//pressing down]V'N$ to +ṣapāru[press down//pressing down]V'N$ṣapāri
+
+21. & & & !cm mim#-ma zu-uq-[qu?-tu?]
+#lem: mimma[anything]XP; +zuqqutu[pointed]AJ$
+
+@reverse
+
+22. !bs [*] du#-si & !bs DUPSIK(IL₂) & !bs tup-šik-ku !cm : ku#-[dur₂-ru]
+#lem: u; u; +tupšikku[brick-carrying frame]N$; kudurru[boundary]N
+
+#note: The sign ÍL is written in an archaizing fashion.
+23. !bs * su-ul & !bs SUL(DUN) & !bs le-e-bu !cm : mur-ṣu aš-šum# [x x]
+#lem: u; u; lēbu[(a disease)]N; murṣu[illness]N; aššum[because of]'PRP; u; u
+
+24. !bs <(su-ul)> & !bs <(SUL(DUN))> & !bs ma-ra-hu !cm : za-x#-[x]
+#lem: u; u; +marāhu[allow to become spoiled//allowing to become spoiled]V'N$; u
+
+25. !bs * du-un & !bs DUN & !bs de-e-pu !cm : da-[x x]
+#lem: u; u; +dêpu[lay the warp//laying the warp]V'N$; u; u
+
+#note: Pace Dunham @i{RA} 80 (1986) p. 56 fn. 108, the last preserved sign is clearly DA.
+26. !bs * ša₂-ha-an & !bs ŠAHAN₃(DUN) & !bs ša₂-ha-nu !cm : {d}[ŠAH₃]
+#lem: u; u; +Šahan[]DN$Šahanu; +Šahan[]DN$
+
+27. !bs * du-un-du-un & !bs DUN.DUN & !bs ta-ra-hu ša₂ IGI !cm : ta-ru-u : [na-šu-u]
+#lem: u; u; +tarāhu[dig up//digging up]V'N$; ša[of]DET; +īnu[eye]N$īnī; +tarû[lift up//lifting up]V'N$; našû[lifting]'N
+
+28. & & & !cm aš-šum na-šu-u₂ ša₂ IGI : la#-[x x]
+#lem: aššum[because of]'PRP; našû[lifting]'N; ša[of]DET; īnī[eye]N; u; u
+
+29. !bs <(du-un-du-un)> & !bs <(DUN.DUN)> & !bs la-ga-ga !cm : ša₂-su-u₂ : bi-tak₂?#-[ku-u]
+#lem: u; u; +lagāgu[cry out//crying out]V'N$lagāga; šasû[shouting]'N; +bakû[weep//weeping]V'N$bitakkû
+
+#note: Goetze's copy of the last sign is accurate. The sign ŠIM, as read in MSL 14 p. 507 (@i{ri}[@i{g}?-@i{mu}]), is unlikely. The restoration adopted here is very tentative.
+
+#NV changed +lagāgu[cry out//crying out]V'N$ to +lagāgu[cry out//crying out]V'N$lagāga
+
+30. !bs <(du-un-du-un)> & !bs <(DUN.DUN)> & !bs EME ša₂ pa-ša₂-lu₄ !cm : tur-ru-pu?# [(x x)]
+#lem: u; u; +lišānu[tongue]N$; ša[that]REL; +pašallu[(a kind of) gold]N$; +turrupu[coated with]AJ$; u; u
+
+#note: The first phrase of the third column is taken here provisionally to mean "ingot of gold" (On @i{lišānu} + Metal Name as "ingot" see CAD L 215a). Cf. CCP 3.7.2.C (@ṣâtu-commentary on @i{Alamdimmû}) r 2: EME @i{šá ṣi-pa-ru}. According to U. Gabbay, it could also be interpreted as “language of crawling,” taking @i{lišānu ša} as a technical term (for which there are parallels). The last preserved sign is not U, as copied by Goetze and read in MSL 14 p. 507, but rather a ŠE-looking sign.
+
+#NV changed +tarāpu[be covered with colour//coated with]V'AJ$turrupu to +turrupu[coated with]AJ$. Statives = adjectives are listed separately (even if that means adding a word to the CDA inventory)
+
+31. !bs <(du-un-du-un)> & !bs <(DUN.DUN)> & !bs ri-ʾi-i-tu₄ bu-lim !cm : dag-x#-[x]
+#lem: u; u; +rîtu[pasture]N$riʾītu; +būlu[animals]N$būlim; u
+
+#note: The sign after DAG is probably not a colon.
+
+#NV changed +būlu[animals]N$būli to +būlu[animals]N$būlim
+
+32. !bs <(du-un-du-un)> & !bs <(DUN.DUN)> & !bs da-ka-ku !cm : ša₂-su#-[u₂]
+#lem: u; u; +dakāku[crush//crushing]V'N$; šasû[shouting]'N
+
+33. !bs * su-ul-su-ul & !bs SUL(DUN).SUL(DUN) & !bs ur-ru-hu !cm : ha-ma#-[ṭu]
+#lem: u; u; urruhu[speeding up]'N; hamāṭu[hastening]'N
+
+34. !bs <(su-ul-su-ul)> & !bs <(SUL(DUN).SUL(DUN))> & !bs ša₂-ra-hu !cm : ba#-[x x]
+#lem: u; u; +šarāhu[take pride in//taking pride in]V'N$; u; u
+
+$ single ruling
+@colophon
+
+35. &4 !zz * en EN₇(ZAG) a-di 41 pir-su * A₂# [a na-a-qu]
+#lem: u; u; adi[until]PRP; n; pirsu[divison]N; u; u; +nâqu[cry (out)//crying (out)]V'N$
+
+36. &4 !zz BIR-MEŠ NU AL.TIL ṣa-a-tu₂ šu-ut KA u maš#-[ʾa-al-ti]
+#lem: issappahū[scatter]V; ul[not]MOD; qati[completed]AJ; ṣâtu[commentary]N; šūt[who(m)]DET; pî[mouth]N; u[and]CNJ; +mašʾaltu[questioning]N$mašʾalti
+
+#note: The meaning of BIR-MEŠ is unknown: see Civil @i{MSL} 14 (1979) p. 147-148.
+
+#NV changed +mašʾaltu[questioning]N$ to +mašʾaltu[questioning]N$mašʾalti
+
+37. &4 !zz ša₂ KA um-man-nu ša lib₃-bi * ab AB₂ [da-du ra-a-mu]
+#lem: ša[of]DET; pî[accordance]N; ummannu[scholar]N; ša[from]DET; libbi[heart]N; u; u; dādu[darling]N; rāmu[(be)loved]AJ
+
+38. &4 !zz im-gi₃-da {aš}ta-qiš-{d}gu-la {lu₂#*}[NU-EŠ₃ {d}en-lil₂]
+#lem: +imgiddû[(a single-columned tablet)]N$imgidda; +Taqiš-Gula[]PN$; +nêšakku[(a priest)]N$; +Ellil[]DN$
+
+#note: Taqīš-Gula's title has been restored after YBC 11380. The last preserved sign is clearly LÚ.
+39. &4 !zz EDURU*# {m#}{d}en-lil₂-EN-šu₂-nu A {m}{d}en-lil₂-UŠ-{d#}[i₂-gi₃-gi₃ MAN.MAN]
+#lem: +aplu[son]N$apal; +Ellil-belšunu[]PN$; +aplu[son]N$apal; +Ellil-UŠ-Igigi[]PN$; X
+
+#note: The end has been restored after PTS 1.
+
+#NV for some odd reason aplu is lemmatized [son] rather than [heir]
+
+@translation parallel en project
+
+1. ÁB, read /ab/, means "darling" (= @i{Ea} VIII 154), i.e., "beloved."
+2. UB₆, read /ub/, means "drum"  (= @i{Ea} VIII 159), i.e., "membrane of a kettledrum."
+3. KISIM₅, read /kisim/, means "sour milk" (?) (= @i{Ea} VIII 162), which means "shepherd's fold,"
+4. on account of (the fact that from its components) KI means "depth" and SI means "sheep."
+5. NIM, read /nim/, means "to be bitter" (= @i{Ea} VIII 163?), i.e., "to be strong."
+6. (Ditto ditto) means "standing water" (= @i{Ea} VIII 164?), i.e., "purifying waters."
+7. (Ditto ditto) means "to become lame" (= @i{Ea} VIII 165?) from (the verb) "to lame."
+8. (Ditto ditto) means "a big fly" (= @i{Ea} VIII 166?), i.e., "fly," i.e., "first,"
+9. i.e., "former;" alternatively, "early."
+10. NIM, read /dih/, means "the @ḫandašpuru-briar" (cf. @i{Ea} VIII 169), i.e., the @zāʾitu-briar.
+11. Alternatively it can also mean the @ḫandabillu-briar, i.e., the @sūtu-briar, i.e., the @tub...-plant.
+12. Alternatively it can also mean the @ḫīšūtu-brier, i.e., the @baltu-briar, i.e., the @saḫmaštu-briar, i.e., the @tu...-plant.
+13. TUM, read /tu/, means "to lead" (cf. @i{Ea} VIII 171), i.e., "to carry."
+14. (Ditto ditto) means "to stretch"  (cf. @i{Ea} VIII 171), i.e., "tall;" "to stretch" also means "first;"
+15. "to stretch" also means "powerful," i.e., "exhuberance," i.e., [...];
+16. "exhuberance" also means "@to @be @loud."
+17. MÁŠ, read /maš/, means "interest" (= @i{Ea} VIII 174), i.e., "extraction."
+18. KUN, read /kun/, means "bristle" (= @i{Ea} VIII 175), i.e., "spears of the body."
+19. SUKUD, read /sukud/, means "tall" (@ár-@kum) (cf. @i{Ea} VIII 177), i.e., "tall" (@arku); "to strip off" means [...].
+20. (Ditto ditto) means "to be abundant" (cf. @i{Ea} VIII 178), i.e., "to press down," said of the horns, [...]
+21. everything that is @pointed.
+
+@reverse
+
+22. ÍL, read /dusi/, means "brick-carrying frame" (= @i{Ea} VIII 181 (?)), i.e., "carrying basket."
+23. DUN, read /sul/, means "@liʾbu-disease" (@i{Ea} VIII 181-192 (?)), i.e., "disease," on account of [...].
+24. (Ditto ditto) means "to allow to become spoiled" (@i{Ea} VIII 181-192 (?)), i.e. [...].
+25. DUN, read /dun/, means "to lay a warp" (@i{Ea} VIII 181-192 (?)), i.e., [...].
+26. DUN, read /šaḫan/, means @šaḫānu (@i{Ea} VIII 181-192 (?)), i.e., (the name of the god) Šaḫan.
+27. DUN.DUN, read /dundun/, means "to dig, said of the eyes" (@i{Ea} VIII 181-192 (?)), i.e., "to lift up," i.e., "to lift,"
+28. on account of "to lift, said of the eyes" (e.g. Nabnītu K 157), i.e. [...].
+29. (Ditto ditto) means "to shout" (@i{Ea} VIII 181-192 (?)), i.e., "to cry," i.e., "@to @weep @continuously."
+30. (Ditto ditto) means "@ingot @of @gold" (or, "language of crawling,") (@i{Ea} VIII 181-192 (?)), i.e., "@covered @with [...]."
+31. (Ditto ditto) means "pasture for the cattle" (@i{Ea} VIII 181-192 (?)), i.e., [...]
+32. (Ditto ditto) means "to crush" (@i{Ea} VIII 181-192 (?)), i.e., "to @shout."
+33. DUN.DUN, read /sulsul/, means "to do something quickly" (@i{Ea} VIII 181-192 (?)), i.e., "to hasten"
+34. (Ditto ditto) means "to make splendid" (@i{Ea} VIII 181-192 (?)), i.e., [...].
+
+$ single ruling
+@colophon
+
+35. "ZAG, read /en/, means 'until'" (catchline), 41st extract of [Aa = @nâqu]
+36. @divided @in @parts, not finished. Lemmata and oral explanations, (materials for) a 'questioning'
+37. @by a (master-)scholar, relating to "ÁB, read /ab/, [means "darling," i.e., "beloved"] (incipit).
+38. One-column tablet of Taqīš-Gula, [@nêšakku-priest of Enlil,]
+39. son of Enlil-bēlšunu, descendant of Enlil-UŠ-Igigi, [the MAN.MAN].

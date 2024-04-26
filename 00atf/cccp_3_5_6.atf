@@ -1,0 +1,117 @@
+&P470043 = CCP 3.5.6 (http://ccp.yale.edu/P470043) = BM 48344
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...]-ni#-ku# [...]
+#lem: u; u
+
+2'. !zz [...]-x#-ṭu : !bs NU i-bar !cm : ul [i-ba-ar !zz ...]
+#lem: u; lā[not]MOD; ibâr[revolt]V; ul[not]MOD; X; u
+
+#note: @akk{NU i-bar} is attested in K.45+ l. 45 (@i{CT} 40 pl. 2).
+3'. !zz [... !cm x]-ab#-tu-uš : ša₂-niš ša₂ la# !zz [...]
+#lem: u; u; šanîš[alternatively]AV; ša[of]DET; lā[not]MOD; u
+
+4'. !zz [... !bs e]-ri#-iš !cm : i-ri-šu !zz [...]
+#lem: u; +erīšu[scent]N$erīš; +erīšu[scent]N$irīšu; u
+
+#note: @i{eriš bīti}, "smell of a house," appears in the protases of @i{Šumma Ālu} VI 98-121. 
+5'. !zz [...] !cm u₂-ru ša₂ sin-niš-tu₄ !zz : na?#-[...]
+#lem: u; +ūru[nakedness]N$; ša[of]DET; sinništu[woman]N; u
+
+#note: The explanation may refer to the rare plant name @i{kuzublatû} in @i{Šumma Ālu} VI 115, a name that would then be explained as "female pudenda." Compare also @i{CCP} 4.2.A.a l. 40 @i{ḫurdatu} = @i{ūru ša sinništi}.
+6'. !zz [... !bs a]-ma#-ru !cm : a-tu-u : a-mar !zz [...]
+#lem: u; amāru[seeing]'N; +watû[find//finding]V'N$atû; amār[appearing]'N; u
+
+7'. !zz [...] x#-ru !bs DAGAL#{+pi₂-iš} !zz : a-ga-[...]
+#lem: u; u; +rapāšu[be(come) broad]V$irappiš; u
+
+$ single ruling
+8'. !zz [ṣa-a-tu₂ u₃ šu-ut KA ša₂ * E₂ ši-kin]-šu₂# a#-na# ki-da-nu šu-pu?#-[u₂? ...]
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; bīt[house]N; šikinšu[appearance]N; ana[to]PRP; kīdānu[outside]N; šūpû[resplendent one]N; u
+
+#note: Note the important variant reading of the incipit of @i{Šumma Ālu} VI. Previously all known manuscripts read @i{ša-pu}. See Freedman @i{If a City is Set on a Height} (@i{OPKF} 17, 1998) p. 110 fn. ad 1.
+$ single ruling
+9'. !zz [... !bs GAR-MEŠ !cm : it]-ta#-na-aš-kan : aš₂-šu₂ [...]
+#lem: u; +šakānu[put]V$ittanaškan; +šakānu[put]V$ittanaškan; aššu[because of]'PRP; u
+
+#note: The restoration is uncertain; it is based on @i{SAA} 8 78 o 2.
+10'. !zz [...] !bs hi#-da-a-ti u [qu-la-a-ti GAR-MEŠ !zz ...]
+#lem: u; +hidiātu[joy]N$hidâti; u[and]CNJ; +qūltu[silence]N$qūlāti; ittanaškan[put]V; u
+
+11'. !zz [...] x# x# i-sa-an-x# [...]
+#lem: u; u; u; u; u
+
+12'. !zz [...] !bs qu₂#-ul#-ti?# !zz [...]
+#lem: u; +qūltu[silence]N$qūlti; u
+
+@reverse
+
+1'. !zz [...]-id# [...]
+#lem: u; u
+
+2'. !zz [...]-šu₂?# !cm ša₂ E₂-su !zz [...]
+#lem: u; ša[of]DET; bīssu[household]N; u
+
+3'. !zz [...] !bs E₂# BI be-el ša₂-nu-um-[ma !zz ...]
+#lem: u; bītu[household]N; šū[that]IP; bēl[lord]N; +šanû[(an)other]AJ$šanûmma; u
+
+4'. !zz [...] : !bs ṭe-ma !cm : ṭe-e-mu !zz : mu-šap#-[...]
+#lem: u; +ṭēmu[(fore)thought]N$ṭēma; +ṭēmu[(fore)thought]N$; u
+
+5'. !zz [...]-am#-ma a-na a-ka-lu i-na-pi{+ku}-[...]
+#lem: u; ana[to]PRP; akalu[bread]N; u
+
+#note: The reading of the last word is uncertain.
+6'. !zz [...] !cm : ha-ru-bu : !bs {giš}GIR₂ !cm : a-ša₂-[gu !zz ...]
+#lem: u; +harūbu[carob (tree)]N$; +ašāgu[camelthorn]N$; +ašāgu[camelthorn]N$; u
+
+7'. !zz [... !bs ni-bi]-ʾi# KI{+ti₃} !cm ku-mu-u : !bs id-ra !cm x# [...]
+#lem: u; +nibʾu[(s)welling up]N$nibʾi; +erṣetu[earth]N$erṣeti; +kumû[pelican]N$; +idru[saltpetre]N$; u; u
+
+8'. !zz [... !bs *] E₂# u₂-na-ti-šu₂ u₂-[na-kar !zz ...]
+#lem: u; bīt[house]N; +unūtu[tools]N$unâtīšu; unakkar[remove]V; u
+
+9'. !zz [... !bs *] E₂# NIG₂.GA NA# [ŠA₃-šu₂ !zz ...]
+#lem: u; bīt[house]N; makkūr[property]N; amēla[man]N; libbišu[interior]N; u
+
+10'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+2'. [...] @i{nu i-bar} means [“he will not revolt” ...]
+#note: NU @i{i-bar} is attested in K.45+ l. 45 (CT 40 pl. 2).
+3'. [...] means ... Alternatively, it means [...]
+4'. [...] @i{erīš} (= @i{Šumma Ālu} VI 98-121) means “fragance” [...]
+5'. [... @i{kuzublatû} (= @i{Šumma Ālu} VI 115) (?)] means “female pudenda.” [...]
+6'. [...] “to see” (= @i{Šumma Ālu} VI unknown) means “to find,” “to see” [...]. 
+7'. [...] “will expand” (= @i{Šumma Ālu} VI unknown) ... [...]
+$ sigle ruling
+8'. [Lemmata and oral explanations relating to (the tablet) “If a house’s appearanc]e is @i{resplendent} [...]” (= @i{Šumma Ālu} VI 1).
+$ sigle ruling
+9'. [... @i{gar-meš} (= @i{Šumma Ālu} VII 1) means] “there is constantly,” because [...]
+10'. [...] “there is joy and silence” (= @i{Šumma Ālu} VII 2).
+11'. ...
+12'. [...] “silence” (= @i{Šumma Ālu} VII 5) means [...]
+
+@reverse
+
+1'. ...
+2'. [...] (it refers to the man) who [...] his house [...],
+3'. [...] “that house will have another owner” (= @i{Šumma Ālu} unknown) [...]
+4'. [...] @i{ṭēma} (= @i{Šumma Ālu} unknown) means “forethought.” ... [...].
+5'. [...] ... and to eat ... [...].
+6'. [...] (= @i{Šumma Ālu} unknown) means “carob tree.” @i{giš.gír} (= @i{Šumma Ālu} unknown) means “camel[thorn” ...]
+7'. [...] “a wild growth” (= @i{Šumma Ālu} VII 52') means @i{kumû}. “A saltpeter” (= @i{Šumma Ālu} VII 53') means [...].
+8'. [...] “If a house's furnishing is cha[nged” (= @i{Šumma Ālu} VII 60') ...].
+9'. [...] “If a house, the property of a man, inside of it [...” (= @i{Šumma Ālu} VII 62') ...] .
+10'. ...

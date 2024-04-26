@@ -1,0 +1,260 @@
+&P348493 = CCP 3.6.3.E (http://ccp.yale.edu/P348493) = W 22307/12
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+$ start of obverse broken
+
+1'. !zz [x x x] $MU x $NI [...]
+#lem: u; u; u; u; u; u; u
+
+2'. !zz [x x] x $A $MU x [...]
+#lem: u; u; u; u; u; u; u
+
+3'. !zz [x x] x $RU $MU x [...]
+#lem: u; u; u; u; u; u; u
+
+4'. !zz ša₂ ana la#-ra?#-an-du $ŠU x [...] 
+#lem: ša[which]REL; ana[for]PRP; +larandu[(big cat)]N$; u; u; u
+
+5'. !zz ša₂ ar-ri-šu? [x x x x x] x x [...]
+#lem: ša[of]DET; X; u; u; u; u; u; u; u; u
+
+6'. !zz ma-qit dan-niš# x [x x x x] $A? $HA [...]
+#lem: maqit[fallen]AJ; danniš[greatly]AV; u; u; u; u; u; u; u; u
+
+7'. !zz $AR $TE $IK [x] x [x x x] x x x [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u
+
+8'. !zz [x x] $UD $HUR [x x x x] x x [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u
+
+9'. !zz $BI $SI* x x [x x x x x] x [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u
+
+10'. !zz {giš}TUKUL el-[lu x x x x] : x [...]
+#lem: kakku[weapon]N; ellu[pure]AJ; u; u; u; u; u; u
+
+11'. !cm ša₂-niš kak-ku !zz NU [x x x x x] : !bs HUL₂ !cm :# [hi-du-tu₂]
+#lem: šanîš[alternatively]AV; kakku[Weapon (on liver)]N; lā[not]MOD; u; u; u; u; u; +hidûtu[joy]N$; +hidûtu[joy]N$
+
+12'. !bs MUL₄.BI !cm : ZALAG₂.GA : !bs ha*#-du*#-u₂*# !cm : e-le*-e#-ṣu
+#lem: X; namra[bright]AJ; +hadû[be joyful//being joyful]V'N$; +elēṣu[swell//swelling]V'N$
+#note: Collation from photograph by E. Jiménez.
+13'. !cm na-ma-ru₃ : !bs a-a-um-ma# UŠ{+di} !cm : i-red#-di
+#lem: +nawāru[be(come) bright//shining]V'N$namāru +.; +ayyumma[any//anyone]XP$; ireddi[accompany]V; +redû[accompany]V$ireddi +.
+
+14'. !cm a-a-um-ma : !bs ša₂-nam-ma# i-tap-pa-lu 
+#lem: +ayyumma[any//anyone]XP$ +.; +šanû[(an)other one]N$šanâmma; +apālu[pay//correspond]V$ītappalū +.
+
+15'. !cm ša₂ ma-a-diš iš-ta-su-u₂ : !bs NE#.GAR !cm : ni-ip#-hi#
+#lem: ša[who]REL; +mādiš[greatly]AV$; +šasû[shout]V$ištassû; +niphu[(the act of) lighting]N$; +niphu[(the act of) lighting]N$niphi +.
+
+16'. !bs ni-ip-hi !cm : LUL*# : tas-ri-ir-ru : sur₂-ra-a-tu
+#lem: +niphu[(the act of) lighting//fight]N$niphi; +tasrīru[lie]N$tasrirru; +tasrīru[lie]N$tasrirru; +surrātu[lie//falsehood]N$
+#note: Collation from photograph by E. Jiménez.
+17'. !bs NU GI.NA !cm : sa-ra-a-ar : NU GI.NA
+#lem: lā[not]MOD; +kittu[steadiness//truth]N$; +sarāru[be(come) false//be(com)ing false]V'N$sarār +.; lā[not]MOD; kittu[truth]N
+
+18'. !cm la šat-ti : !bs A.GAR.GAR-šu i-ṣar-ra-ar
+#lem: lā[not]MOD; +šattu[improper]AJ$šatti +.; +piqannu[droppings]N$piqqannīšu; +ṣarāru[flash//drip]V$iṣarrar
+
+#note: The reading @akk{šat-ti}, instead of Hunger’s @akk{kin₃-ti}, is suggested by Lambert AfO 26 (1978/1979) p. 111: “No. 72 obv. 18. nu gi.na = @i{lā šatti}. @i{lā sattu}, pl. @i{lā šināti}, are what is improper and so wrong.” For another ocurrence of @i{lā šatti}, see K.1 ll. 62-63 (CCP 3.5.30) [EJ].
+19'. !cm ša₂ piq-qa-an-ni-šu₂ i-za-ar-ru-u₂
+#lem: ša[who]REL; +piqannu[droppings]N$piqqannīšu; +zarû[winnow//scatter]V$izarrû
+
+20'. !cm ša₂ 1{+en-nu-u₂} in-da-naq-qu-tu-u-nu
+#lem: ša[of]DET; +ištēnû[later//singularly]AV$ištennû; +maqātu[fall]V$indanaqqutūnu +.
+
+21'. !cm ša₂-niš !cm i-ṣar-ra-ar !cm : ṣar-a-ra : a-la-ku
+#lem: šanîš[alternatively]AV; iṣarrar[drip]V; +ṣarāru[drip//dripping]V'N$ṣarāra; +alāku[go//flowing]V'N$alāku +.
+
+#note: The “broken” writing of @akk{ṣar-a-ra} is is used to justify the equation of @i{ṣarāru} with @i{alāku} (cp. e.g. Aa I/1 208: @i{a-ra} A.DU = @i{alāku}) [EJ].
+
+22'. !bs HAR#.BAD !cm : a-mu-tu : !bs NA.NE !cm : qut-rin-nu#
+#lem: +amūtu[liver//omen]N$; +amūtu[liver//omen]N$ +.; +qutrēnu[incense (offering)]N$; +qutrēnu[incense (offering)]N$qutrinnu +.
+
+23'. !bs [IGI-MIN-šu₂] u₂-zaq-qa-pi !cm : ša₂ u₂-ša₂-az-za-az-za#
+#lem: u; +zaqāpu[fix upright//make protrude]V$uzaqqapī; ša[who]REL; +izuzzu[stand//stand out]V$ušazzazza +.
+
+
+@reverse
+
+1. !bs DU₃# !cm : re-tu-u : u₂-zu-uz-zu : !bs DU₃ !cm : za-qa-pa
+#lem: +retû[drive in//staring]V'N$; +retû[drive in//staring]V'N$; +izuzzu[stand//standing out]V'N$uzuzzu +.; +zaqāpu[fix upright//making protrude]V'N$zaqāpa; +zaqāpu[fix upright//making protrude]V'N$zaqāpa +.
+
+2. !bs BAR UDU GAZ KUR₂ !cm : muš-šir₃ UDU.NITA₂ duk {lu₂}KUR₂
+#lem: +wašāru[sink down//releasing]V'N$muššur; immeri[ram]N; +dâku[kill//slaughtering]V'N$duk; nakri[enemy]N; +wašāru[sink down//releasing]V'N$muššir; immeri[ram]N; +dâku[kill//slaughtering]V'N$duk; nakri[enemy]N +.
+
+3. !bs na-ra-ṭu !cm : sa-la-hu : !bs {u₂}NINDA₂ !cm : il-lu-ru
+#lem: +narāṭu[sway//swaying]V'N$; +salāhu[jerk//jerking]V'N$ +.; +illūru[(a flower)]N$; illūru[(a flower)]N +.
+
+4. !bs ul-lu-ṣu !cm : ha-du-u₂ : !bs GABA!(DUH).RAH.HA !cm : ra-pa-aš₂ GABA
+#lem: +elēṣu[swell//rejoicing]V'N$ulluṣu; +hadû[be(come) joyful//rejoicing]V'N$ +.; +gabarahhu[breast-beating]N$; +rapāsu[beat//beating]V'N$rapās; +irtu[chest//breast]N$irti +.
+
+5. !bs u₂-da-ap-par !cm : i-re-e-qu : !bs KI KUN-su GAR GU₂-su GAR
+#lem: +duppuru[move away]V$udappar; +rêqu[be(come) distant//go far away]V$irēqu +.; ašar[where]SBJ; zibbassu[tail]N; šakin[located]AJ; kišāssu[neck]N; šakin[located]AJ +.
+
+6. !bs NUN KUR-su BAL-su !zz : !bs GU₂ !cm : ki-ša₂-da : !bs GU₂ !cm : re-eš
+#lem: rubû[prince]N; +mātu[land]N$mātsu; ibbalakkassu[revolt]V +.; +kišādu[neck]N$kišādu; +kišādu[neck]N$kišāda +.; +rēšu[head]N$rēš; rēš[head]N +.
+
+7. !bs GU₂ !cm : ma-a-ta : !bs ME.NI !cm : KA₂ E₂.GAL
+#lem: +mātu[land]N$māta; +mātu[land]N$māta +.; bābu[gate]N$bāb&ēkallu[palace]N$ēkalli; !bāb[gate]N; !ēkalli[palace]N +.
+
+8. !bs ne-pel-ku-u₂ !cm : ra-pa-šu₂ : !bs NA !cm GIM ṣer-ret pa-ri-is
+#lem: +nepelkû[be(come) wide//be(com)ing wide]V'N$; rapāšu[widening]'N +.; mazzāzu[Station (on liver)]N; kīma[like]PRP; +ṣerretu[nose-rope]N$ṣerret; +parsu[divided]AJ$paris +.
+
+9. !cm ša₂ ku-up-pu-tu : !bs nim-šu-šu !cm : SA-ME-šu₂ : !bs KAL
+#lem: ša[who]REL; +kupputu[conglomerated]AJ$ +.; +nimšū[sinews (of sheep)]N$nimšūšu; +šerʾānu[vein//sinew]N'N$šerʾānšu +.; +danānu[be(come) strong//be(com)ing strong]V'N$danānu
+
+10. !cm da-na-an : !bs AB₂.ZA₃.MI₂ !cm : ha-si-si : aš₂-šu₂ U
+#lem: +danānu[be(come) strong//be(com)ing strong]V'N$danān +.; +apusammikku[(a geometrical shape)]N$; +hasīsu[ear]N$hasīsi; +aššu[because]SBJ; rigmu[voice]N
+
+11. !cm ap-ta ša₂ sa-am-mu-u₂ : !bs DAR !cm : ša₂-ta-qa
+#lem: +aptu[window//opening]N$apta; ša[of]DET; +sammû[lyre]N$ +.; +šatāqu[split//splitting]V'N$šatāqa; +šatāqu[split//splitting]V'N$šatāqa +.
+
+12. !bs ki-im-da-šu₂ !cm : nap-har-šu₂ : KIN : nap-ha-ru₃
+#lem: +kimtu[family]N$kimdāšu; +napharu[total//all]N$napharšu +.; +napharu[total]N; napharu[total]N +.
+#note: Compare BM 48561 o 4′: @akk{[...] ki#-im-da-šu₂ la ip-pu-uṣ : ki-im-da-šu₂ : qi-in-na-at#-su# [...]}, “his buttocks” [EJ].
+13. !bs U : !cm ši-li : !bs U !cm : pil-ši : !bs ši-it-rid-ma
+#lem: +šīlu[depression//Hole (on liver)]N'N$šīli; +šīlu[depression//Hole (on liver)]N'N$šīli; +pilšu[breach//Perforation (on liver)]N$; +pilšu[breach//Perforation (on liver)]N'N$ +.; +šitrudu[(meaning unknown)]V$šitridma
+
+14. !cm šit-ru-du : da-na#-an : lib₃-bu-u₂ i-ziz-ma
+#lem: +šitrudu[(meaning unknown)]V$; +danānu[be(come) strong//be(com)ing strong]V'N$danān; libbū[meaning]PRP; +izuzzu[stand]V$izizma
+
+15. !bs la ta-na-his !cm : la# ta-na-ah-hi-is ša₂-niš
+#lem: lā[not]MOD; +nahāsu[(re)cede//retreat]V$tanahhis; lā[not]MOD; +nahāsu[(re)cede//retreat]V$tanahhis +.; šanîš[otherwise]AV
+
+16. !cm la ta-na-kud : na-ka-du : pa-la-hu
+#lem: lā[not]MOD; +nakādu[beat//be(come) frightened]V$tanakkud +.; +nakādu[beat//be(com)ing frightened]V'N$; +palāhu[fear//fearing]V'N$ +.
+
+17. !bs ŠA₃.MUD !cm : ŠA₃ GU₄.UD : ŠA₃ GU₄.UD.GU₄.UD : gi-lit-ti
+#lem: +gilittu[terror]N$; libbu[heart]N; +šahṭu[jumped//throbbing]AJ'AJ$šahiṭ; libbu[heart]N; +šahāṭu[jump//pulsing convulsively]V'N$šitahhuṭu; +gilittu[terror]N$gilitti +.
+
+18. !bs ni-qit-ti !cm : na-ka-du : !bs DI !cm : šu-lum : !bs AB₂
+#lem: +niqittu[anxiety]N$niqitti; +nakādu[beat//be(com)ing frightened]V'N$ +.; +šulmu[completeness]N$; +šulmu[completeness]N$šulum +.; arhu[cow]N
+
+19. !cm le-e-tu₄ : !bs ša-da-da !cm : a-la-ku !zz : [x x] x
+#lem: +lītu[cow]N$lētu +.; +šadādu[drag//stretching]V'N$šadāda; alāku[going]'N +.; u; u; u
+
+20. !bs na-a-šu !cm : da-a-lu : !bs A !cm : iš#-[ša₂-ha-at]
+#lem: +nâšu[rock//shifting]V'N$; +dâlu[move//walking]V'N$; u; X
+
+$ double ruling
+
+@colophon
+
+
+21. !zz NIG₂.ZI.GAL₂.EDIN.NA u šu-ut KA ša₂ BE UDU.NITA₂# [x x x x x]
+#lem: +ṣiātu[distant time//commentary]N$ṣâtu; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; šumma[if]MOD; immeru[ram]N; u; u; u; u; u
+
+22. !zz BAR-ME ša₂ BE iz-bu# ša₂ KA UM.ME.A mal-su#-[tu {m}60-ik-ṣur]
+#lem: +ahû[outside//non-canonical]AJ$ahûtu; ša[of]DET; šumma[if]MOD; izbu[anomaly]N; ša[of]DET; pî[mouth]N; ummâni[expert]N +.; +massûtu[call//reading out]N$malsûtu; +Anu-ikṣur[]PN$
+
+23. !zz {lu₂}MAŠ.MAŠ BAN₃.DA DUMU {lu₂}SANGA-{d}[nin-urta]
+#lem: mašmašši[incantation priest]N; ṣehri[junior]AJ; mār[descendant]N; +Šangi-Ninurta[1]LN$
+
+
+@translation labeled en project
+
+$ start of obverse broken
+
+@label o 1'
+[...] ... [...]
+@label o 2'
+[...] ... [...]
+@label o 3'
+[...] ... [...]
+@label o 4'
+... @i{tiger} ... [...]
+@label o 5'
+... [...] ... [...]
+@label o 6'
+... @i{collapsed} ... @i{strongly} [...]
+@label o 7'
+... [...]
+@label o 8'
+[...] ... [...]
+@label o 9'
+... [...]
+@label o 10' - o 13'
+‘@i{a pure weapon} ... [...]. Alternatively, ‘a weapon’ @i{not} [...]. ḪÚL means [‘happiness’]. MUL₄.BI means ‘bright’(ZALAG); @i{ḫadû} means ‘to be joyful’. (Also) ‘to be bright’.
+
+@label o 13'
+
+‘Somebody will ÚS-@i{di}’ means ‘somebody will persecute’.
+
+@label o 14'
+
+‘They will reply someone else’ means ‘they will call out loudly’.
+
+@label o 15' - o 18'
+[N]E.GAR means ‘false omen,’ ‘false omen’ means LUL; ‘falsehood’ means ‘lies’. NU GI.NA means ‘lying’; NU GI.NA means ‘not fitting’.
+
+@label o 18' - o 21'
+
+‘It (the sheep) drops (@i{iṣarrar}) its dung-pellets’ means ‘it (the sheep) scatters its dung-pellets’. It means ‘they (the dung-pellets) repeatedly fall one by one’. Alternatively, ‘it (the sheep) drops’; ‘to drop’ (written @i{ṣar-a-ra}), means ‘to go’.
+
+@label o 22'
+
+[ḪA]R.BAD means ‘liver’. NA.NE means ‘censer’.
+
+@label o 23'
+‘It (the sheep) pointedly stares [its eyes]’ means ‘it positions (its eyes)’.
+
+
+@label r 1
+DÙ means ‘to be erect’ or it means ‘to stand still’. DÙ means ‘to fix’.
+@label r 2
+BAR UDU GAZ KÚR means ‘Release the sheep! Kill the enemy!’.
+@label r 3
+‘To shake’ means ‘to tremble’. Ú.NINDÁ means ‘red flower’.
+
+@label r 4
+
+‘To be cheerful’ means ‘to be happy’. GABA!.RAḪ.ḪA means ‘the beating on the chest’.
+@label r 5 - r 7
+‘He will go away’ means ‘he will depart’. ‘where its (the sheep’s) tail is placed, it will place its neck, the prince’s country will revolt against him’. GÚ means ‘neck’; GÚ also means ‘head’.  GÚ means ‘country’.
+
+@label r 7
+ME.NI means ‘palace-gate’.
+@label r 8 - r 9
+‘To be wide’ means ‘to expand’. ‘The ‘Presence’ (NA) (looks) like ‘an oarlock.’ It (refers to the ‘Presence’) that is (like) a circle.
+
+@label r 9 - r 10
+
+(The word) @i{nimšūšu} means ‘its sinews’(SA.ME-@i{šú}). KAL (means) means ‘to be stiff’.
+
+@label r 10 - r 11
+
+(The word) ÁB.ZÀ.MÍ means ‘the ear’, because U (i.e., the Sumerian equivalent of @i{ḫasīsu}, see e.g. Aa II/4 13 = @i{MSL} 14 p. 480) is the ‘opening’ (@i{aptu}, whose logogram is AB) of the lyre (@i{simmû}, whose logogram is ZÀ.MI).
+
+@label r 11
+
+DAR means ‘to be split’.
+
+@label r 12 - r 13
+
+‘Its hock’ (@i{kimṭašu} for @i{kimṣašu}!) (when understood as @i{kimtašu}) means ‘all of its (frame),’ (since) KIN means ‘all’. U means ‘a hole’. U means ‘a fissure’.
+
+@label r 13 - r 17
+
+(The word) @i{šitrid} (stems from) ‘to be firm’ (@i{šitrudu}); this means ‘to be strong’. As in ‘stand and do not retreat!’. ‘Do not retreat’ has an additional interpretation, ‘do not fear’ (@i{lā tanakkud}). ‘To fear’ (@i{nakādu}) means ‘to be afraid’. ‘Fear’(ŠÀ.MUD) equals ŠÀ.GU₄.UD equals ŠÀ.GU₄.UD.GU₄.UD means ‘fear’. ‘Anxiety’ (@i{nikitti}) stems from ‘to fear’ (@i{nakādu}).
+
+@label r 18 - r 20
+DI means ‘well-being’. ÁB means ‘cow’. ‘To move away’ means ‘to go’. This means ... ‘To quake’  means to ‘move about (unnaturally)’. A means ‘it will be w[ashed out]’.
+
+$ double ruling
+
+@label r 21
+
+Lemmata and oral explanations relating to @i{šumma immeru} [...]. 
+
+@label r 22 - r 23
+
+Extraneous (omens) of @i{šumma izbu} according to the oral (explanations) of the expert; (according to) the lect[ure of Anu-ikṣur], junior exorcist, descendent of Šangû-[Ninurta].
+

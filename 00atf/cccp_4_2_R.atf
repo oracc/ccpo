@@ -1,0 +1,92 @@
+&P461257 = CCP 4.2.R (http://ccp.yale.edu/P461257) = BM 54595
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs {im}DAL.HA.MUN & !cm : a#-[šam-šu-tu]
+#lem: +ašamšūtu[dust storm]N$; ašamšūtu[dust storm]N
+
+#tr.en: “Dust storm (Sumerian)” means “du[st storm (Akkadian).”] 
+#note: The restoration was first made by R. Labat, @i{Commentaires assyro-babyloniens sur les présages} (1933), p. 112. The equation is attested in lexical texts (@i{CAD} A/1 411b-412a) and @akk{{im}DAL.HA.MUN} is also probably to be restored in l. 45’ of the commentary @i{CCP} 3.1.47 (on @i{Enūma Anu Enlil}), in which an equation of a lost word with @i{ašamšūtu} is explained as “on account of the disturbance” (@i{duluhhû}). The latter entry thus indicates that at least some ancient scholars considered @akk{{im}DAL.HA.MUN} to be etymologically related to @i{ašamšūtu}.
+2. !bs MAŠ.TAB.BA & !cm tu-ma-mu?#
+#lem: +tūʾamu[twin]N$; +tūʾamu[twin]N$tūmamu
+
+#tr.en: “Twin (Sumerian)” means “twi[n (Akkadian).”]
+#note: The restoration of the traces of the sign following @i{ma} as @i{mu} follows @i{CAD} T 443a. The equation is attested in @i{Nabnītu} IV 318 and Sumerian entries that include @akk{MAŠ.TAB.BA} as a component are equated with @i{tūʾamu} in several places in Ur₅.ra (as cited by @i{CAD} T 443a).
+3. !bs NU.UM.MA{mušen} & !cm zi-i-bi
+#lem: +zību[jackal//vulture]N'N$; +zību[jackal//vulture]N'N$zībi
+
+#tr.en: “Vulture (Sumerian)” means “vulture (Akkadian).”
+#note: This equation is also attested in Ur₅.ra = @i{ḫubullu} (as cited by @i{CAD} Z 106a) and Mur.gud B IV 307 and C 21 (as cited by @i{CAD} Z 105a and 106). In Mur.gud, the Akkadian @i{zību} is then equated with the word @akk{ha-ru-ha-a-a}.
+4. !bs {d}GIŠ-gim₂-maš & !cm {d}gi-il-ga-meš
+#lem: Gilgameš[1]DN; +Gilgameš[1]DN$
+
+#tr.en: “d.GIŠ-gím-maš” is pronounced “Gilgamesh.”
+#note: See Introduction.
+5. !bs GU{+qu-u}-u₂ & !cm sap-pu
+#lem: +qû[(a capacity measure)]N$; +sappu[(a bowl)]N$
+
+#tr.en: “(A particular type of) metal bowl” (pronounced “@i{qû}”) means “(a particular type of) metal bowl.”
+#note: The correct decipherment of this entry was reported first in CAD (Q 289a and S 166b).The equation of @i{qû/gû} with @i{sappu} also appears in Diri, Proto-Diri, and A = @i{nâqu} (as cited by @i{CAD} Q 291a). CAD Q lists @i{qû} “measuring vessel” and @i{qû} “copper” as two different words, whereas @i{AHw} (followed by @i{CDA}) understands them as one lemma.
+6. !bs NENNI{+ne₂-en-nu}{mušen} & !cm eš-še-bu
+#lem: +eššebu[(a kind of owl)]N$; +eššebu[(a kind of owl)]N$
+
+#tr.en: “Owl (Sumerian)” (pronounced “@i{nennu}”) means “owl (Akkadian).”
+#note: As noted by M. Stol @i{Epilepsy in Babylonia} (1993), p. 9, eating the flesh of @i{eššebu}-bird is recommended in a prescription against @i{antašubbû} (@i{BAM} 487 r. 7). The same advice is attested in a prescription “in order to tear out and disperse ‘hand-of-a-ghost’(-disease)” (@i{ana} @akk{ŠU.GIDIM.MA} @i{nasāḫi u pašāri}) (= @i{BAM} 471 III 15), which suggests a conceptual connection between @i{antašubbû} and @akk{ŠU.GIDIM.MA}.
+7. !bs KUŠ {<d>}ku-ši & !cm KUŠ al-pi
+#lem: mašak[skin]N; +Kušu[]DN$; mašak[skin]N; alpi[ox]N
+
+#tr.en: “Hide of Kūšu” means “hide of an ox.”
+#note: This equation is attested in a commentary on the medical treatise on fumigations, @i{Qutāru} (@i{CCP} 4.2.M.a, ll. 8-9). Note also @i{TCL} 6 34, ll. 6-7.
+8. !bs bur-ti-šam-hat & !cm ar-ra#-bi# u₂#-la-lu
+#lem: +būrtī-šamḫat[caterpillar]N$; +arrabu[dormouse]N$; +ulālu[weak]N$
+
+#tr.en: “Caterpillar” means “dormouse” (which also means) “weakling.”
+#note: This equation is attested in a commentary on the medical treatise on fumigations, @i{Qutāru} (@i{CCP} 4.2.M.a, l. 28), where the equation with @i{ulālu} is stated more fully as: “Caterpillar” means “dormouse” (which also) means “weakling from Subartu.”
+
+9. !bs ku-ša₂-ri & !cm gap₂-nu#
+#lem: kušāri[reed stalk]N; +gapnu[bush]N$
+
+#tr.en: “Reed stalk” means “bush.”
+#note: The @i{explanans} was previously read as @i{kabnu}, which von Soden suggests understanding as an Aramaic loanword meaning “encasement” (@i{AHw} 417b) whereas @i{CAD} K 22a tentatively suggests “a tree.” It seems, however, preferable to read it as @akk{gáp-nu}, a writing also attested in the Neo-Babylonian economic document @i{VAS} 5, 121 ll. 9 and 14 (@akk{{giš}gáp-nu}), or perhaps @i{gùp-nu}, “tree trunk”.
+10. !bs ŠU₂ & !cm ra-bu-u₂
+#lem: +rabû[set//setting]V'N$; +rabû[set//setting]V'N$
+
+#tr.en: ŠÚ means “to set.”
+11. !bs har-sap-nu & !cm bur#-ti#-šam-[hat]
+#lem: +harsapnu[larva]N$; būrtī-šamḫat[caterpillar]N
+
+#tr.en: “The ‘larva’ (plant)” means “the ‘caterpillar’ (plant).”
+#note: As noted already by E. Frahm, Babylonian and Assyrian Text Commentaries. Origins of Interpretation. Ugarit-Verlag, 2011, p. 94, this equation – which is also attested in another medical commentary, @i{CCP} 4.2.Q (o. 13) – draws on an entry in the plant lexikon @i{Uruanna} (III 251-252).
+12. !bs id#-ra-nu & !cm kur-ban?!#-ni?#
+#lem: +idrānu[potash]N$; +kirbānu[lump (of earth)]N$kurbanni
+
+#tr.en: “Saltpeter” means “@i{lump} (of salt).”
+#note: Saltpeter appears in two commentaries on @i{Šumma ālu}, namely @i{CCP} 3.5.6 r. 7’ (where the explanation is entirely broken away) and @i{CCP} 3.5.54 l. 26 (where it is equated with @i{ṭabtu}, which does not fit the traces of the present line).
+13. !bs [x x] x#-u₂# & !cm na#-an#-[(x x x)]
+#lem: u; u; u; u; u; u
+
+#tr.en: […] … […]
+@reverse
+1'. !bs [x] x# x# & !cm [...]
+#lem: u; u; u; u
+
+#tr.en: […] … […]
+2'. &2 !zz [x] x# u i-na-al?# [(...)]
+#lem: u; u; u[and]CNJ; +nâlu[lie down (sleep)]V$inâl; u
+
+#tr.en: […] he lies down (?) [(…)]
+$ single ruling
+3'. !zz ṣa#-a#-tu₂ u šu-ut pi-i# 
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N
+
+#tr.en: Lemmata and oral explanations
+4'. !zz ša₂# ana# an#-ta#-šub# ZI#{+hi} u BUR₂#
+#lem: ša[which]REL; ana[for]PRP; +antašubbû[epilepsy]N$; +nasāhu[tear out//tearing out]V'N$nasāhi; u[and]CNJ; +pašāru[release//releasing]V'N$pašāri
+
+#tr.en: relating to (the work) “In order to tear out and disperse @i{antašubbû}(-disease).”
+#note: M. Stol, @i{Epilepsy in Babylonia} (1993), p. 9 notes that @i{antašubbû}(-disease) is the only form of epilepsy that is said to be “torn out” in Babylonia.

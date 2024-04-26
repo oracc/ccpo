@@ -1,0 +1,75 @@
+&P461194 = CCP 7.2.u43 (http://ccp.yale.edu/P461194) = BM 40939
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1'. !zz [...] !cm kab#-tu₂ : !bs ER₂ DE₂? !zz [...]
+#lem: u; kabtu[respected]AJ; taqribta[lament]N; u; u
+
+2'. !zz [... !bs SAR-MEŠ{+hu} !cm : it]-ta#-na-an-pa-hu : !bs DIRI !cm : na-nu/kul-[...]
+#lem: u; +napāhu[blow]V$ittananpahū; +napāhu[blow]V$ittananpahū; u; u
+
+#note: Compare @i{šumma} @akk{MUL-MEŠ SAR-MEŠ{+hu}}, “If the stars flare up repeatedly,” in Reiner & Pingree @i{Enūma Anu Enlil Tablets 50-51} (BPO 2), 1985, p. 35 I 18, 42 III 16, and 46 IV 11 (line 11a @i{šumma} @akk{MUL-MEŠ} @i{it-t}]@i{a-na-an-pa-ḫu} @akk{IM.DIRI NU ZI{+a#}}).
+3'. !zz [... !bs ZAG].GAR#.RA !cm : eš-ret : E₂-MEŠ DINGIR#-MEŠ?# [...]
+#lem: u; +ešertu[chapel]N$; ešrēt[shrine]N; bītāt[temple]N; ilī[god]N; u
+
+$(lower edge)
+
+4'. !zz [... !bs BUR₂]{+du-du}.BUR₂ !cm : da-a-lu : !bs ZAG.10?# !cm :?# eš?#-re#-[ti ...]
+#lem: u; +dâlu[move//moving]V'N$; +dâlu[move//moving]V'N$; +ešertu[chapel]N$; ešrēti[chapel]N; u
+
+#note: Compare @i{Antagal} E iv 13' (MSL 17 212): @akk{BÚR{+du-du}.BÚR} = MIN @i{̌šá da-a-lum}.
+5'. !zz [...] !cm {d#}DAM.KI.AN.NA : !bs {mul₂}GIR₂.TAB !cm : {d}iš-ha#-[ra ...]
+#lem: u; Damkiana[1]DN; Zuqaqipu[Scorpion]CN; Išhara[1]DN; u
+
+#note: The equation @akk{{múl}GÍR.TAB} = d.@i{išḫāra} is also attested in 3.8.2.A r 16.
+6'. !bs [...]-x#-ti !cm : {d}ereš-ki-gal : !bs u MURU₂-MEŠ-šu₂ SIG₃{+iṣ#} !zz [...]
+#lem: u; +Ereškigal[]DN$; u[and]CNJ; qablātišu[hips]N; +mahṣu[beaten]AJ$mahiṣ; u
+
+#note: The constellation associated with Ereškigal could be @i{alluttu}, @i{anunītu}, @i{narkabtu}, or @i{zibānītu}. Elsewhere Ereškigal is associated with Hydra (@i{ṣerru}, @akk{{mul}{d}MUŠ}, see Wiggermann, F.A.M. “Transtigridian Snake Gods” @i{CM} 7 (1997) pp. 34-35).
+7'. !zz [... !qt {d}]UTU# ina KUR-šu₂ {d}en-lil₂ !zz : !bs u₂-na-aṭ₂{+aṭ}-ṭa !cm : NU : [...]
+#lem: u; Šamaš[1]DN; ina[in]PRP; niphišu[rising]N; Ellil[1]DN; +naṭû[hit]V$unaṭṭa; u; u
+
+#note: Compare “Great Star List” 288 (Koch-Westenholz, U. @i{Mesopotamian Astrology}, 1995, p. 202): @akk{{d}UTU ina KUR-šú {d}en-líl}, “the sun at its rising is Enlil.”
+8'. !zz [...] !cm ap-pi : !bs GU-MEŠ !cm : qu-u : !bs šer₂-a-ni !cm : rik#-[su ...]
+#lem: u; appi[tip]N; +qû[flax]N$; +qû[flax]N$; šerʾānī[vein]N; riksu[binding]N; u
+
+#note: The reading @i{riksu} at the end is courtesy of I.L. Finkel.
+$(reverse)
+
+9'. !zz [... !cm {d}DAM].KI#.GAL : !bs A₂.TAB !cm : ik-ri-bi : !bs A₂.TAB !cm : ha?#-[...]
+#lem: u; +Damkigal[]N$; +ikribu[prayer]N$; ikribi[prayer]N; u; u
+
+#note: It is uncertain how the sequence @akk{Á.TAB} should be rendered.
+10'. !zz [... !bs {d}]ME.ME !cm : {d}da-mu : {d}a-zu{+a-na} A a ZU zu [...]
+#lem: u; Gula[1]DN; Damu[1]DN; +Azu[]DN; u; u; u; u; u
+
+#note: The interpretation of the end of the line (“A read ‘a’ and ZU read ‘zu’”) is courtesy of I.L. Finkel. Although @i{a-na} is written in a smaller script than the surrounding signs, no reading of the god name Azu as /@i{ana}/ is known, and therefore the interpretation of the signs as a gloss results is not entirely satisfactory. As U. Gabbay points out, they could also be taken as the technical term @i{ana}, used for linguistic contextualization.
+
+11'. !zz [... !bs e?-še?]-ri# !cm : a-la-ku : !bs U₄ 1.KAM# ša?# ITI?# !zz [...]
+#lem: u; ešēri[going well]'N; alāku[going]'N; ūmu[day]N; n; ša[of]DET; arhi[month]N; u
+
+#note: The reading ⸢ša? ITI?⸣ is courtesy of I.L. Finkel.
+12'. !zz [...] x# : HAL?# : iš?#-[...]
+#lem: u; u; u; u
+
+@translation parallel en project
+$(obverse)
+1'. [… means] “noble.” … […]
+2'. [… SAR-MEŠ(-@i{ḫu}) means “to f]lare up repeatedly.” DIRI means […] 
+3'. [… ZAG].GAR.RA means “sanctuaries,” (i.e.), temples of the @i{gods} […],
+$(lower edge)
+4'. [… BÚR].BÚR, read /dudu/, means “to roam.” ZAG.@i{10 means} “@i{temp}[@i{les}” …].
+5'. […] is Damkiana. The constellation Scorpius is Išḫ[ara …]
+6'. [… the constellation …] is Ereškigal. @i{And its middle parts are beaten} […].
+7'. […] the sun at its rising is Enlil. @i{It beats} (can be written as) NU, […].
+8'. […] means “nose.” GU-MEŠ means “thread.” “Ligament” means “bo[nd” …].
+$(reverse)
+9'. [… the constellation … is Damk]igal. @i{á.tab} means “prayer,” @i{á.tab} means […].
+10'. […] Meme means Dāmu, Azu (gloss /ana/) (reading) A (as) /a/ (and) ZU (as) /zu/, […].
+11'. [… @i{to go we}]@i{ll} means “to go.” The 1st day […].
+12'. … 

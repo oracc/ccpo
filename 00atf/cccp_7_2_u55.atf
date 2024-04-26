@@ -1,0 +1,77 @@
+&P461227 = CCP 7.2.u55 (http://ccp.yale.edu/P461227) = BM 46864
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@column 1'
+
+1'. !zz [...] & x# x# x#
+#lem: u; u; u; u
+
+2'. !zz [...] & !cm ma#-a-ti a?#-[x x]
+#lem: u; māti[land]N; u; u
+
+3'. !zz [...] & !cm a-la-lu#-u₂#
+#lem: u; +alallû[drain]N$alalû
+
+4'. !bs [ZU₂.LUM.A.SUR].RA# & !cm ta-ši-hu
+#lem: +tašīhu[(a kind of vegetation)]N$; +tašīhu[(a kind of vegetation)]N$
+
+#note: Restored after @i{Ḫarra} XXIV 254 (see @i{CAD} T 286b).
+5'. !zz [...].KAL# & !cm me₂-es-su-u₂
+#lem: u; +messû[(a trap)]N$
+
+#note: The word @i{messû}, atteted only in lexical lists, is equated elsewhere with @akk{{giš}GU₂.SE₃.KI.IR}, @akk{HI.{+du-su-uh}SUH}, @akk{KUŠ.GU.LA₂}, and @akk{SILA.TUR} (see @i{CAD} M/2 29).
+
+6'. !zz [...].DA# & !cm e-qel ṣu-ma-mi-tu₄
+#lem: u; +eqlu[field]N$eqel; +ṣumāmītu[(severe) thirst]N$
+
+#note: The entry is also attested in @i{Ḫarra} XX §6 l. 1 (equated with @akk{A.ŠA₃ AL APIN NU ZU}).
+
+7'. !zz [...] & !cm har-ru₃
+#lem: u; +harru[water channel]N$
+
+8'. !zz [...] & !cm MIN<(har-ru₃)>
+#lem: u; harru[water channel]N
+
+9'. !zz [...] & !cm ap#-su-u₂
+#lem: u; Apsu[1]GN
+
+10'. !zz [... & x (x)] x# x# x# x#
+#lem: u; u; u; u; u; u; u
+
+@column 2'
+
+1'. !bs GIR₂ x# !zz [...]
+#lem: u; u; u
+
+2'. !bs GIR₂.GIR₂ !zz [...]
+#lem: X; u
+
+3'. !bs E₂ x# !zz [...]
+#lem: u; u; u
+
+4'. !zz {(10)} !bs ZAR !zz [...]
+#lem: n; X; u
+
+5'. !bs AMBAR ZAR?# !zz [...]
+#lem: u; X; u
+
+@translation parallel en project
+
+@column 1'
+
+1'. ...
+2'. [...] means @i{land} ...
+3'. [...] means “pipe.”
+4'. [ZÚ.LUM A.SUR.R]A means “a kind of vegetation.”
+5'. [...].KAL means “a trap.”
+6'. [...].DA means “land of thirst.”
+7'. [...] means “ravine.”
+8'. [...] means ditto.
+9'. [...] means @i{apsû}.
+10'. ...
+
+@column 2'

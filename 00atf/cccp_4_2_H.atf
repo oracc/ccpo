@@ -1,0 +1,104 @@
+&P348474 = CCP 4.2.H (http://ccp.yale.edu/P348474) = W 22307/36
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@obverse
+
+1. !zz [...]-x#-u₂#-ka : x# [...]
+#lem: u; u; u
+
+2. !zz [...] x# x#-ma-ru₃ : ina $MI x [...]
+#lem: u; u; u; ina[in]PRP; u; u; u
+
+3. !zz [...] x KI.EN.GI₇ $BA $BA x# [...]
+#lem: u; u; +šumeru[Sumerian]N$; u; u; u; u
+
+4. !zz [...] !bs ka?#-ba-ta !cm : hi-ṭu : !bs ZI !cm : i-mit-[tu₂]
+#lem: u; +kawûm[outer]N$kabāta; +hīṭu[error//penalty]N$ +.; +imittu[right]N$; +imittu[right]N$
+
+#note: As noted by Hunger @i{SpTU} 1 p. 63 ad loc, @i{kabatu} = @i{ḫīṭu} is also attested in the @i{Principal Commentary to Šumma Izbu} l. 30.
+5. !zz [...]-u₂ : !cm nu-u₂-u₂-du
+#lem: u; +nâdu[praise]V$nuʾʾdu
+
+6. !zz [...]-x#-tu !cm ina muh-hi-šu₂ ip#-pu#-uš
+#lem: u; ina[on]PRP; muhhišu[account]N; ippuš[do]V
+
+7. !qt [...]-x#-mu#-u₂# ku-bu#-uk?#-ka
+#lem: u; +kubukku[strength]N$kubukka
+
+#note: The rarity of the word @i{kubukka}, “strength,” suggests that the line might contain a quotation from a literary text.
+8. !qt [...]-ka# ina ŠA₃ EN# x lib/nar-ba-ki
+#lem: u; ina[in]PRP; libbi[interior]N; adi[until]PRP; u; u
+
+#note: The line may represent a quotation. A reading @akk{ina ŠA₂ EN.LIL₂?#{ki?#}} seems possible.
+
+9. !zz [...] GIG#{+aṣ} : !bs nu-ma-tu₂ !cm : u₂-nu-tu₂
+#lem: u; +marāṣu[be(come) ill]V$imarraṣ +.; +numātu[movable goods]N$; +unūtu[tools//equipment]N$ +.
+
+#note: The rare word @i{numātu}, attested only in OB, is also equated to @i{unūtu} in the commentary to the @i{Code of Hammurapi} r 5' (@i{CCP} 5.1).
+
+10. !zz [...] !cm a#-di ši-bu-tu : !bs šin-na-a-a
+#lem: u; adi[until]PRP; +šībūtu[old age]N$; +šinnu[tooth]NU$šinnāya
+
+11. !zz [...]-ra*#-a-ni !cm ki-ma ša₂ šer₃-rim-ma
+#lem: u; kīma[like]PRP; ša[that]REL; +šerru[(young) child]N$šerrima
+
+12. !zz [...]-ka# : !bs ina bil₂-ṣi !cm : GIBIL
+#lem: u; ina[in]PRP; +bilṣu[meaning unknown]N$bilṣi; u
+
+#note: As interpreted here, @akk{ina GIBIL{+ṣi}} would represent the rare word @i{bilṣu}, attested only in a physiognomic text (@i{CAD} B 229a, see Böck @i{Morphoskopie} [2000] p. 178 l. 82 and 179 fn. 620).
+13. !zz [...]-ti# : !cm gul-lu-bu ša₂ {lu₂}KUR.GAR.RA{+u₂}
+#lem: u; +gullubu[shaven]AJ$; ša[of]DET; +kurgarrû[(a cultic performer)]N$
+
+14. !zz [...] x# x# x# ša IM : !bs ru-gum-ma-ne₂-e
+#lem: u; u; u; u; ša[of]DET; ṭuppi[tablet]N; +rugummû[legal claim]N$rugummānê
+
+15. !zz [... !bs GIG].PEŠ !cm : kur-ra-ra : !bs u₂-hi-iṭ
+#lem: u; +kurāru[glowing ashes//(a boil)]N'N$kurrara; +kurāru[glowing ashes//(a boil)]N'N$kurrara; +hâtum[seize prey]V$uhīṭ
+
+16. !zz [...] !cm ša?# pi-i : !bs ni!(IR)-iš ŠU !cm : ṣu-le-e
+#lem: u; ša[from]DET; pî[mouth]N +.; +nīšu[lifting]N$nīš; qātī[hand]N; +ṣullû[beseech//beseeching]V'N$ṣullê +.
+
+17. !zz [...]-tu₄# BABBAR{+u₂} u i-ma-ʾi-id-ma
+#lem: u; peṣû[white]AJ; u[and]CNJ; +mâdu[be(come) many//be(come) numerous]V$imaʾʾidma
+
+18. !zz [...] $NAM $NU $HI : e-re?#-mu?#
+#lem: u; u; u; u; +arāmu[cover//covering]V'N$erēmu
+
+19. !zz [...]-ru*#-u# : !cm e#-re?#-[mu?]
+#lem: u; erēmu[covering]'N
+
+20. !zz [...] x# $NA : [...]
+#lem: u; u; u; u
+
+21. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+$  end of obverse missing
+
+
+@translation parallel en project
+
+1. ...
+2. ...
+3. [...] ... [...]
+4. [...] "outside" mean "fault." : @i{zi} means "right."
+5. [...] ... means "to praise."
+6. [...] ... he will do (it) on account of it.
+7. [...] “... strength” (quotation from unknown literary text?).
+8. [...] “... your @i{lord}, ... your (fs.) heart (or, ‘your greatness’)” (quotation from unknown literary text?).
+9. [...] is ill." @i{numātu} (means "equipment."
+10. [...] means "until old age." "My teeth" means
+11. [...] ... like that of a young child.
+12. [...] ... In "@i{ina bilṣi}," GIBIL (i.e. @i{bíl}) means [...]
+13. [...] ... means "shaven," said of a @i{kurgarrû}
+14. [...] ..., @i{said of the wind}. "Legal claim" means [...]
+15. [... @i{gig}]@i{peš} means "boil." "@i{He inspected}" means ...
+16. [...] @i{said of} the mouth. : "To raise the hands" means "to pray."
+17. [...] ... @i{it is white} and numerous
+18. ...
+19. ...
+20. ...
+21. ...
+$  end of obverse missing

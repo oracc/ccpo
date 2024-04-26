@@ -1,0 +1,28 @@
+@project ccpo
+@lang sux-x-emesal
+@name sux-x-emesal
+
+@letter A
+
+@entry ašer [lament] N
+@bases a-še-er
+@form a-še-er-ra /a-še-er +-ra=r.a #~,ak
+@sense N lament
+@end entry
+
+@letter M
+
+@entry mulu [person] N
+@bases mu-lu
+@form mu-lu /mu-lu #~
+@sense N who(m)
+@end entry
+
+@letter Š
+
+@entry šab [heart] N
+@bases ša₃-b·a
+@form ša₃-ba-ni /ša₃-b·a #~,ani
+@sense N heart
+@end entry
+

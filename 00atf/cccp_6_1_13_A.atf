@@ -1,0 +1,99 @@
+&P461282 = CCP 6.1.13.A (http://ccp.yale.edu/P461282) = BM 68583
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs * ma-ak-kas₂ & !bs AŠ@t !cm ik-kil-lu₃ x# x# x# x# x#-nu# ina UGU [x x] si#-ih?#
+#lem: X; X; +ikkillu[lamentation]N$; u; u; u; u; u; ina[on]PRP; muhhi[top]N; u; u; X
+
+#note: As noted in @i{MSL} 14 p. 288 note ad 1, the readings @i{makkás} and @i{tàl} are assigned to normal @akk{AŠ} in @i{Ea} 58 and 68, but to AŠ-@i{t}. in the present commentary.
+2. !bs * ta-al & !bs AŠ@t !cm ta-nu-qa#-tu₂# :# x#-la-ma x# x# GUG# AŠ@t# [x x] $ZA [x]
+#lem: X; X; +tanūqātu[battle cry]N$; u; u; u; u; X; u; u; u; u
+
+3. & & !zz U₂ x# x# x# x#-ṣu-u : !bs GUL !cm : he-pu-u : ša₂ zi#-me#-šu₂# he#-pu#-[u]
+#lem: šammi[plant(s)]N; u; u; u; u; naqāru[demolishing]'N; hepû[broken]AJ; ša[of]DET; zīmēšu[appearance]N; hepû[broken]AJ
+
+4. & & !bs GUG !cm : !qt KU₃ [ša₂] me-reš-[ta] u₂-ki-nu ina EDIN !zz : mim-mu : x# [x] ša₂
+#lem: pendê[(mark on skin)]N; ellūti[pure]AJ; ša[of]DET; X; X; ina[in]PRP; ṣēri[open country]N; mimmû[all]N; u; u; ša[of]DET
+
+#note: Quotation from @i{Enūma eliš} VII 62.
+5. & & !bs x GU₂! !cm : a-ha-a-tu₂ : ana SAG.US₂ AŠ@t !bs sa-an-tak-ku !cm : ka-a-a#-[nu]
+#lem: u; kišāda[neck]N; ahâtu[foreign]AJ; ana[according to]PRP; kullu[holding]'N; X; santakku[triangle]N; kayyānu[steady]AJ
+
+6. & & !bs SAG !cm : a-a-nu : !bs US₂ !cm : ka-a-a-nu : ša₂-niš! !bs SAG !cm re-eš :# !bs US₂# !cm kul#-[lu]
+#lem: alpu[bull]N; X; šiddu[length]N; kayyānu[steady]AJ; šanîš[alternatively]AV; pānī[face]N; rēš[start]N; šiddu[length]N; kullu[holding]'N
+
+7. & & !cm šal-šiš !bs SAG#.US₂# !cm :# mu-kil kul-lat : DI/KI : DIŠ : {d}a-num [x x]
+#lem: šalšiš[thirdly]AV; kullu[holding]'N; mukīl[holder]N; kullat[all]N; X; X; Anum[1]DN; u; u
+
+8. !bs * sa#-an#-tak# & !bs AŠ# !zz [x] ma?#-nu-u MIN : * MIN<(sa-an-tak)> AŠ@t [MIN] x# e# x# [x x]
+#lem: santak[continuously]AV; ettâtu[spider]N; u; X; šanîš[alternatively]AV; santak[continuously]AV; X; šanîš[alternatively]AV; u; ē[not]MOD; u; u; u
+
+#note: @i{Ea} II 206 and 207.
+9. !zz [(x x x)] & !zz x# x# x# x# u₂# x# x# : ru-ṭib?#-tu₂ u₂-ZA x# x# [x x (x)]
+#lem: u; u; u; u; u; u; u; u[and]CNJ; u; u; X; X; u; u; u; u; u
+
+#note: As noted in @i{MSL} 14 p. 288 note ad 9ff, it is difficult to tell whether ll. 9-11 were indented or not, i.e., whether they contained new entries. However, @i{MSL} 14 p. 288 suggests that one should expect here @i{Ea} II 217.
+10. !zz [(x x x)] & !zz x# x# [x x x x] x# x# mar# x# ú-lil [x x x (x)]
+#lem: u; u; u; u; u; u; u; u; u; u; u; mār[son]N; u; X; u; u; u; u
+
+#note: @i{Ea} II 217.
+11. !zz [(x x x)] & !bs LIL# !cm : [x x x x (x)] x#-u : 30 1/2 : ša₂-niš MIN# x# [x x (x)]
+#lem: u; u; u; X; u; u; u; u; u; u; Sin[1]DN; n; šanîš[alternatively]AV; šanîš[alternatively]AV; u; u; u; u
+
+#note: 30 1/2 could also be read as @akk{EŠ.BAR}.
+12. !bs * x#-x#-x# & !bs AŠ@k !cm sa#-[an]-ta#-ak-ki : * {+u₂-x#}AŠ@t?# [x x (x)]
+#lem: u; X; X; u; u; u; u
+
+13. !bs * u₂-{+ta}tag & !bs AŠ@k !cm x# x# x# x# : TAG :# ma#-haṣ DIŠ :# x# [x x] x# x# [(x x)]
+#lem: X; X; u; u; u; u; lipit[affliction]N; mahāṣ[beating]'N; X; u; u; u; u; u; u; u
+
+#note: @i{Ea} II 211.
+14. & & !zz x#-x# : U₂ [x x x x (x)]-u# :# ša₂-mu-u : ša₂-niš U₂ x#-u :# x#-u
+#lem: u; šammi[plant(s)]N; u; u; u; u; u; X; šanîš[alternatively]AV; šammi[plant(s)]N; u; u
+
+15. !bs [* u₂]-bu#-ra# & !bs AŠ@k# !cm x# x# :# x#-[x] x# [x x x] x# : x# x# :# U₂ ša₂-mu-u :
+#lem: X; X; u; u; u; u; u; u; u; u; u; u; šammi[plant(s)]N; X
+
+#note: @i{Ea} II 210/216.
+16. & & !zz [x] : te-x#-x# [x x x x x] x# DIR?{+u} ša₂ za-ku-u : SAL.KU-x#
+#lem: u; u; u; u; u; u; u; u; X; ša[of]DET; X; u
+
+17. !bs *# [x x x] & !bs AŠ@k# !cm : x# [x x x]-u₂# :# [x x x (x)] x# x# :# ZA# [x x (x)]
+#lem: u; u; u; X; u; u; u; u; u; u; u; u; u; u; X; u; u; u
+
+#note: @i{Ea} II 209.
+18. & & !zz x#-tab#-bi# x# x# : šu-x# x# x# x# [x x x]
+#lem: u; u; u; u; u; u; u; u; u; u
+
+19. !bs *# u₂#-ta#-ka# & !bs AŠ@k !cm x# x# x# ša₂ x# [x (x)] x# x# x# x# x# [x] tu₄?# [x x]
+#lem: X; X; u; u; u; ša[of]DET; u; u; u; u; u; u; u; u; u; X; u; u
+
+#note: @i{Ea} II 211.
+20. & & !bs TAG !cm : ma-haṣ : x# [x] x# x# [x] x# [x] x# x# [x (x)]
+#lem: lipit[affliction]N; mahāṣ[beating]'N; u; u; u; u; u; u; u; u; u; u; u
+
+21. & & !bs TAG !cm : ma-haš : x# x# [x] x# x# x# x# [x x (x)]
+#lem: lipit[affliction]N; X; u; u; u; u; u; u; u; u; u; u
+
+22. & & !cm kit-pu-lu ša₂ za-a-a-ru₃# [x x x x x] x# [x x (x)]
+#lem: kitpulu[intertwine]'N; ša[from]DET; X; u; u; u; u; u; u; u; u; u
+
+#note: Compare K.11702 o 4′ (@i{CCP} 3.4.u14): @akk{zi-ir za-a-ru ka-pa-lu}, “@i{zīr} (stems from) @i{zâru}, (which means) “to roll up.” 
+23. & & !zz ka-li-tu₄ TAG# x# x# x#-lu-u u x# [x x x x x (x)]
+#lem: X; lipit[affliction]N; u; u; u; u[and]CNJ; u; u; u; u; u; u; u
+
+24. & & ($___$) !zz 3-šu₂ ša₂ KUR NU TIL?#
+#lem: n; ša[of]DET; māti[land]N; lā[not]MOD; bašû[being (at hand)]'N
+
+$(The reverse is unepigaphic)
+
+@translation parallel en project
+
+1. The sign AŠ-@i{t.}, read /@i{makkas}/ (= @i{Ea} II 58) means “lamentation” […] on account of […] …
+2. The sign AŠ-@i{t.}, read /@i{tal}/ (= @i{Ea} II 62) means “battle cry” … […] …
+3. 

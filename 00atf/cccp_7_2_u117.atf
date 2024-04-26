@@ -1,0 +1,43 @@
+&P470000 = CCP 7.2.u117 (http://ccp.yale.edu/P470000) = BM 39031
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@column 2
+
+1. !zz [x x x] x# [...]
+#lem: u; u; u; u; u
+
+2. !zz a#-x# [x (x)] x#-ma a#-[...]
+#lem: u; u; u; u; u
+
+3. !cm ki-ma : !bs tak-ni-tu₄ [...]
+#lem: kīma[like]PRP; +teknītu[loving care]N$taknītu; u
+
+4. !cm ta-ka-lu₄ : !bs le-qu-u [...]
+#lem: +takālu[trust//trusting]V'N$; +leqû[take//taking]V'N$; u
+
+5. !bs ar-da !cm : am-tu₄ !zz [...]
+#lem: +ardu[slave]N$arda; +amtu[maid]N$; u
+
+6. !bs ar-da-tu₂ !cm [...]
+#lem: +ardatu[girl]N$; u
+
+7. !zz a-x#-[...]
+#lem: u
+
+8. !zz [x (x)] x-du# [...]
+#lem: u; u; u; u
+
+@translation parallel en project
+
+1. ...
+2. ...
+3. (means) "like." "Beloved" means [...]
+4. (derives from) "to trust." "To take" [...]
+5. "Male servant" (means) "Female servant" [...]
+6. "Girl" means [...].
+7. ...
+8. ...

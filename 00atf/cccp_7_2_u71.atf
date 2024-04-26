@@ -1,0 +1,40 @@
+&P461287 = CCP 7.2.u71 (http://ccp.yale.edu/P461287) = BM 74141
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. !zz [...]-x# ši-i-ma li#-[...]
+#lem: u; +šī[she]IP$šīma; u
+
+3'. !zz [...] !bs EME₂#.GA.LA₂ !cm : e-muq-tu₂ : UM#.ME#.[GA.LA₂ !zz ...]
+#lem: u; +mušēniqtu[wet nurse]N$; +emuqtu[carer]N$; +mušēniqtu[wet nurse]N$; u
+
+#note: In the first @akk{UM.ME.GA.LÁ}, @akk{ME} is written inside of @akk{UM}.
+4'. !zz [...] !qt %sux eme₂#-ga-la₂ {d}suen-na#-[ke₄ ...]
+#lem: u; emegala[wet nurse]N; Suen[1]DN; u
+
+#note: The text is probably citing @i{An} I 184a (@akk{{d}šu-zi-an-na} = @akk{UM.ME.GA.LÁ {d}SUEN.NA.KE₄}) or 306b (@akk{{d}nin-immaₓ(|GA₂×(SIG₇.ME)|)} = @akk{UM!.ME.GA.LÁ {d}SUEN.NA.KE₄}).
+5'. !zz [...] !bs GAL₂#{+ši} !cm : MU ša₂ DAM LU₂ la [...]
+#lem: u; ibašši[exist]V; +aššum[because (of)]PRP$; ša[who]REL; aššata[wife]N; amēli[man]N; lā[not]MOD; u
+#note: The reading of @akk{MU} as @i{aššu} was proposed by U. Gabbay (privatim).
+6'. !zz [...]-tu₄ ša₂-ni-tu₄ tar-den-[ni-tu₄ ...]
+#lem: u; šanītu[(an)other]AJ; +tardennītu[younger daughter]N$; u
+
+#note: The equation @i{šanītu} = @i{tardennītu} is attested in @i{Ḫargud}, see @i{SpTU} 2 53 i 7' (courtesy of E. Frahm).
+7'. [...]-na?#-ti# muš#-x#-[...]
+#lem: u; u
+
+@translation parallel en project
+
+1'. …
+2'. […] she is […]
+3'. […] the UM.ME.GA.LÁ (= “wetnurse”) is the housekeeper; the UM.ME.GA.LÁ is the […]
+4'. […] “the wetnurse of Sîn” […],
+5'. […] “there will be,” (it is said) on account of (the person) who the man’s wife will not […].
+6'. […] “the second female one” means “the youngest daughter” […]
+7'. …

@@ -1,0 +1,156 @@
+&P394842 = CCP 3.2.u1.A.b (http://ccp.yale.edu/P394842) = K.3155
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1'. !zz [...] x x x x x x x [...]
+#lem: u; u; u; u; u; u; u; u; u
+
+#note: Compare perhaps to the end of the first line of SIT 1:§45 Source C (K 2066).
+2'. ($___$) !zz [...]-ma# : !cm 30 ina IGI-šu₂ KI.GUB-su# [GI.NA (GUB) ...]
+#lem: u; Sin[1]DN; ina[at]PRP; +amāru[see//seeing]V'N$amārīšu; +mazzāzu[position]N$mazzāssu; +kânu[be(come) permanent]V$ikân; izziz[stand]V; u
+
+#note: Compare the interpretation (mostly) preserved here to the third interpretation in @i{SIT} 1:§45.  While this interpretation is in the beginning of the last line of @i{SIT} 1:§45 Source C (K 2066), it is in the penultimate line here.  This may be do to a different arrangement of interpretations here as compared to @i{SIT} 1:§45 (see, for example, @i{SAA} 8 107:6–r.3, where multiple interpretations of @i{SIT} 1:§45 are preserved but in a different order than in @i{SIT}).  It is unclear whether some writing of @i{izzaz} should be restored at the end of the mostly preserved comment, as this verb is lacking in @i{SIT} 1:§45, but present in SAA 8 107:r.2–3 (partially restored) and 330:r.6.  For the idea that the expression @akk{KI.GUB} refers to a celestial subject's position at first visibility (on the horizon) on a particular night, see E. Reiner and D. Pingree, @i{Babylonian Planetary Omens, Part Two: Enūma Anu Enlil, Tablets 50‒51}, vol. 2, Bibliotheca Mesopotamica 2 (Malibu: Undena Publications, 1981):17, 2.2.1.2 and E. Reiner and D. Pingree, @i{Babylonian Planetary Omens: Part Three}, Cuneiform Monographs 11 (Groningen: Styx, 1998):18–19.
+3'. ($___$) !zz [...] !cm GI# ka-a-nu GI ta-ra-ku GI ša₂-la#-mu#
+#lem: u; +kânu[be(come) permanent//be(com)ing permanent]V'N$; kânu[be(com)ing permanent]'N; +tarāku[be(come) dark//be(com)ing dark]V'N$; tarāku[be(com)ing dark]'N; +šalāmu[be(come) healthy//be(com)ing healthy]V'N$; šalāmu[be(com)ing healthy]'N
+
+#note: This seems to be the last line of the entry also known from @i{SIT} 1:§45. For other examples of this lexical interpretation (aside from @i{SIT} 1:§45), see @i{SAA} 8 107:r.1–2 (partially restored); 304:r.1–3 (in a different order); and 330:r.5 (includes only two of three lexical interpretations).  This lexical interpretation seeks to connect, through homophony, the only comment preserved in this entry with the protasis and apodosis that are not preserved here.  Restoring from @i{SIT} 1:§45 and parallels, a form of the verb @i{tarāku} (to be dark) is found in the protasis, while a nominal formation from @i{šalāmu} (to be at peace) occurs in the protasis.  The verbs @i{kânu} (to be stable), @i{tarāku}, and @i{šalāmu}, are all associated with the sign GI in this lexical comment.  Here, the commentator levels the logographic representations of these three verbs to a basic, common form.  The verb @i{kânu} and its derivatives are written logographically as @akk{GI.NA}, though @akk{GI} is known as an abbreviation for gi.na (for this, see the celestial-divinatory commentary K 6452:r.5' (@i{ACh Supp}. 16), VAT 9307:29 (@i{KAR} 4), which has @akk{GI.DÈ} for @i{ana kunni}, and @i{Enūma Eliš} Commentary II:115 in W. G. Lambert, @i{Babylonian Creation Myths}, Mesopotamian Civilizations 16 (Winona Lake, IN: Eisenbrauns, 2013):141, which has @akk{GI} = @akk{[ka-a]-nu#}).  Conversely, @i{tarāku}, like other verbs with the same meaning, is expressed through the sign @akk{MI}, which is read @akk{GI₆} (see, for example, @i{CAD} T:234–235, s.v. @i{tarku}).  Only @i{šalāmu} is routinely expressed through @akk{GI} alone, and only in the first millennium (for examples of @i{šalāmu} written with the sign @akk{GI}, see especially @i{CAD} Š/I:215–216 and 220, s.v. šalāmu 3b, 4a, and 7a3').
+4'. !bs [* 30 NU IGI-ma 2 U₄.SAKAR-MEŠ IGI-MEŠ] {munus#}KUR₂ ina KUR.KUR GAR !cm U₄.14.KAM₂ U₄.15.KAM₂
+#lem: Sin[1]DN; lā[not]MOD; +amāru[see]V$īmurma; n; +uskāru[crescent (moon)]N$uskārū; immarā[see]V; +nukurtu[enmity]N$; ina[in]PRP; mātāti[land]N; +šakānu[put]V$iššakkin; X; X
+
+#note: Restored from @i{SIT} 1:§50.
+5'. ($___$) !cm [TA BAR{+lu} hap-rat 30 par-sat BAR-ma] u hap-rat 20 par-sat BAR-ma : ina nab-ṭe₃-e IGI-ma
+#lem: ištu[from]N; +mišlu[half]N$; haprāt[visible surface]N; Sin[1]DN; parsat[divided]AJ; zīzma[divided]AJ; u[and]CNJ; haprāt[visible surface]N; Šamaš[1]DN; parsat[divided]AJ; zīzma[divided]AJ; ina[in]PRP; +nabṭû[horizon]N$nabṭê; +amāru[see]V$īmurma
+
+#note: Mostly restored from @i{SIT} 1:§50, with par-sat restored instead of @akk{1-šú} from @i{SIT} 1:§50 because of the next phrase in this line.
+6'. ($___$) !cm [AN.GE₆ DIB{+iq} NU GAR GIM AN.GE₆] ta#-har-ra-aṣ nab#-ṭu-u₂ ina GU₄.UD {d}UTU IGI.IGI
+#lem: attallû[eclipse]N; ītiq[cross]V; lā[not]MOD; šakin[displayed]AJ; kīma[according to]PRP; attallû[eclipse]N; taharraṣ[break off]V; +nabṭû[horizon]N$; ina[in]PRP; šahiṭ[throbbing]AJ; Šamaš[1]DN; ittanmar[appear]V
+
+#note: Restored from @i{SIT} 1:§50 Source L (Sm 751).
+7'. ($___$) !cm [2 ŠU₂ AN.GE₆ EGIR a-ha-meš GAR-ma?] KIŠI₄#.ZI# nab-ṭu-u ša₂ mut-ta-as#-su zi-<za>-at₂ ina li-ša₂-ni qa-bi
+#lem: n; +erēpu[cloud over]V$erpū; attallû[eclipse]N; arki[after]PRP; ahāmeš[one another]AV; iššakkanma[take place]V; X; +nabṭû[horizon]N$; ša[of]DET; +muttatu[half]N$muttassu; +zīzu[divided]AJ$zīzat; ina[in]PRP; +lišānu[tongue//synonym list]N'N$lišāni; qabi[said]AJ
+
+#note: The beginning is restored from @i{SIT} 1:§50 Source B (K 2068 + K 2251), which includes this interpretation after the final interpretation in K 3155:7'. The interpretation of @akk{KIŠI₄.ZI} as “half of it is divided” is an example of Notarikon, based on the translation of @akk{KIŠI₄} into Akkadian @i{muttatu} (for this equation in the lexical texts, see @i{CAD} M/II:310, s.v. @i{muttatu} A lexical), and a form of alliteration, as the sign @akk{ZI} is represented by the stative verb @i{zīzat}.  Note that it is seemingly the heavenly-body that is divided in this explanation. For this omen, see @i{SIT} 1:§50 (with variants); EAE 1:§56 in L. Verderame, @i{Le tavole I-VI della serie astrologica Enūma Anu Enlil}, Nisaba 2 (Messina: Di.Sc.A.M, 2002):12ff.; K 6452:8'–10' (@i{ACh Supp}. 16; includes parts of three comments); @i{SAA} 8 255:1–3 (comment similar to one of the comments in @i{SIT}); 359:1–3 (no comment); and perhaps @i{SAA} 8 561:1'.
+8'. !zz [...] GABA.RI
+#lem: u; gabari[duplicate]N
+
+#note: Though the preserved portion of this omen is extremely generic, it may parallel @i{SIT} 1:§51. 
+9'. !bs [* 30 ina E₃-šu₂ šu-šur? ŠE] LA₂#{+al} !cm 30 IGI-ma DUNGU ia-aʾ-nu
+#lem: Sin[1]DN; ina[at]PRP; aṣîšu[going out]'N; šūšur[normal]AJ; +šeʾu[barley]N$; +qalālu[be(come) light]V$iqallil; Sin[1]DN; innamir-ma[see]V; erpeti[cloud]N; yaʾnu[(there) is not]V
+
+#note: For the restoration at the beginning, see @i{SIT} 1:§61C.  Though the interpretation of this entry in @i{SIT} is not preserved, the next entry in @i{SIT}  1, which seems to parallel K 3155:10' (which in turn is interpreted in “the same” way as K 3155:9'), is interpreted as meaning that “the Moon is seen and there are no clouds” in @i{STT} 2 339:22'. For this omen, see @i{EAE} 6 Source l:46' in Verderame, @i{Le tavole I-VI della serie astrologica Enūma Anu Enlil}:197.
+10'. !bs [* 30 ina IGI.LA₂-šu₂ pur-ru-ur?]  KUR# ŠA₃.HUL IGI !cm ŠU.BI.AŠ.AM₃
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; purrur[scattered]AJ; mātu[land]N; lumun[evil]N&libbi[interior]N; +amāru[see]V$immar; X
+
+#note: For the restoration at the beginning, see @i{STT} 2 339:22', which it parallels. For this entry, see also @i{SIT} 1:§62C.  For the D-stem of the verb parāru used with the Moon, see 1881-7-27, 96:2 (identified by E. F. Weidner, “Die astrologische Serie Enûma Anu Enlil,” @i{Archiv für Orientforschung} 14 (1941–1944):315 as an exemplar of @i{EAE} 9); Rm 2, 128:r.8' (@i{ACh Supp}. 12:24'; mentions clouds); and K 12655:2 (mentions clouds).  Though the logic behind the association between this omen and its interpretation is uncertain, there is a potential connection between the verb @i{purruru}, “to dissipate” in the protasis and the term @akk{DUNGU}, “cloud,” which is implied in the comment.  The N-stem of this verb in the protasis is associated with the sign @akk{DIRI} in @i{Diri} I:17 (@i{MSL} XV:106), which is also the second element of the term @akk{DUNGU} (written @akk{IM.DIRI}) that is implied in the comment.
+11'. !bs [* 30 ina IGI.LA₂-šu₂ BABBAR KI.LAM x] UD# !cm ina DUNGU BABBAR IGI-ma : UD.DA-su pe-ṣa-at
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; peṣi[white]AJ; mahīra[exchange rate]N; u; X; ina[in]PRP; erpeti[cloud]N; peṣi[white]AJ; +amāru[see]V$īmurma; ṣēssu[bright light]N; peṣât[white]AJ
+
+#note: For this restoration, see @i{STT} 2 339:23', which it parallels.
+12'. !bs [* 30 ina IGI.LA₂-šu₂ SA₅ KUR HE₂.NUN] IGI# KI.LAM nap-ša₂ KUR GU₇ !cm ina DUNGU SA₅ IGI-ma : UD.DA-su SA₅{+at₂}
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; sāmū[red]AJ; mātu[land]N; nuhša[abundance]N; immar[see]V; mahīra[exchange rate]N; napša[plentiful]AJ; mātu[land]N; ikkal[consume]V; ina[in]PRP; erpeti[cloud]N; sāmū[red]AJ; īmurma[see]V; ṣēssu[bright light]N; sāmat[red]AJ
+
+#note: For this restoration, see @i{SAA} 8 263:3–4 and @i{STT} 2 339:24'–25', which it parallels.
+13'. ($___$) !bs : AN.GE₆ : ER₂ GAL₂{+ši}
+#lem: attallû[eclipse]N; +bikītu[weeping]N$; ibašši[exist]V
+
+14'. !bs [* 30 ina IGI.LA₂-šu₂ ...] x# BABBAR-ME {d}er₃-ra ina KUR GU₇ LUGAL ŠEŠ-šu₂ : LU₂-šu₂ GAZ-šu₂
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; u; u; +peṣû[white]AJ$peṣûtu; +Erra[]DN$; ina[in]PRP; māti[land]N; ikkal[consume]V; šar[king]N; ahašu[brother]N; amēlšu[servant]N; idūkšu[kill]V
+
+15'. ($___$) !bs : GIG#-MEŠ ina KUR GAL₂-MEŠ
+#lem: marṣūtu[sick person]N; ina[in]PRP; māti[land]N; +bašû[exist]V$ibaššû
+
+16'. ($___$) !bs [...] DUR?# : AN.GE₆ UD.ZAL UDU.IDIM-MEŠ GAL₂-MEŠ : LUGAL KUR₂.BI LA₂.BI
+#lem: u; u; attallû[eclipse]N; +šāt-urri[third watch of the night]N$; bibbū[planet]N; ibaššû[exist]V; šarru[king]N; +nakru[strange]N$nakaršu; +kamû[bind]V$ikammīšu
+
+17'. ($___$) !cm [... ina DUNGU?] SIG₇# IGI-ma : UD.DA-su SIG₇{+at₂} 
+#lem: u; ina[in]PRP; erpeti[cloud]N; aruqtu[yellow-green]AJ; īmurma[see]V; ṣēssu[bright light]N; arqat[yellow-green]AJ
+
+#note: Compare this entry to STT 2 339:26'–29', to which it is very similar.
+18'. !bs [* 30 ina IGI.LA₂-šu₂ GE₆?] GIG#-ME ina KUR GAL₂-MEŠ !cm ina DUNGU GE₆ IGI-ma : UD.DA-su GE₆{+at₂}
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; ṣalmu[black]AJ; +marṣu[sick person]N$marṣūtu; ina[in]PRP; māti[land]N; ibaššâ[exist]V; ina[in]PRP; erpeti[cloud]N; ṣalmu[black]AJ; īmurma[see]V; ṣēssu[bright light]N; ṣalmat[dark]AJ
+
+#note: For this restoration, see @i{STT} 2 339:30'–31', which it parallels.
+19'. !bs [... IR KUR URIM₂]{ki#} ŠA₃ GAR{+an} u U₄ ZALAG₂ !cm ni-i-ru IGI ma-gal SA₅-ma : UD.DA#-su SA₅{+at₂#}
+#lem: u; u; mātu[land]N; +Akkad[]GN$; libbi[interior]N; iššakkan[take place]V; u[and]CNJ; ūmu[day]N$; namru[bright]AJ; +nīru[yoke]N$; pān[front]N; magal[greatly]AV; malī-ma[full]AJ; ṣēssu[bright light]N; sāmat[red]AJ
+
+#note: For this restoration, see @i{STT} 2 339:32'–33', which it parallels.
+20'. !bs [...] x# IGI !cm ina AN.GE₆ DUNGU# GUN₃ IGI-ma : UD.DA 30 KUR₂.KUR₂#-[ma?]
+#lem: u; u; innamir[appear]V; ina[at]PRP; attallû[eclipse]N; erpeti[cloud]N; burruma[multicoloured]AJ; īmurma[see]V; ūmu[day]N; Sin[1]DN; +nakāru[be(come) different]V$ittanakkirma
+
+21'. !bs [* 30 ina IGI.LA₂-šu₂ e-ki-il? di]-hu# u? di#-lip-tu₂ ina KUR GAL₂ !cm AN.GE₆ BI GE₆ : UD.DA?#-[su GE₆{+at₂?}]
+#lem: Sin[1]DN; ina[at]PRP; tāmartišu[appearance]N; ekil[gloomy]AJ; dīhu[(a disease of the head)]N; u[and]CNJ; diliptu[anxiety]N; ina[in]PRP; māti[land]N; ibašši[exist]V; attallû[eclipse]N; šū[that]IP; ṣalmu[black]AJ; ṣēssu[bright light]N; ṣalmat[dark]AJ
+
+#note: For the inspiration behind this restoration, see @i{STT} 2 339:3–4, which it parallels.
+22'. !bs [* 30 TUR₃ mar-ra-tu NIGIN LA₂ ŠE u?] ŠE.GIŠ.I₃# !cm mar-ra-tu {d}TIR.AN.NA TUR₃ {d}TIR.AN.[NA NIGIN-ma?]
+#lem: Sin[1]DN; tarbaṣa[lunar halo]N; +marratu[bitter thing//rainbow]N'N$; +lami[surrounded]AJ$; +maṭû[be(come) little//be(com)ing little]V'N$maṭi; šeʾi[barley]N; u[and]CNJ; šamaššammī[sesame]N; marratu[rainbow]'N; Manzat[Rainbow]DN; tarbaṣ[lunar halo]N; Manzat[Rainbow]DN; lamima[surrounded]AJ
+
+#note: For the inspiration behind this restoration, see @i{SIT} 1:§81', which it parallels.  For the phrase @akk{{d}TIR.AN.NA UD HE₂.NUN MU.NI}, “The rainbow, its name is 'day of abundance,'” partially restored in the comment, see MUL.APIN II iii:33 (for which, see H. Hunger and D. Pingree, @i{MUL.APIN: An Astronomical Compendium in Cuneiform}, Archiv für Orientforschung Beiheft 24 (Horn, Austria: Verlag Ferdinand Berger & Söhne, 1989):112 ff.) and the so-called @i{Great Star List}:167 (according to the numbering in U. S. Koch-Westenholz, @i{Mesopotamian Astrology: An Introduction to Babylonian and Assyrian Celestial Divination}, Carsten Niebuhr Institute Publications 19 (Copenhagen: Museum Tusculanum Press, 1995):194–195).  If I have correctly restored and understood this entry, then this explanation interprets the restored protasis in light of an alternate designation for the rainbow in Mesopotamian scholarship, by way of homography and association of cause and effect. The sign @akk{UD}, read as @i{ud}, “day,” in the designation “day of abundance” is read as @akk{BABBAR}, “white,” in the comment, while the logogram @akk{HÉ.NUN}, “abundance,” is associated with rain in the comment, which brings abundance.
+23'. !bs [* 30 ina U₄.1.KAM₂ TUR₃ NIGIN₂ AN.GE₆? {d}TIR].AN#.NA U₄ <HE₂.NUN> MU-NI !cm TUR₃ BABBAR NIGIN₂-ma ŠEG₃# [SUR?]
+#lem: Sin[1]DN; ina[at]PRP; X; tarbaṣa[lunar halo]N; lami[surrounded]AJ; attallû[eclipse]N; Manzat[Rainbow]DN; ūm[day]N; nuhši[abundance]N; šumšu[name]N; tarbaṣa[lunar halo]N; peṣi[white]AJ; lamima[surrounded]AJ; zunnu[rain]N; +zanānu[rain]V$izannun
+
+#note: For this restoration, see @i{SIT} 1:§82', which it parallels.  I have not restored the alternate interpretation from @i{SIT} 1:§82' to the end of K 3155:23', as the spacing at the end of K 3155:23' seems to indicate to me that this alternate interpretation was not included.
+24'. !bs [* 30 TUR₃ GAL?] DAB/NIGIN₂#{+u} : TUR₃ NU DUNGU : ina E₃-šu₂# [TUR₃ NIGIN₂-ma]
+#lem: Sin[1]DN; tarbaṣa[lunar halo]N; rabâ[great]AJ; X; tarbaṣa[lunar halo]N; lā[not]MOD; erpeti[cloud]N; ina[in]PRP; aṣîšu[going out]'N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ
+
+25'. ($___$) !bs [U₄.5.KAM₂ TUR₃ NIGIN₂-ma] : AN.GE₆ TUR₃# [NIGIN₂-ma?]
+#lem: X; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; attallû[eclipse]N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ
+
+26'. ($___$) !cm [30 ina U₄ SUD TUR₃ NIGIN₂ ina U₄?] NU# ŠU₂ ša₂ {iti}ŠU {iti}NE# [u {iti}KIN?]
+#lem: Sin[1]DN; ina[at]PRP; ūmi[day]N; +rīqu[empty]AJ$rīqi; tarbaṣa[lunar halo]N; lami[surrounded]AJ; ina[in]PRP; ūmi[day]N; lā[not]MOD; +erēpu[cloud over//clouding over]V'N$erpēti; ša[of]DET; Duʾuzu[1]MN; Abu[1]MN; u[and]CNJ; Ululu[1]MN
+
+#note: For this restoration, see @i{SIT} 1:§83', which it parallels. For @akk{DAB} in the protasis as a logogram meaning @i{law}/@i{mû}, “to surround,” see YBC 7158:36 (Secondary branches of @i{Proto-Ea} and @i{Proto-Aa} No.19 [@i{MSL} XIV:141]), where the sign @akk{KU} (with the reading @akk{DAB₅}) is associated with the Akkadian @akk{la-a-wu-u₂-um}, and where in six of the seven entries from the same grouping, the sign @akk{KU} (with the reading @akk{DAB₅}) is connected to Akkadian verbs normally subsumed under the purview of the sign @akk{DAB} and not @akk{KU} (these are @i{ṣabātu}, @i{kullum}, @i{bâʾum}, @i{kamûm}, @i{šūḫuzum} and @i{aḫāzum}).  For other evidence of /dab/ meaning @i{lawû}, see @i{Nabnītu} O:264 (@i{MSL} XVI:294), where @akk{DAB₄} (the @akk{DUB} sign) = @akk{la-wu-u₂}.  But see the brief note in R. Borger, @i{Mesopotamisches Zeichenlexikon}, 2nd ed., Alter Orient und Altes Testament 305 (Münster: Ugarit-Verlag, 2010):no.813 for a dissenting opinion.
+
+27'. !bs [* 30 ina {iti}ŠE ina IGI.LA₂-šu₂ TUR₃ NIGIN₂-ma? {mul}]SIPA#.ZI#.AN.NA ina ŠA₃-šu₂ GUB ina ITI# [BI AN.GE₆ GAR{+an}]
+#lem: Sin[1]DN; ina[at]PRP; Addaru[1]MN; ina[at]PRP; tāmartišu[appearance]N; tarbaṣa[lunar halo]N; lamima[surrounded]AJ; Šitaddaru[Orion]CN; ina[in]PRP; libbišu[interior]N; izziz[stand]V; ina[in]PRP; arhi[month]N; šū[that]IP; attallû[eclipse]N; iššakkan[take place]V
+
+#note: For this restoration, see @i{SIT} 1:§84', which it parallels.
+28'. !bs [* 30 ina E₃-šu₂ 2 DUR-MEŠ pe-lu-tu₄ ša₂] DUNGU BABBAR# [NIGIN AN.GE₆ GAR-ma]
+#lem: Sin[1]DN; ina[at]PRP; aṣîšu[going out]'N; n; riksū[band]N; +pelû[(light) red]AJ$pelûtu; ša[of]DET; erpeti[cloud]N; peṣi[white]AJ; lami[surrounded]AJ; attallû[eclipse]N; iššakinma[take place]V
+
+29'. ($___$) !bs [ina ESAG₂-ME ŠE ir-ru-ur] ub-bu#-[ṭu GAR] 
+#lem: ina[in]PRP; +qarītu[grain-store]N$qarâti; Addaru[1]MN; irrur[be(come) parched]V; +ubbuṭu[starvation]N$; +šakānu[put]V$iššakkan
+
+#note: For this restoration, see @i{SIT} 1:§85', which it parallels.
+
+$(remainder of the tablet is broken)
+@translation parallel en project
+
+1'. […] (traces) […]
+2'. 	[…] … : the Moon, when it is seen, its position [is stable (and it stands)…]
+3'. 	[…] (the sign) gi (means) “to be stable,” (the sign) gi (means) “to be dark,” (the sign) gi (also means) “to be peaceful.”
+4'. [If the Moon is not seen but two crescents are seen,] hostility will be established in the lands – (the protasis means that on) the 14th (or) the 15th,
+5'. 	[from the midpoint, the disk of the Moon is divided in half] and the disc of the sun is divided in half; (variant): they are seen at the horizon
+#note: The Akkadian is not plural here; because the parallel text is in the plural, and our text seemingly has a compound subject (as expressed by the “and” immediately after the break), I have chosen to translate this line in the plural.
+6'. 	but an eclipse passes by and does not occur; nevertheless,] you treat (it) [as an eclipse;] the horizon is seen at sunrise;
+7'. 	(variant): the two (of them, that is, the Sun and Moon,) are dark, (and) an eclipse will occur after another (eclipse);] (the logogram) kiš₄.zi (is associated with) “the horizon,” because half of it is risen – (this) is said in a commentary/synonym list.
+8'. […] the same.
+9'. [If the Moon at its rising proceeds straight, barley] will decrease – (the protasis means that) the Moon is seen and there are no clouds.
+10'. [If the Moon at its appearance dissipates,] the land will experience sorrow – (the protasis means) the same (as the protasis in the previous entry).
+11'. [If the Moon at its appearance is white, the market …] … – (the protasis means that the Moon) is seen in a white cloud; (variant): its light is white.
+12'. [If the Moon at its appearance is red, the land will experience abundance;] the land will enjoy a robust market – (the protasis means that the Moon) is seen in a red cloud; (variant): its light is red;
+13'. 	(variant): eclipse; (variant): there will be wailing.
+14'. [If the Moon at its appearance …] are white, Erra will ravage in the land; (variant): the king will kill his brother; (variant): his man.
+15'. 	(variant): there will be illnesses in the land.
+16'. 	[…] … (variant): there will be an eclipse of the morning of planets; (variant): that enemy king will bind him(?).
+17'. 	[(… the protasis means that the Moon)] is seen [in] a yellow [cloud]; (variant): its light is yellow.
+18'. [If the Moon at its appearance is black] there will be sickness in the land – (the protasis means that the Moon) is seen in a black cloud; (variant): its light is black.
+19'. [… the land of Akkad …] is placed within and the day is bright – (the protasis means that) the Yoke-(constellation?) is seen (and) is very red; (variant): its light is red.
+20'. […] … is seen – (the protasis means that) during an eclipse, (the Moon) is seen in a variegated cloud; (variant): the light of the Moon is constantly changing
+21'. [If the Moon at its appearance is dark,] there will be @i{diʾu}-illness and trouble in the land – (the protasis means that) that eclipse is black – (variant): [its] light [is black].
+22'. [If the Moon is surrounded by a cattle-pen-halo (that looks like) a marratu-rainbow, decrease of barley and] sesame – (the term) @i{marratu} (that is used in the protasis to mean “rainbow” is associated with the logogram) d.TIR.AN.NA, (which also means “rainbow,” so that the protasis means that the Moon) [is surrounded by] a cattle-pen-halo (that looks like a) rainbow.
+23'. [If the Moon on the 1st is surrounded by a cattle-pen-halo, eclipse] – the rainbow, its name is <“day of abundance”>; (the protasis means that the Moon) is surrounded by a white cattle-pen-halo and [it rains].
+24'. [If the Moon] is surrounded [by a large cattle-pen-halo]; (variant): a cattle-pen-halo without a cloud; (variant): (the Moon) at its rising [is surrounded by a cattle-pen-halo];
+25'.	 [(variant): (the Moon on) the 5th is surrounded by a cattle-pen-halo]; (variant): an eclipse [is 	surrounded] by a cattle-pen-halo;
+26'.	[– (these protases mean that) the Moon will eventually be surrounded by a cattle-pen-halo on a day (that)] is not cloudy; that is, (during) Tammuz (IV), Ab (V), [or Elul (VI)].
+27'. [If the Moon in the month of Adar (XII), at its appearance, is surrounded by a cattle-pen-halo and] the True-Shepherd-of-Anu-constellation stands within it, in that month, [an eclipse will occur].
+28'. [If the Moon at its rising is surrounded by two reddish bands of] a white cloud, [an eclipse will occur];
+29'.	[in the storerooms, barley will rot (and)] famine [will occur].
+
+$(remainder of the tablet is broken)

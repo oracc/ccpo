@@ -1,0 +1,48 @@
+&P461293 = CCP 7.2.u73 (http://ccp.yale.edu/P461293) = BM 77196 P461293
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz [...] x#-bet-ti me-lul-ta# [...]
+#lem: u; u; +mēlultu[game]N$mēlulta; u
+
+2. !zz [...] x#-te u re-bi-ša₂ te-[...]
+#lem: u; u; u[and]CNJ; +rebû[fourth]NU$rebīša; u
+
+3. !zz [...] x#-PAB : !bs {+še-er}ŠER₃ !cm : rik-su !zz [...]
+#lem: u; u; +riksu[binding]N$; +riksu[binding]N$; u
+
+4. !zz [...]-tu₂ : !bs ME.ME !cm : me-lul-ti : ME.ME# !zz [...]
+#lem: u; +mēlultu[game]N$; +mēlultu[game]N$mēlulti; mēlultu[game]N; u
+
+#note: Cf. ME.ME = @i{mēlulu} in Syllable Alphabet A (@i{CAD} M/2 16a).
+5. !zz [...]-uš#-ma il-li-ku : x#-[...]
+#lem: u; +alāku[go]V$illiku; u
+
+6. !zz [... !cm še?]-gu-un-nu-u₂ !zz : nu-uk-x# [...]
+#lem: u; +šegunnû[grain crop]N$; u; u
+
+7. !zz [...] :# !cm mit-hu-ṣu : mit-hu-ṣu# !zz [...]
+#lem: u; +mahāṣu[beat//fighting]V'N$; mithuṣu[fighting]'N; u
+
+8. !zz [...]-ah#-hu-u₂ : ŠA₃ x# [...]
+#lem: u; libbi[interior]N; u; u
+
+9. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+@translation parallel en project
+
+1. [...] "game" [...]
+2. ...
+3. [...] ŠÈR, when read as /šer/, means "knot;" [...]
+4. [...] ME.ME means "game;" ME.ME also means [...]
+5. [... "...] and they went" [...]
+6. [... means "@grain] crop;" [...]
+7. [...] means "fight;" "fight" [means ...]
+8. ...
+9. ...

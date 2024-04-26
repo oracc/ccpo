@@ -1,0 +1,274 @@
+&P461321 = CCP 3.1.55.G (http://ccp.yale.edu/P461321) = VAT 7830
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@top
+
+0. !zz [i-na a]-mat# {d}60 u {d}an-tu₄ liš-lim
+#lem: ina[by]PRP; amāt[command]N; Anu[1]DN; u[and]CNJ; Antu[1]DN; lišlim[go well]V
+
+#tr.en: [At the w]ord of Anu and Antu may it be a success!
+
+@obverse
+
+1. !bs [* {mul}ŠUDUN ina] E₃#-šu₂ ša₂-qu-ma it-tan-mar BURU₁₄ KUR SI.SA₂ !cm : DINGIR-MEŠ# [x x x]
+#lem: Niru[Yoke]CN; ina[in]PRP; aṣîšu[going out]'N; šaqûma[high]AJ; ittanmar[appear]V; ebūr[harvest]N; māti[land]N; iššir[thrive]V; ilū[god]N; u; u; u
+
+#tr.en: “[If the Yoke Constellation, when] it rises, is high and visible, the harvest of the country will prosper” means “The gods […]”
+#note: The opening words of the base text are restored from @i{CCP} 3.1.55.B r 9' (see @i{CCP} 3.1.55.B ad o 1 for discussion).
+2. !bs [x x x x] !cm : na-pa-hu : !bs * KIMIN-ma šup-pu-ul-ma it-tan-mar !cm [x x x]
+#lem: u; u; u; u; napāhu[be(com)ing swollen]'N; X; +šuppulu[very deep]AJ$šuppul-ma; ittanmar[appear]V; u; u; u
+
+#tr.en: [– “…”] means “to rise/ glow”. “If ditto (i.e. the Yoke Constellation, when it rises), is low and visible” (= @i{ACh Ištar} 21, l. 4)  […]
+#note: If the lexical equation at the beginning of this line refers to the omen cited in the first line, then one is tempted to restore @akk{E₃} as the missing first half of the equation because the equation of @akk{E₃} and @akk{na-pa-hu} is well attested, appearing as it does in the lexical lists @i{Diri} I 151 and @i{Aa} III/3 147 (references from @i{CAD} N/1 s.v. @i{napāhu}, lexical section).
+3. !cm [x x x !bs *] KIMIN#-ma ina E₃#-šu₂ ana {d}UTU.E₃ IGI-šu₂ GAR{+nu} !cm : GU₄.UD ŠU₂-ma {im#}[x x]
+#lem: u; u; u; X; ina[in]PRP; aṣîšu[going out]'N; ana[according to]PRP; ṣīt[exit]N&šamši[sun]N; pānīšu[face]N; šaknu[displayed]AJ; Šehṭu[Mercury]CN; irbima[disappear]V; u; u
+
+#tr.en: [… “If] ditto (i.e. the Yoke Constellation), when it rises, faces east” means “Mercury sets and the […] wind
+#note: For the implicit equation of the Yoke Constellation with the planet Mercury compare @i{SAA} 8 73, l. 4 (Brown 2000: 60). The same omen protasis is cited in @i{CCP} 3.1.55.B o 4, but unfortunately that tablet breaks away before the explanation.
+4. !cm DU-ma# !bs [: * KIMIN-ma ...] x#-šu₂ !cm ina {d}UTU.ŠU₂.A BABBAR-ma IGI{+mar} DIB-ma : !bs * KIMIN-ma a-na# [{d}UTU.ŠU₂.A]
+#lem: illakma[flow]V; X; u; u; ina[in]PRP; ereb[entrance]N&šamši[sun]N; peṣima[white]AJ; innammar[see]V; ītiqma[pass by]V; X; ana[according to]PRP; ereb[entrance]N&šamši[sun]N
+
+#tr.en: blows.” [“If ditto (i.e., the Yoke Constellation, when it rises,) …] …” (means) “In the west it is shining and visible and passes by.” “If ditto (i.e., the Yoke Constellation, when it rises,) faces [west”] (= @i{ACh Ištar} 21, l. 12).” 
+5. !bs IGI-šu₂ GAR{+an} !cm : KI {d}SAG₃.ME.GAR ina GIŠ.ŠU₂ TUR-ma har-piš ŠU₂-ma : !bs TI !cm : sa#-[x x]
+#lem: pānīšu[face]N; iššakkan[take place]V; qaqqar[district]N; +Nēberu[Jupiter]CN$; ina[in]PRP; šīlān[at sunset]AV; iṣehhir-ma[be(come) small]V; harpiš[early]AV; irbima[disappear]V; u; u; u
+
+#tr.en: means “Together with Jupiter it grows small in the west and sets early.” “TI” means “… […]”
+#note: The same protasis is explained differently in @i{CCP} 3.1.55.B, o 9 (“No wind will blow (and) there will be famine”). The second entry, concerning the logogram TI, refers to a new omen without citing the omen in question in full.
+6. !bs * KIMIN ina E₃-šu₂ LU₂ IGI-šu₂ LU₂ BI i-hi-ri !cm : {d}SAG₃.ME.GAR ina IL₂ ša₂-ru#-[ru]
+#lem: šanîš[otherwise]N; ina[in]PRP; aṣîšu[going out]'N; amēla[man]N; pānīšu[face]N; amēla[man]N; šu[that]IP; +hiāru[choose]V$ihīri; Nēberu[Jupiter]CN; ina[in]PRP; +našû[lift//lifting]V'N$našê; šarūru[brilliance]N
+
+#tr.en: “If ditto (i.e., the Yoke Constellation), when it rises, faces a man (and) chooses that man” means “Jupiter, while having a brilliant sheen”
+#note: Perhaps @akk{KUR!(LU₂)}, as in @i{CCP} 3.1.55.B, o 16: ¶ @akk{{mul}ŠUDUN ina E₂-šu₂ KUR IGI-šu₂}. 
+7. !cm KI {(he-pi₂ eš-šu₂)} IGI-ma : !bs LU₂ !cm UN-MEŠ : !bs * KIMIN i-na E₃-šu₂ ana A₂-šu₂ ki-lal-[la-an]
+#lem: qaqqar[district]N; hepi[broken]AJ; eššu[new]AJ; +amāru[see]V$innammir-ma; amēlu[man]N; nišū[people]N; u; ina[in]PRP; aṣîšu[going out]'N; ana[according to]PRP; idišu[arm]N; kilallān[both]AJ
+
+#tr.en: is visible with (it is newly broken)” – “man” (means) “people.” “If ditto (i.e. the Yoke Constellation), when it rises, 
+#note: Compare @i{CCP} 3.1.55.B, l. 17: ¶ @akk{{mul}ŠUDUN ina E₂-šu₂ ki-lal-la-an MUL [...]}
+8. !bs MUL-MEŠ TE-MEŠ-ma DU-MEŠ : !cm GENNA u DINGIR 15 u 150 ša₂ {d}SAG₃.ME.GAR TE#-MEŠ
+#lem: kakkabū[star]N; +ṭehû[be(come) near to]V$iṭehhû-ma; illakū[flow]V; Kayyamanu[Saturn]CN; u[and]CNJ; ilu[god]N; imitti[right]N; u[and]CNJ; šumēlu[left]N; ša[of]DET; Nēberu[Jupiter]CN; iṭehhû[approach]V
+
+#tr.en: the stars draw near to b[oth] sides and go” means “Saturn and Mars approach on the right and left of Jupiter.”
+#note: For the implicit equation of the Yoke Constellation with the planet Jupiter compare @i{SAA} 8: 546 (Brown 2000: 60). 
+9. !bs * ina IGI {mul}ŠUDUN {mul}GE₆ IGI : !cm GU₄.UD ina IGI {d}SAG₃.ME.GAR IGI-ma : !bs * {mul}[ŠUDUN]
+#lem: ina[in]PRP; pān[front]N; Niru[Yoke]CN; ṣalmi[dark star]N; +amāru[see]V$innamir; Šehṭu[Mercury]CN; ina[in]PRP; pān[front]N; Nēberu[Jupiter]CN; innammir-ma[see]V; Niru[Yoke]CN
+
+#tr.en: “If the Black One is visible in front of the Yoke Constellation” means Mercury is visible in front of Jupiter. “If the [Yoke] Constellation
+#note: Note the quotation of the same line in CCP 3.1.55.B, l. 12, which then seems to explain the omen by equating Saturn (‘the Black One’) with Jupiter.
+10. !bs ina# KI#.GUB 20{+šu₂} GUB{+iz} : !cm {d}SAG₃.ME.GAR ŠU₂-ma GU₄.UD IGI-ma : !bs * KIMIN {im}KUR.RA a-x#
+#lem: ina[in]PRP; manzāzi[position]N; +šamšu[sun]N$šamšu; izziz[stand out]V; Nēberu[Jupiter]CN; irbima[disappear]V; Šehṭu[Mercury]CN; innammir-ma[see]V; šanîš[otherwise]N; šadî[east]N; u
+
+#tr.en: stands in the position of the sun” means “Jupiter will set and Mercury will be visible.” “If ditto (i.e., the Yoke Constellation?) the east wind …
+#note: Note the commentary on the same line in @i{CCP} 3.1.55.B, l. 14: ¶ @akk{{mul}ŠUDUN ina?# KI#.GUB# {d?}UTU?{+šu₂?#} GUB{+iz} x# [...]}
+11. !bs [DU? : !cm {d}SAG₃.ME].GAR ina ALLA TUR-ma : !bs e-mu-ut-ba-lu !cm : BAD₃.AN{ki} : {mul}ŠU.PA : DINGIR
+#lem: illik[go]V; Nēberu[Jupiter]CN; ina[in]PRP; Alluttu[Crab]CN; iṣehhir-ma[be(come) small]V; +Emutbal[]GN$; Der[1]SN; Šupa[1]CN; +Ṣalbatānu[planet Mars]CN$
+
+#tr.en: [@i{blows}” means “Jupit]er will grow small in the Crab”. “Emutbal” means (the city) “Dēr” means the “ŠU.PA (= Yoke?) Constellation” means “Mars.”
+#note: To my knowledge, the equations of Emutbal with Dēr and of Dēr with the Yoke Constellation are not otherwise attested. For the use of @akk{{d}ŠU.PA} to mean the Yoke Constellation, see Brown (2000: 60), and for the implicit equation of the Yoke Constellation with the planet Mars compare @i{SAA} 8 383, r. 4 (Brown 2000: 60).  
+12. !bs [* {mul}]BIR# ma-diš SA₅ : !cm GU₄.UD ša₂-ru-ru IL₂-ma : !bs * KIMIN ana {d}UDU.IDIM TE
+#lem: Kalītu[Kidney]CN; mādiš[greatly]AV; sāmu[red]AJ; Šehṭu[Mercury]CN; šarūru[brilliance]N; našima[imbued]AJ; u; ana[according to]PRP; bibbu[planet]N; iṭhe[approach]V
+
+#tr.en: [“If the Kid]ney Star is very red” means “Mercury has a brilliant sheen.” “If ditto (i.e., the Kidney Star) approaches a planet”
+13. !zz [x (x)] !cm x hal ina IL₂ ša₂-ru-ru ana DINGIR# TE# :# !bs * KIMIN {mul}UGA i-mid#
+#lem: u; u; u; X; ina[in]PRP; našê[lifting]'N; šarūru[brilliance]N; ana[according to]PRP; Ṣalbatānu[planet Mars]CN; iṭhe[approach]V; u; Erebu[Raven]CN; īmid[touch]V
+
+#tr.en: […] “… while having a brilliant sheen and approaches Mars”. “If ditto (i.e., the Kidney Star) leans on the Raven Constellation
+14. !bs [x x x {mul}]gu#-la# IGI-ma !cm : !bs {mul#}BIR !cm : {mul}gu-la : !bs * {mul#}BIR#  x# x# x# [x]
+#lem: u; u; u; Gula[1]CN; innammir-ma[see]V; Kalītu[Kidney]CN; Gula[1]CN; Kalītu[Kidney]CN; u; u; u; u
+
+#tr.en: […] Gula is visible”. “Kidney Star” means “Gula Star”. “If the Kidney Star … 
+15. !zz [x x !cm : x x ša₂-ru]-ru# IL₂#-ma : !bs GU₇ DINGIR !cm : u₂-kul-ti DINGIR : !bs GU₇ !cm : u₂#-[kul-ti]
+#lem: u; u; u; u; šarūru[brilliance]N; našima[imbued]AJ; +ukultu[food]N$; ili[god]N; ukulti[devouring]N; ilu[god]N; +ukultu[food]N$; ukulti[devouring]N
+
+#tr.en: [… means “…] has a [brilliant sh]een”. “GU₇ of the god (Sumerian)” means “devouring by (lit. of) the god” (because) KA means “de[vouring”]
+#note: The phrase @i{ukulti īli} or @i{ukulti} DN is attested in apodases of other tablets of @i{EAE} (see @i{CAD} U/W 64b for references), where @i{ukultu} is written syllabically. In lexical lists, the logographic writing of @i{ukultu} is KA×GAR (see @i{CAD} U/W 62a for details).
+16. !bs [* {mul}]ŠUDUN# A.AB.BA a-dir !cm : DINGIR ina IL₂ ša₂-ru-ru ina {iti}KIN KI IGI.DU₈#.A
+#lem: Niru[Yoke]CN; tâmti[sea]N; adir[dark]AJ; Ṣalbatānu[planet Mars]CN; ina[in]PRP; našê[lifting]'N; šarūru[brilliance]N; ina[in]PRP; Ululu[1]MN; +qaqqaru[ground]N$qaqqara; tāmarti[visibility]N
+
+#tr.en: [“If the] Yoke of the Sea grows dark” (@i{ACh Ištar} 21, l. 41) means “Mars, while having a brilliant sheen, in the month of Ulūlu looks towards the earth.”
+#note: The end of the line is restored on the basis of l. 21. 
+17. !bs [*] {mul#}NUN#{ki} GU₄.UD TE-ma !cm : {d}e₂-a a-dir AN.GE₆ ina gu-la GAR[{+an}]
+#lem: +Eridu[]CN$; Šehṭu[Mercury]CN; +ṭehû[be(come) near to]V$iṭhī-ma; Ea[1]DN; adir[dark]AJ; attallû[eclipse]N; ina[on]PRP; +Gula[]DN$; iššakkan[take place]V
+
+#tr.en: “If the Eridu Star approaches Mercury” (@i{ACh Ištar} 21, l. 45) means “Ea grows dark (and) an eclipse will occur in Gula.”
+#note: Weidner (1938: 381) interprets the first words of the line as a continuation of the explanation in l. 17, thus: “Mars näherte sich zur Zeit (seines) ‘Glanztragens’ im Monat Elul gleichzeitig mit dem Aufgange des kakkabuEridu dem Merkur.” “Gula” = the Gula Constellation = Aquarius.
+18. !bs [* {mul}]EN.TE.NA#.BAR.HUM ina E₃-šu mu-ul-lu-uh GU₄.UD ina ALLA har-piš IGI{+mar#}
+#lem: Habaṣiranu[Mouse]CN; ina[in]PRP; aṣîšu[going out]'N; +mulluhu[shredded]AJ$mulluh; Šehṭu[Mercury]CN; ina[in]PRP; Alluttu[Crab]CN; harpiš[early]AV; innammar[see]V
+
+#tr.en: [If] the @i{Habaṣirānu} Star, when it rises, @i{flickers} (@i{ACh Ištar} 21, l. 47), Mercury will be visible early in the Crab”
+#note: For a similar omen see @i{ACh Ištar} 21, ll. 47-48: ¶ @akk{EN.TE.NA.BAR.HUM ina E₃-šu₂ mu-lu-uh ina SAG {iti}ŠU IGI-(ma) GAR SI.SA₂ KI.LAM GI.NA {d}GU₄.UD ki-ma TUM₃ ha-an-ṭiš IGI-ma}. See also @i{SAA} 8 158 l. 7-8. For the few attestations of @i{mulluḫu}, “to flicker?”, see @i{CAD} M/1 153a.
+19. !bs [a-pi₂]-il# !cm : ar₂-ku : !bs * KIMIN SAG-šu₂ AN{+e} i-na-aṭ-<ṭa>-al !cm : GU₄.UD ina AB.SIN₂!(ZI) [IGI-ma]
+#lem: apil[late]AJ; arku[afterwards]AV; u; rēšišu[top]N; šamê[heaven]N; inaṭṭal[look]V; Šehṭu[Mercury]CN; ina[in]PRP; šerʾu[furrow]N; innammir-ma[see]V
+
+#tr.en: “Delayed” (@i{a-pí-il}, @i{ACh Ištar} 21, l. 49) means “later.” “If ditto (i.e., the @i{Habaṣīrānu} Star, when it rises), its head looks at the heavens” (@i{ACh Ištar} 21, l. 51) means “Mercury [@i{is seen}] in the Furrow (Star)”
+#note: See @i{ACh Ištar} 21, l. 51: ¶ @akk{EN.TE.NA.BAR.HUM SAG-šu₂ AN{+e} i-na-ṭa-la}.
+20. !zz [x (x)] !bs *# KIMIN ana ABZU šu-ur₂ !cm : GU₄.UD ina ŠA₃ ALLA IGI-ma : !bs * KIMIN ana 15 {d}ṣal-[bat-a-nu]
+#lem: u; u; u; ana[according to]PRP; Apsu[1]GN; +šurru[bowed down]AJ$šur; Šehṭu[Mercury]CN; ina[in]PRP; libbi[interior]N; Alluttu[Crab]CN; innammir-ma[see]V; u; ana[towards]PRP; imitti[right]N; Ṣalbatanu[Mars]CN
+
+#tr.en: […] “If ditto (i.e., the @i{Habaṣīrānu} Star, when it rises), bows down to the Apsû” (@i{ACh Ištar} 21, l. 52) means “Mercury is visible within the Crab.” “If ditto (i.e., the @i{Habaṣirānu} Star, when it rises) […] to the right of M[ars]”
+#note: See @i{ACh Ištar} 21, 52: ¶ @akk{EN.TE.NA.BAR.HUM ana ABZU šu-ur₂}.
+21. !bs [x x x !cm GU₄].UD?# ina AB.SIN₂!(ZI) KI IGI.DU₈#.A ša₂ !bs {mulₓ(AB₂)}ŠU.PA ana DINGIR TE-ma {mul}ŠU.PA !cm : x# [x]
+#lem: u; u; u; Šehṭu[Mercury]CN; ina[in]PRP; šerʾu[furrow]N; qaqqara[ground]N; +amāru[see]V$īmur; ša[of]DET; +Šupa[]CN$; ana[according to]PRP; Ṣalbatānu[planet Mars]CN; iṭhī-ma[be(come) near to]V; Šupa[1]CN; u; u
+
+#tr.en: [(means) “Mercu]ry in the Furrow @i{looks} at the earth.”  @i{With respect to} “The ŠU.PA Constellation draws near to the god” (cf. K.2314+ l. 20) – “ŠU.PA Constellation” means … […]
+#note: Compare K.2314+ l. 20-21: ¶ @akk{{mul}ŠU.PA ana MUL.MUL TE {d}IMIN.BI x# [...]} | @akk{{d}SAG.ME.GAR ina MUL.MUL DU# [...]}
+22. !bs [{mul}ŠU].PA?# a-dir !cm : GENNA KI GU₄.UD GUB-ma : !bs EN.ME.EZ.HUM !cm : GU₄.UD : !bs EDIN !cm : [ṣe-e-ri]
+#lem: Šupa[1]CN; adir[dark]AJ; Kayyamanu[Saturn]CN; qaqqar[district]N; Šehṭu[Mercury]CN; izzazma[stand]V; X; Šehṭu[Mercury]CN; ṣēri[open country]N; ṣēri[open country]N
+
+#tr.en: [“@i{The ŠU.PA Constellation}] grows dark” means “Saturn stands in the position of Mercury:” “Lord of …” means “Mercury;” “EDIN” (= from @i{enten}abarḫum) means [“steppe”;]
+#note: For the beginning, compare K.2314+ l. 23-24: ¶ @akk{{mul}ŠU.PA a-dir LUGAL URI{ki} ZI-ma KUR NIM.MA{ki#} [...]} | @akk{{d}ṣal-bat-a-nu u₂-tan-[nat (...)]}. The writing @akk{EN.ME.EZ.HUM} is reminiscent of @akk{EN.TE.NA.MAŠ.HUM}, ‘Centaurus’, attested in the ‘Jupiter Tablets’ published by Reiner & Pingree 2005. The rest of the line and the next line contain a notarikon justification of the equation of the constellation @akk{EN.TE.NA.BAR.HUM} (Akkadian @i{habaṣīrānu}), whence the equations with Mercury.
+23. !bs [BAR !cm : ṣe]-e#-ri : !bs BAR !cm : a-ha-a-ta : !bs HUM !cm : hu-ru-ru : !bs HUM !cm : hu-ru-pu : !bs * mulₓ(AB₂) x# [x]
+#lem: +ṣēru[open country]N$; ṣēri[open country]N; +ahītu[side]N$; +ahītu[side]N$ahâta; +hurruru[hollowed out]AJ$; +hurruru[hollowed out]AJ$; +hurrupu[(very) early]AJ$; +hurrupu[(very) early]AJ$; X; u; u
+
+#tr.en: [“BAR” means “st]eppe”, “BAR” means “surroundings”; “HUM” means “to be hollowed out”, “HUM” means “@i{very early}”. “If the star […]
+#note: The equation @akk{BAR} = @i{ṣēru} is attested in @i{Nabnītu} XXI 202 (@i{MSL} 16). For the two equations of @akk{HUM}, compare @akk{gu-uz : LUM : hu-ur-ru-ru} and @akk{gu-uz : LUM : hu-ur-ru-mu} in @i{Ea} V 9-10.
+24. !bs [x (x)] x# DU !cm : dil-bat ina GIR₂.TAB ana ŠA₃ 30 KU₄-ma : !bs IDIM-MEŠ !cm : iš-še-gu-u₂ : !bs i-bi₄#{+bi#}-[x]
+#lem: u; u; u; illik[go]V; Dilbat[Venus]CN; ina[in]PRP; Zuqaqipu[Scorpion]CN; ana[according to]PRP; libbi[interior]N; Sin[1]DN; īrubma[enter]V; +šegû[be wild]V$iššegû; iššegû[be wild]V; u
+
+#tr.en: […] …” means “Dilbat in the Scorpion (Constellation) enters within the Moon.” “IDIM-MEŠ” means “they will rage.” “(The word) @i{i-bi}₄-[x]”
+25. !cm [x (x)]-u₂ : !bs * {mul}GIR₂.TAB BABBAR-ma ana ŠA₃ TUR₃ 30 SI-MEŠ-šu₂ ih-lu-pa-ni !cm : [x (x)]
+#lem: u; u; Zuqaqipu[Scorpion]CN; peṣima[white]AJ; ana[according to]PRP; libbi[concern]N; tarbaṣ[lunar halo]N; Sin[1]DN; qarnātušu[horn]N; +halāpu[slip into]V$ihlupāni; u; u
+
+#tr.en: [(means) …]. “If the Scorpion Constellation is white and into the midst of the halo of the moon slip its (i.e., the moon’s) horns” means [“…]
+#note: Compare @akk{DIR} = @akk{ha-la-pu ša qar-ni} (@i{SAA} 8 57, r.4).
+26. !cm [x x (x)] !cm KI?# {d}30 GUB-ma : !bs * {mul}GIR₂.TAB GE₆ ina ŠA₃-šu₂ !cm : GU₄.UD ina GIR₂.TAB IGI-ma#
+#lem: u; u; u; itti[with]PRP; Sin[1]DN; izzazma[stand]V; Zuqaqipu[Scorpion]CN; ṣalmu[black]AJ; ina[in]PRP; libbišu[interior]N; Šehṭu[Mercury]CN; ina[in]PRP; Zuqaqipu[Scorpion]CN; innammir-ma[see]V
+
+#tr.en: […] stands @i{with} the moon.” “If the Scorpion Constellation is dark in its center” means “Mercury is visible in Scorpion.”
+27. !zz [x x x {mul}]UDU.IDIM GU₄.UD : {mul}GIR₂.TAB IGI-šu₂ SIG₇ : U₄.x.KAM GIR₂.TAB IGI-ma?#
+#lem: u; u; u; bibbu[planet]N; Šehṭu[Mercury]CN; Zuqaqipu[Scorpion]CN; pānīšu[face]N; aruqtu[yellow-green]AJ; u; Zuqaqipu[Scorpion]CN; innammir-ma[see]V
+
+#tr.en: […] the planet is Mercury. The Scorpion Constellation’s face is green. On day x, the Scorpion (Constellation) @i{is visible}.
+28. !zz [x x x x] x# : !bs * {mul}GIR₂.TAB i-ta-tu-šu₂ uk-ku-lu !cm : GENNA ina x# [(x)]
+#lem: u; u; u; u; u; Zuqaqipu[Scorpion]CN; +itû[boundary]N$itâtūšu; ukkulū[very dark]AJ; Kayyamanu[Saturn]CN; ina[in]PRP; u; u
+
+#tr.en: […] “If the Scorpion Constellation, its surroundings grow dark” means “Saturn in […]”
+29. !zz [x x x x] x# GENNA DINGIR : !bs SI !cm : a-ma-ri : !bs KUR e-si-iq-tu₄ !cm : x# [(x)]
+#lem: u; u; u; u; u; Kayyamanu[Saturn]CN; Ṣalbatānu[planet Mars]CN; +amāru[see//seeing]V'N$; amāri[seeing]'N; mātu[land]N; +esqu[assigned]AJ$esiqtu; u; u
+
+#tr.en: […] … Saturn is Mars. SI means “to see.” “@i{Assigned} land” means “… […”]
+30. !bs [x x x x :] !cm us#-su-qu : !bs MIN !cm : us-su-ru : um-ma KUR ana LUGAL [(x)]
+#lem: u; u; u; u; +esēqu[incise//assigning]V'N$ussuqu; u; +esēru[enclose//enclosing]V'N$ussuru; umma[saying]PRP; mātu[land]N; ana[according to]PRP; šarri[king]N; u
+
+#tr.en: [… means] “to assign,” ditto means “to be confined.” Thus, “The land […] to the king
+31. !zz [x x x x x] !bs [x] x ina SI GIR₂.TAB GUB !cm : DINGIR i-na IL₂ ša₂-ru-ru
+#lem: u; u; u; u; u; u; u; ina[in]PRP; +qarnu[horn]N$qaran; Zuqaqipu[Scorpion]CN; izziz[stand]V; ilu[god]N; ina[in]PRP; našê[lifting]'N; šarūru[brilliance]N
+
+#tr.en: [… “…] stands in the Pincer of the Scorpion” means “Mars while having a brilliant sheen,
+32. !zz [x x x x x x] x# {mul}zi-ba-ni-tu₄ KI.GUB-su GI.NA
+#lem: u; u; u; u; u; u; u; Zibanitu[Scales]CN; +mazzāzu[position]N$mazzāssu; +kīnu[permanent]AJ$kīn
+
+#tr.en: […] the Scales Constellation, is steady in its position.
+33. !zz [x x x x x x x] !cm x#-ta ina KI.GUB GI.NA x x : !bs * x# x# x# {d?}a?-num?
+#lem: u; u; u; u; u; u; u; u; ina[in]PRP; manzāzi[position]N; kīn[permanent]AJ; u; u; u; u; u; Anum[1]DN
+
+#tr.en: […] is steady in position … .” “If … Anu
+34. !zz [x x x x x x x] x# : IDIM is-si-ka : a-x#-lal x# [x x x]
+#lem: u; u; u; u; u; u; u; u; kabtu[heavy]N; X; u; u; u; u; u
+
+#tr.en: […] the Heavy One … […] 
+35. !zz [x x x x x x x] x# !cm : um-ma KI.LAM x# x# [x x x x]
+#lem: u; u; u; u; u; u; u; u; umma[saying]PRP; mahīra[exchange rate]N; u; u; u; u; u; u
+
+#tr.en: […] Thus, “The exchange rate …” […]
+#note: Compare @i{ACh Ištar} 21, l. 65: @akk{ZAH₂ KI.LAM}.
+36. !zz [x x x x x x] !bs [x x x] x#-ma ana {d}SAG₃.ME.GAR TE-ma !zz [x x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; ana[according to]PRP; Nēberu[Jupiter]CN; iṭhī-ma[be(come) near to]V; u; u; u; u; u
+
+#tr.en: [… “If …] and draws close to Jupiter” […] 
+37. !zz [x x x x x x x x x] x# ana {mul}UZ₃ {mul}[x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; ana[according to]PRP; Enzu[Goat]CN; u; u; u; u
+
+#tr.en: […] to the Goat Constellation […]
+#note: @i{ACh Ištar} 21, ll. 67 and following deal with the Goat Constellation.
+38. [(x x) !bs * {mul}UZ₃ {mul}GAN₂].UR₃# KUR{+ud} !cm : GU₄.UD# [x x x (x)]
+#lem: u; u; Enzu[Goat]CN; +Maškakātu[harrow]CN$; ikšud[reach]V; Šehṭu[Mercury]CN; u; u; u; u
+
+#tr.en: [… “If the Goat constellation] reaches [the Har]row” (@i{ACh Ištar} 21, l. 70) means “Mercury […]
+
+@reverse
+
+$ several lines missing
+
+1'. !zz [...] x# [...]
+#lem: u; u; u
+
+#tr.en: […] … […]
+2'. !zz [...] x# x# x# x# x# [...]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+$ double ruling
+3'. !zz [...] x# x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+#tr.en: […] … […]
+4'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]
+5'. !zz [...] x# : za [...]
+#lem: u; u; X; u
+
+#tr.en: […] … […]
+6'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+#tr.en: […] … […]
+7'. !zz [...] x# x#-šu₂ [...] x# me?#-e?# [...]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+8'. !zz [...] x# x# x# x# x# ša₂ x# x# x# x# [...] x# x# [...]
+#lem: u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+9'. !zz [...] x# x# [...] x# x# [...] x# x#
+#lem: u; u; u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+10'. !zz [...] x# x# x# bad [...] x# mi#
+#lem: u; u; u; u; X; u; u; u
+
+#tr.en: […] … […]
+11'. !zz [...] x# x# [...] x# x# [...]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: […] … […]
+$ double ruling
+12'. !zz [...] x# x# x# sag x# [x x]
+#lem: u; u; u; u; X; u; u; u
+
+#tr.en: […] … […]
+$ single ruling
+13'. !zz [...] ina {iti}BARA₂ x# [x x]
+#lem: u; ina[in]PRP; Nisannu[1]MN; u; u; u
+
+#tr.en: […] in Nisannu […]
+14'. !zz [...] x# IM {m}{d}60?-ŠEŠ?#-[GAL₂{+ši}]
+#lem: u; u; +ṭuppu[(clay) tablet]N$ṭuppi; Anu-ah-ušabši[1]PN
+
+#tr.en: […] Tablet of Anu-@i{aḫa}-[@i{ušabši}]
+15'. !zz [DUMU ša₂ {m}ki-din-{d}60 {lu₂}ŠA₃.BAL.BAL {m}E₂.KUR-za-kir (...) {lu₂}MAŠ.MAŠ {d}60 u {d}an-tu₄ {lu₂}ŠEŠ.GAL{+i}] E₂# re?#-eš?# [x x]
+#lem: māri[son]N; ša[of]DET; Kidin-Anu[1]PN; liblibbi[descendant]N; Ekur-zakir[1]'LN; u; mašmaš[incantation priest]N; Anu[1]DN; u[and]CNJ; Antu[1]DN; šešgalli[high priest]N; bīt[house]N; Reš[1]TN; u; u
+
+#tr.en: [son of Kidin-Anu, descendant of Ekur-zakir] exorcist of Anu and Antu, chief priest of the Bīt Rēš, … […]
+16'. !zz [{lu₂}UMBISAG U₄ {d}60] {d#}EN#.LIL₂#.LA₂# UNUG{ki#}{+u₂#} qat₃# {m}ina-qi₂#-bit#-[{d}60] DUMU#-šu₂ ana a-ha-a-[zi-šu₂]
+#lem: ṭupšar[scribe]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; Urukayu[Urukean]EN; qāt[hand]N; Ina-qibit-Anu[1]PN; māršu[son]N; ana[for]PRP; ahāzišu[learning]'N
+
+#tr.en: [scribe of Enūma Anu] Enlil, an Urukean. Handiwork of Ina-qibīt-[Anu], his son, for [his] educa[tion],
+17'. !zz [GID₂.DA] U₄-MEŠ-šu₂ DIN ZI{+ti₃}-šu₂ kun#-[nu] SUHUŠ#-MEŠ-šu la ba-šu-u GIG-MEŠ-šu₂
+#lem: arāk[be(com)ing long]'N; ūmīšu[day]N; balāṭ[living]'N; napištišu[life]N; kunnu[securing]'N; išdātišu[position]N; lā[not]MOD; bašû[being (at hand)]'N; murṣīšu[illness]N
+
+#tr.en: [the length] of his days, the preservation of his life, (and) the firm[ness] of his foundations. Let him never be ill
+18'. !zz [u MUD EN]{+u#-ti}-šu₂ [SAR-ma ina UNUG{ki} u E₂] re-eš E₂ UMUN{+ti}-šu₂ GI#.[NA]
+#lem: u[and]CNJ; palāh[revering]'N; +bēlūtu[rule]N$bēlūtīšu; +šaṭru[written]N$šaṭir-ma; ina[in]PRP; Uruk[1]SN; u[and]CNJ; bīt[house]N; Reš[1]TN; bīt[house]N; +bēlūtu[rule]N$bēlūtīšu; +kânu[be(come) permanent]V$ukīn
+
+#tr.en: [and let him revere] his (i.e., Anu’s) [lord]ship!  [Written in Uruk and] depo[sited (in) the Bīt]-Rēš, the house of his (i.e., Anu’s) lordship.
+19'. !zz [pa-lih {d}60] u# an#-tu₄# [ina šur-qa NU TUM₃-šu₂ x] x# x# x# x# (x) [x]
+#lem: pālih[reverent one]N; Anu[1]DN; u[and]CNJ; Antu[1]DN; ina[in]PRP; šurqa[theft]N; lā[not]MOD; itabbalšu[carry off]V; u; u; u; u; u; u; u
+
+#tr.en: [Let he who reveres Anu] and Antu [not take it away by theft] … […]

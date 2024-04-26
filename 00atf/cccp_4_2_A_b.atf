@@ -1,0 +1,221 @@
+&P346934 = CCP 4.2.A.b (http://ccp.yale.edu/P346934) = U.30654
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#link: def A = ccpo:P459066 = CCP 4.2.A.a (11N-T3)
+@tablet
+
+@obverse
+
+$beginning of obverse broken
+
+1'. !bs [ina qar-ni]-ša₂ qaq-qar ṭe-[rat !zz ...]
+#lem: ina[in]PRP; +qarnu[horn]N$qarnīša; qaqqar[ground]N; ṭerât[penetrating]AJ; u
+
+|| A 15
+2'. !bs [ša? el]-lam-me-e DU-MEŠ#{+ak} di-ma?#-[šu? !zz x x]
+#lem: ša[that]REL; +ellammû[epithet of Sîn]N$ellammê; +alāku[go]V$ittanallak; +dimtu[tear]N$dimāšu; u; u
+
+|| A 17
+#note: The base text is preserved in BAM 401, i:41 and duplicates (Veldhuis, ASJ 11, 243: 41): @akk{el-lam-me-e i-il-la-ka di-ma-šu}.
+
+3'. !cm [ša₂]-niš# %sux si e₂-gar₈-bi til-la : %sb el-lam-mu-u₂ [(x) : {d}30?]
+#lem: šanîš[alternatively]AV; si[horn]N; egar[form, shape]N; til[(to be) complete(d)]V/i; +ellammû[epithet of Sîn]N$; u; Sin[1]DN
+
+|| A 18
+4'. !cm ša₂# nu#-ru la-ni-šu₂ u₂-qe₂-et!-ta-a [(x) : %sux si : %sb nu]-ru?# : E₂?.GAR₈? : la!?-ni?#
+#lem: ša[of]DET; nūru[light]N; lānišu[body]N; +qatû[come an end]V$uqettâ; u; X; nūru[light]N; igāri[wall]N; +lānu[body]N$lāni
+
+|| A 19
+5'. !cm %sux bi : %sb šu-u₂ : %sux til : %sb qa-tu-u₂ : ša₂# AN?#.[TA.LU₃] TIL#{+ti₃} GAR{+nu}
+#lem: X; šû[belonging to him]PP; til[(to be) complete(d)]V/i; qatû[finishing]'N; ša[of]DET; antallâ[eclipse]N; gamerti[totality]N; šaknū[displayed]AJ
+
+|| A 20
+6'. !bs aš₂-šu₂ AB₂-MU la a-lit-ti !cm : aš₂-šu₂# {d#}[30 EN la]-a#-tu₄# KU₃-MEŠ
+#lem: aššu[because of]'PRP; +lītu[cow]N$lītīya; lā[not]MOD; ālitti[one who gives birth]AJ; aššu[because of]'PRP; Sin[1]DN; bēl[lord]N; lâtu[cow]N; ellūti[pure]AJ
+
+|| A 21
+#note: Note the use of alliteration in the base text and the commentary: @i{lītiya lā ālitti} and @i{lâti ellēti} (cf. also Veldhuis 1989, 257, n. 4)
+7'. !bs ne₂-šal-pa-a !cm : e-ti-qa : !bs %sux la-ra#-[ah !cm %sb x x x x x x] x
+#lem: +nešalpû[glide//gliding]V'N$nešalpâ; +etēqu[go past//going past]V'N$etīqa; larah[straits]N; u; u; u; u; u; u; u
+
+|| A 24
+|| A 26
+8'. !cm lib₃-bu-u₂ !qt %sux la-ra-ah gig-ga# su-ni-ta# keš₂#-da
+#lem: libbū[meaning]PRP; larah[straits]N; gig[(to be) sick]V/i; su[body]N; kešed[bind]V/t
+
+#note: This line is a quotation from Compendium 3 l. 39 (see Schramm, W. GBAO 2 (2008) p. 36): la-ra-aḫ gig-ga su-a-n[i-t]a keš₂-⸢da⸣.
+9'. !bs na-hu-un-di !cm : {d}30 : !bs na-ru-un-du !cm : {d}UTU#
+#lem: Nahundi[1]DN; Sin[1]DN; +Narundi[]DN$; Šamaš[1]DN
+
+|| A 27
+10'. !bs ul-la {d}UTU !cm : ul-la : an-na#
+#lem: ulla[no!]AV; Šamaš[1]DN; ulla[no!]AV; anna[yes]AV
+
+|| A 30
+#note: If the second word is emended to an-na!, ulla and anna should perhaps be taken as deictic elements or adverbial particles (status absolutus of ullû and annû), with the meaning “that, this” (or else, “there, here,” or “now, well”). Note, however, that ulla and anna appear together in divinatory context (CAD U/W 75a), as well as in the commentary to the Weidner List cited ibid., but in the present context they need not mean “yes” and “no.”
+11'. !bs I₃.GIŠ BUR ša₂ ina {gi}GAG.U₄.TAG.GA in-di?#
+#lem: šamna[oil]N; pūri[(stone) bowl]N; ša[that]REL; ina[in]PRP; +šiltāhu[arrow]N$šiltāhi; +emdu[imposed]AJ$indi
+
+|| A 31-32
+12'. !cm {gi#}GAG.U₄.TAG.GA : šil-ta-hu {gi#}[GAG].U₄.TAG#.GA : [mul-mul?]
+#lem: +šiltāhu[arrow]N$; šiltāhu[arrow]N; +šiltāhu[arrow]N$; mulmul[arrow]N
+
+|| A 33
+13'. !cm [mul]-mul?# : šil-ta-hu# :?# mul?#-[mul? : ze-ri]
+#lem: mulmul[arrow]N; šiltāhu[arrow]N; mulmul[arrow]N; zēri[seed(s)]N
+
+|| A 33
+
+$rest of obverse broken
+
+@reverse
+$beginning of reverse broken
+1'. !bs na-ma-ri !cm :# KASKAL?# [...]
+#lem: +namāru[clearing]N$; harrān[path]N; u
+
+|| A 38
+2'. !bs {giš}MA₂? : !cm tam-ti₃ ša₂?#-niš?# x# [x x x x x x x] x# hu?# x#
+#lem: elep[boat]N; tâmti[sea]N; šanîš[alternatively]AV; u; u; u; u; u; u; u; u; u; X; u
+
+#note: The first two signs may also be {giš}GA₂?
+3'. !bs ša₂ ŠA₃ {na₄}iš-qil-lat li#-kal-lim nu?-ru?# !cm a-na MUNUS.PEŠ₄ iq-ta-bi
+#lem: ša[of]DET; libbi[interior]N; +išqillatu[shell]N$išqillat; likallim[show]V; nūru[light]N; ana[according to]PRP; arīti[pregnant (woman)]N; iqtabi[say]V
+
+|| A 38-39
+4'. !cm %sux {na₄}iškila : %sb ṣil-lat ša₂-niš um-mi šal-šiš MUNUS.PEŠ₄
+#lem: iškila[shell]N; +išqillatu[shell]N$ṣillat; šanîš[alternatively]AV; ummi[mother]N; šalšiš[thirdly]AV; arīti[pregnant (woman)]N
+
+|| A 39
+5'. !bs ul# sa-an-qa-at GABA-sa : !cm ša₂ ku-lu-lu-ša la kut-tu-mu
+#lem: ul[not]MOD; +sanqu[checked]AJ$sanqat; +irtu[breast]N$irassa; ša[of]DET; +kulūlu[crown//veil]N'N$kulūlūša; lā[not]MOD; +kuttumu[covered over]AJ$kuttumū
+
+#note: Cf. Lambert Iraq 31 (1969) p. 31 l. 44: @akk{ul sa-qa-at {uzu}GABA-sa sa₃-pu-hu ku-lu-lu-ša₂}, “Her breast is not..., her locks are scattered.” The line is preserved in BAM 248 ii 28. It is not certain whether the entire line is a quotation from the base text, or contains an explanation as well.
+
+
+6'. !cm lib₃#-bu-u₂ !qt ir-tu₄ ar#-da?#-at# pa-su-um-tu₄ iš#-hu#-ṭu
+#lem: libbū[meaning]PRP; +irtu[chest]N$; u; +pusumtu[veil]N$pasumtu; išhuṭu[strip off]V
+
+#note: The line contains a quotation from the Akkadian part of Udug-ḫul 13/15 l. 32: [ga]ba šú-ki-a [x x x b]a-an-sìg-ga-eš || @akk{ir-ti [x x x] pa-su-un-tu iš-hu-ṭu}. The word after @i{irtu} is not preserved in any manuscript of @i{Udug-ḫul}: in the present tablet, the signs are damaged, but they may be read as @akk{kat?-ma?-at#}, “covered,” @akk{ar₂#-ša#-at}, “unclean,” or @akk{ar₂#-da#-at}, or “maiden” (i.e., "they stripped away the veil from the maiden's chest"). The word @akk{pa-su-um-tu₄} (which is probably @i{pusumtu}, “veil,” previously attested only in @i{Malku}, see CAD P 538a) is probably motivated by a semantic association of the verb @i{katāmu} in the previous line with @i{pasāmu}, “to veil” [ILF].
+
+
+7'. !bs hur-da-at-su : !cm su-un MUNUS! : lib₃-bu-u₂ !qt ŠU-MIN-ka# šu-ta-am-ṣa-am-ma
+#lem: hurdatsu[female pudenda]N; sūn[lap]N; sinništu[wife]N; libbū[meaning]PRP; qātīka[hand]N; šutamṣâmma[reach]V
+
+#note: The sign after @akk{su-un} may be @akk{ši}, i.e., @akk{su-un-ši}, “her lap” (on -ši instead of -ša as the fs possessive suffix, see George @i{Gilgamesh} (2003) p. 882) [EJ].
+
+
+|| A 40-41
+8'. !qt lu-pu-ut hur-da-at-ni : !bs ina kit-tab-ri-šu₂ : !cm ina i-di-šu₂
+#lem: luput[touch]V; +hurdatu[female pudenda]N$hurdatni; ina[in]PRP; kittabrišu[(synonym for arm)]N; ina[in]PRP; idišu[side]N
+
+|| A 41, 43
+9'. !cm kit-tam-ri : i-di : !bs ṭur{+ṭu-ur#}-da# {giš}MA₂# : !cm ṭu₂#-ur-da : {giš}MA₂?
+#lem: +kittabru[(synonym for arm)]N$kittamri; idi[side]N; +ṭarādu[send off]V$ṭurdā; eleppi[boat]N; +ṭarādu[send off]V$ṭurdā; eleppi[boat]N
+
+|| A 43
+#note: The reading of this and the following line follows Steinert 2017 p. 333, which is based on collation of @i{BAM} 248 ii 51: @akk{ṭur-da {giš}MA₂ ana kar šul-me}, “send forth the boat to the safe mooring place.” Previous speculations should be discarded (cp. “The signs read as @akk{tu-lu ša?} may be @akk{tu-ur ša {giš}MA₂} (@akk{tu-ur} would stand for @i{ṭurru}, “rope”) [EJ], or else @akk{DUR{+ṭu-ur#}.DA# {giš}MA₂ : tu-ur-da {giš}MA₂} (i.e. dur-da = *turdu?) [ILF]. The rope of the boat may stand for the “umbilical cord” (abunnatu = LI.DUR), for the baby is the boat moored at the key of death by the rope and wants to break free [ILF].”)
+
+10'. !cm {giš}MA₂ : MUNUS.PEŠ₄ : um-ma MUNUS.PEŠ₄ tu#-ri-di?
+#lem: eleppu[boat]N; arīti[pregnant (woman)]N; umma[saying]PRP; arīti[pregnant (woman)]N; +ṭarādu[send off]V$ṭuridī
+
+#note: The particle @i{umma} is used in a few occasions in commentaries as a technical term introducing a paraphrase of the base text in light of the preceding interpretation. As discussed by Hätinen 2017, the “boat” is here interpreted as the “pregnant woman” (note the reading in Hätinen 2017: 179, @akk{li-re-di} as @i{redû} N).
+
+11'. !bs e-di-ti : !cm mi-di-ti :# e-du-u₂ : mi-du-u₂
+#lem: +edû[known]AJ$edīti; +medû[visible]AJ$midīti; +edû[know//knowing]V'N$; +medû[become visible//becoming visible]V'N$midû
+
+#note: See BAM 248 iii 4: @akk{an-nu ki-nu ša₂ {d}e₂-a i-di-tu₄ EN₂ ša {d}ma-mi}. The second Glossenkeil might be written over an erasure.
+
+
+12'. !bs NA₄# ti-ki AN{+e} !cm x (x) NUMUN DUG₄.DUG₄{+ub}
+#lem: abnu[stone]N; +tīku[(rain)drop]N$tīki; šamê[sky]N; u; u; zēr[seed(s)]N; +dabābu[speak]V$tadabbub
+
+|| A 46-48
+#note: See BAM 248 ii 56, 70, and iii 7: @akk{DU₃.DU₃.BI {na₄}ti-iq AN{+e} SAHAR sa-mit BAD₃ ŠUB{+ti}}. The last phrase would seem like a citation from a ritual instruction in the base text, but it does not appear in the main manuscript of this text (BAM 248).
+
+13'. !zz [x] x x [x] x-ti !bs kaz-bat : !cm ba-na-at
+#lem: u; u; u; u; u; +kazbu[charming]AJ$kazbat; +banû[good]AJ$banât
+
+#note: See BAM 248, iii 12: @akk{bi-nu-tu₂ kaz-bat i-mur-ši-ma {d}30 i-ra-am-ši}, "Sîn saw the charming creature and fell in love with her." Frahm @i{GMTR} 5 (2011) p. 241 with n. 1128 cautiously suggests reading @akk{bi?#-nu?#-ti}, but, as noted by him, this is difficult to reconcile with the traces of the signs in the tablet.
+
+14'. !bs [nam?-ru? ša₂? {d?}30?] !cm nu?-ur₂? ša₂ {d?}30?# : !bs nu-ru-ub U₂-[ME]
+#lem: namru[bright]AJ; ša[of]DET; Sin[1]DN; nūr[light]N; ša[of]DET; Sin[1]DN; +nurbu[soft place]N$nurub; +šammu[plant(s)]N$šammī
+
+#note: See BAM 248, iii 13: @akk{nam-ru ša₂ {d}30 šu-ba-hi iš-ta-kan-ši}; and 16: @akk{ina nu-ru-ub U₂-ME i-re-ʾ-u₂-ši!(ME)}, "he pastured her in the softest grass."
+
+15'. !zz [...] x ni x [x]
+#lem: u; u; X; u; u
+
+$rest of reverse broken
+
+@translation labeled en project
+
+@label o 1'
+
+“With her [horns] she is beating (@i{ṭerât}) the ground,” [...].
+
+@label o 2' - o 5'
+
+The tears [@i{of}] Ellammê flowed [...]; alternatively, @i{si egarbi tilla} means “Elammû” [@i{means Sîn}], whose figure brings the light to an end,” [(since) si means “light,” e]gar means “@i{figure},” bi means “his,” and til means “to bring to an end;” (this is said) on account of a complete eclipse.
+
+@label o 6'
+
+“Because of my barren cow,” (is said) on account of [Sîn, the lord of] the pure [co]ws.
+
+@label o 7' - o 8'
+
+“To slither” means “to pass accross.” “Straits” mean [...], as in “straits are stuck to his body” (quotation from the @i{Compendium}).
+
+@label o 9'
+
+“Naḫundi” means Sîn, “Narundi” means Šamaš.
+
+@label o 10'
+
+(In) “Now Šamaš!,” “now!” means “he[re].
+
+@label o 11' - o 13'
+
+(In) “oil of the bowl which @i{touches} the arrow,” “arrow” (@i{gi.gag.u₄.tag.ga}) means “arrow” (@i{šiltāḫu}), “arrow” (@i{gi.gag.u₄.tag.ga}) means “dart” (@i{mulmullu}, written @i{mul-mul}). “@i{Dart}” ([@i{mul-mu}]@i{l}?) means “arrow” and “@i{dart}” (@i{m}[@i{ul}?-@i{mul}]) [@i{means “seed”}].
+
+$rest of obverse broken
+
+@label r 1'
+
+“Path” means “way” [...].
+
+@label r 2'
+
+“@i{Boat}” means “@i{sea},” @i{alternatively}, ... [...]
+
+@label r 3' - r 4'
+
+“Let him show the light to the one living in the shell!” refers to the pregnant woman (@i{munus.peš₄}), because “shell” (lit. “the pregnant stone,” @i{na₄.peš₄}) means “shell,” alternatively, it means “mother.” Thirdly, it can mean “pregnant woman.”
+
+@label r 5' - r 6'
+
+“Her chest is not ..."; one whose locks are not covered – as in, “the chest was ..., they stripped away the veil” (quotation from “Evil Demons”).
+
+@label r 7' - r 9'
+
+“Her vulva” means “female loin,” as in “put our your hand and stroke our vulva!” (quotation from @i{Gilgameš} VI 69). “In his arm” means “in his side,” since “arm” means “side.”
+
+@label r 9' - r 10'
+
+“Boat, send forth! (written DUR-@i{da})” means “Boat, send forth (written @i{ṭu-ur-da}).” “Boat” means “pregnant woman", thus (the sentence means) “Pregnant woman, @i{send forth} (written TU-@i{ri-di})!”
+
+@label r 11' - r 12'
+“Known” means “known” (dialectal). “To know” means “to know” (dialectal). “Drop-of-heaven stone” – ... you recite.
+
+@label r 13'
+
+[...] ... “charming” means “beautiful.”
+
+@label r 14' - r 15'
+
+“Brilliant of Sîn” means “light of Sîn.” “The softest grass” means [...].
+
+@label r 15'
+
+...

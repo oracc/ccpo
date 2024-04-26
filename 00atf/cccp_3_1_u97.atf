@@ -1,0 +1,68 @@
+&P500447 = CCP 3.1.u97 (http://ccp.yale.edu/P500447) = A 3423
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. [...] x# x# [...]
+#lem: u; u; u; u
+
+2'. [...] !bs TAG₄?{+zib?} !cm : GIM? x# x# x# x# x# x# x# x#-ir#-ma# : x# [...]
+#lem: u; +ezbu[abandoned]AJ$ezib; kīma[according to]PRP; u; u; u; u; u; u; u; u; u; u
+
+#note: The reading @akk{TAG₄{+zib}} in this and the following lines is uncertain [EJ].
+3'. !zz [... !bs AN.GE₆ ina] {im}SI.SA₂ GAR-ma !cm : AN#.GE₆# BABBAR ša₂ <ina> {im}SI.SA₂ SAR{+u₂} ša₂-niš?# [...]
+#lem: u; attallû[eclipse]N; ina[on]PRP; iltāni[north]N; iššakinma[take place]V; attallû[eclipse]N; peṣi[white]AJ; ša[that]REL; ina[in]PRP; iltāni[north]N; +šurrû[begin]V$ušarrû; šanîš[alternatively]AV; u
+
+#note: Compare LB 1321 (@i{CCP} 3.2.2.A) o 29: @akk{DIŠ AN.GE₆ SA₅ ša₂ ina {im}KUR.RA SAR{+u₂} AN.GE₆ SIG₇ ša₂ ina {im}MAR.TU SAR{+u₂} AN.GE₆ GE₆ ša₂ ina {im}U₁₈.LU SAR{+u₂} AN.GE₆ BABBAR ša₂ ina {im}SI.SA₂ SAR{+u₂}}. Compare Rochberg @i{AfO Beih} 22 (1988) p. 72, @i{EAE} XV: @akk{DIŠ AN.GE₆ ina {im}SI.SA₂ SAR-ma ina {im}x ZALAG₂}.
+4'. !zz [...] x# !bs TAG₄?{+zib?} !cm : A₂ {im#}U₁₈#.LU# GAR-ma : !bs ina U₄.1.KAM u₂-dan-na-[an !zz ...]
+#lem: u; u; ezib[abandoned]AJ; idi[side]N; šūti[south]N; iššakinma[take place]V; ina[in]PRP; X; udannan[reinforce]V; u
+
+5'. !zz [...] x# !bs TAG₄?{+zib?} !cm : A₂ {im#}KUR.RA GAR-ma : !bs SIG₇ !cm : {d}GENNA [...]
+#lem: u; u; ezib[abandoned]AJ; idi[side]N; šadî[east]N; iššakkanma[take place]V; arqu[yellow-green]AJ; Kayyamanu[Saturn]CN; u
+
+#note: Compare Rochberg @i{AfO Beih} 22 (1988) p. 117, @i{EAE} XVII: @akk{DIŠ ... AN.GE₆ GAR-ma SIG₇ ina {im}KUR.RA SAR-ma ZALAG₂{+ir} ...} [MO]. Compare also the explanation @i{TCL} 6 17 (@i{CCP} 3.1.8.A.a) ll. 8-10: ¶ @akk{SI 15-šu₂ SA₅ AN TE#-šu₂-ma} (…) ¶ @akk{SI 15-šu₂ GE₆ : {d}GENNA TE-šu₂-ma : SIG₇ : dele-bat TE-šu₂-ma :}, “‘If its (sc. the Moon’s) right horn is red’ (= @i{Enūma Anu Enlil} VIII = @i{ACh Suppl} 1, 9 ll. 6-7) means that Mars approaches it (i.e., the Moon’s right horn). (…) ‘If its (sc. the Moon’s) right horn is black’ means that Saturn approaches it. ‘(If) it (sc. the Moon’s right horn) is yellow-green’ (= @i{Enūma Anu Enlil} VIII = @i{ACh Suppl} 1, 9 ll. 8-9) means that Venus approaches it” [EJ].
+6'. !zz [...] x# !bs TAG₄?{+zib?} !cm : A₂ {im}MAR.TU GAR-ma : !bs SA₅ !cm : {d}ṣal-bat-a-nu : ša₂-[niš ...]
+#lem: u; u; ezib[abandoned]AJ; idi[side]N; +amurru[west]N$amurri; iššakkanma[take place]V; sāmu[red]AJ; Ṣalbatanu[Mars]CN; šanîš[alternatively]AV; u
+
+#note: Compare Rochberg @i{AfO Beih} 22 (1988) p. 115, @i{EAE} XVII: @akk{DIŠ ... AN.GE₆ GAR-ma SA₅ ina {im}MAR.TU SAR-ma ZALAG₂{+ir} ...}.
+7'. !cm [... AN].GE₆# TIL{+ti₃} GAR-ma ša₂-niš AN.GE₆ ša₂ gab-bi-šu₂ ir!-ri-mu : !bs TIL !cm : x x [...]
+#lem: u; attallû[eclipse]N; gamerti[totality]N; iššakinma[take place]V; šanîš[alternatively]AV; attallû[eclipse]N; ša[that]REL; gabbišu[all]N; irrimu[cover]V; u; u; u; u
+
+#note: Compare Rochberg @i{AfO Beih} 22 (1988) p. 81, @i{EAE} XV: @akk{AN.GE₆ GAR-ma gab-bi-šu₂ ir-rim-ma} (@i{CCP} 3.1.15 ll. 7-8 and @i{CCP} 3.1.u54 l. 8′).
+8'. !cm [...] hab-rat AN#.GE₆ GAR-ma ša₂-niš mi-šil hab-rat AN.GE₆ GAR-[ma ...]
+#lem: u; habrat[thick]AJ; attallû[eclipse]N; iššakinma[take place]V; šanîš[alternatively]AV; mišil[half]NU; habrat[thick]AJ; attallû[eclipse]N; iššakkanma[take place]V; u
+
+#note: Compare @akk{[x] hab-rat AN#.GE₆ GAR-ma} (BM 47447 obv 34 [@i{CCP} 3.1.16]).
+9'. !zz [...]-šu₂# u₃ ki-i SI 150-šu₂ ina ta-mar-ti U₄.1.KAM# [...]
+#lem: u; u[and]CNJ; kī[as]PRP; qaran[horn]N; šumēlīšu[the left]N; ina[in]PRP; tāmarti[appearance]N; X; u
+
+10'. !zz [...]-mi#-ir SIG₅ !cm ki-i ana muh-hi iš-tah-<hi>-ṭu₃ [...]
+#lem: u; +damiq[good]AJ$damqu; kī[as]PRP; ana[on]PRP; muhhi[top]N; +šahāṭu[jump]V$ištahhiṭu; u
+
+$ single ruling
+11'. !zz [...]-tu# ša₂ ŠA₃ U₄ {d}60 {d}en-lil₂-la₂ AL.[...]
+#lem: u; ša[of]DET; libbi[concern]N; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN; u
+
+#note: Restore probably @akk{[... mal-su]-tu#}. At the end, perhaps @akk{AL.[TIL]} [EJ] or @akk{al-[si?]} [Uri Gabbay].
+$ single ruling
+12'. !zz [...] x x [...]
+#lem: u; u; u; u
+
+#note: The traces may correspond to the tablet’s colophon [EJ].
+
+@translation parallel en project
+
+1'. […] … […]
+2'. […] “… @i{remaining}” (= @i{Enūma Anu Enlil} uncertain) … […]
+3'. [… “If] there is [an eclipse] in the north” (= @i{Enūma Anu Enlil} uncertain) means “a white eclipse which begins in the north”; @i{alter}[@i{natively} …].
+4'. […] “… @i{remaining}” (= @i{Enūma Anu Enlil} uncertain) means “it is set (on) the south side.” “On the first day @i{it reinfor}[@i{ces}” (= @i{Enūma Anu Enlil} uncertain) …].
+5'. […] “… @i{remaining}” (= @i{Enūma Anu Enlil} uncertain) means “it is set (on) the east side.” “Yellow” (= @i{Enūma Anu Enlil} uncertain) means “Saturn” […].
+6'. […] “… @i{remaining}” (= @i{Enūma Anu Enlil} uncertain) means “it is set (on) the west side.” “Red” (= @i{Enūma Anu Enlil} uncertain) means “Mars”; alt[ernatively, …].
+7'. […] there is a complete (@i{til}) [ecl]ipse; alternatively, an eclipse that covers the whole of it (@i{sc}. of the moon) — @i{til} means … […].
+8'. [… means that x part] of the disk is eclipsed; alternatively, it means that half of the disk is eclipsed [and …].
+9'. […] its […] and like its left horn at its first-day appearance […].
+10'. […] … is good, like it (is said) on account of “they repeatedly rise” […]
+11'. […] … from @i{Enūma Anu Enlil}, @i{fin}[@i{inished} …].
+12'. […] … […]

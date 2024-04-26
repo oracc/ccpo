@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0"><esp:name>Home</esp:name><esp:title>Cuneiform Commentaries Project on ORACC</esp:title><html><head/><body><esp:image file="image.png" description=""/><p>Provides fully searchable, annotated editions of text commentaries written by Assyrian and Babylonian scholars between the eighth and second centuries BCE. The texts commented on include literary, magical, divinatory, medical, legal, and lexical works.
+</p><p>Project Director: Eckart Frahm; Co-Director: Enrique Jiménez; Senior Editor: Mary Frazer.
+</p><p>You can find the project's portal at <esp:link url="http://ccp.yale.edu">http://ccp.yale.edu</esp:link>
+</p><p>The data set of <esp:link url="http://ccp.yale.edu">CCP</esp:link> is created with the <esp:link url="http://oracc.org">oracc</esp:link> suite of tools, created by Steve Tinney. The editions are available on oracc <esp:link url="/ccpo/pager">here</esp:link>.</p></body></html></esp:page>

@@ -1,0 +1,46 @@
+&P399560 = CCP 3.1.u54 (http://ccp.yale.edu/P399560) = K.11986
+#project: ccpo
+#atf: use unicode
+#atf: lang akk-x-stdbab
+#atf: use maths
+@tablet
+
+1'. !zz [...] x# [x x x]-in?# [...]
+#lem: u; u; u; u; u; u
+
+2'. !bs [* ...] NU GAL₂ AN.GE₆# !zz [...]
+#lem: u; lā[not]MOD; ibašši[exist]V; attallû[eclipse]N; u
+
+3'. !cm [...]-x# AN.GE₆ !bs na-du-u₂ !cm ma-qa-tu₄ [...]
+#lem: u; attallû[eclipse]N; nadû[throwing]'N; +maqātu[fall//falling]V'N$; u
+
+#note: The equation @i{nadû} = @i{maqātu} is attested in @i{Malku} VI 222.
+4'. !zz [... !bs na-du-u₂] !cm ma#-qa-tu₄ !bs na-bal-ku-tu₄ !cm la ta-ra-ṣu [...]
+#lem: u; nadû[throwing]'N; maqātu[falling]'N; nabalkutu[crossing over]'N; lā[not]MOD; tarāṣu[be(com)ing in order]'N; u
+
+#note: The equation @i{nabalkutu} = @i{lā tarāṣu} is attested in other astrological commentaries: see @i{CAD} N/1 12a and T 215b.
+5'. !zz [...] ni-ba-an-ma [...]
+#lem: u; X; u
+
+6'. !zz [...] ir-mu?#-[...]
+#lem: u; u
+
+7'. !zz [...] ir-ri-mu?# [...]
+#lem: u; +arāmu[cover]V$irrimu; u
+
+8'. !zz [...] !bs x#-x#-ma# gab#-bi#-šu₂# ir#-rim#-ma mim-ma NU TAG₄ !zz [...]
+#lem: u; u; gabbišu[all]N; irrimma[cover]V; mimma[anything]XP; ul[not]MOD; innezzib[remain]V; u
+
+#note: The phrase (@i{antalû}) @i{mimma ul innezib} is attested in CCP 3.1.15 ll. 6 and 9. See also Rochberg-Halton @i{AfO Beih} 22 (1988) p. 50.
+$ rest of tablet missing
+
+@translation parallel en project
+
+1'. ...
+2'. [If ...] does not have [...], the eclipse [...].
+3'. [...] the eclipse. "To throw" (@i{nadû})] (means) "to fall" (@i{maqātu}) [...].
+4'. [... "to throw" (@i{nadû})] (means) "to fall" (@i{maqātu}); "to turn upside down" (@i{nabalkutu}) (means) "not to succeed" (@i{lā tarāṣu}); [...].
+5'. ...
+6'. ...
+7'. [...] @i{covers} [...].
+8'. [...] ... and covers the whole of it and leaves nothing behind [...].

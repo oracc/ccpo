@@ -1,0 +1,46 @@
+&P470052 = CCP 3.5.u7 (http://ccp.yale.edu/P470052) = BM 48736
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# x# x# [...]
+#lem: u; u; u; u; u
+
+2'. !zz [...]-tu₄ x x#-[...]
+#lem: u; u; u
+
+3'. !zz [...] x# : !bs SAG !cm : re-eš [...]
+#lem: u; u; rēš[head]N; rēš[head]N; u
+
+4'. !zz [... !qt u₄-mu šu]-ta#-nu-hu mu-ši ger?#-[ra-ni ...]
+#lem: u; ūmu[day]N; šutānuhū[be(com)ing depressed]'N; mūši[night]N; gerrāni[wailing]N; u
+
+5'. !zz [... !cm ta]-az#-zi-im-tu₄ !zz : ši-iz?#-x# [...]
+#lem: u; +tazzimtu[complaint]N$; u; u
+
+6'. !zz [...]-tu₄ : !bs ki-ma un-ni-ni !cm : hu#-[...]
+#lem: u; kīma[like]PRP; unnīni[supplication]N; u
+
+7'. !zz [...] !qt %sux x# ub-da-an-sig₇?# !zz x# x# [...]
+#lem: u; u; X; u; u; u
+#note: The sign read sig₇ is perhaps to be read as SUM (U. Gabbay, personal communication).
+
+8'. !zz [...] %sb ub#-bu-lu ta# x#-[...]
+#lem: u; +ubbulu[dried (out)]N$ubbulu; u; u
+
+9'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] SAG means "head," [...]
+4'. [... (as in) "The day was s]ighing, the night la[mentation" (quotation from @i{Ludlul} I 105) ...]
+5'. [...] means "complaint," ... [...]
+6'. [...] like a @i{unnīnu} [...]
+7'. ...
+8'. [...] @i{dried} [...]
+9'. ...

@@ -1,0 +1,87 @@
+&P461237 = CCP 7.2.u57 (http://ccp.yale.edu/P461237) = BM 47802
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1'. !bs [*] NA# GIR₃#-MIN-šu₂ x [...]
+#lem: amēla[man]N; šēpāšu[foot]N; u; u
+
+
+#note: Reading courtesy of Henry Stadhouders. He adds: “Too many possibilities to reconstruct the symptom description with any certainty; @i{i}[@i{t-ta-nak-na-na-šú} …], @i{i}[@i{t-te-nen-si-la} …], @i{i}[@i{t-ta-na-an-pa-ḫa} …], @i{i}[@i{t-ta-na-áš-ga-ga} …], @i{š}[@i{a-ag-ga} …], M[Ú.MÚ-@i{ḫa} …], @i{i}-[…]
+
+2'. !bs GI# !cm : GI.ŠUL.HI# [: !bs ...]
+#lem: qanê[reed]N; +qan-šalālu[(a type of reed)]N$; u
+
+3'. !bs PA GIŠ !cm : {(PA {giš}ŠENNUR)} : !bs x# [...]
+#lem: artu[branches]N; iṣ[tree]N; artu[branches]N; šallūri[plum]N; u; u
+
+#note: @akk{PA} “foliage”; a quite similar list (@i{BAM} 571, iii, 4’-9’) enumerates the drugs as @i{ḫas-ḫal-lat} @akk{GIŠ}.xyz, which might point to a reading @i{ḫasḫallatu} for the logogram PA in a case like this, if it is not @i{aru}.
+
+4'. !bs {(x x)} x# PA# {giš}ILDAG₂ PA# [...]
+#lem: u; u; u; artu[branches]N; adāra[(a tree)]N; artu[branches]N; u
+
+5'. !bs PA {giš}se-er-di !cm : {(PA {giš}ŠINIG#)} !bs [...]
+#lem: artu[branches]N; serdi[olive]N; artu[branches]N; u; u
+
+6'. !bs PA {giš}NU.UR₂.MA PA {giš}HAŠHUR PA# [...]
+#lem: artu[branches]N; nurmî[pomegranate]N; artu[branches]N; hašhūra[(a fruit)]N; artu[branches]N; u
+
+7'. !bs PA {giš}ŠUR.MIN₃ PA {giš}ŠE.NA₂.A# [...]
+#lem: artu[branches]N; šurmēni[cypress]N; artu[branches]N; šunê[chaste tree]N; u
+
+8'. !bs HUL₂.TI.GI.IL.LA [... U₂-MEŠ]
+#lem: +tigillû[colocynth]N$; u; šammī[plant(s)]N
+
+9'. !bs an-nu-ti 1{+niš} ta-har-ra?#-[aṣ ...]
+#lem: annûti[these]DP; iltēniš[together]AV; +harāṣu[break off]V$taharraṣ; u
+
+#note: [… @akk{Ú-HI.A}] @akk{an-nu-ti 1{+niš} ta-har-ra#}-[@i{ina šikar sābî mê urul bāqili}] / @akk{u A TÚL šá {d}UTU NU IGI# PA-MEŠ DÙ.A.BI ana ŠÀ} …; see Rm 2, 147, rev. 1-3. [Henry Stadhouders]
+
+10'. !bs u A PU₂ ša₂ {d}UTU NU IGI# [...]
+#lem: u[and]CNJ; mê[water]N; būri[well]N; ša[of]DET; Šamaš[1]DN; lā[not]MOD; innamir[appear]V; u
+
+11'. !bs ina lu-ba-re-e ta-x# [...]
+#lem: ina[in]PRP; +lubāru[garment]N$lubārê; u; u
+
+#note: @i{ta-š}[@i{a-ḫal} …], @i{ta-r}[@i{ak-kás} …]?; cf. Rm 2, 147, obv. 9’: @akk{GAZI#{sar} ina TÚG.HI.A KÉŠ?#}. [Henry Stadhouders]
+12'. !bs te-ṭe#-[...]
+#lem: u
+
+#note: [… @i{ina maški}/@i{šubāti}] / @akk{te-ṭe#-[ri ...]} = @i{teṭerri}; less likely to be restored as [… @i{kīma ṭīpi}] / @akk{te-ṭe#-[pi ...]} = @i{teṭeppi}. [Henry Stadhouders]
+$ single ruling
+13'. !bs MIN {giš}x# [...]
+#lem: šanîš[alternatively]AV; u; u
+
+14'. !bs GI# [...]
+#lem: qanê[reed]N; u
+
+15'. !bs x# [...]
+#lem: u; u
+
+$ reverse blank
+
+@translation parallel en project
+
+@obverse
+
+1'. [If] a man, his feet … […]
+2'. Reed (gloss: a @i{qān-šalāli}-reed) […]
+3'. Branch of a tree (gloss: branch of a plum tree) … […]
+4'. … branch of a poplar tree, branch of … […]
+5'. Branch of olive tree, (gloss: branch of a tamar[isk) …]
+6'. Branch of pomegranate, branch of apple tree … […]
+7'. Branch of cypress, branch of chaste tree […]
+8'. Colocynth […]
+9'. These drugs you cut (into pieces) together […]
+10'. And water from the well of Šamaš … […]
+11'. On your clothing you … […],
+12'. You … […]
+13'. Two … […]
+14'. @i{Reed} […]
+15'. …

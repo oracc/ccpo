@@ -1,0 +1,290 @@
+&P461298 = CCP 3.5.49 (http://ccp.yale.edu/P461298) = BM 92683
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+0. !zz ina a-mat {d}EN u {d}GAŠAN-ia₂ liš-lim
+#lem: ina[by]PRP; amāt[command]N; Bel[1]DN; u[and]CNJ; Beletiya[1]DN; lišlim[go well]V
+
+1. ($___$) !bs ŠAH-MEŠ it-ta-na-da-ru !cm : ša iš-[še-gu]-u₂ : na-ad-ri : še-gu-[u₂ (...)]
+#lem: šahî[pig]N; ittanaddarū[rampage]V; ša[that]REL; iššegû[be wild]V; nadri[wild]AJ; šegû[aggressive]AJ; u
+
+2. !bs ṣa-a-du !cm : la-mu-u₂ : !bs * ŠAH-MEŠ ina SILA.DAGAL.LA il-ta-na-su-u₂ ZI{+ut#} [IM]
+#lem: ṣâdu[prowling]'N; lamû[surrounding]'N; šahû[pig]N; ina[in]PRP; rebīti[square]N; +šasû[shout]V$iltanasû; tibût[attack]N; ṭīdi[clay]N
+
+3. !bs šum₄-ma ZI{+ut} {giš}MAR u GI.DUSU !cm : ṣa-la-lu ki ŠAH : !qt at-tu₂ ana e-pe-ši-ka ki#-[i ŠAH lu-u] ṣal#-lat
+#lem: šumma[if]MOD; tibût[attack]N; marri[spade]N; u[and]CNJ; +tupšikku[brick-carrying frame]N$tupšikki; +ṣalālu[lie (down)//lying down]V'N$; +kī[like]PRP$; šahû[pig]N; attū[you]IP; ana[according to]PRP; +epēšu[do]V$epēšīka; kī[as]PRP; šahû[pig]N; lū[may]MOD; ṣallāt[asleep]AJ
+
+#note: Quotation from @i{Lugale} 484. The explanation probably tries to demonstrate the internal consistency of the omen by proving that the protasis (“pigs”) is related to the apodosis (“uprising”) because “lying down” (the opposite of “uprising”) is often said of pigs.
+4. !bs KUN-MEŠ-šu₂-nu ta-ru-u₂ !cm : ša₂ ana e-la-nu tur-ru : ta-ru-u₂ : na-šu-u₂ : !bs ana IGI NA# [in-niš-ru]
+#lem: zibbātušunu[tail]N; tarû[turned up]AJ; ša[which]REL; ana[for]PRP; elānu[above]AV; turru[turning]'N; tarû[turned up]AJ; našû[imbued]AJ; ana[according to]PRP; pān[front]N; amēla[man]N; +ešēru[be/go well]V$innišru
+
+5. !cm a-ša₂-ri : a-la-ku : ša₂-niš a-ša₂-ri : sa-na-qu : !bs i-gar-ru-ru !cm : ga-ra-ar : pa-la#-[hu] 
+#lem: +ešēru[be/go well//being/going well]V'N$ašāri; alāku[going]'N; šanîš[alternatively]AV; ašāri[being/going well]'N; sanāqu[checking]'N; +qarāru[writhe]V$igarrurū; +qarāru[writhe]V$garār; +palāhu[fear//fearing]V'N$
+
+#note: The emendation of  the last signs as @akk{NIGIN}, proposed inter alii by CAD G 47b, is epigraphically unlikely. The restoration adopted at the end follows SpTU 2 39 o 3 (CCP 4.1.34).
+
+6. !bs {giš}TUKUL-MEŠ-šu₂-nu i-še-el-lu !cm : ša₂ šin-na-šu₂-nu i-mar-<ra>-qu : {+gu-uk}KA.DU₃ : kak*-ku* [ka?-na?-ku?] šin?#-ni
+#lem: +kakku[stick]N$kakkīšunu; +šêlu[sharpen]V$išellū; ša[of]DET; +šinnu[tooth]N$šinnāšunu; +marāqu[rub s.th. smooth]V$imarraqū; +kakku[stick]N$; +kakku[stick]N$; +kanāku[seal//sealing]V'N$; šinnī[tooth]N
+
+#note: Compare KA.dù = @i{kanāku} in @i{Antagal} C 106 (MSL 17 198) and @akk{{+ku-ku-ka}KA.KAK} = @i{kakku}, @i{kanāku}, @i{šinnu} in Diri Ugarit I 69-71 (MSL 15 69).
+
+7. !cm ZU₂{+zu} : šin-ni : DU₃{+du} : ka-na-ku* : MIN : na-ša₂-qu : ZU₂.SA.SA še-lu-u₂ ša₂ ŠAH {giš}GI 
+#lem: +šinnu[tooth]N$; šinnī[tooth]N; +kanāku[seal//sealing]V'N$; +kanāku[seal//sealing]V'N$; šanîš[alternatively]AV; +našāqu[kiss//kissing]V'N$; X; +šelû[]V'N$; ša[of]DET; šahû[pig]N; apu[reed-bed]N
+
+#note: The fourth word is @akk{ka-na-ku*} (collated). The correct parsing of ZÚ.SA.SA escapes us, the last equation seems to be taken from an unknown lexical source.
+
+8. !cm ZU₂! : šin-nu ša₂ ŠAH a-pi : SA : še-e-lu ša₂ kak-ku : !bs ZI URU ZI KU₆-MEŠ u MUŠEN ina KUR GAL₂{+ši} !cm UN-MEŠ
+#lem: šinni[tooth]N; šinnu[tooth]N; ša[of]DET; šahû[pig]N; api[reed-bed]N; +šêlu[sharpen//sharpening]V'N$; +šêlu[sharpen//sharpening]V'N$; ša[of]DET; +kakku[stick]N$; +tību[arousal]N$tīb; āli[village]N; tīb[arousal]N; +nūnu[fish]N$nūnī; u[and]CNJ; iṣṣūru[bird]N; ina[in]PRP; māti[land]N; ibašši[exist]V; nišū[people]N
+
+9. !cm ana iš?#-te?#-en i-te-eb-bu-u₂ SIG₅ : !bs GI.GIR₃{+gi-ir} !cm : a-lit-tu₄ : U₂ qa-ne₂-e : GI.U₂.GIR₃ : a#-[da]-at#-tu₄#
+#lem: ana[into]PRP; +ištēn[one]NU$; +tebû[get up]V$itebbû; idammiq[be(come) good]V; X; ālittu[one who gives birth]AJ; šammi[plant(s)]N; +qanû[reed]N$qanê; +adattu[succulent part of reed]N$; +adattu[succulent part of reed]N$
+
+#note: The restoration and interpretation at the end follows @i{CAD} A/1 110a, note that it would also be possible to reconstruct @akk{a#-[ba]-at#-tu₄#}.
+
+10. !cm SUHUŠ ša₂ GI : !bs GI.TUR !cm : zi-ri : šam-mu qa-ne₂-e : ša₂-niš GI.TUR : ze-er-ze!-ri!? [(...)]
+#lem: šuruš[root]N; ša[of]DET; qanê[reed]N; +zīru[small]AJ$; +zīru[small]AJ$; šammū[plant(s)]N; qanê[reed]N; šanîš[alternatively]AV; +zerzerru[very small]AJ$zerzerri; +zerzerru[very small]AJ$; u
+
+#note: The emendation of the one but last word in @akk{zi-ri-ru!}, suggested in @i{CAD} Z 136b, is unlikely.
+
+11. !bs GI.GILIM !cm : ki-li-im-bi : ri-ik-su ša₂ GI : !bs U₂.A.GUG₄ !cm : el-pe-tu₂ : me-e-bur-[ki x x] x#
+#lem: +kilimbu[reed bundle]N$; +kilimbu[reed bundle]N$; riksu[binding]N; ša[of]DET; qanê[reed]N; +elpetu[alfalfa grass]N$; +elpetu[alfalfa grass]N$; +meburku[halfa grass]N$meburki; u; u; u
+
+12. !cm el-pe-tu₄ : !bs * ŠAH {giš}PA GIŠIMMAR na-ši IM ZI !cm : !qt {giš}GIŠIMMAR lim-hur-an-ni ma-hi-ir kal ša₂-a-[ri]
+#lem: +elpetu[alfalfa grass]N$; šahû[pig]N; haṭṭi[stick]N; gišimmari[date palm]N; naši[standing up]AJ; +šāru[wind]N$; +tebû[get up]V$itebbi; gišimmari[date palm]N; limhuranni[receive]V; +māhiru[opponent]N$māhir; kal[all]N; šāri[wind]N
+
+13. !bs SIG₂ la-hi-im !cm MU₄{+mu-mu}.MU₄ : la-ba-šu₂ : MU₄{+mu-mu}.MU₄ : la-ha-mu : SIG₂.UZ₃ ma-le-e [(x x x)]
+#lem: šārtu[hair]N; lahim[hairy]AJ; +labāšu[clothe//clothing]V'N$; +labāšu[clothe//clothing]V'N$; +lahāmu[be hairy//being hairy]V'N$; +lahāmu[be hairy//being hairy]V'N$; pēštu[hair (of head)]N; +malû[matted]AJ$malê; u; u; u
+
+14. !bs LUGAL ŠU₂ !cm : LUGAL ŠU₂ : LUGAL a-hu-u₂ : ŠU₂ : kiš-ša₂-tu₄ : ŠU₂ : a-hu-u₂ : !bs URU-MEŠ ar₂-bu-ta₅ DU!(KU)-MEŠ*# !cm [x x] x# GAR#-x# [(x x)]
+#lem: šar[king]N; kiššati[universe]N; šar[king]N; kiššati[universe]N; šarru[king]N; +ahû[outside(r)]AJ$; kiššatu[universe]N; +kiššatu[universe]N$; +ahû[outside(r)]AJ$; +ahû[outside(r)]AJ$; +ālu[village]N$ālānu; +arbūtu[desolation]N$arbūta; illakū[flow]V; u; u; u; u; u; u
+
+#note: On the various interpretations of @akk{LUGAL ŠU₂} in commentaries, see Frahm @i{GMTR} 5 p. 63 fn. 297.
+15. !bs ILLAT*# NU ZU ana EN-šu₂ TE{+am} !cm : lib₃-bu-u₂ : !qt ab-bu-ut ŠEŠ-MEŠ la šu-a-ti ip-pu-uš
+#lem: tillata[reinforcements]N; lā[not]MOD; īdû[know]V; ana[according to]PRP; bēlšu[owner]N; iṭehhâm[approach]V; libbū[meaning]PRP; +abbūtu[fatherhood]N$abbūt; ahhī[brother]N; lā[not]MOD; šuāti[that]IP; ippuš[do]V
+
+#note: The second part of the line contains a quotation, introduced by the technical term @i{libbū}, from @i{Iqqur īpuš} §31 Elūlu.
+16. !bs KI.UR₃ !cm :# ma-la-lu* : KI : aš₂-ri : UR₃ : ba-ʾ-u₂ ša₂ e-te-qu : !bs * ŠAH ana IGI NA
+#lem: X; +malālu[eat//pillage]V'N$; +aşru[place]N$; ašri[place]N; +bâʾu[go along//going along]V'N$; +bâʾu[go along//going along]V'N$; ša[of]DET; etēqu[crossing]'N; šahû[pig]N; ana[into]PRP; +pānu[front]N$pān; amēlu[man]N
+
+#note: The second word may also be @akk{ba-la-lu}.
+
+17. !bs KA-šu₂ BAD*#.BAD*#{+te} DAM LU₂ it-ta-na-a-a-ak !cm : MURUB₂{+mu-ru-ub} pu-u₂ : MURUB₂ : šu-uh-hu
+#lem: +pû[mouth]N$pâšu; iptenette[open]V; aššata[wife]N; amēli[man]N; ittanayyak[have sexual intercourse with]V; +pû[mouth]N$; pû[mouth]N; +šuhhu[buttock]N$; šuhhu[buttock]N
+
+18. !cm MURUB₂# : u₂-ri ša₂ MUNUS : !bs i-ʾi-ir !cm : a-ri : a-lak : i-ši-ir : a-ša₂#-[ru : a-la-ku]
+#lem: +ūru[pudenda]N$; +ūru[pudenda]N$ūri; ša[of]DET; sinništu[wife]N; +âru[go (up to)]V$iʾir; +âru[go (up to)//going (up to)]V'N$âri; alāk[going]'N; +ešēru[be/go well]V$īšir; +ešēru[be/go well//being/going well]V'N$ašāru; alāku[going]'N
+
+$(reverse)
+19. !bs ana IGI EN-šu₂ ig-gu#-[uš] !cm : ig-gu-uš : il-lik : !qt ip-lah₃-ma ig-gu-uš ša₂-da-a-šu₂ i-li
+#lem: ana[according to]PRP; pān[front]N; bēlšu[owner]N; igguš[go to(wards)]V; igguš[go to(wards)]V; illik[walk]V; +palāhu[fear]V$iplahma; igguš[go to(wards)]V; +šadû[mountain(s)]N$šadâšu; +elû[go up]V$īli
+
+#note: The verse cited at the end of the line may represent a quotation from @i{Anzû} II 29 = 147, @i{igrur irtaʾub šadûssu igguš}, “(Ninurta) became afraid, trembled, and disappeared (lit., “he left to his mountain”).” The different wording of the line in the present commentary may be due to the fact that the commentator was citing from memory.
+20. !zz i-li x# [x] x#-ad-me : !bs im-ši-id !cm : im-ha-aṣ ša₂-niš im-ši-id : is-pu-un
+#lem: +elû[go up]V$īli; u; u; u; imšid[crush]V; +mahāṣu[beat]V$imhaṣ; šanîš[alternatively]AV; imšid[crush]V; +sapānu[flatten]V$ispun
+
+#note: It does not seem possible to read at the beginning of the line @i{bīn šar dadmē}, i.e., the incipit of @i{Anzû} (see note on the preceding line).
+21. !cm UR₃*# :*# ma*#-ša₂*#-du*# : UR₃ : sa-pa-nu : !bs e-se-et-tu₄ ana E₂ EN-šu₂ KU₄ !cm : qe₂-reb : a-sir₃
+#lem: +mašādu[beat//beating]V'N$; +mašādu[beat//beating]V'N$; +sapānu[flatten//flattening]V'N$; sapānu[flattening]'N; +esertu[confined woman]N$esettu; ana[into]PRP; bīt[house]N; bēlšu[owner]N; īrub[enter]V; qereb[centre]N; +esru[confined]AJ$esir
+
+#note: The base text reads @akk{a-si-ir-tu₄}, “captive woman,” instead of @akk{e-si-ir-tu₄}. The present commentarial entry links the word @i{qereb}, “center,” in the protasis (which reads @akk{[DIŠ ŠAH ana] qe₂-reb ur-ši KU₄}, “if a pig enters the center of a bedroom”) with the mention of a “captive woman” in the apodosis.
+
+22. !cm KI#.KAL# :# dan-na-tu₄ : !bs nam-<<zi>>-mi-ru-tu₂ ne₂-hi-iš <<ru-tu₂>> i-te-ne₂-ep-pu-uš
+#lem: dannati[distress]N; dannatu[distress]N; nammirūtu[fat(tened) animals]N; nēhiš[calmly]AV; īteneppuš[behave]V
+
+#note: @akk{KI#.KAL#} at the beginning of the line refers still to @akk{qe₂-reb} (note that both are written with the same signs). The sign after NAM is a clear ZI (the word **@i{namzirūtu} is thus probably related to @i{zamāru}, “to sing,” in the commentator’s mind), but one might consider an emendation @akk{nam-{+gi}gi₆-ru-tu₂}.
+
+23. !cm ša₂*# ne₂*#-hi*#-iš*# i-za-am-mu-ru : ša₂-niš nam-{+gi₆}gi-ru-tu₂ : na-gi-ru-tu₂ : !bs GIG ina ah-[hi?-ti? UG₇]
+#lem: ša[of]DET; nēhiš[calmly]AV; izammurū[sing (of)]V; šanîš[alternatively]AV; +nāgirūtu[(office of the herald)]N$namgirūtu; +nāgirūtu[(office of the herald)]N$; +marṣu[sick]AJ$; ina[in]PRP; +ahītu[side]N$ahhīti; imât[die]N
+
+24. !cm [TE] :# na*#-a#-hu : TE : pa*#-ša₂-hu : !bs i-se-er !cm : se-e-ri : sa-pa-nu : !bs LU₂ BI <<:>> ina URU u₂-[ba-ru KU₄]
+#lem: +nâhu[rest//resting]V'N$; nâhu[resting]'N; +pašāhu[cool down//cooling down]V'N$; +pašāhu[cool down//cooling down]V'N$; isêr[smear]V; +sêru[plaster//plastering]V'N$sêri; sapānu[flattening]'N; amēla[man]N; šu[that]IP; ina[in]PRP; āli[village]N; +ubāru[(resident) alien]N$; irrub[enter]V
+
+#note: The reading of the first half of the line follows @i{CAD} P 229a. The equation of @i{nâḫu} and @i{pašāḫu} seems to be intended to demonstrate the relationship between the protasis of the omen (which contains the word @i{nēḫiš}) and its apodosis, although the gist of the equation escapes us.
+25. !cm [u₂]-ba*#-ri ana E₂-šu₂ ir-ru-ub : u₂-ba-ri : nak-ri : ša₂-niš ina URU-šu₂ ana a-hi-i i-ta-ri [(x x x)]
+#lem: +ubāru[(resident) alien]N$N$ubāri; ana[according to]PRP; bītišu[household]N; irrub[enter]V; ubāri[(resident) alien]N; nakri[enemy]N; šanîš[alternatively]AV; ina[in]PRP; +ālu[village]N$āli; ana[according to]PRP; +ahû[outside(r)]N$ahî; itâri[return]V; u; u; u
+
+#note: The line commented upon does not seem to be preserved, but compare @i{Šumma Ālu} 49 57′: @akk{ina URU u-bar E₃}, “a foreigner will go out of the city.”
+
+26. !bs [*] ŠAH# la šu-u₂ id-da-ri-ir-ma : ana E₂ NA KU₄ !cm : na-ad-ri : še-gu-u₂ : !bs LU₂ iš-li
+#lem: šahû[pig]N; lā[not]MOD; šû[belonging to him]PP; iddarirma[roam free]V; ana[according to]PRP; bīti[house]N; amēla[man]N; +erēbu[enter]V$irrub; nadri[wild]AJ; šegû[aggressive]AJ; amēla[man]N; išli[tear]V
+
+27. !cm [ša₂-lu]-u₂ : ša-ra-ṭu : !bs E₂ u₂-na-ap-pil{+pi-il} !cm : !bs A it-bu-uk : aš₂-šu₂ ši-na-a-tu₂#
+#lem: +šalû[tear//tearing]V'N$; +šarāṭu[tear//tearing]V'N$; bīt[house]N; +napālu[dig out]V$unappil; +mû[water]N$mê; itbuk[spill]V; aššu[because of]'PRP; šīnātu[urine]N
+
+28. !bs [ŠE₃]{+ze#-e} LU₂ il-mu-um !cm : la-ma-mu : a-ka-lu : !bs NA mu-lem-min₃ INIM{+a-mat} TUKU{+ši}
+#lem: +zû[excrement]N$zê; amēla[man]N; +lamāmu[chew]V$ilmum; +lamāmu[chew//chewing]V'N$; +akālu[eat//eating]V'N$; amēla[man]N; mulemmin[evil-doer]N; +awātu[word]N$amāti; irašši[acquire]V
+
+29. !cm x# x# IGI#{+mar?#} : !bs NA uš-ta-ga-lit !cm : lib₃*-bu-u₂ <<:>> ṣal-tu₄ : !bs INIM{+a-mat} pi-qi₂{+qa} TUKU{+ši}
+#lem: u; u; innammar[see]V; amēla[man]N; +galātu[tremble]V$uštagalit; libbū[meaning]PRP; ṣāltu[legal battle]N; amāti[word]N; +pīqu[narrow]AJ$pīqi; irašši[acquire]V
+
+#note: The gist of the first explanation of the line is unclear.
+30. !cm x# INIM{+a-mat} TUKU{+ši} : !bs * ŠAH ana E₂ NA KU₄-ma ZI-ma KIMIN E₂ BI A₂.TUKU TUKU{+ši}
+#lem: u; amāti[word]N; irašši[acquire]V; šahû[pig]N; ana[into]PRP; bīt[house]N; amēli[man]N; īrubma[enter]V; itebbema[arise]V; šanîš[otherwise]N; bīta[household]N; šū[that]IP; nēmela[profit]N; irašši[acquire]V
+
+31. !cm x#-bi# :?# ru?#-tu₄?# : !bs ha-mi !cm : hu-ṣa-bi : ha-mi U₂ : hu-ṣa-bi : !bs ša₂ mim-ma la šu-a-tu₄
+#lem: u; X; +hāmū[chaff]N$hāmī; +huṣābu[twig]N$huṣābi; hāmī[chaff]N; šammi[plant(s)]N; huṣābi[twig]N; ša[that]REL; mimma[anything]XP; lā[not]MOD; šuāti[that]'AJ
+
+#note: Since both the protasis and the apodosis of the omen are cited in the previous line, one would expect that the first few damaged signs of this line contain a commentarial entry justifying the pairing of the protasis and the apodosis. The interpretation of the signs, however, escapes us.
+32. !cm ma-la KUR{+ad₂} : !bs lu-hu-ma-a ip-šu-uš !cm : lu-hu-ma-a pu-uš-šu₂ ša₂ u₄-mu-us-su pu-uš-šu₂
+#lem: mala[as many]PRP; ikaššad[reach]V; +luhummû[silt]N$luhumâ; ipšuš[anoint]V; luhumâ[silt]N; +puššu[smeared]AJ$; ša[of]DET; ūmussu[daily]AV; puššu[smeared]AJ
+
+33. !zz {(he-pi₂ eš-šu₂)} !cm ta-pa-aš₂-ša₂-šu! : !bs lu-ʾ-{(he-pi₂)} !cm : mur-ṣu : !bs * ana E₂ NA MUNUS.ŠAH hi-i na-šat-ma KU₄
+#lem: hepi[broken]AJ; eššu[new]AJ; +pašāšu[anoint]V$tapaššašu; u; u; +murṣu[illness]N$; ana[into]PRP; bīt[house]N; amēla[man]N; +šahītu[sow]N$; +hiʾu[(a garment)]N$hī; +našû[lifted]AJ$našâtma; īrub[enter]V
+
+#note: According to @i{CAD} P 251b, the first word would be @akk{<uš>-ta-pa-aš₂-ša₂-aṭ}, “you make ... efface ...,” but the interpretation offered here seems more likely. In the word @akk{lu-uʾ-{(he-pi₂)}}, the @akk{he-pi₂}-note seems to have been written over an erasure. The equation was originally @akk{lu-ʾ-tu₄ : mur-ṣu}, an equation well attested elsewhere.
+
+34. !zz {(he-pi₂ eš-šu₂)} !cm MUNUS.ŠAH lu ŠAH : hi-i : GI.SIG a-da-at-tu : hi-lu ša₂ qa-ne₂-e
+#lem: hepi[broken]AJ; eššu[new]AJ; +šahītu[sow]N$; lū[or]CNJ; šahû[pig]N; +hiʾu[(a garment)]N$hī; +kikkišu[reed fence]N$kikkiš; +adattu[succulent part of reed]N$; +hīlu[exudation]N$; ša[of]DET; qanê[reed]N
+
+#note: @akk{hi-lu ša₂ qa-ne₂-e} could also be part of a new entry.
+
+35. !zz {(he-pi₂ eš-šu₂)} !cm šam-mu qa-ne₂-e
+#lem: hepi[broken]AJ; eššu[new]AJ; šammū[plant(s)]N; qanê[reed]N
+
+$ single ruling
+
+36. !zz ṣa-a-tu₂ u₃ šu-ut KA ša₂ * ŠAH-MEŠ it-ta-na-ad-da-ru * URU <ina> SUKUD{+e} GAR{+in}
+#lem: ṣâtu[commentary]N; u[and]CNJ; šūt[those of]DET; pî[mouth]N; ša[of]DET; šahî[pig]N; +nadāru[be wild]V$ittanaddarū; āli[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+37. !zz LIBIR?#.RA?#-šu?# TA muh-hi {im}gi₃-ṭa SUMUN GABA.RI bar-sip{ki} SAR-ma IGI.TAB
+#lem: +labīru[original]N$labīrīšu; ina[on]PRP; muhhi[top]N; giṭṭa[oblong tablet]N; labīri[old]AJ; gabarê[copy]N; Borsippa[]SN; šaṭirma[written]AJ; bari[checked]AJ
+
+#note: The reading of the first signs as @akk{LIBIR#.RA#-šu}, proposed inter alii by Hunger AOAT 2 p. 120 no. 410, is epigraphically uncertain, and would result in awkward syntax.
+
+38. !zz {im}gi₃-ṭa {d}AG-DIN-su-E A ša₂ {m}{d}AMAR.UTU-MU-DU₃ A {m}{d}egi-ba-ti-la ŠU-MIN {m}{d}AG-MU-SI.SA₂ DUMU-šu₂
+#lem: giṭṭa[oblong tablet]N; +Nabu-balassu-iqbi[]PN$; aplu[son]N; ša[of]DET; +Marduk-zeru-ibni[]PN$; aplu[son]N; Egibatila[1]PN; qāt[hand]N; Nabu-šumu-lišir[1]PN; māršu[son]N
+
+@translation labeled en project
+
+@label 0
+
+By the word of Bēl and Bēltīya, may it be perfect.
+
+@label 1
+
+“(If) pigs persistently rage” (= @i{Šumma Ālu} 49 1) (refers to pigs) that go w[il]d, (since) “raging” means “wil[d” (...)] 
+
+@label 2 - 3
+
+“To prowl” (= @i{Šumma Ālu} 49 2) means “to circle.” “If pigs persistently squeal in the city square — rise of [a storm] or uprising of spade and hod (laborers)” (= @i{Šumma Ālu} 49 4) (the relationship between protasis and apodosis is demonstrated by the expression) “to lie down like a pig,” (which appears in the line) “You, (O Stone,) while (they) work on you, lie like a pig!” (quotation from @i{Lugale} 484).
+
+@label 4 - 5
+
+“Their tails are turned back” (= @i{Šumma Ālu} 49 5) (refers to tails) that are turned back upward, (since) “to turn back” means “to raise.” “Will approach the man” (= @i{Šumma Ālu} 49 15-16), “to approach” means “to go”; alternatively, “to approach” means “to draw near.”
+
+@label 5
+
+“(Pigs) are rolling” (= @i{Šumma Ālu} 49 17), “to roll” means “to fe[ar].”
+
+@label 6 - 8
+
+“(The pigs) are sharpening their weapons” (cf. @i{Šumma Ālu} 49 13) (refers to pigs) that grind their teeth, (since) KA.DÙ, pronounced /guk/, means “weapon,” “to seal,” and “tooth” (= citation from @i{Diri Ug} I 69-71 (?)), (since) ZÚ, pronounced /zu/, means “tooth,” and DÙ, pronounced /du/, means “to seal” (and) alternatively “to kiss.” ZÚ.SA.SA means “@i{šelû}, said of a marsh boar,” (in the word ZÚ.SA.SA), ZÚ means “tooth of a marsh boar” and SA means “to sharpen, said of weapons.”
+
+@label 8 - 9
+
+“There will be an uprising of a city, uprising of fish and birds in the land” (cf. @i{Šumma Ālu} 49 43′) means “the people will rise up @i{together}, it is favorable.”
+
+@label 9 - 10
+
+GI.GÌR (cf. @i{Šumma Ālu} 49 53′-55′), (GÌR) read /gir/, means “fertile,” (it refers to) the “reed-plant”; GI.Ú.GÌR means @i{adattu}, i.e., the base of the reed.
+
+@label 10
+
+GI.TUR (= @i{Šumma Ālu} 49 unknown) means @i{zīru}-reed, i.e., “reed plant”; alternatively, GI.TUR means @i{zirzirru}-reed. [(...)]
+
+@label 11 - 12
+
+GI.GILIM (= @i{Šumma Ālu} 49 47′ and 52′-55′) means “reed bundle,” (i.e.,) a bundle of reeds. Ú.A.GUG₄ (= @i{Šumma Ālu} 49 50′) means “alfalfa-grass,” (i.e.,) “alfa gr[ass” ...] ... (means) “alfalfa-grass.”
+
+@label 12
+
+“If a pig carries a palm frond, wind will rise” (= @i{Šumma Ālu} 49 48′) (the relationship between protasis and apodosis is demonstrated by the line) “May the date palm receive it, (the tree) that receives every wind!” (quotation from @i{Maqlû} I 22).
+
+@label 13
+
+“(A pig) is covered (@i{laḫim}) with hair” (= @i{Šumma Ālu} 49 24) – MU₄.MU₄, (pronounced) /mu-mu/, means “to be clothed” (@i{labāšu}), MU₄.MU₄, pronounced /mu-mu/, means “to be covered” (@i{laḫāmu}), (it refers to) unkempt hair [(...)].
+
+@label 14
+
+LUGAL ŠÚ (= @i{Šumma Ālu} 49 24) means “king of the universe” (LUGAL ŠÚ), (@i{alternatively}, it means) “foreign king,” (since) ŠÚ means “universe” and ŠÚ means “foreigner.” “Cities will be laid waste” (= @i{Šumma Ālu} 49 24) means ... [...].
+
+@label 15 - 16
+
+“A support he did not know of will approach his owner” (= @i{Šumma Ālu} 49 28′) is as in “he will intercede for brothers that are not his” (= quotation from @i{Iqqur īpuš} §31 Elūlu). KI.ÙR (= @i{Šumma Ālu} 49 unknown) means “@i{to pillage},” (since) KI means “place” and ÙR means “to pass by, in the sense ‘to cross’.”
+
+@label 16 - 18
+
+“If a pig repeatedly opens its mouth in front of a man, the man’s wife will repeatedly have (illicit) sex” (= @i{Šumma Ālu} 49 34′) (the relationship between protasis and apodosis is demonstrated by the fact that) MÚRUB means “mouth,” MÚRUB means “anus,” and MÚRUB means “female genitalia.”
+
+@label 18
+
+“(A pig) advances (@i{iʾir})” (= @i{Šumma Ālu} 49 35′) stems from “to advance,” which means “to go,“ i.e., “he approaches,” (since) “@i{to appr}[@i{oach}” @i{means} “@i{to go}”].
+
+@label 19 - 20
+
+“(A pig) leaves towards his owner” (cp. @i{Šumma Ālu} 49 38′), “leaves” means “goes,” (as in) “he was afraid and left and disappeared (lit. “went up to his mountain”)” (= quotation from @i{Anzû}?). ...
+
+@label 20 - 21
+
+“He hit” (= @i{Šumma Ālu} 49 38′) means “he struck,” alternatively, “he struck” means “he flattened,” (since) ÙR means “to strike” and ÙR means “to flatten.” 
+
+@label 21 - 22
+
+“A captive woman will enter the house of his master” (= @i{Šumma Ālu} 49 41′), “center” (from the protasis, written @i{qé-reb} [@i{i.e.}, KI.KAL]), means “center,” (and hence) “captive” (lit., “enclosed”); KI.KAL means “hardship.”
+
+@label 22 - 24
+
+“It calmly performs the function of the herald (@i{namgirūtu})” (= @i{Šumma Ālu} 49 42′) (refers to the pig) that sings calmly; alternatively, @i{namgirūtu} means @i{nagirūtu} (i.e., “function of the herald”). “A sick person [will die] in ad[versity]” (= @i{Šumma Ālu} 49 42′), TE means “to calm down,” TE means “to cool down.”
+
+@label 24 - 25
+
+“It smears” (= @i{Šumma Ālu} 49 64′) (stems from) “to smear,” (which) means “to flatten.” “That man, the en[emy will enter] the city” (= @i{Šumma Ālu} 49 unknown, cf. 57′)  means “a foreigner will enter his house” – “foreigner” means “enemy.” Alternatively, it means “he will turn into a stranger in his (own) city” [(...)].
+
+@label 26 - 27
+
+“[If a pi]g that is not his own goes on the rampage and enters a man’s house” (= @i{Šumma Ālu} 49 68′), “on the rampage” means “raging.” “(A pig) tears a man to pieces” (= @i{Šumma Ālu} 49 72′), “to tear to pieces” means “to shred.”
+
+@label 27
+
+In “turns the house upside down (@i{ú-na-ap}-NE)” (= @i{Šumma Ālu} 49 72′), (NE should be read as) /pil/. “(A pig) spills water” (= @i{Šumma Ālu} 49 75′) it refers to urine.
+
+@label 28 - 29
+
+“(If a pig) chews human excrement” (= @i{Šumma Ālu} 49 77′), “to chew” means “to eat.” “The man will have a slanderer” (= @i{Šumma Ālu} 49 77′) means @i{he will see} ...
+
+@label 29 - 30
+
+“(If a pig) terrifies a man” (= @i{Šumma Ālu} 49 78′) (is) as in “a combat.” “He will have a word @i{of constraint}” (= @i{Šumma Ālu} 49 80′) means he will have a [...] word.
+
+@label 30 - 31
+
+“If a pig enters a man’s house, stands up and ditto (@i{scil.}, “vomits,” @i{ipru}), that house will acquire profit” (= @i{Šumma Ālu} 49 81′) ... means ...
+
+@label 31 - 32
+
+“Chaff” (= @i{Šumma Ālu} 49 82′) means “twig,” because the chaff of a plant is a twig. “Of what it is not his” (= @i{Šumma Ālu} 49 unknown) means “all he achieves.”
+
+@label 32 - 33
+
+“Smears with mud” (= @i{Šumma Ālu} 49 unknown) “smeared with mud” (refers to a pig) that is smeared daily, (new break) @i{you} smear. “Debi<lity>” (literally, @i{luʾ}-(break)) means “disease.”
+
+@label 33 - 35
+
+“If a sow carrying @i{ḫiʾu} enters a man’s house” (= @i{Šumma Ālu} 49 85′), (new break) either a saw or a pig; @i{ḫiʾu} means “reed fence (made of) @i{adattu}-reed,” (i.e.,) “@i{ḫīlu} of a reed,” (which) means (new break) “reed plant.”
+
+@label 36
+
+Lemmata and oral explanations from (If) pigs persistently rage” (= @i{Šumma Ālu} 49), from “If a City is Set on a Height.”
+
+@label 37
+
+Copied and collated from an old one-column tablet, whose original was from Borsippa.
+
+@label 38
+
+One-column tablet of Nabû-balāssu-iqbi son of Marduk-zēru-ibni descendant of Egibatila. Handwriting of Nabû-šumu-līšir, his son.

@@ -1,0 +1,114 @@
+&P469989 = CCP 6.1.u4 (http://ccp.yale.edu/P469989) = BM 38519
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [x (x)]-u₂-du :?# [...]
+#lem: u; u; u
+
+#tr.en: […] … […]
+2'. !cm ka?#-ma-su : x# [...]
+#lem: +kamāsu[kneel//kneeling]V'N$; u; u
+
+#tr.en: [“@i{To k}]@i{neel} … […]
+3'. !bs NU# !cm : ṭa-mu-u₂ !zz : $TUKU?# x#-[...]
+#lem: +ṭawûm[spin//spinning]V'N$ṭamû; +ṭawûm[spin//spinning]V'N$ṭamû; u; u
+
+#tr.en: “@i{nu}” means “to spin,” … […].
+#note: Note that in Proto-Ea @akk{NU} is preceded by @akk{GAM} (449-450, @i{MSL} 14 pp. 49 and 99), which appears to be the case here (@i{kamāsu}, si vera lectio, is probably equated with GAM).
+4'. !bs NU# !cm :# la?#-a?# : sa?# x# na# [...]
+#lem: lā[not]MOD; lā[not]MOD; X; u; X; u
+
+#tr.en: “@i{nu}” means “@i{not}”; … […].
+5'. !bs GUL !cm : e-pe-šu₂ ša₂ KU₃.BABBAR# [...]
+#lem: +epēšu[do//doing]V'N$; +epēšu[do//doing]V'N$; ša[of]DET; kaspi[silver]N; u
+
+#tr.en: “@i{gul}” means “to do, said of sil[ver” …]
+#note: The entry appears also in @i{Nabnītu} VII 130 (@i{MSL} 16 p. 108).
+6'. !zz e-pe-šu₂ ša₂ KU₃.BABBAR u₃# [KU₃?.GI? ...]
+#lem: epēšu[doing]'N; ša[of]DET; kaspi[silver]N; u[and]CNJ; +hurāṣu[gold]N$hurāṣi; u
+
+#tr.en: “To do, said of silver a[nd @i{gold}” (?) …].
+7'. !qt ul in-ne₂-ep#-[pu-uš !zz ...]
+#lem: ul[not]MOD; +epēšu[do]V$inneppuš; u
+
+#tr.en: “It was not do[ne …” (= quotation from unknown text) …]
+8'. !cm ri-si-it#-[tu₂ ...]
+#lem: +risittu[soaking]N$; u
+
+#tr.en: “Soaked ma[lt …],
+#note: Note sún(GUL).a.sur.ra = @i{risittu} in @i{Ḫarra} XXIII iii 17.
+9'. !cm ši-ip-pu# [...]
+#lem: X; u
+
+#tr.en: … […]
+#note: It is uncertain whether the word should be read as @i{šippu}, @i{šibbu}, @i{šīpu}, @i{vel sim}.
+10'. !zz x# x# [...]
+#lem: u; u; u
+
+#tr.en: … […]
+
+@reverse
+
+1'. !zz ku# [...]
+#lem: X; u
+
+#tr.en: … […]
+2'. !cm ša₂-ki-ru#-[u₂ !zz ...]
+#lem: +šakirû[henbane]N$; u
+
+#tr.en: “Henb[ane” (@i{Aa} VI/4 43) …].
+#note: The logogram for @i{šakirû} is @akk{ŠAKIR(|URU×GU|)} or @akk{ŠAKIR₃(|URU×GA|)}.
+3'. !bs SILIG(|URU×IGI|) : !cm ma-a-a#-[al-tu₂ !zz ...]
+#lem: +mayyaltu[bed]N$; +mayyaltu[bed]N$; u
+
+#tr.en: @i{silig} means “be[d” (@i{Aa} VI/4 ca. 105-106) …].
+#note: @akk{{giš}SILIG(|URU×IGI|)} = @i{mayyāltu} is attested in @i{Ḫarra} V 66.
+4'. !cm su#-ul-hu !zz : x#-[...]
+#lem: +sulhu[part of the hand]N$; u
+
+#tr.en: “Palm” means … […].
+#note: The word @i{sulḫu} (@i{CAD} S 365a) was previously attested only in OB manuscripts of @i{Ugumu} D 22: šu-⸢silig⸣-mu = @i{sú-ul-ḫi} (see SC 2888 vii 24 in Couto @i{Etnoanatomía y partonomía} [2009] pp. 65 and 292). See also AO 5400 (Proto-Aa) ii 30 (@akk{šu?#-ul-hu-um}, @i{MSL} 14 p. 120).
+5'. !zz x#-ru-ka/ne ir-ši [...]
+#lem: u; irši[develop]V; u
+
+#tr.en: … […]
+#note: This line may contain a quotation from a literary text.
+6'. !cm ra-a-hu : ra-hu#-[u₂ !zz ...]
+#lem: X; rahû[pouring out]'N; u
+
+#tr.en: The @i{rāḫu}-sign (i.e., RA read as @i{raḫ}₂) means “to pour out” (@i{raḫ}[@i{û}) (= @i{Aa} VI/4 135-136) …].
+#note: As suggested in @i{MSL} 14 p. 442 note ad 135f., the reading @i{ra-aḫ} should be restored in the first column of @i{Aa} VI/4 135-136.
+7'. !cm ra#-a#-hu# : ša₂ su#-x# :# [...]
+#lem: +riāhu[remain//remaining]V'N$râhu; ša[of]DET; u; u
+
+#tr.en: “To remain” (@i{râḫu}) means … […].
+8'. !zz [x x] x# kul?#-li#-zu?# [...] 
+#lem: u; u; u; X; u
+
+#tr.en: […] … “@i{ox-driver}” (@i{Aa} VI/4 134 (?)) […]
+9'. !zz x# x# (x#) nu?# : tir-ru# [...]
+#lem: u; u; u; X; X; u
+
+#tr.en: … […]
+10'. !zz x# ma₂-ru-ru : x# [...]
+#lem: u; X; u; u
+
+#tr.en: … […]
+#note: Compare perhaps @i{Nabnītu} XXV 263, ĝiš.má ru-ru-gú = @i{šaqû ša eleppi}; although the present word probably refers to @akk{RU}.
+11'. !zz [x] x# ša₂?-an : x# [...]
+#lem: u; u; X; u; u
+
+#tr.en: […] … […]
+12'. !zz [x x] x# : a-me-[lu? ...]
+#lem: u; u; u; amēlu[man]N; u
+
+#tr.en: […] … @i{ma}[@i{n} …].
+13'. !zz [x x x] x# (x#) [...]
+#lem: u; u; u; u; u; u
+
+#tr.en: […] … […]

@@ -1,0 +1,119 @@
+&P461263 = CCP 4.1.3.B (http://ccp.yale.edu/P461263) = BM 55491
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !bs [*] ana# GIG# ina# TE#-ka EN EN₂# [ana SU]-ka# ŠUB{+u₂} ana GIG NU TE[{+hi}]
+#lem: ana[according to]PRP; +marṣu[sick//sick person]AJ'N$marṣi; ina[in]PRP; +ṭehû[be(come) near to//be(com)ing near to]V'N$ṭehīka; adi[until]PRP; šiptu[incantation]N; ana[according to]PRP; zumrika[body]N; tanaddû[lay]V; ana[according to]PRP; +marṣu[sick//sick person]AJ'N$marṣi; lā[not]MOD; +ṭehû[be(come) near to]V$teṭehhi
+
+
+2. !qt %sux en₂ ŋa₂-e lu₂ <{d}>namma-me-en ŋa₂-<e> lu₂ <{d}>nanše#-[me-en !cm %sb ša₂]-niš !qt %sux en₂ ŋa₂-<e> {lu₂}kiŋ₂-gi₄-a diŋir gal-gal#-[e-ne]
+#lem: en[incantation, spell]N; ŋaʾe[I]IP; X; X; ŋaʾe[I]IP; lu[(to be) abundant]V/i; Nanše[1]DN; šanîš[alternatively]AV; en[incantation, spell]N; ŋaʾe[I]IP; kiŋgia[messenger]; diŋir[deity, god, goddess]N; gal[(to be) big, great]V/i
+
+3. %sb !bs SU !cm : zu-u₂-ru : SU : ra-ma-nu : !bs i#-[nar]-ru#-uṭ !cm : i-sal-lih : <SIG₃? :> na-ra-ṭu# [: SIG₃]
+#lem: +zumru[body]N$; +zumru[body]N$; +ramānu[self]N$; +ramānu[self]N$; +narāṭu[sway]V$inarruṭ; +salāhu[jerk]V$isallih; +narāṭu[sway//swaying]V'N$; narāṭu[swaying]'N; +salāhu[jerk//jerking]V'N$
+
+
+#note: @akk{zu-u₂-ru} stands for @i{zumru}. The same explanation (@akk{SU} = @i{zumru}, @akk{SU} = @i{ramānu}) can be found in DT 35 l. 7 (@i{CCP} 3.8.2.B), @akk{SU : zu-mur : SU : ra-{(he-pí)}-<ma-nu>}.
+
+4. !cm se-le-eh : !bs ne-ʾa-a !cm : nu-uh-ha :?# TU?#.LU# : ne₂-ʾu-u₂ : TU.LU : ra-[mu-u₂]
+#lem: +salāhu[jerk//jerking]V'N$seleh; +nâhu[rest//resting]V'N$nêʾa; +nâhu[rest//resting]V'N$nuhhu; +nêʾu[turn back//turning back]V'N$nêʾa; +nêʾu[turn back//turning back]V'N$; +ramû[slacken//slackening]V'N$; +ramû[slacken//slackening]V'N$
+
+
+#note: @i{salāḫu} = @i{narāṭu} is atteted in the commentary @i{SpTU} 1 72 r 3 (@i{CCP} 3.6.3.E). Compare @i{Lanu} B 21-22 (@i{CT} 19 11 r ii 24′-25′): @akk{TU.UL} = @i{nêʾu}, @i{ramû}.
+5. !bs la ha-ah-ša₂ !cm : i-<da>-at! SAG.<KI>-MIN-šu₂ em-mu : ša₂-niš la UH₂?#-ha-šu₂ : la ṣar-ha-aš₂ : UH₂# [: ṣa-ra-hu]
+#lem: +lā[not]MOD$; +hahhašum[hot]AJ$; +idu[arm]N$idāt; +nakkaptu[brow]N$nakkapātīšu; +emmu[hot]AJ$; šanîš[alternatively]AV; +lā[not]MOD$; +ṣarhu[hot]AJ$ṣarḫašu; +lā[not]MOD$; +ṣarhu[hot]AJ$ṣarḫaš; +ṣarāhu[heat up//heating up]V'N$; +ṣarāhu[heat up//heating up]V'N$
+
+#note: In @i{Sagig} 3 6 the line is ¶ @akk{UGU-šu₂ KUM₂{+em} u SAG.KI-MIN-šu₂ KUM₂ la-ah-ha-ha-ša₂}, which is apparently interpreted by the commentator as “if his skull is hot and his forehead is warm (around) around its @i{laḫḫāḫu}.”
+
+6. !cm lib₃-bu-u₂ !bs %sux niŋ₂ izi-ba-zu-ta#/uš sug-ge uh₂-ba šu ha-an?#-tag!?#-ga-e hu-uz x [x x]
+#lem: libbū[from out of]PRP; X; X; X; X; X; X; X; u; u; u
+
+
+#note: Quotation from unknown source.
+7. !cm ša₂ GI.NU.TAG.GA{+u} qa-bi : !qt %sux šag₄ ib₂-ba-ke₄-e-ne nam#-x# x# x# x# x# [x x]
+#lem: ša[that]REL; +ginutaqqû[series ginutaqqû]N$; qabi[said]AJ; šag[heart]N; +ib[angry]V/i/ib₂+-ba=b.a#~;a&ak[do]V/t/b°a-k·e₄#~;*a.ene; u; u; u; u; u; u; u
+
+#note: A text entitled @i{Ginutaqqû} is mentioned in the @i{Exorcist’s Manual} l. 3, but nothing is known of it.
+8. !qt ina ug-ga-tu₄ lib₃-bi-šu₂-nu u₂-ša₂-as-su-u₂ ṣi-ri-ih#-[tu₄ !zz x x x x x x x]
+#lem: ina[at]PRP; +uggatu[rage]N$; libbišunu[heart]N; +nesû[be distant//remove]V'V$ušassû; +ṣirihtu[inflammation]N$; u; u; u; u; u; u; u
+
+
+#note: Lines 7′-8′ contain a literary quotation from a bilingual source, but it does not seem to be elsewhere attested (see @i{CAD} U/W 37).
+9. !bs bir-ta A₂-šu₂ !cm : bi-rit nag-la-ba#-šu# !zz [...]
+#lem: birta[space between]N; idišu[arm]N; birīt[space between]N; +naglabu[razor//hip]N'N$naglabašu; u
+
+#note: Compare @i{STT} 403 o 18 (CCP 4.1.1.D)(comm. SA.GIG 1-3): @akk{bir-ti# A₂-MIN-šu₂ : bi-rit MAŠ.SILA₃-MEŠ-šu₂} (= @i{naglabī}) [courtesy of Eric Smidtchen].
+
+10. x x x x x x [...]
+#lem: u; u; u; u; u; u; u
+
+
+@reverse
+
+@colophon
+
+0'. !zz [... la lib₃-bi]
+#lem: u; la[from]PRP; libbi[heart]N
+
+
+1'. !zz la u₂-šel-liš ša₂ GIŠ-šu₂ a-na# [ITI?-šu₂?]
+#lem: lā[not]MOD; ušēlīš[remove]V; ša[concerning]DET; +našû[lift]V$inaššīšu; ana[according to]PRP; arhišu[first day of month]N
+
+
+2'. !zz ana EN-šu₂ GUR-šu₂ E{ki} {iti}APIN U₄ 9#.KAM#
+#lem: ana[according to]PRP; bēlšu[owner]N; itâršu[turn]V; Babilu[Babylon]SN; Arahsamnu[1]MN; ūmu[day]N; n
+
+
+3'. !zz MU 46.KAM {m}an-ti-ʾu-uk#-su LUGAL [GAL]
+#lem: ašša[because]PRP; n; +Antiochus[]RN$; šarru[king]N; rabû[great]AJ
+
+
+4'. !zz u# {m}an-ti-ʾu-uk-su A#-šu₂ LUGAL-[MEŠ]
+#lem: u[and]CNJ; Antiochus[1]RN; apalšu[descendant]N; šarrī[king]N
+
+
+
+@translation parallel en project
+
+@obverse
+
+@label o 1 - o 3
+
+“[If] you are to approach a sick person, until you cast an incantation [upon] your[self] (@i{ina} SU-@i{ka}), do not appro[ach] the sick person” (= @i{Sagig} III 1). (o 2) (The incantation in question is) the incantation “I am the man of Namma, I am the man of Nanše” (= @i{Udugḫul} III 124). Alternatively, it is the incantation “I am the messenger of the great gods” (= @i{KAR} 31 and duplicates). (o 3) SU means “body,” SU means “oneself.”
+
+@label o 3 - o 4
+
+(o 3) “He quivers” (= @i{Sagig} III 3) means “he has spasms,” since <SÌG means> “to quiver” means “to have spasms.”
+
+@label o 4
+
+(o 4) @i{ne-ʾa-a} (= @i{Sagig} III 5) means “calm” (@i{nuḫḫu}); T[U.L]U (?) means “to loosen” (@i{nêʾu}) and TU.LU means “to slacken” (@i{ra}[@i{mû}]).
+
+@label o 5 - o 8
+
+(o 5) @i{la-ḫa-aḫ-ša₂}” (= @i{Sagig} III 6) means “the @i{sides} of his temples are warm”; alternatively, la ⸢ÚḪ⸣?-@i{ḫa-šú} means “it is not hot for him,” (since) ÚḪ [(means) “to be hot], (o 6) as in @i{izibazta suge úḫba šuḫa}[@i{n}?@i{ta}]@i{g}?@i{gaʾe ḫuz} … […], (o 7) it is said (o 6) […] (o 7) from (the text entitled) @i{Ginutaqqû}. (As in) @i{šaʾibbakede nam}[…] …, (in Akkadian) “in the rage of their heart, they removed the inf[lamation” …] (= quotation from unknown bilingual text).
+
+@label o 9
+
+(o 9) The “between his arms” (= @i{Sagig} III 9) means “between his shoulders” [… (o 10) …].
+
+@label o 10
+
+...
+
+@reverse
+
+@colophon
+
+@label r 0' - r 2'
+
+(r 0) [He who reveres @i{Marduk}] (r 1′) shall not remove it (sc. the tablet) (r 0) [from within]. Whoever takes it should return it (r 2′) to its owner (r 1′) [within a month].
+
+@label r 2' - r 4'
+
+(r 2′) Babylon, 9th of Araḫsamnu (r 3′) of the 46th year of (r 4′) kings (r 3′) Antiochus, the [great] king, (r 4′) and Antiochus, his [son].

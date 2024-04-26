@@ -1,0 +1,94 @@
+&P470005 = CCP 4.3.u4 (http://ccp.yale.edu/P470005) = BM 39440
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x#-uš-tu₄ x# [...]
+#lem: u; u; u; u
+
+#note: Perhaps @i{maruštu}?
+2'. !zz [...] ši-si-tu₄ x# [...]
+#lem: u; +šisītu[cry]N$; u; u
+
+3'. !zz [...] x# !cm ana re-hu-u !zz : še-[...]
+#lem: u; u; ana[according to]PRP; +rehû[pour out//pouring out]V'N$; u
+
+#note: Perhaps @i{Sagig} XIV ii 26 (@i{TDP} 134) @i{tarḫat}?
+4'. !zz [... !bs ({uzu})ŠA₃].GI₆ !cm : ṭu-li-mu !zz : [...]
+#lem: u; +ṭulīmu[spleen]N$; +ṭulīmu[spleen]N$; u
+
+#note: @i{Sagig} XXII 28.
+5'. !zz [...] x-nin : !bs GAM !cm : ka-[ma-ṣu ...]
+#lem: u; u; +kamāsu[kneel//kneeling]V'N$; +kamāsu[kneel//kneeling]V'N$; u
+
+#note: Alternatively, both @akk{ka-[pa-pu ...]} and @akk{ka-[na-šu]} could be restored.
+
+6'. !zz [...] !cm :# man-za-az-tu₄ !zz : su-u₂-x# [...]
+#lem: u; +mazzaztu[position]N$; u; u
+
+7'. !zz [...] giš-gi-nu-u₂ : giš-gi#-[...]
+#lem: u; +gišginû[clamp]N$; u
+
+8'. !zz [...]-u₂ : !cm {+ba₃-e}KU !cm : te-ṣu-u₂# !zz [...]
+#lem: u; +teṣû[defecate//defecating]V'N$; +teṣû[defecate//defecating]V'N$; u
+
+#note: The equation ba-e (|| bé-e, bi-id, še-e) KU = @i{tezû} is attested in Proto-Aa (@i{MSL} 14 141 no. 19 l. 27, see @i{CAD} T). The verb @i{tezû} is attested in @i{Sagig} X r 3 (@i{TDP} 86), XIII 42' (@i{TDP} 114), XIV ii 12-14 (@i{TDP} 132), and XIV iii 48' (@i{TDP} 140).
+9'. !zz [... !bs pa]-ar-da !cm : gal-ta : !bs MUD !cm [: pa-la-hu : !bs MUD !cm : ga-la-tu₂ ...]
+#lem: u; +pardu[afraid]AJ$pardā; +galtu[fearful]AJ$galtā; +palāhu[fear//fearing]V'N$; +palāhu[fear//fearing]V'N$; +galātu[tremble//trembling]V'N$; +galātu[tremble//trembling]V'N$; u
+#note: The restorations of the line are courtesy of H. Stadhouders. Compare @akk{IGI-MIN-šu₂ par₂-da} in @i{Sagig} XII 112′′.
+
+10'. !zz [...]-x#-gal-zi la-ni x x [...]
+#lem: u; lāni[body]N; u; u; u
+
+#note: The first preserved word may be a Kassite plant name, such as @i{habigalzu}, @i{kabittigalzu}, or @i{šagabigalzu}.
+11'. !zz [...] x-mu [...]
+#lem: u; u; u
+
+@reverse
+
+1'. !zz [... !bs {u₂}ŠIM].EREN# !cm : li-piš-tu₄ !zz : x x x [...]
+#lem: u; +lipištu[a plant]N$; +lipištu[a plant]N$; u; u; u; u
+
+#note: The equation of the plant @i{lipištu} with @akk{{ú.šim}EREN} is attested in Uruanna III 426 and elsewhere (see CAD L 199a). In @i{Sagig}, @i{lipištu} is attested only in @i{Sagig} XIV ii 52 (@i{TDP} 136).
+2'. !zz [... !bs GISSU !cm : ṣi]-il?#-li : sim-mu ša₂ IGI-MEŠ-šu₂ ṣab-ru !zz : [...]
+#lem: u; ṣilli[shade]N; +ṣillu[shade]N$ṣilli; +simmu[wound]N$; ša[of]DET; īnūšu[eye]N; +ṣabru[blinked]AJ$; u
+
+#note: Cf. GISSU, @i{Sagig} XVI 21-23? H. Stadhouders (@i{privatim}) suggests translating “a lesion that narrows his eyesight.”
+3'. !zz [... !bs ka-lit zik]-ra#-tu-šu₂ !cm : ša₂-niš iš-ka-a-šu₂ : !bs SA.GIG !cm :# [...]
+#lem: u; +kalītu[kidney]N$kalīt; +zikrūtu[manliness]N$zikrātūšu; šanîš[alternatively]AV; +išku[testicle]N$iškāšu; kissatu[(an illness)]N; u
+
+#note: Compare @i{Sagig} XIV ii 69 (@i{TDP} 138), @i{kalīt zikartīšu}. Compare SA.GIG in @i{Sagig} XIV iii 38' (@i{TDP} 140).
+4'. !zz [...] !bs x-tu₄?# !cm : dan-nu : !bs GAL !cm : šep-ṣi : !bs ri-bit-[su !cm ...]
+#lem: u; u; dannu[strong]AJ; +šapṣu[recalcitrant]AJ$; +šapṣu[recalcitrant]AJ$šepṣi; +rebītu[abdomen]N$ribissu; u
+
+#note: Compare @i{šap-ṣu} = @i{dannu} in the Theodicy commentary (o 16). It may be a notarikon analysis of SA.GAL (@i{Sagig} XIV iii 39'). Compare @i{ri-bit-su} e.g. in @i{Sagig} XIV iii 42'-57' (@i{TDP} 140).
+5'. !zz [...] x x x x x [...]
+#lem: u; u; u; u; u; u; u
+
+@translation parallel en project
+
+@obverse
+
+1'. …
+2'. […] “cry …” […]
+3'. […] derives from “to pour our.” […]
+4'. [… ŠÀ].GI₆ means “spleen” […],
+5'. […] … GAM means “to prost[rate” …]
+6'. […] means “position” … […]
+7'. […] a clamp … […]
+8'. […] … and KU, read /be/, means “to defecate.” […] 
+9'. [… “afr]aid” means “fearful,” (since) @i{mud} [means “to fear” (and) @i{mud} means “to be fearful” …]
+10'. […] … @i{figure} … […]
+11'. … 
+
+@reverse
+
+1'. [… @sup{ú.šim}]EREN means @i{lipištu}-plant, … […]
+2'. [… GISSU means] “shadow,” (i.e.) a wound of one who blinks his eyes. […]
+3'. [… means the “kidneys of his mas]culinity,” alternatively, it means “his testicles.” SA.GIG means […]
+4'. […] … means “strong,” GAL means “obstinate.” “[His] abdomen” […]
+5'. …

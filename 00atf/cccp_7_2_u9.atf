@@ -1,0 +1,88 @@
+&P391353 = CCP 7.2.u9 (http://ccp.yale.edu/P391353) = A 1596
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@column 1'
+
+1'. !zz [...]-x#-x#
+#lem: u
+
+#tr.en: […] …
+2'. !zz [...]-x#
+#lem: u
+
+#tr.en: […] …
+3'. !zz [...]-ru#
+#lem: u
+
+#tr.en: […] …
+4'. !zz [...]-tu₂
+#lem: u
+
+#tr.en: […] …
+5'. !zz [...]-ra
+#lem: u
+
+#tr.en: […] …
+6'. !zz [...]-x#
+#lem: u
+
+#tr.en: […] …
+7'. !zz [...]-tam-me?#
+#lem: u
+
+#tr.en: […] …
+8'. !zz [...]-ru-šu₂
+#lem: u
+
+#tr.en: […] …
+9'. !zz [...]-ši
+#lem: u
+
+#tr.en: […] …
+
+@column 2'
+
+1'. !zz ir#-[...]
+#lem: u
+
+#tr.en: … […]
+2'. !zz x# x# [...]
+#lem: u; u; u
+
+#tr.en: … […]
+3'. !bs kap-pa-a !zz [...]
+#lem: +kappu[wing]N$kappā; u
+
+#tr.en: Wings […]
+4'. !zz nam-[...]
+#lem: u
+
+#tr.en: … […]
+5'. !bs da-pi-in# !zz [...]
+#lem: +dapīnu[overbearing]AJ$dapīn; u
+
+#tr.en: @i{Fierce} […]
+6'. !zz ir-ta-x# [...]
+#lem: u; u
+
+#tr.en: … […]
+7'. !zz sa?#-[...]
+#lem: u
+
+#tr.en: … […]
+8'. !zz u₂-gaṣ-x# [...]
+#lem: u; u
+
+#tr.en: … […]
+9'. !zz giš-[...]
+#lem: u
+
+#tr.en: … […]
+10'. !zz x# x# [...]
+#lem: u; u; u
+
+#tr.en: … […]

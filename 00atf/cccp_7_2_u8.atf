@@ -1,0 +1,36 @@
+&P237396 = CCP 7.2.u8 (http://ccp.yale.edu/P237396) = 83-1-18,727
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x# : x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+2'. !zz [...] x x# ap/nap-pu-hu : biš-ši GAZI{sar} : pa#-[...]
+#lem: u; u; u; X; +biššu[rue]N$; kasâ[mustard]N; u
+
+3'. !zz [...] x#-ša₂-a# : ṣal-pi x# ma?#-ri-i : zu-uz-zu-lu : e#-[...]
+#lem: u; u; X; u; +marû[fattened]AJ$marî; X; u
+
+4'. !zz [...] x# x#-qa : u₂-šab : u?#-šab-bil pi#-x#-[...]
+#lem: u; u; u; uššab[sit (down)]V; +wabālu[carry]V$ušabbil; u
+
+5'. !zz [...]-x#-ru?# : !bs ki-ra-du !cm : bi-ʾ-il-tu₂ !zz : x# [...]
+#lem: u; +kirādu[kir=adu]N$; +biʾiltu[(a container)]N$; u; u
+
+#note: Compare perhaps the equation n @i{Malku} II 244a: @i{bi-ṣil{ṣi-il}-tú} : @i{kirād šamni}.
+6'. !zz [...]-x#-x# : !bs pu-na-ni !cm : x# [...]
+#lem: u; +punānu[(a plant)]N$punāni; u; u
+
+#note: The @i{punānu}-plant, si vera lectio, is only attested in BAM 245 18 (CAD P 511).
+
+@translation parallel en project
+
+1'. ...
+2'. [...] ... : the @i{bišši} plant, mustard, [...].
+3'. ...
+4'. ...
+5'. [...] a @i{kirādu}-container is a @i{biʾiltu}-container [...].
+6'. [...] @i{punānu}-plant [...]

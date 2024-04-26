@@ -1,0 +1,47 @@
+&P345989 = CCP 7.2.u74 (http://ccp.yale.edu/P345989) = K.13654
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !bs [...] & [x x]-lu₄
+#lem: u; u; u
+
+2'. !bs [x x x] & !cm [x]-pa-ru₃
+#lem: u; u; u; u
+
+3'. !bs [x x x] & !cm qaq#-qa-ru
+#lem: u; u; u; qaqqaru[ground]N
+
+4'. !bs [x x x] & !cm su-un-nu-nu
+#lem: u; u; u; +sanānu[make flow//making flow]V'N$sunnunu
+
+5'. !bs [x x]-ru₃?# & !cm ka-ša₂-šu
+#lem: u; u; +kašāšu[gain control of//gaining control of]V'N$
+#note: Compare BM 38273 3 (CCP 7.2.u26): @i{kašāšu} = @i{sapānu}.
+6'. !bs [x x]-bu & !cm le-e-mu
+#lem: u; u; +lêmu[consume//consuming]V'N$
+
+7'. !bs [x]-x#-tu₄# & !cm ma-aʾ-u₂
+#lem: u; +mâʾu[vomit//vomiting]V'N$
+
+8'. !bs [x]-x#-tu₄ & !cm as-mu#
+#lem: u; +wasmu[fitting]AJ$asmu
+
+9'. !bs [x x x] & !cm ik-[x]
+#lem: u; u; u; u
+
+$(end of column)
+
+@translation parallel en project
+
+1'. ...
+2'. ...
+3'. [...] means "earth."
+4'. [...] means "to pour."
+5'. [...] means "to master."
+6'. [...] means "to take food."
+7'. [...] means "to vomit."
+8'. [...] means "fitting."
+9'. ...

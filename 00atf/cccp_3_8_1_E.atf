@@ -1,0 +1,567 @@
+&P500448 = CCP 3.8.1.E (http://ccp.yale.edu/P500448) = BM 50634
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+@column 1
+
+1'. !bs {iti}BARA₂ {iti}GU₄# [{iti}SIG₄]
+#lem: Nisannu[1]MN; Ayyaru[1]MN; Simanu[1]MN
+
+#tr.en: Nisannu (I), Ayyaru (II), Simānu (III)
+2'. !bs {iti}ŠU {iti}NE {iti#}KIN#
+#lem: Duʾuzu[1]MN; Abu[1]MN; Ululu[1]MN
+
+#tr.en: Duʾūzu (IV), Abu (V), Ulūlu (VI)
+3'. !bs {iti}DU₆ {iti}APIN {iti}GAN
+#lem: Tašritu[1]MN; Arahsamnu[1]MN; Kislimu[1]MN
+
+#tr.en: Tašrītu (VII), Araḫsamnu (VIII), Kislīmu (IX)
+4'. !bs {iti}AB {iti}ZIZ₂ {iti#}ŠE#
+#lem: Ṭebetu[1]MN; Šabaṭu[1]MN; Addaru[1]MN
+
+#tr.en: Ṭebētu (X), Šabāṭu (XI), Addaru (XII)
+
+$ single ruling
+5'. !bs * UŠ₈ E₂ BAD-ma SIG₄ ŠUB{+di}
+#lem: uššī[foundation(s)]N; bīti[temple]N; iptēma[open]V; libitta[mudbrick]N; iddi[utter]V
+
+#tr.en: “If he opens the foundations of a house and lays a brick” (@i{Iqqur īpuš} §1).
+6'. !bs * ina {iti}ŠU E₂ BI SUMUN{+bar}
+#lem: ina[in]PRP; Duʾuzu[1]MN; bīta[household]N; šū[that]IP; +labāru[be(come) old]V$ilabbar
+
+#tr.en: In (the month) Duʾūzu (IV), that house will grow old.
+#note: Elsewhere the apodosis for Duʾūzu is @akk{É BI DINGIR TUKU{+ši}}. Note that @akk{SUMUN{+bar}} looks like @akk{aš-ši}.
+7'. !bs * ina {iti}NE E₂ BI DUMU-ME TUKU{+ši}
+#lem: ina[on]PRP; Abu[1]MN; bīta[household]N; šū[that]IP; mārū[son]N; irašši[acquire]V
+
+#tr.en: In (the month) Abu (V), that house will have children.
+#note: See @i{Šumma ālu} V 8.
+8'. !bs * ina {iti}DU₆ DINGIR-šu₂ ana {munus}SIG₅
+#lem: ina[in]PRP; Tašritu[1]MN; ilišu[god]N; ana[according to]PRP; +damiqtu[good]N$damiqti
+
+#tr.en: In (the month) Tašrītu (VII), his god will continuously 
+9'. ($___$) !bs UŠ-MEŠ-šu₂
+#lem: irteneddešu[pursue]V
+
+#tr.en:     escort him with care.
+#note: See @i{Šumma ālu} V 11.
+10'. !bs * ina {iti}APIN mim-mu-šu₂ ana IGI-šu₂
+#lem: ina[in]PRP; Arahsamnu[1]MN; mimmûšu[all]N; ana[according to]PRP; pānīšu[face]N
+
+#tr.en: In (the month) Araḫsamna (VIII), his possessions 
+11'. ($___$) !bs DU{+ak}
+#lem: illak[flow]V
+
+#tr.en:      will grow larger.
+#note: See @i{Šumma ālu} V 12.
+12'. !bs * ina {iti}ŠE A₂.TUKU TUKU{+ši}
+#lem: ina[in]PRP; Addaru[1]MN; nēmela[profit]N; irašši[acquire]V
+
+#tr.en: In (the month) Addaru (XII), he will gain profit.
+#note: See @i{Šumma ālu} V 16.
+$ single ruling
+
+13'. !bs * E₂ DU₃{+uš} !cm ša₂ {giš}IG i-zaq-qa-pu
+#lem: bīta[house]N; īpuš[do]V; ša[that]REL; dalti[door]N; izaqqapu[fix upright]V
+
+#tr.en: “If he builds a house” (= @i{Iqqur īpuš} §5) (refers to the man) who erects a door.
+14'. !bs * ina {iti}SIG₄ ŠA₃.HUL₂.LA
+#lem: ina[in]PRP; Simanu[1]MN; hūd[happiness]N&libbi[belly]N
+
+#tr.en: In (the month) Simānu (III), (there will be) happiness.
+#note: See @i{Šumma ālu} V 36.
+15'. !bs * ina {iti}ŠU E₂ BI SUMUN{+bar}
+#lem: ina[in]PRP; Duʾuzu[1]MN; bīta[household]N; šū[that]IP; ilabbar[be(come) old]V
+
+#tr.en: In (the month) Duʾūzu (IV), that house will grow old.
+#note: See @i{Šumma ālu} V 37.
+16'. !bs * ina {iti}NE lib₃-bi DUG₃.GA
+#lem: ina[on]PRP; Abu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Abu (V), (there will be) gladdening of the heart.
+#note: See @i{Šumma ālu} V 38.
+17'. !bs * ina {iti}DU₆ lib₃-bi  DUG₃.GA
+#lem: ina[in]PRP; Tašritu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Tašrītu (VII), (there will be) gladdening of the heart.
+#note: See @i{Šumma ālu} V 40 (var.)
+18'. !bs * ina {iti}APIN mim-mu-šu₂ ana IGI-šu₂ DU{+ak}
+#lem: ina[in]PRP; Arahsamnu[1]MN; mimmûšu[all]N; ana[according to]PRP; pānīšu[face]N; illak[flow]V
+
+#tr.en: In (the month) Araḫsamna (VIII), his possessions will grow larger.
+19'. !bs * ina {iti}ZIZ₂ DU₃{+eš} E₂
+#lem: ina[in]PRP; Šabaṭu[1]MN; epēš[building]'N; bīti[house]N
+
+#tr.en: In (the month) Šabāṭu (XI), building of a house.
+20'. !bs * ina {iti}ŠE DU₃{+eš} E₂
+#lem: ina[in]PRP; Addaru[1]MN; epēš[building]'N; bīti[house]N
+
+#tr.en: In (the month) Addaru (XII), building of a house.
+$ single ruling
+
+21'. !bs * E₂ iq-qur !cm ša₂ SUMUN KUR₂-ma GIBIL / DU₃{+uš}
+#lem: bītu[house]N; iqqur[demolish]V; ša[of]DET; +labiru[old]AJ$labira; inakkirū-ma[be(come) different]V; eššu[new]AJ; eppuš[accomplishing]'N
+
+#tr.en: “If he tears down a house” (= @i{Iqqur īpuš} §7) (refers to the man) who removes an old (house) and builds a new one.
+22'. !bs * ina {iti}GU₄ E₂ BI DAGAL{+iš#}
+#lem: ina[in]PRP; Ayyaru[1]MN; bīta[household]N; šū[that]IP; irappiš[expand]V
+
+#tr.en: In (the month) Ayyāru (II), that house will expand.
+23'. !bs * ina {iti}ŠU DU₈ HUL#
+#lem: ina[in]PRP; Duʾuzu[1]MN; +paṭāru[loosen//loosening]V'N$paṭār; lumun[evil]N
+
+#tr.en: In (the month) Duʾūzu (IV), evil will be dissolved.
+24'. !bs * ina {iti}AB lib₃-bi  DUG₃#.[GA]
+#lem: ina[in]PRP; Ṭebetu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Ṭebētu (X), (there will be) gladdening of the heart.
+25'. !bs * ina {iti}ZIZ₂ DU₃{+uš#} [E₂]
+#lem: ina[in]PRP; Šabaṭu[1]MN; eppuš[accomplishing]'N; bīti[house]N
+
+#tr.en: In (the month) Šabāṭu (XI), a house will be built.
+26'. !bs * ina {iti}ŠE DU₈# [HUL]
+#lem: ina[in]PRP; Addaru[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: In (the month) Addaru (XII), [evil] will be dissolved.
+$ single ruling
+
+27'. !bs * E₂ i-ṣi !cm ša₂ si#-i#-ri# i#-hal#-[la-šu₂]
+#lem: bīta[house]N; +naṣû[tear down]V$iṣi; ša[of]DET; sīri[(wall-)plaster]N; +halāšu[scrape off]V$ihallašu
+
+#tr.en: “If he tears down a house” (= @i{Iqqur īpuš} §8) (refers to the man) who scrapes off the wall-plaster.
+28'. !bs * ina {iti}GU₄ lib₃-bi DUG₃.GA
+#lem: ina[in]PRP; Ayyaru[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Ayyāru (II), (there will be) gladdening of the heart.
+29'. !bs * ina {iti}KIN E₂ BI SUMUN{+bar#}
+#lem: ina[in]PRP; Ululu[1]MN; bīta[household]N; šū[that]IP; ilabbar[be(come) old]V
+
+#tr.en: In (the month) Elūlu (VI), that house will grow old.
+#note: Compare @i{BE} 17 23: 15ff (MB letter).
+30'. !bs * ina {iti}DU₆ lib₃-bi DUG₃#.[GA]
+#lem: ina[on]PRP; Tašritu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Tašrītu (VII), (there will be) gladdening of the heart.
+31'. !bs * ina {iti}ZIZ₂ DU₃#{+eš#} E₂#
+#lem: ina[in]PRP; Šabaṭu[1]MN; epēš[building]'N; bīti[house]N
+
+#tr.en: In (the month) Šabāṭu (XI), a house will be built.
+32'. !bs * ina {iti}ŠE DU₈# HUL#
+#lem: ina[in]PRP; Addaru[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: In (the month) Addaru (XII), evil will be dissolved.
+$ single ruling
+
+33'. !bs * E₂ is-suh !cm ša₂ lib₃-bi E₂
+#lem: bīta[house]N; issuh[clear out]V; ša[of]DET; libbi[concern]N; bīti[house]N
+
+#tr.en: “If he tears out a house” (= @i{Iqqur īpuš} §9) (refers to the man) who digs deep
+34'. ($___$) !bs u₂-šap#-pa#-lu₄				
+#lem: +šapālu[be(come) deep]V$ušappalu
+
+#tr.en:      the interior of the house.
+35'. !bs * ina {iti}GU₄ lib₃#-bi# DUG₃.GA
+#lem: ina[in]PRP; Ayyaru[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Ayyāru (II), (there will be) gladdening of the heart.
+
+$(end of column 1)
+
+@column 2
+
+$ 3 lines missing
+
+1'. !bs * ina [{iti}ŠE DU₈ HUL]
+#lem: ina[in]PRP; Addaru[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: In (the month) Addaru (XII), evil will be dissolved.
+$ single ruling
+
+2'. !bs *# E₂# tam?#-la?#-a?# [SA₅ !cm ša₂ ŠA₃ E₂-šu₂ šap-lu₄]
+#lem: bīt[house]N; tamlâ[terrace]N; mali[full]AJ; ša[who]REL; libbi[concern]N; bītišu[household]N; šaplu[low(er)]AJ
+
+#tr.en: “If [he fills out] the platform of a house” (= @i{Iqqur īpuš} §10) [(refers to the man) who fills out the interior of his house(, which was) low,]
+3'. !bs x x [...]						
+#lem: u; u; u
+
+#tr.en: … […]
+4'. !bs x x [...]
+#lem: u; u; u
+
+#tr.en: … […] 
+5'. !bs * [ina {iti}ŠU lib₃-bi DUG₃.GA]
+#lem: ina[in]PRP; Duʾuzu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: [In (the month) Duʾūzu (IV), (there will be) gladdening of the heart.]
+6'. !bs * [ina {iti}NE lib₃-bi DUG₃.GA]
+#lem: ina[in]PRP; Abu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: [In (the month) Abu (V), (there will be) gladdening of the heart.]
+7'. !bs * [ina {iti}KIN E₂ BI SUMUN{+bar}]
+#lem: ina[in]PRP; Ululu[1]MN; bīta[household]N; šū[that]IP; ilabbar[be(come) old]V
+
+#tr.en: [In (the month) Elūlu (VI), that house will grow old.]
+8'. !bs * [ina {iti}APIN DU₈ HUL]
+#lem: ina[on]PRP; Arahsamnu[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: [In (the month) Araḫsamna (VIII), evil will be dissolved.]
+9'. !bs * [ina {iti}ŠE E₂ BI LIBIR.RA]
+#lem: ina[in]PRP; Addaru[1]MN; bīta[household]N; šū[that]IP; +labāru[be(come) old]V$ilabbar
+
+#tr.en: [In (the month) Addaru (XII), that house will grow old.]
+$ single ruling
+
+10'. !bs * E₂-[su KUR₂{+ir} !cm ša₂ la-pan GISKIM]
+#lem: bīssu[household]N; inakkir[change]V; ša[of]DET; +lapāni[in front of]PRP$lapān; itti[sign]N
+
+#tr.en: [“(If) he] changes [his house]” (= @i{Iqqur īpuš} §11) (refers to the man) who, fleeing bad omens,
+11'. ($___$) !cm E₃-ma ana E₂#-[šu₂ MAN-ma ir-ru-bu]
+#lem: uṣṣima[leave]V; ana[according to]PRP; bītišu[household]N; šanûmma[(an)other]AJ; irrubu[enter]V
+
+#tr.en:      leaves (his house) and [enters another] house [of his].
+12'. !bs * ina {iti}SIG₄ ZARAH# ina SU NA [DU₈]
+#lem: ina[in]PRP; Simanu[1]MN; +nissatu[wailing]N$; ina[in]PRP; +zumru[body]N$zumur; amēli[man]N; +paṭāru[loosen]V$ippaṭṭar
+
+#tr.en: In (the month) Simānu (III), lamentation will leave the man‘s body.
+13'. !bs * ina {iti}APIN DU₈ HUL
+#lem: ina[in]PRP; Arahsamnu[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: In (the month) Araḫsamna (VIII), evil will be dissolved.
+14'. !bs * ina {iti}ZIZ₂ DU₈ HUL
+#lem: ina[in]PRP; Šabaṭu[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: In (the month) Šabāṭu (XI), evil will be dissolved.
+15'. !bs * ina {iti}ŠE UGU EN INIM-šu₂ GUB{+za}
+#lem: ina[in]PRP; Addaru[1]MN; eli[on]PRP; +bēlu[lord]N$bēl; +awātu[word]N$amātīšu; izzazzā[stand out]V
+
+#tr.en: In (the month) Addaru (XII), that man will prevail over his litigant.
+$ single ruling
+
+16'. !bs * ana E₂-šu₂ MAN-ma KUR₂{+ir} !cm ša₂ la GISKIM
+#lem: ana[according to]PRP; bītišu[household]N; šanûmma[(an)other]AJ; inakkir[change]V; ša[of]DET; lā[not]MOD; itti[sign]N
+
+#tr.en: “If he changes into another house of his” (= @i{Iqqur īpuš} §12) (refers to the man) who, without any omen
+17'. ($___$) !cm ša₂# x# x# x# ana E₂ MAN-ma DIB{+qu}
+#lem: ša[of]DET; u; u; u; ana[into]PRP; bīt[house]N; šanûmma[(an)other]AJ; ittiqu[pass by]V
+
+#tr.en: … crosses over into another house.
+18'. !bs [* ina {iti}GU₄] lib₃-bi DUG₃.GA
+#lem: ina[in]PRP; Ayyaru[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: [In (the month) Ayyāru (II),] (there will be) gladdening of the heart.
+19'. !bs [* ina {iti}SIG₄] ZARAH# ina SU NA DU₈
+#lem: ina[in]PRP; Simanu[1]MN; nissatu[wailing]N; ina[in]PRP; zumur[body]N; amēli[man]N; +paṭāru[loosen]V$ippaṭṭar
+
+#tr.en: [In (the month) Simānu (III), lamen]tation will leave the man‘s body.
+20'. !bs [* ina {iti}KIN/APIN? DU₈] HUL
+#lem: ina[in]PRP; X; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: [In (the month) Elūlu (VI) / Araḫsamna (VIII),] evil [will be dissolved.]
+21'. !bs [* ina {iti}ZIZ₂] DU₈# HUL
+#lem: ina[in]PRP; Šabaṭu[1]MN; paṭār[loosening]'N; lumun[evil]N
+
+#tr.en: [In (the month) Šabāṭu (XI),] evil [will be disso]lved.
+22'. !bs [* ina {iti}ŠE UGU EN] INIM?#-šu₂?# GUB?#[{+za?}]
+#lem: ina[in]PRP; Addaru[1]MN; eli[on]PRP; bēl[lord]N; amātīšu[word]N; izzazzā[stand out]V
+
+#tr.en: [In (the month) Addaru (XII), that man will] @i{prevail} [over] his [lit]igant.
+
+$(traces only preserved, badly effaced)
+
+$(end of column 2)
+
+$(columns 3-5 of the obverse are not preserved)
+
+@reverse
+
+$(column 6 is not preserved)
+
+@column 7
+
+$(several lines are missing)
+
+1'. !bs x# [...]
+#lem: u; u
+
+#tr.en: … […]
+$ single ruling
+
+2'. !bs * E₂?# [x x x x (x x)]
+#lem: bīt[house]N; u; u; u; u; u; u
+
+#tr.en: If @i{a house} […].
+3'. !bs {iti}x# [x x x x (x x)]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: Month … […],
+4'. !bs {iti}x# [x x x x (x x)]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: Month … […],
+5'. !bs U₄.x# [x x x x (x x)]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: Day … […],
+6'. !bs U₄.x# [x x x x (x x)]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: Day … […],
+7'. !bs x# [x x x x (x x)]
+#lem: u; u; u; u; u; u; u
+
+#tr.en: … […],
+8'. !bs NU [x x x x (x x)]
+#lem: lā[not]MOD; u; u; u; u; u; u
+
+#tr.en: … […],
+
+9'. !bs * E₂?# [x x x x (x x)]
+#lem: bīt[house]N; u; u; u; u; u; u
+
+#tr.en: If @i{a house} […].
+10'. !bs {iti}BARA₂# [x x x (x x)]
+#lem: Nisannu[1]MN; u; u; u; u; u
+
+#tr.en: Nisannu (I), […].
+11'. !bs {iti}KIN {iti}DU₆?# [x x (x x)]
+#lem: Ululu[1]MN; Tašritu[1]MN; u; u; u; u
+
+#tr.en: Elūlu (VI), @i{Tašrītu} (VII), […],
+12'. !bs {iti}AB {iti}ZIZ₂# [x x (x x)]
+#lem: Ṭebetu[1]MN; Šabaṭu[1]MN; u; u; u; u
+
+#tr.en: Ṭebētu (X), Šabāṭu (XI), […],
+$ single ruling
+
+13'. !bs * ERIN₂{+ni} ana ME₃ x# [x (x x)]
+#lem: ummāni[army]N; ana[according to]PRP; tāhāzi[battle]N; u; u; u; u
+
+#tr.en: If the army to the battle … […],
+#note: This section does not appear to be part of @i{Iqqur īpuš}.
+14'. !bs {iti}GU₄ {iti}KIN# [x x (x x)]
+#lem: Ayyaru[1]MN; Ululu[1]MN; u; u; u; u
+
+#tr.en: Ayyāru (II), Elūlu (VI), […],
+15'. !bs {iti}APIN {iti#}[x x x (x)]
+#lem: Arahsamnu[1]MN; u; u; u; u
+
+#tr.en: Araḫsamna (VIII), … […],
+
+$ single ruling
+16'. !bs x# x# [...]
+#lem: u; u; u
+
+#tr.en: … […].
+
+$ several lines missing
+
+@column 8
+
+$ 2 lines missing
+
+1'. !bs *# ina# {iti#}SIG₄?# [...]
+#lem: ina[in]PRP; Simanu[1]MN; u
+
+#tr.en: In (the month) @i{Simānu} (III) (?), […] 
+2'. !bs * ina {iti}ŠU?# [...]
+#lem: ina[in]PRP; Duʾuzu[1]MN; u
+
+#tr.en: In (the month) @i{Duʾūzu} (IV) (?), […] 
+3'. !bs * ina {iti}KIN# [DINGIR-šu₂ ana {munus}SIG₅]
+#lem: ina[in]PRP; Ululu[1]MN; ilišu[god]N; ana[according to]PRP; damiqti[good]N
+
+#tr.en: In (the month) Elūlu (VI), [his god will] continuously escort him
+4'. ($___$) !bs UŠ-ME-šu₂#
+#lem: irtenedīšu[accompany]V
+
+#tr.en:     [with care].
+5'. !bs * ina {iti}GAN lib₃-bi DUG₃#.GA
+#lem: ina[in]PRP; Kislimu[1]MN; libbi[interior]N; iṭâb[be(come) good]V
+
+#tr.en: In (the month) Kislīmu (IX), (there will be) happiness.
+6'. !bs * ina {iti}ZIZ₂ GURUN SI.SA₂
+#lem: ina[in]PRP; Šabaṭu[1]MN; inbu[flower]N; iššir[thrive]V
+
+#tr.en: In (the month) Šabāṭu (XI), the fruit will prosper.
+#note: Other manuscripts preserve the prognosis @akk{šá GISKIM SIG₅ IGI}, “he will see a favorable omen”, here (see Labat, @i{Calendrier} [1965], p. 114).
+7'. !bs * ina {iti}ŠE ŠU.TAG.GA-BI SI.SA₂
+#lem: ina[in]PRP; Addaru[1]MN; +liptu[undertaking]N$lipit; iššir[thrive]V
+
+#tr.sp: In (the month) Addaru (XII), @i{his action} will prosper.
+#note: Other manuscripts preserve the prognosis @akk{šá GISKIM SIG₅ IGI}, “he will see a favorable omen”, here (see Labat, @i{Calendrier} [1965], p. 114).
+$ single ruling
+
+8'. !bs * {giš}KIRI₆ ud-diš !cm ša₂ i-rap-[pi]-qu#
+#lem: kiri[garden]N; uddiš[renew]V; ša[of]DET; +rapāqu[hoe]V$irappiqu
+
+#tr.en: “If he renovates a garden” (= @i{Iqqur īpuš} §49) (refers to the man) who hoes (@i{scil}., a garden).
+9'. !bs * ina {iti}GU₄ LU₂ BI UGU# [EN]
+#lem: ina[in]PRP; Ayyaru[1]MN; amēla[man]N; šu[that]IP; eli[on]PRP; bēl[lord]N
+
+#tr.en: In (the month) Ayyāru (II), that man will prevail 
+10'. ($___$) !bs INIM-šu₂ GUB{+az#}
+#lem: amātīšu[word]N; ittazzaz[triumph]V
+
+#tr.en:      over his litigant.
+11'. !bs * ina {iti}SIG₄ A₂.TUKU ni-ṣir-tu₂ IGI{+mar}
+#lem: ina[in]PRP; Simanu[1]MN; nēmela[profit]N; niṣirtu[secret]N; +amāru[see]V$immar
+
+#tr.en: In (the month) Simānu (III), he will gain the profit of a treasure.
+12'. !bs * ina {iti}KIN DINGIR-šu₂ ana {munus}SIG₅ UŠ-ME-šu₂
+#lem: ina[in]PRP; Ululu[1]MN; ilišu[god]N; ana[according to]PRP; damiqti[good]N; irtenedīšu[accompany]V
+
+#tr.en: In (the month) Elūlu (VI), his god will continuously escort him with care.
+13'. !bs * ina {iti}APIN EN INIM-šu₂ KUR{+ad₂}
+#lem: ina[in]PRP; Arahsamnu[1]MN; bēl[lord]N; amātīšu[word]N; ikaššad[reach]V
+
+#tr.en: In (the month) Araḫsamna (VIII), he will defeat his litigant.
+14'. !bs * ina {iti}ŠE ma-la E₃ IGI#-MIN-šu₂
+#lem: ina[in]PRP; Addaru[1]MN; mala[as many]PRP; uṣṣi[go out]V; īnīšu[eye]N
+
+#tr.en: In (the month) Addaru (XII), @i{as much as comes out of his eyes}.
+#note: The present prognosis, otherwise apparently unattested, might be a corruption of @akk{(mim-ma) ma-la ut-tu-u GAR-šú}, “everything he finds will be his.”
+$ single ruling
+
+15'. !bs * SAG.HUL.HA.ZA IGI
+#lem: +mukillu[holder]N$mukīl; innamir[appear]V
+
+#tr.en: “If he sees the ‘Supporter of Evil’-demon” (= @i{Iqqur īpuš} §57).
+16'. !bs * ina {iti}BARA₂ GISKIM# {munus#}SIG₅ GAR-šu₂
+#lem: ina[at]PRP; Nisannu[1]MN; itti[sign]N; damiqti[good]N; +šakānu[put]V$iššakkanšu
+
+#tr.en: In (the month) Nisannu (I), a good omen will be placed upon him.
+17'. !bs * ina {iti}SIG₄ x# [(x) x x] x# GAR-šu₂
+#lem: ina[in]PRP; Simanu[1]MN; u; u; u; u; u; iššakkanšu[put]V
+
+#tr.en: In (the month) Simānu (III), … […] … will be placed for him,
+18'. !bs * ina {iti}KIN ana [KUR{+ad₂} A₂.TUKU?] GAR#-šu₂#
+#lem: ina[in]PRP; Ululu[1]MN; ana[according to]PRP; +kašādu[reach//reaching]V'N$kašād; nēmela[profit]N; iššakkanšu[put]V
+
+#tr.en: In (the month) Elūlu (VI), [achievement of profit] will be placed for him,
+19'. !bs * ina {iti}DU₆ ana [SIG₅ IGI? GAR-šu₂]
+#lem: ina[in]PRP; Tašritu[1]MN; ana[according to]PRP; dumqu[goodness]N; pāni[front]N; iššakkanšu[put]V
+
+#tr.en: In (the month) Tašrītu (VII), [it will be placed to goodness].
+20'. !bs * ina {iti}APIN A₂?#.[TUKU GU₇ GAR-šu₂]
+#lem: ina[in]PRP; Arahsamnu[1]MN; nēmela[profit]N; +akālu[eat//eating]V'N$akāli; iššakkanšu[put]V
+
+#tr.en: In (the month) Araḫsamna (VIII), pr[ofit and eating will be placed for him.]
+
+$(end of column 8 is not preserved)
+
+@column 9		
+
+$(List of favorable days in vertical columns)
+
+1. !bs BARA₂ & !bs 1 4.1/2 6.1/2 8 10 11 14 16!(13) 23.1/2 & !bs ŠE
+#lem: Nisannu[1]MN; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Nisannu (I): 1 4½ 6½ 8 10 11 14 16!(13) 23½ are favorable.
+2. !bs GU₄ & !bs 2 6 8 10 12 15 16 18 22 24 26 28 29 30 & !bs ŠE
+#lem: Ayyaru[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Ayyāru (II): 2 6 8 10 12 15 16 18 22 24 26 28 29 30 are favorable.
+3. !bs SIG₄ & !bs 1 2 9 11 12 13 15 16 22 24 26 28 & !bs ŠE
+#lem: Simanu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Simānu (III): 1 2 9 11 12 13 15 16 22 24 26 28 are favorable.
+4. !bs ŠU & !bs 1 3 7 11 13 17 19 21 22 27 28 29 & !bs ŠE
+#lem: Duʾuzu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Duʾūzu (IV): 1 3 7 11 13 17 19 21 22 27 28 29 are favorable.
+5. !bs NE & !bs 1 2 5.1/2 9 10 13 16 & !bs ŠE
+#lem: Abu[1]MN; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Abu (V): 1 2 5½ 9 10 13 16 are favorable.
+6. !bs KIN & !bs 1 2 3 5 7 9 11 14 16 17 19 21 23 29 & !bs ŠE
+#lem: Ululu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; Addaru[1]MN
+
+#tr.en: (Favorable days in the month) Elūlu (VI): 1 2 3 5 7 9 11 14 16 17 19 21 23 29 are favorable.
+7. !bs DU₆ & !bs 1 6 8.1/2 11 13.1/2 14 17 19 21 22 23 26 28 29 & !bs ŠE
+#lem: Tašritu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Tašrītu (VII): 1 6 8½ 11 13½ 14 17 19 21 22 23 26 28 29 are favorable.
+8. !bs APIN & !bs <x x x x> 9 11 13 15 18 19 20 23 24 26 28 30 & !bs ŠE
+#lem: Arahsamnu[1]MN; u; u; u; u; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Araḫsamna (VIII): <…> 9 11 13 15 18 19 20 23 24 26 28 30 are favorable.
+#note: There is a mark before the 9, which probably indicates a break in the source.
+9. !bs GAN & !bs <x x x x x x> 16 18 21 23 25 29 30 & !bs ŠE
+#lem: Kislimu[1]MN; u; u; u; u; u; u; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Kislīmu (IX): <…> 16 18 21 23 25 29 30 are favorable.
+#note: There is a mark before the 16, which probably indicates a break in the source.
+10. !bs AB & !bs 1 7 11.1/2 13 he-<pi₂> 17.1/2 21 22 23# 24.1/2 25 26 27.1/2 28 29 & !bs ŠE
+#lem: Ṭebetu[1]MN; n; n; n; n; hepi[broken]AJ; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Ṭebētu (X): 1 7 11½ 13 @i{broken} (14?) 17½ 21 22 23 24½ 25 26 27½ 28 29 are favorable.
+11. !bs ZIZ₂ & !bs 1 3 11.1/2 19 20 22 23 25 26 28 29 & !bs ŠE
+#lem: Šabaṭu[1]MN; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Šabāṭu (XI): 1 3 11½ 19 20 22 23 25 26 28 29 are favorable.
+12. !bs ŠE & !bs 1 2 4 6 8 9 10 12 14 15 20 22 24 25 27# 30 & !bs ŠE#
+#lem: Addaru[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Addaru (XII): 1 2 4 6 8 9 10 12 14 15 20 22 24 25 27 30 are favorable.
+13. !bs BARA₂ 2.KAM & !bs 1 2 3 5 6 7 8 9 11 12 13 16?# 17?# 22?# 26?# 30?# & [ŠE]
+#lem: Nisannu[1]MN; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; n; magrū[favorable]AJ
+
+#tr.en: (Favorable days in the month) Second Nisannu (I.2): 1 2 3 5 6 7 8 9 11 12 13 @i{16 17 22 26 30} (?) [are favorable.]
+14. !bs KIN?# 2.[KAM] & !bs 1.1/2# 2#.[(1/2)] 5# 6# 7#.1/2?# 8# 9# 10?# 11?# x# x# x# 21?#/22?# 25# 26# 29 & !bs ŠE
+#lem: Ululu[1]MN; n; n; n; n; n; n; n; n; n; n; u; u; u; n; n; n; n; Addaru[1]MN
+
+#tr.en: (Favorable days in the month) Second @i{Elūlu} (VI.2): 1½ 2[(½)] 5 6 7½ (?) 8 9 10 (?) 11 (?) … 21/22 (?) 25 26 29 are favorable.
+15. !bs [ŠE? 2.KAM] & !bs [x x x] 7?# 8 9 10 11 12 13 14 17 18 19 20 21 &
+#lem: magrū[favorable]AJ; n; u; u; u; n; n; n; n; n; n; n; n; n; n; n; n; n
+
+#tr.en: (Favorable days in the month) [@i{Second Addaru} (XII.2) (?): …] @i{7} (?) 8 9 10 11 12 13 14 17 18 19 20 21
+16. ($___$) & !bs 22 23 24 25 26 27 28 & !bs ŠE
+#lem: n; n; n; n; n; n; n; Addaru[1]MN
+
+#tr.en:    22 23 24 25 26 27 28 are favorable.
+
+$ single ruling
+
+17. &3 !bs ina ITI U₄.1.KAM U₄.3.KAM U₄.5.KAM U₄.7.KAM U₄#.18.KAM U₄.19?#.KAM# U₄.21.KAM
+#lem: ina[at]PRP; arhi[month]N; X; X; X; X; X; X; X
+
+#tr.en: In (any given) month the 1st, the 3rd, the 5th, the 7th, the 18th, the 1[9th(?)], the 21st, 
+18. &3 !bs U₄.25.KAM U₄.28.KAM ina ITI 10 U₄-MEŠ# ša₂ a-na DU₃#{+eš#} AŠ₂
+#lem: X; X; ina[in]PRP; arhi[month]N; n; ūmē[day]N; ša[which]REL; ana[for]PRP; epēš[building]'N; ṣibûti[wish]N
+
+#tr.en: the 25th, (and) the 28th: in (any given) month there are 10(sic!) days for carrying out an enterprise.
+19. &3 !bs {lu₂}A.ZU ana {lu₂}GIG ŠU-su NU# TUM₃ U₄#.7#.KAM U₄#.14.KAM
+#lem: asî[physician]N; ana[according to]PRP; marṣi[patient]N; qāssu[hand]N; ul[not]MOD; +tabālu[take away]V$itabbal; X; X
+
+#tr.en: The healer/physician should not treat a sick person: the 7th, the 14th,
+20. &3 !bs U₄.21.KAM U₄.28.KAM U₄ HUL U₄.6?#.KAM U₄.9.KAM U₄#.20.KAM
+#lem: X; X; ūmu[day]N; lemnu[bad]AJ; X; X; X
+
+#tr.en: the 21st, (and) the 28th are evil days. the @i{6}th, the 9th, the 20th,
+21. &3 !bs U₄.23.KAM U₄.25.KAM U₄-ME il#-ki [(x?)]
+#lem: X; X; ūmū[day]N; ilki[(state) service]N; u
+
+#tr.en: the 23rd, (and) the 25th are @i{laborable} days.
+$ single ruling
+
+22. &3 !zz U₄-MEŠ DUG₃.GA-MEŠ ša₂ kal MU.AN.NA ša 15 ITI#-[MEŠ (...) 12 ITI-MEŠ]
+#lem: ūmē[day]N; ṭābūtu[good]N; ša[of]DET; kal[all]N; šatti[year]N; ša[of]DET; n; arhī[month]N; u; n; arhī[month]N
+
+#tr.en: Favorable days for the entire year consisting of 15 mont[hs (…), that is, 12 months]
+23. &3 !zz EN 3 ITI-MEŠ DIRI-MEŠ GIM SUMUN-šu₂# {m}{d}AG#/EN#-[...]
+#lem: adi[until]PRP; n; arhī[month]N; atrūtu[excess]AJ; kīma[according to]PRP; labīrišu[original]N; u
+
+#tr.en: with 3 intercalary months. According to its original Nab[û/Bēl-…, son of …],
+24. &3 !zz A {lu₂}MU-{d}AMAR.UTU {lu₂}ŠAMAN₂.LA₂ KA₂.DINGIR#.[RA{ki} ...]
+#lem: aplu[son]N; +Iddin-Marduk[]PN$; šamallû[scribal apprentice]N; Babilu[Babylon]SN; u
+
+#tr.en: descendant of Iddin-Marduk, an apprentice of Bab[ylon …],
+25. &3 !zz ina E₂.BABBAR₂.RA E₂ be-lu x# [...]
+#lem: ina[in]PRP; +Ebabbar[]TN$; bīt[house]N; bēlu[lord]N; u; u
+
+#tr.en: in the Ebabbar, the house @i{of the lord} … […].

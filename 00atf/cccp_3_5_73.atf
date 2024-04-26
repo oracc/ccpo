@@ -1,0 +1,200 @@
+&P238313 = CCP 3.5.73 (http://ccp.yale.edu/P238313) = K.4229
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1'. !bs [x x (x x x)] x# x.MA{mušen} & !cm [x x x x]
+#lem: u; u; u; u; u; u; u; u; u; u; u
+
+$single ruling
+2'. !bs x#{mušen} & !cm it-til-i#-[mut{mušen}]
+#lem: u; +ittīl-imūt[(an owl)]N$
+
+#note: See below lines o 6'-7'.
+$single ruling
+3'. !bs KU₄{+ru-bu}-nim-ma & !cm i-ru-[bu-nim-ma]
+#lem: +erēbu[enter]V$īrubūnim-ma; +erēbu[enter]V$īrubūnim-ma
+
+$single ruling
+4'. !bs na-aš-par-tu₄{mušen} & !cm eš-še#-[bu-u₂]
+#lem: +našpartu[(a bird)]N$; +eššebu[(a kind of owl)]N$eššebû
+
+#note: The bird name @i{našpartu} is a hapax legomenon, see @i{CAD} N/2 76b.
+$single ruling
+5'. !bs AN.ZI.NAM.LA₂ & !cm mim-ma# [šum-šu₂ nap-har MUŠEN-MEŠ]
+#lem: X; mimma[anything]XP; šumšu[name]N; naphar[all]N; iṣṣūrāti[bird]N
+
+#note: The line is restored with @i{Antagal} III 211.
+$single ruling
+6'. !bs U₃.DUR₂.DUR₂{mušen} & !cm ṣal-la-lu : ṣal-la#-[lu : x x]
+#lem: +ṣallallu[(a night bird)]N$; +ṣallallu[(a night bird)]N$ṣallalu; ṣallalu[(a night bird)]N; u; u
+
+7'. !bs U₃.DUR₂.DUR₂.BA.UŠ₂{mušen} & !cm it-til-i-mut[{mušen}]
+#lem: +ittīl-imūt[(an owl)]N$; ittīl-imūt[(an owl)]N
+
+#note: The name of this bird, perhaps an owl, literally means "it lies down and pretends to be dead": see @i{CAD} I/J 304.
+
+$single ruling
+8'. !bs a-iu-u₂{mušen} & !cm a-a-[u₂]
+#lem: +ayyû[(a bird)]N$; +ayyû[(a bird)]N$
+
+#note: The bird name @i{ayyû} is a hapax legomenon, see @i{CAD} A/1 236b.
+$single ruling
+9'. !bs TAK₄ EN.NU.UN URU ip-pa-la-aš & !cm e-zeb ma-aṣ-[ṣar]-tu₂# URU# ip#-pal?#-[la-aš]  
+#lem: +ezēbu[leave//leaving]V'N$ezēb; +maṣṣartu[observation]N$maṣṣarti; āli[village]N; +palāšu[perforate]V$ippallaš; ezēb[leaving]'N; +maṣṣartu[observation]N$maṣṣartu; āli[village]N; +palāšu[perforate]V$ippallaš
+
+$single ruling
+10'. !bs IGIRA₂{mušen} & !cm i-gi-ru-[u₂]
+#lem: +igirû[heron]N$ ; +igirû[heron]N$
+
+#note: The equation @akk{ÍGIRA{mušen}} = @i{igirû} is attested in @i{Diri} IV 303 and @i{Ḫarra} XVIII E 14f: see @i{CAD} I/J 41 and @i{AHw} 367a.
+$single ruling
+11'. !bs ba-bi-il : !cm ba-ba-lu & !cm a-la-[du]
+#lem: +bābilu[carrier]AJ$bābil; babālu[carrying]'N; alādu[giving birth (to)]'N
+
+#note: @i{alādu} seems to constitute an explanation of @i{babālu} (as interpreted in @i{CAD} A/1 288b), rather than a different entry.
+$single ruling
+12'. !bs hu-up-ši & !cm ERIN₂-MEŠ [x]
+#lem: +hupšu[(member of) lower class]N$; ṣābū[troops]N; u
+
+$single ruling
+13'. !bs AN.TA & !cm ša₂-qu#-[u₂]
+#lem: šaqû[be(com)ing high]'N; šaqû[be(com)ing high]'N
+
+$single ruling
+14'. !bs x# [x x] & !cm x# [x x]
+#lem: u; u; u; u; u; u
+
+@reverse
+
+1'. !bs IGI.[x x x (x x)] & !cm [...]
+#lem: u; u; u; u; u; u
+
+$single ruling
+2'. !bs ku-ub-ši#-[bar-mat{mušen}] & !cm [...]
+#lem: +kubšī-barmat[(a bird)]N$; u
+
+#note: The bird name @i{kubsī-barmat} means literally "my cap is multicolored."
+$single ruling
+3'. !bs ku-lu-up-pu#-[u₂{mušen} x x x] & !cm [...]
+#lem: +kuluppû[(a bird)]N$; u; u; u; u
+
+$single ruling
+4'. !bs zi-ih-[x] & !cm [...]
+#lem: u; u
+
+$single ruling
+5'. !bs GUD₃ ša₂* PEŠ₁₀ AG? ir-ta & !cm [...]
+#lem: +qinnu[nest]N$; ša[of]DET; +kibru[bank]N$; X; X; u
+
+$single ruling
+6'. !bs BURU₅.GAL.EDIN.NA & !cm [kal-lat-{d}UTU]
+#lem: +kallāt-Šamši[dragonfly]N$; +kallāt-Šamši[dragonfly]N$
+
+#note: Restored from Ḫḫ XIV 350 (MSL 8/2 38).
+$single ruling
+7'. !bs SU.DIN*{mušen*} & !cm [su-tin-nu]
+#lem: +šuttinnu[bat]N$; +šuttinnu[bat]N$sutinnu
+
+$single ruling
+8'. &2 !zz ṣa-a-tu₄ ša₂ DUB 73.[KAM * URU ina SUKUD{+e} GAR{+in}]
+#lem: ṣâtu[commentary]N; ša[of]DET; ṭuppi[tablet]N; n; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+$single ruling
+9'. !bs UDU?{+udu?}.KUR{+ma*-a-tu₄} : !cm ṣe-e-[nu x] & [...]
+#lem: +ṣēnu[flock]N$; +ṣēnu[flock]N$; u; u
+
+#note: The gloss on @akk{UDU? KUR} appears in smaller script in the following line. @i{CAD} Ṣ 163b and @i{AHw} 1097b read the line as @akk{DIB KUR} : @i{ṣi-bit}!, but the traces suggest rather @i{ṣe-e}, as drawn by Meek. Stol @i{CM} 36 (2007) p. 14 takes this line to be "a the catchline at the end of a @i{ṣātu} commentary on @i{Šumma Ālu} Tablet 76," but this is not the end of the commentary.
+$single ruling
+11'. !bs A.RI?#.A id-da?#-ki# [x x] & !cm [...]
+#lem: namê[pasturage]N; X; u; u; u
+
+12'. !bs A.RI.A : !cm na-[mu-u₂] & !zz [...]
+#lem: namû[pasturage]N; namû[pasturage]N; u
+
+$single ruling
+13'. !bs x# x#.KUR x# [(x) x] & !cm [...]
+#lem: u; u; u; u; u; u
+
+$single ruling
+14'. !zz [...]
+#lem: u
+
+$(bottom)
+
+15''. &2 !zz [ṣa-a-tu₄ ša₂] DUB# 74.[KAM * URU ina SUKUD{+e} GAR{+in}]
+#lem: ṣâtu[commentary]N; ša[of]DET; ṭuppi[tablet]N; n; ālu[village]N; ina[on]PRP; mēlê[height]N; šakin[located]AJ
+
+16''. &2 !zz [x x] x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+#note: The faint traces of this line may represent a short colophon.
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+$single ruling
+2'. The ...-bird means the owl.
+$single ruling
+3'. KU₄-@i{rubūnim-ma} means "they will enter" (@i{irubūnim-ma}).
+$single ruling
+4'. The @i{našpartu} bird (cf. @i{CT} 41 4 Rm.488 8-10) means the @i{eššebû} bird.
+$single ruling
+5'. @i{anzinamla} means "all kinds of [birds]."
+$single ruling
+6'. The @i{udurdur} (cf. @i{CT} 41 8 79) bird means the @i{ṣallalu} bird (a nocturnal bird); the @i{ṣallalu} b[ird means ...];
+7'. The @i{udurdurrabaʾuš}-bird (cf. @i{CT} 41 8 69) means the owl.
+$single ruling
+8'. The @i{ayyû}-bird means the @i{ayyû}-bird (wr. @i{a-a-}[@i{ú}]).
+$single ruling
+9'. TAK₄ EN.NU.UN URU @i{ip-pa-la-aš} means "deserting the posts, the city will be broken into."
+$single ruling
+10'. @i{igira} means "heron" (@i{igirû})
+$single ruling
+11'. "Bearer" (stems from) "to bear," (in the sense of?) "to give birth."
+$single ruling
+12'. @i{hupšī} means "army,"
+$single ruling
+13'. @i{anta} means "heigh."
+$single ruling
+14'. ...
+
+@reverse
+
+1'. ...
+$single ruling
+2'. The @i{kubšī-barmat}-bird (cf. @i{CT} 41 7 55 and 24 14 [namburbi]) means [...].
+$single ruling
+3'. The @i{kuluppû}-bird means [...].
+$single ruling
+4'. ...
+$single ruling
+5'. Nest (cf. @i{CT} 41 3 K.7153 15) of ... [...]
+$single ruling
+6'. @i{burugaledina} means dragonfly.
+$single ruling
+7'. @i{sudin} (cf. @i{CT} 41 3 K.7153 16) means bat.
+$single ruling
+8'. Lemmata from the 73th tablet of ["If A City Is Set On A Height"].
+$single ruling
+9'. @i{udukur} means @i{flock} [...]
+$single ruling
+11'. @i{aria} ... [...].
+12'. @i{aria} means pasture land; [...].
+$single ruling
+13'. ...
+$single ruling
+14'. [...]
+
+$(bottom)
+
+15''. Lemmata from the 74th tablet of ["If A City Is Set On A Height"].
+16''. ...

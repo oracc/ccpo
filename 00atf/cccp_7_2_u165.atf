@@ -1,0 +1,59 @@
+&P470044 = CCP 7.2.u165 (http://ccp.yale.edu/P470044) = BM 48375
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] x#-e :# x# [...]
+#lem: u; u; u; u
+
+#tr.en: […] … […]
+2'. !zz [...] x# x# x#-i KUR{+ad₂} x# [...]
+#lem: u; u; u; u; ikaššad[reach]V; u; u
+
+#tr.en: […] … will reach … […]
+3'. !zz [...] x aš₂-ša₂-ri?# :?# ni-in-x#-[...]
+#lem: u; u; X; u
+
+4'. !zz [...] x tu ša₂ GAL{+e} : x# [...]
+#lem: u; u; X; ša[of]DET; rabê[great]AJ; u; u
+
+#tr.en: […] … great … […]
+5'. !zz [...] x#{+ṭu} :# še-lu-u₂ : ša₂ x# [...]
+#lem: u; u; +šelû[be neglectful//being neglectful]V'N$; ša[of]DET; u; u
+
+#tr.en: […] … means “to be neglectful”, it refers to … […]
+6'. !zz [...] x# [...] 
+#lem: u; u; u
+
+#tr.en: […] … […]
+@reverse
+
+1. !zz [...] : !bs a-li du?-pa-nu !cm : da-pa-nu ša₂ {giš#}GIGIR?#
+#lem: u; ali[where?]AV; X; +dapānu[bear down on violently//bearing down on violently]V'N$; ša[of]DET; narkabti[chariotry]N
+
+#tr.en: […] … means “to be violent, said of a chariot.”
+#note: DU₆.DU = @i{dapānu ša narkabti} is attested in @i{Diri} I 213 and @i{Antagal} III 35 (see @i{CAD} D 104a). Note also in @i{CCP} 3.1.3.E r 11′: @akk{TI# : da-pa-nu ša₂ ma-ʾa-di#}.
+2. !zz [... !bs da]-pi#-nu !cm : dan-nu : !bs ra-ha-mu !cm : ša₂-su-u₂ 
+#lem: u; dapīnu[savage]AJ; dannu[strong]AJ; rahāmu[(meaning unknown)]'N; šasû[shouting]'N
+
+#tr.en: [… “vio]lent” means “strong”; @i{raḫāmu} means “to shout.”
+#note: The same explanation can be found in @i{SpTU} 3, 99 l. 39. (@i{CCP} 3.5.u2.a).
+
+3. [...] AN?#{+e} uš-tah#-ha#-x#
+#lem: u; šamê[heaven]N; u
+
+#tr.en: […] @i{sky} …
+
+4. [...] x# x# x# x# x# NE x#
+#lem: u; u; u; u; u; u; Abu[1]MN; u
+
+#tr.en: […] …
+
+5. [...] x# x# x# [x]
+#lem: u; u; u; u; u
+
+#tr.en: […] …

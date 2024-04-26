@@ -1,0 +1,51 @@
+&P461266 = CCP 3.1.u42 (http://ccp.yale.edu/P461266) = BM 59364
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz in#-na#-[...]
+#lem: u
+
+#note: Perhaps from @i{napāḫu}?
+2'. !zz x# šu x# [...]
+#lem: u; u; u; u
+
+3'. !zz 2 6 x# [...]
+#lem: n; n; u; u
+
+@reverse
+
+1'. !zz [{d}]30# TAR#-[...]
+#lem: Sin[1]DN; u
+
+2'. !zz {+da-al}TAR [...]
+#lem: X; u
+#note: The reading /dal/ of TAR is seemingly elsewhere unattested.
+3'. !zz {+sa-a}SA [...]
+#lem: X; u
+
+4'. !zz {d}30 U₄ 27-KAM# [...]
+#lem: Sin[1]DN; ūm[day]N; n; u
+
+5'. !zz i-na# [...]
+#lem: ina[in]PRP; u
+
+@translation parallel en project
+
+@obverse
+
+1'. ...
+2'. ...
+3'. ...
+
+@reverse
+
+1'. Sîn [...]
+2'. TAR [...]
+3'. SA, pronounced /sa/, [...].
+4'. Sîn, 27th day [...]
+5'. in [...]

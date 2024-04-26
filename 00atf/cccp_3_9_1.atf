@@ -1,0 +1,98 @@
+&P240195 = CCP 3.9.1 (http://ccp.yale.edu/P240195) = Rm.2,127
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. {iti}BAR.SAG.SAG {iti}BAR₂.ZAG.GAR [x x x x x x x (x)]
+#lem: +Barsagsag[]MN$; +Nisannu[]MN$; u; u; u; u; u; u; u; u
+
+2. {iti}ša-ba-ṭi {iti}BAR₂#.ZAG#.GAR# [x x x x x x x (x)]
+#lem: +Šabāṭi[]MN$; Nisannu[1]MN; u; u; u; u; u; u; u; u
+
+3. MU?# x x x x [x x x x x x x x x x x (x)]
+#lem: +aššum[because (of)]PRP$; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u; u
+
+$rest of obverse missing
+@bottom
+
+1. {iti}še-bu-ti {iti}APIN.DU₈.A [x x x (x x)]
+#lem: +Šebūti[]MN$; Arahsamnu[1]MN; u; u; u; u; u
+
+@reverse
+
+1. {iti}AB.SIN₂-URU₄{+ši} {iti}GAN.GAN.[E₃] aš₂-šu₂ AB#.[SIN₂? še-er-ʾu]
+#lem: +Šerʾi-erēši[]MN$; Kislimu[1]MN; aššu[because of]'PRP; šerʾu[furrow]N; +šerʾu[furrow]N$
+
+2. ($___$) er-re-šu {giš}APIN KU₃{+ti₃} ša₂ tu-lu-[x x x (x x)]
+#lem: +errēšu[cultivator]N$; epin[(seed) plough]N; ellūti[pure]AJ; ša[of]DET; u; u; u; u; u
+
+3. ($___$) ša ina lib₃-bi %sux lugal-e ud me-lem₄-bi nir-ŋal₂# %sb [qa-bu-u₂]
+#lem: ša[that]REL; ina[in]PRP; libbi[heart]N; lugal[king]N; ud[day]N; melim[frightening splendor]N; nirŋal[authoritative]AJ; +qabû[said]AJ$
+
+#note: As already noted by Reiner, ll. 2-3 contain an explicit reference from an as yet unrecovered passage from Lugale. Compare @i{Lugale} 707 (ŋeš-apin hé-ŋál pa bí-in-è-a-aš).
+4. {iti}tam-hi-ri {iti}AB.BA.E₃ aš₂-šu₂ ina {iti}AB.BA.E₃ [x x x (x x)]
+#lem: +Tamḫiri[]MN$; Ṭebetu[1]MN; aššu[because of]'PRP; ina[in]PRP; Ṭebetu[1]MN; u; u; u; u; u
+
+5. ($___$) i-lam-ma UN-MEŠ KUR mah-hu-ru ana IGI-šu₂ x x [x x (x)]
+#lem: +elû[go up]V$ilâm-ma; nišū[people]N; mātu[land]N; +muhhuru[offering]N$mahhurū; ana[according to]PRP; +pānu[face]N$pānīšu; u; u; u; u; u
+
+6. {iti}si-li-li-ti {iti}ZIZ₂.A.AN si-li-li#-[ti x (x)]
+#lem: +Sililīti[]MN$; Šabaṭu[1]MN; +Sililīti[]MN$; u; u
+
+7. ($___$) aš₂-šu₂ ina {iti}ZIZ₂.A.AN ha-ša₂-da-nu ša₂ DINGIR-MEŠ [GAR{+nu}({u-ni})]
+#lem: aššu[because of]'PRP; ina[in]PRP; Šabaṭu[1]MN; +hašādu[wedding]N$hašadānu; ša[that]REL; ilī[god]N; +šakānu[put]V$iššakkanūni
+
+#note: As noted by Reiner AfO 24 (1973) p. 102b, the "marriage of the gods" referred to is the marriage of Nabû and Tašmētu, see SAA 13 78 r 16-17. The rationale behind the explanation remains obscure.
+8. {iti}HUL.DUB₂.E {iti}ŠE.KIN.TAR HUL* [lem-nu DUB₂ na-pa-ṣu]
+#lem: +Huldube[]MN$; +Addaru[]MN$; +lemnu[evil one]N$; lemnu[evil one]N; +napāṣu[push away//pushing away]V'N$; +napāṣu[push away//pushing away]V'N$
+
+9. ($___$) aš₂-šu₂ ina {iti}ŠE.KIN.TAR {d}AMAR.UTU lem-nu-[ti-šu₂ x x x]
+#lem: aššu[because of]'PRP; ina[in]PRP; Addaru[1]MN; Marduk[1]DN; +lemnu[evil one]N$lemnūtīšu; u; u; u
+
+10. ($___$) u₂-nap-pi-ṣu LUGAL{+ta} [il-qu-u₂]
+#lem: +napāṣu[push away]V$unappiṣu; +šarrūtu[kingship]N$šarrūta; ilqû[take]V
+
+#note: Compare @i{šarru} ḪUL-MEŠ-@i{šú unappaṣ}, "the kind will crush his enemies," as an apodosis in K.3780 i 3 and parallels (CAD N/1 287-288).
+$single ruling
+
+11. TA lib₃-bi {giš}le-u₅#-[um GABA.RI]
+#lem: ina[in]PRP; libbi[interior]N; lēʾum[board]N; gabari[duplicate]N
+
+12. KUR a-šur₄{ki} AN-[x {m}{d}AG-URI₃{+ir}]
+#lem: mātu[land]N; +Aššur[Assyria]GN; u; +Nabu-naṣir[]PN$
+
+13. AMAR {m}{d}e₂-a-pat-ta-[ni x x x]
+#lem: atam[hatchling]N; +Ea-pattani[]PN$; u; u; u
+
+@translation labeled en project
+
+@label o 1 - o 3
+
+The month @i{Barsagsag} means Nisannu (I month), [@i{because} ...]. The month @i{Šabāṭi} means Nisannu (I month), [@i{because} ...]. @i{Because} [...].
+
+@label b.e. 1
+
+The month @i{Šebūti} means Araḫsamnu (VIII month), [...].
+
+@label r 1 - r 3
+
+The month @i{Šerʾi-erēši} (wr. AB.SÍN-URU₄-@i{ši}) means Kislīmu (IX month), because AB.[SÍN means "furrow" (@i{šerʾu}) (?), @i{as in}] "the farmer (@i{errēšu}) of pure plow, who [...]," which is said in @i{Lugale ud melembi nergal}.
+
+@label r 4 - r 5
+
+The month @i{Tamḫīri} means Ṭebētu (X month), because in Ṭebētu [...] rises and the people of the land [bring] offerings (@i{maḫḫuru}) to him.
+
+@label r 6 - r 7
+The month @i{Sililīti} means Šabāṭu (XI month), (it is called) @i{Sililīti} [(...)] because in Šabāṭu the betrothal of the gods [takes place].
+
+@label r 8 - r 10
+The month @i{Ḫuldube} means Addaru (XII month), HUL [means "evil" and DÚB means "to crush" (?)], because in Addaru Marduk crushed his enemies [...] and took kingship.
+
+$single ruling
+
+@label r 11 - r 13
+From a writing board [whose original] was from Aššur. [@i{Written} by Nabû-nāṣir], son of Ea-pattāni, [...].

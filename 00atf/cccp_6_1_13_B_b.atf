@@ -1,0 +1,158 @@
+&P461262 = CCP 6.1.13.B.b
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use math
+#atf: use legacy
+#atf: use lexical
+#atf: use mylines
+#atf: use unicode
+@tablet
+
+@obverse
+$ n lines broken
+
+1'. [...] x u₂# x# (x) [...]
+#lem: u; u; u; u; u; u
+
+2'. [...] x a#-a-tu₄# [...]
+#lem: u; u; u; u
+
+3'. [...] x : * i-mi-in# : 7(aš) :# MIN#<(de-el)> [i-mi-na-ku? : si-bit? : * us-su : 8(aš) :]
+#lem: u; u; u; n; +del[the sign DILI]N$del; +iminaku[the sign 7]N$iminaku; u; u; n
+
+#tr.en: [...] (The sign) 7 times AŠ read /imin/ (Ea 2, 140) (with the sign name) /del [iminaku/ means "seven"; (The sign) 8 times AŠ read /ussu/ (Ea 2, 141)]
+
+#note: The sign name for 2(aš) in @i{Ea} II, 125 is @i{de-el min-na-bi}. There are no sign names attested for higher combinations of AŠ, but we do have sign names for the multiples of U. 7(u) in @i{Ea} II, 179 is given as [MIN(@i{gi-gur})] @i{i-mi-na-ku}. 
+
+
+4'. [MIN<(de-el)> us-sa-ku? :] ša₂?#-ma?#-na?#-tu?# : * i-lim-mu# : 9(aš) : MIN<(de-el)> i#-[lim-mu-ku : ti-še-et? :]
+#lem: +del[the sign DILI]N$del; +ussaku[the sign 8]N$ussaku; X; u; n; +del[the sign DILI]N$del; +ilimmuku[the sign 9]N$ilimmuku; X
+
+
+#tr.en: [(with the sign name) /del ussaku/] means "eight"; (The sign) 9 times AŠ read /ilimmu/ (Ea 2, 142) (with the sign name) /del i[limmuku/ means "nine"]
+
+5'. [...] x# :# * u₂ u₂-ba#-[an : * u₂? : e-še-ret? :]
+#lem: u; u; u[and]CNJ; ubān[finger]N; u[and]CNJ; ešeret[ten]NU
+
+
+6'. [* a? :] MIN#<(gi-gu-ru-u)> : MIN<(e-še-ret)> : ha-a : U ($ o $) MIN<(gi-gu-ru-u)> :# [MIN<(e-še-ret)> :]
+#lem: u; +giguru[the sign U]N$giguru; ešeret[ten]NU; X; rigmu[voice]N; +giguru[the sign U]N$; ešeret[ten]NU
+
+
+7'. [ma-ʾ]-du#-tu₄ : * ge-e : U mi-ih#-ṣa#-[tu₄ : mi-hi-il-tu₄ : ...]
+#lem: X; X; rigmu[voice]N; X; mihiltu[strike]N; u
+
+
+#tr.en: [... means ...]...; (The sign) U read /ge/ (Aa II/4, 41 = Ea 2, 150) means "wedges" [, "wedge", ...] 
+
+#note: Unfortunately, the sign after MI is damaged. Therefore @akk{U} could also be equated here with @i{mihiltu}, for which compare @i{Ea} II, 150 and its subcolumn 3: @i{ša} @akk{GI.E} @i{mi-hi-il-tu}. 
+
+8'. [* šu-u : U : MIN<(gi-gu-ru-u)> : e-re-bu] ša₂# {d}UTU-ši : e-re#-pi₂ ša₂ UD-[mi : * šu-uš : U : MIN<(gi-gu-ru-u)> :]
+#lem: u; u; +giguru[the sign U]N$; erēbu[raven]N; ša[that]REL; X; X; ša[that]REL; +ūmu[weather]N$ūmi; u; u; +giguru[the sign U]N$
+
+
+#tr.en: [...; (The sign) U read /šu/ means "to set" said] of the sun (Aa II/4, 67) and "to become dusky" said of the weather (Aa II/4, 68),  [...] 
+
+9'. [sa-ha-pu?] :# * u₂-mun : U MIN<(gi-gu-ru-u)> : be-[e-lu EME.SAL : ...]
+#lem: u; u; u; +giguru[the sign U]N$; +bēlu[lord]N$bēlu; emesallu[Emesal]N; u
+
+#tr.en: [...]; (The sign) U read /umun/ (Ea 2, 153) (with the sign name) /giguru/ means "lord" [in Emesal;...] 
+
+10'. [...] x# : * gi-gur :# U : MIN<(gi-gu-ru-u)> šap!-lu# [...]
+#lem: u; u; u; u; +giguru[the sign U]N$; šaplu[below]'PRP; u
+
+#tr.en: [...; (The sign) U read /gigur/ (Ea 2, 154) means "low" [...]
+
+11'. [... :] *# bur diš : U DIŠ : MIN<(gi-gu-ru-u)> de-eš-še-ku : 1(u) IKU# [: * bur ni-iš : 2(u) :]
+#lem: u; u; u; u; u; +giguru[the sign U]N$; +deššeku[the sign DIŠ]N$deššeku; n; ikû[field]N; u; u; n
+
+#tr.en: [...] (The signs) U and DIŠ read /bur diš/ (Ea 2, 157 = Aa II/4, 150) (with the sign name) /gigur deššeku/ mean "10 iku"; [(The sign) 2 times U read /bur niš/] 
+
+#note: The addition of the sign DIŠ to U does not appear in the base text: Aa II/4, 150 only contain U in subcolumn 2, which is represented by the sign name MIN(@i{gi-gu-ru-u}) in subcolumn 3. The equivalent is given there as 10 @sup{bu-ur}GAN₂. 
+
+12'. [MIN<(gi-gu-ru-u)> MIN.NA.BI :] 2(u)# IKU# : * šu-ša₂-na : 2(u) : MIN<(gi-gu-ru-u)> MIN#<(MIN.NA.BI)> [: šu-uš-ša₂-an :]
+#lem: +giguru[the sign U]N$; minnabi[sign two times]AJ; n; ikû[field]N; u; n; +giguru[the sign U]N$; minnabi[sign two times]AJ; šuššān[one-third]NU
+
+#tr.en: [(with the sign name) /gigur minabi/] means "20 iku"; (The sign) 2 times U read /šušana/ (with the sign name) /gigur minabi/ [(also) means "one-third"];
+
+13'. [...] x x en x [...]
+#lem: u; u; u; u; u; u
+
+
+$ n lines broken
+
+@reverse
+$ n lines broken
+
+1'. [... * bur niš : U@g] U@g# IKU# : * BUR UŠU₃# [: U@g U@g U@g IKU]
+#lem: u; u; u; u; u; ikû[field]N; u; u; u; u; u; ikû[field]N
+
+#tr.en: [... /bur niš/ (is the reading of) 20 bur₃ IKU; /bur ušu/ (is the reading of) [30 bur₃ IKU]; 
+
+2'. [* bur nimin : U@g] U@g# U@g U@g IKU : * BUR NINNU : U@g U@g# [U@g U@g U@g IKU : * gi-in : KUR :]
+#lem: u; u; u; u; u; u; ikû[field]N; u; u; u; u; u; u; u; ikû[field]N; u; u
+
+#tr.en: [/bur nimin/ (is the reading of)] 40 bur₃ IKU; /bur ninnu/ (is the reading of) 5[0 bur₃ IKU. (The sign) KUR read /gin/]
+
+3'. ku#-u₂-ru# : ša₂ ZA.GIN₃ el-lu : * ku-ur : KUR : [MIN<(ku-u₂-ru)> : MIN<(KUR-u₂)> ...]
+#lem: +kuru[the sign KUR]N$kuru; ša[that]REL; +uqnû[lapis lazuli]N$uqnî; ellu[pure]AJ; u; u; +kuru[the sign KUR]N$kuru; +šadû[mountain]N$šadû; u
+
+#tr.en: (with the sign name) kuru means "pure regarding lapis lazuli". (the sign) KUR read /kur/ 
+
+4'. MIN<(ku-u₂-ru)> : MIN<(KUR-u₂)> : * ša₂-du-u₂ : KUR : MIN<(ku-u₂-ru)> : MIN<(KUR-u₂)> : * ša₂-ha-an : KUR :# [MIN<(ku-u₂-ru)> : {d}KUR : * a-nu-bu : KUR :]
+#lem: +kuru[the sign KUR]N$; +šadû[mountain]N$; +šadû[mountain]N$; +šadû[mountain]N$; +kuru[the sign KUR]N$; +šadû[mountain]N$; X; +šadû[mountain]N$; +kuru[the sign KUR]N$; Kur[1]DN; X; šadî[mountain]N
+
+
+
+#tr.en: .... (The sign) KUR read /šahan/ (Ea 2, 193) [(with the sign name) Ditto (i.e., kuru) is a deity (written) KUR (i.e., Šahan). (The sign) KUR read /anubu/ (Ea 2, 194)]
+
+#note: Note that CCP 6.1.13.B.a reads for the KUR's reading /šahan/ in line 7': * { +ša₂-ha-an}KUR : {d}{ +ŠU-ma}KUR. The same can be gleaned from CCP 6.1.13.C. It seems that in our text only {d}KUR is used as "equivalent". Ea II, 193–198 has ŠU in each entry. For this and the subsequent divine names, each written with the sign KUR see also the god-list An : @i{Anum} VI, 244-249. 
+
+5'. MIN<(ku-u₂-ru)> : {d}KUR : * zi-za-an : KUR : MIN<(ku-u₂-ru)> : {d}KUR : * ra-am-ma#-[nu : KUR : MIN<(ku-u₂-ru)> : {d}KUR : * ra-a-šu : KUR :]
+#lem: +kuru[the sign KUR]N$; Kur[1]DN; X; šadî[mountain]N; +kuru[the sign KUR]N$; Kur[1]DN; X; šadî[mountain]N; +kuru[the sign KUR]N$; Kur[1]DN; X; šadî[mountain]N
+
+#tr.en: (with the sign name) Ditto (i.e., kuru) is a deity (written) KUR (i.e., Anubu). (The sign) KUR read /zizan/ (Ea 2, 195) (with the sign name) Ditto (i.e., kuru) is a deity (written) KUR (i.e., Zizanu). [(The sign) KUR] read /ramanu/ (Ea 2, 196) [(with the sign name) Ditto (i.e., kuru) is a deity (written) KUR (i.e., Ramanu). (The sign) KUR read /rašu/ (Ea 2, 197)]
+
+6'. MIN<(ku-u₂-ru)> : {d}KUR : * am-ma : KUR : MIN<(ku-u₂-ru)> {d}KUR : * ge-e : KUR : [MIN<(ku-u₂-ru)> : ... : * gu-di-bir : |KUR@KUR| :]
+#lem: +kuru[the sign KUR]N$; Kur[1]DN; amma[people]N; šadî[mountain]N; +kuru[the sign KUR]N$; Kur[1]DN; X; šadî[mountain]N; +kuru[the sign KUR]N$; u; X; u
+
+#tr.en: (with the sign name) Ditto (i.e., kuru) is a deity (written) KUR (i.e., Rašu). (The sign) KUR read /amma/ (Ea 2, 198) (with the sign name) Ditto (i.e., kuru) is a deity (written) KUR (i.e., Amma). (The sign) KUR read /ge/ [(with the sign name) Ditto (i.e., kuru) means .... (The compound sign) KUR.KUR@180 read /gudibir/] 
+
+7'. MIN<(ku-u₂-ru)> MIN.NA.BI i-gi-gub-bu-u₂ <:> nu!-kur₂!-tu₄# [: * ... : |KUR@KUR| :]
+#lem: +kuru[the sign KUR]N$; minnabi[sign two times]AJ; X; nukurtu[enmity]N; u; u
+
+#tr.en: (with the sign name) kuru minnabi igigubbû (i.e., the sign KUR, reduplicated with the second one turned by 180 degrees) means "enmity". [(The compound sign) KUR.KUR@180 read /.../] 
+
+8'. MIN<(ku-u₂-ru)> MIN<(MIN.NA.BI i-gi-gub-bu-u₂)> : er-ṣe-tu₄ : ni-lu?-tu₄ ne₂-e-[... : * u₂-pu : AŠ@t :]
+#lem: +kuru[the sign KUR]N$; minnabi[sign two times]AJ; X; erṣetu[earth]N; X; u; X; ṣīru[exalted]AJ
+
+#tr.en: (with the sign name) Ditto ditto (i.e., kuru minnabi igigubbû) means "earth" ... [... (The sign) AŠ@t read /upu/ (Ea 2, 200)]
+
+9'. de-el te-nu-u₂ :# x x x [...]
+#lem: +del[the sign DILI]N$del; +tenû[the sign modification, slanted]N$tenû; u; u; u; u
+
+#tr.en: (with the sign name) dil tenû (i.e., the sign AŠ, slanted) means "..."  
+
+#note: The sign name @i{dili tenû} also occurs in the fragmentary commentary CCP 6.1.13.C r,10': AŠ@t @i{di-li-te-nu-u}, and in CCP 6.1.13.B.a r,9': šu-šur ZIB @i{di-li-te-en}-[@i{nu-u}?]. In the subsequent lines the parts of this sign name will be referred to as MIN MIN. 
+
+10'. ... : * de-eš :# AŠ@t : MIN<(de-el)> MIN<(te-nu-u₂)> [:] MIN?#<(iš-ten)> [: * di-li : AŠ@t :]
+#lem: u; X; ṣīru[exalted]AJ; +del[the sign DILI]N$del; +tenû[the sign modification, slanted]N$; ištēn[one]NU; X; ṣīru[exalted]AJ
+
+
+11'. MIN#<(de-el)> MIN<(te-nu-u₂)> : MIN<(iš-ten)> [:] * iš-ten : AŠ@t :# MIN<(de-el)> MIN<(te-nu-u₂)> : MIN<(iš-ten)> : * sag#-ta#-[ak] : [AŠ : ...]
+#lem: +del[the sign DILI]N$del; +tenû[the sign modification, slanted]N$; ištēn[one]NU; ištēn[one]NU; ṣīru[exalted]AJ; +del[the sign DILI]N$del; +tenû[the sign modification, slanted]N$; ištēn[one]NU; X; ettâtu[spider]N; u
+
+12'. [...] x x du BAL-u₂ MIN [...]
+#lem: u; u; u; X; X; šinā[two]N; u
+
+13'. [...] x x BAL-u₂ MIN [...]
+#lem: u; u; u; X; šinā[two]N; u
+
+14'. [...] x BAL#-u₂# MIN# [...]
+#lem: u; u; X; šinā[two]N; u
+
+15'. [...] x [...]
+#lem: u; u; u
+
+$ n lines broken
+

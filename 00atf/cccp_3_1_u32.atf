@@ -1,0 +1,43 @@
+&P461195 = CCP 3.1.u32 (http://ccp.yale.edu/P461195) = BM 40959
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1. !zz [...] x#-ma-su : lu-x#-[...]
+#lem: u; u; u
+
+2. !zz [...] x#-qar x# [...]
+#lem: u; u; u; u
+
+3. !zz [...] :# MIN# [x] x# x# [...]
+#lem: u; u; u; u; u; u
+
+@reverse
+
+1'. !zz [...] x# [x x] x# is?#-sa#-mi?# ana?# li?#-[...]
+#lem: u; u; u; u; u; X; u; u
+
+2'. !zz [...]-x#-ti : !bs lik-mi ti-amat ZI-šu₂ li#-[siq u₃ lik-ri !zz (...)]
+#lem: u; +kamû[bind]V$likmi; Tiamat[1]DN; +napištu[throat]N$napištašu; +siāqu[be(come) narrow]V$lisīq; u[and]CNJ; +karû[be(come) short]V$likri; u
+
+3'. !bs [...].RA#-MEŠ !cm : li-siq : !bs ŠA !cm : sa#-[a-qu ...]
+#lem: u; lisīq[be(come) narrow]V; +siāqu[be(come) narrow//be(com)ing narrow]V'N$sâqu; +siāqu[be(come) narrow//be(com)ing narrow]V'N$sâqu; u
+
+#note: The readings in this line follow Lambert @i{MC} 16 (2013) p. 8, but note that the equation ŠA = @i{sâqu}, @i{si vera lectio}, would be otherwise unattested.
+@translation parallel en project
+
+@obverse
+
+1. ...
+2. ...
+3. ...
+
+@reverse
+
+1'. ...
+2'. [...] ... In "Let him bind Tiāmat and straiten [and diminish her life" (= @i{Enūma eliš} VII 132) ...],
+3'. [...] ... "Let him straiten" (@i{lisīq}), ŠA means @i{to straiten} [...],

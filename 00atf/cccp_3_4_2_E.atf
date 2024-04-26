@@ -1,0 +1,27 @@
+&P470025 = CCP 7.2.u147 (http://ccp.yale.edu/P470025) = BM 43678
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@obverse
+
+1'. !zz [...] !bs SAG#.KI GU₄ !cm : SAG : pu#-u₂#-[tu₂ : GU₄ : al-pu ...]
+#lem: u; +pūtu[forehead]N$pūt; alpi[ox]N; +pūtu[forehead]N$; pūtu[forehead]N; +alpu[ox]N$; X; u
+
+2'. !zz [...] !cm šu-uš-kal-li : MIN<(šu-uš-kal-li)> : še-e#-[tu ...]
+#lem: u; šuškalli[battle-net]N; +šuškallu[battle-net]N$; +šētu[(hunting) net]N$; u
+
+3'. !zz [...] : !bs SAG.DU !cm : qaq-qad : SAG : qaq!#(NI)-[qa-du ...]
+#lem: u; qaqqadu[head]N; +qaqqadu[head]N$qaqqad; qaqqadu[head]N; qaqqadu[head]N; u
+
+4'. !zz [...] x# x# [...]
+#lem: u; u; u; u
+
+@translation parallel en project
+
+1'. [...] In "trapezoid" (SAG.KI GU₄, lit. 'ox's forehead'), SAG.KI means "forehead" [and GU₄ means "ox" ...].
+2'. [...] means "battle-net", the same also means "hunting net" [...].
+3'. [...] SAG.DU means "head," because SAG means "head" and [...].
+4'. ...

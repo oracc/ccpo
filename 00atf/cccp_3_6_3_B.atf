@@ -1,0 +1,230 @@
+&P348643 = CCP 3.6.3.B (http://ccp.yale.edu/P348643) = W 22703
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+$(obverse)
+
+1. !bs BE iz#-[bu TUN₃-šu₂ ina maš-kan₂ MUR-šu₂ ša₂ ZAG GAR{+at} LUGAL MAR.TU]{ki#} LUGAL URI{ki} i-dak
+#lem: šumma[if]MOD; izbu[anomaly]N; tākaltašu[stomach]N; ina[in]PRP; maškan[location]N; hašêšu[lung(s)]N; ša[that]REL; imni[right (side)]N; šaknat[located]AJ; šar[king]N; Amurru[1]GN; šar[king]N; Akkad[1]SN; idâk[kill]V
+
+2. !zz kit-ta# [x x x x x x x x x] ina TUR₃? LUGAL : !bs iʾ-al-du
+#lem: kitta[truth]N; u; u; u; u; u; u; u; u; u; ina[in]PRP; tarbaṣ[animal stall]N; šarri[king]N; iʾʾaldū[give birth (to)]V
+
+3. !cm it-ta-x#-x#-x# !zz x# [x x x !zz pa-le]-e ša₂-niš
+#lem: u; u; u; u; u; palê[reign]N; šanîš[alternatively]AV
+
+4. !cm a-na ka-ša₂-du pa-le-e# !zz x# x# x# x# x# x# x# !bs DUL?# lib₃-bi
+#lem: ana[to]PRP; kašādu[reaching]'N; palê[reign]N; u; u; u; u; u; u; u; +kutmu[cover]N$kutum; libbi[interior]N
+
+5. !bs lib₃-bi !cm : ku-tu-um ŠA₃ : pa-pa-an lib₃-bi# !zz x# x# x# x# [x] x# : šar-ri
+#lem: libbi[interior]N; +kutmu[cover]N$kutum; libbi[interior]N; papān[(a kind of rush or sedge)]N; libbi[interior]N +.; u; u; u; u; u; u; šarri[king]N +.
+
+#note: The @i{libbi} at the beginning of the line may be a dittography. At the end of the line, @i{šarri} may belong with the following line.
+
+6. !bs MUL.GAL !cm : {lu₂}GU₂.EN.NA : {lu₂}GU₂.EN.NA : [x x nap]-har# LUGAL# EN-MEŠ :
+#lem: Kakkabu-Rabu[Jupiter]CN +.; +guennakku[(the governor of Nippur)]N$; +guennakku[(the governor of Nippur)]N$; u; u; naphar[all]N; šar[king]N; bēlī[lord]N +.
+
+#note: @akk{MUL.GAL} appears in @i{Šumma Izbu} XVII 21', and it may be equated with lú.GUʾENNA also in the @i{Principal Commentary} l. 441.
+7. !bs GU₂ !cm : nap-har : !bs EN !cm : be-lu : !bs ina du-[x] x x-šu E₃#-ma?# MAS.SU₃ TE{+am}
+#lem: +napharu[total]N$naphar; naphar[total]N +.; bēlu[lord]N; bēlu[lord]N +.; ina[in]PRP; u; u; u; uṣṣima[leave]V; +massû[leader]N$; +ṭehû[approach]V$iṭehhâm +.
+
+8. !bs MAS.SU₃ !cm : a-ša₂-re-du !bs MAS.SU₃ !cm : kab-tu [:] !bs ME#.[HE₂ !cm :] hi-in-ṣi : !bs mu-ter šu-uh-hu !zz : 
+#lem: +ašarēdu[pre-eminent one]N$; ašarēdu[pre-eminent one]N +.; +kabtu[important one//dignitary]N$; kabtu[dignitary]N +.; +himṣu[fatty tissue]N$hinṣi; +himṣu[fatty tissue]N$hinṣi +.; +muterru[(re)turner//bolt]N$mutēr; šuhhu[buttock]N
+
+#note: ME.ḪÉ is also the explanandum in the @i{Principal Commentary} l. 445.
+
+9. !cm mu-uš-tin-na-šu₂ pe-hi : mu-uš-tin-na pi-il-šu₂ ša₂ u₂-ša₂-ri a-šar ši-na-a-tu₂
+#lem: +muštinnu[urethra]N$muštinnašu; +pehû[sealed]AJ$pehi; +muštinnu[urethra]N$muštinna; +pilšu[breach//perforation]N$; ša[of]DET; +išaru[penis]N$ušari; ašar[where]SBJ; +šīnātu[urine]N$
+
+10. !cm uṣ-ṣa-ni : !qt SUR{+su-ur} : ši-tin-nu : SUR : ta#-ba#-ku# ša₂ ši-na-a-tu₂ !cm ina ṣa-a-tu₂
+#lem: uṣṣânni[come out]V; +šiānu[urinate//urinating]V'N$šitinnu; šitinnu[urinating]'N; šitennû[urinating]'N; tabāku[discharging]'N; ša[that]REL; šīnātu[urine]N; ina[in]PRP; ṣâtu[commentary]N
+
+
+11. !cm qa-bi : !bs KAŠ₃-MEŠ-šu₂ u šit-ta-šu₂ DU{+ak#} !zz :# !bs šit#-tu₄ !cm : zu-u₂
+#lem: qabi[said]AJ +.; +šīnātu[urine]N$šīnātušu; u[and]CNJ; +šittu[excrement]N$šittāšu; illak[flow]V +.; +šittu[excrement]N$; +zû[excrement]N$ +.
+
+12. !bs til-la-tu₂ !cm : e-mu-qa : !bs GIR₃!?# {lu₂!}KUR₂# ana# KUR#-ka u₂#-ta-šar !zz : !bs u₂-ta-aš₂-ša-ar
+#lem: +tillatu[help//reinforcements]N$; emūqa[strength]N +.; šēp[foot]N; +nakru[strange//hostile]AJ$; ana[into]PRP; mātika[land]N; +wašāru[sink down//release]V$ūtaššar +.; +wašāru[sink down//release]V$ūtaššar +.
+
+#note: According to de Zorzi @i{Šumma Izbu} (2014) p. 758, the apodosis commented upon in this line would correspond to @i{Šumma Izbu} XVII 41'. The reading GÌR in the copy (first proposed by @i{CAD} U/W 324b) is very uncertain, although it has parallels elsewhere (see @i{CAD} ibid.).
+
+13. !cm il-la-ku : a-ša₂-ar : sa-na-qa : a-ša₂-ri : a-la-ku
+#lem: illaku[go]V; +ešēru[go well//putting in order]V'N$ašār; +sanāqu[check//keeping control]V'N$šanāqa; +ašāru[muster//controlling]V'N$ašāri; alāku[going]'N +.
+
+#note: As stated in de Zorzi @i{Šumma Izbu} (2014) p. 758-759, the equations here are based on the similar phonology of @i{ašāru} and @i{ešēru}.
+
+14. !qt SI : e-še-ru ša₂ a-la-ku !cm ina ṣa-a-tu₂ qa-bi : !bs u₂-qal!#-lal!# !cm :# ub!#-ba-at :
+#lem: +ešēru[go well//going straight]V'N$; +ešēru[go well//going straight]V'N$; ša[concerning]DET; alāku[going]'N +.; ina[in]PRP; ṣâtu[commentary]N; qabi[said]AJ +.; +qalālu[be(come) light//reduce]V'V$uqallal; +abātu[destroy]V$ubbat
+
+#note: The reading of the line follow the brilliant suggestions of de Zorzi @i{Šumma Izbu} (2014) p. 758-759. The explanation is based on the fact that GUL and @i{qalālu} sound similar.
+
+15. !cm GUL : a-ba-at : !bs LA₂ !cm : ka-mu-u₂ : da-a-ku : !bs zi-im hu-wa-wa
+#lem: abātu[destroying]'N; +abātu[destroy//destroying]V'N$abāt; +kamû[bind//defeating]V'N$; +kamû[bind//defeating]V'N$; dâku[killing]'N +.; +zīmu[face//appearance]N$zīm; +Humbaba[1]DN$Huwawa
+
+16. !cm pa-ni hu-um-ba-ba : SAG : zi-i-mu : SAG : pa-ni : !bs bi-ši-im-ti
+#lem: pānī[face]N; +Humbaba[1]DN$ +.; +zīmu[face]N$; zīmu[face]N; +pānu[front//face]N$pānī; pānī[face]N; +bišimtu[formation//shape]N$bišimti +.
+
+17. !bs hu-le-e !cm : bi-nu-ut hu-le-e : ba-ša₂-mu : ba-nu-u
+#lem: +hulû[shrew]N$hulê; +binûtu[creation//form]N$binût; hulê[shrew]N +.; +bašāmu[create//forming]V'N$; +banû[create//creating]V'N$
+
+18. !cm ša₂-niš pa-ni hu-le-e : !bs ku-uk-ku qa-ab-li-ti !cm : ki-ma
+#lem: šanîš[alternatively]AV; pānī[face]N; hulê[shrew]N +.; +kukku[(part of a balance)]N$; +qablītu[middle]N$qablīti; kīma[like]PRP
+
+19. !cm qa-nu-u₂ ša₂ zi-ba-ni-tu₄ : E₂.ERIN₂! : ša₂-niš ku-uk-ku
+#lem: +qanû[reed//(part of weighing scales)]N$; ša[of]DET; +zibānītu[weighing scales]N$ +.; +gišrinnu[scales]N$; šanîš[alternatively]AV; kukku[(part of a balance)]N +.
+
+#note: The use of @i{šanîš}, "alternatively," is strange, since it seems to introduce the first exaplantion, rather than an alternative one. The explanation is probably based on the equations of @i{zibānītu} with giš.ERÍN that feature frequently in lexical lists.
+
+20. !bs kur₃-ru₃ E₃ !cm : ma-hi-ri ip-paṭ-ṭar ša₂-niš ma-hi-ir i-nap-pu-uš
+#lem: kurru[unit]N; +waṣû[go out//release]V$ušteṣṣi; +mahīru[price//business]N$mahīri; +paṭāru[loosen//discontinue]V$ippaṭṭar; šanîš[alternatively]AV; +mahīru[price//business]N$mahīr; inappuš[expand]V +.
+
+#note: È = @i{napāšu} is well attested in lexical lists, not so È = @i{paṭāru}, which seems to be elsewhere unattested.
+21. !bs BE iz-bu GIM SUHUR.MAŠ₂{ku₆} u₃ MUŠ qu₂-lip-tu₂ sa-hi-ip
+#lem: šumma[if]MOD; izbu[anomaly]N; kīma[like]PRP; +suhurmāšu[(mythical) goatfish]N$suhurmāši; ū[or]CNJ; ṣerri[snake]N; +quliptu[skin of scales]N$; +sahpu[wrapped//covered]AJ$sahip
+
+22. !bs uz-za-at {d}SUEN LU₂ ep-qa SA₅ !zz : !bs qu₂-lip-tu₂ !cm : qu₂-lip₂-tu₂
+#lem: +uzzatu[anger]N$uzzat; Sin[1]DN +.; amēlu[man]N; +epqu[leprosy]N$epqa; imalla[be(come) covered]V +.; quliptu[skin of scales]N; +quliptu[skin of scales]N$quliptu +.
+
+$(reverse)
+
+23. !bs BE iz-bu SIK₂ na-ši !cm : ma-li-i na-ši : SIK₂.UZ₃ : ma-li-i
+#lem: šumma[if]MOD; izbu[anomaly]N; +šārtu[hair]N$šārta; +našû[lifted//standing up]AJ$naši +.; malî[matted hair]N; naši[standing up]AJ +.; +malû[matted hair]N$; malî[matted hair]N +.
+
+#note: For the use of SÍK.ÙZ for @i{̌šārtu}, see Mayer, W.R. OrNS 57 (1988) p. 149-150 (referred to in de Zorzi @i{Šumma Izbu} [2014] p. 761).
+24. !cm SIG₂.UZ₃ : pe-eš-tu₄ : !bs GEME₂ ma-li-i !cm : a-mu-ut <<:>> ma-li-i
+#lem: +pērtu[hair (of head)]N$pēštu; +pērtu[hair (of head)]N$pēštu; +amūtu[liver//omen]N'N$amūt; malî[matted hair]N; +amūtu[liver//omen]N'N$amūt; malî[matted hair]N +.
+
+25. !bs GEME₂ !cm : a-mu-ut : !bs ZAG-šu₂ HAD₂ !cm : i-mit-ta-šu₂ ša₂-bu-ul-la-at 
+#lem: +amūtu[liver//omen]N'N$amūt; +amtu[maid]N$amut +.; +imittu[support//shoulder]N$imittašu; +šābulu[dried (out)//withered]AJ$šābullat; +imittu[support//shoulder]N$imittašu; +šābulu[dried (out)//withered]AJ$šābullat +.
+
+#note: As explained by de Zorzi @i{Šumma Izbu} (2014) p. 761, the commentator misreads the sign UD as ḪÁD, "to be dry," instead of BABBAR, "white."
+26. !bs {+ha-a}HAD₂ !cm : a-ba-lu : !bs ŠA₃-MEŠ-šu₂ ina GU.DI-šu₂ GAR-MEŠ !zz : !bs ŠA₃ !cm : er-ri
+#lem: +hātu[the sign HAD₂]N$; abālu[drying (up)]'N +.; qerbūšu[intestines]N; ina[on]PRP; +qinnatu[buttocks]N$qinnatišu; šaknū[located]AJ; libbi[insides]N; +erru[intestines]N$erri +.
+
+27. !bs mu-ma-as-su-ku ih-ta-aš₂-ma !cm : la ba-nu-u₂ <<:>> il-la-kam-ma
+#lem: +mumassuku[one who spoils]N$; +hiāšu[hurry//hasten]V$ihtâšma; lā[not]MOD; bānû[creator]N; +alāku[go]V$illakamma +.
+
+#note: The form @i{mumassuku} is difficult. It is perhaps an ungrammatical D-participle of @i{masāku}, "to be bad" (the regular for would be @i{mumassiku}). See the discussion in von Weiher @i{SpTU} 2 p. 165 and de Zorzi @i{Šumma Izbu} p. 748.
+28. !bs mu-ma-as-su-ku !cm : la ba-nu-u₂ : !bs ha-a-šu₂ !cm : a-la-ku
+#lem: mumassuku[one who spoils]N; lā[not]MOD; bānû[creator]N +.; +hiāšu[hurry//hastening]V'N$hâšu; alāku[going]'N +.
+
+$ double ruling 
+
+@colophon
+
+29. !zz UL šu-ut KA u maš-a-a-al-ti! ša₂ pi-i um-ma-nu ša₂ lib₃-bi
+#lem: +ṣiātu[distant time//commentary]N$ṣât; šūt[who(m)]DET; pî[mouth]N; u[and]CNJ; +mašʾaltu[questioning]N$mašʾalti; ša[of]DET; pî[speech]N; ummânu[expert]N; !ša[from]DET; libbi[interior]N
+
+## šūt pî[oral tradition] (already in gloss)
+
+30. !zz BE iz-bu TUN₃-šu₂ ina maš-kan₂ MUR-šu₂ ša₂ 15 GAR{+at} 18{+u₂} mal₂-sutₓ(BAN₂)
+#lem: šumma[if]MOD; izbu[anomaly]N; +tākaltu[bag//stomach]N$tākaltašu; ina[in]PRP; +maškanu[place of putting//location]N$maškan; hašêšu[lung(s)]N; ša[of]DET; imitti[right]N; šaknat[located]AJ +.; +samāna-ešru[eighteen]NU$ +.; +massûtu[call//reading]N'N$malsût
+
+31. !zz BE iz-bu NU AL.TIL BE U₈ si-li-is-su GU₇ {im}GI₃.DA
+#lem: šumma[if]MOD; izbu[anomaly]N +.; +lā[not]MOD$; qati[completed]AJ +.; šumma[if]MOD; lahru[ewe]N; +silītu[afterbirth]N$silīssu; īkul[eat]V +.; giṭṭi[oblong tablet]N
+
+32. !zz {m}BA{+ša₂-a} bu₁₂-kur₂ {m}{d}INANA-MU-KAM ŠA₃.BAL.BAL {m}E₂.KUR-za-kir
+#lem: Iqiša[1]PN; bukur[son]N; Ištar-šum-ereš[1]PN; liblibbi[descendant]N; Ekur-zakir[1]LN
+
+33. !zz {lu₂}MAŠ.MAŠ TIR.AN.NA{ki}{+u₂} NU pa-lih {d}a-nu {d}EN.LIL₂
+#lem: mašmašši[incantation priest]N; +Tiranayu[Tiranaean]EN$ +.; lā[not]MOD; pālih[reverent one]N; Anu[1]DN; Ellil[1]DN
+
+34. !zz {d}e₂-a lit-bal-šu₂ ša₂ {+i}TUM₃-šu₂ {d}IŠKUR lit-bal-šu₂
+#lem: Ea[1]DN; +tabālu[take away//carry off]V$litbalšu +.; ša[who]REL; itbalšu[carry off]V; Adad[1]DN; litbalšu[take away]V +.
+
+35. !zz {iti}ŠU U₄ 14-KAM MU 6-KAM {m}pi-il-pi-is-su LUGAL KUR.KUR
+#lem: Duʾuzu[1]MN; ūm[day]N; n; šanat[year]N; n; Philip[1]RN; šar[king]N; mātitān[all countries]N +.
+
+
+@translation labeled en project
+
+@label 1
+“If an an[omaly’s stomach is located at the place of its right lung, the king of Amurr]u will kill the king of Akkad” (= @i{Šumma Izbu} XVII 1).
+@label 2
+
+... in the king’s @i{courtyard}. “They are born” (@i{iʾaldu}) (= @i{Šumma Izbu} XVII unkown) means [...]. [... means ...], alternatively, it means 
+The house ... [...] in the king’s animal stall : they were born.
+
+@label 3 - 4
+... [...] ... alternatively it can mean “in order to defeat the reign,” since [...].
+
+@label 4 - 5
+
+“DUL of the heart” (= @i{Šumma Izbu} unknown) means “stomach tissue,” i.e., the “membrane of stomach.” [...] king.
+
+@label 6 - 7
+“A great star” (= @i{Šumma Izbu} XVII 21′, “a great star will fall") means “the governor of Nippur” (lú.GUʾENNA). “The governor of Nippur” is “the lord of all @i{kings and lords},” since GÚ means “all” and EN means “lord.”
+
+@label 7 - 8
+In “... and a MAS.SÙ will draw near” (= @i{Šumma Izbu} unknown), MAS.SÙ means “leader,” MAS.SÙ also means “noble.” ME.ḪÉ means “fatty tissue.” 
+
+@label 8 - 11
+“Bolt of buttock” (= @i{Šumma Izbu} unknown) means “its urethra is sealed,” the urethra is a hole of the penis from which urine flows out. SUR, pronounced /sur/,  means “to urinate,” SUR also means “to discharge said of urine.” It is said in a bilingual list.
+
+@label 11
+In “Its urine and excrements (@i{šittašu}) will flow” (@i{Šumma Izbu} XVII unknown), “excrement” (@i{šittu}) means faeces.
+
+@label 12 - 13
+
+“Reinforcements” (@i{Šumma Izbu} XVII unknown) means “strength.” “An enemy attack will have access (@i{ú-ta-šar}) to your land” (@i{Šumma Izbu} XVII 41′). “Will have access” (wr. @i{ú-ta-áš-ša-ar}) means “it will go,” since @i{ašāru} means “to approach,” and @i{ašāru} also mean “to go.” SI means “to go straight, said of walking". It is said in a bilingual list.
+
+@label 14 - 15
+
+“He will humiliate” (@i{uqallal}) means “he will destroy,” since GUL means “to destroy.” LAL (@i{Šumma Izbu} XVII 46′) means “to bound,” or “to kill.”
+
+@label 15 - 16
+“Visage (@i{zīmu}) of Huwawa” (= @i{Šumma Izbu} XVII 49′) means “face (@i{pānu}) of Humbaba,” since SAG means “visage” (@i{zīmu}) and SAG also means “face” (@i{pānu}).
+
+@label 16 - 18
+
+“Shape (@i{bišimtu}) of a shrew” (= @i{Šumma Izbu} XVII 50′) means “creature (@i{binûtu}) (spawn by) a shrew,” since “to shape” (@i{bašāmu}) means “to create” (@i{banû}). Alternatively, it means “face of a shrew.”
+
+@label 18 - 19
+
+“A @i{kukku} of a balance” (= @i{Šumma Izbu} XVII 52′) is like the rod of a weighing scales, since É.ÉRIN can alternatively mean @i{kukku}.
+
+@label 20
+
+“A @i{gur} will stand out” (= @i{Šumma Izbu} XVII 52′ (?)) means that bussiness will be untied; alternatively (it can mean that) business will expand.
+
+@label 21 - 22
+“If an anomaly is covered in a skin of scales (@i{qú-lip-tú}) like a goatfish or a snake: anger of Sin; the man will be afflicted with leprosy” (= @i{Šumma Izbu} XVII 54′), “skin of scales” (@i{qú-lip-tú}) (can be written as) @i{qú-líp-tú}.
+
+$(reverse)
+
+@label 23 - 24
+“If an anomaly has hair (SÍK)” (= @i{Šumma Izbu} XVII 64′)  means that “it has disheveled hair,” since SÍK.ÙZ means “hair,” and SÍK.ÙZ also means “tuft.”
+
+@label 24 - 25
+
+“A GÉME of mourning (lit., of disheveled hair)” (= @i{Šumma Izbu} XVII 65′) means “an omen of mourning,” since GÉME means “omen.”
+
+@label 25 - 26
+“Its right hand part is UD” (= @i{Šumma Izbu} XVII 68′) means its shoulder is dried up, since the sign UD, read /ḫa(d)/, means “to dry up.”
+
+@label 26
+
+In “Its intestines (ŠÀ-MEŠ) are located on its buttocks” (= @i{Šumma Izbu} XVII 72′), @i{ŠÁ} means “intestines.”
+
+@label 27 
+“@i{mumassuku iḫtāš-ma}” (= @i{Šumma Izbu} XVII unknown) (that means): means “something not good will come,” since @i{mumassuku} means “not good” and @i{ḫâšu} means “to go.”
+
+$ double ruling
+
+@label 29 - 30
+Lemmata, oral explanations, and (materials for) a ‘questioning’ @i{by} a (master-)scholar, relating to “If an anomaly’s stomach is located at the place of its right lung” (= @i{Šumma Izbu} XVII).
+
+@label 30 - 31
+18th “reading” of (the series) “If an anomaly.” Not finished. “If a ewe eats its afterbirth” (= Catchline of @i{Šumma Izbu} XVIII).
+
+@label 31 - 32
+One-colum tablet of Iqīšāya, son of Ištar-šumu-ēreš, descendant of Ekurzakir, Urukean exorcist.
+
+@label 33 - 34
+If a person who does not fear Anu, Enlil and Ea carries (the tablet) off, he who carried it off, may Adad carry him off!
+
+@label 35
+14th of Duʾuzu (IV), 6th year of Philip, king of all countries (= 1 August 318 BCE).

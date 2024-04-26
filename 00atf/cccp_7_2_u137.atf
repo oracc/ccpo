@@ -1,0 +1,41 @@
+&P470018 = CCP 7.2.u137 (http://ccp.yale.edu/P470018) = BM 39864
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+
+1'. [...] x [x]
+#lem: u; u; u
+
+2'. [...] x-ru-[x]
+#lem: u; u
+
+3'. [...] $URU?# [x]
+#lem: u; u; u
+
+4'. [...] bal?#-TAR-tu₄
+#lem: u; X
+#note: The sign read as [@i{b}]@i{al} could also be [@i{u}]@i{l}.
+5'. [...] ša₂ a-ma-tu₄
+#lem: u; ša[of]DET; amātu[word]N
+
+6'. [... ib]-bal#-ka-at-tu₄
+#lem: u; +nabalkutu[cross over]V$ibbalkattū
+
+7'. [...]-a#
+#lem: u
+
+$(end of obverse)
+
+$(reverse ostensibly uninscribed)
+@translation parallel en project
+
+1'. [...] ...
+2'. [...] ...
+3'. [...] ...
+4'. [...] ...
+5'. [...] @i{of the word}
+6'. [... they cro]ssed over,
+7'. [...] ...

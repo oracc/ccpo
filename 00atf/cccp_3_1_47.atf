@@ -1,0 +1,236 @@
+&P237219 = CCP 3.1.47 (http://ccp.yale.edu/P237219) = 82-5-22,572
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+
+@tablet
+
+@obverse
+
+1'. !zz [x x x (x x x) & !cm x x x]-x#-ma# iz#-nu#-nu*# GIB
+#lem: u; u; u; u; u; u; u; u; u; +zanānu[rain]V$iznunu; ipruk[lie across]V
+
+2'. !zz [x x x (x x x) & !cm x x] GIB?#-ma mit?-tuh?-tu? ina AN.UR₂ GIB
+#lem: u; u; u; u; u; u; u; u; +parāku[lie across]V$iprukma; X; ina[on]PRP; išid[base]N&šamê[heaven]N; ipruk[lie across]V
+
+3'. !zz [x x x & !cm x]-pu-u₂ e-le-ni-i
+#lem: u; u; u; u; +elēnû[upper]AJ$elēnî
+
+4'. ($___$) !bs [{giš}]TUKUL?# & !cm kak*-ku
+#lem: kakku[weapon]N; kakku[weapon]N
+
+5'. !bs [ar-bu]-tu₄?# & !cm ni-du-tu₄
+#lem: +arbūtu[desolation]N$; +nidûtu[abandonment]N$
+
+6'. !zz [x x] x# & !cm it-tan-mar
+#lem: u; u; u; ittanmar[appear]V
+
+7'. !zz [x] x# x# & !cm a-la-ku
+#lem: u; u; u; alāku[going]'N
+
+8'. ($___$) !zz x# [x] x# & !cm ša₂-ka-nu
+#lem: u; u; u; šakānu[putting down]'N
+
+9'. ($___$) !bs qab-lu & !cm ta-ha-zu
+#lem: qablu[battle]N; tāhāzu[battle]N
+
+10'. ($___$) !bs ut-tu-u₂ & !cm a-ma-ru
+#lem: +atû[find//finding]V'N$uttû; amāru[seeing]'N
+
+#note: The first word is transcribed by Gehlken (@CM 43 [2012] p. 161f) as @a₁₂-@tu-@u₂.
+11'. ($___$) !bs KI & !cm ma-a-tu₄
+#lem: qaqqaru[ground]N; mātu[land]N
+
+$ single ruling
+12'. &2 !zz U₄.UL.DU₃.A NIG₂.PA₃.DA DUB 49-KAM * U₄ AN {d}EN.LIL₂
+#lem: ṣâtu[commentary]N; +mukallimtu[scholarly commentary]N$mukallimti; +ṭuppu[tablet]N$ṭuppi; n; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN
+
+#note: This is the only rubric which classifies the text as both a @i{ṣâtu} and a @i{mukallimtu} commentary. Frahm @i{GMTR} 5 (2011) p. 56 points out that this might be an indication that this is a @i{ṣâtu}-commentary on a @i{mukallimtu}-commentary, which could be translated as "Lemmata from the @i{mukallimtu}-commentary ..."
+
+$ single ruling
+13'. !bs x# [(x)]-ru-uš & !cm ša-ne-e₂ ṭe₃-mi
+#lem: u; u; +šanû[be changed//being changed]V'N$šanê; ṭēmi[(fore)thought]N
+
+#note: Gehlken follows the restoration of @i{CAD} Š 403b, Ṭ 86a and @i{AHw} 1166b: @akk{GALGA#.[KÚR].RU.UŠ}, but it is difficult to believe that such a phrase could have appeared in an omen. Cf. the Commentary on the Theodicy 12 (@i{CCP} 1.4) @i{dubbubiš} : @akk{DIMMA.KÚR.RA} : @i{dubbubu} : @i{šanê ṭēme}.
+14'. !bs [it]-kup KUR₂*# & !cm it#-ku-up {lu₂}KUR₂
+#lem: +ekēpu[come close//coming close]V'N$itkupu; +nakru[enemy]N$nakri; +ekēpu[come close//coming close]V'N$itkupu; nakri[enemy]N
+
+15'. !bs ma#-ṭe#-e KI.LAM & !cm [x] ma-ʾa-a-du
+#lem: +maṭû[be(come) little//be(com)ing little]V'N$maṭê; +mahīru[exchange rate]N$mahīri; u; +maʾādu[be(come) numerous//be(com)ing numerous]V'N$
+
+16'. ($___$) !bs {+i-dim}IDIM & !cm x# x# x#
+#lem: +kabtu[heavy//important person]AJ'N$; u; u; u
+
+17'. ($___$) !bs LAL & !cm ša₂-qu-u₂
+#lem: +šaqû[be(come) high//be(com)ing high]V'N$; šaqû[be(com)ing high]'N
+
+18'. !bs AN.TA & !cm MIN<(ša-qu-u₂)>
+#lem: +šaqû[be(come) high//be(com)ing high]V'N$; +šaqû[be(come) high//be(com)ing high]V'N$
+
+$ single ruling
+19'. !bs hur-hum-ma-tu# & !cm hu*#-[ur-hu-um-ma-tu x (x)]-šu₂
+#lem: +hurhummatu[foam]N$; +hurhummatu[foam]N$; u; u
+
+20'. !bs [(x x)] šu-ub-[x (x x) & !cm x x x x x]-x#
+#lem: u; u; u; u; u; u; u; u; u; u
+
+21'. !bs ha-ru-be₂-[e & !cm ŠE.GIŠ].I₃
+#lem: +harūbu[carob (tree)]N$harubê; +šamaššammū[sesame]N$
+
+#note: The line has been restored according to VAT 9434 o 3.
+
+22'. !bs mu-še-lu-u₂ TU₁₅-MEŠ x# [x & !cm x x x x x] ina TU₁₅ LIMMU*-BA GAR-MEŠ
+#lem: +mušēlû[that raises//(a cloud formation)]AJ'N$; šārū[wind]N; u; u; u; u; u; u; u; ina[towards]PRP; šārī[cardinal point]N; +erbe[four]N$erbetti; išakkanū[bring about]V
+
+#note: The sign MEŠ copied by Meek is no longer visible on the tablet.
+23'. !bs * U₄ ŠU₂{+am}-ma i#-[za-nun MURU₉ x x x & !cm x x x x x x x x] 
+#lem: ūm[day]N; +erēpu[cloud over]V$irrupâmma; +zanānu[rain]V$izannun; imbari[mist]N; u; u; u; u; u; u; u; u; u; u; u
+
+24'. ($___$) !bs MURU₉ la# [x x x & !cm x x x]-šu₂
+#lem: imbari[mist]N; lā[not]MOD; u; u; u; u; u; u
+
+25'. ($___$) !bs DIRI ma-ha-hu x [x x] & !cm [x x x]-ma#
+#lem: +mahāhu[soak//soaking]V'N$; +mahāhu[soak//soaking]V'N$; u; u; u; u; u; u
+
+$ single ruling
+
+26'. &2 ($___$) !zz U₄.UL.DU₃.A NIG₂.PA₃#.[DA DUB 49-KAM * U₄] AN {d}EN.LIL₂
+#lem: ṣâtu[commentary]N; mukallimti[scholarly commentary]N; +ṭuppu[tablet]N$ṭuppi; n; enūma[when]SBJ; Anu[1]DN; Ellil[1]DN
+
+@reverse
+
+27'. !bs * ina {iti}BARA₂ {tu₁₅}U₁₈.LU DU & !cm TA U₄ 1*-KAM EN U₄ 30-KAM DU{+ku}
+#lem: ina[in]PRP; Nisannu[1]MN; šūtu[south]N; illik[blow]V; ina[on]PRP; ūm[day]N; n; adi[until]PRP; ūm[day]N; n; illaku[go]V
+
+28'. !bs ila-min & !cm i-lam-min
+#lem: +lemēnu[be(come) bad]V$ilammin; +lemēnu[be(come) bad]V$ilammin
+
+29'. !bs {+šar}ŠAR₂ ra-bu-u₂ & !cm {+šar}ŠAR₂ du-uš-šu!(DU)-u₂
+#lem: +rabû[be big//being big]V'N$; +rabû[be big//being big]V'N$; +dešû[sprout//letting flourish]V'N$duššû; +dešû[sprout//letting flourish]V'N$duššû
+
+#note: The emendation of DU in @i{šu} follows Labat @i{Commentaires} (1933) p. 110. The equation ŠÁR = @i{duššû} is also attested in BM 39612 (@i{CCP} 7.2.u126).
+
+30'. ($___$) !bs {+šar}ŠAR₂ & !cm ma-ʾa-a-du
+#lem: +maʾādu[be(come) numerous//be(com)ing numerous]V'N$; maʾādu[be(com)ing numerous]'N
+
+31'. !bs DUMU GABA & !cm šu-u ṣa-ah-ru ša₂ UBUR
+#lem: mār[son]N; irat[chest]N; šū[that]IP; +ṣehru[small//child]N'N$ṣahru; ša[of]DET; tulâ[breast]N
+
+32'. ($___$) !bs HUL₂ & !cm na-ha-šu₂
+#lem: +nahāšu[be(come) luxuriant//be(com)ing luxuriant]V'N$; +nahāšu[be(come) luxuriant//be(com)ing luxuriant]V'N$
+
+33'. !bs KIN.KIN & !cm ši-te-ʾ-u₂
+#lem: +šeʾû[seek (out)//seeking constantly for]V'N$šiteʾʾû; +šeʾû[seek (out)//seeking constantly for]V'N$šiteʾʾû
+
+34'. !bs dup*-pu-ru & !cm ne₂-su-u₂ MIN<(dup-pu-ru)> ru-u₂-qu
+#lem: +duppuru[moved away]AJ$; +nesû[far]AJ$; duppuru[moved away]AJ; rūqu[distant]AJ
+
+#note: Collated, correct the reading of the first word in Meek's copy (@i{RA} 17 p. 191), Labat @i{Commentaires} (1933) p. 110 and Gehlken @i{CM} 43 (2012) p. 203f.
+35'. ($___$) !bs BAL & !cm e-nu-u₂
+#lem: +enû[change//changing]V'N$; +enû[change//changing]V'N$
+
+36'. !bs [EŠ.BAR] GAR{+in} & !cm EŠ.BAR ša₂-kin aš₂-šu₂ ITI gab-bi-šu₂ DU{+ku}
+#lem: purussâ[decision]N; šakin[located]AJ; purussâ[decision]N; šakin[located]AJ; aššu[if]'MOD; arhi[month]N; gabbišu[all]N; illaku[go]V
+
+37'. !bs [x.(x)].DA & !cm it-tu₄
+#lem: u; +ittu[sign]N$
+
+38'. !bs [GIG? GIG? ZI?]-ma & !cm mu-ru-uṣ mar-ṣu i-de-ek-ka-a
+#lem: muruṣ[illness]N; marṣu[sick]AJ; +dekû[raise]V$idekkâ; muruṣ[illness]N; marṣu[sick]AJ; +dekû[raise]V$idekkâ
+
+39'. !bs [sur]-sur & !cm za-mar
+#lem: +sursurtu[suddenly]AV$sursur; zamar[quickly]AV
+
+40'. !bs [(x x)] AN#{+u₂} & !cm ša₂-mu-u₂ da-a-ru aš₂-šu₂ za-na-an zu-un-nu
+#lem: u; u; šamû[rain]N; +šamû[rain]N$; +dāru[era]N$; aššu[if]'MOD; +zanānu[rain//raining]V'N$zanān; zunnu[rain]N
+
+#note: The restoration follows @CAD Z 34b.
+41'. !bs [na]-a#-ru & !cm miṭ-ra-tu₄ ki-ru-u₂
+#lem: +nāru[river]N$; miṭrātu[canal]N; +kirû[(fruit) plantation]N$
+
+#note: Gehlken @i{CM} 43 (2012) p.203 restores [@i{mu-š}]@i{á-ru}, but the term @i{mūšaru}, "garden," is never attested in omens, an its equation with @i{miṭrātu} would be equally unattested. The equation @i{miṭrātu} = @i{nāru}, on the other hand, is attested e.g. in @i{Malku} II 41.
+42'. [($___$) !bs x-(x)]-hu & !cm aš₂-šu₂ da-ke-e
+#lem: u; aššu[if]'MOD; dakê[lifting]'N
+
+43'. [($___$) !bs {iti}]GAN?# & !cm ITI šu-a-tu₄ KAM šu-a-tu₄
+#lem: Kislimu[1]MN; arhi[month]N; +šuāti[him//that]PP'AJ$; +šuāti[him//that]PP'AJ$; +šuāti[him//that]PP'AJ$
+
+#note: Cf. in @i{Sîn ina tāmartīšu} I 50 (Koch-Westenholz @i{ResOr} 12 [1999] p. 156): @akk{ITI.NE ITI} @i{šuātu} @akk{NE} @i{šuātu} @i{ina ṣâti qabi}, "ITI.NE means 'that month,' because NE means 'that,' as it is said in bilingual lists." Here it is assumed that the commentator plays with the homophonic signs GAN (KÁM) and KAM. 
+44'. !zz [...] & !cm ina KUR {d}UTU ZI-ma
+#lem: u; ina[in]PRP; māti[land]N; Šamaš[1]DN; itebbema[arise]V
+
+45'. !zz [x x x & !cm a?]-šam?#-šu-tu₄ aš₂-šu₂ du-luh-he-e
+#lem: u; u; u; +ašamšūtu[dust storm]N$; aššu[concerning]'PRP; +duluhhû[disturbance]N$duluhhê
+
+46'. &2 !zz [...]-ha?#-tu₄
+#lem: u
+#note: According to Frahm @i{GMTR} 5 (2011) p. 148, this line would be the first one of the final subscript.
+
+47'. &2 !zz [...] x x
+#lem: u; u; u
+
+@translation parallel en project
+
+1'. [... means ...] it rains and (the rainbow) arches (cf. @i{Enūma Anu Enlil} 47 r 19').
+2'. [... means ...] @i{arches} ... arches in the horizon.
+3'. [...] means the upper [...].
+4'. [TUKUL] (= @i{Enūma Anu Enlil} 47 unknown) means "weapon."
+5'. ["wasteland" (= @i{Enūma Anu Enlil} 47 r 40' (?))] means "uncultivated land."
+6'. [...] means "is seen."
+7'. [...] means "to blow."
+8'. [...] means "to set."
+9'. "Combat" (cf. @i{Enūma Anu Enlil} 47 r 59') means "battle."
+10'. "To discover" means "to find."
+11'. KI means "land."
+
+$ single ruling
+
+12'. Lemmata from the @i{mukallimtu}-commentary on the 48th tablet of @i{Enūma Anu Enlil}.
+
+$ single ruling
+
+13'. [...] means "to change someone's mind."
+14'. "Attack of the enemy" (e.g. @i{Enūma Anu Enlil} 48 S 9' and 33') means "attack of the enemy."
+15'. "Loss in the market" (@i{Enūma Anu Enlil} 48 S 10'f, 22'f and 34'f) means "great [...]."
+16'. IDIM (@i{Enūma Anu Enlil} 48 S 7', 19' and 20') means DUGUD, i.e., "noble."
+17'. LAL (@i{Enūma Anu Enlil} 48 35') means "an increase" (sc. in the market).
+18'. AN.TA (@i{Enūma Anu Enlil} 48 S 41') means ditto ("an increase," sc. in the harvest).
+
+$ single ruling
+
+19'. @i{ḫur-ḫum-ma-tu} (@i{Enūma Anu Enlil} 48 S 56') means "foam" (written @i{ḫ}[@i{u-ur-ḫu-ma-tu}]).
+20'. ...
+21'. "Carobs" (cf. @i{Enūma Anu Enlil} 48 S 93') means "[se]same"
+22'. "A @i{mušēlû}-cloud formation that [...] the winds" (cf. @i{Enūma Anu Enlil} 48 r 11') means that ...] are in all four directions.
+23'. "If the day gets cloudy and it [rains ] (cf. @i{Enūma Anu Enlil} 48 r 6')
+24'. Fog [...].
+25'. DIRI means "to soak" (quotation from Diri I 12) [...].
+
+$ single ruling
+
+26'. Lemmata from the @i{mukallimtu}-commentary [on the 49th tablet of @i{Enūma}] @i{Anu Enlil}.
+
+@reverse
+
+27'. "If the south wind blows during the month of Nisannu" (= @i{Enūma Anu Enlil} 49 1) means it blows from the first day until the 30th day.
+28'. @i{ila-min} (= @i{Enūma Anu Enlil} 49 1) means "he will become angry."
+30'. ŠÁR (= @i{Enūma Anu Enlil} 49 unknown) means "to be big," ŠÁR means "to let flourish."
+31'. "Son of the breast" (= @i{Enūma Anu Enlil} 49 unknown) means "he is the small one of the breast" (i.e., a suckling child).
+32'. ḪÚL (= @i{Enūma Anu Enlil} 49 unknown) means "to thrive."
+33'. KIN.KIN (= @i{Enūma Anu Enlil} 49 unknown) means "to search."
+34'. "Astray" (= @i{Enūma Anu Enlil} 49 unknown) means "distant," it also means "far away."
+35'. BAL (= @i{Enūma Anu Enlil} 49 unknown) means "to change."
+36'. "[The decision] is made" (= @i{Enūma Anu Enlil} 49 unknown) means "the decision is made" because it will blow for the whole month.
+37'. "[...]" means "ominous sign."
+38'. "[...]" means "the disease of the sick man will depart."
+39'. "Rapidly" (= @i{Enūma Anu Enlil} 49 unknown) means "quickly."
+40'. "[(... of)] rain" (= @i{Enūma Anu Enlil} 49 unknown) means "downpour forever," referring to the "raining of the rain."
+41'. "River(bank)" (= @i{Enūma Anu Enlil} 49 unknown) means "irrigated orchard" (in the sense of) "garden."
+42'. [...] on account of "to raise."
+43'. [The month of] @i{Kislīmu} (= @i{Enūma Anu Enlil} 49 unknown) means "that month," inasmuch as KAM means "that."
+44'. [...] means "(a wind) will blow at sunrise."
+45'. [...] @i{dust storm}, on accound of the disturbance.
+46'. ...
+47'. ...

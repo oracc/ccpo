@@ -1,0 +1,34 @@
+&P470031 = CCP 7.2.u152 (http://ccp.yale.edu/P470031) = BM 46271
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@column 2'
+
+
+
+1. !bs GU₃.DE₂ !cm : na-bu-u₂# !zz [...]
+#lem: +nabû[name//naming]V'N$; +nabû[name//naming]V'N$; u
+
+2. !cm {d}na-bi-um : MIN !zz : ku?#-[...]
+#lem: Nabium[1]DN; šanîš[alternatively]AV; u
+
+3. !bs DA.DA.RA !cm [: nen-bu-ṭum ...]
+#lem: +ebēṭu[swell up]V'N$nenbuṭu; +ebēṭu[swell up]V'N$nenbuṭu; u
+
+#note: Restored with @i{Nabnītu} IV-IVa 280 (@i{MSL} 16 87). Si vera lectio, the line might still contain a speculation on the name of Nabû, or on the verb @i{nabû}.
+4. !zz i-lu [...]
+#lem: ilu[god]N; u
+
+5. !zz [x] x#-[...]
+#lem: u; u
+
+@translation parallel en project
+
+1. GÚ.DÈ means "to name" (@i{nabû}), [...],
+2. i.e., the god Nabû; the same can mean [...];
+3. DA.DA.RA means ["@i{to be swollen}," ...],
+4. @i{god} [...]
+5. ...

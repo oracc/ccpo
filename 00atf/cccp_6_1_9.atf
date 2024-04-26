@@ -1,0 +1,108 @@
+&P348559 = CCP 6.1.9 (http://ccp.yale.edu/P348559) = IM 74411
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+#atf: use legacy
+@tablet
+
+@obverse
+
+1'. !bs [* du-u] & !bs KAK & !zz x#-x# [x] x# [...]
+#lem: X; X; u; u; u; u
+
+#tr.en: @i{kak}, [read /du/,] means … […]
+2'. !zz & & !cm ba-nu-u₂ : !qt x# x# [...]
+#lem: +banû[create//creating]V'N$; u; u; u
+
+#tr.en:   it means “to create,” (as in) […]
+3'. !zz & & !cm ša₂ ina EŠ₂.GAR₃ A[N ...]
+#lem: ša[that]REL; ina[in]PRP; iškāri[text series]N; u; u
+
+#tr.en:   which [is said] in the series … […].
+4'. !zz & & !cm ša₂-niš a-sa-am-[...]
+#lem: šanîš[alternatively]AV; u
+
+#tr.en:   alternatively, … […]
+5'. !zz & & !zz {+ša?}ŠAH? : ba-ba-x# [...]
+#lem: u; u; u
+
+#tr.en:  … […] 
+6'. !zz & & !zz ša₂ {+le}lem-nu x# [...]
+#lem: ša[of]DET; +lemnu[bad]N$; u; u
+#tr.en: @i{said of an evil person} … […] 
+7'. !bs * du₃?# & !bs KAK & !cm li-tu : li-[(il)-li-du ...]
+#lem: X; +littu[descendant]N$; +littu[descendant]N$; +lillidu[offspring]N$; u
+
+#tr.en: @i{kak}, @i{read dù}, means “descendants,” (i.e.,) “chi[ldren” …]
+#note: Compare 11N-T3 ll. 30, 35, and 36 (@i{CCP} 4.2.A.a): @akk{{+du-u}DU₃ : lil-li-du}.
+8'. !zz & & !cm lub-ša ša G[I-MEŠ ...]
+#lem: +lubšu[clothing]N$lubša; ša[of]DET; qanê[reed arrow]N; u
+
+#tr.en:   “cover made of r[eeds” …]
+#note: Compare @i{Ḫg} A II 23ff. (@i{MSL} 7 p. 68): @akk{GI.ŠE.DÙ} = @akk{hab-bur-ru} = @akk{lub-šu ša GI-MEŠ}.
+9'. !zz & & !zz ša i-i?-tu₄ [...]
+#lem: ša[that]REL; X; u
+#note: The reading adopted in @i{MSL} 14 p. 267, @akk{TUR.TUR-tu₄}, does not fit the traces.
+10'. !zz & & !zz lib₃-bu-u₂ ša₂ x#-[...]
+#lem: libbū[meaning]PRP; ša[of]DET; u
+
+#tr.en: as in … […]
+11'. !zz & & !zz ha-x-ah?# la [...]
+#lem: u; u; u
+
+#tr.en:  … […]
+$ rest of obverse broken
+
+@left
+
+1'. !zz (x#)-du#-um# :# [...]
+#lem: u; u
+
+#tr.en: … […]
+2'. !zz x# : sa-x# [...]
+#lem: u; u; u
+
+#tr.en: … […]
+
+@reverse
+1'. !zz & & !zz it-[...]
+#lem: u
+
+#tr.en: … […]
+2'. !zz & & !zz NI : x# [...]
+#lem: X; u; u
+
+#tr.en: … […]
+3'. !zz & & !zz ša₂ pa-[...]
+#lem: ša[of]DET; u
+
+#tr.en: … […]
+4'. !zz & & !zz NE [...]
+#lem: Abu[1]MN; u
+
+#tr.en: … […]
+5'. !zz & & !zz x# [...]
+#lem: u; u
+
+#tr.en: … […]
+6'. !zz & & !zz š[u ...]
+#lem: šū[that]IP; u
+
+#tr.en: … […]
+7'. !zz & & !zz x# [...]
+#lem: u; u
+
+#tr.en: … […]
+8'. !zz & & !zz ša₂ [...]
+#lem: ša[of]DET; u
+
+#tr.en: … […]
+$ rest of reverse broken
+
+@right
+1'. !zz [...] x x#-zu : x ka-a-šu₂ !zz [...]
+#lem: u; u; u; u; kâšu[delaying]'N; u
+
+#tr.en: […] … @i{“to linger”} […]
+#note: As noted by Civil, @i{MSL} 14 p. 268, @i{ka-a-šú} is also attested in LB 852 o 15′ (@i{CCP} 6.1.9.B).

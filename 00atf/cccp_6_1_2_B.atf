@@ -1,0 +1,85 @@
+&P461183 = CCP 6.1.2.B (http://ccp.yale.edu/P461183) = BM 40350
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+@face a
+
+1'. !zz [...] & [...] x# x# x# [...]
+#lem: u; u; u; u; u; u
+
+2'. !zz [...] & x# x# A?#.ŠA₃ : še-x# [...]
+#lem: u; u; u; eqli[field]N; u; u
+
+3'. !zz [...] & !cm ša₂-niš !bs IG{+e} : i-ki !cm : MIN !zz : x# [...]
+#lem: u; šanîš[alternatively]AV; +īku[dyke]N$; īki[dyke]N; šanîš[alternatively]AV; u; u
+
+#note: Compare @akk{E} = @i{īku} e.g. in @i{CAD} I/J 66-67.
+4'. !zz [...] & !bs KUR# : !cm na-ka-su : !bs BAD{+x} !zz [...]
+#lem: u; +nakāsu[cut//cutting]V'N$; nakāsu[cutting]'N; u; u
+
+#note: The first sign is certainly not @akk{TAR}.
+5'. !zz [...] & !bs A.ŠA₃ !cm : eq-lu : !bs GA !zz {(he-pi₂)} : [...]
+#lem: u; eqli[field]N; eqlu[field]N; u; hepi[broken]AJ; u
+
+#note: @i{ḫe-pí} is probably written over an erasure. 
+6'. !zz [...] & !bs I !cm : a-ṣu-u : ša₂-niš !bs A !zz : zi#-[...]
+#lem: u; +aṣû[go out//going out]V'N$; aṣû[going out]'N; šanîš[alternatively]AV; u; u
+
+7'. !zz [...] & !bs u₂-ga!(TA)-ri GARIM : MIN : ṣe-e#-[ru !zz ...]
+#lem: u; +ugāru[meadow]N$ugāri; +tawwertum[meadow]N$tamirtu; šanîš[alternatively]AV; +ṣēru[back]N$; u
+
+8'. !zz [...] & !bs U₂ !cm : iṣ-ṣi : !bs GAR₃ !cm : u₂-x#-[...]
+#lem: u; šammi[plant(s)]N; iṣṣi[tree]N; X; u
+
+#note: The line probably contains an etymographic analysis of the word @i{ugāru}, "meadow." At the end, @akk{u₂-ga#-[ru]} is a possibility. The line may comment on @i{Aa} I/2 l. 252.
+
+9'. !zz [...] & x#-al-ṭu# !cm : E₂ man-za-za !zz x# [...]
+#lem: u; u; bīt[house]N; manzaza[standing]AJ; u; u
+
+10'. !zz [...] & x# x# [x x] x# [...]
+#lem: u; u; u; u; u; u; u
+
+@face b
+1'. !zz [...] & [...] x# x# [...]
+#lem: u; u; u; u; u
+
+2'. !zz [...] & x# x# x# : !bs TI !cm : ṣe-li?# !zz [...]
+#lem: u; u; u; u; +ṣēlu[rib]N$; ṣēlī[rib]N; u
+
+3'. !zz [...] x# & !cm KA.KA.SI.GA !zz : tu-dam x# x# x# [...]
+#lem: u; u; +tēltu[saying]N$; X; u; u; u; u
+
+#note: On the technical lexical term @akk{KA.KA.SI.GA}, "pronunciation," see @i{MSL} 14 p. 150.
+4'. !zz [...] & x# x# x# [x] x# ga# x# x# x# [...]
+#lem: u; u; u; u; u; u; X; u; u; u; u
+
+5'. !zz [...] & [...] x# : x# x# ri# x# [...]
+#lem: u; u; u; u; u; X; u; u
+
+6'. !zz [...] & [...] dam# x# x# [...]
+#lem: u; u; X; u; u; u
+
+@translation parallel en project
+
+@face a
+1'. ...
+2'. [...] @i{field} [...]
+3'. [...] alternatively, IG, read /e/, means "dyke," ... [...]
+4'. [...] KUR means "to cut," BAD, read ... [...],
+5'. [...] A.ŠÀ means "field," ... (broken) [...],
+6'. [...] I means "to go out," alternatively, A means ... [...]
+7'. [... means] "meadow of the farmland," ditto means "ste[ppe" ...] 
+8'. [...] Ú means "tree," GÀR means ... [...]
+9'. [...] ... means @i{house of the position} (?) ... [...]
+10'. ...
+
+@face b
+
+1'. ...
+2'. [...] ... TI means "ri[b" ...],
+3'. [...] ... is the phonetic pronunciation.
+4'. ...
+5'. ...

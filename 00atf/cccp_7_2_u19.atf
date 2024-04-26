@@ -1,0 +1,38 @@
+&P461150 = CCP 7.2.u19 (http://ccp.yale.edu/P461150) = BM 37212
+#project: ccpo
+#atf: lang akk-x-stdbab
+#atf: use unicode
+#atf: use math
+@tablet
+
+1'. !zz [...] x x [...]
+#lem: u; u; u; u
+
+2'. !zz [...] KIMIN# : ra-x#-[...]
+#lem: u; X; u
+
+3'. !zz [...] KIMIN# : !cm tab-bi-be !zz : x#-[...]
+#lem: u; X; X; u
+
+4'. !zz [...]-x# : !bs ta-mat-ma ul !zz x#-[...]
+#lem: u; +tamû[sworn]AJ$tamâtma; ul[not]MOD; u
+
+5'. !zz [...] !bs LUH# !cm : sa-la-hu !zz : an-x# [...]
+#lem: u; +salāhu[sprinkle//sprinkling]V'N$; salāhu[sprinkling]'N; u; u
+
+#note: The first equation is seemingly elsewhere unattested.
+6'. !zz [...]-x#-ma : !cm ša₂-niš u₂-ru-šu₂ !zz pi?#-[...]
+#lem: u; šanîš[alternatively]AV; +urūšu[dirtiness]N$; u
+
+7'. !zz [...]-ra?#-nu : !bs uṭ-ṭa-at !cm : ana uṭ#-[...]
+#lem: u; +uṭṭatu[grain]N$uṭṭat; ana[according to]PRP; u
+
+@translation parallel en project
+
+1'. ...
+2'. [...] ditto means [...]
+3'. [...] ditto means "@i{you purify}" [...]
+4'. [...] "@i{you are sworn} and not [...]"
+5'. [...] LUH means "to sprinkle"; ... [...]
+6'. [...] ..., alternatively, @i{dirtiness} [...]
+7'. [...] ... @i{grain of barley} derives from [...]
